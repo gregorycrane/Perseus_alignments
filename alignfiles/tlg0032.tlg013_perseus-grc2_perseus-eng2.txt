@@ -1,0 +1,1960 @@
+
+cts:urn:tlg0032.tlg013:1.1
+glaux1.0-sentence	1
+perseus-grc2	 ἐπειδὴ διὰ τὸ συμβῆναι ἡμῖν πολὺν χρόνον ἱππεύειν οἰόμεθα ἔμπειροι ἱππικῆς γεγενῆσθαι , βουλόμεθα καὶ τοῖς νεωτέροις τῶν φίλων δηλῶσαι ᾗ ἂν νομίζομεν αὐτοὺς ὀρθότατα ἵπποις προσφέρεσθαι .
+perseus-eng2	 Inasmuch as we have had a long experience of cavalry, and consequently claim familiarity with the art of horsemanship, we wish to explain to our younger friends what we believe to be the correct method of dealing with horses.
+
+cts:urn:tlg0032.tlg013:1.1
+glaux1.0-sentence	2
+perseus-grc2	 συνέγραψε μὲν οὖν καὶ Σίμων περὶ ἱππικῆς , ὃς καὶ τὸν κατὰ τὸ Ἐλευσίνιον Ἀθήνησιν ἵππον χαλκοῦν ἀνέθηκε καὶ ἐν τῷ βάθρῳ τὰ ἑαυτοῦ ἔργα ἐξετύπωσεν ·
+perseus-eng2	 True there is already a treatise on horsemanship by Simon, who also dedicated the bronze horse in the Eleusinium at Athens and recorded his own feats in relief on the pedestal.
+
+cts:urn:tlg0032.tlg013:1.1
+glaux1.0-sentence	3
+perseus-grc2	 ἡμεῖς γε μέντοι ὅσοις συνετύχομεν τ- αὐτὰ γνόντες ἐκείνῳ , οὐκ ἐξαλείφομεν ἐκ τῶν ἡμετέρων , ἀλλὰ πολὺ ἥδιον παραδώσομεν αὐτὰ τοῖς φίλοις , νομίζοντες ἀξιοπιστότερα εἶναι ὅτι κ- ἐκεῖνος κατὰ τ- αὐτὰ ἡμῖν ἔγνω ἱππικὸς ὤν ·
+perseus-eng2	 Nevertheless, we shall not erase from our work the conclusions that happen to coincide with his, but shall offer them to our friends with far greater pleasure, in the belief that they are more worthy of acceptance because so expert a horseman held the same opinions as we ourselves:
+
+cts:urn:tlg0032.tlg013:1.1
+glaux1.0-sentence	4
+perseus-grc2	 καὶ ὅσα δὴ παρέλιπεν ἡμεῖς πειρασόμεθα δηλῶσαι .
+perseus-eng2	 moreover, we shall try to explain all the points that he has omitted.
+
+cts:urn:tlg0032.tlg013:1.1
+glaux1.0-sentence	5
+perseus-grc2	 πρῶτον δὲ γράψομεν ὡς ἄν τις ἥκιστα ἐξαπατῷτο ἐν ἱππωνίᾳ .
+perseus-eng2	 First we will give directions how best to avoid being cheated in buying a horse.
+
+cts:urn:tlg0032.tlg013:1.1
+glaux1.0-sentence	6
+perseus-grc2	 τοῦ μὲν τοίνυν ἔτι ἀδαμάστου πώλου δῆλον ὅτι τὸ σῶμα δεῖ δοκιμάζειν ·
+perseus-eng2	 For judging an unbroken colt, the only criterion, obviously, is the body,
+
+cts:urn:tlg0032.tlg013:1.1
+glaux1.0-sentence	7
+perseus-grc2	 τῆς γὰρ ψυχῆς οὐ πάνυ σαφῆ τεκμήρια παρέχεται ὁ μήπω ἀναβαινόμενος .
+perseus-eng2	 for no clear signs of temper are to be detected in an animal that has not yet had a man on his back.
+
+cts:urn:tlg0032.tlg013:1.2
+glaux1.0-sentence	8
+perseus-grc2	 τοῦ γε μὴν σώματος πρῶτόν φαμεν χρῆναι τοὺς πόδας σκοπεῖν .
+perseus-eng2	 In examining his body, we say you must first look at his feet.
+
+cts:urn:tlg0032.tlg013:1.2
+glaux1.0-sentence	9
+perseus-grc2	 ὥσπερ γὰρ οἰκίας οὐδὲν ὄφελος ἂν εἴη , εἰ τὰ ἄνω πάνυ καλὰ ἔχοι μὴ ὑποκειμένων οἵων δεῖ θεμελίων , οὕτω καὶ ἵππου πολεμιστηρίου οὐδὲν ἂν ὄφελος εἴη , οὐδ’ εἰ τ- ἄλλα πάντα ἀγαθὰ ἔχοι , κακόπους δ’ εἴη ·
+perseus-eng2	 For, just as a house is bound to be worthless less if the foundations are unsound, however well the upper parts may look, so a war-horse will be quite useless, even though all his other points are good, if he has bad feet;
+
+cts:urn:tlg0032.tlg013:1.2
+glaux1.0-sentence	10
+perseus-grc2	 οὐδενὶ γὰρ ἂν δύναιτο τῶν ἀγαθῶν χρῆσθαι .
+perseus-eng2	 for in that case he will be unable to use any of his good points.
+
+cts:urn:tlg0032.tlg013:1.3
+glaux1.0-sentence	11
+perseus-grc2	 πόδας δ’ ἄν τις δοκιμάζοι πρῶτον μὲν τοὺς ὄνυχας σκοπῶν ·
+perseus-eng2	 When testing the feet first look to the hoofs.
+
+cts:urn:tlg0032.tlg013:1.3
+glaux1.0-sentence	12
+perseus-grc2	 οἱ γὰρ παχεῖς πολὺ τῶν λεπτῶν διαφέρουσιν εἰς εὐποδίαν ·
+perseus-eng2	 For it makes a great difference in the quality of the feet if they are thick rather than thin.
+
+cts:urn:tlg0032.tlg013:1.3
+glaux1.0-sentence	13
+perseus-grc2	 ἔπειτα οὐδὲ τοῦτο δεῖ λανθάνειν , πότερον αἱ ὁπλαί εἰσιν ὑψηλαὶ ἢ ταπειναὶ καὶ ἔμπροσθεν καὶ ὄπισθεν ἢ χαμηλαί .
+perseus-eng2	 Next you must not fail to notice whether the hoofs are high both in front and behind, or low.
+
+cts:urn:tlg0032.tlg013:1.3
+glaux1.0-sentence	14
+perseus-grc2	 αἱ μὲν γὰρ ὑψηλαὶ πόρρω ἀπὸ τοῦ δαπέδου ἔχουσι τὴν χελιδόνα καλουμένην , αἱ δὲ ταπειναὶ ὁμοίως βαίνουσι τῷ τε ἰσχυροτάτῳ καὶ τῷ μαλακωτάτῳ τοῦ ποδός , ὥσπερ οἱ βλαισοὶ τῶν ἀνθρώπων ·
+perseus-eng2	 For high hoofs have the frog, as it is called, well off the ground; but flat hoofs tread with the strongest and weakest part of the foot simultaneously, like a bow-legged man.
+
+cts:urn:tlg0032.tlg013:1.3
+glaux1.0-sentence	15
+perseus-grc2	 καὶ τῷ ψόφῳ δὲ ἔφη Σίμων δήλους εἶναι τοὺς εὔποδας , καλῶς λέγων ·
+perseus-eng2	 Moreover, Simon says that the ring, too, is a clear test of good feet:
+
+cts:urn:tlg0032.tlg013:1.3
+glaux1.0-sentence	16
+perseus-grc2	 ὥσπερ γὰρ κύμβαλον ψοφεῖ πρὸς τὸ δάπεδον ἡ κοίλη ὁπλή .
+perseus-eng2	 and he is right; for a hollow hoof rings like a cymbal in striking the ground.
+
+cts:urn:tlg0032.tlg013:1.4
+glaux1.0-sentence	17
+perseus-grc2	 ἐπεὶ δὲ ἠρξάμεθα ἐντεῦθεν , ταύτῃ καὶ ἀναβησόμεθα πρὸς τὸ ἄλλο σῶμα .
+perseus-eng2	 Having begun here, we will proceed upwards by successive steps to the rest of the body.
+
+cts:urn:tlg0032.tlg013:1.4
+glaux1.0-sentence	18
+perseus-grc2	 δεῖ τοίνυν καὶ τὰ ἀνωτέρω μὲν τῶν ὁπλῶν , κατωτέρω δὲ τῶν κυνηπόδων ὀστᾶ μήτε ἄγαν ὀρθὰ εἶναι ὥσπερ αἰγός ·
+perseus-eng2	 The bones (of the pastern) above the hoofs and below the fetlocks should not be too upright, like a goat’s:
+
+cts:urn:tlg0032.tlg013:1.4
+glaux1.0-sentence	19
+perseus-grc2	 ἀντιτυπώτερα γὰρ ὄντα κόπτει τε τὸν ἀναβάτην καὶ παραπίμπραται μᾶλλον τὰ τοιαῦτα σκέλη ·
+perseus-eng2	 such legs give too hard a tread, jar the rider, and are more liable to inflammation.
+
+cts:urn:tlg0032.tlg013:1.4
+glaux1.0-sentence	20
+perseus-grc2	 οὐδὲ μὴν ἄγαν ταπεινὰ τὰ ὀστᾶ δεῖ εἶναι ·
+perseus-eng2	 Nor yet should the bones be too low,
+
+cts:urn:tlg0032.tlg013:1.4
+glaux1.0-sentence	21
+perseus-grc2	 ψιλοῖντο γὰρ ἂν καὶ ἑλκοῖντο οἱ κυνήποδες εἴτ’ ἐν βώλοις εἴτ’ ἐν λίθοις ἐλαύνοιτο ὁ ἵππος .
+perseus-eng2	 else the fetlocks are likely to become bare and sore when the horse is ridden over clods or stones.
+
+cts:urn:tlg0032.tlg013:1.5
+glaux1.0-sentence	22
+perseus-grc2	 τῶν γε μὴν κνημῶν τὰ ὀστᾶ παχέα χρὴ εἶναι ·
+perseus-eng2	 The bones of the shanks should be thick, since these are the pillars of the body;
+
+cts:urn:tlg0032.tlg013:1.5
+glaux1.0-sentence	23
+perseus-grc2	 ταῦτα γάρ ἐστι στήριγγες τοῦ σώματος ·
+perseus-eng2	 but not thick with veins nor with flesh,
+
+cts:urn:tlg0032.tlg013:1.5
+glaux1.0-sentence	24
+perseus-grc2	 οὐ μέντοι φλεψί γε οὐδὲ σαρξὶ παχέα ·
+perseus-eng2	 else when the horse is ridden over hard ground, these parts are bound to become charged with blood and varicose;
+
+cts:urn:tlg0032.tlg013:1.5
+glaux1.0-sentence	25
+perseus-grc2	 εἰ δὲ μή , ὅταν ἐν σκληροῖς ἐλαύνηται , ἀνάγκη αἵματος ταῦτα πληροῦσθαι καὶ κρισσοὺς γίγνεσθαι , καὶ παχύνεσθαι μὲν τὰ σκέλη , ἀφίστασθαι δὲ τὸ δέρμα .
+perseus-eng2	 the legs will swell, and the skin will fall away, and when this gets loose the pin, too, is apt to give way and lame the horse.
+
+cts:urn:tlg0032.tlg013:1.5
+glaux1.0-sentence	26
+perseus-grc2	 χαλῶντος δὲ τούτου πολλάκις καὶ ἡ περόνη ἀποστᾶσα χωλὸν ἀπέδειξε τὸν ἵππον .
+perseus-eng2	 The bones of the shanks should be thick, since these are the pillars of the body; but not thick with veins nor with flesh, else when the horse is ridden over hard ground, these parts are bound to become charged with blood and varicose; the legs will swell, and the skin will fall away, and when this gets loose the pin, too, is apt to give way and lame the horse.
+
+cts:urn:tlg0032.tlg013:1.6
+glaux1.0-sentence	27
+perseus-grc2	 τά γε μὴν γόνατα ἢν βαδίζων ὁ πῶλος ὑγρῶς κάμπτῃ , εἰκάζοις ἂν καὶ ἱππεύοντα ὑγρὰ ἕξειν τὰ σκέλη ·
+perseus-eng2	 If the colt’s knees are supple when bending as he walks, you may guess that his legs will be supple when he is ridden too,
+
+cts:urn:tlg0032.tlg013:1.6
+glaux1.0-sentence	28
+perseus-grc2	 πάντες γὰρ προϊόντος τοῦ χρόνου ὑγροτέρως κάμπτουσιν ἐν τοῖς γόνασι .
+perseus-eng2	 for all horses acquire greater suppleness at the knee as time goes on.
+
+cts:urn:tlg0032.tlg013:1.6
+glaux1.0-sentence	29
+perseus-grc2	 τὰ δὲ ὑγρὰ δικαίως εὐδοκιμεῖ ·
+perseus-eng2	 Supple knees are rightly approved,
+
+cts:urn:tlg0032.tlg013:1.6
+glaux1.0-sentence	30
+perseus-grc2	 ἀπταιστότερον γὰρ καὶ ἀκοπώτερον τὸν ἵππον τῶν σκληρῶν σκελῶν παρέχει .
+perseus-eng2	 since they render the horse less likely to stumble and tire than stiff legs.
+
+cts:urn:tlg0032.tlg013:1.7
+glaux1.0-sentence	31
+perseus-grc2	 μηροί γε μέντοι οἱ ὑπὸ ταῖς ὠμοπλάταις ἢν παχεῖς ὦσιν , ἰσχυρότεροί τε καὶ εὐπρεπέστεροι ὥσπερ ἀνδρὸς φαίνονται .
+perseus-eng2	 The arms below the shoulders, as in man, are stronger and better looking if they are thick.
+
+cts:urn:tlg0032.tlg013:1.7
+glaux1.0-sentence	32
+perseus-grc2	 καὶ μὴν στέρνα πλατύτερα ὄντα καὶ πρὸς κάλλος καὶ πρὸς ἰσχὺν καὶ πρὸς τὸ μὴ ἐπαλλὰξ ἀλλὰ διὰ πολλοῦ τὰ σκέλη φέρειν εὐφυέστερα .
+perseus-eng2	 A chest of some width is better formed both for appearance and for strength, and for carrying the legs well apart without crossing.
+
+cts:urn:tlg0032.tlg013:1.8
+glaux1.0-sentence	33
+perseus-grc2	 ἀπό γε μὴν τοῦ στέρνου ὁ μὲν αὐχὴν αὐτοῦ μὴ ὥσπερ κάπρου προπετὴς πεφύκοι , ἀλλ’ ὥσπερ ἀλεκτρυόνος ὀρθὸς πρὸς τὴν κορυφὴν ἥκοι , λαγαρὸς δὲ εἴη τὰ κατὰ τὴν συγκαμπήν , ἡ δὲ κεφαλὴ ὀστώδης οὖσα μικρὰν σιαγόνα ἔχοι .
+perseus-eng2	 His neck should not hang downwards from the chest like a boar’s, but stand straight up to the crest, like a cock’s; but it should be flexible at the bend; and the head should be bony, with a small cheek.
+
+cts:urn:tlg0032.tlg013:1.8
+glaux1.0-sentence	34
+perseus-grc2	 οὕτως ὁ μὲν τράχηλος πρὸ τοῦ ἀναβάτου ἂν εἴη , τὸ δὲ ὄμμα τὰ πρὸ τῶν ποδῶν ὁρῴη .
+perseus-eng2	 Thus the neck will protect the rider, and the eye see what lies before the feet.
+
+cts:urn:tlg0032.tlg013:1.8
+glaux1.0-sentence	35
+perseus-grc2	 καὶ βιάζεσθαι δὲ ἥκιστ’ ἂν δύναιτο ὁ τοιοῦτον σχῆμα ἔχων καὶ εἰ πάνυ θυμοειδὴς εἴη ·
+perseus-eng2	 Besides, a horse of such a mould will have least power of running away, be he never so high-spirited,
+
+cts:urn:tlg0032.tlg013:1.8
+glaux1.0-sentence	36
+perseus-grc2	 οὐ γὰρ ἐγκάμπτοντες ἀλλ’ ἐκτείνοντες τὸν τράχηλον καὶ τὴν κεφαλὴν βιάζεσθαι οἱ ἵπποι ἐπιχειροῦσι .
+perseus-eng2	 for horses do not arch the neck and head, but stretch them out when they try to run away.
+
+cts:urn:tlg0032.tlg013:1.9
+glaux1.0-sentence	37
+perseus-grc2	 σκοπεῖν δὲ χρὴ καὶ εἰ ἀμφότεραι μαλακαὶ αἱ γνάθοι ἢ σκληρὰ ἡ ἑτέρα .
+perseus-eng2	 You should notice, too, whether both jaws are soft or hard, or only one;
+
+cts:urn:tlg0032.tlg013:1.9
+glaux1.0-sentence	38
+perseus-grc2	 ἑτερόγναθοι γὰρ ὡς τὰ πολλὰ οἱ μὴ ὁμοίας τὰς γνάθους ἔχοντες γίγνονται .
+perseus-eng2	 for horses with unequal jaws are generally unequally sensitive in the mouth.
+
+cts:urn:tlg0032.tlg013:1.9
+glaux1.0-sentence	39
+perseus-grc2	 καὶ μὴν τὸ ἐξόφθαλμον εἶναι ἐγρηγορὸς μᾶλλον φαίνεται τοῦ κοιλοφθάλμου , καὶ ἐπὶ πλέον δ’ ἂν ὁ τοιοῦτος ὁρῴη .
+perseus-eng2	 A prominent eye looks more alert than one that is hollow, and, apart from that, it gives the horse a greater range of vision.
+
+cts:urn:tlg0032.tlg013:1.10
+glaux1.0-sentence	40
+perseus-grc2	 καὶ μυκτῆρές γε οἱ ἀναπεπταμένοι τῶν συμπεπτωκότων εὐπνοώτεροί τε ἅμα εἰσὶ καὶ γοργότερον τὸν ἵππον ἀποδεικνύουσι .
+perseus-eng2	 And wide open nostrils afford room for freer breathing than close ones,
+
+cts:urn:tlg0032.tlg013:1.10
+glaux1.0-sentence	41
+perseus-grc2	 καὶ γὰρ ὅταν ὀργίζηται ἵππος ἵππῳ ἢ ἐν ἱππασίᾳ θυμῶται , εὐρύνει μᾶλλον τοὺς μυκτῆρας .
+perseus-eng2	 and at the same time make the horse look fiercer, for whenever a horse is angry with another or gets excited under his rider, he dilates his nostrils.
+
+cts:urn:tlg0032.tlg013:1.11
+glaux1.0-sentence	42
+perseus-grc2	 καὶ μὴν κορυφὴ μὲν μείζων , ὦτα δὲ μικρότερα ἱππωδεστέραν τὴν κεφαλὴν ἀποφαίνει .
+perseus-eng2	 A fairly large crest and fairly small ears give the more characteristic shape to a horse’s head.
+
+cts:urn:tlg0032.tlg013:1.11
+glaux1.0-sentence	43
+perseus-grc2	 ἡ δ’ αὖ ὑψηλὴ ἀκρωμία τῷ τε ἀναβάτῃ ἀσφαλεστέραν τὴν ἕδραν καὶ τοῖς ὤμοις καὶ τῷ σώματι ἰσχυροτέραν τὴν πρόσφυσιν παρέχεται .
+perseus-eng2	 High withers offer the rider a safer seat and a stronger grip on the shoulders.
+
+cts:urn:tlg0032.tlg013:1.11
+glaux1.0-sentence	44
+perseus-grc2	 ῥάχις γε μὴν ἡ διπλῆ τῆς ἁπλῆς καὶ ἐγκαθῆσθαι μαλακωτέρα καὶ ἰδεῖν ἡδίων .
+perseus-eng2	 The double back is both softer to sit on than the single and more pleasing to the eye.
+
+cts:urn:tlg0032.tlg013:1.12
+glaux1.0-sentence	45
+perseus-grc2	 καὶ πλευρὰ δὲ ἡ βαθυτέρα καὶ πρὸς τὴν γαστέρα ὀγκωδεστέρα ἅμα εὐεδρότερόν τε καὶ ἰσχυρότερον καὶ εὐχιλότερον ὡς ἐπὶ πολὺ τὸν ἵππον παρέχεται .
+perseus-eng2	 The deeper the flanks and the more swelling toward the belly, the firmer is the seat and the stronger, and as a rule, the better feeder is the horse.
+
+cts:urn:tlg0032.tlg013:1.12
+glaux1.0-sentence	46
+perseus-grc2	 ὀσφῦς γε μὴν ὅσῳ ἂν πλατυτέρα τε καὶ βραχυτέρα ᾖ , τοσούτῳ ῥᾷον μὲν ὁ ἵππος τὰ πρόσθεν αἴρεται , ῥᾷον δὲ τὰ ὄπισθεν προσάγεται ·
+perseus-eng2	 The broader and shorter the loins, the more easily the horse lifts his fore quarters and the more easily he brings up his hind quarters.
+
+cts:urn:tlg0032.tlg013:1.12
+glaux1.0-sentence	47
+perseus-grc2	 καὶ ὁ κενεὼν δὲ οὕτω μικρότατος φαίνεται , ὅσπερ μέγας ὢν μέρος μέν τι καὶ αἰσχύνει , μέρος δέ τι καὶ ἀσθενέστερον καὶ δυσφορώτερον αὖ τὸν ἵππον παρέχεται .
+perseus-eng2	 And, apart from that, the belly looks smallest so, and if it is big it disfigures the horse to some extent, and also makes him to some extent both weaker and clumsier.
+
+cts:urn:tlg0032.tlg013:1.13
+glaux1.0-sentence	48
+perseus-grc2	 τά γε μὴν ἰσχία πλατέα μὲν εἶναι χρὴ καὶ εὔσαρκα , ἵνα ἀκόλουθα ᾖ ταῖς πλευραῖς καὶ τοῖς στέρνοις ·
+perseus-eng2	 The haunches must be broad and fleshy, that they may be in right proportion to the flanks and chest,
+
+cts:urn:tlg0032.tlg013:1.13
+glaux1.0-sentence	49
+perseus-grc2	 ἢν δὲ πάντα στερεὰ ᾖ , κουφότερα ἂν τὰ πρὸς τὸν δρόμον εἴη καὶ ὀξύτερον μᾶλλον ἂν τὸν ἵππον παρέχοιτο .
+perseus-eng2	 and if they are firm all over, they will be lighter for running and will make the horse speedier.
+
+cts:urn:tlg0032.tlg013:1.14
+glaux1.0-sentence	50
+perseus-grc2	 μηρούς γε μὴν τοὺς ὑπὸ τῇ οὐρᾷ ἢν ἅμα πλατείᾳ τῇ γραμμῇ διωρισμένους ἔχῃ , οὕτω καὶ τὰ ὄπισθεν σκέλη διὰ πολλοῦ ὑποθήσει .
+perseus-eng2	 If the gap that separates the hams under the tail is broad, he will also extend his hind legs well apart under his belly;
+
+cts:urn:tlg0032.tlg013:1.14
+glaux1.0-sentence	51
+perseus-grc2	 τοῦτο δὲ ποιῶν ἅμα γοργοτέραν τε καὶ ἰσχυροτέραν ἕξει τὴν ὑπόβασίν τε καὶ ἱππασίαν καὶ ἅπαντα βελτίων ἔσται ἑαυτοῦ .
+perseus-eng2	 and by doing that he will be more fiery and stronger when he throws himself on his haunches and when he is ridden, and will make the best of himself in all ways.
+
+cts:urn:tlg0032.tlg013:1.14
+glaux1.0-sentence	52
+perseus-grc2	 τεκμήραιο δ’ ἂν καὶ ἀπ’ ἀνθρώπων ·
+perseus-eng2	 One can infer this from the action of a man:
+
+cts:urn:tlg0032.tlg013:1.14
+glaux1.0-sentence	53
+perseus-grc2	 ὅταν γάρ τι ἀπὸ τῆς γῆς ἄρασθαι βούλωνται , διαβαίνοντες πάντες μᾶλλον ἢ συμβεβηκότες ἐπιχειροῦσιν αἴρεσθαι .
+perseus-eng2	 for when he wants to lift anything from the ground, a man invariably tries to lift it with his legs apart rather than close together.
+
+cts:urn:tlg0032.tlg013:1.15
+glaux1.0-sentence	54
+perseus-grc2	 τούς γε μὴν ὄρχεις δεῖ μὴ μεγάλους τὸν ἵππον ἔχειν , ὃ οὐκ ἔστι πώλου κατιδεῖν .
+perseus-eng2	 A horse’s stones should not be big: but it is impossible to observe this in a colt.
+
+cts:urn:tlg0032.tlg013:1.15
+glaux1.0-sentence	55
+perseus-grc2	 περί γε μὴν τῶν κάτωθεν , ἀστραγάλων ἢ κνημῶν καὶ κυνηπόδων καὶ ὁπλῶν , τ- αὐτὰ λέγομεν ἅπερ περὶ τῶν ἔμπροσθεν .
+perseus-eng2	 As for the parts below, the hocks, shin bones, fetlocks and hoofs, what we have said about the corresponding parts in the forelegs applies to these also.
+
+cts:urn:tlg0032.tlg013:1.16
+glaux1.0-sentence	56
+perseus-grc2	 γράψαι δὲ βούλομαι καὶ ἐξ ὧν ἂν περὶ μεγέθους ἥκιστα ἀποτυγχάνοι τις .
+perseus-eng2	 I want also to explain how one is least likely to be disappointed in the matter of size.
+
+cts:urn:tlg0032.tlg013:1.16
+glaux1.0-sentence	57
+perseus-grc2	 ὅτου γὰρ ἂν ὦσιν αἱ κνῆμαι εὐθὺς γιγνομένου ὑψηλόταται , οὗτος μέγιστος γίγνεται .
+perseus-eng2	 The colt that is longest in the shanks at the time he is foaled makes the biggest horse.
+
+cts:urn:tlg0032.tlg013:1.16
+glaux1.0-sentence	58
+perseus-grc2	 προϊόντος γὰρ τοῦ χρόνου πάντων τῶν τετραπόδων αἱ μὲν κνῆμαι εἰς μέγεθος οὐ μάλα αὔξονται , πρὸς δὲ ταύτας ὡς ἂν συμμέτρως ἔχῃ συναύξεται καὶ τὸ ἄλλο σῶμα .
+perseus-eng2	 For in all quadrupeds the shanks increase but little in size as time goes on, whereas the rest of the body grows to them, so as to be in the right proportion.
+
+cts:urn:tlg0032.tlg013:1.17
+glaux1.0-sentence	59
+perseus-grc2	 εἶδος μὲν δὴ πώλου οὕτω δοκιμάζοντες μάλιστ’ ἂν ἡμῖν δοκοῦσι τυγχάνειν εὔποδος καὶ ἰσχυροῦ καὶ εὐσάρκου καὶ εὐσχήμονος καὶ εὐμεγέθους .
+perseus-eng2	 He who applies these tests to a colt’s shape is sure, in my opinion, to get a beast with good feet, strong, muscular, of the right look and the right size.
+
+cts:urn:tlg0032.tlg013:1.17
+glaux1.0-sentence	60
+perseus-grc2	 εἰ δέ τινες αὐξανόμενοι μεταβάλλουσιν , ὅμως οὕτω θαρρῶν τις δοκιμάζοι ἄν ·
+perseus-eng2	 If some change as they grow, still we may confidently rely on these tests,
+
+cts:urn:tlg0032.tlg013:1.17
+glaux1.0-sentence	61
+perseus-grc2	 πολὺ γὰρ πλείονες εὔχρηστοι ἐξ αἰσχρῶν ἢ ἐκ τοιούτων αἰσχροὶ γίγνονται .
+perseus-eng2	 for it is far commoner for an ugly colt to make a useful horse than for a colt like this to turn out ugly.
+
+cts:urn:tlg0032.tlg013:2.1
+glaux1.0-sentence	62
+perseus-grc2	 ὅπως γε μὴν δεῖ πωλεύειν οὐ δοκεῖ ἡμῖν γραπτέον εἶναι ·
+perseus-eng2	 We do not think it necessary to give directions for breaking a colt.
+
+cts:urn:tlg0032.tlg013:2.1
+glaux1.0-sentence	63
+perseus-grc2	 τάττονται μὲν γὰρ δὴ ἐν ταῖς πόλεσιν ἱππεύειν οἱ τοῖς χρήμασί τε ἱκανώτατοι καὶ τῆς πόλεως οὐκ ἐλάχιστον μετέχοντες ·
+perseus-eng2	 For in our states the cavalry are recruited from those who have ample means and take a considerable part in the government.
+
+cts:urn:tlg0032.tlg013:2.1
+glaux1.0-sentence	64
+perseus-grc2	 πολὺ δὲ κρεῖττον τοῦ πωλοδαμνεῖν εἶναι τῷ μὲν νέῳ εὐεξίας τε ἐπιμελεῖσθαι τῆς ἑαυτοῦ καὶ ἱππικὴν ἐν ἢ ἐπισταμένῳ ἤδη ἱππάζεσθαι μελετᾶν , τῷ δὲ πρεσβυτέρῳ τοῦ τε οἴκου καὶ τῶν φίλων καὶ τῶν πολιτικῶν καὶ τῶν πολεμικῶν μᾶλλον ἢ ἀμφὶ πώλευσιν διατρίβειν .
+perseus-eng2	 And it is far better for a young man to get himself into condition and when he understands the art of horsemanship to practise riding than to be a horse-breaker; and an older man had far better devote himself to his estate and his friends and affairs of state and of war than spend his time in horse-breaking.
+
+cts:urn:tlg0032.tlg013:2.2
+glaux1.0-sentence	65
+perseus-grc2	 ὁ μὲν δὴ ὥσπερ ἐγὼ γιγνώσκων περὶ πωλείας δῆλον ὅτι ἐκδώσει τὸν πῶλον .
+perseus-eng2	 So he who shares my opinion about horse-breaking will, of course, send his colt out.
+
+cts:urn:tlg0032.tlg013:2.2
+glaux1.0-sentence	66
+perseus-grc2	 χρὴ μέντοι , ὥσπερ τὸν παῖδα ὅταν ἐπὶ τέχνην ἐκδῷ , συγγραψάμενον ἃ δεήσει ἐπιστάμενον ἀποδοῦναι οὕτως ἐκδιδόναι .
+perseus-eng2	 Still he should put in writing what the horse is to know when he is returned, just as when he apprentices his son to a profession.
+
+cts:urn:tlg0032.tlg013:2.2
+glaux1.0-sentence	67
+perseus-grc2	 ταῦτα γὰρ ὑπομνήματα ἔσται τῷ πωλοδάμνῃ ὧν δεῖ ἐπιμεληθῆναι , εἰ μέλλει τὸν μισθὸν ἀπολήψεσθαι .
+perseus-eng2	 For these articles will serve as notes to remind the horse-breaker of what he must attend to if he is to get his money.
+
+cts:urn:tlg0032.tlg013:2.3
+glaux1.0-sentence	68
+perseus-grc2	 ὅπως μέντοι πρᾷός τε καὶ χειροήθης καὶ φιλάνθρωπος ὁ πῶλος ἐκδιδῶται τῷ πωλοδάμνῃ ἐπιμελητέον .
+perseus-eng2	 Still, care must be taken that the colt is gentle, tractable, and fond of man when he is sent to the horse-breaker.
+
+cts:urn:tlg0032.tlg013:2.3
+glaux1.0-sentence	69
+perseus-grc2	 τὸ γὰρ τοιοῦτον οἴκοι τε τὰ πλεῖστα καὶ διὰ τοῦ ἱπποκόμου ἀποτελεῖται , ἢν ἐπίστηται τὸ μὲν πεινῆν καὶ διψῆν καὶ μυωπίζεσθαι παρασκευάζειν μετ’ ἐρημίας γίγνεσθαι τῷ πώλῳ , τὸ δὲ φαγεῖν καὶ πιεῖν καὶ τὸ τῶν λυπούντων ἀπαλλάττεσθαι δι’ ἀνθρώπων .
+perseus-eng2	 That sort of business is generally done at home through the groom, if he knows how to contrive that hunger and thirst and horseflies are associated by the colt with solitude, while eating and drinking and delivery from irritation come through man’s agency.
+
+cts:urn:tlg0032.tlg013:2.3
+glaux1.0-sentence	70
+perseus-grc2	 τούτων γὰρ γιγνομένων ἀνάγκη μὴ μόνον φιλεῖσθαι ἀλλὰ καὶ ποθεῖσθαι ὑπὸ πώλων ἀνθρώπους .
+perseus-eng2	 For in these circumstances a foal is bound not only to like men, but to hanker after them.
+
+cts:urn:tlg0032.tlg013:2.4
+glaux1.0-sentence	71
+perseus-grc2	 καὶ ἅπτεσθαι δὲ χρὴ ὧν ψηλαφωμένων ὁ ἵππος μάλιστα ἥδεται .
+perseus-eng2	 One should also handle those parts in which the horse likes most to be cherished,
+
+cts:urn:tlg0032.tlg013:2.4
+glaux1.0-sentence	72
+perseus-grc2	 ταῦτα δ’ ἐστὶ τά τε λασιώτατα καὶ οἷς αὐτὸς ἥκιστ’ ἂν δύναιτο ὁ ἵππος , ἤν τι λυπῇ αὐτόν , ἐπικουρεῖν .
+perseus-eng2	 that is to say the hairiest parts and those where the horse has least power of helping himself, if anything worries him.
+
+cts:urn:tlg0032.tlg013:2.5
+glaux1.0-sentence	73
+perseus-grc2	 προστετάχθω δὲ τῷ ἱπποκόμῳ καὶ τὸ δι’ ὄχλου διάγειν καὶ παντοδαπαῖς μὲν ὄψεσι παντοδαποῖς δὲ ψόφοις πλησιάζειν .
+perseus-eng2	 Let the groom be under orders also to lead him through crowds, and accustom him to all sorts of sights and all sorts of noises.
+
+cts:urn:tlg0032.tlg013:2.5
+glaux1.0-sentence	74
+perseus-grc2	 τούτων δέ , ὅσα ἂν ὁ πῶλος φοβῆται , οὐ χαλεπαίνοντα δεῖ ἀλλὰ πραΰνοντα διδάσκειν ὅτι οὐ δεινά ἐστι .
+perseus-eng2	 If the colt shies at any of them, he must teach him, by quieting him and without impatience, that there is nothing to be afraid of.
+
+cts:urn:tlg0032.tlg013:2.5
+glaux1.0-sentence	75
+perseus-grc2	 καὶ περὶ μὲν πωλείας ἀρκεῖν μοι δοκεῖ τῷ ἰδιώτῃ εἰπεῖν τοσαῦτα πράττειν .
+perseus-eng2	 I think that the directions I have given on the subject of horse-breaking are sufficient for the private person.
+
+cts:urn:tlg0032.tlg013:3.1
+glaux1.0-sentence	76
+perseus-grc2	 ὅταν γε μὴν ἱππαζόμενον ὠνῆταί τις , ὑπομνήματα γράψομεν ἃ δεῖ καταμανθάνειν τὸν μέλλοντα μὴ ἐξαπατᾶσθαι ἐν ἱππωνίᾳ .
+perseus-eng2	 In case the intention is to buy a horse already ridden, we will write out some notes that the buyer must thoroughly master if he is not to be cheated over his purchase.
+
+cts:urn:tlg0032.tlg013:3.1
+glaux1.0-sentence	77
+perseus-grc2	 πρῶτον μὲν τοίνυν μὴ λαθέτω αὐτὸν τίς ἡ ἡλικία ·
+perseus-eng2	 First, then, he must not fail to ascertain the age.
+
+cts:urn:tlg0032.tlg013:3.1
+glaux1.0-sentence	78
+perseus-grc2	 ὁ γὰρ μηκέτι ἔχων γνώμονας οὔτ’ ἐλπίσιν εὐφραίνει οὔτε ὁμοίως εὐαπάλλακτος γίγνεται .
+perseus-eng2	 A horse that has shed all his milk teeth does not afford much ground for pleasing expectations, and is not so easily got rid of.
+
+cts:urn:tlg0032.tlg013:3.2
+glaux1.0-sentence	79
+perseus-grc2	 ὁπότε δὲ ἡ νεότης σαφής , δεῖ αὖ μὴ λαθεῖν πῶς μὲν εἰς τὸ στόμα δέχεται τὸν χαλινόν , πῶς δὲ περὶ τὰ ὦτα τὴν κορυφαίαν .
+perseus-eng2	 If he is clearly a youngster, one must notice further how he receives the bit in his mouth and the headstall about his ears.
+
+cts:urn:tlg0032.tlg013:3.2
+glaux1.0-sentence	80
+perseus-grc2	 ταῦτα δ’ ἥκιστ’ ἂν λανθάνοι , εἰ ὁρῶντος μὲν τοῦ ὠνουμένου ἐμβάλλοιτο ὁ χαλινός , ὁρῶντος δ’ ἐξαιροῖτο .
+perseus-eng2	 This may best be noticed if the buyer sees the bridle put on and taken off again.
+
+cts:urn:tlg0032.tlg013:3.3
+glaux1.0-sentence	81
+perseus-grc2	 ἔπειτα δὲ προσέχειν δεῖ τὸν νοῦν πῶς ἐπὶ τὸν νῶτον δέχεται τὸν ἀναβάτην .
+perseus-eng2	 Next, attention must be paid to his behaviour when he receives the rider on his back.
+
+cts:urn:tlg0032.tlg013:3.3
+glaux1.0-sentence	82
+perseus-grc2	 πολλοὶ γὰρ ἵπποι χαλεπῶς προσίενται ἃ πρόδηλα αὐτοῖς ἐστιν ὅτι προσέμενοι πονεῖν ἀναγκασθήσονται .
+perseus-eng2	 For many horses will not readily accept a thing if they know beforehand that, if they accept it, they will be forced to work.
+
+cts:urn:tlg0032.tlg013:3.4
+glaux1.0-sentence	83
+perseus-grc2	 σκεπτέον δὲ καὶ τόδε , εἰ ἀναβαθεὶς ἐθέλει ἀφ’ ἵππων ἀποχωρεῖν ἢ εἰ παρ’ ἑστηκότας ἱππεύων μὴ ἐκφέρει πρὸς τούτους .
+perseus-eng2	 Another thing to be observed is whether when mounted he is willing to leave his companions,
+
+cts:urn:tlg0032.tlg013:3.4
+glaux1.0-sentence	84
+perseus-grc2	 εἰσὶ δὲ οἳ διὰ κακὴν ἀγωγὴν καὶ πρὸς τὰς οἴκαδε ἀφόδους φεύγουσιν ἐκ τῶν ἱππασιῶν .
+perseus-eng2	 or whether in passing standing horses he does not bolt towards them. Some too, in consequence of bad training run away from the riding ground to the paths that lead home.
+
+cts:urn:tlg0032.tlg013:3.5
+glaux1.0-sentence	85
+perseus-grc2	 τούς γε μὴν ἑτερογνάθους μηνύει μὲν καὶ ἡ πέδη καλουμένη ἱππασία , πολὺ δὲ μᾶλλον καὶ τὸ μεταβάλλεσθαι τὴν ἱππασίαν .
+perseus-eng2	 A horse with jaws unequally sensitive is detected by the exercise called the ring,
+
+cts:urn:tlg0032.tlg013:3.5
+glaux1.0-sentence	86
+perseus-grc2	 πολλοὶ γὰρ οὐκ ἐγχειροῦσιν ἐκφέρειν , ἢν μὴ ἅμα συμβῇ ἥ τε ἄδικος γνάθος καὶ ἡ πρὸς οἶκον ἐκφορά .
+perseus-eng2	 but much more by changing the exercise. For many do not attempt to bolt unless they have a bad mouth, and the road along which they can bolt home gives them their chance.
+
+cts:urn:tlg0032.tlg013:3.5
+glaux1.0-sentence	87
+perseus-grc2	 δεῖ γε μὴν εἰδέναι καὶ εἰ ἀφεθεὶς εἰς τάχος ἀναλαμβάνεται ἐν βραχεῖ καὶ εἰ ἀποστρέφεσθαι ἐθέλει .
+perseus-eng2	 It is likewise necessary to know whether, when going at full speed he can be pulled up sharp, and whether he turns readily.
+
+cts:urn:tlg0032.tlg013:3.6
+glaux1.0-sentence	88
+perseus-grc2	 ἀγαθὸν δὲ μὴ ἄπειρον εἶναι εἰ καὶ πληγῇ ἐγερθεὶς ἐθέλει ὁμοίως πείθεσθαι .
+perseus-eng2	 And it is well to make sure whether he is equally willing to obey when roused by a blow.
+
+cts:urn:tlg0032.tlg013:3.6
+glaux1.0-sentence	89
+perseus-grc2	 ἄχρηστον μὲν γὰρ δήπου καὶ οἰκέτης καὶ στράτευμα ἀπειθές ·
+perseus-eng2	 For a disobedient servant and a disobedient army are of course useless;
+
+cts:urn:tlg0032.tlg013:3.6
+glaux1.0-sentence	90
+perseus-grc2	 ἵππος δὲ ἀπειθὴς οὐ μόνον ἄχρηστος , ἀλλὰ πολλάκις καὶ ὅσαπερ προδότης διαπράττεται .
+perseus-eng2	 and a disobedient horse is not only useless, but often behaves just like a traitor.
+
+cts:urn:tlg0032.tlg013:3.7
+glaux1.0-sentence	91
+perseus-grc2	 ἐπεὶ δὲ πολεμιστήριον ἵππον ὑπεθέμεθα ὠνεῖσθαι , ληπτέον πεῖραν ἁπάντων ὅσωνπερ καὶ ὁ πόλεμος πεῖραν λαμβάνει .
+perseus-eng2	 As we have assumed that the horse to be bought is designed for war, he must be tested in all the particulars in which he is tested by war.
+
+cts:urn:tlg0032.tlg013:3.7
+glaux1.0-sentence	92
+perseus-grc2	 ἔστι δὲ ταῦτα , τάφρους διαπηδᾶν , τειχία ὑπερβαίνειν , ἐπ’ ὄχθους ἀνορούειν , ἀπ’ ὄχθων καθάλλεσθαι ·
+perseus-eng2	 These include springing across ditches, leaping over walls, rushing up banks, jumping down from banks.
+
+cts:urn:tlg0032.tlg013:3.7
+glaux1.0-sentence	93
+perseus-grc2	 καὶ πρὸς ἄναντες δὲ καὶ κατὰ πρανοῦς καὶ πλάγια ἐλαύνοντα πεῖραν λαμβάνειν ·
+perseus-eng2	 One must also try him by riding up and down hill and on a slope.
+
+cts:urn:tlg0032.tlg013:3.7
+glaux1.0-sentence	94
+perseus-grc2	 πάντα γὰρ ταῦτα καὶ τὴν ψυχὴν εἰ καρτερὰ καὶ τὸ σῶμα εἰ ὑγιὲς δοκιμάζει .
+perseus-eng2	 All these experiments prove whether his spirit is strong and his body sound.
+
+cts:urn:tlg0032.tlg013:3.8
+glaux1.0-sentence	95
+perseus-grc2	 οὐ μέντοι τὸν μὴ καλῶς πάνυ ταῦτα ποιοῦντα ἀποδοκιμαστέον .
+perseus-eng2	 Nevertheless, it is not necessary to reject a horse that is not perfect in these trials.
+
+cts:urn:tlg0032.tlg013:3.8
+glaux1.0-sentence	96
+perseus-grc2	 πολλοὶ γὰρ οὐ διὰ τὸ μὴ δύνασθαι , ἀλλὰ διὰ τὸ ἄπειροι εἶναι τούτων ἐλλείπονται .
+perseus-eng2	 For many break down in these not from want of ability, but from lack of experience.
+
+cts:urn:tlg0032.tlg013:3.8
+glaux1.0-sentence	97
+perseus-grc2	 μαθόντες δὲ καὶ ἐθισθέντες καὶ μελετήσαντες καλῶς ἂν ταῦτα πάντα ποιοῖεν , εἴ γ’ ἄλλως ὑγιεῖς καὶ μὴ κακοὶ εἶεν .
+perseus-eng2	 With teaching, use and discipline they will perform all these exercises well, provided they are otherwise sound and not faulty.
+
+cts:urn:tlg0032.tlg013:3.9
+glaux1.0-sentence	98
+perseus-grc2	 τούς γε μέντοι ὑπόπτας φύσει φυλακτέον .
+perseus-eng2	 But one should beware of horses that are naturally shy.
+
+cts:urn:tlg0032.tlg013:3.9
+glaux1.0-sentence	99
+perseus-grc2	 οἱ γὰρ ὑπέρφοβοι βλάπτειν μὲν τοὺς πολεμίους ἀφ’ ἑαυτῶν οὐκ ἐῶσι , τὸν δὲ ἀναβάτην ἔσφηλάν τε πολλάκις καὶ εἰς τὰ χαλεπώτατα ἐνέβαλον .
+perseus-eng2	 For timid horses give one no chance of using them to harm the enemy, and often throw their rider and put him in a very awkward situation.
+
+cts:urn:tlg0032.tlg013:3.10
+glaux1.0-sentence	100
+perseus-grc2	 δεῖ δὲ καὶ εἴ τινα χαλεπότητα ἔχοι ὁ ἵππος καταμανθάνειν , εἴτε πρὸς ἵππους εἴτε πρὸς ἀνθρώπους , καὶ εἰ δυσγάργαλίς γε εἴη ·
+perseus-eng2	 It is necessary also to find out whether the horse has any vice towards horses or towards men,
+
+cts:urn:tlg0032.tlg013:3.10
+glaux1.0-sentence	101
+perseus-grc2	 πάντα γὰρ ταῦτα χαλεπὰ τοῖς κεκτημένοις γίγνεται .
+perseus-eng2	 and whether he will not stand tickling: for all these things prove troublesome to the owner.
+
+cts:urn:tlg0032.tlg013:3.11
+glaux1.0-sentence	102
+perseus-grc2	 τὰς δέ γε τῶν χαλινώσεων καὶ ἀναβάσεων ἀποκωλύσεις καὶ τ- ἄλλα δὴ νεύματα πολὺ ἂν ἔτι μᾶλλον καταμάθοι τις , εἰ πεπονηκότος ἤδη τοῦ ἵππου πάλιν πειρῷτο ποιεῖν τ- αὐτὰ ὅσαπερ πρὶν ἄρξασθαι ἱππεύειν .
+perseus-eng2	 As regards objection to being bridled or mounted, and the other reactions, there is a much better way still of detecting these,
+
+cts:urn:tlg0032.tlg013:3.11
+glaux1.0-sentence	103
+perseus-grc2	 ὅσοι δ’ ἂν πεπονηκότες ἐθέλωσι πάλιν ὑποδύεσθαι πόνους ἱκανὰ τεκμήρια παρέχονται ταῦτα ψυχῆς καρτερᾶς .
+perseus-eng2	 namely, by trying to do over again, after the horse has finished his work, just what one did before starting on the ride. All horses that are willing after their work to do another spell thereby give sufficient proofs of a patient temper.
+
+cts:urn:tlg0032.tlg013:3.12
+glaux1.0-sentence	104
+perseus-grc2	 ὡς δὲ συνελόντι εἰπεῖν , ὅστις εὔπους μὲν εἴη , πρᾷος δέ , ἀρκούντως δὲ ποδώκης , ἐθέλοι δὲ καὶ δύναιτο πόνους ὑποφέρειν , πείθοιτο δὲ μάλιστα , οὗτος ἂν εἰκότως ἀλυπότατός τ’ εἴη καὶ σωτηριώτατος τῷ ἀναβάτῃ ἐν τοῖς πολεμικοῖς .
+perseus-eng2	 To sum up: the horse that is sound in his feet, gentle and fairly speedy, has the will and the strength to stand work, and, above all, is obedient, is the horse that will, as a matter of course, give least trouble and the greatest measure of safety to his rider in warfare.
+
+cts:urn:tlg0032.tlg013:3.12
+glaux1.0-sentence	105
+perseus-grc2	 οἱ δὲ ἢ διὰ βλακείαν ἐλάσεως πολλῆς δεόμενοι ἢ διὰ τὸ ὑπέρθυμοι εἶναι πολλῆς θωπείας τε καὶ πραγματείας ἀσχολίαν μὲν ταῖς χερσὶ τοῦ ἀναβάτου παρέχουσιν , ἀθυμίαν δ’ ἐν τοῖς κινδύνοις .
+perseus-eng2	 But those that want a lot of driving on account of their laziness, or a lot of coaxing and attention on account of their high spirit, make constant demands on the rider’s hands and rob him of confidence in moments of danger.
+
+cts:urn:tlg0032.tlg013:4.1
+glaux1.0-sentence	106
+perseus-grc2	 ὅταν γε μὴν ἀγασθεὶς ἵππον πρίηταί τις καὶ οἴκαδε ἀγάγηται , καλὸν μὲν ἐν τοιούτῳ τῆς οἰκίας τὸν σταθμὸν εἶναι ὅπου πλειστάκις ὁ δεσπότης ὄψεται τὸν ἵππον ·
+perseus-eng2	 When a man has found a horse to his mind, bought him and taken him home, it is well to have the stable so situated with respect to the house that his master can see him very often;
+
+cts:urn:tlg0032.tlg013:4.1
+glaux1.0-sentence	107
+perseus-grc2	 ἀγαθὸν δὲ οὕτω κατεσκευάσθαι τὸν ἱππῶνα , ὥστε μηδὲν μᾶλλον οἷόν τ’ εἶναι τὸν τοῦ ἵππου σῖτον κλαπῆναι ἐκ τῆς φάτνης ἢ τὸν τοῦ δεσπότου ἐκ τοῦ ταμιείου .
+perseus-eng2	 and it is a good plan to have the stall so contrived that it will be as difficult to steal the horse’s fodder out of the manger as the master’s victuals from the larder.
+
+cts:urn:tlg0032.tlg013:4.1
+glaux1.0-sentence	108
+perseus-grc2	 ὁ δὲ τούτου ἀμελῶν ἐμοὶ μὲν ἑαυτοῦ δοκεῖ ἀμελεῖν ·
+perseus-eng2	 He who neglects this seems to me to neglect himself;
+
+cts:urn:tlg0032.tlg013:4.1
+glaux1.0-sentence	109
+perseus-grc2	 δῆλον γὰρ ὅτι ἐν τοῖς κινδύνοις τὸ αὑτοῦ σῶμα τῷ ἵππῳ ὁ δεσπότης παρακατατίθεται .
+perseus-eng2	 for it is plain that in danger the master entrusts his life to his horse.
+
+cts:urn:tlg0032.tlg013:4.2
+glaux1.0-sentence	110
+perseus-grc2	 ἔστι δὲ οὐ μόνον τοῦ μὴ κλέπτεσθαι ἕνεκα τὸν σῖτον ἀγαθὸς ὁ ἐχυρὸς ἱππών , ἀλλ’ ὅτι καὶ ὅταν μὴ ἐκκομίζῃ τὸν σῖτον ὁ ἵππος φανερὸν γίγνεται .
+perseus-eng2	 But a well-secured stall is not only good for preventing theft of the fodder but also because one can see when the horse does not spill his food.
+
+cts:urn:tlg0032.tlg013:4.2
+glaux1.0-sentence	111
+perseus-grc2	 τούτου δ’ ἄν τις αἰσθανόμενος γιγνώσκοι ὅτι ἢ τὸ σῶμα ὑπεραιμοῦν δεῖται θεραπείας ἢ κόπου ἐνόντος δεῖται ἀναπαύσεως , ἢ κριθίασις ἢ ἄλλη τις ἀρρωστία ὑποδύεται .
+perseus-eng2	 And on noticing this one may be sure that either his body is overfull of blood and needs treatment or the horse is overworked and wants rest, or that laminitis or some other ailment is coming on.
+
+cts:urn:tlg0032.tlg013:4.2
+glaux1.0-sentence	112
+perseus-grc2	 ἔστι δὲ ὥσπερ ἀνθρώπῳ , οὕτω καὶ ἵππῳ ἀρχόμενα πάντα εὐιατότερα ἢ ἐπειδὰν ἐνσκιρωθῇ τε καὶ ἐξαμαρτηθῇ τὰ νοσήματα .
+perseus-eng2	 It is the same with horses as with men: all distempers in the early stage are more easily cured than when they have become chronic and have been wrongly treated.
+
+cts:urn:tlg0032.tlg013:4.3
+glaux1.0-sentence	113
+perseus-grc2	 ὥσπερ δὲ τοῦ ἵππου σίτου τε καὶ γυμνασίων ἐπιμελητέον , ὅπως ἂν τὸ σῶμα ἰσχύῃ , οὕτω καὶ τοὺς πόδας ἀσκητέον .
+perseus-eng2	 Just as the food and exercise of the horse must be attended to in order that he may keep sound, so his feet must be cared for.
+
+cts:urn:tlg0032.tlg013:4.3
+glaux1.0-sentence	114
+perseus-grc2	 τὰ μὲν τοίνυν ὑγρά τε καὶ λεῖα τῶν σταθμῶν λυμαίνεται καὶ ταῖς εὐφυέσιν ὁπλαῖς ·
+perseus-eng2	 Now damp and slippery floors ruin even well-formed hoofs.
+
+cts:urn:tlg0032.tlg013:4.3
+glaux1.0-sentence	115
+perseus-grc2	 τὰ δέ , ὡς μὲν μὴ ὑγρὰ εἶναι , ἀπόρρυτα , ὡς δὲ μὴ λεῖα , λίθους ἔχοντα κατορωρυγμένους , προσαλλήλους , παραπλησίους ὁπλαῖς τὸ μέγεθος G? τὰ γὰρ τοιαῦτα σταθμὰ G? καὶ ἐφεστηκότων ἅμα στερεοῖ τοὺς πόδας .
+perseus-eng2	 In order that they may not be damp, the floors should have a slope to carry off the wet, and, that they may not be slippery, they should be paved all over with stones, each one about the size of the hoof. Such floors, indeed, have another advantage because they harden the feet of the horses standing on them.
+
+cts:urn:tlg0032.tlg013:4.4
+glaux1.0-sentence	116
+perseus-grc2	 ἔπειτά γε μὴν τῷ ἱπποκόμῳ ἐξακτέον μὲν τὸν ἵππον ὅπου ψήξει , μεταδετέον δὲ μετὰ τὸ ἄριστον ἀπὸ τῆς φάτνης , ἵν’ ἥδιον ἐπὶ τὸ δεῖπνον ἴῃ .
+perseus-eng2	 To take the next point: the groom must lead out the horse to clean him, and must loose him from the stall after the morning feed, that he may return to his evening feed with more appetite.
+
+cts:urn:tlg0032.tlg013:4.4
+glaux1.0-sentence	117
+perseus-grc2	 ὧδε δ’ ἂν αὖ ὁ ἔξω σταθμὸς βέλτιστος εἴη καὶ τοὺς πόδας καρτερύνοι , εἰ λίθων στρογγύλων ἀμφιδόχμων ὅσον μνααίων ἁμάξας τέτταρας καὶ πέντε χύδην καταβάλοι , περιχειλώσας σιδήρῳ , ὡς ἂν μὴ σκεδαννύωνται ·
+perseus-eng2	 Now the stableyard will be of the best form and will strengthen the feet if he throws down and spreads over it four or five loads of round stones, the size of a fist, about a pound in weight, and surrounds them with a border of iron so that they may not be scattered.
+
+cts:urn:tlg0032.tlg013:4.4
+glaux1.0-sentence	118
+perseus-grc2	 ἐπὶ γὰρ τούτων ἑστηκὼς ὥσπερ ἐν ὁδῷ λιθώδει ἀεὶ μέρος τι τῆς ἡμέρας πορεύοιτο ἄν ·
+perseus-eng2	 Standing on these will have the same effect as if the horse walked on a stone road for some time every day.
+
+cts:urn:tlg0032.tlg013:4.5
+glaux1.0-sentence	119
+perseus-grc2	 ἀνάγκη δὲ καὶ ψηχόμενον καὶ μυωπιζόμενον χρῆσθαι ταῖς ὁπλαῖς καθάπερ ὅταν βαδίζῃ .
+perseus-eng2	 When he is being rubbed down and teased with flies he is bound to use his hoofs in the same way as when he walks.
+
+cts:urn:tlg0032.tlg013:4.5
+glaux1.0-sentence	120
+perseus-grc2	 καὶ τὰς χελιδόνας δὲ τῶν ποδῶν οἱ οὕτω κεχυμένοι λίθοι στερεοῦσιν .
+perseus-eng2	 The frogs also are hardened by stones scattered in this way.
+
+cts:urn:tlg0032.tlg013:4.5
+glaux1.0-sentence	121
+perseus-grc2	 ὡς δὲ περὶ τῶν ὁπλῶν ὅπως στερεαὶ ἔσονται ἐπιμελητέον , οὕτω καὶ τὰ περὶ τὸ στόμα αὖ ὅπως μαλακὰ ἔσται ἐπιμελεῖσθαι δεῖ .
+perseus-eng2	 The same care must be taken to make his mouth tender as to harden his hoofs.
+
+cts:urn:tlg0032.tlg013:4.5
+glaux1.0-sentence	122
+perseus-grc2	 τὰ δ’ αὐτὰ ἀνθρώπου τε σάρκα καὶ ἵππου στόμα ἁπαλύνει .
+perseus-eng2	 This is done by the same methods as are employed to soften human flesh.
+
+cts:urn:tlg0032.tlg013:5.1
+glaux1.0-sentence	123
+perseus-grc2	 ἱππικοῦ δὲ ἀνδρὸς ἡμῖν δοκεῖ εἶναι καὶ τὸν ἱπποκόμον πεπαιδευκέναι ἃ δεῖ περὶ τὸν ἵππον πράττειν .
+perseus-eng2	 It is a mark of a good horseman, in our opinion, to see that his groom, like himself, is instructed in the way in which he should treat the horse.
+
+cts:urn:tlg0032.tlg013:5.1
+glaux1.0-sentence	124
+perseus-grc2	 πρῶτον μὲν τοίνυν τῆς ἐπιφατνιδίας φορβειᾶς ἐπίστασθαι αὐτὸν δεῖ μήποτε τὸ ἅμμα ποιεῖσθαι ἔνθαπερ ἡ κορυφαία περιτίθεται .
+perseus-eng2	 First then the man ought to know that he should never make the knot in the halter at the point where the headstall is put on.
+
+cts:urn:tlg0032.tlg013:5.1
+glaux1.0-sentence	125
+perseus-grc2	 πολλάκις γὰρ κνῶν ὁ ἵππος ἐπὶ τῇ φάτνῃ τὴν κεφαλήν , εἰ μὴ ἀσινὴς ἡ φορβειὰ περὶ τὰ ὦτα ἔσται , πολλάκις ἂν ἕλκη ποιοίη .
+perseus-eng2	 For if the halter is not easy about the ears, the horse will often rub his head against the manger and may often get sores in consequence.
+
+cts:urn:tlg0032.tlg013:5.1
+glaux1.0-sentence	126
+perseus-grc2	 ἑλκουμένων γε μὴν τούτων ἀνάγκη τὸν ἵππον καὶ περὶ τὸ χαλινοῦσθαι καὶ περὶ τὸ ψήχεσθαι δυσκολώτερον εἶναι .
+perseus-eng2	 Now if there are sore places thereabouts the horse is bound to be restive both when he is bridled and when he is rubbed down.
+
+cts:urn:tlg0032.tlg013:5.2
+glaux1.0-sentence	127
+perseus-grc2	 ἀγαθὸν δὲ καὶ τὸ τετάχθαι τῷ ἱπποκόμῳ καθ’ ἡμέραν τὴν κόπρον καὶ τὰ ὑποστρώματα τοῦ ἵππου ἐκφέρειν εἰς ἓν χωρίον .
+perseus-eng2	 It is well also for the groom to have orders to remove the dung and litter daily to one and the same place.
+
+cts:urn:tlg0032.tlg013:5.2
+glaux1.0-sentence	128
+perseus-grc2	 τοῦτο γὰρ ποιῶν αὐτός τ’ ἂν ῥᾷστα ἀπαλλάττοι καὶ ἅμα τὸν ἵππον ὠφελοίη .
+perseus-eng2	 For by doing this he will get rid of it most easily and at the same time relieve the horse.
+
+cts:urn:tlg0032.tlg013:5.3
+glaux1.0-sentence	129
+perseus-grc2	 εἰδέναι δὲ χρὴ τὸν ἱπποκόμον καὶ τὸν κημὸν περιτιθέναι τῷ ἵππῳ , καὶ ὅταν ἐπὶ ψῆξιν καὶ ὅταν ἐπὶ καλίστραν ἐξάγῃ .
+perseus-eng2	 The groom must also know about putting the muzzle on the horse when he takes him out to be groomed or to the rolling-place.
+
+cts:urn:tlg0032.tlg013:5.3
+glaux1.0-sentence	130
+perseus-grc2	 καὶ ἀεὶ δὲ ὅποι ἂν ἀχαλίνωτον ἄγῃ κημοῦν δεῖ .
+perseus-eng2	 In fact he must always put the muzzle on when he leads him anywhere without a bridle.
+
+cts:urn:tlg0032.tlg013:5.3
+glaux1.0-sentence	131
+perseus-grc2	 ὁ γὰρ κημὸς ἀναπνεῖν μὲν οὐ κωλύει , δάκνειν δὲ οὐκ ἐᾷ ·
+perseus-eng2	 For the muzzle prevents him from biting without hampering his breathing;
+
+cts:urn:tlg0032.tlg013:5.3
+glaux1.0-sentence	132
+perseus-grc2	 καὶ τὸ ἐπιβουλεύειν δὲ περικείμενος μᾶλλον ἐξαιρεῖ τῶν ἵππων ·
+perseus-eng2	 and moreover, when it is put on, it goes far towards preventing any propensity to mischief.
+
+cts:urn:tlg0032.tlg013:5.4
+glaux1.0-sentence	133
+perseus-grc2	 καὶ μὴν δεσμεύειν τὸν ἵππον ἄνωθεν τῆς κεφαλῆς δεῖ ·
+perseus-eng2	 He should tie up the horse at a place above the head,
+
+cts:urn:tlg0032.tlg013:5.4
+glaux1.0-sentence	134
+perseus-grc2	 πάντα γὰρ ὁπόσα ἂν δύσκολ’ ᾖ περὶ τὸ πρόσωπον ὁ ἵππος ἐκνεύειν πέφυκεν ἄνω ·
+perseus-eng2	 because when anything irritates his face, the horse instinctively tries to get rid of it by tossing his head upwards;
+
+cts:urn:tlg0032.tlg013:5.4
+glaux1.0-sentence	135
+perseus-grc2	 ἐκνεύων γε μὴν οὕτω δεδεμένος χαλᾷ μᾶλλον ἢ διασπᾷ τὰ δεσμά .
+perseus-eng2	 and if he is tied thus he loosens the halter instead of breaking it by tossing up his head.
+
+cts:urn:tlg0032.tlg013:5.5
+glaux1.0-sentence	136
+perseus-grc2	 ἐπειδὰν δὲ ψήχῃ , ἄρχεσθαι μὲν ἀπὸ τῆς κεφαλῆς καὶ τῆς χαίτης ·
+perseus-eng2	 In rubbing the horse down, the man should start at the head and mane;
+
+cts:urn:tlg0032.tlg013:5.5
+glaux1.0-sentence	137
+perseus-grc2	 μὴ γὰρ καθαρῶν τῶν ἄνω ὄντων μάταιον τὰ κάτω καθαίρειν .
+perseus-eng2	 for if the upper parts are not clean, it is idle to clean his lower parts.
+
+cts:urn:tlg0032.tlg013:5.5
+glaux1.0-sentence	138
+perseus-grc2	 ἔπειτα δὲ κατὰ μὲν τὸ ἄλλο σῶμα πᾶσι τοῖς τῆς καθάρσεως ὀργάνοις ἀνιστάντα δεῖ τὴν τρίχα σοβεῖν τὴν κόνιν κατὰ φύσιν τῆς τριχός ·
+perseus-eng2	 Next, going over the rest of his body, he should make the hair stand up with all the dressing instruments, and get the dust out by rubbing him the way the hair lies.
+
+cts:urn:tlg0032.tlg013:5.5
+glaux1.0-sentence	139
+perseus-grc2	 τῶν δ’ ἐν τῇ ῥάχει τριχῶν ἄλλῳ μὲν ὀργάνῳ οὐδενὶ δεῖ ἅπτεσθαι , ταῖς δὲ χερσὶ τρίβειν καὶ ἁπαλύνειν ᾗπερ φύσει κέκλινται ·
+perseus-eng2	 But he should not touch the hair on the backbone with any instrument; he should rub and smooth it down with the hands the way it naturally grows;
+
+cts:urn:tlg0032.tlg013:5.5
+glaux1.0-sentence	140
+perseus-grc2	 ἥκιστα γὰρ ἂν βλάπτοι τὴν ἕδραν τοῦ ἵππου .
+perseus-eng2	 for so he will be least likely to injure the rider’s seat.
+
+cts:urn:tlg0032.tlg013:5.6
+glaux1.0-sentence	141
+perseus-grc2	 ὕδατι δὲ καταπλύνειν τὴν κεφαλὴν χρή ·
+perseus-eng2	 He must wash the head well with water,
+
+cts:urn:tlg0032.tlg013:5.6
+glaux1.0-sentence	142
+perseus-grc2	 ὀστώδης γὰρ οὖσα , εἰ σιδήρῳ ἢ ξύλῳ καθαίροιτο , λυποῖ ἂν τὸν ἵππον .
+perseus-eng2	 for, as it is bony, to clean it with iron or wood would hurt the horse.
+
+cts:urn:tlg0032.tlg013:5.6
+glaux1.0-sentence	143
+perseus-grc2	 καὶ τὸ προκόμιον δὲ χρὴ βρέχειν ·
+perseus-eng2	 He must also wet the forelock,
+
+cts:urn:tlg0032.tlg013:5.6
+glaux1.0-sentence	144
+perseus-grc2	 καὶ γὰρ αὗται εὐμήκεις οὖσαι αἱ τρίχες ὁρᾶν μὲν οὐ κωλύουσι τὸν ἵππον , ἀποσοβοῦσι δὲ ἀπὸ τῶν ὀφθαλμῶν τὰ λυποῦντα .
+perseus-eng2	 for this tuft of hair, even if pretty long, does not obstruct his sight, but drives from his eyes anything that worries them;
+
+cts:urn:tlg0032.tlg013:5.6
+glaux1.0-sentence	145
+perseus-grc2	 καὶ τοὺς θεοὺς δὲ οἴεσθαι χρὴ δεδωκέναι ταύτας τὰς τρίχας ἵππῳ ἀντὶ τῶν μεγάλων ὤτων ἃ ὄνοις τε καὶ ἡμιόνοις ἔδοσαν ἀλεξητήρια πρὸ τῶν ὀμμάτων .
+perseus-eng2	 and we must presume that the gods have given the horse this hair in lieu of the long ears that they have given to asses and mules as a protection to their eyes.
+
+cts:urn:tlg0032.tlg013:5.7
+glaux1.0-sentence	146
+perseus-grc2	 καὶ οὐρὰν δὲ καὶ χαίτην πλύνειν χρή , ἐπείπερ αὔξειν δεῖ τὰς τρίχας , τὰς μὲν ἐν τῇ οὐρᾷ , ὅπως ἐπὶ πλεῖστον ἐξικνούμενος ἀποσοβῆται ὁ ἵππος τὰ λυποῦντα , τὰς δὲ ἐν τῷ τραχήλῳ , ὅπως τῷ ἀναβάτῃ ὡς ἀφθονωτάτη ἀντίληψις ᾖ .
+perseus-eng2	 He should also wash the tail and mane, for growth of the tail is to be encouraged in order that the horse may be able to reach as far as possible and drive away anything that worries him, and growth of the mane in order to give the rider as good a hold as possible.
+
+cts:urn:tlg0032.tlg013:5.8
+glaux1.0-sentence	147
+perseus-grc2	 δέδοται δὲ παρὰ θεῶν καὶ ἀγλαΐας ἕνεκεν ἵππῳ χαίτη , καὶ προκόμιον δὲ καὶ οὐρά .
+perseus-eng2	 Besides, the mane, forelock and tail have been given to the horse by the gods as an ornament.
+
+cts:urn:tlg0032.tlg013:5.8
+glaux1.0-sentence	148
+perseus-grc2	 τεκμήριον δέ ·
+perseus-eng2	 There is proof.
+
+cts:urn:tlg0032.tlg013:5.8
+glaux1.0-sentence	149
+perseus-grc2	 αἱ γὰρ ἀγελαῖαι τῶν ἵππων οὐχ ὁμοίως ὑπομένουσι τοὺς ὄνους ἐπὶ τῇ ὀχείᾳ ἕως ἂν κομῶσιν ·
+perseus-eng2	 For brood mares herding together, so long as they have fine manes, are reluctant to be covered by asses;
+
+cts:urn:tlg0032.tlg013:5.8
+glaux1.0-sentence	150
+perseus-grc2	 οὗ ἕνεκα καὶ ἀποκείρουσι πρὸς τὴν ὀχείαν τὰς ἵππους ἅπαντες οἱ ὀνοβατοῦντες .
+perseus-eng2	 for which reason all breeders of mules cut off the manes of the mares for covering.
+
+cts:urn:tlg0032.tlg013:5.9
+glaux1.0-sentence	151
+perseus-grc2	 τήν γε μὴν τῶν σκελῶν κατάπλυσιν ἀφαιροῦμεν ·
+perseus-eng2	 Washing down of the legs we disapprove of;
+
+cts:urn:tlg0032.tlg013:5.9
+glaux1.0-sentence	152
+perseus-grc2	 ὠφελεῖ μὲν γὰρ οὐδέν , βλάπτει δὲ τὰς ὁπλὰς ἡ καθ’ ἑκάστην ἡμέραν βρέξις .
+perseus-eng2	 it does no good, and the hoofs are injured by being wetted every day.
+
+cts:urn:tlg0032.tlg013:5.9
+glaux1.0-sentence	153
+perseus-grc2	 καὶ τὴν ὑπὸ γαστέρα δὲ ἄγαν κάθαρσιν μειοῦν χρή ·
+perseus-eng2	 Excessive cleaning under the belly also should be diminished;
+
+cts:urn:tlg0032.tlg013:5.9
+glaux1.0-sentence	154
+perseus-grc2	 αὕτη γὰρ λυπεῖ μὲν μάλιστα τὸν ἵππον , ὅσῳ δ’ ἂν καθαρώτερα ταῦτα γένηται , τοσούτῳ πλείω τὰ λυποῦντα ἁθροίζει ὑπὸ τὴν γαστέρα ·
+perseus-eng2	 for this worries the horse very much, and the cleaner these parts are, the more they collect under the belly things offensive to it;
+
+cts:urn:tlg0032.tlg013:5.10
+glaux1.0-sentence	155
+perseus-grc2	 ἢν δὲ καὶ πάνυ διαπονήσηταί τις ταῦτα , οὐ φθάνει τ’ ἐξαγόμενος ὁ ἵππος καὶ εὐθὺς ὅμοιός ἐστι τοῖς ἀκαθάρτοις .
+perseus-eng2	 and notwithstanding all the pains that may be taken with these parts, the horse is no sooner led out than he looks much the same as an unwashed animal.
+
+cts:urn:tlg0032.tlg013:5.10
+glaux1.0-sentence	156
+perseus-grc2	 ταῦτα μὲν οὖν ἐᾶν χρή ·
+perseus-eng2	 So these operations should be omitted;
+
+cts:urn:tlg0032.tlg013:5.10
+glaux1.0-sentence	157
+perseus-grc2	 ἀρκεῖ δὲ καὶ ἡ τῶν σκελῶν ψῆξις αὐταῖς ταῖς χερσὶ γιγνομένη .
+perseus-eng2	 and as for the rubbing of the legs, it is enough to do it with the bare hands.
+
+cts:urn:tlg0032.tlg013:6.1
+glaux1.0-sentence	158
+perseus-grc2	 δηλώσομεν δὲ καὶ τοῦτο , ὡς ἂν ἀβλαβέστατα μέν τις ἑαυτῷ , τῷ δ’ ἵππῳ ὠφελιμώτατα τὰ πρόσθεν ψήχοι .
+perseus-eng2	 We will now show how one may rub down a horse with least danger to oneself and most advantage to the horse.
+
+cts:urn:tlg0032.tlg013:6.1
+glaux1.0-sentence	159
+perseus-grc2	 ἢν μὲν γὰρ ἐς τὸ αὐτὸ βλέπων τῷ ἵππῳ καθαίρῃ , κίνδυνος καὶ τῷ γόνατι καὶ τῇ ὁπλῇ εἰς τὸ πρόσωπον πληγῆναι ·
+perseus-eng2	 If in cleaning him the man faces in the same direction as the horse, he runs the risk of getting a blow in the face from his knee and his hoof.
+
+cts:urn:tlg0032.tlg013:6.2
+glaux1.0-sentence	160
+perseus-grc2	 ἢν δὲ ἀντία τῷ ἵππῳ ὁρῶν καὶ ἔξω τοῦ σκέλους , ὅταν καθαίρῃ , κατὰ τὴν ὠμοπλάτην καθίζων ἀποτρίβῃ , οὕτω πάθοι μὲν ἂν οὐδέν , δύναιτο δ’ ἂν καὶ τὴν χελιδόνα τοῦ ἵππου θεραπεύειν ἀναπτύσσων τὴν ὁπλήν .
+perseus-eng2	 But if he faces in the opposite direction to the horse and sits by the shoulder out of reach of his leg when he cleans him, and rubs him down so, then he will come to no harm, and can also attend to the horse’s frog by lifting up the hoof.
+
+cts:urn:tlg0032.tlg013:6.2
+glaux1.0-sentence	161
+perseus-grc2	 ὡς δ’ αὔτως καὶ τὰ ὄπισθεν σκέλη καθαιρέτω .
+perseus-eng2	 Let him do exactly the same in cleaning the hind-legs.
+
+cts:urn:tlg0032.tlg013:6.3
+glaux1.0-sentence	162
+perseus-grc2	 εἰδέναι δὲ χρὴ τὸν περὶ τὸν ἵππον ὅτι καὶ ταῦτα καὶ τ- ἄλλα πάντα ὅσα πράττειν δεῖ ὡς ἥκιστα χρὴ κατὰ τὸ πρόσωπόν τε καὶ οὐρὰν ἀντίον ἑαυτὸν ποιήσαντα προσιέναι ·
+perseus-eng2	 The man employed about the horse is to know that in these operations and in all that he has to do he must be very chary of approaching from the head or tail to do his work.
+
+cts:urn:tlg0032.tlg013:6.3
+glaux1.0-sentence	163
+perseus-grc2	 ἢν γὰρ ἐπιχειρῇ ἀδικεῖν , κατ’ ἀμφότερα ταῦτα κρείττων ὁ ἵππος ἀνθρώπου .
+perseus-eng2	 For if the horse attempts to show mischief he has the man in his power in both these directions;
+
+cts:urn:tlg0032.tlg013:6.3
+glaux1.0-sentence	164
+perseus-grc2	 ἐκ πλαγίου δ’ ἄν τις προσιὼν ἀβλαβέστατα μὲν ἑαυτῷ , πλεῖστα δ’ ἂν ἵππῳ δύναιτο χρῆσθαι .
+perseus-eng2	 but if he approaches from the side he can manage the horse with least danger to himself and in the best manner.
+
+cts:urn:tlg0032.tlg013:6.4
+glaux1.0-sentence	165
+perseus-grc2	 ἐπειδὰν δὲ ἄγειν δέῃ τὸν ἵππον , τὴν μὲν ὄπισθεν ἀγωγὴν διὰ τάδε οὐκ ἐπαινοῦμεν , ὅτι τῷ μὲν ἄγοντι οὕτως ἥκιστα ἔστι φυλάξασθαι , τῷ δὲ ἵππῳ οὕτως μάλιστα ἔξεστι ποιῆσαι ὅ τι ἂν βούληται .
+perseus-eng2	 When it is necessary to lead the horse, we do not approve of leading him behind one for this reason, that the man leading him is then least able to take care of himself while the horse has the utmost freedom to do whatever he chooses.
+
+cts:urn:tlg0032.tlg013:6.5
+glaux1.0-sentence	166
+perseus-grc2	 τὸ δ’ αὖ ἔμπροσθεν μακρῷ τῷ ἀγωγεῖ προϊόντα διδάσκειν ὑφηγεῖσθαι τὸν ἵππον διὰ τάδε αὖ ψέγομεν ·
+perseus-eng2	 On the other hand we also disapprove of training the horse to go in front on a long lead for the following reasons:
+
+cts:urn:tlg0032.tlg013:6.5
+glaux1.0-sentence	167
+perseus-grc2	 ἔξεστι μὲν γὰρ τῷ ἵππῳ καθ’ ὁπότερ’ ἂν βούληται τῶν πλαγίων κακουργεῖν , ἔξεστι δὲ ἀναστρεφόμενον ἀντίον γίγνεσθαι τῷ ἄγοντι .
+perseus-eng2	 the horse has the power of misbehaving on either side as he chooses, and has also the power of turning round and facing his driver.
+
+cts:urn:tlg0032.tlg013:6.6
+glaux1.0-sentence	168
+perseus-grc2	 ἁθρόοι δὲ δὴ ἵπποι πῶς ἄν ποτε ἀλλήλων δύναιντο ἀπέχεσθαι οὕτως ἀγόμενοι ;
+perseus-eng2	 And if several horses together are driven in this fashion, how can they possibly be kept from interfering with one another?
+
+cts:urn:tlg0032.tlg013:6.6
+glaux1.0-sentence	169
+perseus-grc2	 ἐκ πλαγίου δὲ ἵππος ἐθισθεὶς παράγεσθαι ἥκιστα μὲν ἂν καὶ ἵππους καὶ ἀνθρώπους δύναιτ’ ἂν κακουργεῖν , κάλλιστα δ’ ἂν παρεσκευασμένος τῷ ἀναβάτῃ εἴη καὶ εἴ ποτε ἐν τάχει ἀναβῆναι δεήσειεν .
+perseus-eng2	 But a horse that is accustomed to being led from the side will have least power of doing harm either to horses or to men, and will be in the handiest position for the rider should he want to mount quickly.
+
+cts:urn:tlg0032.tlg013:6.7
+glaux1.0-sentence	170
+perseus-grc2	 ἵνα δὲ ὁ ἱπποκόμος καὶ τὸν χαλινὸν ὀρθῶς ἐμβάλῃ , πρῶτον μὲν προσίτω κατὰ τὰ ἀριστερὰ τοῦ ἵππου ·
+perseus-eng2	 In order to put the bit in properly, first let the groom approach on the near side of the horse.
+
+cts:urn:tlg0032.tlg013:6.7
+glaux1.0-sentence	171
+perseus-grc2	 ἔπειτα τὰς μὲν ἡνίας περιβαλὼν περὶ τὴν κεφαλὴν καθέτω ἐπὶ τῇ ἀκρωμίᾳ , τὴν δὲ κορυφαίαν τῇ δεξιᾷ αἰρέτω , τὸ δὲ στόμιον τῇ ἀριστερᾷ προσφερέτω .
+perseus-eng2	 Then let him throw the reins over the head and drop them on the withers, and next lift the headstall with the right hand and offer the bit with the left.
+
+cts:urn:tlg0032.tlg013:6.8
+glaux1.0-sentence	172
+perseus-grc2	 κἂν μὲν δέχηται , δῆλον ὅτι περιτιθέναι δεῖ τὸν κεκρύφαλον ·
+perseus-eng2	 If he takes the bit, of course the bridle should be put on.
+
+cts:urn:tlg0032.tlg013:6.8
+glaux1.0-sentence	173
+perseus-grc2	 ἐὰν δὲ μὴ ὑποχάσκῃ , ἔχοντα δεῖ πρὸς τοῖς ὀδοῦσι τὸν χαλινὸν τὸν μέγαν δάκτυλον τῆς ἀριστερᾶς χειρὸς εἴσω τῆς γνάθου τῷ ἵππῳ ποιῆσαι .
+perseus-eng2	 But if he refuses to open his mouth, the man must hold the bit to his teeth and put the thumb of the left hand in the horse’s jaw.
+
+cts:urn:tlg0032.tlg013:6.8
+glaux1.0-sentence	174
+perseus-grc2	 οἱ γὰρ πολλοὶ τούτου γιγνομένου χαλῶσι τὸ στόμα .
+perseus-eng2	 Most horses open the mouth when this is done.
+
+cts:urn:tlg0032.tlg013:6.8
+glaux1.0-sentence	175
+perseus-grc2	 ἢν δὲ μηδ’ οὕτω δέχηται , πιεσάτω τὸ χεῖλος περὶ τῷ κυνόδοντι ·
+perseus-eng2	 If he still resists, the man should squeeze his lip against the tusk;
+
+cts:urn:tlg0032.tlg013:6.8
+glaux1.0-sentence	176
+perseus-grc2	 καὶ πάνυ τινὲς ὀλίγοι οὐ δέχονται τοῦτο πάσχοντες .
+perseus-eng2	 and very few resist when they are treated in this way.
+
+cts:urn:tlg0032.tlg013:6.9
+glaux1.0-sentence	177
+perseus-grc2	 δεδιδάχθω δὲ καὶ τάδε ὁ ἱπποκόμος , πρῶτον μὲν μήποτε ἄγειν τῆς ἡνίας τὸν ἵππον ·
+perseus-eng2	 The groom should also be instructed in the following points: first, never to lead the horse on the rein
+
+cts:urn:tlg0032.tlg013:6.9
+glaux1.0-sentence	178
+perseus-grc2	 τοῦτο γὰρ ἑτερογνάθους ποιεῖ ·
+perseus-eng2	 — that gives the horse a hard mouth on one side —
+
+cts:urn:tlg0032.tlg013:6.9
+glaux1.0-sentence	179
+perseus-grc2	 ἔπειτα δὲ ὅσον δεῖ ἀπέχειν τὸν χαλινὸν τῶν γνάθων .
+perseus-eng2	 and secondly, what is the correct distance from the bit to the jaws.
+
+cts:urn:tlg0032.tlg013:6.9
+glaux1.0-sentence	180
+perseus-grc2	 ὁ μὲν γὰρ ἄγαν πρὸς αὐταῖς τυλοῖ τὸ στόμα , ὥστε μὴ εὐαίσθητον εἶναι , ὁ δὲ ἄγαν εἰς ἄκρον τὸ στόμα καθιέμενος ἐξουσίαν παρέχει συνδάκνοντι τὸ στόμιον μὴ πείθεσθαι .
+perseus-eng2	 For if it is too high up, it hardens the mouth so that it loses its sensitiveness; and if it lies too low in the mouth, it gives the horse power to take it between his teeth and refuse to obey.
+
+cts:urn:tlg0032.tlg013:6.10
+glaux1.0-sentence	181
+perseus-grc2	 χρὴ δὲ τὸν ἱπποκόμον καὶ τὰ τοιάδε παρατηρεῖν , εἰ μὴ ῥᾳδίως τὸν χαλινὸν ὁ ἵππος δέχεται , αἰσθανόμενος ὅτι δεῖ πονεῖν .
+perseus-eng2	 The groom must also pay some attention to such points as the following:
+
+cts:urn:tlg0032.tlg013:6.10
+glaux1.0-sentence	182
+perseus-grc2	 οὕτω γὰρ δὴ μέγα ἐστὶ τὸ λαμβάνειν ἐθέλειν τὸν ἵππον τὸν χαλινὸν ὡς ὁ μὴ δεχόμενος παντάπασιν ἄχρηστος .
+perseus-eng2	 whether the horse will not easily take the bit when he knows that he has work to do. Willingness to receive the bit is, in fact, so important that a horse that refuses it is quite useless.
+
+cts:urn:tlg0032.tlg013:6.11
+glaux1.0-sentence	183
+perseus-grc2	 ἢν δὲ μὴ μόνον ὅταν πονεῖν μέλλῃ χαλινῶται , ἀλλὰ καὶ ὅταν ἐπὶ τὸν σῖτον καὶ ὅταν ἐξ ἱππασίας εἰς οἶκον ἀπάγηται , οὐδὲν ἂν εἴη θαυμαστὸν εἰ ἁρπάζοι τὸν χαλινὸν αὐτόματος προτεινόμενον .
+perseus-eng2	 But if he is bridled not only when he is going to be ridden, but also when he is taken to his food and when he is led home from exercise, it would not be at all surprising if he seized the bit of his own accord when offered to him.
+
+cts:urn:tlg0032.tlg013:6.12
+glaux1.0-sentence	184
+perseus-grc2	 ἀγαθὸν δὲ τὸν ἱπποκόμον καὶ ἀναβάλλειν ἐπίστασθαι τὸν Περσικὸν τρόπον , ὅπως αὐτός τε ὁ δεσπότης , ἤν ποτε ἀρρωστήσῃ ἢ πρεσβύτερος γένηται , ἔχῃ τὸν εὐπετῶς ἀναβιβάσοντα καὶ ἄλλῳ ἤν τινι βούληται τὸν ἀναβαλοῦντα ἐπιχαρίσηται .
+perseus-eng2	 It is well for the groom to know how to give a legup in the Persian fashion, so that his master himself, in case he is indisposed or is getting old may have someone to put him up conveniently, and may, if he wishes, oblige his friend with a man to give him a lift-up.
+
+cts:urn:tlg0032.tlg013:6.13
+glaux1.0-sentence	185
+perseus-grc2	 τὸ δὲ μήποτε σὺν ὀργῇ ἵππῳ προσφέρεσθαι , ἓν τοῦτο καὶ δίδαγμα καὶ ἔθισμα πρὸς ἵππον ἄριστον .
+perseus-eng2	 The one best rule and practice in dealing with a horse is never to approach him in anger;
+
+cts:urn:tlg0032.tlg013:6.13
+glaux1.0-sentence	186
+perseus-grc2	 ἀπρονόητον γὰρ ἡ ὀργή , ὥστε πολλάκις ἐξεργάζεται ὧν μεταμέλειν ἀνάγκη .
+perseus-eng2	 for anger is a reckless thing, so that it often makes a man do what he must regret.
+
+cts:urn:tlg0032.tlg013:6.14
+glaux1.0-sentence	187
+perseus-grc2	 καὶ ὅταν δὲ ὑποπτεύσας τι ὁ ἵππος μὴ θέλῃ πρὸς τοῦτο προσιέναι , διδάσκειν δεῖ ὅτι οὐ δεινόν ἐστι μάλιστα μὲν οὖν ἵππῳ εὐκαρδίῳ , εἰ δὲ μή , ἁπτόμενον αὐτὸν τοῦ δεινοῦ δοκοῦντος εἶναι καὶ τὸν ἵππον πρᾴως προσάγοντα .
+perseus-eng2	 Moreover, when the horse is shy of anything and will not come near it, you should teach him that there is nothing to be afraid of, either with the help of a plucky horse — which is the surest way — or else by touching the object that looks alarming yourself, and gently leading the horse up to it.
+
+cts:urn:tlg0032.tlg013:6.15
+glaux1.0-sentence	188
+perseus-grc2	 οἱ δὲ πληγαῖς ἀναγκάζοντες ἔτι πλείω φόβον παρέχουσιν ·
+perseus-eng2	 To force him with blows only increases his terror;
+
+cts:urn:tlg0032.tlg013:6.15
+glaux1.0-sentence	189
+perseus-grc2	 οἴονται γὰρ οἱ ἵπποι , ὅταν τι χαλεπὸν πάσχωσιν ἐν τῷ τοιούτῳ , καὶ τούτου τὰ ὑποπτευόμενα αἴτια εἶναι .
+perseus-eng2	 for when horses feel pain in such a predicament, they think that this too is caused by the thing at which they shy.
+
+cts:urn:tlg0032.tlg013:6.16
+glaux1.0-sentence	190
+perseus-grc2	 ἐπειδάν γε μὴν ὁ ἱπποκόμος τὸν ἵππον παραδῷ τῷ ἀναβάτῃ , τὸ μὲν ἐπίστασθαι ὑποβιβάζεσθαι τὸν ἵππον , ὥστε εὐπετὲς εἶναι ἀναβῆναι , οὐ μεμφόμεθα ·
+perseus-eng2	 When the groom presents the horse to his rider, we take no exception to his understanding how to cause the horse to crouch, for convenience in mounting.
+
+cts:urn:tlg0032.tlg013:6.16
+glaux1.0-sentence	191
+perseus-grc2	 τόν γε μέντοι ἱππέα νομίζομεν χρῆναι μελετᾶν καὶ μὴ παρέχοντος ἵππου δύνασθαι ἀναβαίνειν .
+perseus-eng2	 We think, however, that the rider should get used to mounting even without his horse’s help.
+
+cts:urn:tlg0032.tlg013:6.16
+glaux1.0-sentence	192
+perseus-grc2	 ἄλλοτε μὲν γὰρ ἀλλοῖος ἵππος παραπίπτει , ἄλλοτε δ’ ἄλλως ὁ αὐτὸς ὑπηρετεῖ .
+perseus-eng2	 For a rider gets a different sort of horse at different times, and the same one does not always serve him in the same way.
+
+cts:urn:tlg0032.tlg013:7.1
+glaux1.0-sentence	193
+perseus-grc2	 ὅταν γε μὴν παραδέξηται τὸν ἵππον ὡς ἀναβησόμενος , νῦν αὖ γράψομεν ὅσα ποιῶν ὁ ἱππεὺς καὶ ἑαυτῷ καὶ τῷ ἵππῳ ὠφελιμώτατος ἂν ἐν τῇ ἱππικῇ εἴη .
+perseus-eng2	 We will now describe what the rider should do when he has received his horse and is going to mount, if he is to make the best of himself and his horse in riding.
+
+cts:urn:tlg0032.tlg013:7.1
+glaux1.0-sentence	194
+perseus-grc2	 πρῶτον μὲν τοίνυν τὸν ῥυταγωγέα χρὴ ἐκ τῆς ὑποχαλινιδίας ἢ ἐκ τοῦ ψαλίου ἠρτημένον εὐτρεπῆ εἰς τὴν ἀριστερὰν χεῖρα λαβεῖν , καὶ οὕτω χαλαρὸν ὡς μήτ’ ἂν ἀνιὼν τῶν τριχῶν παρὰ τὰ ὦτα λαβόμενος μέλλῃ ἀναβήσεσθαι μήτ’ ἂν ἀπὸ δόρατος ἀναπηδᾷ , σπᾶν τὸν ἵππον .
+perseus-eng2	 First, then, he must hold the lead-rope fastened to the chin-strap or the nose-band ready in the left hand, and so loose as not to jerk the horse whether he means to mount by holding on to the mane near the ears or to spring up with the help of the spear.
+
+cts:urn:tlg0032.tlg013:7.1
+glaux1.0-sentence	195
+perseus-grc2	 τῇ δεξιᾷ δὲ τὰς ἡνίας παρὰ τὴν ἀκρωμίαν λαμβανέτω ὁμοῦ τῇ χαίτῃ , ὅπως μηδὲ καθ’ ἕνα τρόπον ἀναβαίνων σπάσῃ τῷ χαλινῷ τὸ στόμα τοῦ ἵππου .
+perseus-eng2	 With his right hand let him take hold of the reins by the withers along with the mane, so that he may not jerk the horse’s mouth with the bit in any way as he mounts.
+
+cts:urn:tlg0032.tlg013:7.2
+glaux1.0-sentence	196
+perseus-grc2	 ἐπειδὰν δὲ ἀνακουφίσῃ ἑαυτὸν εἰς τὴν ἀνάβασιν , τῇ μὲν ἀριστερᾷ ἀνιμάτω τὸ σῶμα , τὴν δὲ δεξιὰν ἐκτείνων συνεπαιρέτω ἑαυτόν ( οὕτω γὰρ ἀναβαίνων οὐδὲ ὄπισθεν αἰσχρὰν θέαν παρέξει συγκεκαμμένῳ τῷ σκέλει ) , καὶ μηδὲ τὸ γόνυ ἐπὶ τὴν ῥάχιν τοῦ τιθέτω ἵππου , ἀλλ’ ὑπερβησάτω ἐπὶ τὰς δεξιὰς πλευρὰς τὴν κνήμην .
+perseus-eng2	 When he has made his spring in order to mount, he should raise his body with his left hand, while at the same time he helps himself up by stretching out his right;
+
+cts:urn:tlg0032.tlg013:7.2
+glaux1.0-sentence	197
+perseus-grc2	 ὅταν δὲ περιενέγκῃ τὸν πόδα , τότε καὶ τὼ γλουτὼ καθέτω ἐπὶ τὸν ἵππον .
+perseus-eng2	 for by mounting in this way he will not present an awkward appearance even from behind by bending his leg. Neither must he touch the horse’s back with his knee, but throw the leg right over the off side. Having brought the foot over, he must then let his buttocks down on the horse’s back.
+
+cts:urn:tlg0032.tlg013:7.3
+glaux1.0-sentence	198
+perseus-grc2	 ἢν δὲ τύχῃ ὁ ἱππεὺς τῇ μὲν ἀριστερᾷ ἄγων τὸν ἵππον , τῇ δὲ δεξιᾷ τὸ δόρυ ἔχων , ἀγαθὸν μὲν ἡμῖν δοκεῖ εἶναι τὸ καὶ ἐκ τῶν δεξιῶν μελετῆσαι ἀναπηδᾶν .
+perseus-eng2	 In case the horseman happens to be leading the horse with the left hand and holding his spear in the right, it is well, we think, to practise mounting on the off side also.
+
+cts:urn:tlg0032.tlg013:7.3
+glaux1.0-sentence	199
+perseus-grc2	 μαθεῖν δ’ οὐδὲν δεῖ ἄλλο ἢ ἃ μὲν τότε τοῖς δεξιοῖς τοῦ σώματος ἐποίει τοῖς ἀριστεροῖς ποιεῖν , ἃ δὲ τότε τοῖς ἀριστεροῖς τοῖς δεξιοῖς .
+perseus-eng2	 For this purpose all that he needs to learn is to do with the left parts of the body what in the other case he did with the right, and vice versa.
+
+cts:urn:tlg0032.tlg013:7.4
+glaux1.0-sentence	200
+perseus-grc2	 τούτου δ’ ἕνεκεν καὶ ταύτην ἐπαινοῦμεν τὴν ἀνάβασιν , ὅτι ἅμα τε ἀναβεβηκὼς ἂν εἴη καὶ κατεσκευασμένος πάντα , εἴ τι δέοι ἐξαίφνης πρὸς πολεμίους ἀγωνίζεσθαι .
+perseus-eng2	 The reason why we recommend this method of mounting also is, that no sooner is the rider mounted than he is quite ready to fight with the enemy on a sudden, if occasion requires.
+
+cts:urn:tlg0032.tlg013:7.5
+glaux1.0-sentence	201
+perseus-grc2	 ἐπειδάν γε μὴν καθέζηται ἐάν τε ἐπὶ ψιλοῦ ἐάν τε ἐπὶ τοῦ ἐφιππίου , οὐ τὴν ὥσπερ ἐπὶ τοῦ δίφρου ἕδραν ἐπαινοῦμεν , ἀλλὰ τὴν ὥσπερ εἰ ὀρθὸς ἂν διαβεβηκὼς εἴη τοῖν σκελοῖν .
+perseus-eng2	 When he is seated, whether on the bare back or on the cloth, we would not have him sit as if he were on his chair,
+
+cts:urn:tlg0032.tlg013:7.5
+glaux1.0-sentence	202
+perseus-grc2	 τοῖν τε γὰρ μηροῖν οὕτως ἂν ἔχοιτο μᾶλλον τοῦ ἵππου , καὶ ὀρθὸς ὢν ἐρρωμενεστέρως ἂν δύναιτο καὶ ἀκοντίσαι καὶ πατάξαι ἀπὸ τοῦ ἵππου , εἰ δέοι .
+perseus-eng2	 but as though he were standing upright with his legs astride. For thus he will get a better grip of his horse with his thighs, and the erect position will enable him, if need be, to throw his spear and deliver a blow on horseback with more force.
+
+cts:urn:tlg0032.tlg013:7.6
+glaux1.0-sentence	203
+perseus-grc2	 χρὴ δὲ καὶ χαλαρὰν ἀπὸ τοῦ γόνατος ἀφεῖσθαι τὴν κνήμην σὺν τῷ ποδί .
+perseus-eng2	 The lower leg including the foot must hang lax and easy from the knee down.
+
+cts:urn:tlg0032.tlg013:7.6
+glaux1.0-sentence	204
+perseus-grc2	 σκληρὸν μὲν γὰρ ἔχων τὸ σκέλος εἰ προσκόψειέ τῳ , προσκεκλασμένος ἂν εἴη ·
+perseus-eng2	 For if he keeps his leg stiff and should strike it against anything, he may break it,
+
+cts:urn:tlg0032.tlg013:7.6
+glaux1.0-sentence	205
+perseus-grc2	 ὑγρὰ δὲ οὖσα ἡ κνήμη , εἴ τι καὶ προσπίπτοι αὐτῇ , ὑπείκοι ἂν καὶ τὸν μηρὸν οὐδὲν μετακινοίη .
+perseus-eng2	 whereas a loose leg will recoil, whatever it encounters, without disturbing the position of the thigh at all.
+
+cts:urn:tlg0032.tlg013:7.7
+glaux1.0-sentence	206
+perseus-grc2	 δεῖ δὲ τὸν ἱππέα καὶ τὸ ἄνωθεν τῶν ἑαυτοῦ ἰσχίων σῶμα ὡς ὑγρότατον ἐθίζειν εἶναι .
+perseus-eng2	 The rider must also accustom himself to keeping his body above the hips as loose as possible,
+
+cts:urn:tlg0032.tlg013:7.7
+glaux1.0-sentence	207
+perseus-grc2	 οὕτω γὰρ ἂν πονεῖν τε ἔτι μᾶλλον δύναιτο καὶ εἰ ἕλκοι τις αὐτὸν ἢ ὠθοίη ἧττον ἂν σφάλλοιτο .
+perseus-eng2	 for thus he will be able to stand more fatigue and will be less liable to come off when he is pulled or pushed.
+
+cts:urn:tlg0032.tlg013:7.8
+glaux1.0-sentence	208
+perseus-grc2	 ἐπειδάν γε μὴν καθέζηται , πρῶτον μὲν ἠρεμεῖν δεῖ διδάσκειν τὸν ἵππον , ἕως ἂν καὶ ὑποσπάσηται , ἤν τι δέηται , καὶ ἡνίας ἰσώσηται καὶ δόρυ λάβῃ ὡς ἂν εὐφορώτατον εἴη ·
+perseus-eng2	 As soon as he is seated, he must teach his horse to stand quiet at first, until he has shifted anything that wants arranging underneath him, gathered the reins even in his hand and grasped his spear in the most convenient manner.
+
+cts:urn:tlg0032.tlg013:7.8
+glaux1.0-sentence	209
+perseus-grc2	 ἔπειτα δὲ ἐχέτω τὸν ἀριστερὸν βραχίονα πρὸς ταῖς πλευραῖς ·
+perseus-eng2	 Then let him keep his left arm close to his side,
+
+cts:urn:tlg0032.tlg013:7.8
+glaux1.0-sentence	210
+perseus-grc2	 οὕτω γὰρ εὐσταλέστατός τε ὁ ἱππεὺς ἔσται καὶ ἡ χεὶρ ἐγκρατεστάτη .
+perseus-eng2	 for thus the horseman’s figure will look best, and his hand will have most power.
+
+cts:urn:tlg0032.tlg013:7.9
+glaux1.0-sentence	211
+perseus-grc2	 ἡνίας γε μὴν ἐπαινοῦμεν ὁποῖαι ἴσαι τέ εἰσι καὶ μὴ ἀσθενεῖς μηδὲ ὀλισθηραὶ μηδὲ παχεῖαι , ἵνα καὶ τὸ δόρυ ὅταν δέῃ δέχεσθαι ἡ χεὶρ δύνηται .
+perseus-eng2	 As for reins, we recommend that they be of equal strength, not weak nor slippery nor thick, in order that the spear may be held in the same hand when necessary.
+
+cts:urn:tlg0032.tlg013:7.10
+glaux1.0-sentence	212
+perseus-grc2	 ὅταν δὲ προχωρεῖν σημήνῃ τῷ ἵππῳ , βάδην μὲν ἀρχέσθω ·
+perseus-eng2	 When he directs his horse to go forward, let him begin at a walk,
+
+cts:urn:tlg0032.tlg013:7.10
+glaux1.0-sentence	213
+perseus-grc2	 τοῦτο γὰρ ἀταρακτότατον .
+perseus-eng2	 for this prevents any flurry.
+
+cts:urn:tlg0032.tlg013:7.10
+glaux1.0-sentence	214
+perseus-grc2	 ἡνιοχείτω δέ , ἢν μὲν κυφαγωγότερος ᾖ ὁ ἵππος , ἀνωτέρω ταῖς χερσίν , ἢν δὲ μᾶλλον ἀνακεκυφώς , κατωτέρω ·
+perseus-eng2	 If the horse carries his head too low, let the rider hold the hands higher; if too high, lower;
+
+cts:urn:tlg0032.tlg013:7.10
+glaux1.0-sentence	215
+perseus-grc2	 οὕτω γὰρ ἂν μάλιστα κοσμοίη τὸ σχῆμα .
+perseus-eng2	 for in this way he will give him the most graceful carriage.
+
+cts:urn:tlg0032.tlg013:7.11
+glaux1.0-sentence	216
+perseus-grc2	 μετὰ δὲ ταῦτα τὸν αὐτοφυᾶ διατροχάζων διαχαλῴη τ’ ἂν ἀλυπότατα τὸ σῶμα καὶ εἰς τὸ ἐπιρραβδοφορεῖν ἥδιστ’ ἂν ἀφικνοῖτο .
+perseus-eng2	 After this, if he breaks into his natural trot, he will relax his body in the easiest fashion and come to the gallop most readily.
+
+cts:urn:tlg0032.tlg013:7.11
+glaux1.0-sentence	217
+perseus-grc2	 ἐπείπερ δὲ καὶ ἀπὸ τῶν ἀριστερῶν ἄρχεσθαι εὐδοκιμώτερον , ὧδ’ ἂν μάλιστα ἀπὸ τούτων ἄρχοιτο , εἰ διατροχάζοντος μέν , ὁπότε ἐμβαίνοι τῷ δεξιῷ , τότε σημαίνοι τῷ ἵππῳ τὸ ἐπιρραβδοφορεῖν .
+perseus-eng2	 Since, too, the more approved method is to begin with the left, one will best begin on this side, by giving the horse the signal to gallop while trotting, at the instant when he is treading with the right (fore) foot.
+
+cts:urn:tlg0032.tlg013:7.12
+glaux1.0-sentence	218
+perseus-grc2	 τὸ γὰρ ἀριστερὸν μέλλων αἴρειν ἐκ τούτου ἂν ἄρχοιτο , καὶ ὁπότε ἐπὶ τὰ εὐώνυμα ἀναστρέφοι , τότε καὶ τῆς ἐπισκελίσεως ἄρχοιτο .
+perseus-eng2	 As he is then on the point of raising the left, he will begin with it, and, as soon as the rider turns him to the left, will immediately begin the stride.
+
+cts:urn:tlg0032.tlg013:7.12
+glaux1.0-sentence	219
+perseus-grc2	 καὶ γὰρ πέφυκεν ὁ ἵππος εἰς μὲν τὰ δεξιὰ στρεφόμενος τοῖς δεξιοῖς ἀφηγεῖσθαι , εἰς εὐώνυμα δὲ τοῖς ἀριστεροῖς .
+perseus-eng2	 For it is natural for the horse to lead with the right when turned to the right and with the left when turned to the left.
+
+cts:urn:tlg0032.tlg013:7.13
+glaux1.0-sentence	220
+perseus-grc2	 ἱππασίαν δ’ ἐπαινοῦμεν τὴν πέδην καλουμένην ·
+perseus-eng2	 The exercise that we recommend is the one called the ring,
+
+cts:urn:tlg0032.tlg013:7.13
+glaux1.0-sentence	221
+perseus-grc2	 ἐπ’ ἀμφοτέρας γὰρ τὰς γνάθους στρέφεσθαι ἐθίζει .
+perseus-eng2	 since it accustoms the horse to turn on both jaws.
+
+cts:urn:tlg0032.tlg013:7.13
+glaux1.0-sentence	222
+perseus-grc2	 καὶ τὸ μεταβάλλεσθαι δὲ τὴν ἱππασίαν ἀγαθόν , ἵνα ἀμφότεραι αἱ γνάθοι καθ’ ἑκάτερον τῆς ἱππασίας ἰσάζωνται .
+perseus-eng2	 It is also well to change the exercise, in order that both jaws may be equally practised on each side of the exercise.
+
+cts:urn:tlg0032.tlg013:7.14
+glaux1.0-sentence	223
+perseus-grc2	 ἐπαινοῦμεν δὲ καὶ τὴν ἑτερομήκη πέδην μᾶλλον τῆς κυκλοτεροῦς .
+perseus-eng2	 We recommend the manage rather than the complete ring,
+
+cts:urn:tlg0032.tlg013:7.14
+glaux1.0-sentence	224
+perseus-grc2	 ἥδιον μὲν γὰρ οὕτως ἂν στρέφοιτο ὁ ἵππος ἤδη πλήρης ὢν τοῦ εὐθέος , καὶ τό τε ὀρθοδρομεῖν καὶ τὸ ἀποκάμπτειν ἅμα μελετῴη ἄν .
+perseus-eng2	 for thus the horse will turn more willingly when he has gone some distance in a straight course, and one can practise the career and the turn at the same time.
+
+cts:urn:tlg0032.tlg013:7.15
+glaux1.0-sentence	225
+perseus-grc2	 δεῖ δὲ καὶ ὑπολαμβάνειν ἐν ταῖς στροφαῖς ·
+perseus-eng2	 It is necessary to collect him at the turns;
+
+cts:urn:tlg0032.tlg013:7.15
+glaux1.0-sentence	226
+perseus-grc2	 οὐ γὰρ ῥᾴδιον τῷ ἵππῳ οὐδ’ ἀσφαλὲς ἐν τῷ τάχει ὄντα κάμπτειν ἐν μικρῷ , ἄλλως τε κἂν ἀπόκροτον ἢ ὀλισθηρὸν ᾖ τὸ χωρίον .
+perseus-eng2	 for it is neither easy for the horse nor safe to turn short when going fast, especially if the ground is uneven or slippery.
+
+cts:urn:tlg0032.tlg013:7.16
+glaux1.0-sentence	227
+perseus-grc2	 ὅταν γε μὴν ὑπολαμβάνῃ , ὡς ἥκιστα μὲν χρὴ τὸν ἵππον πλαγιοῦν τῷ χαλινῷ , ὡς ἥκιστα δ’ αὐτὸν πλαγιοῦσθαι ·
+perseus-eng2	 In collecting him the rider must slant the horse as little as possible with the bit,
+
+cts:urn:tlg0032.tlg013:7.16
+glaux1.0-sentence	228
+perseus-grc2	 εἰ δὲ μή , εὖ χρὴ εἰδέναι ὅτι μικρὰ πρόφασις ἀρκέσει κεῖσθαι καὶ αὐτὸν καὶ τὸν ἵππον .
+perseus-eng2	 and slant his own body as little as possible; else he may be sure that a trifling cause will be enough to bring him and his horse down.
+
+cts:urn:tlg0032.tlg013:7.17
+glaux1.0-sentence	229
+perseus-grc2	 ἐπειδάν γε μὴν ἐκ τῆς στροφῆς εἰς τὸ εὐθὺ βλέπῃ ὁ ἵππος , ἐν τούτῳ πρὸς τὸ θᾶττον αὐτὸν ὁρμάτω .
+perseus-eng2	 As soon as the horse faces the straight after turning, push him along at once.
+
+cts:urn:tlg0032.tlg013:7.17
+glaux1.0-sentence	230
+perseus-grc2	 δῆλον γὰρ ὅτι καὶ ἐν τοῖς πολέμοις αἱ στροφαί εἰσι τοῦ διώκειν ἢ τοῦ ἀποχωρεῖν ἕνεκα .
+perseus-eng2	 For of course, in war too, turns are made with a view to pursuit or retreat.
+
+cts:urn:tlg0032.tlg013:7.17
+glaux1.0-sentence	231
+perseus-grc2	 ἀγαθὸν οὖν τὸ στραφέντα ταχύνειν μελετᾶν .
+perseus-eng2	 It is well, therefore, to practise increasing the pace after turning.
+
+cts:urn:tlg0032.tlg013:7.18
+glaux1.0-sentence	232
+perseus-grc2	 ὅταν δὲ ἱκανῶς ἤδη δοκῇ τὸ γυμνάσιον τῷ ἵππῳ ἔχειν , ἀγαθὸν καὶ διαναπαύσαντα ὁρμῆσαι αὖθις ἐξαίφνης εἰς τὸ τάχιστον , καὶ ἀφ’ ἵππων μέντοι , μὴ πρὸς ἵππους ·
+perseus-eng2	 So soon as the horse appears to have been exercised enough, it is well to let him rest a certain time, and then suddenly to put him to his top speed again, of course away from, not towards, other horses,
+
+cts:urn:tlg0032.tlg013:7.18
+glaux1.0-sentence	233
+perseus-grc2	 καὶ ἐκ τοῦ ταχέος αὖ ὡς ἐγγυτάτω ἠρεμίζειν , καὶ ἐκ τοῦ ἑστάναι δὲ στρέψαντα δεῖ πάλιν ὁρμᾶν ·
+perseus-eng2	 and to pull him up again in the midst of his career as short as possible, and then to turn and start him again from the stand.
+
+cts:urn:tlg0032.tlg013:7.18
+glaux1.0-sentence	234
+perseus-grc2	 πρόδηλον γὰρ ὅτι ἔσται ποτὲ ὅτε ἑκατέρου τούτων δεήσει ·
+perseus-eng2	 For it is obvious that a time will come when it will be necessary to do one or the other.
+
+cts:urn:tlg0032.tlg013:7.19
+glaux1.0-sentence	235
+perseus-grc2	 ὅταν γε μὴν καταβαίνειν ἤδη καιρὸς ᾖ , μήτε ἐν ἵπποις ποτὲ καταβαίνειν μήτε παρὰ σύστασιν ἀνθρώπων μήτ’ ἔξω τῆς ἱππασίας , ἀλλ’ ὅπουπερ καὶ πονεῖν ἀναγκάζεται ὁ ἵππος , ἐνταῦθα καὶ τῆς ῥᾳστώνης τυγχανέτω .
+perseus-eng2	 When the time has come to dismount, the rider must never dismount among other horses or near a group of people or outside the riding-ground; but let the place where the horse is forced to work be the place where he also receives his reward of ease.
+
+cts:urn:tlg0032.tlg013:8.1
+glaux1.0-sentence	236
+perseus-grc2	 ἐπείπερ δὲ ἔστιν ὅπου τρέχειν δεήσει τὸν ἵππον καὶ πρανῆ καὶ ὄρθια καὶ πλάγια , ἔστι δ’ ὅπου διαπηδᾶν , ἔστι δ’ ὅπου καὶ ἐκπηδᾶν , ἔνθα δὲ καθάλλεσθαι , καὶ ταῦτα πάντα διδάσκειν τε δεῖ καὶ μελετᾶν καὶ αὑτὸν καὶ τὸν ἵππον .
+perseus-eng2	 As the horse will frequently have to gallop down hill and up hill and along a slope, and as he will have to leap over, and to leap out, and to jump down at various times, the rider must teach and practise both himself and his horse in all these things.
+
+cts:urn:tlg0032.tlg013:8.1
+glaux1.0-sentence	237
+perseus-grc2	 οὕτω γὰρ ἂν σωτήριοί τε εἶεν ἀλλήλοις καὶ καθόλου χρησιμώτεροι ἂν δοκοῖεν εἶναι .
+perseus-eng2	 For thus they will be able to help each other, and will be thought altogether more efficient.
+
+cts:urn:tlg0032.tlg013:8.2
+glaux1.0-sentence	238
+perseus-grc2	 εἰ δέ τις διλογεῖν ἡμᾶς οἴεται , ὅτι περὶ τῶν αὐτῶν λέγομεν νῦν τε καὶ πρόσθεν , οὐ διλογία ταῦτ’ ἐστίν .
+perseus-eng2	 If anyone thinks that we are repeating ourselves, because we are referring to matters already dealt with, this is not repetition.
+
+cts:urn:tlg0032.tlg013:8.2
+glaux1.0-sentence	239
+perseus-grc2	 ὅτε μὲν γὰρ ἐωνεῖτο , πειρᾶσθαι ἐκελεύομεν εἰ δύναιτο ὁ ἵππος ταῦτα ποιεῖν ·
+perseus-eng2	 For we recommended the purchaser to try whether the horse could do these things at the time of buying:
+
+cts:urn:tlg0032.tlg013:8.2
+glaux1.0-sentence	240
+perseus-grc2	 νῦν δὲ διδάσκειν φαμὲν χρῆναι τὸν ἑαυτοῦ καὶ γράψομεν ὡς δεῖ διδάσκειν .
+perseus-eng2	 but now we say that a man should teach his own horse; and we will show how to teach him.
+
+cts:urn:tlg0032.tlg013:8.3
+glaux1.0-sentence	241
+perseus-grc2	 τὸν μὲν γὰρ παντάπασιν ἄπειρον τοῦ διαπηδᾶν λαβόντα δεῖ τοῦ ἀγωγέως καταβεβλημένου προδιαβῆναι αὐτὸν τὴν τάφρον , ἔπειτα δὲ ἐντείνειν δεῖ τῷ ἀγωγεῖ ὡς διάλληται .
+perseus-eng2	 When a man has a raw horse quite ignorant of leaping, he must get over the ditch himself first, holding him loosely by the leading-rein, and then give him a pull with the rein to make him leap over.
+
+cts:urn:tlg0032.tlg013:8.4
+glaux1.0-sentence	242
+perseus-grc2	 ἢν δὲ μὴ ἐθέλῃ , ἔχων τις μάστιγα ἢ ῥάβδον ἐμβαλέτω ὡς ἰσχυρότατα ·
+perseus-eng2	 If he refuses, let someone strike him as hard as he can with a whip or a stick:
+
+cts:urn:tlg0032.tlg013:8.4
+glaux1.0-sentence	243
+perseus-grc2	 καὶ οὕτως ὑπεραλεῖται οὐ τὸ μέτρον , ἀλλὰ πολὺ πλέον τοῦ καιρίου ·
+perseus-eng2	 whereupon he will leap, and not only the necessary distance, but much further than was required.
+
+cts:urn:tlg0032.tlg013:8.4
+glaux1.0-sentence	244
+perseus-grc2	 καὶ τὸ λοιπὸν οὐδὲν δεήσει παίειν , ἀλλ’ ἢν μόνον ἴδῃ ὄπισθέν τινα ἐπελθόντα , ἁλεῖται .
+perseus-eng2	 In future there will be no need to beat him, for if he merely sees a man approaching behind him, he will leap.
+
+cts:urn:tlg0032.tlg013:8.5
+glaux1.0-sentence	245
+perseus-grc2	 ἐπειδὰν δὲ οὕτω διαπηδᾶν ἐθισθῇ , καὶ ἀναβεβηκὼς ἐπαγέτω τὸ μὲν πρῶτον μικράς , ἔπειτα δὲ καὶ μείζους .
+perseus-eng2	 As soon as he has grown accustomed to leap in this way, let him be mounted and tried first at narrow, and then at wider ditches.
+
+cts:urn:tlg0032.tlg013:8.5
+glaux1.0-sentence	246
+perseus-grc2	 ὅταν δὲ μέλλῃ πηδᾶν , παισάτω αὐτὸν τῷ μύωπι .
+perseus-eng2	 Just as he is on the point of springing touch him with the spur.
+
+cts:urn:tlg0032.tlg013:8.5
+glaux1.0-sentence	247
+perseus-grc2	 ὡσαύτως δὲ καὶ τὸ ἀναπηδᾶν καὶ τὸ καταπηδᾶν διδάσκειν παίσαντα τῷ μύωπι .
+perseus-eng2	 Similarly he should be taught to leap up and to leap down by a touch of the spur.
+
+cts:urn:tlg0032.tlg013:8.5
+glaux1.0-sentence	248
+perseus-grc2	 ἁθρόῳ γὰρ τῷ σώματι ταῦτα πάντα ποιῶν καὶ ἑαυτῷ ὁ ἵππος καὶ τῷ ἀναβάτῃ ἀσφαλέστερον ποιήσει μᾶλλον ἢ ἂν ἐκλείπῃ τὰ ὄπισθεν ἢ διαπηδῶν ἢ ἀνορούων ἢ καθαλλόμενος .
+perseus-eng2	 For if he does all these things with his body compactly gathered, it will be safer for the horse as well as the rider than if his hind-quarters lag in taking a leap over, or in springing upwards or jumping downwards.
+
+cts:urn:tlg0032.tlg013:8.6
+glaux1.0-sentence	249
+perseus-grc2	 εἴς γε μὴν τὸ κάταντες πρῶτον χρὴ ἐν μαλακῷ χωρίῳ διδάσκειν , καὶ τελευτῶν , ἐπειδὰν τοῦτο ἐθισθῇ , πολὺ ἥδιον τὸ πρανὲς τοῦ ὀρθίου δραμεῖται .
+perseus-eng2	 Going down hill should first be taught on soft ground;
+
+cts:urn:tlg0032.tlg013:8.6
+glaux1.0-sentence	250
+perseus-grc2	 ἃ δὲ φοβοῦνταί τινες μὴ ἀπορρηγνύωνται τοὺς ὤμους κατὰ τὰ πρανῆ ἐλαυνόμενοι , θαρρούντων μαθόντες ὅτι Πέρσαι καὶ Ὀδρύσαι ἅπαντες τὰ κατάντη ἁμιλλώμενοι οὐδὲν ἧττον τῶν Ἑλλήνων ὑγιεῖς τοὺς ἵππους ἔχουσι .
+perseus-eng2	 and in the end, when the horse gets used to this, he will canter down more readily than up hill. If some fear that horses may put out their shoulders by being ridden down hill, they may take comfort when they understand that the Persians and Odrysians all ride races down hill, and yet keep their horses just as sound as the Greeks.
+
+cts:urn:tlg0032.tlg013:8.7
+glaux1.0-sentence	251
+perseus-grc2	 παρήσομεν δὲ οὐδὲ ὅπως τὸν ἀναβάτην ὑπηρετεῖν δεῖ πρὸς ἕκαστα τούτων .
+perseus-eng2	 Nor will we omit to state how the rider is to assist in all these movements.
+
+cts:urn:tlg0032.tlg013:8.7
+glaux1.0-sentence	252
+perseus-grc2	 χρὴ γὰρ ὁρμῶντος μὲν ἐξαίφνης τοῦ ἵππου προνεύειν ·
+perseus-eng2	 If the horse springs suddenly, he should lean forward;
+
+cts:urn:tlg0032.tlg013:8.7
+glaux1.0-sentence	253
+perseus-grc2	 ἧττον γὰρ ἂν καὶ ὑποδύοι ὁ ἵππος καὶ ἀναβάλλοι τὸν ἀναβάτην ·
+perseus-eng2	 for so the horse is less likely to slip away and throw the rider off.
+
+cts:urn:tlg0032.tlg013:8.7
+glaux1.0-sentence	254
+perseus-grc2	 ἐν μικρῷ δὲ ἀναλαμβανομένου ἀναπίπτειν ·
+perseus-eng2	 But in pulling him up short he should lean back;
+
+cts:urn:tlg0032.tlg013:8.7
+glaux1.0-sentence	255
+perseus-grc2	 ἧττον γὰρ ἂν αὐτὸς κόπτοιτο .
+perseus-eng2	 for so he himself will be less jolted.
+
+cts:urn:tlg0032.tlg013:8.8
+glaux1.0-sentence	256
+perseus-grc2	 τάφρον δὲ διαλλομένου καὶ πρὸς ὄρθιον ἱεμένου καλὸν χαίτης ἐπιλαμβάνεσθαι , ὡς μὴ ὁ ἵππος τῷ τε χωρίῳ ἅμα καὶ τῷ χαλινῷ βαρύνηται .
+perseus-eng2	 When jumping a ditch or riding up hill it is well to take hold of the mane,
+
+cts:urn:tlg0032.tlg013:8.8
+glaux1.0-sentence	257
+perseus-grc2	 εἴς γε μὴν τὸ πρανὲς καὶ ἑαυτὸν ὑπτιώτερον ποιητέον καὶ τοῦ ἵππου ἀντιληπτέον τῷ χαλινῷ , ὡς μὴ προπετῶς εἰς τὸ κάταντες μήτε αὐτὸς μήτε ὁ ἵππος φέρηται .
+perseus-eng2	 that the horse may not be burdened by his bridle and the difficulty of the ground at the same time. When going down a steep incline, he should throw his body back and support the horse with the bridle, that neither rider nor horse may be tossed headlong down hill.
+
+cts:urn:tlg0032.tlg013:8.9
+glaux1.0-sentence	258
+perseus-grc2	 ὀρθῶς δ’ ἔχει καὶ τὸ ἄλλοτε μὲν ἐν ἄλλοις τόποις , ἄλλοτε δὲ μακράς , ἄλλοτε δὲ βραχείας τὰς ἱππασίας ποιεῖσθαι .
+perseus-eng2	 It is correct also to exercise the horse sometimes in one place, sometimes in another,
+
+cts:urn:tlg0032.tlg013:8.9
+glaux1.0-sentence	259
+perseus-grc2	 ἀμισέστερα γὰρ καὶ ταῦτα τῷ ἵππῳ τοῦ ἀεὶ ἐν τοῖς αὐτοῖς τόποις καὶ ὁμοίας τὰς ἱππασίας ποιεῖσθαι .
+perseus-eng2	 and to make the exercises sometimes long and sometimes short; for this is less irksome to the horse than being exercised always in the same place and for the same length of time.
+
+cts:urn:tlg0032.tlg013:8.10
+glaux1.0-sentence	260
+perseus-grc2	 ἐπεὶ δὲ δεῖ ἐν παντοίοις τε χωρίοις τὸν ἱππέα ἀνὰ κράτος ἐλαύνοντα ἔποχον εἶναι καὶ ἀπὸ τοῦ ἵππου τοῖς ὅπλοις καλῶς δύνασθαι χρῆσθαι , ὅπου μέν ἐστι χωρία ἐπιτήδεια καὶ θηρία , ἄμεμπτος ἡ ἐν θήραις μελέτη τῆς ἱππικῆς ·
+perseus-eng2	 Since it is necessary that the rider should have a firm seat when riding at top speed over all sorts of country, and should be able to use his weapons properly on horseback, the practice of horsemanship by hunting is to be recommended where the country is suitable and big game is to be found.
+
+cts:urn:tlg0032.tlg013:8.10
+glaux1.0-sentence	261
+perseus-grc2	 ὅπου δὲ ταῦτα μὴ ὑπάρχει , ἀγαθὴ ἄσκησις καὶ ἢν δύο ἱππότα συνθεμένω ὁ μὲν φεύγῃ ἐπὶ τοῦ ἵππου παντοῖα χωρία καὶ τὸ δόρυ εἰς τ- ὄπισθεν μεταβαλόμενος ὑποχωρῇ , ὁ δὲ διώκῃ ἐσφαιρωμένα τε ἔχων ἀκόντια καὶ δόρυ ὡσαύτως πεπραγματευμένον , καὶ ὅπου μὲν ἂν εἰς ἀκόντιον ἀφικνῆται , ἀκοντίζῃ τὸν φεύγοντα τοῖς σφαιρωτοῖς , ὅπου δ’ ἂν εἰς δόρατος πληγήν , τῷ δόρατι παίῃ τὸν ἁλισκόμενον .
+perseus-eng2	 Where these conditions are lacking, it is a good method of training for two riders to work together thus: one flies on his horse over all kinds of ground and retreats, reversing his spear so that it points backwards, while the other pursues, having buttons on his javelins and holding his spear in the same position, and when he gets within javelin shot, tries to hit the fugitive with the blunted weapons, and if he gets near enough to use his spear, strikes his captive with it.
+
+cts:urn:tlg0032.tlg013:8.11
+glaux1.0-sentence	262
+perseus-grc2	 ἀγαθὸν δὲ κἄν ποτε συμπέσωσιν , ἑλκύσαντα ἐφ’ ἑαυτὸν τὸν πολέμιον ἐξαίφνης ἀπῶσαι ·
+perseus-eng2	 It is also a good plan, in case of a collision between them, for one to pull his adversary towards him and suddenly push him back again,
+
+cts:urn:tlg0032.tlg013:8.11
+glaux1.0-sentence	263
+perseus-grc2	 τοῦτο γὰρ καταβλητικόν .
+perseus-eng2	 since that is the way to dismount him.
+
+cts:urn:tlg0032.tlg013:8.11
+glaux1.0-sentence	264
+perseus-grc2	 ὀρθῶς δὲ ἔχει καὶ τῷ ἑλκομένῳ ἐπελαύνειν τὸν ἵππον ·
+perseus-eng2	 The right thing for the man who is being pulled is to urge his horse forward;
+
+cts:urn:tlg0032.tlg013:8.11
+glaux1.0-sentence	265
+perseus-grc2	 τοῦτο γὰρ ποιῶν ὁ ἑλκόμενος καταβάλοι ἂν μᾶλλον τὸν ἕλκοντα ἢ καταπέσοι .
+perseus-eng2	 by doing this the pulled is more likely to unhorse the puller than to be unhorsed himself.
+
+cts:urn:tlg0032.tlg013:8.12
+glaux1.0-sentence	266
+perseus-grc2	 ἢν δέ ποτε καὶ στρατοπέδου ἀντικαθημένου ἀνθιππεύωσιν ἀλλήλοις , καὶ διώκωσι μὲν μέχρι τῆς πολεμίας φάλαγγος τοὺς ἀντίους , φεύγωσι δὲ μέχρι τῆς φιλίας , ἀγαθὸν καὶ ἐνταῦθα ἐπίστασθαι ὅτι ἕως μὲν ἂν παρὰ τοὺς φίλους τις ᾖ , καλὸν καὶ ἀσφαλὲς τὸ ἐν πρώτοις ἀναστρέψαντα ἀνὰ κράτος ἐπικεῖσθαι , ὅταν δ’ ἐγγὺς τῶν ἐναντίων γίγνηται , ὑποχείριον τὸν ἵππον ἔχειν .
+perseus-eng2	 If at any time when an enemy’s camp lies in front there is a cavalry skirmish, and one side presses the pursuit right up to the enemy’s line of battle, but then retreats hastily to its own main body, it is well to know in that case that so long as you are by your friends, it is proper and safe to be among the first to wheel and make for the enemy at full speed;
+
+cts:urn:tlg0032.tlg013:8.12
+glaux1.0-sentence	267
+perseus-grc2	 οὕτω γὰρ ἂν ὡς τὸ εἰκὸς μάλιστα δύναιτο βλάπτων τοὺς ἐναντίους μὴ βλάπτεσθαι ὑπ’ αὐτῶν .
+perseus-eng2	 but when you come near the enemy to keep your horse well in hand. For in this way you have the best chance of injuring the enemy without coming to harm yourself.
+
+cts:urn:tlg0032.tlg013:8.13
+glaux1.0-sentence	268
+perseus-grc2	 ἀνθρώποις μὲν οὖν ἄνθρωπον ἔδοσαν οἱ θεοὶ λόγῳ διδάσκειν ἃ δεῖ ποιεῖν , ἵππον δὲ δῆλον ὅτι λόγῳ μὲν οὐδὲν ἂν διδάξαις ·
+perseus-eng2	 Now, whereas the gods have given to men the power of instructing one another in their duty by word of mouth, it is obvious that you can teach a horse nothing by word of mouth.
+
+cts:urn:tlg0032.tlg013:8.13
+glaux1.0-sentence	269
+perseus-grc2	 ἢν δὲ ὅταν μὲν ποιήσῃ ὡς ἂν βούλοιο , ἀντιχαρίσῃ τι αὐτῷ , ὅταν δὲ ἀπειθῇ , κολάζῃς , οὕτω μάλιστ’ ἂν μάθοι τὸ δέον ὑπηρετεῖν .
+perseus-eng2	 If, however, you reward him when he behaves as you wish, and punish him when he is disobedient, he will best learn to do his duty.
+
+cts:urn:tlg0032.tlg013:8.14
+glaux1.0-sentence	270
+perseus-grc2	 καὶ ἔστι μὲν τοῦτο ἐν βραχεῖ εἰπεῖν , δι’ ὅλης δὲ τῆς ἱππικῆς παρακολουθεῖ .
+perseus-eng2	 This rule can be stated in few words, but is applies to the whole art of horsemanship.
+
+cts:urn:tlg0032.tlg013:8.14
+glaux1.0-sentence	271
+perseus-grc2	 καὶ γὰρ χαλινὸν μᾶλλον ἂν λαμβάνοι , εἰ ὁπότε δέξαιτο ἀγαθόν τι αὐτῷ ἀποβαίνοι ·
+perseus-eng2	 He will receive the bit, for example, more willingly if something good happens to him as soon as he takes it.
+
+cts:urn:tlg0032.tlg013:8.14
+glaux1.0-sentence	272
+perseus-grc2	 καὶ διαπηδῴη δ’ ἂν καὶ ἐξάλλοιτο καὶ τ- ἄλλα πάντα ὑπηρετοίη ἄν , εἰ προσδοκῴη , ὁπότε τὰ σημαινόμενα πράξειε , ῥᾳστώνην τινά .
+perseus-eng2	 He will also leap over and jump out of anything, and perform all his actions duly if he can expect a rest as soon as he has done what is required of him.
+
+cts:urn:tlg0032.tlg013:9.1
+glaux1.0-sentence	273
+perseus-grc2	 καὶ τὰ μὲν δὴ εἰρημένα ταῦτ’ ἐστίν , ὡς ἂν ἥκιστα μὲν ἐξαπατῷτο καὶ πῶλον καὶ ἵππον ὠνούμενος , ἥκιστα δ’ ἂν διαφθείροι χρώμενος , μάλιστα δ’ ἂν ἵππον ἀποδεικνύοι , εἰ δέοι , ἔχοντα ὧν ἱππεὺς δεῖται εἰς πόλεμον .
+perseus-eng2	 So far we have described how to avoid being cheated in buying a colt or a horse, how to avoid spoiling him in usage and how to impart to a horse all the qualities required by a cavalryman for war.
+
+cts:urn:tlg0032.tlg013:9.1
+glaux1.0-sentence	274
+perseus-grc2	 καιρὸς δ’ ἴσως γράψαι καί , εἴ ποτε συμβαίη θυμοειδεστέρῳ ἵππῳ τοῦ καιρίου χρῆσθαι ἢ βλακωδεστέρῳ , ὡς ἂν ὀρθότατα ἑκατέρῳ χρῷτο .
+perseus-eng2	 It is time perhaps to give directions, in case one has to deal with a horse that is too spirited or too sluggish, for the correct way of managing either.
+
+cts:urn:tlg0032.tlg013:9.2
+glaux1.0-sentence	275
+perseus-grc2	 πρῶτον μὲν τοίνυν χρὴ τοῦτο γνῶναι , ὅτι ἐστὶ θυμὸς ἵππῳ ὅπερ ὀργὴ ἀνθρώπῳ .
+perseus-eng2	 First, then, it must be realised that spirit in a horse is precisely what anger is in a man.
+
+cts:urn:tlg0032.tlg013:9.2
+glaux1.0-sentence	276
+perseus-grc2	 ὥσπερ οὖν ἄνθρωπον ἥκιστ’ ἂν ὀργίζοι τις ὁ μήτε λέγων χαλεπὸν μηδὲν μήτε ποιῶν , οὕτω καὶ ἵππον θυμοειδῆ ὁ μὴ ἀνιῶν ἥκιστ’ ἂν ἐξοργίζοι .
+perseus-eng2	 Therefore, just as you are least likely to make a man angry if you neither say nor do anything disagreeable to him, so he who abstains from annoying a spirited horse is least likely to rouse his anger.
+
+cts:urn:tlg0032.tlg013:9.3
+glaux1.0-sentence	277
+perseus-grc2	 εὐθὺς μὲν οὖν χρὴ ἐν τῇ ἀναβάσει ἐπιμελεῖσθαι ὡς ἂν ἥκιστ’ ἀναβαίνων λυποίη ·
+perseus-eng2	 Accordingly, at the moment of mounting, the rider should take care to worry him as little as possible;
+
+cts:urn:tlg0032.tlg013:9.3
+glaux1.0-sentence	278
+perseus-grc2	 ἐπειδὰν δὲ ἀναβῇ , ἠρεμήσαντα πλείω χρόνον ἢ τὸν ἐπιτυχόντα οὕτω προκινεῖν αὐτὸν ὡς πρᾳοτάτοις σημείοις ·
+perseus-eng2	 and when he is mounted, he should let him stand still longer than is otherwise usual, and then direct him to go by the most gentle aids.
+
+cts:urn:tlg0032.tlg013:9.3
+glaux1.0-sentence	279
+perseus-grc2	 ἔπειτα δ’ ἐκ τοῦ βραδυτάτου ἀρχόμενον οὕτως αὖ εἰς τὸ θᾶττον προάγειν , ὡς ἂν μάλιστα λανθάνοι αὑτὸν ὁ ἵππος εἰς τὸ ταχὺ ἀφικνούμενος .
+perseus-eng2	 Then let him begin at a very slow pace and increase the speed with the same gentle help, so that the horse will not be aware of the transition to a quicker motion.
+
+cts:urn:tlg0032.tlg013:9.4
+glaux1.0-sentence	280
+perseus-grc2	 ὅ τι δ’ ἂν ἐξαίφνης σημήνῃ , θυμοειδῆ ἵππον ὥσπερ ἄνθρωπον ταράττει τὰ ἐξαπίναια καὶ ὁράματα καὶ ἀκούσματα καὶ παθήματα .
+perseus-eng2	 Any sudden sign disturbs a spirited horse, just as sudden sights and sounds and sensations disturb a man.
+
+cts:urn:tlg0032.tlg013:9.4
+glaux1.0-sentence	281
+perseus-grc2	 εἰδέναι δὲ χρὴ ὅτι καὶ ἐν ἵππῳ τὰ ἐξαπίναια τάραχον ἐξεργάζεται .
+perseus-eng2	 It is important to realise that a horse too is flurried by anything sudden.
+
+cts:urn:tlg0032.tlg013:9.5
+glaux1.0-sentence	282
+perseus-grc2	 ἢν δὲ καὶ εἰς τὸ θᾶττον ὁρμώμενον τοῦ καιροῦ ὑπολαμβάνειν βούλῃ τὸν θυμοειδῆ , οὐ δεῖ ἐξαπιναίως σπᾶν , ἀλλ’ ἠρεμαίως προσάγεσθαι τῷ χαλινῷ , πραΰνοντα , οὐ βιαζόμενον ἠρεμεῖν .
+perseus-eng2	 If you want to correct a spirited horse when he is going too fast, do not pull him suddenly, but quietly check him with the bit, soothing him, not forcing him, to a quiet pace.
+
+cts:urn:tlg0032.tlg013:9.6
+glaux1.0-sentence	283
+perseus-grc2	 καὶ αἵ τε μακραὶ ἐλάσεις μᾶλλον ἢ αἱ πυκναὶ ἀποστροφαὶ πραΰνουσι τοὺς ἵππους , καὶ αἱ ἡσυχαῖαι μέν , πολυχρόνιοι δὲ καθέψουσι καὶ πραΰνουσι καὶ οὐκ ἀνεγείρουσι τὸν θυμοειδῆ .
+perseus-eng2	 Long rides rather than frequent turnings, calm horses; and quiet ones lasting long soothe and calm a spirited horse and do not excite him.
+
+cts:urn:tlg0032.tlg013:9.7
+glaux1.0-sentence	284
+perseus-grc2	 εἰ δέ τις οἴεται , ἢν ταχὺ καὶ πολλὰ ἐλαύνηται , ἀπειπεῖν ποιήσας τὸν ἵππον πραυνεῖν , τ- ἐναντία γιγνώσκει τοῦ γιγνομένου .
+perseus-eng2	 But if anyone supposes that he will calm a horse by frequent riding at a quick pace so as to tire him, his opinion is the opposite of the truth.
+
+cts:urn:tlg0032.tlg013:9.7
+glaux1.0-sentence	285
+perseus-grc2	 ἐν γὰρ τοῖς τοιούτοις ὁ θυμοειδὴς καὶ ἄγειν βίᾳ μάλιστα ἐπιχειρεῖ καὶ σὺν τῇ ὀργῇ , ὥσπερ ἄνθρωπος ὀργίλος , πολλάκις καὶ ἑαυτὸν καὶ τὸν ἀναβάτην πολλὰ ἀνήκεστα ἐποίησεν .
+perseus-eng2	 For in such cases a spirited horse does his utmost to get the upper hand by force, and in his excitement, like an angry man, he often causes many irreparable injuries both to himself and to his rider.
+
+cts:urn:tlg0032.tlg013:9.8
+glaux1.0-sentence	286
+perseus-grc2	 ἐπιλαμβάνειν δὲ χρὴ ἵππον θυμοειδῆ καὶ τότε τοῦ εἰς τὸ τάχιστον ὁρμᾶν , τοῦ δὲ δὴ παραβάλλειν ἵππῳ καὶ παντάπασιν ἀπέχεσθαι ·
+perseus-eng2	 One must prevent a high-spirited horse from going at his top speed, and of course, entirely avoid letting him race with another horse;
+
+cts:urn:tlg0032.tlg013:9.8
+glaux1.0-sentence	287
+perseus-grc2	 σχεδὸν γὰρ οἱ θυμοειδέστατοι καὶ φιλονικότατοι τῶν ἵππων γίγνονται .
+perseus-eng2	 for as a rule the most highly spirited horses are also most eager for victory.
+
+cts:urn:tlg0032.tlg013:9.9
+glaux1.0-sentence	288
+perseus-grc2	 καὶ χαλινοὶ δὲ οἱ λεῖοι ἐπιτηδειότεροι τῶν τραχέων .
+perseus-eng2	 As for bits, the smooth are more suitable than the rough;
+
+cts:urn:tlg0032.tlg013:9.9
+glaux1.0-sentence	289
+perseus-grc2	 ἐὰν δὲ καὶ τραχὺς ἐμβληθῇ , τῇ χαλαρότητι λείῳ δεῖ αὐτὸν ἀφομοιοῦν .
+perseus-eng2	 but if a rough one is used, it should be made to resemble a smooth one by lightness of hand.
+
+cts:urn:tlg0032.tlg013:9.9
+glaux1.0-sentence	290
+perseus-grc2	 ἀγαθὸν δὲ ἐθίζειν αὑτὸν καὶ τὸ ἠρεμεῖν , μάλιστα ἐπὶ θυμοειδοῦς ἵππου , καὶ τὸ ὡς ἥκιστα ἄλλῳ τινὶ ἅπτεσθαι ἢ οἷς τοῦ καθῆσθαι ἀσφαλῶς ἕνεκα ἁπτόμεθα .
+perseus-eng2	 It is also well to accustom oneself to sit still, especially on a spirited horse, and to touch him as little as possible with anything other than the parts that give us a safe seat by contact.
+
+cts:urn:tlg0032.tlg013:9.10
+glaux1.0-sentence	291
+perseus-grc2	 εἰδέναι δὲ χρὴ ὅτι δίδαγμά τί ἐστι καὶ τὸ ποππυσμῷ μὲν πραΰνεσθαι , κλωσμῷ δὲ ἐγείρεσθαι , καὶ εἴ τις ἐξ ἀρχῆς ἐπὶ μὲν κλωσμῷ τὰ πραέα , ἐπὶ δὲ ποππυσμῷ τὰ χαλεπὰ προσφέροι , μάθοι ἂν ὁ ἵππος ποππυσμῷ μὲν ἐγείρεσθαι , κλωσμῷ δὲ πραΰνεσθαι .
+perseus-eng2	 It should also be known that a horse can be taught to be calm by a chirp with the lips and to be roused by a cluck with the tongue. And if from the first you use with the cluck aids to calm him, and with the chirp aids to rouse him, the horse will learn to rouse himself at the chirp and to calm down at the cluck.
+
+cts:urn:tlg0032.tlg013:9.11
+glaux1.0-sentence	292
+perseus-grc2	 οὕτως οὖν δεῖ καὶ παρὰ κραυγὴν καὶ παρὰ σάλπιγγα μήτ’ αὐτὸν φαίνεσθαι τεθορυβημένον τῷ ἵππῳ μήτε μὴν ἐκείνῳ θορυβῶδες μηδὲν προσφέρειν , ἀλλ’ εἰς τὸ δυνατὸν καὶ ἀναπαύειν ἐν τῷ τοιούτῳ καὶ ἄριστα καὶ δεῖπνα , εἰ ἐγχωροίη , προσφέρειν .
+perseus-eng2	 Accordingly, if a shout is heard or a trumpet sounds, you must not allow the horse to notice any sign of alarm in you, and must on no account do anything to him to cause him alarm, but as far as possible let him rest in such circumstances, and, if you have the opportunity, bring him his morning or evening meal.
+
+cts:urn:tlg0032.tlg013:9.12
+glaux1.0-sentence	293
+perseus-grc2	 κάλλιστον δὲ συμβούλευμα τὸ ἄγαν θυμοειδῆ ἵππον μὴ κτᾶσθαι εἰς πόλεμον .
+perseus-eng2	 But the best advice is not to get an over-spirited horse for war.
+
+cts:urn:tlg0032.tlg013:9.12
+glaux1.0-sentence	294
+perseus-grc2	 βλᾶκα γε μὴν ἵππον ἀρκεῖν μοι δοκεῖ γράψαι πάντα τ- ἐναντία ποιεῖν ὅσων τῷ θυμοειδεῖ χρῆσθαι συμβουλεύομεν .
+perseus-eng2	 As for a sluggish beast, I may be content with the remark that in everything you must do the opposite of what we advise for the treatment of a high-spirited one.
+
+cts:urn:tlg0032.tlg013:10.1
+glaux1.0-sentence	295
+perseus-grc2	 ἢν δέ τίς ποτε βουληθῇ χρῆσθαι τῷ χρησίμῳ εἰς πόλεμον ἵππῳ ὡς μεγαλοπρεπεστέρῳ τε καὶ περιβλεπτοτέρῳ ἱππάζεσθαι , τοῦ μὲν ἕλκειν τε τὸ στόμα τῷ χαλινῷ καὶ μυωπίζειν τε καὶ μαστιγοῦν τὸν ἵππον , ἃ οἱ πολλοὶ ποιοῦντες λαμπρύνειν οἴονται , ἀπέχεσθαι δεῖ ·
+perseus-eng2	 If a man wants to make a useful war-horse look more stately and showy when ridden, he must avoid pulling his mouth with the bit, and using the spur and whip, means by which most people imagine that they show off a horse.
+
+cts:urn:tlg0032.tlg013:10.1
+glaux1.0-sentence	296
+perseus-grc2	 πάντα γὰρ τ- ἐναντία οὗτοί γε ποιοῦσιν ὧν βούλονται .
+perseus-eng2	 In point of fact the results they produce are the very opposite of what they intend.
+
+cts:urn:tlg0032.tlg013:10.2
+glaux1.0-sentence	297
+perseus-grc2	 τά τε γὰρ στόματα ἕλκοντες ἄνω ἀντὶ τοῦ προορᾶν ἐκτυφλοῦσι τοὺς ἵππους καὶ μυωπίζοντες καὶ παίοντες ἐκπλήττουσιν , ὡς τεταράχθαι καὶ κινδυνεύειν .
+perseus-eng2	 For by dragging the mouth up they blind their horses instead of letting them see ahead, and by spurring and whipping, flurry them so that they are startled and get into danger.
+
+cts:urn:tlg0032.tlg013:10.2
+glaux1.0-sentence	298
+perseus-grc2	 ταῦτα δ’ ἐστὶν ἵππων ἔργα τῶν μάλιστα ἀχθομένων ἱππασίᾳ καὶ αἰσχρὰ καὶ οὐ καλὰ ποιούντων .
+perseus-eng2	 That is the behaviour of horses that strongly object to being ridden and that behave in an ugly and unseemly fashion.
+
+cts:urn:tlg0032.tlg013:10.3
+glaux1.0-sentence	299
+perseus-grc2	 ἐὰν δέ τις διδάξῃ τὸν ἵππον ἐν χαλαρῷ μὲν τῷ χαλινῷ ἱππεύειν , ἄνω δὲ τὸν αὐχένα αἴρειν , ἀπὸ δὲ τῆς κεφαλῆς κυρτοῦσθαι , οὕτως ἂν ἀπεργάζοιτο ποιεῖν τὸν ἵππον οἵοισπερ καὶ αὐτὸς ἥδεταί τε καὶ ἀγάλλεται .
+perseus-eng2	 But if you teach the horse to go with a slack bridle, to hold his neck up and to arch it towards the head, you will cause the horse to do the very things in which he himself delights and takes the greatest pleasure.
+
+cts:urn:tlg0032.tlg013:10.4
+glaux1.0-sentence	300
+perseus-grc2	 τεκμήριον δὲ ὅτι τούτοις ἥδεται ·
+perseus-eng2	 A proof that he delights in them is that whenever he himself chooses to show off before horses,
+
+cts:urn:tlg0032.tlg013:10.4
+glaux1.0-sentence	301
+perseus-grc2	 ὅταν γὰρ αὐτὸς σχηματοποιεῖσθαι θέλῃ παρ’ ἵππους , μάλιστα δὲ ὅταν παρὰ θηλείας , τότε αἴρει τε τὸν αὐχένα ἄνω καὶ κυρτοῖ μάλιστα τὴν κεφαλὴν γοργούμενος , καὶ τὰ μὲν σκέλη ὑγρὰ μετεωρίζει , τὴν δὲ οὐρὰν ἄνω ἀνατείνει .
+perseus-eng2	 and especially before mares, he raises his neck highest and arches his head most, looking fierce; he lifts his legs freely off the ground and tosses his tail up.
+
+cts:urn:tlg0032.tlg013:10.5
+glaux1.0-sentence	302
+perseus-grc2	 ὅταν οὖν τις αὐτὸν εἰς ταῦτα προάγῃ ἅπερ αὐτὸς σχηματοποιεῖται , ὅταν μάλιστα καλλωπίζηται , οὕτως ἡδόμενόν τε τῇ ἱππασίᾳ καὶ μεγαλοπρεπῆ καὶ γοργὸν καὶ περίβλεπτον ἀποφαίνει τὸν ἵππον .
+perseus-eng2	 Whenever, therefore, you induce him to carry himself in the attitudes he naturally assumes when he is most anxious to display his beauty, you make him look as though he took pleasure in being ridden, and give him a noble, fierce, and attractive appearance.
+
+cts:urn:tlg0032.tlg013:10.5
+glaux1.0-sentence	303
+perseus-grc2	 ὡς οὖν ἡγούμεθα ταῦτ’ ἂν ἀπεργασθῆναι νῦν αὖ πειρασόμεθα διηγεῖσθαι .
+perseus-eng2	 How we think that these effects may be produced we will now try to explain.
+
+cts:urn:tlg0032.tlg013:10.6
+glaux1.0-sentence	304
+perseus-grc2	 πρῶτον μὲν τοίνυν χρὴ οὐ μεῖον δυοῖν χαλινοῖν κεκτῆσθαι .
+perseus-eng2	 To begin with, you should possess two bits at least.
+
+cts:urn:tlg0032.tlg013:10.6
+glaux1.0-sentence	305
+perseus-grc2	 τούτων δὲ ἔστω ὁ μὲν λεῖος , τοὺς τροχοὺς εὐμεγέθεις ἔχων , ὁ δ’ ἕτερος τοὺς μὲν τροχοὺς καὶ βαρεῖς καὶ ταπεινούς , τοὺς δ’ ἐχίνους ὀξεῖς , ἵνα , ὁπόταν μὲν τοῦτον λάβῃ , ἀσχάλλων τῇ τραχύτητι διὰ τοῦτο ἀφίῃ , ὅταν δὲ τὸν λεῖον μεταλάβῃ , τῇ μὲν λειότητι αὐτοῦ ἡσθῇ , ἃ δ’ ἂν ὑπὸ τοῦ τραχέος παιδευθῇ , τ- αὐτὰ δὲ καὶ ἐν τῷ λείῳ ποιῇ .
+perseus-eng2	 One of these should be smooth and have the discs of a good size; the other should have the discs heavy and low, and the teeth sharp, so that when the horse seizes it he may drop it because he objects to its roughness, and when he is bitted with the smooth one instead, may welcome its smoothness and may do on the smooth bit what he has been trained to do with the aid of the rough one.
+
+cts:urn:tlg0032.tlg013:10.7
+glaux1.0-sentence	306
+perseus-grc2	 ἢν δ’ αὖ καταφρονήσας τῆς λειότητος θαμινὰ ἀπερείδηται ἐν αὐτῷ , τούτου ἕνεκα τοὺς τροχοὺς μεγάλους τῷ λείῳ προστίθεμεν , ἵνα χάσκειν ἀναγκαζόμενος ὑπ’ αὐτῶν ἀφίῃ τὸ στόμιον .
+perseus-eng2	 In case, however, he takes no account of it because of its smoothness, and keeps bearing against it, we put large discs on the smooth bit to stop this, so that they may force him to open his mouth and drop the bit.
+
+cts:urn:tlg0032.tlg013:10.7
+glaux1.0-sentence	307
+perseus-grc2	 οἷόν τε δὲ καὶ τὸν τραχὺν παντοδαπὸν ποιεῖν καὶ κατειλοῦντα καὶ κατατείνοντα .
+perseus-eng2	 It is possible also to make the rough bit adaptable by wrapping it up and tightening the reins.
+
+cts:urn:tlg0032.tlg013:10.8
+glaux1.0-sentence	308
+perseus-grc2	 ὁποῖοι δ’ ἂν ὦσι χαλινοί , πάντες ὑγροὶ ἔστωσαν .
+perseus-eng2	 But whatever be the pattern of the bits, they must all be flexible.
+
+cts:urn:tlg0032.tlg013:10.8
+glaux1.0-sentence	309
+perseus-grc2	 τὸν μὲν γὰρ σκληρόν , ὅπῃ ἂν ὁ ἵππος λάβῃ , ὅλον ἔχει πρὸς ταῖς γνάθοις , ὥσπερ καὶ ὀβελίσκον , ὁπόθεν ἄν τις λάβῃ , ὅλον αἴρει .
+perseus-eng2	 For wherever a horse seizes a stiff one, he holds the whole of it against his jaws, just as you lift the whole of a spit wherever you take hold of it.
+
+cts:urn:tlg0032.tlg013:10.9
+glaux1.0-sentence	310
+perseus-grc2	 ὁ δὲ ἕτερος ὥσπερ ἡ ἅλυσις ποιεῖ ·
+perseus-eng2	 But the other kind of bit acts like a chain:
+
+cts:urn:tlg0032.tlg013:10.9
+glaux1.0-sentence	311
+perseus-grc2	 ὃ γὰρ ἂν ἔχῃ τις αὐτοῦ , τοῦτο μόνον ἄκαμπτον μένει , τὸ δὲ ἄλλο ἀπήρτηται .
+perseus-eng2	 for only the part that you hold remains unbent, while the rest of it hangs loose.
+
+cts:urn:tlg0032.tlg013:10.9
+glaux1.0-sentence	312
+perseus-grc2	 τὸ δὲ φεῦγον ἐν τῷ στόματι ἀεὶ θηρεύων ἀφίησιν ἀπὸ τῶν γνάθων τὸ στόμιον ·
+perseus-eng2	 As the horse continually tries to seize the part that eludes him in his mouth, he lets the bit drop from his jaws.
+
+cts:urn:tlg0032.tlg013:10.9
+glaux1.0-sentence	313
+perseus-grc2	 τούτου ἕνεκα καὶ οἱ κατὰ μέσον ἐκ τῶν ἀξόνων δακτύλιοι κρεμάννυνται , ὅπως τούτους διώκων τῇ τε γλώττῃ καὶ τοῖς ὀδοῦσιν ἀμελῇ τοῦ ἀναλαμβάνειν πρὸς τὰς γνάθους τὸν χαλινόν .
+perseus-eng2	 This is why little rings are hung in the middle on the axles, in order that the horse may feel after them with his tongue and teeth and not think of taking the bit up against the jaws.
+
+cts:urn:tlg0032.tlg013:10.10
+glaux1.0-sentence	314
+perseus-grc2	 εἰ δέ τις ἀγνοεῖ , τί τὸ ὑγρὸν τοῦ χαλινοῦ καὶ τί τὸ σκληρόν , γράψομεν καὶ τοῦτο .
+perseus-eng2	 In case the meaning of the terms flexible and stiff as applied to a bit is not known, we will explain this too.
+
+cts:urn:tlg0032.tlg013:10.10
+glaux1.0-sentence	315
+perseus-grc2	 ὑγρὸν μὲν γάρ ἐστιν ὅταν οἱ ἄξονες εὐρείας καὶ λείας ἔχωσι τὰς συμβολάς , ὥστε ῥᾳδίως κάμπτεσθαι ·
+perseus-eng2	 Flexible means that the axles have broad and smooth links so that they bend easily;
+
+cts:urn:tlg0032.tlg013:10.10
+glaux1.0-sentence	316
+perseus-grc2	 καὶ πάντα δὲ ὁπόσα περιτίθεται περὶ τοὺς ἄξονας ἢν εὐρύστομα ᾖ καὶ μὴ σύμπυκνα , ὑγρότερά ἐστιν .
+perseus-eng2	 and if everything that goes round the axles has large openings, and does not fit tight, it is more flexible.
+
+cts:urn:tlg0032.tlg013:10.11
+glaux1.0-sentence	317
+perseus-grc2	 ἢν δὲ χαλεπῶς ἕκαστα τοῦ χαλινοῦ διατρέχῃ καὶ συνθέῃ , τοῦτ’ ἐστὶ τὸ σκληρὸν εἶναι .
+perseus-eng2	 Stiff, on the other hand, means that the pieces of the bit do not run over the axles and work in combination easily.
+
+cts:urn:tlg0032.tlg013:10.11
+glaux1.0-sentence	318
+perseus-grc2	 ὁποῖος δ’ ἄν τις ᾖ , τούτῳ τάδε γε πάντα τ- αὐτὰ ποιητέον , ἤνπερ γε βούληται ἀποδείξασθαι τὸν ἵππον οἷονπερ εἴρηται ·
+perseus-eng2	 Whatever the pattern may be, the same method of using it must be carried out in all the points that follow, assuming that you want your horse to have just the appearance I have described.
+
+cts:urn:tlg0032.tlg013:10.12
+glaux1.0-sentence	319
+perseus-grc2	 ἀνακρουστέον μὲν τὸ στόμα τοῦ ἵππου οὔτε ἄγαν χαλεπῶς ὥστ’ ἐκνεύειν , οὔτε ἄγαν ἡσύχως ὡς μὴ αἰσθάνεσθαι ·
+perseus-eng2	 The mouth must neither be pulled so hard that he holds his nose in the air, nor so gently that he takes no notice.
+
+cts:urn:tlg0032.tlg013:10.12
+glaux1.0-sentence	320
+perseus-grc2	 ἐπειδὰν δὲ ἀνακρουόμενος αἴρῃ τὸν αὐχένα , δοτέον εὐθὺς τὸν χαλινόν .
+perseus-eng2	 As soon as he raises his neck when you pull, give him the bit at once.
+
+cts:urn:tlg0032.tlg013:10.12
+glaux1.0-sentence	321
+perseus-grc2	 καὶ τ- ἄλλα δὲ δεῖ , ὥσπερ οὐ παυόμεθα λέγοντες , ἐν ᾧ ἂν καλῶς ὑπηρετῇ , χαρίζεσθαι τῷ ἵππῳ .
+perseus-eng2	 Invariably, in fact, as we cannot too often repeat, you must humour you horse whenever he responds to your wishes.
+
+cts:urn:tlg0032.tlg013:10.13
+glaux1.0-sentence	322
+perseus-grc2	 καὶ ὅταν δ’ αἴσθηται ἡδόμενον τὸν ἵππον τῇ τε ὑψαυχενίᾳ καὶ τῇ χαλαρότητι , ἐν τούτῳ οὐδὲν δεῖ χαλεπὸν προσφέρειν ὡς πονεῖν ἀναγκάζοντα , ἀλλὰ θωπεύειν ὡς ἱππάσασθαι βουλόμενον ·
+perseus-eng2	 And when you notice that high carriage of his neck and lightness of hand give him pleasure, you should not deal hardly with him as though you were forcing him to work, but coax him as when you want to stop;
+
+cts:urn:tlg0032.tlg013:10.13
+glaux1.0-sentence	323
+perseus-grc2	 οὕτω γὰρ μάλιστα θαρρῶν πρόεισιν εἰς τὴν ταχεῖαν ἱππασίαν .
+perseus-eng2	 for thus he will break into a fast pace with most confidence.
+
+cts:urn:tlg0032.tlg013:10.14
+glaux1.0-sentence	324
+perseus-grc2	 ὡς δὲ καὶ τῷ ταχὺ θεῖν ἵππος ἥδεται τεκμήριον ·
+perseus-eng2	 There is plain proof that a horse takes pleasure in going fast:
+
+cts:urn:tlg0032.tlg013:10.14
+glaux1.0-sentence	325
+perseus-grc2	 ἐκφυγὼν γὰρ οὐδεὶς βάδην πορεύεται , ἀλλὰ θεῖ .
+perseus-eng2	 for when he breaks loose a horse never goes at a walking pace, but always runs.
+
+cts:urn:tlg0032.tlg013:10.14
+glaux1.0-sentence	326
+perseus-grc2	 τούτῳ γὰρ πέφυκεν ἥδεσθαι , ἢν μή τις πλείω τοῦ καιροῦ θεῖν ἀναγκάζῃ ·
+perseus-eng2	 He instinctively takes pleasure in this, provided he is not compelled to run too far for his strength.
+
+cts:urn:tlg0032.tlg013:10.14
+glaux1.0-sentence	327
+perseus-grc2	 ὑπερβάλλον δὲ τὸν καιρὸν οὐδὲν τῶν πάντων ἡδὺ οὔτε ἵππῳ οὔτε ἀνθρώπῳ .
+perseus-eng2	 Nothing in excess is ever pleasing either to horse or man.
+
+cts:urn:tlg0032.tlg013:10.15
+glaux1.0-sentence	328
+perseus-grc2	 ὅταν γε μὴν εἰς τὸ ἱππάζεσθαι μετὰ τοῦ κυδροῦ ἀφιγμένος ᾖ , εἰθισμένος μὲν δήπου ἡμῖν ἦν ἐν τῇ πρώτῃ ἱππασίᾳ ἐκ τῶν στροφῶν εἰς τὸ θᾶττον ὁρμᾶσθαι .
+perseus-eng2	 When your horse has progressed so far as to bear himself proudly when ridden, he has, of course, already been accustomed in the early exercises to break into a quicker pace after turning.
+
+cts:urn:tlg0032.tlg013:10.15
+glaux1.0-sentence	329
+perseus-grc2	 ἢν δέ τις τοῦτο μὲν μεμαθηκότος αὐτοῦ ἅμα ἀντιλαμβάνηταί τε τῷ χαλινῷ καὶ σημήνῃ τῶν ὁρμητηρίων τι , οὕτως ὑπὸ μὲν τοῦ χαλινοῦ πιεσθείς , ὑπὸ δὲ τοῦ ὁρμᾶν σημανθῆναι ἐγερθείς , καὶ προβάλλεται μὲν τὰ στέρνα , αἴρει δὲ ἄνω τὰ σκέλη ὀργιζόμενος , οὐ μέντοι ὑγρά γε ·
+perseus-eng2	 Now if after he has learnt this you pull him up with the bit and at the same time give him one of the signs to go forward, then being held back by the bit and yet roused by the signal to go forward, he throws his chest out and lifts his legs from the ground impatiently, but not with a supple motion;
+
+cts:urn:tlg0032.tlg013:10.15
+glaux1.0-sentence	330
+perseus-grc2	 οὐ γὰρ μάλα ὅταν λυπῶνται ὑγροῖς τοῖς σκέλεσιν ἵπποι χρῶνται .
+perseus-eng2	 for when horses feel uncomfortable, the action of their legs is not at all supple.
+
+cts:urn:tlg0032.tlg013:10.16
+glaux1.0-sentence	331
+perseus-grc2	 ἢν δέ τις οὕτως ἀνεζωπυρημένῳ αὐτῷ δῷ τὸν χαλινόν , ἐνταῦθ’ ὑφ’ ἡδονῆς τῷ διὰ τὴν χαλαρότητα τοῦ στομίου λελύσθαι νομίζειν , κυδρῷ μὲν τῷ σχήματι , ὑγροῖν δὲ τοῖν σκελοῖν γαυριώμενος φέρεται , παντάπασιν ἐκμιμούμενος τὸν πρὸς ἵππους καλλωπισμόν .
+perseus-eng2	 But if, when he is thus excited, you give him the bit, then, mistaking the looseness of the bit for a deliverance from restraint, he bounds forward for very joy with a proud bearing and supple legs, exultant, imitating exactly in every way the graces that he displays before horses.
+
+cts:urn:tlg0032.tlg013:10.17
+glaux1.0-sentence	332
+perseus-grc2	 καὶ οἱ θεώμενοι τὸν ἵππον τοιοῦτον ἐπικαλοῦσιν ἐλευθέριόν τε καὶ ἐθελουργὸν καὶ ἱππαστὴν καὶ θυμοειδῆ καὶ σοβαρὸν καὶ ἅμα ἡδύν τε καὶ γοργὸν ἰδεῖν .
+perseus-eng2	 And those who watch the horse when he is like that call him well-bred, a willing worker, worth riding, mettlesome, magnificent, and declare his appearance to be at once pleasing and fiery.
+
+cts:urn:tlg0032.tlg013:10.17
+glaux1.0-sentence	333
+perseus-grc2	 καὶ ταῦτα μὲν δή , ἢν τούτων τις ἐπιθυμήσῃ , μέχρι τούτων ἡμῖν γεγράφθω .
+perseus-eng2	 And here we conclude these explanations addressed to those who want this sort of thing.
+
+cts:urn:tlg0032.tlg013:11.1
+glaux1.0-sentence	334
+perseus-grc2	 ἢν δέ τις ἄρα βουληθῇ καὶ πομπικῷ καὶ μετεώρῳ καὶ λαμπρῷ ἵππῳ χρήσασθαι , οὐ μάλα μὲν τὰ τοιαῦτα ἐκ παντὸς ἵππου γίγνεται , ἀλλὰ δεῖ ὑπάρξαι αὐτῷ καὶ τὴν ψυχὴν μεγαλόφρονα καὶ τὸ σῶμα εὔρωστον .
+perseus-eng2	 But in case anyone wants to own a horse suitable for parade, with a high and showy action, such qualities are by no means to be found in every horse: but it is essential that he should have plenty of spirit and a strong body.
+
+cts:urn:tlg0032.tlg013:11.2
+glaux1.0-sentence	335
+perseus-grc2	 οὐ μέντοι ὅ γε οἴονταί τινες τὸν τὰ σκέλη ὑγρὰ ἔχοντα καὶ τὸ σῶμα αἴρειν δυνήσεσθαι , οὕτως ἔχει ·
+perseus-eng2	 Many suppose that an animal that has supple legs will also be capable of rearing his body.
+
+cts:urn:tlg0032.tlg013:11.2
+glaux1.0-sentence	336
+perseus-grc2	 ἀλλὰ μᾶλλον ὃς ἂν τὴν ὀσφῦν ὑγράν τε καὶ βραχεῖαν καὶ ἰσχυρὰν ἔχῃ ( καὶ οὐ τὴν κατ’ οὐρὰν λέγομεν , ἀλλ’ ἣ πέφυκε μεταξὺ τῶν πλευρῶν καὶ τῶν ἰσχίων κατὰ τὸν κενεῶνα ) , οὗτος δυνήσεται πόρρω ὑποτιθέναι τὰ ὀπίσθια σκέλη ὑπὸ τὰ ἐμπρόσθια .
+perseus-eng2	 That, however, is not the case: rather it is the horse with supple, short, strong loins that will be able to extend his hind-legs well under the forelegs.
+
+cts:urn:tlg0032.tlg013:11.3
+glaux1.0-sentence	337
+perseus-grc2	 ἢν οὖν τις ὑποτιθέντος αὐτοῦ ἀνακρούῃ τῷ χαλινῷ , ὀκλάζει μὲν τὰ ὀπίσθια ἐν τοῖς ἀστραγάλοις , αἴρει δὲ τὸ πρόσθεν σῶμα , ὥστε τοῖς ἐξ ἐναντίας φαίνεσθαι τὴν γαστέρα καὶ τὰ αἰδοῖα .
+perseus-eng2	 By loins we do not mean the parts about the tail, but those between the flanks and haunches about the belly.
+
+cts:urn:tlg0032.tlg013:11.3
+glaux1.0-sentence	338
+perseus-grc2	 δεῖ δὲ καὶ ὅταν ταῦτα ποιῇ διδόναι αὐτῷ τὸν χαλινόν , ὅπως τὰ κάλλιστα ἵππου ἑκόντα ποιῆσαι δοκῇ τοῖς ὁρῶσιν .
+perseus-eng2	 Now, if when he is planting his hind-legs under him you pull him up with the bit, he bends the hind-legs on the hocks and raises the fore-part of his body, so that anyone facing him can see the belly and the sheath.
+
+cts:urn:tlg0032.tlg013:11.4
+glaux1.0-sentence	339
+perseus-grc2	 εἰσὶ μέντοι οἳ καὶ ταῦτα διδάσκουσιν οἱ μὲν ῥάβδῳ ὑπὸ τοὺς ἀστραγάλους κρούοντες , οἱ δὲ καὶ βακτηρίᾳ παρατρέχοντά τινα κελεύοντες ὑπὸ τὰς μηριαίας παίειν .
+perseus-eng2	 Some, however, teach these accomplishments by striking him under the hocks with a rod, others by telling a man to run alongside and hit him with a stick under the gaskins.
+
+cts:urn:tlg0032.tlg013:11.5
+glaux1.0-sentence	340
+perseus-grc2	 ἡμεῖς γε μέντοι τὸ κράτιστον τῶν διδασκαλίων νομίζομεν , ὥσπερ ἀεὶ λέγομεν , ἢν ἐν παντὶ παρέπηται τὸ ἐν ᾧ ἂν ποιήσῃ τῷ ἀναβάτῃ κατὰ γνώμην τυγχάνειν ῥᾳστώνης παρ’ αὐτοῦ .
+perseus-eng2	 We, however, consider that the lesson is most satisfactory if, as we have repeatedly said, the rider invariably allows him relaxation when he has done something according to his wishes.
+
+cts:urn:tlg0032.tlg013:11.6
+glaux1.0-sentence	341
+perseus-grc2	 ἃ μὲν γὰρ ὁ ἵππος ἀναγκαζόμενος ποιεῖ , ὥσπερ καὶ Σίμων λέγει , οὔτ’ ἐπίσταται οὔτε καλά ἐστιν οὐδὲν μᾶλλον ἢ εἴ τις ὀρχηστὴν μαστιγῶν καὶ κεντρίζων ῥυθμίζοι ·
+perseus-eng2	 For what a horse does under constraint, as Simon says, he does without understanding, and with no more grace than a dancer would show if he was whipped and goaded.
+
+cts:urn:tlg0032.tlg013:11.6
+glaux1.0-sentence	342
+perseus-grc2	 πολὺ γὰρ ἂν πλείω ἀσχημονοίη ἢ καλὰ ποιοίη ὁ τοιαῦτα πάσχων καὶ ἵππος καὶ ἄνθρωπος .
+perseus-eng2	 Under such treatment horse and man alike will do much more that is ugly than graceful.
+
+cts:urn:tlg0032.tlg013:11.6
+glaux1.0-sentence	343
+perseus-grc2	 ἀλλὰ δεῖ ἀπὸ σημείων ἑκόντα πάντα τὰ κάλλιστα καὶ λαμπρότατα ἐπιδείκνυσθαι .
+perseus-eng2	 No, a horse must make the most graceful and brilliant appearance in all respects of his own will with the help of aids.
+
+cts:urn:tlg0032.tlg013:11.7
+glaux1.0-sentence	344
+perseus-grc2	 ἢν δὲ καί , ὅταν μὲν ἱππάζηται μέχρι , πολλοῦ ἱδρῶτος ἐλαύνηται , ὅταν δὲ καλῶς μετεωρίζῃ ἑαυτόν , ταχύ τε καταβαίνηται καὶ ἀποχαλινῶται , εὖ χρὴ εἰδέναι ὅτι ἑκὼν εἶσιν εἰς τὸ μετεωρίζειν ἑαυτόν ·
+perseus-eng2	 Further, if you gallop him during a ride until he sweats freely, and as soon as he prances in fine style, quickly dismount and unbridle him, you may be sure that he will come willingly to the prance.
+
+cts:urn:tlg0032.tlg013:11.8
+glaux1.0-sentence	345
+perseus-grc2	 ἐπὶ τῶν τοιούτων δὴ ἱππαζόμενοι ἵππων καὶ θεοὶ καὶ ἥρωες γράφονται , καὶ ἄνδρες οἱ καλῶς χρώμενοι αὐτοῖς μεγαλοπρεπεῖς φαίνονται .
+perseus-eng2	 This is the attitude in which artists represent the horses on which gods and heroes ride, and men who manage such horses gracefully have a magnificent appearance.
+
+cts:urn:tlg0032.tlg013:11.9
+glaux1.0-sentence	346
+perseus-grc2	 οὕτω δὲ καὶ ἔστιν ὁ μετεωρίζων ἑαυτὸν ἵππος σφόδρα ἢ καλὸν ἢ δεινὸν ἢ ἀγαστὸν ἢ θαυμαστόν , ὡς πάντων τῶν ὁρώντων καὶ νέων καὶ γεραιτέρων τὰ ὄμματα κατέχειν .
+perseus-eng2	 Indeed a prancing horse is a thing so graceful, terrible and astonishing that it rivets the gaze of all beholders, young and old alike.
+
+cts:urn:tlg0032.tlg013:11.9
+glaux1.0-sentence	347
+perseus-grc2	 οὐδεὶς γοῦν οὔτε ἀπολείπει αὐτὸν οὔτε ἀπαγορεύει θεώμενος , ἔστ’ ἄν περ ἐπιδεικνύηται τὴν λαμπρότητα .
+perseus-eng2	 At all events no one leaves him or is tired of gazing at him so long as he shows off his brilliance.
+
+cts:urn:tlg0032.tlg013:11.10
+glaux1.0-sentence	348
+perseus-grc2	 ἤν γε μήν ποτε συμβῇ τινι τῶν τοιοῦτον ἵππον κεκτημένων ἢ φυλαρχῆσαι ἢ ἱππαρχῆσαι , οὐ δεῖ αὐτὸν τοῦτο σπουδάζειν , ὅπως αὐτὸς μόνος λαμπρὸς ἔσται , ἀλλὰ πολὺ μᾶλλον ὅπως ὅλον τὸ ἑπόμενον ἀξιοθέατον φανεῖται .
+perseus-eng2	 Should the owner of such a horse happen to be a colonel or a general, he must not make it his object to be the one brilliant figure, but must attach much more importance to making the whole troop behind him worth looking at.
+
+cts:urn:tlg0032.tlg013:11.11
+glaux1.0-sentence	349
+perseus-grc2	 ἢν μὲν οὖν ἡγῆται ὡς μάλιστα ἐπαινοῦσι τοὺς τοιούτους ἵππους , ὃς ἂν ἀνωτάτω αἰρόμενος καὶ πυκνότατα τὸ σῶμα βραχύτατον προβαίνῃ , δῆλον ὅτι καὶ βάδην ἕποιντ’ ἂν οἱ ἄλλοι ἵπποι αὐτῷ .
+perseus-eng2	 Now if a horse is leading in the manner which wins most praise for such horses, prancing high and with his body closely gathered, so that he moves forward with very short steps, the rest of the horses must obviously follow also at a walking pace.
+
+cts:urn:tlg0032.tlg013:11.11
+glaux1.0-sentence	350
+perseus-grc2	 ἐκ δὲ ταύτης τῆς ὄψεως τί ἂν καὶ λαμπρὸν γένοιτ’ ἄν ;
+perseus-eng2	 Now what can there be really brilliant in such a sight?
+
+cts:urn:tlg0032.tlg013:11.12
+glaux1.0-sentence	351
+perseus-grc2	 ἢν δὲ ἐξεγείρας τὸν ἵππον ἡγῇ μήτε τῷ ἄγαν ταχεῖ μήτε τῷ ἄγαν βραδεῖ , ὡς δ’ εὐθυμότατοι ἵπποι καὶ γοργότατοι καὶ πονεῖν εὐσχημονέστατοι γίγνονται , — ἐὰν ἡγῇ αὐτοῖς οὕτως , ἁθρόος μὲν ἂν ὁ κτύπος , ἁθρόον δὲ τὸ φρύαγμα καὶ τὸ φύσημα τῶν ἵππων συμπαρέποιτο , ὥστε οὐ μόνον αὐτὸς ἀλλὰ καὶ πάντες οἱ συμπαρεπόμενοι ἀξιοθέατοι ἂν φαίνοιντο .
+perseus-eng2	 But if you rouse your horse and lead neither too fast nor too slow, but at the pace at which the most spirited horses look most fiery and stately — if you lead your men in that way, there will be such a continual stamping, such a continual neighing and snorting of the horses going on behind you, that not only you yourself but all the troop behind you will be worth watching.
+
+cts:urn:tlg0032.tlg013:11.13
+glaux1.0-sentence	352
+perseus-grc2	 ἤν γε μήν τις καλῶς μὲν ἱππωνήσῃ , τρέφῃ δὲ ὡς πόνους δύνασθαι ὑποφέρειν , ὀρθῶς δὲ χρῆται καὶ ἐν τοῖς πρὸς πόλεμον μελετήμασι καὶ ἐν ταῖς πρὸς ἐπίδειξιν ἱππασίαις καὶ ἐν τοῖς πολεμικοῖς ἀγωνίσμασι , τί ἔτι ἐμποδὼν τούτῳ μὴ οὐχὶ πλείονός τε ἀξίους ἵππους ποιεῖν ἢ οἵους ἂν παραλαμβάνῃ , καὶ εὐδοκίμους μὲν ἵππους ἔχειν , εὐδοκιμεῖν δὲ αὐτὸν ἐν τῇ ἱππικῇ , ἢν μή τι δαιμόνιον κωλύῃ ;
+perseus-eng2	 If a man buys his horses well, trains them so that they can stand work, and uses them properly in the training for war, in the exhibition rides and on the battle-fields, what is there then to hinder him from making horses more valuable than they are when he takes them over, and why should he not be the owner of famous horses, and also become famous himself for his horsemanship, provided no divine power prevents?
+
+cts:urn:tlg0032.tlg013:12.1
+glaux1.0-sentence	353
+perseus-grc2	 γράψαι δὲ βουλόμεθα καὶ ὡς δεῖ ὡπλίσθαι τὸν μέλλοντα ἐφ’ ἵππου κινδυνεύειν .
+perseus-eng2	 We want to explain also how a man who is to face danger on horseback should be armed.
+
+cts:urn:tlg0032.tlg013:12.1
+glaux1.0-sentence	354
+perseus-grc2	 πρῶτον μὲν τοίνυν φαμὲν χρῆναι πρὸς τὸ σῶμα τὸν θώρακα πεποιῆσθαι .
+perseus-eng2	 We say, then, that in the first place his breastplate must be made to fit his body.
+
+cts:urn:tlg0032.tlg013:12.1
+glaux1.0-sentence	355
+perseus-grc2	 τὸν μὲν γὰρ καλῶς ἁρμόττοντα ἐκεῖνον φέρει τὸ σῶμα , τὸν δὲ ἄγαν χαλαρὸν οἱ ὦμοι μόνοι φέρουσιν .
+perseus-eng2	 For the well-fitting breastplate is supported by the whole body, whereas one that is too loose is supported by the shoulders only,
+
+cts:urn:tlg0032.tlg013:12.1
+glaux1.0-sentence	356
+perseus-grc2	 ὅ γε μὴν λίαν στενὸς δεσμός , οὐχ ὅπλον ἐστίν .
+perseus-eng2	 and one that is too tight is rather an encumbrance than a defense.
+
+cts:urn:tlg0032.tlg013:12.2
+glaux1.0-sentence	357
+perseus-grc2	 ἐπεὶ δὲ καὶ ὁ αὐχήν ἐστι τῶν καιρίων , φαμὲν χρῆναι καὶ τούτῳ ἐξ αὐτοῦ τοῦ θώρακος ὅμοιον τῷ αὐχένι στέγασμα πεποιῆσθαι .
+perseus-eng2	 And, since the neck is one of the vital parts, we hold that a covering should be available for it also, standing up from the breastplate itself and shaped to the neck.
+
+cts:urn:tlg0032.tlg013:12.2
+glaux1.0-sentence	358
+perseus-grc2	 τοῦτο γὰρ ἅμα κόσμον τε παρέξει καί , ἢν οἷον δεῖ εἰργασμένον ᾖ , δέξεται ὅταν βούληται τῷ ἀναβάτῃ τὸ πρόσωπον μέχρι τῆς ῥινός .
+perseus-eng2	 For this will serve as an ornament, and at the same time, if properly made, will cover the rider’s face, when he pleases, as high as the nose.
+
+cts:urn:tlg0032.tlg013:12.3
+glaux1.0-sentence	359
+perseus-grc2	 κράνος γε μὴν κράτιστον εἶναι νομίζομεν τὸ βοιωτιουργές ·
+perseus-eng2	 For the helmet we consider the Boeotian pattern the most satisfactory:
+
+cts:urn:tlg0032.tlg013:12.3
+glaux1.0-sentence	360
+perseus-grc2	 τοῦτο γὰρ αὖ στεγάζει μάλιστα πάντα τὰ ὑπερέχοντα τοῦ θώρακος , ὁρᾶν δὲ οὐ κωλύει .
+perseus-eng2	 for this, again, affords the best protection to all the parts that project above the breastplate without obstructing the sight.
+
+cts:urn:tlg0032.tlg013:12.3
+glaux1.0-sentence	361
+perseus-grc2	 ὁ δ’ αὖ θώραξ οὕτως εἰργάσθω ὡς μὴ κωλύειν μήτε καθίζειν μήτ’ ἐπικύπτειν .
+perseus-eng2	 As for the pattern of the breastplate, it should be so shaped as not to prevent the wearer from sitting down or stooping.
+
+cts:urn:tlg0032.tlg013:12.4
+glaux1.0-sentence	362
+perseus-grc2	 τὰ δὲ περὶ τὸ ἦτρον καὶ τὰ αἰδοῖα καὶ τὰ κύκλῳ αἱ πτέρυγες τοσαῦται καὶ τοιαῦται ἔστωσαν ὥστε στέγειν τὰ βέλη .
+perseus-eng2	 About the abdomen and middle and round that region let the flaps be of such material and such a size that they will keep out missiles.
+
+cts:urn:tlg0032.tlg013:12.5
+glaux1.0-sentence	363
+perseus-grc2	 ἐπεὶ δὲ καὶ ἡ ἀριστερὰ χεὶρ ἤν τι πάθῃ , καταλύει τὸν ἱππέα , καὶ ταύτῃ ἐπαινοῦμεν τὸ ηὑρημένον ὅπλον τὴν χεῖρα καλουμένην .
+perseus-eng2	 And as a wound in the left hand disables the rider, we also recommend the piece of armor invented for it called the hand.
+
+cts:urn:tlg0032.tlg013:12.5
+glaux1.0-sentence	364
+perseus-grc2	 τόν τε γὰρ ὦμον σκεπάζει καὶ τὸν βραχίονα καὶ τὸν πῆχυν καὶ τὸ ἐχόμενον τῶν ἡνιῶν , καὶ ἐκτείνεται δὲ καὶ συγκάμπτεται ·
+perseus-eng2	 For it protects the shoulder, the arm, the elbow, and the fingers that hold the reins; it will also extend and fold up;
+
+cts:urn:tlg0032.tlg013:12.5
+glaux1.0-sentence	365
+perseus-grc2	 πρὸς δὲ τούτοις καὶ τὸ διαλεῖπον τοῦ θώρακος ὑπὸ τῇ μασχάλῃ καλύπτει .
+perseus-eng2	 and in addition it covers the gap left by the breastplate under the armpit.
+
+cts:urn:tlg0032.tlg013:12.6
+glaux1.0-sentence	366
+perseus-grc2	 τήν γε μὴν δεξιὰν ἐπαίρειν δεῖ , ἤν τε ἀκοντίσαι ἤν τε πατάξαι βουληθῇ .
+perseus-eng2	 But the right hand must be raised when the man intends to fling his javelin or strike a blow.
+
+cts:urn:tlg0032.tlg013:12.6
+glaux1.0-sentence	367
+perseus-grc2	 τοῦ μὲν δὴ θώρακος τὸ κωλῦον ταύτῃ ἀφαιρετέον ·
+perseus-eng2	 Consequently that portion of the breastplate that hinders him in doing that should be removed;
+
+cts:urn:tlg0032.tlg013:12.6
+glaux1.0-sentence	368
+perseus-grc2	 ἀντὶ δὲ τούτου πτέρυγας ἐν τοῖς γιγγλύμοις προσθετέον ὅπως , ὅταν μὲν διαίρηται , ὁμοίως ἀναπτύσσωνται , ὅταν δὲ καταίρηται , ἐπικλείωνται .
+perseus-eng2	 and in place of it there should be detachable flaps at the joints, in order that, when the arm is elevated, they may open correspondingly, and may close when it is lowered.
+
+cts:urn:tlg0032.tlg013:12.7
+glaux1.0-sentence	369
+perseus-grc2	 τῷ γε μὴν βραχίονι τὸ ὥσπερ κνημὶς παρατιθέμενον βέλτιον ἡμῖν δοκεῖ εἶναι ἢ συνδεθὲν τῷ ὅπλῳ .
+perseus-eng2	 For the forearm it seems to us that the piece put over it separately like a greave is better than one that is bound up together with a piece of armor.
+
+cts:urn:tlg0032.tlg013:12.7
+glaux1.0-sentence	370
+perseus-grc2	 τό γε μὴν ψιλούμενον αἰρομένης τῆς δεξιᾶς στεγαστέον ἐγγὺς τοῦ θώρακος ἢ μοσχείῳ ἢ χαλκείῳ ·
+perseus-eng2	 The part that is left exposed when the right arm is raised should be covered near the breastplate with calfskin or metal;
+
+cts:urn:tlg0032.tlg013:12.7
+glaux1.0-sentence	371
+perseus-grc2	 εἰ δὲ μή , ἐν τῷ ἐπικαιροτάτῳ ἀφύλακτον ἔσται .
+perseus-eng2	 otherwise, the most vital part will be unprotected.
+
+cts:urn:tlg0032.tlg013:12.8
+glaux1.0-sentence	372
+perseus-grc2	 ἐπεὶ δ’ ἤνπερ τι πάσχῃ ὁ ἵππος , ἐν παντὶ κινδύνου καὶ ὁ ἀναβάτης γίγνεται , ὁπλίζειν δεῖ καὶ τὸν ἵππον προμετωπιδίῳ καὶ προστερνιδίῳ καὶ παραμηριδίοις ·
+perseus-eng2	 Since the rider is seriously imperiled in the event of his horse being wounded, the horse also should be armed, having head, chest, and thigh pieces:
+
+cts:urn:tlg0032.tlg013:12.8
+glaux1.0-sentence	373
+perseus-grc2	 ταῦτα γὰρ ἅμα καὶ τῷ ἀναβάτῃ παραμηρίδια γίγνεται .
+perseus-eng2	 the last also serve to cover the rider’s thighs.
+
+cts:urn:tlg0032.tlg013:12.8
+glaux1.0-sentence	374
+perseus-grc2	 πάντων δὲ μάλιστα τοῦ ἵππου τὸν κενεῶνα δεῖ σκεπάζειν ·
+perseus-eng2	 But above all the horse’s belly must be protected;
+
+cts:urn:tlg0032.tlg013:12.8
+glaux1.0-sentence	375
+perseus-grc2	 καιριώτατον γὰρ ὂν καὶ ἀφαυρότατόν ἐστι ·
+perseus-eng2	 for this, which is the most vital part, is also the weakest.
+
+cts:urn:tlg0032.tlg013:12.8
+glaux1.0-sentence	376
+perseus-grc2	 δυνατὸν δὲ σὺν τῷ ἐφιππίῳ καὶ αὐτὸν σκεπάσαι .
+perseus-eng2	 It is possible to make the cloth serve partly as a protection to it.
+
+cts:urn:tlg0032.tlg013:12.9
+glaux1.0-sentence	377
+perseus-grc2	 χρὴ δὲ καὶ τὸ ἔποχον τοιοῦτον ἐρράφθαι ὡς ἀσφαλέστερόν τε τὸν ἱππέα καθῆσθαι καὶ τὴν ἕδραν τοῦ ἵππου μὴ σίνεσθαι .
+perseus-eng2	 The quilting of the cloth should be such as to give the rider a safer seat and not to gall the horse’s back.
+
+cts:urn:tlg0032.tlg013:12.9
+glaux1.0-sentence	378
+perseus-grc2	 καὶ τὰ μὲν δὴ ἄλλα οὕτω καὶ ὁ ἵππος καὶ ὁ ἱππεὺς ὡπλισμένοι ἂν εἶεν .
+perseus-eng2	 Thus horse and man alike will be armed in most parts.
+
+cts:urn:tlg0032.tlg013:12.10
+glaux1.0-sentence	379
+perseus-grc2	 κνῆμαι δὲ καὶ πόδες ὑπερέχοιεν μὲν ἂν εἰκότως τῶν παραμηριδίων , ὁπλισθείη δ’ ἂν καὶ ταῦτα , εἰ ἐμβάδες γένοιντο σκύτους , ἐξ οὗπερ αἱ κρηπῖδες ποιοῦνται ·
+perseus-eng2	 But the rider’s shins and feet will of course be outside the thigh-pieces.
+
+cts:urn:tlg0032.tlg013:12.10
+glaux1.0-sentence	380
+perseus-grc2	 οὕτω γὰρ ἂν ἅμα ὅπλον τε κνήμαις καὶ ποσὶν ὑποδήματ’ ἂν εἴη .
+perseus-eng2	 These too can be guarded if boots made of shoe-leather are worn: there will thus be armor for the shins and covering for the feet at the same time.
+
+cts:urn:tlg0032.tlg013:12.11
+glaux1.0-sentence	381
+perseus-grc2	 ὡς μὲν δὴ μὴ βλάπτεσθαι θεῶν ἵλεων ὄντων ταῦτα ὅπλα .
+perseus-eng2	 These are the defensive arms which with the gracious assistance of heaven will afford protection from harm.
+
+cts:urn:tlg0032.tlg013:12.11
+glaux1.0-sentence	382
+perseus-grc2	 ὡς δὲ τοὺς ἐναντίους βλάπτειν , μάχαιραν μὲν μᾶλλον ἢ ξίφος ἐπαινοῦμεν ·
+perseus-eng2	 For harming the enemy we recommend the sabre rather than the sword,
+
+cts:urn:tlg0032.tlg013:12.11
+glaux1.0-sentence	383
+perseus-grc2	 ἐφ’ ὑψηλοῦ γὰρ ὄντι τῷ ἱππεῖ κοπίδος μᾶλλον ἡ πληγὴ ἢ ξίφους ἀρκέσει .
+perseus-eng2	 because, owing to his lofty position, the rider will find the cut with the Persian sabre more efficacious than the thrust with the sword.
+
+cts:urn:tlg0032.tlg013:12.12
+glaux1.0-sentence	384
+perseus-grc2	 ἀντί γε μὴν δόρατος καμακίνου , ἐπειδὴ καὶ ἀσθενὲς καὶ δύσφορόν ἐστι , τὰ κρανέϊνα δύο παλτὰ μᾶλλον ἐπαινοῦμεν .
+perseus-eng2	 And, in place of the spear with a long shaft, seeing that it is both weak and awkward to manage, we recommend rather the two Persian javelins of cornel wood.
+
+cts:urn:tlg0032.tlg013:12.12
+glaux1.0-sentence	385
+perseus-grc2	 καὶ γὰρ ἐξαφεῖναι τὸ ἕτερον δυνατὸν τῷ ἐπισταμένῳ , καὶ τῷ λειπομένῳ οἷόν τε χρῆσθαι καὶ εἰς τὸ ἀντίον καὶ εἰς τὰ πλάγια καὶ εἰς τ- ὄπισθεν ·
+perseus-eng2	 For the skilful man may throw the one and can use the other in front or on either side or behind.
+
+cts:urn:tlg0032.tlg013:12.12
+glaux1.0-sentence	386
+perseus-grc2	 καὶ ἅμα ἰσχυρότερά τε τοῦ δόρατος καὶ εὐφορώτερά ἐστιν .
+perseus-eng2	 They are also stronger than the spear and easier to manage.
+
+cts:urn:tlg0032.tlg013:12.13
+glaux1.0-sentence	387
+perseus-grc2	 ἀκόντισμά γε μὴν τὸ μακρότατον ἐπαινοῦμεν ·
+perseus-eng2	 We recommend throwing the javelin at the longest range possible.
+
+cts:urn:tlg0032.tlg013:12.13
+glaux1.0-sentence	388
+perseus-grc2	 καὶ γὰρ ἀποστρέψαι καὶ μεταλαβεῖν παλτὸν οὕτω μᾶλλον ὁ χρόνος ἐγχωρεῖ .
+perseus-eng2	 For this gives a man more time to turn his horse and to grasp the other javelin.
+
+cts:urn:tlg0032.tlg013:12.13
+glaux1.0-sentence	389
+perseus-grc2	 γράψομεν δὲ ἐν βραχεῖ καὶ ὡς ἄν τις κράτιστα ἀκοντίζοι .
+perseus-eng2	 We will also state in a few words the most effective way of throwing the javelin.
+
+cts:urn:tlg0032.tlg013:12.13
+glaux1.0-sentence	390
+perseus-grc2	 ἢν γὰρ προβαλλόμενος μὲν τὰ ἀριστερά , ἐπανάγων δὲ τὰ δεξιά , ἐξανιστάμενος δὲ ἐκ τῶν μηρῶν , μικρὸν ἐπανακύπτουσαν τὴν λόγχην ἀφῇ , οὕτω σφοδρότατόν τε καὶ μακρότατον οἴσεται τὸ ἀκόντιον , εὐστοχώτατον μέντοι , ἐὰν κατὰ τὸν σκοπὸν ἀφιεμένη ἀεὶ ὁρᾷ ἡ λόγχη .
+perseus-eng2	 If a man, in the act of advancing his left side, drawing back his right, and rising from his thighs, discharges the javelin with its point a little upwards, he will give his weapon the strongest impetus and the furthest carrying power; it will be most likely to hit the mark, however, if at the moment of discharge the point is always set on it.
+
+cts:urn:tlg0032.tlg013:12.14
+glaux1.0-sentence	391
+perseus-grc2	 καὶ ταῦτα μὲν δὴ ἰδιώτῃ καὶ ὑπομνήματα καὶ μαθήματα καὶ μελετήματα γεγράφθω ἡμῖν .
+perseus-eng2	 These notes, instructions and exercises which we have here set down are intended only for the private person.
+
+cts:urn:tlg0032.tlg013:12.14
+glaux1.0-sentence	392
+perseus-grc2	 ἃ δὲ ἱππάρχῳ προσῆκεν εἰδέναι τε καὶ πράττειν ἐν ἑτέρῳ λόγῳ δεδήλωται .
+perseus-eng2	 What it belongs to a cavalry leader to know and to do has been set forth in another book.

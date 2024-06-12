@@ -1,0 +1,1000 @@
+
+cts:urn:tlg0032.tlg011:1.1
+glaux1.0-sentence	1
+perseus-grc2	 ἐγὼ μὲν τοῦτο ἀεί ποτε νομίζω , ὁποῖοί τινες ἂν οἱ προστάται ὦσι , τοιαύτας καὶ τὰς πολιτείας γίγνεσθαι .
+perseus-eng2	 For my part I have always held that the constitution of a state reflects the character of the leading politicians.
+
+cts:urn:tlg0032.tlg011:1.1
+glaux1.0-sentence	2
+perseus-grc2	 ἐπεὶ δὲ τῶν Ἀθήνησι προεστηκότων ἔλεγόν τινες ὡς γιγνώσκουσι μὲν τὸ δίκαιον οὐδενὸς ἧττον τῶν ἄλλων ἀνθρώπων , διὰ δὲ τὴν τοῦ πλήθους πενίαν ἀναγκάζεσθαι ἔφασαν ἀδικώτεροι εἶναι περὶ τὰς πόλεις , ἐκ τούτου ἐπεχείρησα σκοπεῖν εἴ πῃ δύναιντ’ ἂν οἱ πολῖται διατρέφεσθαι ἐκ τῆς ἑαυτῶν , ὅθενπερ καὶ δικαιότατον , νομίζων , εἰ τοῦτο γένοιτο , ἅμα τῇ τε πενίᾳ αὐτῶν ἐπικεκουρῆσθαι ἂν καὶ τῷ ὑπόπτους τοῖς Ἕλλησιν εἶναι .
+perseus-eng2	 But some of the leading men at Athens have stated that they recognize justice as clearly as other men; but, they have said, owing to the poverty of the masses, we are forced to be somewhat unjust in our treatment of the cities. This set me thinking whether by any means the citizens might obtain food entirely from their own soil, which would certainly be the fairest way. I felt that, were this so, they would be relieved of their poverty, and also of the suspicion with which they are regarded by the Greek world.
+
+cts:urn:tlg0032.tlg011:1.2
+glaux1.0-sentence	3
+perseus-grc2	 σκοποῦντι δή μοι ἃ ἐπενόησα τοῦτο μὲν εὐθὺς ἀνεφαίνετο , ὅτι ἡ χώρα πέφυκεν οἵα πλείστας προσόδους παρέχεσθαι .
+perseus-eng2	 Now as I thought over my ideas, one thing seemed clear at once, that the country is by its nature capable of furnishing an ample revenue.
+
+cts:urn:tlg0032.tlg011:1.2
+glaux1.0-sentence	4
+perseus-grc2	 ὅπως δὲ γνωσθῇ ὅτι ἀληθὲς τοῦτο λέγω , πρῶτον διηγήσομαι τὴν φύσιν τῆς Ἀττικῆς .
+perseus-eng2	 To drive home the truth of this statement I will first describe the natural properties of Attica.
+
+cts:urn:tlg0032.tlg011:1.3
+glaux1.0-sentence	5
+perseus-grc2	 οὐκοῦν τὸ μὲν τὰς ὥρας ἐνθάδε πρᾳοτάτας εἶναι καὶ αὐτὰ τὰ γιγνόμενα μαρτυρεῖ ·
+perseus-eng2	 The extreme mildness of the seasons here is shown by the actual products.
+
+cts:urn:tlg0032.tlg011:1.3
+glaux1.0-sentence	6
+perseus-grc2	 ἃ γοῦν πολλαχοῦ οὐδὲ βλαστάνειν δύναιτ’ ἂν ἐνθάδε καρποφορεῖ .
+perseus-eng2	 At any rate, plants that will not even grow in many countries bear fruit here.
+
+cts:urn:tlg0032.tlg011:1.3
+glaux1.0-sentence	7
+perseus-grc2	 ὥσπερ δὲ ἡ γῆ , οὕτω καὶ ἡ περὶ τὴν χώραν θάλαττα παμφορωτάτη ἐστίν .
+perseus-eng2	 Not less productive than the land is the sea around the coasts.
+
+cts:urn:tlg0032.tlg011:1.3
+glaux1.0-sentence	8
+perseus-grc2	 καὶ μὴν ὅσαπερ οἱ θεοὶ ἐν ταῖς ὥραις ἀγαθὰ παρέχουσι , καὶ ταῦτα πάντα ἐνταῦθα πρῳαίτατα μὲν ἄρχεται , ὀψιαίτατα δὲ λήγει .
+perseus-eng2	 Notice too that the good things which the gods send in their season all come in earlier here and go out later than elsewhere.
+
+cts:urn:tlg0032.tlg011:1.4
+glaux1.0-sentence	9
+perseus-grc2	 οὐ μόνον δὲ κρατεῖ τοῖς ἐπ’ ἐνιαυτὸν θάλλουσί τε καὶ γηράσκουσιν , ἀλλὰ καὶ ἀίδια ἀγαθὰ ἔχει ἡ χώρα .
+perseus-eng2	 And the pre-eminence of the land is not only in the things that bloom and wither annually: she has other good things that last for ever.
+
+cts:urn:tlg0032.tlg011:1.4
+glaux1.0-sentence	10
+perseus-grc2	 πέφυκε μὲν γὰρ λίθος ἐν αὐτῇ ἄφθονος , ἐξ οὗ κάλλιστοι μὲν ναοί , κάλλιστοι δὲ βωμοὶ γίγνονται , εὐπρεπέστατα δὲ θεοῖς ἀγάλματα ·
+perseus-eng2	 Nature has put in her abundance of stone, from which are fashioned lovely temples and lovely altars, and goodly statues for the gods.
+
+cts:urn:tlg0032.tlg011:1.4
+glaux1.0-sentence	11
+perseus-grc2	 πολλοὶ δ’ αὐτοῦ καὶ Ἕλληνες καὶ βάρβαροι προσδέονται .
+perseus-eng2	 Many Greeks and barbarians alike have need of it.
+
+cts:urn:tlg0032.tlg011:1.5
+glaux1.0-sentence	12
+perseus-grc2	 ἔστι δὲ καὶ γῆ ἣ σπειρομένη μὲν οὐ φέρει καρπόν , ὀρυττομένη δὲ πολλαπλασίους τρέφει ἢ εἰ σῖτον ἔφερε .
+perseus-eng2	 Again, there is land that yields no fruit if sown, and yet, when quarried, feeds many times the number it could support if it grew corn.
+
+cts:urn:tlg0032.tlg011:1.5
+glaux1.0-sentence	13
+perseus-grc2	 καὶ μὴν ὑπάργυρός ἐστι σαφῶς θείᾳ μοίρᾳ ·
+perseus-eng2	 And recollect, there is silver in the soil, the gift, beyond doubt, of divine providence:
+
+cts:urn:tlg0032.tlg011:1.5
+glaux1.0-sentence	14
+perseus-grc2	 πολλῶν γοῦν πόλεων παροικουσῶν καὶ κατὰ γῆν καὶ κατὰ θάλατταν εἰς οὐδεμίαν τούτων οὐδὲ μικρὰ φλὲψ ἀργυρίτιδος διήκει .
+perseus-eng2	 at any rate, many as are the states near to her by land and sea, into none of them does even a thin vein of silver ore extend.
+
+cts:urn:tlg0032.tlg011:1.6
+glaux1.0-sentence	15
+perseus-grc2	 οὐκ ἂν ἀλόγως δέ τις οἰηθείη τῆς Ἑλλάδος καὶ πάσης δὲ τῆς οἰκουμένης ἀμφὶ τὰ μέσα οἰκεῖσθαι τὴν πόλιν .
+perseus-eng2	 One might reasonably suppose that the city lies at the centre of Greece, nay of the whole inhabited world.
+
+cts:urn:tlg0032.tlg011:1.6
+glaux1.0-sentence	16
+perseus-grc2	 ὅσῳ γὰρ ἄν τινες πλέον ἀπέχωσιν αὐτῆς , τοσούτῳ χαλεπωτέροις ἢ ψύχεσιν ἢ θάλπεσιν ἐντυγχάνουσιν ·
+perseus-eng2	 For the further we go from her, the more intense is the heat or cold we meet with;
+
+cts:urn:tlg0032.tlg011:1.6
+glaux1.0-sentence	17
+perseus-grc2	 ὁπόσοι τ’ ἂν αὖ βουληθῶσιν ἀπ’ ἐσχάτων τῆς Ἑλλάδος ἐπ’ ἔσχατα ἀφικέσθαι , πάντες οὗτοι ὥσπερ κύκλου τόρνον τὰς Ἀθήνας ἢ παραπλέουσιν ἢ παρέρχονται .
+perseus-eng2	 and every traveller who would cross from one to the other end of Greece passes Athens as the centre of a circle, whether he goes by water or by road.
+
+cts:urn:tlg0032.tlg011:1.7
+glaux1.0-sentence	18
+perseus-grc2	 καὶ μὴν οὐ περίρρυτός γε οὖσα ὅμως ὥσπερ νῆσος πᾶσιν ἀνέμοις προσάγεταί τε ὧν δεῖται καὶ ἀποπέμπεται ἃ βούλεται ·
+perseus-eng2	 Then, too, though she is not wholly sea-girt, all the winds of heaven bring to her the goods she needs and bear away her exports, as if she were an island;
+
+cts:urn:tlg0032.tlg011:1.7
+glaux1.0-sentence	19
+perseus-grc2	 ἀμφιθάλαττος γάρ ἐστι .
+perseus-eng2	 for she lies between two seas:
+
+cts:urn:tlg0032.tlg011:1.7
+glaux1.0-sentence	20
+perseus-grc2	 καὶ κατὰ γῆν δὲ πολλὰ δέχεται ἐμπορίᾳ ·
+perseus-eng2	 and she has a vast land trade as well;
+
+cts:urn:tlg0032.tlg011:1.7
+glaux1.0-sentence	21
+perseus-grc2	 ἤπειρος γάρ ἐστιν .
+perseus-eng2	 for she is of the mainland.
+
+cts:urn:tlg0032.tlg011:1.8
+glaux1.0-sentence	22
+perseus-grc2	 ἔτι δὲ ταῖς μὲν πλείσταις πόλεσι βάρβαροι προσοικοῦντες πράγματα παρέχουσιν ·
+perseus-eng2	 Further, on the borders of most states dwell barbarians who trouble them:
+
+cts:urn:tlg0032.tlg011:1.8
+glaux1.0-sentence	23
+perseus-grc2	 Ἀθήναις δὲ γειτονεύουσιν αἳ καὶ αὐταὶ πλεῖστον ἀπέχουσι τῶν βαρβάρων .
+perseus-eng2	 but the neighbouring states of Athens are themselves remote from the barbarians.
+
+cts:urn:tlg0032.tlg011:2.1
+glaux1.0-sentence	24
+perseus-grc2	 τούτων μὲν οὖν ἁπάντων , ὥσπερ εἶπον , νομίζω αὐτὴν τὴν χώραν αἰτίαν εἶναι .
+perseus-eng2	 All these advantages, as I have said, are, I believe, due to the country itself.
+
+cts:urn:tlg0032.tlg011:2.1
+glaux1.0-sentence	25
+perseus-grc2	 εἰ δὲ πρὸς τοῖς αὐτοφυέσιν ἀγαθοῖς πρῶτον μὲν τῶν μετοίκων ἐπιμέλεια γένοιτο ·
+perseus-eng2	 But instead of limiting ourselves to the blessings that may be called indigenous, suppose that, in the first place, we studied the interests of the resident aliens.
+
+cts:urn:tlg0032.tlg011:2.1
+glaux1.0-sentence	26
+perseus-grc2	 αὕτη γὰρ ἡ πρόσοδος τῶν καλλίστων ἔμοιγε δοκεῖ εἶναι , ἐπείπερ αὐτοὶ αὑτοὺς τρέφοντες καὶ πολλὰ ὠφελοῦντες τὰς πόλεις οὐ λαμβάνουσι μισθόν , ἀλλὰ μετοίκιον προσφέρουσιν — ἐπιμέλειά γε μὴν ἥδ’ ἂν ἀρκεῖν μοι δοκεῖ , εἰ ἀφέλοιμεν μὲν ὅσα μηδὲν ὠφελοῦντα τὴν πόλιν ἀτιμίας δοκεῖ τοῖς μετοίκοις παρέχειν , ἀφέλοιμεν δὲ καὶ τὸ συστρατεύεσθαι ὁπλίτας μετοίκους τοῖς ἀστοῖς .
+perseus-eng2	 For in them we have one of the very best sources of revenue, in my opinion, inasmuch as they are self-supporting and, so far from receiving payment for the many services they render to states, they contribute by paying a special tax.
+
+cts:urn:tlg0032.tlg011:2.2
+glaux1.0-sentence	27
+perseus-grc2	 μέγας μὲν γὰρ ὁ κίνδυνος ἀπόντι ·
+perseus-eng2	 I think that we should study their interests sufficiently, if we relieved them of the duties that seem to impose a certain measure of disability on the resident alien without conferring any benefit on the state, and also of the obligation to serve in the infantry along with the citizens.
+
+cts:urn:tlg0032.tlg011:2.2
+glaux1.0-sentence	28
+perseus-grc2	 μέγα δὲ καὶ τὸ ἀπὸ τῶν τέκνων καὶ τῶν οἰκιῶν ἀπιέναι .
+perseus-eng2	 Apart from the personal risk, it is no small thing to leave their trades and their private affairs.
+
+cts:urn:tlg0032.tlg011:2.3
+glaux1.0-sentence	29
+perseus-grc2	 ἀλλὰ μὴν καὶ ἡ πόλις γ’ ἂν ὠφεληθείη , εἰ οἱ πολῖται μετ’ ἀλλήλων στρατεύοιντο μᾶλλον ἢ εἰ συντάττοιντο αὐτοῖς , ὥσπερ νῦν , Λυδοὶ καὶ Φρύγες καὶ Σύροι καὶ ἄλλοι παντοδαποὶ βάρβαροι ·
+perseus-eng2	 The state itself too would gain if the citizens served in the ranks together, and no longer found themselves in the same company with Lydians, Phrygians, Syrians, and barbarians of all sorts,
+
+cts:urn:tlg0032.tlg011:2.3
+glaux1.0-sentence	30
+perseus-grc2	 πολλοὶ γὰρ τοιοῦτοι τῶν μετοίκων .
+perseus-eng2	 of whom a large part of our alien population consists.
+
+cts:urn:tlg0032.tlg011:2.4
+glaux1.0-sentence	31
+perseus-grc2	 πρὸς δὲ τῷ ἀγαθῷ τῷ τούτους ἐκ τοῦ συντάττεσθαι ἀφεθῆναι καὶ κόσμος ἂν τῇ πόλει εἴη , εἰ δοκοῖεν Ἀθηναῖοι εἰς τὰς μάχας αὑτοῖς μᾶλλον πιστεύειν ἢ ἀλλοδαποῖς .
+perseus-eng2	 In addition to the advantage of dispensing with the services of these men, it would be an ornament to the state that the Athenians should be thought to rely on themselves rather than on the help of foreigners in fighting their battles.
+
+cts:urn:tlg0032.tlg011:2.5
+glaux1.0-sentence	32
+perseus-grc2	 καὶ μεταδιδόντες δ’ ἄν μοι δοκοῦμεν τοῖς μετοίκοις τῶν τ’ ἄλλων ὧν καλὸν μεταδιδόναι καὶ τοῦ ἱππικοῦ εὐνουστέρους ἂν ποιεῖσθαι καὶ ἅμα ἰσχυροτέραν ἂν καὶ μείζω τὴν πόλιν ἀποδεικνύναι .
+perseus-eng2	 If, moreover, we granted the resident aliens the right to serve in the cavalry and various other privileges which it is proper to grant them, I think that we should find their loyalty increase and at the same time should add to the strength and greatness of the state.
+
+cts:urn:tlg0032.tlg011:2.6
+glaux1.0-sentence	33
+perseus-grc2	 εἶτα ἐπειδὴ καὶ πολλὰ οἰκιῶν ἔρημά ἐστιν ἐντὸς τῶν τειχῶν καὶ οἰκόπεδα , εἰ ἡ πόλις διδοίη οἰκοδομησομένοις ἐγκεκτῆσθαι οἳ ἂν αἰτούμενοι ἄξιοι δοκῶσιν εἶναι , πολὺ ἂν οἴομαι καὶ διὰ ταῦτα πλείους τε καὶ βελτίους ὀρέγεσθαι τῆς Ἀθήνησιν οἰκήσεως .
+perseus-eng2	 Then again, since there are many vacant sites for houses within the walls, if the state allowed approved applicants to erect houses on these and granted them the freehold of the land, I think that we should find a larger and better class of persons desiring to live at Athens.
+
+cts:urn:tlg0032.tlg011:2.7
+glaux1.0-sentence	34
+perseus-grc2	 καὶ εἰ μετοικοφύλακάς γε ὥσπερ ὀρφανοφύλακας ἀρχὴν καθισταῖμεν , καὶ τούτοις τιμή τις ἐπείη οἵτινες πλείστους μετοίκους ἀποδείξειαν , καὶ τοῦτο εὐνουστέρους ἂν τοὺς μετοίκους ποιοίη καί , ὡς τὸ εἰκός , πάντες ἂν οἱ ἀπόλιδες τῆς Ἀθήνησι μετοικίας ὀρέγοιντο καὶ τὰς προσόδους ἂν αὔξοιεν .
+perseus-eng2	 And if we appointed a board of Guardians of Aliens analogous to the Guardians of Orphans, and some kind of distinction were earmarked for guardians whose list of resident aliens was longest, that too would add to the loyalty of the aliens, and probably all without a city would covet the right of settling in Athens, and would increase our revenues.
+
+cts:urn:tlg0032.tlg011:3.1
+glaux1.0-sentence	35
+perseus-grc2	 ὥς γε μὴν καὶ ἐμπορεύεσθαι ἡδίστη τε καὶ κερδαλεωτάτη ἡ πόλις , νῦν ταῦτα λέξω .
+perseus-eng2	 I shall now say something of the unrivalled amenities and advantages of our city as a commercial centre.
+
+cts:urn:tlg0032.tlg011:3.1
+glaux1.0-sentence	36
+perseus-grc2	 πρῶτον μὲν γὰρ δήπου ναυσὶ καλλίστας καὶ ἀσφαλεστάτας ὑποδοχὰς ἔχει , ὅπου γ’ ἔστιν εἰσορμισθέντας ἀδεῶς ἕνεκα χειμῶνος ἀναπαύεσθαι .
+perseus-eng2	 In the first place, I presume, she possesses the finest and safest accommodation for shipping, since vessels can anchor here and ride safe at their moorings in spite of bad weather.
+
+cts:urn:tlg0032.tlg011:3.2
+glaux1.0-sentence	37
+perseus-grc2	 ἀλλὰ μὴν καὶ τοῖς ἐμπόροις ἐν μὲν ταῖς πλείσταις τῶν πόλεων ἀντιφορτίζεσθαί τι ἀνάγκη ·
+perseus-eng2	 Moreover, at most other ports merchants are compelled to ship a return cargo, because the local currency has no circulation in other states;
+
+cts:urn:tlg0032.tlg011:3.2
+glaux1.0-sentence	38
+perseus-grc2	 νομίσμασι γὰρ οὐ χρησίμοις ἔξω χρῶνται ·
+perseus-eng2	 but at Athens they have the opportunity of exchanging their cargo and exporting very many classes of goods that are in demand,
+
+cts:urn:tlg0032.tlg011:3.2
+glaux1.0-sentence	39
+perseus-grc2	 ἐν δὲ ταῖς Ἀθήναις πλεῖστα μὲν ἔστιν ἀντεξάγειν ὧν ἂν δέωνται ἄνθρωποι , ἢν δὲ μὴ βούλωνται ἀντιφορτίζεσθαι , καὶ οἱ ἀργύριον ἐξάγοντες καλὴν ἐμπορίαν ἐξάγουσιν .
+perseus-eng2	 or, if they do not want to ship a return cargo of goods, it is sound business to export silver;
+
+cts:urn:tlg0032.tlg011:3.2
+glaux1.0-sentence	40
+perseus-grc2	 ὅπου γὰρ ἂν πωλῶσιν αὐτό , πανταχοῦ πλέον τοῦ ἀρχαίου λαμβάνουσιν .
+perseus-eng2	 for, wherever they sell it, they are sure to make a profit on the capital invested.
+
+cts:urn:tlg0032.tlg011:3.3
+glaux1.0-sentence	41
+perseus-grc2	 εἰ δὲ καὶ τῇ τοῦ ἐμπορίου ἀρχῇ ἆθλα προτιθείη τις ὅστις δικαιότατα καὶ τάχιστα διαιροίη τὰ ἀμφίλογα , ὡς μὴ ἀποκωλύεσθαι ἀποπλεῖν τὸν βουλόμενον , πολὺ ἂν καὶ διὰ ταῦτα πλείους τε καὶ ἥδιον ἐμπορεύοιντο .
+perseus-eng2	 If prizes were offered to the magistrates of the market for just and prompt settlement of disputes, so that sailings were not delayed, the effect would be that a far larger number of merchants would trade with us and with much greater satisfaction.
+
+cts:urn:tlg0032.tlg011:3.4
+glaux1.0-sentence	42
+perseus-grc2	 ἀγαθὸν δὲ καὶ καλὸν καὶ προεδρίαις τιμᾶσθαι ἐμπόρους καὶ ναυκλήρους , καὶ ἐπὶ ξένιά γ’ ἔστιν ὅτε καλεῖσθαι , οἳ ἂν δοκῶσιν ἀξιολόγοις καὶ πλοίοις καὶ ἐμπορεύμασιν ὠφελεῖν τὴν πόλιν .
+perseus-eng2	 It would also be an excellent plan to reserve front seats in the theatre for merchants and shipowners, and to offer them hospitality occasionally, when the high quality of their ships and merchandise entitles them to be considered benefactors of the state.
+
+cts:urn:tlg0032.tlg011:3.4
+glaux1.0-sentence	43
+perseus-grc2	 ταῦτα γὰρ τιμώμενοι οὐ μόνον τοῦ κέρδους ἀλλὰ καὶ τῆς τιμῆς ἕνεκεν ὡς πρὸς φίλους ἐπισπεύδοιεν ἄν .
+perseus-eng2	 With the prospect of these honours before them they would look on us as friends and hasten to visit us to win the honour as well as the profit.
+
+cts:urn:tlg0032.tlg011:3.5
+glaux1.0-sentence	44
+perseus-grc2	 ὅσῳ γε μὴν πλείους εἰσοικίζοιντό τε καὶ ἀφικνοῖντο , δῆλον ὅτι τοσούτῳ ἂν πλέον καὶ εἰσάγοιτο καὶ ἐξάγοιτο καὶ ἐκπέμποιτο καὶ πωλοῖτο καὶ μισθοφοροῖτο καὶ τελεσφοροίη .
+perseus-eng2	 The rise in the number of residents and visitors would of course lead to a corresponding expansion of our imports and exports, of sales, rents and customs.
+
+cts:urn:tlg0032.tlg011:3.6
+glaux1.0-sentence	45
+perseus-grc2	 εἰς μὲν οὖν τὰς τοιαύτας αὐξήσεις τῶν προσόδων οὐδὲ προδαπανῆσαι δεῖ οὐδὲν ἀλλ’ ἢ ψηφίσματά τε φιλάνθρωπα καὶ ἐπιμελείας .
+perseus-eng2	 Now such additions to our revenues as these need cost us nothing whatever beyond benevolent legislation and measures of control.
+
+cts:urn:tlg0032.tlg011:3.6
+glaux1.0-sentence	46
+perseus-grc2	 ὅσαι δ’ ἂν ἄλλαι δοκοῦσί μοι πρόσοδοι γίγνεσθαι , γιγνώσκω ὅτι ἀφορμῆς δεήσει εἰς αὐτάς .
+perseus-eng2	 Other methods of raising revenue that I have in mind will require capital, no doubt.
+
+cts:urn:tlg0032.tlg011:3.7
+glaux1.0-sentence	47
+perseus-grc2	 οὐ μέντοι δύσελπίς εἰμι τὸ μὴ οὐχὶ προθύμως ἂν τοὺς πολίτας εἰς τὰ τοιαῦτα εἰσφέρειν , ἐνθυμούμενος ὡς πολλὰ μὲν εἰσήνεγκεν ἡ πόλις , ὅτε Ἀρκάσιν ἐβοήθει ἐπὶ Λυσιστράτου ἡγουμένου , πολλὰ δὲ ἐπὶ Ἡγησίλεω .
+perseus-eng2	 Nevertheless I venture to hope that the citizens would contribute eagerly towards such objects, when I recall the large sums contributed by the state when Lysistratus was in command and troops were sent to aid the Arcadians, and again in the time of Hegesileos.
+
+cts:urn:tlg0032.tlg011:3.8
+glaux1.0-sentence	48
+perseus-grc2	 ἐπίσταμαι δὲ καὶ τριήρεις πολλάκις ἐκπεμπομένας σὺν πολλῇ δαπάνῃ , καὶ ταύτας γενομένας , τούτου μὲν ἀδήλου ὄντος εἴτε βέλτιον εἴτε κάκιον ἔσται , ἐκείνου δὲ δήλου ὅτι οὐδέποτε ἀπολήψονται ἃ ἂν εἰσενέγκωσιν οὐδὲ μεθέξουσιν ὧν ἂν εἰσενέγκωσι .
+perseus-eng2	 I am also aware that large expenditure is frequently incurred to send warships abroad, though none can tell whether the venture will be for better or worse, and the only thing certain is that the subscribers will never see their money back nor even enjoy any part of what they contribute.
+
+cts:urn:tlg0032.tlg011:3.9
+glaux1.0-sentence	49
+perseus-grc2	 κτῆσιν δὲ ἀπ’ οὐδενὸς ἂν οὕτω καλὴν κτήσαιντο ὥσπερ ἀφ’ οὗ ἂν προτελέσωσιν εἰς τὴν ἀφορμήν ·
+perseus-eng2	 But no investment can yield them so fine a return as the money advanced by them to form the capital fund.
+
+cts:urn:tlg0032.tlg011:3.9
+glaux1.0-sentence	50
+perseus-grc2	 ᾧ μὲν γὰρ ἂν δέκα μναῖ εἰσφορὰ γένηται , ὥσπερ ναυτικόν , σχεδὸν ἐπίπεμπτον αὐτῷ γίγνεται , τριώβολον τῆς ἡμέρας λαμβάνοντι ·
+perseus-eng2	 For every subscriber of ten minae, drawing three obols a day, gets nearly twenty per cent. — as much as he would get on bottomry;
+
+cts:urn:tlg0032.tlg011:3.9
+glaux1.0-sentence	51
+perseus-grc2	 ᾧ δέ γ’ ἂν πέντε μναῖ , πλέον ἢ ἐπίτριτον .
+perseus-eng2	 and every subscriber of five minae gets more than a third of his capital back in interest.
+
+cts:urn:tlg0032.tlg011:3.10
+glaux1.0-sentence	52
+perseus-grc2	 οἱ δέ γε πλεῖστοι Ἀθηναίων πλείονα λήψονται κατ’ ἐνιαυτὸν ἢ ὅσα ἂν εἰσενέγκωσιν .
+perseus-eng2	 But most of the Athenians will get over a hundred per cent. in a year,
+
+cts:urn:tlg0032.tlg011:3.10
+glaux1.0-sentence	53
+perseus-grc2	 οἱ γὰρ μνᾶν προτελέσαντες ἐγγὺς δυοῖν μναῖν πρόσοδον ἕξουσι , καὶ ταῦτα ἐν πόλει , ὃ δοκεῖ τῶν ἀνθρωπίνων ἀσφαλέστατόν τε καὶ πολυχρονιώτατον εἶναι .
+perseus-eng2	 for those who advance one mina will draw an income of nearly two minae, guaranteed by the state, which is to all appearances the safest and most durable of human institutions.
+
+cts:urn:tlg0032.tlg011:3.11
+glaux1.0-sentence	54
+perseus-grc2	 οἶμαι δὲ ἔγωγε , εἰ μέλλοιεν ἀναγραφήσεσθαι εὐεργέται εἰς τὸν ἅπαντα χρόνον , καὶ ξένους ἂν πολλοὺς εἰσενεγκεῖν , ἔστι δ’ ἃς ἂν καὶ πόλεις τῆς ἀναγραφῆς ὀρεγομένας .
+perseus-eng2	 I think, too, that if their names were to be recorded in the roll of benefactors for all time, many foreigners also would subscribe,
+
+cts:urn:tlg0032.tlg011:3.11
+glaux1.0-sentence	55
+perseus-grc2	 ἐλπίζω δὲ καὶ βασιλέας ἄν τινας καὶ τυράννους καὶ σατράπας ἐπιθυμῆσαι μετασχεῖν ταύτης τῆς χάριτος .
+perseus-eng2	 and a certain number of states would be attracted by the prospect of enrolment. I believe that even kings and despots and oriental governors would desire to share in this reward.
+
+cts:urn:tlg0032.tlg011:3.12
+glaux1.0-sentence	56
+perseus-grc2	 ὁπότε γε μὴν ἀφορμὴ ὑπάρχοι , καλὸν μὲν καὶ ἀγαθὸν ναυκλήροις οἰκοδομεῖν καταγώγια περὶ λιμένας πρὸς τοῖς ὑπάρχουσι , καλὸν δὲ καὶ ἐμπόροις ἐπὶ προσήκοντας τόπους ἐπ’ ὠνῇ τε καὶ πράσει , καὶ τοῖς εἰσαφικνουμένοις δὲ δημόσια καταγώγια .
+perseus-eng2	 When funds were sufficient, it would be a fine plan to build more lodging-houses for shipowners near the harbours, and convenient places of exchange for merchants, also hotels to accomodate visitors.
+
+cts:urn:tlg0032.tlg011:3.13
+glaux1.0-sentence	57
+perseus-grc2	 εἰ δὲ καὶ τοῖς ἀγοραίοις οἰκήσεις τε καὶ πωλητήρια κατασκευασθείη καὶ ἐν Πειραιεῖ καὶ ἐν τῷ ἄστει , ἅμα τ’ ἂν κόσμος εἴη τῇ πόλει καὶ πολλαὶ ἂν ἀπὸ τούτων πρόσοδοι γίγνοιντο .
+perseus-eng2	 Again, if houses and shops were put up both in the Peiraeus and in the city for retail traders, they would be an ornament to the state, and at the same time the source of a considerable revenue.
+
+cts:urn:tlg0032.tlg011:3.14
+glaux1.0-sentence	58
+perseus-grc2	 ἀγαθὸν δέ μοι δοκεῖ εἶναι πειραθῆναι , εἰ καὶ ὥσπερ τριήρεις δημοσίας ἡ πόλις κέκτηται , οὕτω καὶ ὁλκάδας δημοσίας δυνατὸν ἂν γένοιτο κτήσασθαι καὶ ταύτας ἐκμισθοῦν ἐπ’ ἐγγυητῶν ὥσπερ καὶ τ- ἄλλα δημόσια .
+perseus-eng2	 Moreover, I think it would be a good plan to take a hint from the state ownership of public warships,
+
+cts:urn:tlg0032.tlg011:3.14
+glaux1.0-sentence	59
+perseus-grc2	 εἰ γὰρ καὶ τοῦτο οἷόν τε ὂν φανείη , πολλὴ ἂν καὶ ἀπὸ τούτων πρόσοδος γίγνοιτο .
+perseus-eng2	 and to see whether it be possible to acquire a fleet of public merchant vessels and to lease them under securities, like our other public property. For if this proved to be practicable, these vessels would yield another large revenue.
+
+cts:urn:tlg0032.tlg011:4.1
+glaux1.0-sentence	60
+perseus-grc2	 τά γε μὴν ἀργύρεια εἰ κατασκευασθείη ὡς δεῖ , πάμπολλα ἂν νομίζω χρήματα ἐξ αὐτῶν καὶ ἄνευ τῶν ἄλλων προσόδων προσιέναι .
+perseus-eng2	 As for the silver mines, I believe that if a proper system of working were introduced, a vast amount of money would be obtained from them apart from our other sources of revenue.
+
+cts:urn:tlg0032.tlg011:4.1
+glaux1.0-sentence	61
+perseus-grc2	 βούλομαι δὲ καὶ τοῖς μὴ εἰδόσι τὴν τούτων δύναμιν δηλῶσαι .
+perseus-eng2	 I want to point out the possibilities of these mines to those who do not know.
+
+cts:urn:tlg0032.tlg011:4.1
+glaux1.0-sentence	62
+perseus-grc2	 ταύτην γὰρ γνόντες καὶ ὅπως χρῆσθαι δεῖ αὐτοῖς ἄμεινον ἂν βουλεύοισθε .
+perseus-eng2	 For, once you realize their possibilities, you will be in a better position to consider how the mines should be managed.
+
+cts:urn:tlg0032.tlg011:4.2
+glaux1.0-sentence	63
+perseus-grc2	 οὐκοῦν ὅτι μὲν πάνυ πάλαι ἐνεργά ἐστι , πᾶσι σαφές ·
+perseus-eng2	 Now, we all agree that the mines have been worked for many generations.
+
+cts:urn:tlg0032.tlg011:4.2
+glaux1.0-sentence	64
+perseus-grc2	 οὐδεὶς γοῦν οὐδὲ πειρᾶται λέγειν ἀπὸ ποίου χρόνου ἐπεχειρήθη ·
+perseus-eng2	 At any rate, no one even attempts to date the beginning of mining operations.
+
+cts:urn:tlg0032.tlg011:4.2
+glaux1.0-sentence	65
+perseus-grc2	 οὕτω δὲ πάλαι ὀρυττομένης τε καὶ ἐκφορουμένης τῆς ἀργυρίτιδος κατανοήσατε τί μέρος οἱ ἐκβεβλημένοι σωροὶ τῶν αὐτοφυῶν τε καὶ ὑπαργύρων λόφων .
+perseus-eng2	 And yet, although digging and the removal of the silver ore have been carried on for so long a time, note how small is the size of the dumps compared with the virgin and silver-laden hills.
+
+cts:urn:tlg0032.tlg011:4.3
+glaux1.0-sentence	66
+perseus-grc2	 οὐδὲ μὴν ὁ ἀργυρώδης τόπος εἰς μεῖόν τι συστελλόμενος , ἀλλ’ ἀεὶ ἐπὶ πλέον ἐκτεινόμενος φανερός ἐστιν .
+perseus-eng2	 And it is continually being found that, so far from shrinking, the silver-yielding area extends further and further.
+
+cts:urn:tlg0032.tlg011:4.3
+glaux1.0-sentence	67
+perseus-grc2	 ἐν ᾧ γε μὴν χρόνῳ οἱ πλεῖστοι ἄνθρωποι ἐγένοντο ἐν αὐτοῖς , οὐδεὶς πώποτε ἔργου ἠπόρησεν , ἀλλ’ ἀεὶ τὰ ἔργα τῶν ἐργαζομένων περιῆν .
+perseus-eng2	 Well, so long as the maximum number of workmen was employed in them, no one ever wanted a job; in fact, there were always more jobs than the labourers could deal with.
+
+cts:urn:tlg0032.tlg011:4.4
+glaux1.0-sentence	68
+perseus-grc2	 καὶ νῦν δὲ οἱ κεκτημένοι ἐν τοῖς μετάλλοις ἀνδράποδα οὐδεὶς τοῦ πλήθους ἀφαιρεῖ , ἀλλ’ ἀεὶ προσκτᾶται ὁπόσα ἂν πλεῖστα δύνηται .
+perseus-eng2	 And even at the present day no owner of slaves employed in the mines reduces the number of his men; on the contrary, every master obtains as many more as he can.
+
+cts:urn:tlg0032.tlg011:4.4
+glaux1.0-sentence	69
+perseus-grc2	 καὶ γὰρ δὴ ὅταν μὲν ὀλίγοι ὀρύττωσι καὶ ζητῶσιν , ὀλίγα οἶμαι καὶ τὰ χρήματα εὑρίσκεται ·
+perseus-eng2	 The fact is, I imagine, that when there are few diggers and searchers, the amount of metal recovered is small,
+
+cts:urn:tlg0032.tlg011:4.4
+glaux1.0-sentence	70
+perseus-grc2	 ὅταν δὲ πολλοί , πολλαπλασία ἡ ἀργυρῖτις ἀναφαίνεται .
+perseus-eng2	 and when there are many, the total of ore discovered is multiplied.
+
+cts:urn:tlg0032.tlg011:4.5
+glaux1.0-sentence	71
+perseus-grc2	 ὥστε ἐν μόνῳ τούτῳ ὧν ἐγὼ οἶδα ἔργων οὐδὲ φθονεῖ οὐδεὶς τοῖς ἐπικατασκευαζομένοις .
+perseus-eng2	 Hence of all the industries with which I am acquainted this is the only one in which expansion of business excites no jealousy.
+
+cts:urn:tlg0032.tlg011:4.5
+glaux1.0-sentence	72
+perseus-grc2	 ἔτι δὲ οἱ μὲν ἀγροὺς κεκτημένοι πάντες ἔχοιεν ἂν εἰπεῖν ὁπόσα ζεύγη ἀρκεῖ εἰς τὸ χωρίον καὶ ὁπόσοι ἐργάται ·
+perseus-eng2	 Further than this, every farmer can tell just how many yoke of oxen are enough for the farm and how many labourers.
+
+cts:urn:tlg0032.tlg011:4.5
+glaux1.0-sentence	73
+perseus-grc2	 ἢν δ’ ἐπὶ πλέον τῶν ἱκανῶν ἐμβάλλῃ τις , ζημίαν λογίζονται ·
+perseus-eng2	 To put more on the land than the requisite number is counted loss.
+
+cts:urn:tlg0032.tlg011:4.5
+glaux1.0-sentence	74
+perseus-grc2	 ἐν δὲ τοῖς ἀργυρείοις ἔργοις πάντες δή φασιν ἐνδεῖσθαι ἐργατῶν .
+perseus-eng2	 In mining undertakings, on the contrary, everyone tells you that he is short of labour.
+
+cts:urn:tlg0032.tlg011:4.6
+glaux1.0-sentence	75
+perseus-grc2	 καὶ γὰρ οὐδ’ ὥσπερ ὅταν πολλοὶ χαλκοτύποι γένωνται , ἀξίων γενομένων τῶν χαλκευτικῶν ἔργων , καταλύονται οἱ χαλκοτύποι , καὶ οἱ σιδηρεῖς γε ὡσαύτως ·
+perseus-eng2	 Mining, in fact, is quite different from other industries. An increase in the number of coppersmiths, for example, produces a fall in the price of copper work, and the coppersmiths retire from business.
+
+cts:urn:tlg0032.tlg011:4.6
+glaux1.0-sentence	76
+perseus-grc2	 καὶ ὅταν γε πολὺς σῖτος καὶ οἶνος γένηται , ἀξίων ὄντων τῶν καρπῶν , ἀλυσιτελεῖς αἱ γεωργίαι γίγνονται , ὥστε πολλοὶ ἀφέμενοι τοῦ τὴν γῆν ἐργάζεσθαι ἐπ’ ἐμπορίας καὶ καπηλείας καὶ τοκισμοὺς τρέπονται ·
+perseus-eng2	 The same thing happens in the iron trade. Again, when corn and wine are abundant, the crops are cheap, and the profit derived from growing them disappears, so that many give up farming and set up as merchants or shopkeepers or moneylenders.
+
+cts:urn:tlg0032.tlg011:4.6
+glaux1.0-sentence	77
+perseus-grc2	 ἀργυρῖτις δὲ ὅσῳ ἂν πλείων φαίνηται καὶ ἀργύριον πλέον γίγνηται , τοσούτῳ πλείονες ἐπὶ τὸ ἔργον τοῦτο ἔρχονται .
+perseus-eng2	 But an increase in the amount of the silver ore discovered and of the metal won is accompanied by an increase in the number of persons who take up this industry.
+
+cts:urn:tlg0032.tlg011:4.7
+glaux1.0-sentence	78
+perseus-grc2	 καὶ γὰρ δὴ ἔπιπλα μέν , ἐπειδὰν ἱκανά τις κτήσηται τῇ οἰκίᾳ , οὐ μάλα ἔτι προσωνοῦνται ·
+perseus-eng2	 Neither is silver like furniture, of which a man never buys more when once he has got enough for his house.
+
+cts:urn:tlg0032.tlg011:4.7
+glaux1.0-sentence	79
+perseus-grc2	 ἀργύριον δὲ οὐδείς πω οὕτω πολὺ ἐκτήσατο ὥστε μηκέτι προσδεῖσθαι ·
+perseus-eng2	 No one ever yet possessed so much silver as to want no more; if a man finds himself with a huge amount of it, he takes as much pleasure in burying the surplus as in using it.
+
+cts:urn:tlg0032.tlg011:4.7
+glaux1.0-sentence	80
+perseus-grc2	 ἀλλ’ ἤν τισι γένηται παμπληθές , τὸ περιττεῦον κατορύττοντες οὐδὲν ἧττον ἥδονται ἢ χρώμενοι αὐτῷ .
+perseus-eng2	 Mark too that, whenever states are prosperous, silver is in strong demand. The men will spend money on fine arms and good horses and magnificent houses and establishments, and the women go in for expensive clothes and gold jewelry.
+
+cts:urn:tlg0032.tlg011:4.8
+glaux1.0-sentence	81
+perseus-grc2	 καὶ μὴν ὅταν γε εὖ πράττωσιν αἱ πόλεις , ἰσχυρῶς οἱ ἄνθρωποι ἀργυρίου δέονται .
+perseus-eng2	 Neither is silver like furniture, of which a man never buys more when once he has got enough for his house.
+
+cts:urn:tlg0032.tlg011:4.8
+glaux1.0-sentence	82
+perseus-grc2	 οἱ μὲν γὰρ ἄνδρες ἀμφὶ ὅπλα τε καλὰ καὶ ἵππους ἀγαθοὺς τε καὶ οἰκίας καὶ κατασκευὰς μεγαλοπρεπεῖς βούλονται δαπανᾶν , αἱ δὲ γυναῖκες εἰς ἐσθῆτα πολυτελῆ καὶ χρυσοῦν κόσμον τρέπονται .
+perseus-eng2	 No one ever yet possessed so much silver as to want no more; if a man finds himself with a huge amount of it, he takes as much pleasure in burying the surplus as in using it.
+
+cts:urn:tlg0032.tlg011:4.9
+glaux1.0-sentence	83
+perseus-grc2	 ὅταν τε αὖ νοσήσωσιν αἱ πόλεις ἢ ἀφορίαις καρπῶν ἢ πολέμῳ , ἔτι καὶ πολὺ μᾶλλον , ἀργοῦ τῆς γῆς γιγνομένης , καὶ εἰς ἐπιτήδεια καὶ εἰς ἐπικούρους νομίσματος δέονται .
+perseus-eng2	 If, on the other hand, the body politic is diseased owing to failure of the harvest or to war, the land goes out of cultivation and there is a much more insistent demand for cash to pay for food and mercenaries.
+
+cts:urn:tlg0032.tlg011:4.10
+glaux1.0-sentence	84
+perseus-grc2	 εἰ δέ τις φήσειε καὶ χρυσίον μηδὲν ἧττον χρήσιμον εἶναι ἢ ἀργύριον , τούτῳ μὲν οὐκ ἀντιλέγω , ἐκεῖνο μέντοι οἶδα , ὅτι καὶ χρυσίον ὅταν πολὺ παραφανῇ , αὐτὸ μὲν ἀτιμότερον γίγνεται , τὸ δὲ ἀργύριον τιμιώτερον ποιεῖ .
+perseus-eng2	 If anyone says that gold is quite as useful as silver, I am not going to contradict him; but I know this, that when gold is plentiful, silver rises and gold falls in value.
+
+cts:urn:tlg0032.tlg011:4.11
+glaux1.0-sentence	85
+perseus-grc2	 ταῦτα μὲν οὖν ἐδήλωσα τούτου ἕνεκα , ὅπως θαρροῦντες μὲν ὅτι πλείστους ἀνθρώπους ἐπὶ τὰ ἀργύρεια ἄγωμεν , θαρροῦντες δὲ κατασκευαζώμεθα ἐν αὐτοῖς , ὡς οὔτε ἐπιλειψούσης ποτὲ τῆς ἀργυρίτιδος οὔτε τοῦ ἀργυρίου ἀτίμου ποτὲ ἐσομένου .
+perseus-eng2	 With these facts before us, we need not hesitate to bring as much labour as we can get into the mines and carry on work in them, feeling confident that the ore will never give out and that silver will never lose its value.
+
+cts:urn:tlg0032.tlg011:4.12
+glaux1.0-sentence	86
+perseus-grc2	 δοκεῖ δέ μοι καὶ ἡ πόλις προτέρα ἐμοῦ ταῦτ’ ἐγνωκέναι ·
+perseus-eng2	 I think, indeed, that the state has anticipated me in this discovery;
+
+cts:urn:tlg0032.tlg011:4.12
+glaux1.0-sentence	87
+perseus-grc2	 παρέχει γοῦν ἐπὶ ἰσοτελείᾳ καὶ τῶν ξένων τῷ βουλομένῳ ἐργάζεσθαι ἐν τοῖς μετάλλοις .
+perseus-eng2	 at any rate she throws open the mining industry to foreigners on the same terms as are granted to citizens.
+
+cts:urn:tlg0032.tlg011:4.13
+glaux1.0-sentence	88
+perseus-grc2	 ἵνα δὲ καὶ σαφέστερον περὶ τῆς τροφῆς εἴπω , νῦν διηγήσομαι ὡς κατασκευασθέντα τὰ ἀργύρεια ὠφελιμώτατ’ ἂν εἴη τῇ πόλει .
+perseus-eng2	 To make myself clearer on the subject of alimony, I will now explain how the mines may be worked with the greatest advantage to the state.
+
+cts:urn:tlg0032.tlg011:4.13
+glaux1.0-sentence	89
+perseus-grc2	 ἀπ’ αὐτῶν μὲν οὖν ἔγωγε ἀφ’ ὧν μέλλω λέγειν οὐδέν τι ἀξιῶ θαυμάζεσθαι ὡς δυσεύρετόν τι ἐξηυρηκώς ·
+perseus-eng2	 Not that I expect to surprise you by what I am going to say, as if I had found the solution of a difficult problem.
+
+cts:urn:tlg0032.tlg011:4.13
+glaux1.0-sentence	90
+perseus-grc2	 τὰ μὲν γὰρ ὧν λέξω καὶ νῦν ἔτι πάντες ὁρῶμεν , τὰ δὲ παροιχόμενα πάντες κατὰ τ- αὐτὰ αὖ ἀκούομεν .
+perseus-eng2	 For some things that I shall mention are still to be seen by anyone at the present day, and as for conditions in the past, our fathers have told us that they were similar.
+
+cts:urn:tlg0032.tlg011:4.14
+glaux1.0-sentence	91
+perseus-grc2	 τῆς μέντοι πόλεως πάνυ ἄξιον θαυμάσαι τὸ αἰσθανομένην πολλοὺς πλουτιζομένους ἐξ αὐτῆς ἰδιώτας μὴ μιμεῖσθαι τούτους .
+perseus-eng2	 But what may well excite surprise is that the state, being aware that many private individuals are making money out of her, does not imitate them.
+
+cts:urn:tlg0032.tlg011:4.14
+glaux1.0-sentence	92
+perseus-grc2	 πάλαι μὲν γὰρ δήπου οἷς μεμέληκεν ἀκηκόαμεν ὅτι Νικίας ποτὲ ὁ Νικηράτου ἐκτήσατο ἐν τοῖς ἀργυρείοις χιλίους ἀνθρώπους , οὓς ἐκεῖνος Σωσίᾳ τῷ Θρᾳκὶ ἐξεμίσθωσεν , ἐφ’ ᾧ ὀβολὸν μὲν ἀτελῆ ἑκάστου τῆς ἡμέρας ἀποδιδόναι , τὸν δ’ ἀριθμὸν ἴσους ἀεὶ παρέχειν .
+perseus-eng2	 Those of us who have given thought to the matter have heard long ago, I imagine, that Nicias son of Niceratus, once owned a thousand men in the mines, and let them out to Socias the Thracian, on condition that Sosias paid him an obol a day per man net and filled all vacancies as they occurred.
+
+cts:urn:tlg0032.tlg011:4.15
+glaux1.0-sentence	93
+perseus-grc2	 ἐγένετο δὲ καὶ Ἱππονίκῳ ἑξακόσια ἀνδράποδα κατὰ τὸν αὐτὸν τρόπον τοῦτον ἐκδεδομένα , ἃ προσέφερε μνᾶν ἀτελῆ τῆς ἡμέρας , Φιλημονίδῃ δὲ τριακόσια ἃ ἡμιμναῖον , ἄλλοις δέ γε ὡς , οἴομαι , δύναμις ἑκάστοις ὑπῆρχεν .
+perseus-eng2	 Hipponicus, again, had six hundred slaves let out on the same terms and received a rent of a mina a day net. Philemonides had three hundred, and received half a mina. There were others too, owning numbers in proportion, I presume, to their capital.
+
+cts:urn:tlg0032.tlg011:4.16
+glaux1.0-sentence	94
+perseus-grc2	 ἀτὰρ τί τὰ παλαιὰ δεῖ λέγειν ;
+perseus-eng2	 But why dwell on the past?
+
+cts:urn:tlg0032.tlg011:4.16
+glaux1.0-sentence	95
+perseus-grc2	 καὶ γὰρ νῦν πολλοί εἰσιν ἐν τοῖς ἀργυρείοις ἄνθρωποι οὕτως ἐκδεδομένοι .
+perseus-eng2	 At this day there are many men in the mines let out in this way.
+
+cts:urn:tlg0032.tlg011:4.17
+glaux1.0-sentence	96
+perseus-grc2	 περαινομένων γε μὴν ὧν λέγω τοῦτ’ ἂν μόνον καινὸν γένοιτο , εἰ ὥσπερ οἱ ἰδιῶται κτησάμενοι ἀνδράποδα πρόσοδον ἀέναον κατεσκευασμένοι εἰσίν , οὕτω καὶ ἡ πόλις κτῷτο δημόσια ἀνδράποδα , ἕως γίγνοιτο τρία ἑκάστῳ Ἀθηναίων .
+perseus-eng2	 Were my proposals adopted, the only innovation would be, that just as private individuals have built up a permanent income by becoming slave owners, so the state would become possessed of public slaves, until there were three for every citizen.
+
+cts:urn:tlg0032.tlg011:4.18
+glaux1.0-sentence	97
+perseus-grc2	 εἰ δὲ δυνατὰ λέγομεν καθ’ ἓν ἕκαστον αὐτῶν σκοπῶν ὁ βουλόμενος κρινέτω .
+perseus-eng2	 Whether my plan is workable, let anyone who chooses judge for himself by examining it in detail.
+
+cts:urn:tlg0032.tlg011:4.18
+glaux1.0-sentence	98
+perseus-grc2	 οὐκοῦν τιμὴν μὲν ἀνθρώπων εὔδηλον ὅτι μᾶλλον ἂν τὸ δημόσιον δύναιτο ἢ οἱ ἰδιῶται παρασκευάσασθαι .
+perseus-eng2	 So let us take first the cost of the men. Clearly the treasury is in a better position to provide the money than private individuals.
+
+cts:urn:tlg0032.tlg011:4.18
+glaux1.0-sentence	99
+perseus-grc2	 τῇ γε μὴν βουλῇ ῥᾴδιον καὶ κηρύξαι ἄγειν τὸν βουλόμενον ἀνδράποδα καὶ τὰ προσαχθέντα πρίασθαι .
+perseus-eng2	 Moreover the Council can easily issue a notice inviting all and sundry to bring slaves, and can buy those that are brought to it.
+
+cts:urn:tlg0032.tlg011:4.19
+glaux1.0-sentence	100
+perseus-grc2	 ἐπειδὰν δὲ ὠνηθῇ , τί ἂν ἧττον μισθοῖτό τις παρὰ τοῦ δημοσίου ἢ παρὰ τῶν ἰδιωτῶν , ἐπὶ τοῖς αὐτοῖς μέλλων ἕξειν ;
+perseus-eng2	 When once they are purchased, why should there be more hesitation about hiring from the treasury than from a private person, the terms offered being the same?
+
+cts:urn:tlg0032.tlg011:4.19
+glaux1.0-sentence	101
+perseus-grc2	 μισθοῦνται γοῦν καὶ τεμένη καὶ ἱερὰ καὶ οἰκίας καὶ τέλη ὠνοῦνται παρὰ τῆς πόλεως .
+perseus-eng2	 At any rate men hire consecrated lands and houses, and farm taxes under the state.
+
+cts:urn:tlg0032.tlg011:4.20
+glaux1.0-sentence	102
+perseus-grc2	 ὅπως γε μὴν τὰ ὠνηθέντα σῴζηται , τῷ δημοσίῳ ἔστι λαμβάνειν ἐγγύους παρὰ τῶν μισθουμένων , ὥσπερ καὶ παρὰ τῶν ὠνουμένων τὰ τέλη .
+perseus-eng2	 The treasury can insure the slaves purchased by requiring some of the lessees to become guarantors, as it does in the case of the tax-farmers.
+
+cts:urn:tlg0032.tlg011:4.20
+glaux1.0-sentence	103
+perseus-grc2	 ἀλλὰ μὴν καὶ ἀδικῆσαί γε ῥᾷον τῷ τέλος πριαμένῳ ἢ τῷ ἀνδράποδα μισθουμένῳ .
+perseus-eng2	 In fact a tax-farmer can swindle the state more easily than a lessee of slaves.
+
+cts:urn:tlg0032.tlg011:4.21
+glaux1.0-sentence	104
+perseus-grc2	 ἀργύριον μὲν γὰρ πῶς καὶ φωράσειεν ἄν τις τὸ δημόσιον ἐξαγόμενον , ὁμοίου τοῦ ἰδίου ὄντος αὐτῷ ;
+perseus-eng2	 For how are you to detect the export of public money? Money looks the same whether it is private property or belongs to the state.
+
+cts:urn:tlg0032.tlg011:4.21
+glaux1.0-sentence	105
+perseus-grc2	 ἀνδράποδα δὲ σεσημασμένα τῷ δημοσίῳ σημάντρῳ καὶ προκειμένης ζημίας τῷ τε πωλοῦντι καὶ τῷ ἐξάγοντι , πῶς ἄν τις ταῦτα κλέψειεν ;
+perseus-eng2	 But how is a man to steal slaves when they are branded with the public mark and it is a penal offence to sell or export them?
+
+cts:urn:tlg0032.tlg011:4.21
+glaux1.0-sentence	106
+perseus-grc2	 οὐκοῦν μέχρι μὲν τούτου δυνατὸν φαίνεται τῇ πόλει εἶναι τὸ ἀνθρώπους καὶ κτήσασθαι καὶ φυλάξαι .
+perseus-eng2	 So far, then, it appears to be possible for the state to acquire and to keep men.
+
+cts:urn:tlg0032.tlg011:4.22
+glaux1.0-sentence	107
+perseus-grc2	 εἰ δ’ αὖ τις τοῦτ’ ἐνθυμεῖται , πῶς ἐπειδὰν πολλοὶ ἐργάται γένωνται , πολλοὶ φανοῦνται καὶ οἱ μισθωσόμενοι , ἐκεῖνο κατανοήσας θαρρείτω , ὅτι πολλοὶ μὲν τῶν κατεσκευασμένων προσμισθώσονται τοὺς δημοσίους ( πολλὰ γάρ ἐστι τὰ ὑπάρχοντα ) , πολλοὶ δ’ εἰσὶ καὶ αὐτῶν τῶν ἐν τοῖς ἔργοις γηράσκοντες , πολλοὶ δὲ καὶ ἄλλοι καὶ Ἀθηναῖοι καὶ ξένοι οἳ τῷ σώματι μὲν οὔτε βούλοιντ’ ἂν οὔτε δύναιντ’ ἂν ἐργάζεσθαι , τῇ δὲ γνώμῃ ἐπιμελόμενοι ἡδέως ἂν τὰ ἐπιτήδεια πορίζοιντο .
+perseus-eng2	 But, one may ask, when labour is abundant, how will a sufficient number of persons be found to hire it? Well, if anyone feels doubtful about that, let him comfort himself with the thought that many men in the business will hire the state slaves as additional hands, since they have abundance of capital, and that among those now working in the mines many are growing old. Moreover there are many others, both Athenians and foreigners, who have neither will nor strength to work with their own hands, but would be glad to to make a living by becoming managers.
+
+cts:urn:tlg0032.tlg011:4.23
+glaux1.0-sentence	108
+perseus-grc2	 ἤν γε μέντοι τὸ πρῶτον συστῇ διακόσια καὶ χίλια ἀνδράποδα , εἰκὸς ἤδη ἀπ’ αὐτῆς τῆς προσόδου ἐν ἔτεσι πέντε ἢ ἓξ μὴ μεῖον ἂν τῶν ἑξακισχιλίων γενέσθαι .
+perseus-eng2	 Assume, however, that the total number of slaves to begin with is twelve hundred.
+
+cts:urn:tlg0032.tlg011:4.23
+glaux1.0-sentence	109
+perseus-grc2	 ἀπό γε μὴν τούτου τοῦ ἀριθμοῦ ἢν ὀβολὸν ἕκαστος ἀτελῆ τῆς ἡμέρας προσφέρῃ , ἡ μὲν πρόσοδος ἑξήκοντα τάλαντα τοῦ ἐνιαυτοῦ .
+perseus-eng2	 By using the revenue derived from these the number might in all probability be raised to six thousand at the least in the course of five or six years. Further, if each man brings in a clear obol a day, the annual revenue derived from that number of men is sixty talents.
+
+cts:urn:tlg0032.tlg011:4.24
+glaux1.0-sentence	110
+perseus-grc2	 ἀπὸ δὲ τούτων ἢν εἰς ἄλλα ἀνδράποδα τιθῆται εἴκοσι , τοῖς τετταράκοντα ἤδη ἐξέσται τῇ πόλει χρῆσθαι εἰς ἄλλο ὅ τι ἂν δέῃ .
+perseus-eng2	 Out of this sum, if twenty talents are invested in additional slaves, the state will have forty talents available for any other necessary purpose.
+
+cts:urn:tlg0032.tlg011:4.24
+glaux1.0-sentence	111
+perseus-grc2	 ὅταν δέ γε μύρια ἀναπληρωθῇ , ἑκατὸν τάλαντα ἡ πρόσοδος ἔσται .
+perseus-eng2	 And when a total of ten thousand men is reached, the revenue will be a hundred talents.
+
+cts:urn:tlg0032.tlg011:4.25
+glaux1.0-sentence	112
+perseus-grc2	 ὅτι δὲ δέξεται πολλαπλάσια τούτων μαρτυρήσαιεν ἄν μοι εἴ τινες ἔτι εἰσὶ τῶν μεμνημένων ὅσον τὸ τέλος ηὕρισκε τῶν ἀνδραπόδων πρὸ τῶν ἐν Δεκελείᾳ .
+perseus-eng2	 But the state will receive far more than that, as anyone will testify who is old enough to remember how much the charge for slave labour brought in before the trouble at Decelea.
+
+cts:urn:tlg0032.tlg011:4.25
+glaux1.0-sentence	113
+perseus-grc2	 μαρτυρεῖ δὲ κ- ἐκεῖνο , ὅτι εἰργασμένων ἀνθρώπων ἐν τοῖς ἀργυρείοις ἐν τῷ παντὶ χρόνῳ ἀναριθμήτων νῦν οὐδὲν διαφέρει τὰ ἀργύρεια ἢ οἷα οἱ πρόγονοι ἡμῶν ὄντα ἐμνημόνευον αὐτά .
+perseus-eng2	 And there is another proof. During the history of the mines an infinite number of men has worked in them; and yet the condition of the mines today is exactly the same as it was in the time of our ancestors, and their memory ran not to the contrary.
+
+cts:urn:tlg0032.tlg011:4.26
+glaux1.0-sentence	114
+perseus-grc2	 καὶ τὰ νῦν δὲ γιγνόμενα πάντα μαρτυρεῖ ὅτι οὐκ ἄν ποτε πλείω ἀνδράποδα ἐκεῖ γένοιτο ἢ ὅσων ἂν τὰ ἔργα δεῖται .
+perseus-eng2	 And present conditions all lead to the conclusion that the number of slaves employed there can never be greater than the works need.
+
+cts:urn:tlg0032.tlg011:4.26
+glaux1.0-sentence	115
+perseus-grc2	 οὔτε γὰρ βάθους πέρας οὔτε ὑπονόμων οἱ ὀρύττοντες εὑρίσκουσι .
+perseus-eng2	 For the miners find no limit to shaft or gallery.
+
+cts:urn:tlg0032.tlg011:4.27
+glaux1.0-sentence	116
+perseus-grc2	 καὶ μὴν καινοτομεῖν γε οὐδὲν ἧττον ἔξεστι νῦν ἢ πρότερον .
+perseus-eng2	 And, mark you, it is as possible now to open new veins as in former times.
+
+cts:urn:tlg0032.tlg011:4.27
+glaux1.0-sentence	117
+perseus-grc2	 οὐ τοίνυν οὐδ’ εἰπεῖν ἂν ἔχοι εἰδὼς οὐδεὶς πότερον ἐν τοῖς κατατετμημένοις πλείων ἀργυρῖτις ἢ ἐν τοῖς ἀτμήτοις ἐστί .
+perseus-eng2	 Nor can one say with any certainty whether the ore is more plentiful in the area already under work or in the unexplored tracts.
+
+cts:urn:tlg0032.tlg011:4.28
+glaux1.0-sentence	118
+perseus-grc2	 τί δῆτα , φαίη ἄν τις , οὐ καὶ νῦν , ὥσπερ ἔμπροσθεν , πολλοὶ καινοτομοῦσιν ;
+perseus-eng2	 Then why, it may be asked, are fewer new cuttings made nowadays than formerly?
+
+cts:urn:tlg0032.tlg011:4.28
+glaux1.0-sentence	119
+perseus-grc2	 ὅτι πενέστεροι μὲν νῦν εἰσιν οἱ περὶ τὰ μέταλλα ·
+perseus-eng2	 Simply because those interested in the mines are poorer.
+
+cts:urn:tlg0032.tlg011:4.28
+glaux1.0-sentence	120
+perseus-grc2	 νεωστὶ γὰρ πάλιν κατασκευάζονται ·
+perseus-eng2	 For operations have only lately been resumed,
+
+cts:urn:tlg0032.tlg011:4.28
+glaux1.0-sentence	121
+perseus-grc2	 κίνδυνος δὲ μέγας τῷ καινοτομοῦντι ·
+perseus-eng2	 and a man who makes a new cutting incurs a serious risk.
+
+cts:urn:tlg0032.tlg011:4.29
+glaux1.0-sentence	122
+perseus-grc2	 ὁ μὲν γὰρ εὑρὼν ἀγαθὴν ἐργασίαν πλούσιος γίγνεται , ὁ δὲ μὴ εὑρὼν πάντα ἀπόλλυσιν ὅσα ἂν δαπανήσῃ .
+perseus-eng2	 If he strikes good stuff he makes a fortune; but if he is disappointed, he loses the money he has spent.
+
+cts:urn:tlg0032.tlg011:4.29
+glaux1.0-sentence	123
+perseus-grc2	 εἰς τοῦτον οὖν τὸν κίνδυνον οὐ μάλα πως ἐθέλουσιν οἱ νῦν ἰέναι .
+perseus-eng2	 Therefore people nowadays are very chary of taking such a risk.
+
+cts:urn:tlg0032.tlg011:4.30
+glaux1.0-sentence	124
+perseus-grc2	 ἐγὼ μέντοι ἔχειν μοι δοκῶ καὶ περὶ τούτου συμβουλεῦσαι ὡς ἂν ἀσφαλέστατα καινοτομοῖτο .
+perseus-eng2	 However, I think I can meet this difficulty too, and suggest a plan that will make the opening of new cuttings a perfectly safe undertaking.
+
+cts:urn:tlg0032.tlg011:4.30
+glaux1.0-sentence	125
+perseus-grc2	 εἰσὶ μὲν γὰρ δήπου Ἀθηναίων δέκα φυλαί ·
+perseus-eng2	 The Athenians, of course, are divided into ten tribes.
+
+cts:urn:tlg0032.tlg011:4.30
+glaux1.0-sentence	126
+perseus-grc2	 εἰ δ’ ἡ πόλις δοίη ἑκάστῃ αὐτῶν ἴσα ἀνδράποδα , αἱ δὲ κοινωσάμεναι τὴν τύχην καινοτομοῖεν , οὕτως ἄν , εἰ μία εὕροι , πάσαις ἂν λυσιτελὲς ἀποδείξειεν , εἰ δὲ δύο ἢ τρεῖς ἢ τέτταρες ἢ αἱ ἡμίσειαι εὕροιεν , δῆλον ὅτι ἔτι λυσιτελέστερα ἂν τὰ ἔργα ταῦτα γίγνοιτο .
+perseus-eng2	 Now assume that the state were to offer each tribe an equal number of slaves, and that when new cuttings were made, the tribes were to pool their luck.
+
+cts:urn:tlg0032.tlg011:4.31
+glaux1.0-sentence	127
+perseus-grc2	 τό γε μὴν πάσας ἀποτυχεῖν οὐδενὶ τῶν παρεληλυθότων ἐοικός .
+perseus-eng2	 The result would be that if one tribe found silver, the discovery would be profitable to all; and if two, three, four, or half the tribes found, the profits from these works would obviously be greater.  Nothing that has happened in the past makes it probable that all would fail to find.
+
+cts:urn:tlg0032.tlg011:4.32
+glaux1.0-sentence	128
+perseus-grc2	 οἷόν τε δὴ οὕτως καὶ ἰδιώτας συνισταμένους καὶ κοινουμένους τὴν τύχην ἀσφαλέστερον κινδυνεύειν .
+perseus-eng2	 Of course, private individuals also are able to combine on this principle and pool their fortunes in order to diminish the risk.
+
+cts:urn:tlg0032.tlg011:4.32
+glaux1.0-sentence	129
+perseus-grc2	 μηδὲ μέντοι τοῦτο φοβεῖσθε , ὡς ἢ τὸ δημόσιον οὕτω κατασκευαζόμενον παραλυπήσει τοὺς ἰδιώτας ἢ οἱ ἰδιῶται τὸ δημόσιον ·
+perseus-eng2	 Nevertheless there is no reason to fear that a public company formed on this plan will conflict with the interests of private persons, or be hampered by them.
+
+cts:urn:tlg0032.tlg011:4.32
+glaux1.0-sentence	130
+perseus-grc2	 ἀλλ’ ὥσπερ σύμμαχοι , ὅσῳ ἂν πλείους συνιῶσιν , ἰσχυροτέρους ἀλλήλους ποιοῦσιν , οὕτω καὶ ἐν τοῖς ἀργυρείοις ὅσῳπερ ἂν πλείους ἐργάζωνται , τόσῳ πλείω τ- ἀγαθὰ εὑρήσουσί τε καὶ ἐκφορήσουσι .
+perseus-eng2	 No, just as every new adhesion to a confederacy brings an increase of strength to all its members, so the greater the number of persons operating in the mines, the more treasure they will discover and unearth.
+
+cts:urn:tlg0032.tlg011:4.33
+glaux1.0-sentence	131
+perseus-grc2	 καὶ ἐμοὶ μὲν δὴ εἴρηται ὡς ἂν ἡγοῦμαι κατασκευασθείσης τῆς πόλεως ἱκανὴν ἂν πᾶσιν Ἀθηναίοις τροφὴν ἀπὸ κοινοῦ γενέσθαι .
+perseus-eng2	 I have now explained what regulations I think should be introduced into the state in order that every Athenian may receive sufficient maintenance at the public expense.
+
+cts:urn:tlg0032.tlg011:4.34
+glaux1.0-sentence	132
+perseus-grc2	 εἰ δέ τινες λογιζόμενοι παμπόλλης ἂν δεῖν ἀφορμῆς εἰς ταῦτα πάντα οὐχ ἡγοῦνται ἱκανὰ ἄν ποτε χρήματα εἰσενεχθῆναι , μηδὲ οὕτως ἀθυμούντων .
+perseus-eng2	 Some may imagine that enough money would never be subscribed to provide the huge amount of capital necessary, according to their calculations, to finance all these schemes. But even so they need not despair.
+
+cts:urn:tlg0032.tlg011:4.35
+glaux1.0-sentence	133
+perseus-grc2	 οὐ γὰρ οὕτως ἔχει , ὡς ἀνάγκῃ ἅμα ταῦτα πάντα γίγνεσθαι ἢ μηδὲν ὄφελος αὐτῶν εἶναι ·
+perseus-eng2	 For it is not essential that the plan should be carried out in all its details in order that any advantage may come of it.
+
+cts:urn:tlg0032.tlg011:4.35
+glaux1.0-sentence	134
+perseus-grc2	 ἀλλ’ ὁπόσα ἂν ἢ οἰκοδομηθῇ ἢ ναυπηγηθῇ ἢ ἀνδράποδα ὠνηθῇ , εὐθὺς ταῦτα ἐν ὠφελείᾳ ἔσται .
+perseus-eng2	 No, whatever the number of houses built, or of ships constructed, or of slaves purchased, they will immediately prove a paying concern.
+
+cts:urn:tlg0032.tlg011:4.36
+glaux1.0-sentence	135
+perseus-grc2	 ἀλλὰ μὴν καὶ τῇδέ γε συμφορώτερον τὸ κατὰ μέρος ἢ τὸ ἅμα πάντα πράττεσθαι .
+perseus-eng2	 In fact in one respect it will be even more profitable to proceed gradually than to do everything at once.
+
+cts:urn:tlg0032.tlg011:4.36
+glaux1.0-sentence	136
+perseus-grc2	 οἰκοδομοῦντές τε γὰρ ἁθρόοι πολυτελέστερον ἂν καὶ κάκιον ἢ κατὰ μέρος ἀποτελοῖμεν , ἀνδράποδα δὲ παμπληθῆ ζητοῦντες ἀναγκαζοίμεθ’ ἂν καὶ χείρω καὶ τιμιώτερα ὠνεῖσθαι .
+perseus-eng2	 For if everybody begins building, we shall pay more for worse work than if we carry out the undertaking gradually; and if we try to find an enormous number of slaves, we shall be forced to buy inferior men at a high price.
+
+cts:urn:tlg0032.tlg011:4.37
+glaux1.0-sentence	137
+perseus-grc2	 κατά γε μὴν τὸ δυνατὸν περαίνοντες τὰ μὲν καλῶς γνωσθέντα καὶ αὖθις ἂν ἡμῖν οἰόμεθα ·
+perseus-eng2	 By proceeding as our means allow, we can repeat whatever is well conceived.
+
+cts:urn:tlg0032.tlg011:4.38
+glaux1.0-sentence	138
+perseus-grc2	 εἰ δέ τι ἁμαρτηθείη , ἀπεχοίμεθα ἂν αὐτοῦ .
+perseus-eng2	 By proceeding as our means allow, we can repeat whatever is well conceived and avoid the repetition of mistakes.
+
+cts:urn:tlg0032.tlg011:4.38
+glaux1.0-sentence	139
+perseus-grc2	 ἔτι δὲ πάντων ἅμα γιγνομένων ἡμᾶς ἂν ἅπαντα δέοι ἐκπορίζεσθαι ·
+perseus-eng2	 Besides, were the whole scheme put in hand at once, we should have to find the whole of the money;
+
+cts:urn:tlg0032.tlg011:4.38
+glaux1.0-sentence	140
+perseus-grc2	 εἰ δὲ τὰ μὲν περαίνοιτο , τὰ δὲ μέλλοι , ἡ ὑπάρξασα πρόσοδος τὸ ἐπιτήδειον συγκατασκευάζοι ἄν .
+perseus-eng2	 but if some parts were proceeded with and others postponed, the income realised would help to provide the amount still required.
+
+cts:urn:tlg0032.tlg011:4.39
+glaux1.0-sentence	141
+perseus-grc2	 ὃ δὲ ἴσως φοβερώτατον δοκεῖ πᾶσιν εἶναι , μή , εἰ ἄγαν πολλὰ κτήσαιτο ἡ πόλις ἀνδράποδα , ὑπεργεμισθείη ἂν τὰ ἔργα , καὶ τούτου τοῦ φόβου ἀπηλλαγμένοι ἂν εἴημεν , εἰ μὴ πλείονας ἀνθρώπους ἢ ὅσους αὐτὰ τὰ ἔργα προσαιτοίη κατ’ ἐνιαυτὸν ἐμβάλοιμεν .
+perseus-eng2	 Possibly the gravest fear in everyone’s mind is that the works may become overcrowded if the state acquires too many slaves. But we can rid ourselves of that fear by not putting more men in year by year than the works themselves require.
+
+cts:urn:tlg0032.tlg011:4.40
+glaux1.0-sentence	142
+perseus-grc2	 οὕτως ἔμοιγε δοκεῖ , ᾗπερ ῥᾷστον , ταύτῃ καὶ ἄριστον εἶναι ταῦτα πράττειν .
+perseus-eng2	 Accordingly I hold that this, which is the easiest way, is also the best way of doing these things.
+
+cts:urn:tlg0032.tlg011:4.40
+glaux1.0-sentence	143
+perseus-grc2	 εἰ δ’ αὖ διὰ τὰς ἐν τῷ νῦν πολέμῳ γεγενημένας εἰσφορὰς νομίζετ’ ἂν μηδ’ ὁτιοῦν δύνασθαι εἰσενεγκεῖν , ὑμεῖς δὴ ὅσα μὲν πρὸ τῆς εἰρήνης χρήματα ηὕρισκε τὰ τέλη , ἀπὸ τοσούτων καὶ τὸ ἐπιὸν ἔτος διοικεῖτε τὴν πόλιν , ὅσα δ’ ἂν ἐφευρίσκῃ διὰ τὸ εἰρήνην τε εἶναι καὶ διὰ τὸ θεραπεύεσθαι μετοίκους καὶ ἐμπόρους καὶ διὰ τὸ πλειόνων ἀνθρώπων πλείω εἰσάγεσθαι καὶ ἐξάγεσθαι καὶ διὰ τὸ τὰ ἐλλιμένια καὶ τὰς ἀγορὰς αὐξάνεσθαι , ταῦτα λαμβάνοντες κατασκευάζεσθε ὡς ἂν πλεῖσται αἱ πρόσοδοι γίγνοιντο .
+perseus-eng2	 On the other hand, if you think that the burdens imposed during the late war make it impossible for you to contribute anything at all — well, keep down the cost of administration during the next year to the amount that the taxes yielded before the peace; and invest the balances over and above that amount, which you will get with peace, with considerate treatment of resident aliens and merchants, with the growth of imports and exports due to concentration of a larger population, and with the expansion of harbour and market dues, so that the investment will bring in the largest revenue.
+
+cts:urn:tlg0032.tlg011:4.41
+glaux1.0-sentence	144
+perseus-grc2	 εἰ δέ τινες αὖ φοβοῦνται μὴ ματαία ἂν γένοιτο αὕτη ἡ κατασκευή , εἰ πόλεμος ἐγερθείη , ἐννοησάτωσαν ὅτι τούτων γιγνομένων πολὺ φοβερώτερος ὁ πόλεμος τοῖς ἐπιφέρουσιν ἢ τῇ πόλει .
+perseus-eng2	 Or again, if any fear that this scheme would prove worthless in the event of war breaking out, they should observe that, with this system at work, war becomes far more formidable to the aggressors than to the city.
+
+cts:urn:tlg0032.tlg011:4.42
+glaux1.0-sentence	145
+perseus-grc2	 τί γὰρ δὴ εἰς πόλεμον κτῆμα χρησιμώτερον ἀνθρώπων ;
+perseus-eng2	 For what instrument is more serviceable for war than men?
+
+cts:urn:tlg0032.tlg011:4.42
+glaux1.0-sentence	146
+perseus-grc2	 πολλὰς μὲν γὰρ ναῦς πληροῦν ἱκανοὶ ἂν εἶεν δημοσίᾳ ·
+perseus-eng2	 We should have enough of them to supply crews to many ships of the state;
+
+cts:urn:tlg0032.tlg011:4.42
+glaux1.0-sentence	147
+perseus-grc2	 πολλοὶ δ’ ἂν καὶ πεζοὶ δημοσίᾳ δύναιντ’ ἂν βαρεῖς εἶναι τοῖς πολεμίοις , εἴ τις αὐτοὺς θεραπεύοι .
+perseus-eng2	 and many men available for service in the ranks as infantry could press the enemy hard, if they were treated with consideration.
+
+cts:urn:tlg0032.tlg011:4.43
+glaux1.0-sentence	148
+perseus-grc2	 λογίζομαι δ’ ἔγωγε καὶ πολέμου γιγνομένου οἷόν τ’ εἶναι μὴ ἐκλείπεσθαι τὰ ἀργύρεια .
+perseus-eng2	 But I reckon that, even in the event of war, the mines need not be abandoned.
+
+cts:urn:tlg0032.tlg011:4.43
+glaux1.0-sentence	149
+perseus-grc2	 ἔστι μὲν γὰρ δήπου περὶ τὰ μέταλλα ἐν τῇ πρὸς μεσημβρίαν θαλάττῃ τεῖχος ἐν Ἀναφλύστῳ , ἔστι δ’ ἐν τῇ πρὸς ἄρκτον τεῖχος ἐν Θορικῷ ·
+perseus-eng2	 There are, of course, two fortresses in the mining district, one at Anaphlystus on the south side, the other at Thoricus on the north.
+
+cts:urn:tlg0032.tlg011:4.43
+glaux1.0-sentence	150
+perseus-grc2	 ἀπέχει δὲ ταῦτα ἀπ’ ἀλλήλων ἀμφὶ τὰ ἑξήκοντα στάδια .
+perseus-eng2	 The distance between them is about seven miles and a half.
+
+cts:urn:tlg0032.tlg011:4.44
+glaux1.0-sentence	151
+perseus-grc2	 εἰ οὖν καὶ ἐν μέσῳ τούτων γένοιτο ἐπὶ τῷ ὑψηλοτάτῳ Βήσης τρίτον ἔρυμα , συνήκοι τ’ ἂν τὰ ἔργα εἰς ἓν ἐξ ἁπάντων τῶν τειχῶν , καὶ εἴ τι αἰσθάνοιτο πολεμικόν , βραχὺ ἂν εἴη ἑκάστῳ εἰς τὸ ἀσφαλὲς ἀποχωρῆσαι .
+perseus-eng2	 Now suppose that we had a third stronghold between them on the highest point of Besa. The works would then be linked up by all the fortresses, and at the first intimation of a hostile movement, every man would have but a short distance to go in order to reach safety.
+
+cts:urn:tlg0032.tlg011:4.45
+glaux1.0-sentence	152
+perseus-grc2	 εἰ δὲ καὶ ἔλθοιεν πλείους οἱ πολέμιοι , δῆλον ὅτι εἰ μὲν σῖτον ἢ οἶνον ἢ πρόβατα ἔξω εὕροιεν , ἀφέλοιντ’ ἂν ταῦτα ·
+perseus-eng2	 In case an enemy came in force, he would, no doubt, seize any corn or wine or cattle that he found outside;
+
+cts:urn:tlg0032.tlg011:4.45
+glaux1.0-sentence	153
+perseus-grc2	 ἀργυρίτιδος δὲ κρατήσαντες τί ἂν μᾶλλον ἢ λίθοις ἔχοιεν χρῆσθαι ;
+perseus-eng2	 but the silver ore, when he had got it, would be of as much use to him as a heap of stones.
+
+cts:urn:tlg0032.tlg011:4.46
+glaux1.0-sentence	154
+perseus-grc2	 πῶς δὲ καὶ ὁρμήσειαν ἄν ποτε πολέμιοι πρὸς τὰ μέταλλα ;
+perseus-eng2	 And how could an enemy ever go for the mines?
+
+cts:urn:tlg0032.tlg011:4.46
+glaux1.0-sentence	155
+perseus-grc2	 ἀπέχει μὲν γὰρ δήπου τῶν ἀργυρείων ἡ ἐγγύτατα πόλις Μέγαρα πολὺ πλέον τῶν πεντακοσίων σταδίων ·
+perseus-eng2	 The distance between Megara, the nearest city, and the silver mines, is of course much more than five hundred furlongs;
+
+cts:urn:tlg0032.tlg011:4.46
+glaux1.0-sentence	156
+perseus-grc2	 ἀπέχει δὲ ἡ μετὰ ταῦτα πλησιαίτατα Θῆβαι πολὺ πλέον τῶν ἑξακοσίων .
+perseus-eng2	 and Thebes, which is next in proximity, lies at a distance of much more than six hundred furlongs from them.
+
+cts:urn:tlg0032.tlg011:4.47
+glaux1.0-sentence	157
+perseus-grc2	 ἢν οὖν πορεύωνται ἐντεῦθέν ποθεν ἐπὶ τὰ ἀργύρεια , παριέναι αὐτοὺς δεήσει τὴν πόλιν ·
+perseus-eng2	 Let us assume, then, that an enemy is marching on the mines from some such point.
+
+cts:urn:tlg0032.tlg011:4.47
+glaux1.0-sentence	158
+perseus-grc2	 κἂν μὲν ὦσιν ὀλίγοι , εἰκὸς αὐτοὺς ἀπόλλυσθαι καὶ ὑπὸ ἱππέων καὶ ὑπὸ περιπόλων .
+perseus-eng2	 He is bound to pass Athens; and if his numbers are small, he is likely to be destroyed by our cavalry and patrols.
+
+cts:urn:tlg0032.tlg011:4.47
+glaux1.0-sentence	159
+perseus-grc2	 πολλῇ γε μὴν δυνάμει πορεύεσθαι ἐξερημοῦντας τὰ ἑαυτῶν χαλεπόν ·
+perseus-eng2	 On the other hand, to march on them with a large force, leaving his own property unprotected, is no easy matter;
+
+cts:urn:tlg0032.tlg011:4.47
+glaux1.0-sentence	160
+perseus-grc2	 πολὺ γὰρ ἐγγύτερον ἂν εἴη ταῖς πόλεσιν αὐτῶν τὸ τῶν Ἀθηναίων ἄστυ ἢ αὐτοὶ οἱ πρὸς τοῖς μετάλλοις ὄντες .
+perseus-eng2	 for when he arrived at the mines the city of Athens would be much nearer to his own states than he himself would be.
+
+cts:urn:tlg0032.tlg011:4.48
+glaux1.0-sentence	161
+perseus-grc2	 εἰ δὲ καὶ ἔλθοιεν , πῶς ἂν καὶ δύναιντο μένειν μὴ ἔχοντες τὰ ἐπιτήδεια ;
+perseus-eng2	 But even supposing that he should come, how is he to stay without supplies?
+
+cts:urn:tlg0032.tlg011:4.48
+glaux1.0-sentence	162
+perseus-grc2	 ἐπισιτίζεσθαί γε μὴν μέρει μὲν κίνδυνος καὶ περὶ τῶν μετιόντων καὶ περὶ ὧν ἀγωνίζονται ·
+perseus-eng2	 And to send part of their forces in search of food may mean destruction to the foraging party and failure to achieve the ends for which he is contending;
+
+cts:urn:tlg0032.tlg011:4.48
+glaux1.0-sentence	163
+perseus-grc2	 πάντες δὲ ἀεὶ μετιόντες πολιορκοῖντ’ ἂν μᾶλλον ἢ πολιορκοῖεν .
+perseus-eng2	 or if the whole force is continually foraging it will find itself blockaded instead of blockading.
+
+cts:urn:tlg0032.tlg011:4.49
+glaux1.0-sentence	164
+perseus-grc2	 οὐ τοίνυν μόνον ἡ ἀπὸ τῶν ἀνδραπόδων ἀποφορὰ τὴν διατροφὴν τῇ πόλει αὔξοι ἄν , ἀλλὰ πολυανθρωπίας περὶ τὰ μέταλλα ἁθροιζομένης καὶ ἀπ’ ἀγορᾶς τῆς ἐκεῖ καὶ ἀπ’ οἰκιῶν περὶ τ- ἀργύρεια δημοσίων καὶ ἀπὸ καμίνων καὶ ἀπὸ τῶν ἄλλων ἁπάντων πρόσοδοι ἂν πολλαὶ γίγνοιντο .
+perseus-eng2	 However, the rent derived from the slaves would not be the only source of relief to the community. With the concentration of a large population in the mining district, abundant revenue would be derived from the local market, from state-owned houses near the silver mines, from furnaces and all the other sources.
+
+cts:urn:tlg0032.tlg011:4.50
+glaux1.0-sentence	165
+perseus-grc2	 ἰσχυρῶς γὰρ καὶ αὐτὴ πολυάνθρωπος ἂν γένοιτο πόλις , εἰ οὕτως κατασκευασθείη ·
+perseus-eng2	 For a densely populated city would grow up there, if it were organised on this plan;
+
+cts:urn:tlg0032.tlg011:4.50
+glaux1.0-sentence	166
+perseus-grc2	 καὶ οἵ γε χῶροι οὐδὲν ἂν εἶεν μείονος ἄξιοι τοῖς κεκτημένοις ἐνταῦθα ἢ τοῖς περὶ τὸ ἄστυ .
+perseus-eng2	 yes, and building sites would become as valuable there as they are in our suburbs.
+
+cts:urn:tlg0032.tlg011:4.51
+glaux1.0-sentence	167
+perseus-grc2	 πραχθέντων γε μὴν ὧν εἴρηκα ξύμφημὶ ἐγὼ οὐ μόνον ἂν χρήμασιν εὐπορωτέραν τὴν πόλιν εἶναι , ἀλλὰ καὶ εὐπειθεστέραν καὶ εὐτακτοτέραν καὶ εὐπολεμωτέραν γενέσθαι .
+perseus-eng2	 If the plans that I have put forward are carried out, I agree that, apart from the improvement in our financial position, we shall become a people more obedient, better disciplined, and more efficient in war.
+
+cts:urn:tlg0032.tlg011:4.52
+glaux1.0-sentence	168
+perseus-grc2	 οἵ τε γὰρ ταχθέντες γυμνάζεσθαι πολὺ ἂν ἐπιμελέστερον τοῦτο πράττοιεν ἐν τοῖς γυμνασίοις τὴν τροφὴν ἀπολαμβάνοντες πλείω ἢ ἐν ταῖς λαμπάσι γυμνασιαρχούμενοι ·
+perseus-eng2	 For the classes undergoing physical training will take more pains in the gymnasium when they receive their maintenance in full than they take under the superintendents of the torch races;
+
+cts:urn:tlg0032.tlg011:4.52
+glaux1.0-sentence	169
+perseus-grc2	 οἵ τε φρουρεῖν ἐν τοῖς φρουρίοις οἵ τε πελτάζειν καὶ περιπολεῖν τὴν χώραν πάντα ταῦτα μᾶλλον ἂν πράττοιεν , ἐφ’ ἑκάστοις τῶν ἔργων τῆς τροφῆς ἀποδιδομένης .
+perseus-eng2	 and the classes on garrison duty in a fortress, or serving as targeteers, or patrolling the country will show greater alacrity in carrying out all these duties when the maintenance is duly supplied for the work done.
+
+cts:urn:tlg0032.tlg011:5.1
+glaux1.0-sentence	170
+perseus-grc2	 εἰ δὲ σαφὲς δοκεῖ εἶναι ὡς , εἰ μέλλουσι πᾶσαι αἱ πρόσοδοι ἔκπλεῳ προσιέναι , ὅτι εἰρήνην δεῖ ὑπάρχειν , ἆρ’ οὐκ ἄξιον καὶ εἰρηνοφύλακας καθιστάναι ;
+perseus-eng2	 If it seems clear that the state cannot obtain a full revenue from all sources unless she has peace, is it not worth while to set up a board of guardians of peace?
+
+cts:urn:tlg0032.tlg011:5.1
+glaux1.0-sentence	171
+perseus-grc2	 πολὺ γὰρ ἂν καὶ αὕτη αἱρεθεῖσα ἡ ἀρχὴ προσφιλεστέραν καὶ οἰκειοτέραν εἰσαφικνεῖσθαι πᾶσιν ἀνθρώποις ποιήσειε τὴν πόλιν .
+perseus-eng2	 Were such a board constituted, it would help to increase the popularity of the city and to make it more attractive and more densely thronged with visitors from all parts.
+
+cts:urn:tlg0032.tlg011:5.2
+glaux1.0-sentence	172
+perseus-grc2	 εἰ δέ τινες οὕτω γιγνώσκουσιν , ὡς ἐὰν ἡ πόλις εἰρήνην ἄγουσα διατελῇ , ἀδυνατωτέρα τε καὶ ἀδοξοτέρα καὶ ἧττον ὀνομαστὴ ἐν τῇ Ἑλλάδι ἔσται , καὶ οὗτοί γε ὡς ἐμῇ δόξῃ παραγγέλλω σκοποῦσιν .
+perseus-eng2	 If any are inclined to think that a lasting peace for our city will involve a loss of her power and glory and fame in Greece, they too, in my opinion, are out in their calculations.
+
+cts:urn:tlg0032.tlg011:5.2
+glaux1.0-sentence	173
+perseus-grc2	 εὐδαιμονέσταται μὲν γὰρ δήπου πόλεις λέγονται , αἳ ἂν πλεῖστον χρόνον ἐν εἰρήνῃ διατελῶσι ·
+perseus-eng2	 For I presume that those states are reckoned the happiest that enjoy the longest period of unbroken peace;
+
+cts:urn:tlg0032.tlg011:5.2
+glaux1.0-sentence	174
+perseus-grc2	 πασῶν δὲ πόλεων Ἀθῆναι μάλιστα πεφύκασιν ἐν εἰρήνῃ αὔξεσθαι .
+perseus-eng2	 and of all states Athens is by nature most suited to flourish in peace.
+
+cts:urn:tlg0032.tlg011:5.3
+glaux1.0-sentence	175
+perseus-grc2	 τίνες γὰρ ἡσυχίαν ἀγούσης τῆς πόλεως οὐ προσδέοιντ’ ἂν αὐτῆς ἀρξάμενοι ἀπὸ ναυκλήρων καὶ ἐμπόρων ;
+perseus-eng2	 For if the state is tranquil, what class of men will not need her? Shipowners and merchants will head the list.
+
+cts:urn:tlg0032.tlg011:5.3
+glaux1.0-sentence	176
+perseus-grc2	 οὐχ οἱ πολύσιτοι , οὐχ οἱ πολύοινοι οὐχ οἱ ἡδύοινοι ;
+perseus-eng2	 Then there will be those rich in corn and wine and oil and cattle;
+
+cts:urn:tlg0032.tlg011:5.3
+glaux1.0-sentence	177
+perseus-grc2	 τί δὲ οἱ πολυέλαιοι , τί δὲ οἱ πολυπρόβατοι , οἱ δὲ γνώμῃ καὶ ἀργυρίῳ δυνάμενοι χρηματίζεσθαι ;
+perseus-eng2	 men possessed of brains and money to invest; craftsmen and professors and
+
+cts:urn:tlg0032.tlg011:5.4
+glaux1.0-sentence	178
+perseus-grc2	 καὶ μὴν χειροτέχναι τε καὶ σοφισταὶ καὶ φιλόσοφοι , οἱ δὲ ποιηταί , οἱ δὲ τὰ τούτων μεταχειριζόμενοι , οἱ δὲ ἀξιοθεάτων ἢ ἀξιακούστων ἱερῶν ἢ ὁσίων ἐπιθυμοῦντες ;
+perseus-eng2	 philosophers; poets and the people who make use of their works; those to whom anything sacred or secular appeals that is worth seeing or hearing.
+
+cts:urn:tlg0032.tlg011:5.4
+glaux1.0-sentence	179
+perseus-grc2	 ἀλλὰ μὴν καὶ οἱ δεόμενοι πολλὰ ταχὺ ἀποδίδοσθαι ἢ πρίασθαι ποῦ τούτων μᾶλλον ἂν τύχοιεν ἢ Ἀθήνησιν ;
+perseus-eng2	 Besides, where will those who want to buy or sell many things quickly meet with better success in their efforts than at Athens?
+
+cts:urn:tlg0032.tlg011:5.5
+glaux1.0-sentence	180
+perseus-grc2	 εἰ δὲ πρὸς ταῦτα μὲν οὐδεὶς ἀντιλέγει , τὴν δὲ ἡγεμονίαν βουλόμενοί τινες ἀναλαβεῖν τὴν πόλιν , ταύτην διὰ πολέμου μᾶλλον ἢ δι’ εἰρήνης ἡγοῦνται ἂν καταπραχθῆναι , ἐννοησάτωσαν πρῶτον μὲν τὰ Μηδικά , πότερον βιαζόμενοι ἢ εὐεργετοῦντες τοὺς Ἕλληνας ἡγεμονίας τε τοῦ ναυτικοῦ καὶ ἑλληνοταμιείας ἐτύχομεν .
+perseus-eng2	 No one, I dare say, contests this; but there are some who wish the state to recover her ascendancy, and they may think that it is more likely to be won by war than by peace. Let such, in the first place, call to mind the Persian Wars. Was it by coercing the Greeks or by rendering services to them that we became leaders of the fleet and treasurers of the league funds?
+
+cts:urn:tlg0032.tlg011:5.6
+glaux1.0-sentence	181
+perseus-grc2	 ἔτι δὲ ἐπεὶ ὠμῶς ἄγαν δόξασα προστατεύειν ἡ πόλις ἐστερήθη τῆς ἀρχῆς , οὐ καὶ τότε , ἐπεὶ τοῦ ἀδικεῖν ἀπεσχόμεθα , πάλιν ὑπὸ τῶν νησιωτῶν ἑκόντων προστάται τοῦ ναυτικοῦ ἐγενόμεθα ;
+perseus-eng2	 Further, after the state had been stripped of her empire through seeming to exercise her authority with excessive harshness, did not the islanders even then restore to us the presidency of the fleet by their own free will, when we refrained from acts of injustice?
+
+cts:urn:tlg0032.tlg011:5.7
+glaux1.0-sentence	182
+perseus-grc2	 οὔκουν καὶ Θηβαῖοι εὐεργετούμενοι ἡγεμονεύειν αὑτῶν ἔδωκαν Ἀθηναίοις ;
+perseus-eng2	 And again, did not the Thebans place themselves under the leadership of the Athenians in return for our good offices?
+
+cts:urn:tlg0032.tlg011:5.7
+glaux1.0-sentence	183
+perseus-grc2	 ἀλλὰ μὴν καὶ Λακεδαιμόνιοι οὐ βιασθέντες ὑφ’ ἡμῶν ἀλλ’ εὖ πάσχοντες ἐπέτρεψαν Ἀθηναίοις περὶ τῆς ἡγεμονίας θέσθαι ὅπως βούλοιντο .
+perseus-eng2	 Yet once again, it was not the effect of coercion on our part, but of generous treatment, that the Lacedaemonians permitted the Athenians to arrange the leadership as they chose.
+
+cts:urn:tlg0032.tlg011:5.8
+glaux1.0-sentence	184
+perseus-grc2	 νῦν δέ γε διὰ τὴν ἐν τῇ Ἑλλάδι ταραχὴν παραπεπτωκέναι μοι δοκεῖ τῇ πόλει ὥστε καὶ ἄνευ πόνων καὶ ἄνευ κινδύνων καὶ ἄνευ δαπάνης ἀνακτᾶσθαι τοὺς Ἕλληνας .
+perseus-eng2	 And now, owing to the confusion prevalent in Greece, an opportunity, I think, has fallen to the state to win back the Greeks without trouble, without danger, and without expense.
+
+cts:urn:tlg0032.tlg011:5.8
+glaux1.0-sentence	185
+perseus-grc2	 ἔστι μὲν γὰρ πειρᾶσθαι διαλλάττειν τὰς πολεμούσας πρὸς ἀλλήλας πόλεις , ἔστι δὲ συναλλάττειν , εἴ τινες ἐν αὑταῖς στασιάζουσιν .
+perseus-eng2	 For she has it in her power to try to reconcile the warring states, she has it in her power to compose the factions contending in their midst.
+
+cts:urn:tlg0032.tlg011:5.9
+glaux1.0-sentence	186
+perseus-grc2	 εἰ δὲ καὶ ὅπως τὸ ἐν Δελφοῖς ἱερὸν αὐτόνομον ὥσπερ πρόσθεν γένοιτο φανεροὶ εἴητ’ ἐπιμελούμενοι , μὴ συμπολεμοῦντες ἀλλὰ πρεσβεύοντες ἀνὰ τὴν Ἑλλάδα , ἐγὼ μὲν οὐδὲν ἂν οἶμαι θαυμαστὸν εἶναι , εἰ καὶ πάντας τοὺς Ἕλληνας ὁμογνώμονάς τε καὶ συνόρκους καὶ συμμάχους λάβοιτε ἐπ’ ἐκείνους , οἵτινες ἐκλιπόντων Φωκέων τὸ ἱερὸν καταλαμβάνειν πειρῷντο .
+perseus-eng2	 And were it apparent that you are striving to make the Delphic shrine independent, as it used to be, not by joining in war, but by sending embassies up and down Greece, I for my part should not be in the least surprised if you found the Greeks all of one mind, banded together by oath and united in alliance against any that attempted to seize the shrine in the event of the Phocians abandoning it.
+
+cts:urn:tlg0032.tlg011:5.10
+glaux1.0-sentence	187
+perseus-grc2	 εἰ δὲ καὶ ὅπως ἀνὰ πᾶσαν γῆν καὶ θάλατταν εἰρήνη ἔσται φανεροὶ εἴητε ἐπιμελόμενοι , ἐγὼ μὲν οἶμαι πάντας ἂν εὔχεσθαι μετὰ τὰς ἑαυτῶν πατρίδας Ἀθήνας μάλιστα σῴζεσθαι .
+perseus-eng2	 Were you to show also that you are striving for peace in every land and on every sea, I do think that, next to the safety of their own country, all men would put the safety of Athens first in their prayers.
+
+cts:urn:tlg0032.tlg011:5.11
+glaux1.0-sentence	188
+perseus-grc2	 εἰ δέ τις αὖ εἰς χρήματα κερδαλεώτερον νομίζει εἶναι τῇ πόλει πόλεμον ἢ εἰρήνην , ἐγὼ μὲν οὐκ οἶδα πῶς ἂν ἄμεινον ταῦτα κριθείη ἢ εἴ τις τὰ προγεγενημένα ἐπανασκοποίη τῇ πόλει πῶς ἀποβέβηκεν .
+perseus-eng2	 If, on the other hand, any one supposes that financially war is more profitable to the state than peace, I really do not know how the truth of this can be tested better than by considering once more what has been the experience of our state in the past.
+
+cts:urn:tlg0032.tlg011:5.12
+glaux1.0-sentence	189
+perseus-grc2	 εὑρήσει γὰρ τό τε παλαιὸν ἐν εἰρήνῃ μὲν πάνυ πολλὰ χρήματα εἰς τὴν πόλιν ἀνενεχθέντα , ἐν πολέμῳ δὲ πάντα ταῦτα καταδαπανηθέντα ·
+perseus-eng2	 He will find that in old days a very great amount of money was paid into the treasury in time of peace, and that the whole of it was spent in time of war;
+
+cts:urn:tlg0032.tlg011:5.12
+glaux1.0-sentence	190
+perseus-grc2	 γνώσεται δ’ , ἢν σκοπῇ , καὶ ἐν τῷ νῦν χρόνῳ διὰ μὲν τὸν πόλεμον καὶ τῶν προσόδων πολλὰς ἐκλιπούσας καὶ τὰς εἰσελθούσας εἰς παντοδαπὰ πολλὰ καταδαπανηθείσας , ἐπεὶ δὲ εἰρήνη κατὰ θάλατταν γεγένηται , ηὐξημένας τε τὰς προσόδους , καὶ ταύταις ἐξὸν τοῖς πολίταις χρῆσθαι ὅ τι βούλονται .
+perseus-eng2	 he will conclude on consideration that in our own time the effect of the late war on our revenues was that many of them ceased, while those that came in were exhausted by the multitude of expenses; whereas the cessation of war by sea has been followed by a rise in the revenues, and has allowed the citizens to devote them to any purpose they choose.
+
+cts:urn:tlg0032.tlg011:5.13
+glaux1.0-sentence	191
+perseus-grc2	 εἰ δέ τίς με ἐπερωτῴη ·
+perseus-eng2	 But some one may ask me,
+
+cts:urn:tlg0032.tlg011:5.13
+glaux1.0-sentence	192
+perseus-grc2	 ἦ καί , ἄν τις ἀδικῇ τὴν πόλιν , λέγεις ὡς χρὴ καὶ πρὸς τοῦτον εἰρήνην ἄγειν ;
+perseus-eng2	 Do you mean to say that, even if she is wronged, the state should remain at peace with the offender?
+
+cts:urn:tlg0032.tlg011:5.13
+glaux1.0-sentence	193
+perseus-grc2	 οὐκ ἂν φαίην ·
+perseus-eng2	 No, certainly not;
+
+cts:urn:tlg0032.tlg011:5.13
+glaux1.0-sentence	194
+perseus-grc2	 ἀλλὰ μᾶλλον λέγω ὅτι πολὺ θᾶττον ἂν τιμωροίμεθα αὐτούς , εἰ μηδένα ὑπάρχοιμεν ἀδικοῦντες ·
+perseus-eng2	 but I do say that our vengeance would follow far more swiftly on our enemies if we provoked nobody by wrong-doing;
+
+cts:urn:tlg0032.tlg011:5.13
+glaux1.0-sentence	195
+perseus-grc2	 οὐδένα γὰρ ἂν ἔχοιεν σύμμαχον .
+perseus-eng2	 for then they would look in vain for an ally.
+
+cts:urn:tlg0032.tlg011:6.1
+glaux1.0-sentence	196
+perseus-grc2	 ἀλλ’ εἴ γε μὴν τῶν εἰρημένων ἀδύνατον μὲν μηδέν ἐστι μηδὲ χαλεπόν , πραττομένων δὲ αὐτῶν προσφιλέστεροι μὲν τοῖς Ἕλλησι γενησόμεθα , ἀσφαλέστερον δὲ οἰκήσομεν , εὐκλεέστεροι δὲ ἐσόμεθα , καὶ ὁ μὲν δῆμος τροφῆς εὐπορήσει , οἱ δὲ πλούσιοι τῆς εἰς τὸν πόλεμον δαπάνης ἀπαλλαγήσονται , περιουσίας δὲ πολλῆς γενομένης μεγαλοπρεπέστερον μὲν ἔτι ἢ νῦν ἑορτὰς ἄξομεν , ἱερὰ δ’ ἐπισκευάσομεν , τείχη δὲ καὶ νεώρια ἀνορθώσομεν , ἱερεῦσι δὲ καὶ βουλῇ καὶ ἀρχαῖς καὶ ἱππεῦσι τὰ πάτρια ἀποδώσομεν , πῶς οὐκ ἄξιον ὡς τάχιστα τούτοις ἐγχειρεῖν , ἵνα ἔτι ἐφ’ ἡμῶν ἐπίδωμεν τὴν πόλιν μετ’ ἀσφαλείας εὐδαιμονοῦσαν ;
+perseus-eng2	 Well now, surely, if none of these proposals is impossible or even difficult, if by carrying them into effect we shall be regarded with more affection by the Greeks, shall live in greater security, and be more glorious; if the people will be maintained in comfort and the rich no more burdened with the expenses of war; if with a large surplus in hand we shall celebrate our festivals with even more splendour than at present, shall restore the temples, and repair the walls and docks, and shall give back to priests, councillors, magistrates, knights their ancient privileges; surely, I say, our proper course is to proceed with this scheme forthwith, that already in our generation we may come to see our city secure and prosperous.
+
+cts:urn:tlg0032.tlg011:6.2
+glaux1.0-sentence	197
+perseus-grc2	 εἴ γε μὴν ταῦτα δόξειεν ὑμῖν πράττειν , συμβουλεύσαιμ’ ἂν ἔγωγε πέμψαντας καὶ εἰς Δωδώνην καὶ εἰς Δελφοὺς ἐπερέσθαι τοὺς θεοὺς εἰ λῷον καὶ ἄμεινον εἴη ἂν τῇ πόλει οὕτω κατασκευαζομένῃ καὶ αὐτίκα καὶ εἰς τὸν ἔπειτα χρόνον .
+perseus-eng2	 Furthermore, if you decide to go forward with the plan, I should advise you to send to Dodona and Delphi, and inquire of the gods whether such a design is fraught with weal for the state both now and in days to come.
+
+cts:urn:tlg0032.tlg011:6.3
+glaux1.0-sentence	198
+perseus-grc2	 εἰ δὲ ταῦτα συναινοῖεν , τότ’ ἂν αὖ φαίην χρῆναι ἐπερωτᾶν τίνας θεῶν προσποιούμενοι ταῦτα κάλλιστα καὶ ἄριστα πράττοιμεν ἄν ·
+perseus-eng2	 And should they consent to it, then I would say that we ought to ask them further, which of the gods we must propitiate in order that we may prosper in our handiwork.
+
+cts:urn:tlg0032.tlg011:6.3
+glaux1.0-sentence	199
+perseus-grc2	 οὓς δ’ ἀνέλοιεν θεούς , τούτοις εἰκὸς καλλιερήσαντας ἄρχεσθαι τοῦ ἔργου .
+perseus-eng2	 Then, when we have offered an acceptable sacrifice to the gods named in their reply, it behoves us to begin the work.
+
+cts:urn:tlg0032.tlg011:6.3
+glaux1.0-sentence	200
+perseus-grc2	 σὺν γὰρ θεῷ πραττομένων εἰκὸς καὶ τὰς πράξεις προϊέναι ἐπὶ τὸ λῷον καὶ ἄμεινον ἀεὶ τῇ πόλει .
+perseus-eng2	 For with heaven to help us in what we do, it is likely that our undertakings will go forward continually to the greater weal of the state.

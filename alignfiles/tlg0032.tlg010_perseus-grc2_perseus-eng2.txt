@@ -1,0 +1,1400 @@
+
+cts:urn:tlg0032.tlg010:1.1
+glaux1.0-sentence	1
+perseus-grc2	 ἀλλ’ ἐγὼ ἐννοήσας ποτὲ ὡς ἡ Σπάρτη τῶν ὀλιγανθρωποτάτων πόλεων οὖσα δυνατωτάτη τε καὶ ὀνομαστοτάτη ἐν τῇ Ἑλλάδι ἐφάνη , ἐθαύμασα ὅτῳ ποτὲ τρόπῳ τοῦτ’ ἐγένετο ·
+perseus-eng2	 It occurred to me one day that Sparta, though among the most thinly populated of states, was evidently the most powerful and most celebrated city in Greece; and I fell to wondering how this could have happened.
+
+cts:urn:tlg0032.tlg010:1.1
+glaux1.0-sentence	2
+perseus-grc2	 ἐπεὶ μέντοι κατενόησα τὰ ἐπιτηδεύματα τῶν Σπαρτιατῶν , οὐκέτι ἐθαύμαζον .
+perseus-eng2	 But when I considered the institutions of the Spartans, I wondered no longer.
+
+cts:urn:tlg0032.tlg010:1.2
+glaux1.0-sentence	3
+perseus-grc2	 Λυκοῦργον μέντοι τὸν θέντα αὐτοῖς τοὺς νόμους , οἷς πειθόμενοι ηὐδαιμόνησαν , τοῦτον καὶ θαυμάζω καὶ εἰς τὰ ἔσχατα μάλα σοφὸν ἡγοῦμαι .
+perseus-eng2	 Lycurgus, who gave them the laws that they obey, and to which they owe their prosperity, I do regard with wonder; and I think that he reached the utmost limit of wisdom.
+
+cts:urn:tlg0032.tlg010:1.2
+glaux1.0-sentence	4
+perseus-grc2	 ἐκεῖνος γὰρ οὐ μιμησάμενος τὰς ἄλλας πόλεις , ἀλλὰ καὶ ἐναντία γνοὺς ταῖς πλείσταις , προέχουσαν εὐδαιμονίᾳ τὴν πατρίδα ἐπέδειξεν .
+perseus-eng2	 For it was not by imitating other states, but by devising a system utterly different from that of most others, that he made his country pre-eminently prosperous.
+
+cts:urn:tlg0032.tlg010:1.3
+glaux1.0-sentence	5
+perseus-grc2	 αὐτίκα γὰρ περὶ τεκνοποιίας , ἵνα ἐξ ἀρχῆς ἄρξωμαι , οἱ μὲν ἄλλοι τὰς μελλούσας τίκτειν καὶ καλῶς δοκούσας κόρας παιδεύεσθαι καὶ σίτῳ ᾗ ἁνυστὸν μετριωτάτῳ τρέφουσι καὶ ὄψῳ ᾗ δυνατὸν μικροτάτῳ ·
+perseus-eng2	 First, to begin at the beginning, I will take the begetting of children.
+
+cts:urn:tlg0032.tlg010:1.3
+glaux1.0-sentence	6
+perseus-grc2	 οἴνου γε μὴν ἢ πάμπαν ἀπεχομένας ἢ ὑδαρεῖ χρωμένας διάγουσιν .
+perseus-eng2	 In other states the girls who are destined to become mothers and are brought up in the approved fashion, live on the very plainest fare, with a most meagre allowance of delicacies.
+
+cts:urn:tlg0032.tlg010:1.3
+glaux1.0-sentence	7
+perseus-grc2	 ὥσπερ δὲ οἱ πολλοὶ τῶν τὰς τέχνας ἐχόντων ἑδραῖοί εἰσιν , οὕτω καὶ τὰς κόρας οἱ ἄλλοι Ἕλληνες ἠρεμιζούσας ἐριουργεῖν ἀξιοῦσι .
+perseus-eng2	 Wine is either withheld altogether, or, if allowed them, is diluted with water.
+
+cts:urn:tlg0032.tlg010:1.3
+glaux1.0-sentence	8
+perseus-grc2	 τὰς μὲν οὖν οὕτω τρεφομένας πῶς χρὴ προσδοκῆσαι μεγαλεῖον ἄν τι γεννῆσαι ;
+perseus-eng2	 The rest of the Greeks expect their girls to imitate the sedentary life that is typical of handicraftsmen — to keep quiet and do wool-work. How, then, is it to be expected that women so brought up will bear fine children?
+
+cts:urn:tlg0032.tlg010:1.4
+glaux1.0-sentence	9
+perseus-grc2	 ὁ δὲ Λυκοῦργος ἐσθῆτας μὲν καὶ δούλας παρέχειν ἱκανὰς ἡγήσατο εἶναι , ταῖς δ’ ἐλευθέραις μέγιστον νομίσας εἶναι τὴν τεκνοποιίαν πρῶτον μὲν σωμασκεῖν ἔταξεν οὐδὲν ἧττον τὸ θῆλυ τοῦ ἄρρενος φύλου ·
+perseus-eng2	 But Lycurgus thought the labour of slave women sufficient to supply clothing.
+
+cts:urn:tlg0032.tlg010:1.4
+glaux1.0-sentence	10
+perseus-grc2	 ἔπειτα δὲ δρόμου καὶ ἰσχύος , ὥσπερ καὶ τοῖς ἀνδράσιν , οὕτω καὶ ταῖς θηλείαις ἀγῶνας πρὸς ἀλλήλας ἐποίησε , νομίζων ἐξ ἀμφοτέρων ἰσχυρῶν καὶ τὰ ἔκγονα ἐρρωμενέστερα γίγνεσθαι .
+perseus-eng2	 He believed motherhood to be the most important function of freeborn woman. Therefore, in the first place, he insisted on physical training for the female no less than for the male sex: moreover, he instituted races and trials of strength for women competitors as for men, believing that if both parents are strong they produce more vigorous offspring.
+
+cts:urn:tlg0032.tlg010:1.5
+glaux1.0-sentence	11
+perseus-grc2	 ἐπεί γε μὴν γυνὴ πρὸς ἄνδρα ἔλθοι , ὁρῶν τοὺς ἄλλους τὸν πρῶτον τοῦ χρόνου ἀμέτρως ταῖς γυναιξὶ συνόντας , καὶ τούτου τ- ἐναντία ἔγνω ·
+perseus-eng2	 He noticed, too, that, during the time immediately succeeding marriage, it was usual elsewhere for the husband to have unlimited intercourse with his wife.
+
+cts:urn:tlg0032.tlg010:1.5
+glaux1.0-sentence	12
+perseus-grc2	 ἔθηκε γὰρ αἰδεῖσθαι μὲν εἰσιόντα ὀφθῆναι , αἰδεῖσθαι δ’ ἐξιόντα .
+perseus-eng2	 The rule that he adopted was the opposite of this: for he laid it down that the husband should be ashamed to be seen entering his wife’s room or leaving it.
+
+cts:urn:tlg0032.tlg010:1.5
+glaux1.0-sentence	13
+perseus-grc2	 οὕτω δὲ συνόντων ποθεινοτέρως μὲν ἀνάγκη σφῶν αὐτῶν ἔχειν , ἐρρωμενέστερα δὲ γίγνεσθαι , εἴ τι βλάστοι οὕτω , μᾶλλον ἢ εἰ διάκοροι ἀλλήλων εἶεν .
+perseus-eng2	 With this restriction on intercourse the desire of the one for the other must necessarily be increased, and their offspring was bound to be more vigorous than if they were surfeited with one another.
+
+cts:urn:tlg0032.tlg010:1.6
+glaux1.0-sentence	14
+perseus-grc2	 πρὸς δὲ τούτοις καὶ ἀποπαύσας τοῦ ὁπότε βούλοιντο ἕκαστοι γυναῖκα ἄγεσθαι , ἔταξεν ἐν ἀκμαῖς τῶν σωμάτων τοὺς γάμους ποιεῖσθαι , καὶ τοῦτο συμφέρον τῇ εὐγονίᾳ νομίζων .
+perseus-eng2	 In addition to this, he withdrew from men the right to take a wife whenever they chose, and insisted on their marrying in the prime of their manhood, believing that this too promoted the production of fine children.
+
+cts:urn:tlg0032.tlg010:1.7
+glaux1.0-sentence	15
+perseus-grc2	 εἴ γε μέντοι συμβαίη γεραιῷ νέαν ἔχειν , ὁρῶν τοὺς τηλικούτους φυλάττοντας μάλιστα τὰς γυναῖκας , τ- ἐναντία καὶ τούτου ἐνόμισε ·
+perseus-eng2	 It might happen, however, that an old man had a young wife; and he observed that old men keep a very jealous watch over their young wives.
+
+cts:urn:tlg0032.tlg010:1.7
+glaux1.0-sentence	16
+perseus-grc2	 τῷ γὰρ πρεσβύτῃ ἐποίησεν , ὁποίου ἀνδρὸς σῶμά τε καὶ ψυχὴν ἀγασθείη , τοῦτον ἐπαγαγομένῳ τεκνοποιήσασθαι .
+perseus-eng2	 To meet these cases he instituted an entirely different system by requiring the elderly husband to introduce into his house some man whose physical and moral qualities he admired, in order to beget children.
+
+cts:urn:tlg0032.tlg010:1.8
+glaux1.0-sentence	17
+perseus-grc2	 εἰ δέ τις αὖ γυναικὶ μὲν συνοικεῖν μὴ βούλοιτο , τέκνων δὲ ἀξιολόγων ἐπιθυμοίη , καὶ τοῦτο νόμιμον ἐποίησεν , ἥντινα ἂν εὔτεκνον καὶ γενναίαν ὁρῴη , πείσαντα τὸν ἔχοντα ἐκ ταύτης τεκνοποιεῖσθαι .
+perseus-eng2	 On the other hand, in case a man did not want to cohabit with his wife and nevertheless desired children of whom he could be proud, he made it lawful for him to choose a woman who was the mother of a fine family and of high birth, and if he obtained her husband’s consent, to make her the mother of his children.
+
+cts:urn:tlg0032.tlg010:1.9
+glaux1.0-sentence	18
+perseus-grc2	 καὶ πολλὰ μὲν τοιαῦτα συνεχώρει .
+perseus-eng2	 He gave his sanction to many similar arrangements.
+
+cts:urn:tlg0032.tlg010:1.9
+glaux1.0-sentence	19
+perseus-grc2	 αἵ τε γὰρ γυναῖκες διττοὺς οἴκους βούλονται κατέχειν , οἵ τε ἄνδρες ἀδελφοὺς τοῖς παισὶ προσλαμβάνειν , οἳ τοῦ μὲν γένους καὶ τῆς δυνάμεως κοινωνοῦσι , τῶν δὲ χρημάτων οὐκ ἀντιποιοῦνται .
+perseus-eng2	 For the wives want to take charge of two households, and the husbands want to get brothers for their sons, brothers who are members of the family and share in its influence, but claim no part of the money.
+
+cts:urn:tlg0032.tlg010:1.10
+glaux1.0-sentence	20
+perseus-grc2	 περὶ μὲν δὴ τεκνοποιίας οὕτω τ- ἐναντία γνοὺς τοῖς ἄλλοις εἴ τι διαφέροντας καὶ κατὰ μέγεθος καὶ κατ’ ἰσχὺν ἄνδρας τῇ Σπάρτῃ ἀπετέλεσεν , ὁ βουλόμενος ἐπισκοπείτω .
+perseus-eng2	 Thus his regulations with regard to the begetting of children were in sharp contrast with those of other states. Whether he succeeded in populating Sparta  with a race of men remarkable for their size and strength anyone who chooses may judge for himself.
+
+cts:urn:tlg0032.tlg010:2.1
+glaux1.0-sentence	21
+perseus-grc2	 ἐγὼ μέντοι , ἐπεὶ καὶ περὶ γενέσεως ἐξήγημαι , βούλομαι καὶ τὴν παιδείαν ἑκατέρων σαφηνίσαι .
+perseus-eng2	 Having dealt with the subject of birth, I wish next to explain the educational system of Lycurgus, and how it differs from other systems.
+
+cts:urn:tlg0032.tlg010:2.1
+glaux1.0-sentence	22
+perseus-grc2	 τῶν μὲν τοίνυν ἄλλων Ἑλλήνων οἱ φάσκοντες κάλλιστα τοὺς υἱεῖς παιδεύειν , ἐπειδὰν τάχιστα αὐτοῖς οἱ παῖδες τὰ λεγόμενα ξυνιῶσιν , εὐθὺς μὲν ἐπ’ αὐτοῖς παιδαγωγοὺς θεράποντας ἐφιστᾶσιν , εὐθὺς δὲ πέμπουσιν εἰς διδασκάλων μαθησομένους καὶ γράμματα καὶ μουσικὴν καὶ τὰ ἐν παλαίστρᾳ .
+perseus-eng2	 In the other Greek states parents who profess to give their sons the best education place their boys under the care and control of a moral tutor as soon as they can understand what is said to them, and send them to a school to learn letters, music and the exercises of the wrestling-ground.
+
+cts:urn:tlg0032.tlg010:2.1
+glaux1.0-sentence	23
+perseus-grc2	 πρὸς δὲ τούτοις τῶν παίδων πόδας μὲν ὑποδήμασιν ἁπαλύνουσι , σώματα δὲ ἱματίων μεταβολαῖς διαθρύπτουσι ·
+perseus-eng2	 Moreover, they soften the children’s feet by giving them sandals, and pamper their bodies with changes of clothing;
+
+cts:urn:tlg0032.tlg010:2.1
+glaux1.0-sentence	24
+perseus-grc2	 σίτου γε μὴν αὐτοῖς γαστέρα μέτρον νομίζουσιν .
+perseus-eng2	 and it is customary to allow them as much food as they can eat.
+
+cts:urn:tlg0032.tlg010:2.2
+glaux1.0-sentence	25
+perseus-grc2	 ὁ δὲ Λυκοῦργος , ἀντὶ μὲν τοῦ ἰδίᾳ ἕκαστον παιδαγωγοὺς δούλους ἐφιστάναι , ἄνδρα ἐπέστησε κρατεῖν αὐτῶν ἐξ ὧνπερ αἱ μέγισται ἀρχαὶ καθίστανται , ὃς δὴ καὶ παιδονόμος καλεῖται , τοῦτον δὲ κύριον ἐποίησε καὶ ἁθροίζειν τοὺς παῖδας καὶ ἐπισκοποῦντα , εἴ τις ῥᾳδιουργοίη , ἰσχυρῶς κολάζειν .
+perseus-eng2	 Lycurgus, on the contrary, instead of leaving each father to appoint a slave to act as tutor, gave the duty of controlling the boys to a member of the class from which the highest offices are filled, in fact to the Warden as he is called.
+
+cts:urn:tlg0032.tlg010:2.2
+glaux1.0-sentence	26
+perseus-grc2	 ἔδωκε δ’ αὐτῷ καὶ τῶν ἡβώντων μαστιγοφόρους , ὅπως τιμωροῖεν ὁπότε δέοι , ὥστε πολλὴν μὲν αἰδῶ , πολλὴν δὲ πειθὼ ἐκεῖ συμπαρεῖναι .
+perseus-eng2	 He gave this person authority to gather the boys together, to take charge of them and to punish them severely in case of misconduct. He also assigned to him a staff of youths provided with whips to chastise them when necessary; and the result is that modesty and obedience are inseparable companions at Sparta.
+
+cts:urn:tlg0032.tlg010:2.3
+glaux1.0-sentence	27
+perseus-grc2	 ἀντί γε μὴν τοῦ ἁπαλύνειν τοὺς πόδας ὑποδήμασιν ἔταξεν ἀνυποδησίᾳ κρατύνειν , νομίζων , εἰ τοῦτ’ ἀσκήσειαν , πολὺ μὲν ῥᾷον ἂν ὀρθιάδε ἐκβαίνειν , ἀσφαλέστερον δὲ πρανῆ καταβαίνειν , καὶ πηδῆσαι δὲ καὶ ἀναθορεῖν καὶ δραμεῖν θᾶττον ἀνυπόδητον , εἰ ἠσκηκὼς εἴη τοὺς πόδας , ἢ ὑποδεδεμένον .
+perseus-eng2	 Instead of softening the boys’ feet with sandals he required them to harden their feet by going without shoes. He believed that if this habit were cultivated it would enable them to climb hills more easily and descend steep inclines with less danger, and that a youth who had accustomed himself to go barefoot would leap and jump and run more nimbly than a boy in sandals.
+
+cts:urn:tlg0032.tlg010:2.4
+glaux1.0-sentence	28
+perseus-grc2	 καὶ ἀντί γε τοῦ ἱματίοις διαθρύπτεσθαι ἐνόμιζεν ἑνὶ ἱματίῳ δι’ ἔτους προσεθίζεσθαι , νομίζων οὕτως καὶ πρὸς ψύχη καὶ πρὸς θάλπη ἄμεινον ἂν παρεσκευάσθαι .
+perseus-eng2	 And instead of letting them be pampered in the matter of clothing, he introduced the custom of wearing one garment throughout the year, believing that they would thus be better prepared to face changes of heat and cold.
+
+cts:urn:tlg0032.tlg010:2.5
+glaux1.0-sentence	29
+perseus-grc2	 σῖτόν γε μὴν ἔταξε τοσοῦτον ἔχοντα συμβολεύειν τὸν εἴρενα ὡς ὑπὸ πλησμονῆς μὲν μήποτε βαρύνεσθαι , τοῦ δὲ ἐνδεεστέρως διάγειν μὴ ἀπείρως ἔχειν , νομίζων τοὺς οὕτω παιδευομένους μᾶλλον μὲν ἂν δύνασθαι , εἰ δεήσειεν , ἀσιτήσαντας ἐπιπονῆσαι , μᾶλλον δ’ ἄν , εἰ παραγγελθείη , ἀπὸ τοῦ αὐτοῦ σίτου πλείω χρόνον ἐπιταθῆναι , ἧττον δ’ ἂν ὄψου δεῖσθαι , εὐχερέστερον δὲ πρὸς πᾶν ἔχειν βρῶμα , καὶ ὑγιεινοτέρως δ’ ἂν διάγειν ·
+perseus-eng2	 As to the food, he required the prefect to bring with him such a moderate amount of it that the boys would never suffer from repletion, and would know what it was to go with their hunger unsatisfied; for he believed that those who underwent this training would be better able to continue working on an empty stomach, if necessary, and would be capable of carrying on longer without extra food, if the word of command were given to do so:
+
+cts:urn:tlg0032.tlg010:2.5
+glaux1.0-sentence	30
+perseus-grc2	 καὶ εἰς μῆκος ἂν τὴν αὐξάνεσθαι ῥαδινὰ τὰ σώματα ποιοῦσαν τροφὴν μᾶλλον συλλαμβάνειν ἡγήσατο ἢ τὴν διαπλατύνουσαν τῷ σίτῳ .
+perseus-eng2	 they would want fewer delicacies and would accommodate themselves more readily to anything put before them, and at the same time would enjoy better health.
+
+cts:urn:tlg0032.tlg010:2.6
+glaux1.0-sentence	31
+perseus-grc2	 ὡς δὲ μὴ ὑπὸ λιμοῦ ἄγαν αὖ πιέζοιντο , ἀπραγμόνως μὲν αὐτοῖς οὐκ ἔδωκε λαμβάνειν ὧν ἂν προσδέωνται , κλέπτειν δ’ ἐφῆκεν ἔστιν ἃ τῷ λιμῷ ἐπικουροῦντας .
+perseus-eng2	 He also thought that a diet which made their bodies slim would do more to increase their height than one that consisted of flesh-forming food.  On the other hand, lest they should feel too much the pinch of hunger, while not giving them the opportunity of taking what they wanted without trouble he allowed them to alleviate their hunger by stealing something.
+
+cts:urn:tlg0032.tlg010:2.7
+glaux1.0-sentence	32
+perseus-grc2	 καὶ ὡς μὲν οὐκ ἀπορῶν ὅ τι δοίη ἐφῆκεν αὐτοῖς γε μηχανᾶσθαι τὴν τροφήν , οὐδένα οἶμαι τοῦτο ἀγνοεῖν ·
+perseus-eng2	 It was not on account of a difficulty in providing for them that he encouraged them to get their food by their own cunning. No one, I suppose, can fail to see that.
+
+cts:urn:tlg0032.tlg010:2.7
+glaux1.0-sentence	33
+perseus-grc2	 δῆλον δ’ ὅτι τὸν μέλλοντα κλωπεύειν καὶ νυκτὸς ἀγρυπνεῖν δεῖ καὶ μεθ’ ἡμέραν ἀπατᾶν καὶ ἐνεδρεύειν , καὶ κατασκόπους δὲ ἑτοιμάζειν τὸν μέλλοντά τι λήψεσθαι .
+perseus-eng2	 Obviously a man who intends to take to thieving must spend sleepless nights and play the deceiver and lie in ambush by day, and moreover, if he means to make a capture, he must have spies ready.
+
+cts:urn:tlg0032.tlg010:2.7
+glaux1.0-sentence	34
+perseus-grc2	 ταῦτα οὖν δὴ πάντα δῆλον ὅτι μηχανικωτέρους τῶν ἐπιτηδείων βουλόμενος τοὺς παῖδας ποιεῖν καὶ πολεμικωτέρους οὕτως ἐπαίδευσεν .
+perseus-eng2	 There can be no doubt then, that all this education was planned by him in order to make the boys more resourceful in getting supplies, and better fighting men.
+
+cts:urn:tlg0032.tlg010:2.8
+glaux1.0-sentence	35
+perseus-grc2	 εἴποι δ’ ἂν οὖν τις , τί δῆτα , εἴπερ τὸ κλέπτειν ἀγαθὸν ἐνόμιζε , πολλὰς πληγὰς ἐπέβαλλε τῷ ἁλισκομένῳ ;
+perseus-eng2	 But why, if he believed stealing to be a fine thing, did he have the boy who was caught beaten with many stripes?
+
+cts:urn:tlg0032.tlg010:2.8
+glaux1.0-sentence	36
+perseus-grc2	 ὅτι , φημὶ ἐγώ , καὶ τ- ἄλλα , ὅσα ἄνθρωποι διδάσκουσι , κολάζουσι τὸν μὴ καλῶς ὑπηρετοῦντα .
+perseus-eng2	 I reply: Because in all cases men punish a learner for not carrying out properly whatever he is taught to do.
+
+cts:urn:tlg0032.tlg010:2.8
+glaux1.0-sentence	37
+perseus-grc2	 κ- ἐκεῖνοι οὖν τοὺς ἁλισκομένους ὡς κακῶς κλέπτοντας τιμωροῦνται .
+perseus-eng2	 So the Spartans chastise those who get caught for stealing badly.
+
+cts:urn:tlg0032.tlg010:2.9
+glaux1.0-sentence	38
+perseus-grc2	 καὶ ὡς πλείστους δὴ ἁρπάσαι τυροὺς παρ’ Ὀρθίας καλὸν θείς , μαστιγοῦν τούτους ἄλλοις ἐπέταξε , τοῦτο δηλῶσαι καὶ ἐν τούτῳ βουλόμενος ὅτι ἔστιν ὀλίγον χρόνον ἀλγήσαντα πολὺν χρόνον εὐδοκιμοῦντα εὐφραίνεσθαι .
+perseus-eng2	 He made it a point of honour to steal as many cheeses as possible from the altar of Artemis Orthia, but appointed others to scourge the thieves, meaning to show thereby that by enduring pain for a short time one may win lasting fame and felicity.
+
+cts:urn:tlg0032.tlg010:2.9
+glaux1.0-sentence	39
+perseus-grc2	 δηλοῦται δὲ ἐν τούτῳ ὅτι καὶ ὅπου τάχους δεῖ ὁ βλακεύων ἐλάχιστα μὲν ὠφελεῖται , πλεῖστα δὲ πράγματα λαμβάνει .
+perseus-eng2	 It is shown herein that where there is need of swiftness, the slothful, as usual, gets little profit and many troubles.
+
+cts:urn:tlg0032.tlg010:2.10
+glaux1.0-sentence	40
+perseus-grc2	 ὅπως δὲ μηδ’ εἰ ὁ παιδονόμος ἀπέλθοι , ἔρημοί ποτε οἱ παῖδες εἶεν ἄρχοντος , ἐποίησε τὸν ἀεὶ παρόντα τῶν πολιτῶν κύριον εἶναι καὶ ἐπιτάττειν τοῖς παισὶν ὅ τι ἂν ἀγαθὸν δοκοίη εἶναι , καὶ κολάζειν , εἴ τι ἁμαρτάνοιεν .
+perseus-eng2	 In order that the boys might never lack a ruler even when the Warden was away, he gave authority to any citizen who chanced to be present to require them to do anything that he thought right, and to punish them for any misconduct.
+
+cts:urn:tlg0032.tlg010:2.10
+glaux1.0-sentence	41
+perseus-grc2	 τοῦτο δὲ ποιήσας διέπραξε καὶ αἰδημονεστέρους εἶναι τοὺς παῖδας ·
+perseus-eng2	 This had the effect of making the boys more respectful;
+
+cts:urn:tlg0032.tlg010:2.10
+glaux1.0-sentence	42
+perseus-grc2	 οὐδὲν γὰρ οὕτως αἰδοῦνται οὔτε παῖδες οὔτε ἄνδρες ὡς τοὺς ἄρχοντας .
+perseus-eng2	 in fact boys and men alike respect their rulers above everything.
+
+cts:urn:tlg0032.tlg010:2.11
+glaux1.0-sentence	43
+perseus-grc2	 ὡς δὲ καὶ εἴ ποτε μηδεὶς τύχοι ἀνὴρ παρών , μηδ’ ὣς ἔρημοι οἱ παῖδες ἄρχοντος εἶεν , ἔθηκε τῆς ἴλης ἑκάστης τὸν τορώτατον τῶν εἰρένων ἄρχειν ·
+perseus-eng2	 And that a ruler might not be lacking to the boys even when no grown man happened to be present, he selected the keenest of the prefects, and gave to each the command of a division.
+
+cts:urn:tlg0032.tlg010:2.11
+glaux1.0-sentence	44
+perseus-grc2	 ὥστε οὐδέποτε ἐκεῖ οἱ παῖδες ἔρημοι ἄρχοντός εἰσι .
+perseus-eng2	 And so at Sparta the boys are never without a ruler.
+
+cts:urn:tlg0032.tlg010:2.12
+glaux1.0-sentence	45
+perseus-grc2	 λεκτέον δέ μοι δοκεῖ εἶναι καὶ περὶ τῶν παιδικῶν ἐρώτων ·
+perseus-eng2	 I think I ought to say something also about intimacy with boys, since this matter also has a bearing on education.
+
+cts:urn:tlg0032.tlg010:2.12
+glaux1.0-sentence	46
+perseus-grc2	 ἔστι γάρ τι καὶ τοῦτο πρὸς παιδείαν .
+perseus-eng2	 In other Greek states, for instance among the Boeotians, man and boy live together, like married people;
+
+cts:urn:tlg0032.tlg010:2.12
+glaux1.0-sentence	47
+perseus-grc2	 οἱ μὲν τοίνυν ἄλλοι Ἕλληνες ἢ ὥσπερ Βοιωτοὶ ἀνὴρ καὶ παῖς συζυγέντες ὁμιλοῦσιν , ἢ ὥσπερ Ἠλεῖοι διὰ χαρίτων τῇ ὥρᾳ χρῶνται ·
+perseus-eng2	 elsewhere, among the Eleians, for example, consent is won by means of favours.
+
+cts:urn:tlg0032.tlg010:2.12
+glaux1.0-sentence	48
+perseus-grc2	 εἰσὶ δὲ καὶ οἳ παντάπασι τοῦ διαλέγεσθαι τοὺς ἐραστὰς εἴργουσιν ἀπὸ τῶν παίδων .
+perseus-eng2	 Some, on the other hand, entirely forbid suitors to talk with boys.
+
+cts:urn:tlg0032.tlg010:2.13
+glaux1.0-sentence	49
+perseus-grc2	 ὁ δὲ Λυκοῦργος ἐναντία καὶ τούτοις πᾶσι γνούς , εἰ μέν τις αὐτὸς ὢν οἷον δεῖ ἀγασθεὶς ψυχὴν παιδὸς πειρῷτο ἄμεμπτον φίλον ἀποτελέσασθαι καὶ συνεῖναι , ἐπῄνει καὶ καλλίστην παιδείαν ταύτην ἐνόμιζεν ·
+perseus-eng2	 The customs instituted by Lycurgus were opposed to all of these. If someone, being himself an honest man, admired a boy’s soul and tried to make of him an ideal friend without reproach and to associate with him, he approved, and believed in the excellence of this kind of training.
+
+cts:urn:tlg0032.tlg010:2.13
+glaux1.0-sentence	50
+perseus-grc2	 εἰ δέ τις παιδὸς σώματος ὀρεγόμενος φανείη , αἴσχιστον τοῦτο θεὶς ἐποίησεν ἐν Λακεδαίμονι μηδὲν ἧττον ἐραστὰς παιδικῶν ἀπέχεσθαι ἢ γονεῖς παίδων ἢ καὶ ἀδελφοὶ ἀδελφῶν εἰς ἀφροδίσια ἀπέχονται .
+perseus-eng2	 But if it was clear that the attraction lay in the boy’s outward beauty, he banned the connexion as an abomination; and thus he caused lovers to abstain from boys no less than parents abstain from sexual intercourse with their children and brothers and sisters with each other.
+
+cts:urn:tlg0032.tlg010:2.14
+glaux1.0-sentence	51
+perseus-grc2	 τὸ μέντοι ταῦτα ἀπιστεῖσθαι ὑπό τινων οὐ θαυμάζω ·
+perseus-eng2	 I am not surprised, however, that people refuse to believe this.
+
+cts:urn:tlg0032.tlg010:2.14
+glaux1.0-sentence	52
+perseus-grc2	 ἐν πολλαῖς γὰρ τῶν πόλεων οἱ νόμοι οὐκ ἐναντιοῦνται ταῖς πρὸς τοὺς παῖδας ἐπιθυμίαις .
+perseus-eng2	 For in many states the laws are not opposed to the indulgence of these appetites.
+
+cts:urn:tlg0032.tlg010:2.14
+glaux1.0-sentence	53
+perseus-grc2	 ἡ μὲν δὴ παιδεία εἴρηται ἥ τε Λακωνικὴ καὶ ἡ τῶν ἄλλων Ἑλλήνων ·
+perseus-eng2	 I have now dealt with the Spartan system of education, and that of the other Greek states.
+
+cts:urn:tlg0032.tlg010:2.14
+glaux1.0-sentence	54
+perseus-grc2	 ἐξ ὁποτέρας δ’ αὐτῶν καὶ εὐπειθέστεροι καὶ αἰδημονέστεροι καὶ ὧν δεῖ ἐγκρατέστεροι ἄνδρες ἀποτελοῦνται , ὁ βουλόμενος καὶ ταῦτα ἐπισκοπείσθω .
+perseus-eng2	 Which system turns out men more obedient, more respectful, and more strictly temperate, anyone who chooses may once more judge for himself.
+
+cts:urn:tlg0032.tlg010:3.1
+glaux1.0-sentence	55
+perseus-grc2	 ὅταν γε μὴν ἐκ παίδων εἰς τὸ μειρακιοῦσθαι ἐκβαίνωσι , τηνικαῦτα οἱ μὲν ἄλλοι παύουσι μὲν ἀπὸ παιδαγωγῶν , παύουσι δὲ ἀπὸ διδασκάλων , ἄρχουσι δὲ οὐδένες ἔτι αὐτῶν , ἀλλ’ αὐτονόμους ἀφιᾶσιν ·
+perseus-eng2	 When a boy ceases to be a child, and begins to be a lad, others release him from his moral tutor and his schoolmaster: he is then no longer under a ruler and is allowed to go his own way.
+
+cts:urn:tlg0032.tlg010:3.1
+glaux1.0-sentence	56
+perseus-grc2	 ὁ δὲ Λυκοῦργος καὶ τούτων τ- ἐναντία ἔγνω .
+perseus-eng2	 Here again Lycurgus introduced a wholly different system.
+
+cts:urn:tlg0032.tlg010:3.2
+glaux1.0-sentence	57
+perseus-grc2	 καταμαθὼν γὰρ τοῖς τηλικούτοις μέγιστον μὲν φρόνημα ἐμφυόμενον , μάλιστα δὲ ὕβριν ἐπιπολάζουσαν , ἰσχυροτάτας δὲ ἐπιθυμίας τῶν ἡδονῶν παρισταμένας , τηνικαῦτα πλείστους μὲν πόνους αὐτοῖς ἐπέβαλε , πλείστην δὲ ἀσχολίαν ἐμηχανήσατο .
+perseus-eng2	 For he observed that at this time of life self-will makes strong root in a boy’s mind, a tendency to insolence manifests itself, and a keen appetite for pleasure in different forms takes possession of him. At this stage, therefore, he imposed on him a ceaseless round of work, and contrived a constant round of occupation.
+
+cts:urn:tlg0032.tlg010:3.3
+glaux1.0-sentence	58
+perseus-grc2	 ἐπιθεὶς δὲ καὶ εἴ τις ταῦτα φύγοι , μηδενὸς ἔτι τῶν καλῶν τυγχάνειν , ἐποίησε μὴ μόνον τοὺς ἐκ δημοσίου ἀλλὰ καὶ τοὺς κηδομένους ἑκάστων ἐπιμελεῖσθαι , ὡς μὴ ἀποδειλιάσαντες ἀδόκιμοι παντάπασιν ἐν τῇ πόλει γένοιντο .
+perseus-eng2	 The penalty for shirking the duties was exclusion from all future honours. He thus caused not only the public authorities, but their relations also to take pains that the lads did not incur the contempt of their fellow citizens by flinching from their tasks.
+
+cts:urn:tlg0032.tlg010:3.4
+glaux1.0-sentence	59
+perseus-grc2	 πρὸς δὲ τούτοις τὸ αἰδεῖσθαι ἰσχυρῶς ἐμφῦσαι βουλόμενος αὐτοῖς καὶ ἐν ταῖς ὁδοῖς ἐπέταξεν ἐντὸς μὲν τοῦ ἱματίου τὼ χεῖρε ἔχειν , σιγῇ δὲ πορεύεσθαι , περιβλέπειν δὲ μηδαμοῖ , ἀλλ’ αὐτὰ τὰ πρὸ τῶν ποδῶν ὁρᾶν .
+perseus-eng2	 Moreover, wishing modesty to be firmly rooted in them, he required them to keep their hands under their cloaks, to walk in silence, not to look about them, but to fix their eyes on the ground.
+
+cts:urn:tlg0032.tlg010:3.4
+glaux1.0-sentence	60
+perseus-grc2	 ἔνθα δὴ καὶ δῆλον γεγένηται ὅτι τὸ ἄρρεν φῦλον καὶ εἰς τὸ σωφρονεῖν ἰσχυρότερόν ἐστι τῶν τῆς θηλείας φύσεως .
+perseus-eng2	 The effect of this rule has been to prove that even in the matter of decorum the male is stronger than the female sex.
+
+cts:urn:tlg0032.tlg010:3.5
+glaux1.0-sentence	61
+perseus-grc2	 ἐκείνων γοῦν ἧττον μὲν ἂν φωνὴν ἀκούσαις ἢ τῶν λιθίνων , ἧττον δ’ ἂν ὄμματα μεταστρέψαις ἢ τῶν χαλκῶν , αἰδημονεστέρους δ’ ἂν αὐτοὺς ἡγήσαιο καὶ αὐτῶν τῶν ἐν τοῖς ὀφθαλμοῖς παρθένων .
+perseus-eng2	 At any rate you would expect a stone image to utter a sound sooner than those lads; you would sooner attract the attention of a bronze figure; you might think them more modest even than a young bride in the bridal chamber.
+
+cts:urn:tlg0032.tlg010:3.5
+glaux1.0-sentence	62
+perseus-grc2	 καὶ ἐπειδὰν εἰς τὸ φιλίτιόν γε ἀφίκωνται , ἀγαπητὸν αὐτῶν καὶ τὸ ἐρωτηθὲν ἀκοῦσαι .
+perseus-eng2	 When they have taken their place at a public meal, you must be content if you can get an answer to a question.
+
+cts:urn:tlg0032.tlg010:3.5
+glaux1.0-sentence	63
+perseus-grc2	 καὶ τῶν μὲν αὖ παιδίσκων οὕτως ἐπεμελήθη .
+perseus-eng2	 Such was the care that he bestowed on the growing lads.
+
+cts:urn:tlg0032.tlg010:4.1
+glaux1.0-sentence	64
+perseus-grc2	 περί γε μὴν τῶν ἡβώντων πολὺ μάλιστα ἐσπούδασε , νομίζων τούτους , εἰ γένοιντο οἵους δεῖ , πλεῖστον ῥέπειν ἐπὶ τὸ ἀγαθὸν τῇ πόλει .
+perseus-eng2	 For those who had reached the prime of life he showed by far the deepest solicitude. For he believed that if these were of the right stamp they must exercise a powerful influence for good on the state.
+
+cts:urn:tlg0032.tlg010:4.2
+glaux1.0-sentence	65
+perseus-grc2	 ὁρῶν οὖν , οἷς ἂν μάλιστα φιλονικία ἐγγένηται , τούτων καὶ χοροὺς ἀξιακροατοτάτους γιγνομένους καὶ γυμνικοὺς ἀγῶνας ἀξιοθεατοτάτους , ἐνόμιζεν , εἰ καὶ τοὺς ἡβῶντας συμβάλλοι εἰς ἔριν περὶ ἀρετῆς , οὕτως ἂν καὶ τούτους ἐπὶ πλεῖστον ἀφικνεῖσθαι ἀνδραγαθίας .
+perseus-eng2	 He saw that where the spirit of rivalry is strongest among the people, there the choruses are most worth hearing and the athletic contests afford the finest spectacle.
+
+cts:urn:tlg0032.tlg010:4.2
+glaux1.0-sentence	66
+perseus-grc2	 ὡς οὖν τούτους αὖ συνέβαλεν , ἐξηγήσομαι .
+perseus-eng2	 He believed, therefore, that if he could match the young men together in a strife of valour, they too would reach a high level of manly excellence. I will proceed to explain, therefore, how he instituted matches between the young men.
+
+cts:urn:tlg0032.tlg010:4.3
+glaux1.0-sentence	67
+perseus-grc2	 αἱροῦνται τοίνυν αὐτῶν οἱ ἔφοροι ἐκ τῶν ἀκμαζόντων τρεῖς ἄνδρας ·
+perseus-eng2	 The Ephors, then, pick out three of the very best among them.
+
+cts:urn:tlg0032.tlg010:4.3
+glaux1.0-sentence	68
+perseus-grc2	 οὗτοι δὲ ἱππαγρέται καλοῦνται .
+perseus-eng2	 These three are called Commanders of the Guard.
+
+cts:urn:tlg0032.tlg010:4.3
+glaux1.0-sentence	69
+perseus-grc2	 τούτων δ’ ἕκαστος ἄνδρας ἑκατὸν καταλέγει , διασαφηνίζων ὅτου ἕνεκα τοὺς μὲν προτιμᾷ , τοὺς δὲ ἀποδοκιμάζει .
+perseus-eng2	 Each of them enrols a hundred others, stating his reasons for preferring one and rejecting another.
+
+cts:urn:tlg0032.tlg010:4.4
+glaux1.0-sentence	70
+perseus-grc2	 οἱ οὖν μὴ τυγχάνοντες τῶν καλῶν πολεμοῦσι τοῖς τε ἀποστείλασιν αὐτοὺς καὶ τοῖς αἱρεθεῖσιν ἀνθ’ αὑτῶν καὶ παραφυλάττουσιν ἀλλήλους , ἐάν τι παρὰ τὰ καλὰ νομιζόμενα ῥᾳδιουργῶσι .
+perseus-eng2	 The result is that those who fail to win the honour are at war both with those who sent them away and with their successful rivals; and they are on the watch for any lapse from the code of honour.
+
+cts:urn:tlg0032.tlg010:4.5
+glaux1.0-sentence	71
+perseus-grc2	 καὶ αὕτη δὴ γίγνεται ἡ θεοφιλεστάτη τε καὶ πολιτικωτάτη ἔρις , ἐν ᾗ ἀποδέδεικται μὲν ἃ δεῖ ποιεῖν τὸν ἀγαθόν , χωρὶς δ’ ἑκάτεροι ἀσκοῦσιν ὅπως ἀεὶ κράτιστοι ἔσονται , ἐὰν δέ τι δέῃ , καθ’ ἕνα ἀρήξουσι τῇ πόλει παντὶ σθένει ἄν .
+perseus-eng2	 Here then you find that kind of strife that is dearest to the gods, and in the highest sense political  —  the strife that sets the standard of a brave man’s conduct; and in which either party exerts itself to the end that it may never fall below its best, and that, when the time comes, every member of it may support the state with all his might.
+
+cts:urn:tlg0032.tlg010:4.6
+glaux1.0-sentence	72
+perseus-grc2	 ἀνάγκη δ’ αὐτοῖς καὶ εὐεξίας ἐπιμελεῖσθαι .
+perseus-eng2	 And they are bound, too, to keep themselves fit,
+
+cts:urn:tlg0032.tlg010:4.6
+glaux1.0-sentence	73
+perseus-grc2	 καὶ γὰρ πυκτεύουσι διὰ τὴν ἔριν ὅπου ἂν συμβάλωσι ·
+perseus-eng2	 for one effect of the strife is that they spar whenever they meet;
+
+cts:urn:tlg0032.tlg010:4.6
+glaux1.0-sentence	74
+perseus-grc2	 διαλύειν μέντοι τοὺς μαχομένους πᾶς ὁ παραγενόμενος κύριος .
+perseus-eng2	 but anyone present has a right to part the combatants.
+
+cts:urn:tlg0032.tlg010:4.6
+glaux1.0-sentence	75
+perseus-grc2	 ἢν δέ τις ἀπειθῇ τῷ διαλύοντι , ἄγει αὐτὸν ὁ παιδονόμος ἐπὶ τοὺς ἐφόρους ·
+perseus-eng2	 If anyone refuses to obey the mediator the Warden takes him to the Ephors;
+
+cts:urn:tlg0032.tlg010:4.6
+glaux1.0-sentence	76
+perseus-grc2	 οἱ δὲ ζημιοῦσι μεγαλείως , καθιστάναι βουλόμενοι εἰς τὸ μήποτε ὀργὴν τοῦ μὴ πείθεσθαι τοῖς νόμοις κρατῆσαι .
+perseus-eng2	 and they fine him heavily, in order to make him realize that he must never yield to a sudden impulse to disobey the laws.
+
+cts:urn:tlg0032.tlg010:4.7
+glaux1.0-sentence	77
+perseus-grc2	 τοῖς γε μὴν τὴν ἡβητικὴν ἡλικίαν πεπερακόσιν , ἐξ ὧν ἤδη καὶ αἱ μέγισται ἀρχαὶ καθίστανται , οἱ μὲν ἄλλοι Ἕλληνες ἀφελόντες αὐτῶν τὸ ἰσχύος ἔτι ἐπιμελεῖσθαι στρατεύεσθαι ὅμως αὐτοῖς ἐπιτάττουσιν , ὁ δὲ Λυκοῦργος τοῖς τηλικούτοις νόμιμον ἐποίησε κάλλιστον εἶναι τὸ θηρᾶν , εἰ μή τι δημόσιον κωλύοι , ὅπως δύναιντο καὶ οὗτοι μηδὲν ἧττον τῶν ἡβώντων στρατιωτικοὺς πόνους ὑποφέρειν .
+perseus-eng2	 To come to those who have passed the time of youth, and are now eligible to hold the great offices of state. While absolving these from the duty of bestowing further attention on their bodily strength, the other Greeks require them to continue serving in the army. But Lycurgus established the principle that for citizens of that age, hunting was the noblest occupation, except when some public duty prevented, in order that they might be able to stand the fatigues of soldiering as well as the younger men.
+
+cts:urn:tlg0032.tlg010:5.1
+glaux1.0-sentence	78
+perseus-grc2	 ἃ μὲν οὖν ἑκάστῃ ἡλικίᾳ ἐνομοθέτησεν ὁ Λυκοῦργος ἐπιτηδεύματα σχεδὸν εἴρηται ·
+perseus-eng2	 I have given a fairly complete account of the institutions of Lycurgus so far as they apply to the successive stages of life.
+
+cts:urn:tlg0032.tlg010:5.1
+glaux1.0-sentence	79
+perseus-grc2	 οἵαν δὲ καὶ πᾶσι δίαιταν κατεσκεύασε , νῦν πειράσομαι διηγεῖσθαι .
+perseus-eng2	 I will now try to describe the system that he established for all alike.
+
+cts:urn:tlg0032.tlg010:5.2
+glaux1.0-sentence	80
+perseus-grc2	 Λυκοῦργος τοίνυν παραλαβὼν τοὺς Σπαρτιάτας ὥσπερ τοὺς ἄλλους Ἕλληνας οἴκοι σκηνοῦντας , γνοὺς ἐν τούτοις πλεῖστα ῥᾳδιουργεῖσθαι , εἰς τὸ φανερὸν ἐξήγαγε τὰ συσκήνια , οὕτως ἡγούμενος ἥκιστ’ ἂν παραβαίνεσθαι τὰ προσταττόμενα .
+perseus-eng2	 Lycurgus found the Spartans boarding at home like the other Greeks, and came to the conclusion that the custom was responsible for a great deal of misconduct. He therefore established the public messes outside in the open, thinking that this would reduce disregard of orders to a minimum.
+
+cts:urn:tlg0032.tlg010:5.3
+glaux1.0-sentence	81
+perseus-grc2	 καὶ σῖτόν γε ἔταξεν αὐτοῖς ὡς μήτε ὑπερπληροῦσθαι μήτε ἐνδεεῖς γίγνεσθαι .
+perseus-eng2	 The amount of food he allowed was just enough to prevent them from getting either too much or too little to eat.
+
+cts:urn:tlg0032.tlg010:5.3
+glaux1.0-sentence	82
+perseus-grc2	 πολλὰ δὲ καὶ παράλογα γίγνεται ἀπὸ τῶν ἀγρευομένων ·
+perseus-eng2	 But many extras are supplied from the spoils of the chase;
+
+cts:urn:tlg0032.tlg010:5.3
+glaux1.0-sentence	83
+perseus-grc2	 οἱ δὲ πλούσιοι ἔστιν ὅτε καὶ ἄρτον ἀντιπαραβάλλουσιν ·
+perseus-eng2	 and for these rich men sometimes substitute wheaten bread.
+
+cts:urn:tlg0032.tlg010:5.3
+glaux1.0-sentence	84
+perseus-grc2	 ὥστε οὔτε ἔρημός ποτε ἡ τράπεζα βρωτῶν γίγνεται , ἔστ’ ἂν διασκηνῶσιν , οὔτε πολυδάπανος .
+perseus-eng2	 Consequently the board is never bare until the company breaks up, and never extravagantly furnished.
+
+cts:urn:tlg0032.tlg010:5.4
+glaux1.0-sentence	85
+perseus-grc2	 καὶ μὴν τοῦ πότου ἀποπαύσας τὰς οὐκ ἀναγκαίας πόσεις , αἳ σφάλλουσι μὲν σώματα , σφάλλουσι δὲ γνώμας , ἐφῆκεν ὁπότε διψῴη ἕκαστος πίνειν , οὕτω νομίζων ἀβλαβέστατόν τε καὶ ἥδιστον ποτὸν γίγνεσθαι .
+perseus-eng2	 Another of his reforms was the abolition of compulsory drinking, which is the undoing alike of body of mind. But he allowed everyone to drink when he was thirsty, believing that drink is then most harmless and most welcome.
+
+cts:urn:tlg0032.tlg010:5.4
+glaux1.0-sentence	86
+perseus-grc2	 οὕτω γε μὴν συσκηνούντων πῶς ἄν τις ἢ ὑπὸ λιχνείας ἢ οἰνοφλυγίας ἢ αὑτὸν ἢ οἶκον διαφθείρειεν ;
+perseus-eng2	 Now what opportunity did these public messes give a man to ruin himself or his estate by gluttony or wine-bibbing?
+
+cts:urn:tlg0032.tlg010:5.5
+glaux1.0-sentence	87
+perseus-grc2	 καὶ γὰρ δὴ ἐν μὲν ταῖς ἄλλαις πόλεσιν ὡς τὸ πολὺ οἱ ἥλικες ἀλλήλοις σύνεισι , μεθ’ ὧνπερ καὶ ἐλαχίστη αἰδὼς παραγίγνεται ·
+perseus-eng2	 Note that in other states the company usually consists of men of the same age, where modesty is apt to be conspicuous by its absence from the board.
+
+cts:urn:tlg0032.tlg010:5.5
+glaux1.0-sentence	88
+perseus-grc2	 ὁ δὲ Λυκοῦργος ἐν τῇ Σπάρτῃ ἀνέμειξε G? παιδεύεσθαι τὰ πολλὰ τοὺς νεωτέρους ὑπὸ τῆς τῶν γεραιτέρων ἐμπειρίας .
+perseus-eng2	 But Lycurgus introduced mixed companies at Sparta, so that the experience of the elders might contribute largely to the education of the juniors.
+
+cts:urn:tlg0032.tlg010:5.6
+glaux1.0-sentence	89
+perseus-grc2	 καὶ γὰρ δὴ ἐπιχώριον ἐν τοῖς φιλιτίοις λέγεσθαι ὅ τι ἂν καλῶς τις ἐν τῇ πόλει ποιήσῃ ·
+perseus-eng2	 In point of fact, by the custom of the country the conversation at the public meals turns on the great deeds wrought in the state,
+
+cts:urn:tlg0032.tlg010:5.6
+glaux1.0-sentence	90
+perseus-grc2	 ὥστ’ ἐκεῖ ἥκιστα μὲν ὕβριν , ἥκιστα δὲ παροινίαν , ἥκιστα δὲ αἰσχρουργίαν καὶ αἰσχρολογίαν ἐγγίγνεσθαι .
+perseus-eng2	 and so there is little room for insolence or drunken uproar, for unseemly conduct or indecent talk.
+
+cts:urn:tlg0032.tlg010:5.7
+glaux1.0-sentence	91
+perseus-grc2	 ἀγαθά γε μὴν ἀπεργάζεται καὶ τάδε ἡ ἔξω σίτησις ·
+perseus-eng2	 And the system of feeding in the open has other good results.
+
+cts:urn:tlg0032.tlg010:5.7
+glaux1.0-sentence	92
+perseus-grc2	 περιπατεῖν τε γὰρ ἀναγκάζονται ἐν τῇ οἴκαδε ἀφόδῳ , καὶ μὴν τοῦ ὑπὸ οἴνου μὴ σφάλλεσθαι ἐπιμελεῖσθαι , εἰδότες ὅτι οὐκ ἔνθαπερ ἐδείπνουν καταμενοῦσι καὶ τῇ ὄρφνῃ ὅσα ἡμέρᾳ χρηστέον ·
+perseus-eng2	 They must needs walk home after the meal, and, of course, must take good care not to stumble under the influence of drink (for they know that they will not stay on at the table);
+
+cts:urn:tlg0032.tlg010:5.7
+glaux1.0-sentence	93
+perseus-grc2	 οὐδὲ γὰρ ὑπὸ φανοῦ τὸν ἔτι ἔμφρουρον ἔξεστι πορεύεσθαι .
+perseus-eng2	 and they must do in the dark what they do in the day. Indeed, those who are still in the army are not even allowed a torch to guide them.
+
+cts:urn:tlg0032.tlg010:5.8
+glaux1.0-sentence	94
+perseus-grc2	 καταμαθών γε μὴν ὁ Λυκοῦργος καὶ ὅτι ἀπὸ τῶν σίτων οἱ μὲν διαπονούμενοι εὖχροί τε καὶ εὔσαρκοι καὶ εὔρωστοί εἰσιν , οἱ δ’ ἄπονοι πεφυσημένοι τε καὶ αἰσχροὶ καὶ ἀσθενεῖς ἀναφαίνονται , οὐδὲ τούτου ἠμέλησεν , ἀλλ’ ἐννοῶν ὅτι καὶ ὅταν αὐτός τις τῇ ἑαυτοῦ γνώμῃ φιλοπονῇ , ἀρκούντως τὸ σῶμα ἔχων ἀναφαίνεται , ἐπέταξε τὸν ἀεὶ πρεσβύτατον ἐν τῷ γυμνασίῳ ἑκάστῳ ἐπιμελεῖσθαι ὡς μήποτε αὐτοὶ ἐλάττους τῶν σιτίων γίγνεσθαι .
+perseus-eng2	 Lycurgus had also observed the effects of the same rations on the hard worker and the idler; that the former has a fresh colour, firm flesh and plenty of vigour, while the latter looks puffy, ugly and weak. He saw the importance of this; and reflecting that even a man who works hard of his own will because it is his duty to do so, looks in pretty good condition, he required the senior for the time being in every gymnasium to take care that the tasks set should be not too small for the rations allowed.
+
+cts:urn:tlg0032.tlg010:5.9
+glaux1.0-sentence	95
+perseus-grc2	 καὶ ἐμοὶ μὲν οὐδ’ ἐν τούτῳ σφαλῆναι δοκεῖ .
+perseus-eng2	 And I think that in this matter too he succeeded.
+
+cts:urn:tlg0032.tlg010:5.9
+glaux1.0-sentence	96
+perseus-grc2	 οὐκ ἂν οὖν ῥᾳδίως γέ τις εὕροι Σπαρτιατῶν οὔτε ὑγιεινοτέρους οὔτε τοῖς σώμασι χρησιμωτέρους ·
+perseus-eng2	 So it would not be easy to find healthier or handier men than the Spartans.
+
+cts:urn:tlg0032.tlg010:5.9
+glaux1.0-sentence	97
+perseus-grc2	 ὁμοίως γὰρ ἀπό τε τῶν σκελῶν καὶ ἀπὸ χειρῶν καὶ ἀπὸ τραχήλου γυμνάζονται .
+perseus-eng2	 For their exercises train the legs, arms and neck equally.
+
+cts:urn:tlg0032.tlg010:6.1
+glaux1.0-sentence	98
+perseus-grc2	 ἐναντία γε μὴν ἔγνω καὶ τάδε τοῖς πλείστοις .
+perseus-eng2	 In the following respects, again, his institutions differ from the ordinary type.
+
+cts:urn:tlg0032.tlg010:6.1
+glaux1.0-sentence	99
+perseus-grc2	 ἐν μὲν γὰρ ταῖς ἄλλαις πόλεσι τῶν ἑαυτοῦ ἕκαστος καὶ παίδων καὶ οἰκετῶν καὶ χρημάτων ἄρχουσιν ·
+perseus-eng2	 In most states every man has control of his own children, servants and goods.
+
+cts:urn:tlg0032.tlg010:6.1
+glaux1.0-sentence	100
+perseus-grc2	 ὁ δὲ Λυκοῦργος , κατασκευάσαι βουλόμενος ὡς ἂν μηδὲν βλάπτοντες ἀπολαύοιέν τι οἱ πολῖται ἀλλήλων ἀγαθόν , ἐποίησε παίδων ἕκαστον ὁμοίως τῶν ἑαυτοῦ καὶ τῶν ἀλλοτρίων ἄρχειν .
+perseus-eng2	 Lycurgus wanted to secure that the citizens should get some advantage from one another without doing any harm. He therefore gave every father authority over other men’s children as well as over his own.
+
+cts:urn:tlg0032.tlg010:6.2
+glaux1.0-sentence	101
+perseus-grc2	 ὅταν δέ τις εἰδῇ ὅτι οὗτοι πατέρες εἰσὶ τῶν παίδων , ὧν αὐτὸς ἄρχει ἀνάγκη οὕτως ἄρχειν ὥσπερ ἂν καὶ τῶν ἑαυτοῦ ἄρχεσθαι βούλοιτο .
+perseus-eng2	 When a man knows that fathers have this power, he is bound to rule the children over whom he exercises authority as he would wish his own to be ruled.
+
+cts:urn:tlg0032.tlg010:6.2
+glaux1.0-sentence	102
+perseus-grc2	 ἢν δέ τις παῖς ποτε πληγὰς λαβὼν ὑπ’ ἄλλου κατείπῃ πρὸς τὸν πατέρα , αἰσχρόν ἐστι μὴ οὐκ ἄλλας πληγὰς ἐμβάλλειν τῷ υἱεῖ .
+perseus-eng2	 If a boy tells his own father when he has been whipped by another father, it is a disgrace if the parent does not give his son another whipping.
+
+cts:urn:tlg0032.tlg010:6.2
+glaux1.0-sentence	103
+perseus-grc2	 οὕτω πιστεύουσιν ἀλλήλοις μηδὲν αἰσχρὸν προστάττειν τοῖς παισίν .
+perseus-eng2	 So completely do they trust one another not to give any improper orders to the children.
+
+cts:urn:tlg0032.tlg010:6.3
+glaux1.0-sentence	104
+perseus-grc2	 ἐποίησε δὲ καὶ οἰκέταις , εἴ τις δεηθείη , χρῆσθαι καὶ τοῖς ἀλλοτρίοις .
+perseus-eng2	 He also gave the power of using other men’s servants in case of necessity;
+
+cts:urn:tlg0032.tlg010:6.3
+glaux1.0-sentence	105
+perseus-grc2	 καὶ κυνῶν δὲ θηρευτικῶν συνῆψε κοινωνίαν ·
+perseus-eng2	 and made sporting dogs common property to this extent,
+
+cts:urn:tlg0032.tlg010:6.3
+glaux1.0-sentence	106
+perseus-grc2	 ὥστε οἱ μὲν δεόμενοι παρακαλοῦσιν ἐπὶ θήραν , ὁ δὲ μὴ αὐτὸς σχολάζων ἡδέως ἐκπέμπει .
+perseus-eng2	 that any who want them invite their master, and if he is engaged himself he is glad to send the hounds.
+
+cts:urn:tlg0032.tlg010:6.3
+glaux1.0-sentence	107
+perseus-grc2	 καὶ ἵπποις δὲ ὡσαύτως χρῶνται ·
+perseus-eng2	 A similar plan of borrowing is applied to horses also;
+
+cts:urn:tlg0032.tlg010:6.3
+glaux1.0-sentence	108
+perseus-grc2	 ὁ γὰρ ἀσθενήσας ἢ δεηθεὶς ὀχήματος ἢ ταχύ ποι βουληθεὶς ἀφικέσθαι , ἤν που ἴδῃ ἵππον ὄντα , λαβὼν καὶ χρησάμενος καλῶς ἀποκαθίστησιν .
+perseus-eng2	 thus a man who falls ill or wants a carriage or wishes to get to some place quickly, if he sees a horse anywhere, takes and uses it carefully and duly restores it.
+
+cts:urn:tlg0032.tlg010:6.4
+glaux1.0-sentence	109
+perseus-grc2	 οὐ μὴν οὐδ’ ἐκεῖνό γε παρὰ τοῖς ἄλλοις εἰθισμένον ἐποίησεν ἐπιτηδεύεσθαι .
+perseus-eng2	 There is yet another among the customs instituted by him which is not found in other communities.
+
+cts:urn:tlg0032.tlg010:6.4
+glaux1.0-sentence	110
+perseus-grc2	 ὅπου γὰρ ἂν ὑπὸ θήρας ὀψισθέντες δεηθῶσι τῶν ἐπιτηδείων , ἢν μὴ συνεσκευασμένοι τύχωσι , καὶ ἐνταῦθα ἔθηκε τοὺς μὲν πεπαμένους καταλείπειν τὰ πεποιημένα , τοὺς δὲ δεομένους ἀνοίξαντας τὰ σήμαντρα , λαβόντας ὅσων ἂν δέωνται σημηναμένους καταλιπεῖν .
+perseus-eng2	 It was intended to meet the needs of parties belated in the hunting-field with nothing ready to eat. He made a rule that those who had plenty should leave behind the prepared food, and that those who needed food should break the seals, take as much as they wanted, seal up the rest and leave it behind.
+
+cts:urn:tlg0032.tlg010:6.5
+glaux1.0-sentence	111
+perseus-grc2	 τοιγαροῦν οὕτως μεταδιδόντες ἀλλήλοις καὶ οἱ τὰ μικρὰ ἔχοντες μετέχουσι πάντων τῶν ἐν τῇ χώρᾳ , ὁπόταν τινὸς δεηθῶσιν .
+perseus-eng2	 The result of this method of going shares with one another is that even those who have but little receive a share of all that the country yields whenever they want anything.
+
+cts:urn:tlg0032.tlg010:7.1
+glaux1.0-sentence	112
+perseus-grc2	 ἐναντία γε μὴν καὶ τάδε τοῖς ἄλλοις Ἕλλησι κατέστησεν ὁ Λυκοῦργος ἐν τῇ Σπάρτῃ νόμιμα .
+perseus-eng2	 Nor does this exhaust the list of the customs established by Lycurgus at Sparta that are contrary to those of the other Greeks.
+
+cts:urn:tlg0032.tlg010:7.1
+glaux1.0-sentence	113
+perseus-grc2	 ἐν μὲν γὰρ δήπου ταῖς ἄλλαις πόλεσι πάντες χρηματίζονται ὅσον δύνανται ·
+perseus-eng2	 In other states, I suppose, all men make as much money as they can.
+
+cts:urn:tlg0032.tlg010:7.1
+glaux1.0-sentence	114
+perseus-grc2	 ὁ μὲν γὰρ γεωργεῖ , ὁ δὲ ναυκληρεῖ , ὁ δ’ ἐμπορεύεται , οἱ δὲ καὶ ἀπὸ τεχνῶν τρέφονται ·
+perseus-eng2	 One is a farmer, another a ship-owner, another a merchant, and others live by different handicrafts.
+
+cts:urn:tlg0032.tlg010:7.2
+glaux1.0-sentence	115
+perseus-grc2	 ἐν δὲ τῇ Σπάρτῃ ὁ Λυκοῦργος τοῖς μὲν ἐλευθέροις τῶν μὲν ἀμφὶ χρηματισμὸν ἀπεῖπε μηδενὸς ἅπτεσθαι , ὅσα δὲ ἐλευθερίαν ταῖς πόλεσι παρασκευάζει , ταῦτα ἔταξε μόνα ἔργα αὑτῶν νομίζειν .
+perseus-eng2	 But at Sparta  Lycurgus forbade freeborn citizens to have anything to do with business affairs. He insisted on their regarding as their own concern only those activities that make for civic freedom.
+
+cts:urn:tlg0032.tlg010:7.3
+glaux1.0-sentence	116
+perseus-grc2	 καὶ γὰρ δὴ τί πλοῦτος ἐκεῖ γε σπουδαστέος , ἔνθα ἴσα μὲν φέρειν εἰς τὰ ἐπιτήδεια , ὁμοίως δὲ διαιτᾶσθαι τάξας ἐποίησε μὴ ἡδυπαθείας ἕνεκα χρημάτων ὀρέγεσθαι ;
+perseus-eng2	 Indeed, how should wealth be a serious object there, when he insisted on equal contributions to the food supply and on the same standard of living for all, and thus cut off the attraction of money for indulgence’ sake?
+
+cts:urn:tlg0032.tlg010:7.3
+glaux1.0-sentence	117
+perseus-grc2	 ἀλλὰ μὴν οὐδ’ ἱματίων γε ἕνεκα χρηματιστέον ·
+perseus-eng2	 Why, there is not even any need of money to spend on cloaks:
+
+cts:urn:tlg0032.tlg010:7.3
+glaux1.0-sentence	118
+perseus-grc2	 οὐ γὰρ ἐσθῆτος πολυτελείᾳ ἀλλὰ σώματος εὐεξίᾳ κοσμοῦνται .
+perseus-eng2	 for their adornment is due not to the price of their clothes, but to the excellent condition of their bodies.
+
+cts:urn:tlg0032.tlg010:7.4
+glaux1.0-sentence	119
+perseus-grc2	 οὐδὲ μὴν τοῦ γε εἰς τοὺς συσκήνους ἕνεκα ἔχειν δαπανᾶν χρήματα ἁθροιστέον , ἐπεὶ τὸ τῷ σώματι πονοῦντα ὠφελεῖν τοὺς συνόντας εὐδοξότερον ἐποίησεν ἢ τὸ δαπανῶντα , ἐπιδείξας τὸ μὲν ψυχῆς , τὸ δὲ πλούτου ἔργον .
+perseus-eng2	 Nor yet is there any reason for amassing money in order to spend it on one’s messmates; for he made it more respectable to help one’s fellows by toiling with the body than by spending money, pointing out that toil is an employment of the soul, spending an employment of wealth.
+
+cts:urn:tlg0032.tlg010:7.5
+glaux1.0-sentence	120
+perseus-grc2	 τό γε μὴν ἐξ ἀδίκων χρηματίζεσθαι καὶ ἐν τοῖς τοιούτοις διεκώλυσε .
+perseus-eng2	 By other enactments he rendered it impossible to make money in unfair ways.
+
+cts:urn:tlg0032.tlg010:7.5
+glaux1.0-sentence	121
+perseus-grc2	 πρῶτον μὲν γὰρ νόμισμα τοιοῦτον κατεστήσατο , ὃ δεκάμνων μόνον ἂν εἰς οἰκίαν εἰσελθὸν οὔποτε δεσπότας οὐδὲ οἰκέτας λάθοι ·
+perseus-eng2	 In the first place the system of coinage that he established was of such a kind that even a sum of ten minae could not be brought into a house without the master and the servants being aware of it:
+
+cts:urn:tlg0032.tlg010:7.5
+glaux1.0-sentence	122
+perseus-grc2	 καὶ γὰρ χώρας μεγάλης καὶ ἁμάξης ἀγωγῆς δέοιτ’ ἄν .
+perseus-eng2	 the money would fill a large space and need a wagon to draw it.
+
+cts:urn:tlg0032.tlg010:7.6
+glaux1.0-sentence	123
+perseus-grc2	 χρυσίον γε μὴν καὶ ἀργύριον ἐρευνᾶται , καὶ ἄν τί που φανῇ , ὁ ἔχων ζημιοῦται .
+perseus-eng2	 Moreover, there is a right of search for gold and silver, and, in the event of discovery, the possessor is fined.
+
+cts:urn:tlg0032.tlg010:7.6
+glaux1.0-sentence	124
+perseus-grc2	 τί οὖν ἂν ἐκεῖ χρηματισμὸς σπουδάζοιτο , ἔνθα ἡ κτῆσις πλείους λύπας ἢ ἡ χρῆσις εὐφροσύνας παρέχει ;
+perseus-eng2	 Why, then, should money-making be a preoccupation in a state where the pains of its possession are more than the pleasures of its enjoyment?
+
+cts:urn:tlg0032.tlg010:8.1
+glaux1.0-sentence	125
+perseus-grc2	 ἀλλὰ γὰρ ὅτι μὲν ἐν Σπάρτῃ μάλιστα πείθονται ταῖς ἀρχαῖς τε καὶ τοῖς νόμοις , ἴσμεν ἅπαντες .
+perseus-eng2	 To continue: we all know that obedience to the magistrates and the laws is found in the highest degree in Sparta.
+
+cts:urn:tlg0032.tlg010:8.1
+glaux1.0-sentence	126
+perseus-grc2	 ἐγὼ μέντοι οὐδ’ ἐγχειρῆσαι οἶμαι πρότερον τὸν Λυκοῦργον ταύτην τὴν εὐταξίαν καθιστάναι πρὶν ὁμογνώμονας ἐποιήσατο τοὺς κρατίστους τῶν ἐν τῇ πόλει .
+perseus-eng2	 For my part, however, I think that Lycurgus did not so much as attempt to introduce this habit of discipline until he had secured agreement among the most important men in the state.
+
+cts:urn:tlg0032.tlg010:8.2
+glaux1.0-sentence	127
+perseus-grc2	 τεκμαίρομαι δὲ ταῦτα , ὅτι ἐν μὲν ταῖς ἄλλαις πόλεσιν οἱ δυνατώτεροι οὐδὲ βούλονται δοκεῖν τὰς ἀρχὰς φοβεῖσθαι , ἀλλὰ νομίζουσι τοῦτο ἀνελεύθερον εἶναι ·
+perseus-eng2	 I base my inference on the following facts. In other states the most powerful citizens do not even wish it to be thought that they fear the magistrates: they believe such fear to be a badge of slavery.
+
+cts:urn:tlg0032.tlg010:8.2
+glaux1.0-sentence	128
+perseus-grc2	 ἐν δὲ τῇ Σπάρτῃ οἱ κράτιστοι καὶ ὑπέρχονται μάλιστα τὰς ἀρχὰς καὶ τῷ ταπεινοὶ εἶναι μεγαλύνονται καὶ τῷ ὅταν καλῶνται τρέχοντες ἀλλὰ μὴ βαδίζοντες ὑπακούειν , νομίζοντες , ἢν αὐτοὶ κατάρχωσι τοῦ σφόδρα πείθεσθαι , ἕψεσθαι καὶ τοὺς ἄλλους ·
+perseus-eng2	 But at Sparta the most important men show the utmost deference to the magistrates: they pride themselves on their humility, on running instead of walking to answer any call, in the belief that, if they lead, the rest will follow along the path of eager obedience.
+
+cts:urn:tlg0032.tlg010:8.2
+glaux1.0-sentence	129
+perseus-grc2	 ὅπερ καὶ γεγένηται .
+perseus-eng2	 And so it has proved.
+
+cts:urn:tlg0032.tlg010:8.3
+glaux1.0-sentence	130
+perseus-grc2	 εἰκὸς δὲ καὶ τὴν τῆς ἐφορείας δύναμιν τοὺς αὐτοὺς τούτους συγκατασκευάσαι , ἐπείπερ ἔγνωσαν τὸ πείθεσθαι μέγιστον ἀγαθὸν εἶναι καὶ ἐν πόλει καὶ ἐν στρατιᾷ καὶ ἐν οἴκῳ ·
+perseus-eng2	 It is probable also that these same citizens helped to set up the office of Ephor, having come to the conclusion that obedience is a very great blessing whether in a state or an army or a household.
+
+cts:urn:tlg0032.tlg010:8.3
+glaux1.0-sentence	131
+perseus-grc2	 ὅσῳ γὰρ μείζω δύναμιν ἔχει ἡ ἀρχή , τοσούτῳ μᾶλλον ἂν ἡγήσαντο αὐτὴν καὶ καταπλήξειν τοὺς πολίτας τοῦ ὑπακούειν .
+perseus-eng2	 For they thought that the greater the power of these magistrates the more they would impress the minds of the citizens.
+
+cts:urn:tlg0032.tlg010:8.4
+glaux1.0-sentence	132
+perseus-grc2	 ἔφοροι οὖν ἱκανοὶ μέν εἰσι ζημιοῦν ὃν ἂν βούλωνται , κύριοι δ’ ἐκπράττειν παραχρῆμα , κύριοι δὲ καὶ ἄρχοντας μεταξὺ καὶ καταπαῦσαι καὶ εἶρξαί γε καὶ περὶ τῆς ψυχῆς εἰς ἀγῶνα καταστῆσαι .
+perseus-eng2	 Accordingly, the Ephors are competent to fine whom they choose, and have authority to enact immediate payment: they have authority also to deprive the magistrates of office, and even to imprison and prefer a capital charge against them.
+
+cts:urn:tlg0032.tlg010:8.4
+glaux1.0-sentence	133
+perseus-grc2	 τοσαύτην δὲ ἔχοντες δύναμιν οὐχ ὥσπερ αἱ ἄλλαι πόλεις ἐῶσι τοὺς αἱρεθέντας ἀεὶ ἄρχειν τὸ ἔτος ὅπως ἂν βούλωνται , ἀλλ’ ὥσπερ οἱ τύραννοι καὶ οἱ ἐν τοῖς γυμνικοῖς ἀγῶσιν ἐπιστάται , ἤν τινα αἰσθάνωνται παρανομοῦντά τι , εὐθὺς παραχρῆμα κολάζουσι .
+perseus-eng2	 Possessing such wide power they do not, like other states, leave persons elected to office to rule as they like throughout the year, but in common with despots and the presidents of the games, they no sooner see anyone breaking the law than they punish the offender.
+
+cts:urn:tlg0032.tlg010:8.5
+glaux1.0-sentence	134
+perseus-grc2	 πολλῶν δὲ καὶ ἄλλων ὄντων μηχανημάτων καλῶν τῷ Λυκούργῳ εἰς τὸ πείθεσθαι τοῖς νόμοις ἐθέλειν τοὺς πολίτας , ἐν τοῖς καλλίστοις καὶ τοῦτό μοι δοκεῖ εἶναι , ὅτι οὐ πρότερον ἀπέδωκε τῷ πλήθει τοὺς νόμους πρὶν ἐλθὼν σὺν τοῖς κρατίστοις εἰς Δελφοὺς ἐπήρετο τὸν θεὸν εἰ λῷον καὶ ἄμεινον εἴη τῇ Σπάρτῃ πειθομένῃ οἷς αὐτὸς ἔθηκε νόμοις .
+perseus-eng2	 Among many excellent plans contrived by Lycurgus for encouraging willing obedience to the laws among the citizens, I think one of the most excellent was this: before delivering his laws to the people he paid a visit to Delphi, accompanied by the most important citizens, and inquired of the god whether it was desirable and better for Sparta that she should obey the laws that he himself had framed.
+
+cts:urn:tlg0032.tlg010:8.5
+glaux1.0-sentence	135
+perseus-grc2	 ἐπεὶ δὲ ἀνεῖλε τῷ παντὶ ἄμεινον εἶναι , τότε ἀπέδωκεν , οὐ μόνον ἄνομον ἀλλὰ καὶ ἀνόσιον θεὶς τὸ πυθοχρήστοις νόμοις μὴ πείθεσθαι .
+perseus-eng2	 Only when the god answered that it was better in every way did he deliver them, after enacting that to refuse obedience to laws given by the Pythian god was not only unlawful, but wicked.
+
+cts:urn:tlg0032.tlg010:9.1
+glaux1.0-sentence	136
+perseus-grc2	 ἄξιον δὲ τοῦ Λυκούργου καὶ τόδε ἀγασθῆναι , τὸ κατεργάσασθαι ἐν τῇ πόλει αἱρετώτερον εἶναι τὸν καλὸν θάνατον ἀντὶ τοῦ αἰσχροῦ βίου ·
+perseus-eng2	 The following achievement of Lycurgus, again, deserves admiration. He caused his people to choose an honourable death in preference to a disgraceful life.
+
+cts:urn:tlg0032.tlg010:9.1
+glaux1.0-sentence	137
+perseus-grc2	 καὶ γὰρ δὴ ἐπισκοπῶν τις ἂν εὕροι μείους ἀποθνῄσκοντας τούτων ἢ τῶν ἐκ τοῦ φοβεροῦ ἀποχωρεῖν αἱρουμένων .
+perseus-eng2	 And, in fact, one would find on consideration that they actually lose a smaller proportion of their men than those who prefer to retire from the danger zone.
+
+cts:urn:tlg0032.tlg010:9.2
+glaux1.0-sentence	138
+perseus-grc2	 ὡς τ- ἀληθὲς εἰπεῖν καὶ ἕπεται τῇ ἀρετῇ τὸ σῴζεσθαι εἰς τὸν πλείω χρόνον μᾶλλον ἢ τῇ κακίᾳ ·
+perseus-eng2	 To tell the truth, escape from premature death more generally goes with valour than with cowardice:
+
+cts:urn:tlg0032.tlg010:9.2
+glaux1.0-sentence	139
+perseus-grc2	 καὶ γὰρ ῥᾴων καὶ ἡδίων καὶ εὐπορωτέρα καὶ ἰσχυροτέρα .
+perseus-eng2	 for valour is actually easier and pleasanter and more resourceful and mightier.
+
+cts:urn:tlg0032.tlg010:9.2
+glaux1.0-sentence	140
+perseus-grc2	 δῆλον δὲ ὅτι καὶ εὔκλεια μάλιστα ἕπεται τῇ ἀρετῇ ·
+perseus-eng2	 And obviously glory adheres to the side of valour,
+
+cts:urn:tlg0032.tlg010:9.2
+glaux1.0-sentence	141
+perseus-grc2	 καὶ γὰρ συμμαχεῖν πως πάντες τοῖς ἀγαθοῖς βούλονται .
+perseus-eng2	 for all men want to ally themselves somehow with the brave.
+
+cts:urn:tlg0032.tlg010:9.3
+glaux1.0-sentence	142
+perseus-grc2	 ᾗ μέντοι ὥστε ταῦτα γίγνεσθαι ἐμηχανήσατο , καὶ τοῦτο καλὸν μὴ παραλιπεῖν .
+perseus-eng2	 However, it is proper not to pass over the means by which he contrived to bring about this result.
+
+cts:urn:tlg0032.tlg010:9.3
+glaux1.0-sentence	143
+perseus-grc2	 ἐκεῖνος τοίνυν σαφῶς παρεσκεύασε τοῖς μὲν ἀγαθοῖς εὐδαιμονίαν , τοῖς δὲ κακοῖς κακοδαιμονίαν .
+perseus-eng2	 Clearly, what he did was to ensure that the brave should have happiness, and the coward misery.
+
+cts:urn:tlg0032.tlg010:9.4
+glaux1.0-sentence	144
+perseus-grc2	 ἐν μὲν γὰρ ταῖς ἄλλαις πόλεσιν , ὁπόταν τις κακὸς γένηται , ἐπίκλησιν μόνον ἔχει κακὸς εἶναι , ἀγοράζει δὲ ἐν τῷ αὐτῷ ὁ κακὸς τ- ἀγαθῷ καὶ κάθηται καὶ γυμνάζεται , ἐὰν βούληται ·
+perseus-eng2	 For in other states when a man proves a coward, the only consequence is that he is called a coward. He goes to the same market as the brave man, sits beside him, attends the same gymnasium, if he chooses.
+
+cts:urn:tlg0032.tlg010:9.4
+glaux1.0-sentence	145
+perseus-grc2	 ἐν δὲ τῇ Λακεδαίμονι πᾶς μὲν ἄν τις αἰσχυνθείη τὸν κακὸν σύσκηνον παραλαβεῖν , πᾶς δ’ ἂν ἐν παλαίσματι συγγυμναστήν .
+perseus-eng2	 But in Lacedaemon everyone would be ashamed to have a coward with him at the mess or to be matched with him in a wrestling bout.
+
+cts:urn:tlg0032.tlg010:9.5
+glaux1.0-sentence	146
+perseus-grc2	 πολλάκις δ’ ὁ τοιοῦτος καὶ διαιρουμένων τοὺς ἀντισφαιριοῦντας ἀχώριστος περιγίγνεται , καὶ ἐν χοροῖς δ’ εἰς τὰς ἐπονειδίστους χώρας ἀπελαύνεται , καὶ μὴν ἐν ὁδοῖς παραχωρητέον αὐτῷ καὶ ἐν θάκοις καὶ ἐν τοῖς νεωτέροις ὑπαναστατέον , καὶ τὰς μὲν προσηκούσας κόρας οἴκοι θρεπτέον , καὶ ταύταις τῆς ἀνανδρίας αἰτίαν ὑφεκτέον , γυναικὸς δὲ κενὴν ἑστίαν οὐ περιοπτέον καὶ ἅμα τούτου ζημίαν ἀποτειστέον , λιπαρὸν δὲ οὐ πλανητέον οὐδὲ μιμητέον τοὺς ἀνεγκλήτους , ἢ πληγὰς ὑπὸ τῶν ἀμεινόνων ληπτέον .
+perseus-eng2	 Often when sides are picked for a game of ball he is the odd man left out: in the chorus he is banished to the ignominious place; in the streets he is bound to make way; when he occupies a seat he must needs give it up, even to a junior; he must support his spinster relatives at home and must explain to them why they are old maids: he must make the best of a fireside without a wife, and yet pay forfeit for that: he may not stroll about with a cheerful countenance, nor behave as though he were a man of unsullied fame, or else he must submit to be beaten by his betters.
+
+cts:urn:tlg0032.tlg010:9.6
+glaux1.0-sentence	147
+perseus-grc2	 ἐγὼ μὲν δὴ τοιαύτης τοῖς κακοῖς ἀτιμίας ἐπικειμένης οὐδὲν θαυμάζω τὸ προαιρεῖσθαι ἐκεῖ θάνατον ἀντὶ τοῦ οὕτως ἀτίμου τε καὶ ἐπονειδίστου βίου .
+perseus-eng2	 Small wonder, I think, that where such a load of dishonour is laid on the coward, death seems preferable to a life so dishonoured, so ignominious.
+
+cts:urn:tlg0032.tlg010:10.1
+glaux1.0-sentence	148
+perseus-grc2	 καλῶς δέ μοι δοκεῖ ὁ Λυκοῦργος νομοθετῆσαι καὶ ᾗ μέχρι γήρως ἀσκοῖτ’ ἂν ἀρετή .
+perseus-eng2	 The law by which Lycurgus encouraged the practice of virtue up to old age is another excellent measure in my opinion.
+
+cts:urn:tlg0032.tlg010:10.1
+glaux1.0-sentence	149
+perseus-grc2	 ἐπὶ γὰρ τῷ τέρματι τοῦ βίου τὴν κρίσιν τῆς γεροντίας προσθεὶς ἐποίησε μηδὲ ἐν τῷ γήρᾳ ἀμελεῖσθαι τὴν καλοκἀγαθίαν .
+perseus-eng2	 By requiring men to face the ordeal of election to the Council of Elders near the end of life, he prevented neglect of high principles even in old age.
+
+cts:urn:tlg0032.tlg010:10.2
+glaux1.0-sentence	150
+perseus-grc2	 ἀξιάγαστον δ’ αὐτοῦ καὶ τὸ ἐπικουρῆσαι τῷ τῶν ἀγαθῶν γήρᾳ ·
+perseus-eng2	 Worthy of admiration also is the protection that he afforded to the old age of good men.
+
+cts:urn:tlg0032.tlg010:10.2
+glaux1.0-sentence	151
+perseus-grc2	 θεὶς γὰρ τοὺς γέροντας κυρίους τοῦ περὶ τῆς ψυχῆς ἀγῶνος διέπραξεν ἐντιμότερον εἶναι τὸ γῆρας τῆς τῶν ἀκμαζόντων ῥώμης .
+perseus-eng2	 For the enactment by which he made the Elders judges in trials on the capital charge caused old age to be held in greater honour than the full vigour of manhood.
+
+cts:urn:tlg0032.tlg010:10.3
+glaux1.0-sentence	152
+perseus-grc2	 εἰκότως δέ τοι καὶ σπουδάζεται οὗτος ὁ ἀγὼν μάλιστα τῶν ἀνθρωπίνων .
+perseus-eng2	 And surely it is natural that of all contests in the world this should excite the greatest zeal.
+
+cts:urn:tlg0032.tlg010:10.3
+glaux1.0-sentence	153
+perseus-grc2	 καλοὶ μὲν γὰρ καὶ οἱ γυμνικοί ·
+perseus-eng2	 For noble as are the contests in the Games,
+
+cts:urn:tlg0032.tlg010:10.3
+glaux1.0-sentence	154
+perseus-grc2	 ἀλλ’ οὗτοι μὲν σωμάτων εἰσίν ·
+perseus-eng2	 they are merely tests of bodily powers.
+
+cts:urn:tlg0032.tlg010:10.3
+glaux1.0-sentence	155
+perseus-grc2	 ὁ δὲ περὶ τῆς γεροντίας ἀγὼν ψυχῶν ἀγαθῶν κρίσιν παρέχει .
+perseus-eng2	 But the contest for the Council judges souls whether they be good.
+
+cts:urn:tlg0032.tlg010:10.3
+glaux1.0-sentence	156
+perseus-grc2	 ὅσῳ οὖν κρείττων ψυχὴ σώματος , τοσούτῳ καὶ οἱ ἀγῶνες οἱ τῶν ψυχῶν ἢ οἱ τῶν σωμάτων ἀξιοσπουδαστότεροι .
+perseus-eng2	 As much then, as the soul surpasses the body, so much more worthy are the contests of the soul to kindle zeal than those of the body.
+
+cts:urn:tlg0032.tlg010:10.4
+glaux1.0-sentence	157
+perseus-grc2	 τόδε γε μὴν τοῦ Λυκούργου πῶς οὐ μεγάλως ἄξιον ἀγασθῆναι ;
+perseus-eng2	 Again, the following surely entitles the work of Lycurgus to high admiration.
+
+cts:urn:tlg0032.tlg010:10.4
+glaux1.0-sentence	158
+perseus-grc2	 ὃς ἐπειδὴ κατέμαθεν ὅτι ὅπου οἱ βουλόμενοι ἐπιμελοῦνται τῆς ἀρετῆς οὐχ ἱκανοί εἰσι τὰς πατρίδας αὔξειν , ἐκεῖνος ἐν τῇ Σπάρτῃ ἠνάγκασε δημοσίᾳ πάντας πάσας ἀσκεῖν τὰς ἀρετάς .
+perseus-eng2	 He observed that where the cult of virtue is left to voluntary effort, the virtuous are not strong enough to increase the fame of their fatherland.
+
+cts:urn:tlg0032.tlg010:10.4
+glaux1.0-sentence	159
+perseus-grc2	 ὥσπερ οὖν οἱ ἰδιῶται τῶν ἰδιωτῶν διαφέρουσιν ἀρετῇ οἱ ἀσκοῦντες τῶν ἀμελούντων , οὕτω καὶ ἡ Σπάρτη εἰκότως πασῶν τῶν πόλεων ἀρετῇ διαφέρει , μόνη δημοσίᾳ ἐπιτηδεύουσα τὴν καλοκἀγαθίαν .
+perseus-eng2	 So he compelled all men at Sparta to practise all the virtues in public life. And therefore, just as private individuals differ from one another in virtue according as they practise or neglect it, so Sparta, as a matter of course, surpasses all other states in virtue, because she alone makes a public duty of gentlemanly conduct.
+
+cts:urn:tlg0032.tlg010:10.5
+glaux1.0-sentence	160
+perseus-grc2	 οὐ γὰρ κ- ἐκεῖνο καλόν , τὸ τῶν ἄλλων πόλεων κολαζουσῶν ἤν τίς τι ἕτερος ἕτερον ἀδικῇ , ἐκεῖνον ζημίας μὴ ἐλάττους ἐπιθεῖναι εἴ τις φανερὸς εἴη ἀμελῶν τοῦ ὡς βέλτιστος εἶναι ;
+perseus-eng2	 For was not this too a noble rule of his, that whereas other states punish only for wrong done to one’s neighbour, he inflicted penalties no less severe on any who openly neglected to live as good a life as possible?
+
+cts:urn:tlg0032.tlg010:10.6
+glaux1.0-sentence	161
+perseus-grc2	 ἐνόμιζε γάρ , ὡς ἔοικεν , ὑπὸ μὲν τῶν ἀνδραποδιζομένων τινὰς ἢ ἀποστερούντων τι ἢ κλεπτόντων τοὺς βλαπτομένους μόνον ἀδικεῖσθαι , ὑπὸ δὲ τῶν κακῶν καὶ ἀνάνδρων ὅλας τὰς πόλεις προδίδοσθαι .
+perseus-eng2	 For he believed, it seems, that enslavement, fraud, robbery, are crimes that injure only the victims of them; but the wicked man and the coward are traitors to the whole body politic.
+
+cts:urn:tlg0032.tlg010:10.6
+glaux1.0-sentence	162
+perseus-grc2	 ὥστε εἰκότως ἔμοιγε δοκεῖ τούτοις μεγίστας ζημίας ἐπιθεῖναι .
+perseus-eng2	 And so he had good reason, I think, for visiting their offences with the heaviest penalties.
+
+cts:urn:tlg0032.tlg010:10.7
+glaux1.0-sentence	163
+perseus-grc2	 ἐπέθηκε δὲ καὶ τὴν ἀνυπόστατον ἀνάγκην ἀσκεῖν ἅπασαν πολιτικὴν ἀρετήν .
+perseus-eng2	 And he laid on the people the duty of practising the whole virtue of a citizen as a necessity irresistible.
+
+cts:urn:tlg0032.tlg010:10.7
+glaux1.0-sentence	164
+perseus-grc2	 τοῖς μὲν γὰρ τὰ νόμιμα ἐκτελοῦσιν ὁμοίως ἅπασι τὴν πόλιν οἰκείαν ἐποίησε , καὶ οὐδὲν ὑπελογίσατο οὔτε σωμάτων οὔτε χρημάτων ἀσθένειαν ·
+perseus-eng2	 For to all who satisfied the requirements of his code he gave equal rights of citizenship, without regard to bodily infirmity or want of money.
+
+cts:urn:tlg0032.tlg010:10.7
+glaux1.0-sentence	165
+perseus-grc2	 εἰ δέ τις ἀποδειλιάσειε τοῦ τὰ νόμιμα διαπονεῖσθαι , τοῦτον ἐκεῖνος ἀπέδειξε μηδὲ νομίζεσθαι ἔτι τῶν ὁμοίων εἶναι .
+perseus-eng2	 But the coward who shrank from the task of observing the rules of his code he caused to be no more reckoned among the peers.
+
+cts:urn:tlg0032.tlg010:10.8
+glaux1.0-sentence	166
+perseus-grc2	 ἀλλὰ γὰρ ὅτι μὲν παλαιότατοι οὗτοι οἱ νόμοι εἰσί , σαφές ·
+perseus-eng2	 Now that these laws are of high antiquity there can be no doubt:
+
+cts:urn:tlg0032.tlg010:10.8
+glaux1.0-sentence	167
+perseus-grc2	 ὁ γὰρ Λυκοῦργος κατὰ τοὺς Ἡρακλείδας λέγεται γενέσθαι ·
+perseus-eng2	 for Lycurgus is said to have lived in the days of the Heracleidae.
+
+cts:urn:tlg0032.tlg010:10.8
+glaux1.0-sentence	168
+perseus-grc2	 οὕτω δὲ παλαιοὶ ὄντες ἔτι καὶ νῦν τοῖς ἄλλοις καινότατοί εἰσι ·
+perseus-eng2	 Nevertheless, in spite of their antiquity, they are wholly strange to others even at this day.
+
+cts:urn:tlg0032.tlg010:10.8
+glaux1.0-sentence	169
+perseus-grc2	 καὶ γὰρ τὸ πάντων θαυμαστότατον ἐπαινοῦσι μὲν πάντες τὰ τοιαῦτα ἐπιτηδεύματα , μιμεῖσθαι δὲ αὐτὰ οὐδεμία πόλις ἐθέλει .
+perseus-eng2	 Indeed, it is most astonishing that all men praise such institutions, but no state chooses to imitate them.
+
+cts:urn:tlg0032.tlg010:11.1
+glaux1.0-sentence	170
+perseus-grc2	 καὶ ταῦτα μὲν δὴ κοινὰ ἀγαθὰ καὶ ἐν εἰρήνῃ καὶ ἐν πολέμῳ ·
+perseus-eng2	 The blessings that I have enumerated so far were shared by all alike in peace and in war.
+
+cts:urn:tlg0032.tlg010:11.1
+glaux1.0-sentence	171
+perseus-grc2	 εἰ δέ τις βούλεται καταμαθεῖν ὅ τι καὶ εἰς τὰς στρατείας βέλτιον τῶν ἄλλων ἐμηχανήσατο , ἔξεστι καὶ τούτων ἀκούειν .
+perseus-eng2	 But if anyone wishes to discover in what respect Lycurgus’ organisation of the army on active service was better than other systems, here is the information that he seeks.
+
+cts:urn:tlg0032.tlg010:11.2
+glaux1.0-sentence	172
+perseus-grc2	 πρῶτον μὲν τοίνυν οἱ ἔφοροι προκηρύττουσι τὰ ἔτη εἰς ἃ δεῖ στρατεύεσθαι καὶ ἱππεῦσι καὶ ὁπλίταις , ἔπειτα δὲ καὶ τοῖς χειροτέχναις ·
+perseus-eng2	 The Ephors issue a proclamation stating the age-limit fixed for the levy, first for the cavalry and infantry, and then for the handicraftsmen.
+
+cts:urn:tlg0032.tlg010:11.2
+glaux1.0-sentence	173
+perseus-grc2	 ὥστε ὅσοισπερ ἐπὶ πόλεως χρῶνται ἄνθρωποι , πάντων τούτων καὶ ἐπὶ στρατιᾶς οἱ Λακεδαιμόνιοι εὐποροῦσι ·
+perseus-eng2	 Thus the Lacedaemonians are well supplied in the field with all things that are found useful in civil life.
+
+cts:urn:tlg0032.tlg010:11.2
+glaux1.0-sentence	174
+perseus-grc2	 καὶ ὅσων δὲ ὀργάνων ἡ στρατιὰ κοινῇ δεηθείη ἄν , ἅπαντα τὰ μὲν ἁμάξῃ προστέτακται παρέχειν , τὰ δὲ ὑποζυγίῳ ·
+perseus-eng2	 All the implements that an army may require in common are ordered to be assembled, some in carts, some on baggage animals;
+
+cts:urn:tlg0032.tlg010:11.2
+glaux1.0-sentence	175
+perseus-grc2	 οὕτω γὰρ ἥκιστ’ ἂν τὸ ἐλλεῖπον διαλάθοι .
+perseus-eng2	 thus anything missing is not at all likely to be overlooked.
+
+cts:urn:tlg0032.tlg010:11.3
+glaux1.0-sentence	176
+perseus-grc2	 εἴς γε μὴν τὸν ἐν τοῖς ὅπλοις ἀγῶνα τοιάδ’ ἐμηχανήσατο , στολὴν μὲν ἔχειν φοινικίδα , ταύτην νομίζων ἥκιστα μὲν γυναικείᾳ κοινωνεῖν , πολεμικωτάτην δ’ εἶναι , καὶ χαλκῆν ἀσπίδα ·
+perseus-eng2	 In the equipment that he devised for the troops in battle he included a red cloak, because he believed this garment to have least resemblance to women’s clothing and to be most suitable for war, and a brass shield,
+
+cts:urn:tlg0032.tlg010:11.3
+glaux1.0-sentence	177
+perseus-grc2	 καὶ γὰρ τάχιστα λαμπρύνεται καὶ σχολαιότατα ῥυπαίνεται .
+perseus-eng2	 because it is very soon polished and tarnishes very slowly.
+
+cts:urn:tlg0032.tlg010:11.3
+glaux1.0-sentence	178
+perseus-grc2	 ἐφῆκε δὲ καὶ κομᾶν τοῖς ὑπὲρ τὴν ἡβητικὴν ἡλικίαν , νομίζων οὕτω καὶ μείζους ἂν καὶ ἐλευθεριωτέρους καὶ γοργοτέρους φαίνεσθαι .
+perseus-eng2	 He also permitted men who were past their first youth to wear long hair, believing that it would make them look taller, more dignified and more terrifying.
+
+cts:urn:tlg0032.tlg010:11.4
+glaux1.0-sentence	179
+perseus-grc2	 οὕτω γε μὴν κατεσκευασμένων μόρας μὲν διεῖλεν ἓξ καὶ ἱππέων καὶ ὁπλιτῶν .
+perseus-eng2	 The men so equipped were divided into six regiments of cavalry and infantry.
+
+cts:urn:tlg0032.tlg010:11.4
+glaux1.0-sentence	180
+perseus-grc2	 ἑκάστη δὲ τῶν ὁπλιτικῶν μορῶν ἔχει πολέμαρχον ἕνα , λοχαγοὺς τέτταρας , πεντηκοντῆρας ὀκτώ , ἐνωμοτάρχους ἑκκαίδεκα .
+perseus-eng2	 The officers of each citizen regiment comprise one colonel, four captains, eight first lieutenants and sixteen second lieutenants.
+
+cts:urn:tlg0032.tlg010:11.4
+glaux1.0-sentence	181
+perseus-grc2	 ἐκ δὲ τούτων τῶν μορῶν διὰ παρεγγυήσεως καθίστανται τοτὲ μὲν εἰς G? ἐνωμοτίας , τοτὲ δὲ εἰς τρεῖς , τοτὲ δὲ εἰς ἕξ .
+perseus-eng2	 These regiments at the word of command form sections sometimes (two), sometimes three, and sometimes six abreast.
+
+cts:urn:tlg0032.tlg010:11.5
+glaux1.0-sentence	182
+perseus-grc2	 ὃ δὲ οἱ πλεῖστοι οἴονται , πολυπλοκωτάτην εἶναι τὴν ἐν ὅπλοις Λακωνικὴν τάξιν , τὸ ἐναντιώτατον ὑπειλήφασι τοῦ ὄντος ·
+perseus-eng2	 The prevalent opinion that the Laconian infantry formation is very complicated is the very reverse of the truth.
+
+cts:urn:tlg0032.tlg010:11.5
+glaux1.0-sentence	183
+perseus-grc2	 εἰσὶ μὲν γὰρ ἐν τῇ Λακωνικῇ τάξει οἱ πρωτοστάται ἄρχοντες , καὶ ὁ στίχος ἕκαστος πάντ’ ἔχων ὅσα δεῖ παρέχεσθαι .
+perseus-eng2	 In the Laconian formation the front rank men are all officers, and each file has all that it requires to make it efficient.
+
+cts:urn:tlg0032.tlg010:11.6
+glaux1.0-sentence	184
+perseus-grc2	 οὕτω δὲ ῥᾴδιον ταύτην τὴν τάξιν μαθεῖν ὡς ὅστις τοὺς ἀνθρώπους δύναται γιγνώσκειν οὐδεὶς ἂν ἁμάρτοι ·
+perseus-eng2	 The formation is so easy to understand that no one who knows man from man can possibly go wrong.
+
+cts:urn:tlg0032.tlg010:11.6
+glaux1.0-sentence	185
+perseus-grc2	 τοῖς μὲν γὰρ ἡγεῖσθαι δέδοται , τοῖς δὲ ἕπεσθαι τέτακται .
+perseus-eng2	 For some have the privilege of leading; and the rest are under orders to follow.
+
+cts:urn:tlg0032.tlg010:11.6
+glaux1.0-sentence	186
+perseus-grc2	 αἱ δὲ παραγωγαὶ ὥσπερ ὑπὸ κήρυκος ὑπὸ τοῦ ἐνωμοτάρχου λόγῳ δηλοῦνται καὶ ἀραιαί τε καὶ βαθύτεραι αἱ φάλαγγες γίγνονται ·
+perseus-eng2	 Orders to wheel from column into line of battle are given verbally by the second lieutenant acting as a herald, and the line is formed either thin or deep, by wheeling.
+
+cts:urn:tlg0032.tlg010:11.6
+glaux1.0-sentence	187
+perseus-grc2	 ὧν οὐδὲν οὐδ’ ὁπωστιοῦν χαλεπὸν μαθεῖν .
+perseus-eng2	 Nothing whatever in these movements is difficult to understand.
+
+cts:urn:tlg0032.tlg010:11.7
+glaux1.0-sentence	188
+perseus-grc2	 τὸ μέντοι κἂν ταραχθῶσι μετὰ τοῦ παρατυχόντος ὁμοίως μάχεσθαι , ταύτην τὴν τάξιν οὐκέτι ῥᾴδιόν ἐστι μαθεῖν πλὴν τοῖς ὑπὸ τῶν τοῦ Λυκούργου νόμων πεπαιδευμένοις .
+perseus-eng2	 To be sure, the secret of carrying on in a battle with any troops at hand when the line gets into confusion is not so easy to grasp, except for soldiers trained under the laws of Lycurgus.
+
+cts:urn:tlg0032.tlg010:11.8
+glaux1.0-sentence	189
+perseus-grc2	 εὐπορώτατα δὲ καὶ ἐκεῖνα Λακεδαιμόνιοι ποιοῦσι τὰ τοῖς ὁπλομάχοις πάνυ δοκοῦντα χαλεπὰ εἶναι ·
+perseus-eng2	 The Lacedaemonians also carry out with perfect ease manoeuvres that instructors in tactics think very difficult.
+
+cts:urn:tlg0032.tlg010:11.8
+glaux1.0-sentence	190
+perseus-grc2	 ὅταν μὲν γὰρ ἐπὶ κέρως πορεύωνται , κατ’ οὐρὰν δήπου ἐνωμοτία ἐνωμοτίᾳ ἕπεται ·
+perseus-eng2	 Thus, when they march in column, every section of course follows in the rear of the section in front of it.
+
+cts:urn:tlg0032.tlg010:11.8
+glaux1.0-sentence	191
+perseus-grc2	 ἐὰν δ’ ἐν τῷ τοιούτῳ ἐκ τοῦ ἐναντίου πολεμία φάλαγξ ἐπιφανῇ , τῷ ἐνωμοτάρχῳ παρεγγυᾶται εἰς μέτωπον παρ’ ἀσπίδα καθίστασθαι , καὶ διὰ παντὸς οὕτως , ἔστ’ ἂν ἡ φάλαγξ ἐναντία καταστῇ .
+perseus-eng2	 Suppose that at such a time an enemy in order of battle suddenly makes his appearance in front: the word is passed to the second lieutenant to deploy into line to the left, and so throughout the column until the battle-line stands facing the enemy.
+
+cts:urn:tlg0032.tlg010:11.8
+glaux1.0-sentence	192
+perseus-grc2	 ἤν γε μὴν οὕτως ἐχόντων ἐκ τοῦ ὄπισθεν οἱ πολέμιοι ἐπιφανῶσιν , ἐξελίττεται ἕκαστος ὁ στίχος , ἵνα οἱ κράτιστοι ἐναντίοι ἀεὶ τοῖς πολεμίοις ὦσιν .
+perseus-eng2	 Or again, if the enemy appears in the rear while they are in this formation, each file counter-marches, in order that the best men may always be face to face with the enemy.
+
+cts:urn:tlg0032.tlg010:11.9
+glaux1.0-sentence	193
+perseus-grc2	 ὅτι δὲ ὁ ἄρχων εὐώνυμος γίγνεται , οὐδ’ ἐν τούτῳ μειονεκτεῖν ἡγοῦνται , ἀλλ’ ἔστιν ὅτε καὶ πλεονεκτεῖν .
+perseus-eng2	 True, the leader is then on the left, but instead of thinking this a disadvantage, they regard it as a positive advantage at times.
+
+cts:urn:tlg0032.tlg010:11.9
+glaux1.0-sentence	194
+perseus-grc2	 εἰ γάρ τινες κυκλοῦσθαι ἐπιχειροῖεν , οὐκ ἂν κατὰ τὰ γυμνά , ἀλλὰ κατὰ τὰ ὡπλισμένα περιβάλλοιεν ἄν .
+perseus-eng2	 For should the enemy attempt a flanking movement he would try to encircle them, not on the exposed but on the protected side.
+
+cts:urn:tlg0032.tlg010:11.9
+glaux1.0-sentence	195
+perseus-grc2	 ἢν δέ ποτε ἕνεκά τινος δοκῇ συμφέρειν τὸν ἡγεμόνα δεξιὸν κέρας ἔχειν , στρέψαντες τὸ ἄγημα ἐπὶ κέρας ἐξελίττουσι τὴν φάλαγγα , ἔστ’ ἂν ὁ μὲν ἡγεμὼν δεξιὸς ᾖ , ἡ δὲ οὐρὰ εὐώνυμος γένηται .
+perseus-eng2	 If, however, it seems better for any reason that the leader should be on the right wing, the left wing wheels, and the army counter-marches by ranks until the leader is on the right, and the rear of the column on the left.
+
+cts:urn:tlg0032.tlg010:11.10
+glaux1.0-sentence	196
+perseus-grc2	 ἢν δ’ αὖ ἐκ τῶν δεξιῶν πολεμίων τάξις ἐπιφαίνηται ἐπὶ κέρως πορευομένων , οὐδὲν ἄλλο πραγματεύονται ἢ τὸν λόχον ἕκαστον ὥσπερ τριήρη ἀντίπρῳρον τοῖς ἐναντίοις στρέφουσι , καὶ οὕτως αὖ γίγνεται ὁ κατ’ οὐρὰν λόχος παρὰ δόρυ .
+perseus-eng2	 If, on the other hand, an enemy force appears on the right when they are marching in column, all that they have to do is to order each company to wheel to the right so as to front the enemy like a man-of-war, and thus again the company at the rear of the column is on the right.
+
+cts:urn:tlg0032.tlg010:11.10
+glaux1.0-sentence	197
+perseus-grc2	 ἤν γε μὴν κατὰ τὰ εὐώνυμα πολέμιοι προσίωσιν , οὐδὲ τοῦτ’ ἐῶσιν , ἀλλὰ προθέουσιν ἢ ἐναντίους ἀντιπάλους τοὺς λόχους στρέφουσι ·
+perseus-eng2	 If again an enemy approaches on the left, they do not allow that either, but either push him back or wheel their companies to the left to face him,
+
+cts:urn:tlg0032.tlg010:11.10
+glaux1.0-sentence	198
+perseus-grc2	 καὶ οὕτως αὖ ὁ κατ’ οὐρὰν λόχος παρ’ ἀσπίδα καθίσταται .
+perseus-eng2	 and thus the rear of the column finds itself on the left.
+
+cts:urn:tlg0032.tlg010:12.1
+glaux1.0-sentence	199
+perseus-grc2	 ἐρῶ δὲ καὶ ᾗ στρατοπεδεύεσθαι ἐνόμισε χρῆναι Λυκοῦργος .
+perseus-eng2	 I will now explain the method of encampment approved by Lycurgus.
+
+cts:urn:tlg0032.tlg010:12.1
+glaux1.0-sentence	200
+perseus-grc2	 διὰ μὲν γὰρ τὸ τὰς γωνίας τοῦ τετραγώνου ἀχρήστους εἶναι κύκλον ἐστρατοπεδεύσατο , εἰ μὴ ὄρος ἀσφαλὲς εἴη ἢ τεῖχος ἢ ποταμὸν ὄπισθεν ἔχοιεν .
+perseus-eng2	 Seeing that the angles of a square are useless, he introduced the circular form of camp, except where there was a secure hill or wall, or a river afforded protection in the rear.
+
+cts:urn:tlg0032.tlg010:12.2
+glaux1.0-sentence	201
+perseus-grc2	 φυλακάς γε μὴν ἐποίησε μεθημερινὰς τὰς μὲν παρὰ τὰ ὅπλα εἴσω βλεπούσας ·
+perseus-eng2	 He caused sentries to be posted by day facing inwards along the place where the arms were kept,
+
+cts:urn:tlg0032.tlg010:12.2
+glaux1.0-sentence	202
+perseus-grc2	 οὐ γὰρ πολεμίων ἕνεκα ἀλλὰ φίλων αὗται καθίστανται ·
+perseus-eng2	 for the object of these is to keep an eye not on the enemy but on their friends.
+
+cts:urn:tlg0032.tlg010:12.2
+glaux1.0-sentence	203
+perseus-grc2	 τούς γε μὴν πολεμίους ἱππεῖς φυλάττουσιν ἀπὸ χωρίων ὧν ἂν ἐκ πλείστου προορῷεν εἰ δέ τις προσίοι .
+perseus-eng2	 The enemy is watched by cavalry from positions that command the widest outlook.
+
+cts:urn:tlg0032.tlg010:12.3
+glaux1.0-sentence	204
+perseus-grc2	 νύκτωρ δὲ ἔξω τῆς φάλαγγος ἐνόμισεν ὑπὸ Σκιριτῶν προφυλάττεσθαι ·
+perseus-eng2	 To meet the case of a hostile approach at night, he assigned the duty of acting as sentries outside the lines to the Sciritae.
+
+cts:urn:tlg0032.tlg010:12.3
+glaux1.0-sentence	205
+perseus-grc2	 ( νῦν δ’ ἤδη καὶ ὑπὸ ξένων G? αὐτῶν τινες συμπαρόντες .
+perseus-eng2	 In these days the duty is shared by foreigners, if any happen to be present in the camp.
+
+cts:urn:tlg0032.tlg010:12.4
+glaux1.0-sentence	206
+perseus-grc2	 ) τὸ δὲ ἔχοντας τὰ δόρατα ἀεὶ περιιέναι , εὖ καὶ τοῦτο δεῖ εἰδέναι , ὅτι τοῦ αὐτοῦ ἕνεκά ἐστιν οὗπερ καὶ τοὺς δούλους εἴργουσιν ἀπὸ τῶν ὅπλων , καὶ τοὺς ἐπὶ τὰ ἀναγκαῖα ἀπιόντας οὐ δεῖ θαυμάζειν ὅτι οὔτε ἀλλήλων οὔτε τῶν ὅπλων πλέον ἢ ὅσον μὴ λυπεῖν ἀλλήλους ἀπέρχονται ·
+perseus-eng2	 The rule that patrols invariably carry their spears, has the same purpose, undoubtedly, as the exclusion of slaves from the place of arms.
+
+cts:urn:tlg0032.tlg010:12.4
+glaux1.0-sentence	207
+perseus-grc2	 καὶ γὰρ ταῦτα ἀσφαλείας ἕνεκα ποιοῦσιν .
+perseus-eng2	 Nor is it surprising that sentries who withdraw for necessary purposes only go so far away from one another and from the arms as not to cause inconvenience. Safety is the first object of this rule also.
+
+cts:urn:tlg0032.tlg010:12.5
+glaux1.0-sentence	208
+perseus-grc2	 μεταστρατοπεδεύονταί γε μὴν πυκνὰ καὶ τοῦ σίνεσθαι τοὺς πολεμίους ἕνεκα καὶ τοῦ ὠφελεῖν τοὺς φίλους .
+perseus-eng2	 The camp is frequently shifted with the double object of annoying their enemies and of helping their friends.
+
+cts:urn:tlg0032.tlg010:12.5
+glaux1.0-sentence	209
+perseus-grc2	 καὶ γυμνάζεσθαι δὲ προαγορεύεται ὑπὸ τοῦ νόμου ἅπασι Λακεδαιμονίοις , ἕωσπερ ἂν στρατεύωνται .
+perseus-eng2	 Moreover the law requires all Lacedaemonians to practise gymnastics regularly throughout the campaign;
+
+cts:urn:tlg0032.tlg010:12.5
+glaux1.0-sentence	210
+perseus-grc2	 ὥστε μεγαλοπρεπεστέρους μὲν αὐτοὺς ἐφ’ ἑαυτοῖς γίγνεσθαι , ἐλευθεριωτέρους δὲ τῶν ἄλλων φαίνεσθαι .
+perseus-eng2	 and the result is that they take more pride in themselves and have a more dignified appearance than other men.
+
+cts:urn:tlg0032.tlg010:12.5
+glaux1.0-sentence	211
+perseus-grc2	 δεῖ δὲ οὔτε περίπατον οὔτε δρόμον μάσσω ποιεῖσθαι ἢ ὅσον ἂν ἡ μόρα ἐφήκῃ , ὅπως μηδεὶς τῶν αὑτοῦ ὅπλων πόρρω γίγνηται .
+perseus-eng2	 Neither walk nor race-course may exceed in length the space covered by the regiment, so that no one may get far away from his own arms.
+
+cts:urn:tlg0032.tlg010:12.6
+glaux1.0-sentence	212
+perseus-grc2	 μετὰ δὲ τὰ γυμνάσια καθίζειν μὲν ὁ πρῶτος πολέμαρχος κηρύττει ·
+perseus-eng2	 After the exercises the senior colonel gives the order by herald to sit down
+
+cts:urn:tlg0032.tlg010:12.6
+glaux1.0-sentence	213
+perseus-grc2	 ἔστι δὲ τοῦτο ὥσπερ ἐξέτασις ·
+perseus-eng2	 —this is their method of inspection—
+
+cts:urn:tlg0032.tlg010:12.6
+glaux1.0-sentence	214
+perseus-grc2	 ἐκ τούτου δὲ ἀριστοποιεῖσθαι καὶ ταχὺ τὸν πρόσκοπον ἀπολύεσθαι ·
+perseus-eng2	 and next to take breakfast and to relieve the outposts quickly.
+
+cts:urn:tlg0032.tlg010:12.6
+glaux1.0-sentence	215
+perseus-grc2	 ἐκ τούτου δ’ αὖ διατριβαὶ καὶ ἀναπαύσεις πρὸ τῶν ἑσπερινῶν γυμνασίων .
+perseus-eng2	 After this there are amusements and recreations until the evening exercises.
+
+cts:urn:tlg0032.tlg010:12.7
+glaux1.0-sentence	216
+perseus-grc2	 μετά γε μὴν ταῦτα δειπνοποιεῖσθαι κηρύττεται , καὶ ἐπειδὰν ᾁσωσιν εἰς τοὺς θεοὺς οἷς ἂν κεκαλλιερηκότες ὦσιν , ἐπὶ τῶν ὅπλων ἀναπαύεσθαι .
+perseus-eng2	 These being finished, the herald gives the order to take the evening meal,
+
+cts:urn:tlg0032.tlg010:12.7
+glaux1.0-sentence	217
+perseus-grc2	 ὅτι δὲ πολλὰ γράφω οὐ δεῖ θαυμάζειν ·
+perseus-eng2	 and, as soon as they have sung to the praise of the gods to whom they have sacrificed with good omens, to rest by the arms.
+
+cts:urn:tlg0032.tlg010:12.7
+glaux1.0-sentence	218
+perseus-grc2	 ἥκιστα γὰρ Λακεδαιμονίοις εὕροι ἄν τις παραλελειμμένα ἐν τοῖς στρατιωτικοῖς ὅσα δεῖται ἐπιμελείας .
+perseus-eng2	 Let not the length to which I run occasion surprise, for it is almost impossible to find any detail in military matters requiring attention that is overlooked by the Lacedaemonians.
+
+cts:urn:tlg0032.tlg010:13.1
+glaux1.0-sentence	219
+perseus-grc2	 διηγήσομαι δὲ καὶ ἣν ἐπὶ στρατιᾶς ὁ Λυκοῦργος βασιλεῖ δύναμιν καὶ τιμὴν κατεσκεύασε .
+perseus-eng2	 I will also give an account of the power and honour that Lycurgus conferred on the King in the field.
+
+cts:urn:tlg0032.tlg010:13.1
+glaux1.0-sentence	220
+perseus-grc2	 πρῶτον μὲν γὰρ ἐπὶ φρουρᾶς τρέφει ἡ πόλις βασιλέα καὶ τοὺς σὺν αὐτῷ ·
+perseus-eng2	 In the first place, while on military service the King and his staff are maintained by the state.
+
+cts:urn:tlg0032.tlg010:13.1
+glaux1.0-sentence	221
+perseus-grc2	 συσκηνοῦσι δὲ αὐτῷ οἱ πολέμαρχοι , ὅπως ἀεὶ συνόντες μᾶλλον καὶ κοινοβουλῶσιν , ἤν τι δέωνται ·
+perseus-eng2	 The colonels mess with the King, in order that constant intercourse may give better opportunities for taking counsel together in case of need.
+
+cts:urn:tlg0032.tlg010:13.1
+glaux1.0-sentence	222
+perseus-grc2	 συσκηνοῦσι δὲ καὶ ἄλλοι τρεῖς ἄνδρες τῶν ὁμοίων ·
+perseus-eng2	 Three of the peers also attend the King’s mess.
+
+cts:urn:tlg0032.tlg010:13.1
+glaux1.0-sentence	223
+perseus-grc2	 οὗτοι τούτοις ἐπιμελοῦνται πάντων τῶν ἐπιτηδείων , ὡς μηδεμία ἀσχολία ᾖ αὐτοῖς τῶν πολεμικῶν ἐπιμελεῖσθαι .
+perseus-eng2	 These three take entire charge of the commissariat for the King and his staff, so that these may devote all their time to affairs of war.
+
+cts:urn:tlg0032.tlg010:13.2
+glaux1.0-sentence	224
+perseus-grc2	 ἐπαναλήψομαι δὲ ὡς ἐξορμᾶται σὺν στρατιᾷ ὁ βασιλεύς .
+perseus-eng2	 But I will go back to the beginning, and explain how the King sets out with an army.
+
+cts:urn:tlg0032.tlg010:13.2
+glaux1.0-sentence	225
+perseus-grc2	 θύει μὲν γὰρ πρῶτον οἴκοι ὢν Διὶ Ἀγήτορι καὶ τοῖς σιοῖν αὐτῷ ·
+perseus-eng2	 First he offers up sacrifice at home to Zeus the Leader and to the gods associated with him.
+
+cts:urn:tlg0032.tlg010:13.2
+glaux1.0-sentence	226
+perseus-grc2	 ἢν δὲ ἐνταῦθα καλλιερήσῃ , λαβὼν ὁ πυρφόρος πῦρ ἀπὸ τοῦ βωμοῦ προηγεῖται ἐπὶ τὰ ὅρια τῆς χώρας ·
+perseus-eng2	 If the sacrifice appears propitious, the Fire-bearer takes fire from the altar and leads the way to the borders of the land.
+
+cts:urn:tlg0032.tlg010:13.2
+glaux1.0-sentence	227
+perseus-grc2	 ὁ δὲ βασιλεὺς ἐκεῖ αὖ θύεται Διὶ καὶ Ἀθηνᾷ .
+perseus-eng2	 There the King offers sacrifice again to Zeus and Athena.
+
+cts:urn:tlg0032.tlg010:13.3
+glaux1.0-sentence	228
+perseus-grc2	 ὅταν δὲ ἀμφοῖν τούτοιν τοῖν θεοῖν καλλιερηθῇ , τότε διαβαίνει τὰ ὅρια τῆς χώρας ·
+perseus-eng2	 Only when the sacrifice proves acceptable to both these deities does he cross the borders of the land.
+
+cts:urn:tlg0032.tlg010:13.3
+glaux1.0-sentence	229
+perseus-grc2	 καὶ τὸ πῦρ μὲν ἀπὸ τούτων τῶν ἱερῶν προηγεῖται οὔποτε ἀποσβεννύμενον , σφάγια δὲ παντοῖα ἕπεται .
+perseus-eng2	 And the fire from these sacrifices leads the way and is never quenched, and animals for sacrifice of every sort follow.
+
+cts:urn:tlg0032.tlg010:13.3
+glaux1.0-sentence	230
+perseus-grc2	 ἀεὶ δὲ ὅταν θύηται , ἄρχεται μὲν τούτου τοῦ ἔργου ἔτι κνεφαῖος , προλαμβάνειν βουλόμενος τὴν τοῦ θεοῦ εὔνοιαν .
+perseus-eng2	 At all times when he offers sacrifice, the King begins the work before dawn of day, wishing to forestall the goodwill of the god.
+
+cts:urn:tlg0032.tlg010:13.4
+glaux1.0-sentence	231
+perseus-grc2	 πάρεισι δὲ περὶ τὴν θυσίαν πολέμαρχοι , λοχαγοί , πεντηκοντῆρες , ξένων στρατίαρχοι , στρατοῦ σκευοφορικοῦ ἄρχοντες , καὶ τῶν ἀπὸ τῶν πόλεων δὲ στρατηγῶν ὁ βουλόμενος ·
+perseus-eng2	 And at the sacrifice are assembled colonels, captains, lieutenants, commandants of foreign contingents, commanders of the baggage train, and, in addition, any general from the states who chooses to be present.
+
+cts:urn:tlg0032.tlg010:13.5
+glaux1.0-sentence	232
+perseus-grc2	 πάρεισι δὲ καὶ τῶν ἐφόρων δύο , οἳ πολυπραγμονοῦσι μὲν οὐδέν , ἢν μὴ ὁ βασιλεὺς προσκαλῇ ·
+perseus-eng2	 There are also present two of the Ephors, who interfere in nothing except by the King’s request,
+
+cts:urn:tlg0032.tlg010:13.5
+glaux1.0-sentence	233
+perseus-grc2	 ὁρῶντες δὲ ὅ τι ποιεῖ ἕκαστος πάντας σωφρονίζουσιν , ὡς τὸ εἰκός .
+perseus-eng2	 but keep an eye on the proceedings, and see that all behave with a decorum suitable to the occasion.
+
+cts:urn:tlg0032.tlg010:13.5
+glaux1.0-sentence	234
+perseus-grc2	 ὅταν δὲ τελεσθῇ τὰ ἱερά , ὁ βασιλεὺς προσκαλέσας πάντας παραγγέλλει τὰ ποιητέα .
+perseus-eng2	 When the sacrifices are ended, the King summons all and delivers the orders of the day.
+
+cts:urn:tlg0032.tlg010:13.5
+glaux1.0-sentence	235
+perseus-grc2	 ὥστε ὁρῶν ταῦτα ἡγήσαιο ἂν τοὺς μὲν ἄλλους αὐτοσχεδιαστὰς εἶναι τῶν στρατιωτικῶν , Λακεδαιμονίους δὲ μόνους τῷ ὄντι τεχνίτας τῶν πολεμικῶν .
+perseus-eng2	 And so, could you watch the scene, you would think all other men mere improvisors in soldiering and the Lacedaemonians the only artists in warfare.
+
+cts:urn:tlg0032.tlg010:13.6
+glaux1.0-sentence	236
+perseus-grc2	 ἐπειδάν γε μὴν ἡγῆται βασιλεύς , ἢν μὲν μηδεὶς ἐναντίος φαίνηται , οὐδεὶς αὐτοῦ πρόσθεν πορεύεται , πλὴν Σκιρῖται καὶ οἱ προερευνώμενοι ἱππεῖς ·
+perseus-eng2	 When the King leads, provided that no enemy appears, no one precedes him except the Sciritae and the mounted vedettes.
+
+cts:urn:tlg0032.tlg010:13.6
+glaux1.0-sentence	237
+perseus-grc2	 ἢν δέ ποτε μάχην οἴωνται ἔσεσθαι , λαβὼν τὸ ἄγημα τῆς πρώτης μόρας ὁ βασιλεὺς ἄγει στρέψας ἐπὶ δόρυ , ἔστ’ ἂν γένηται ἐν μέσῳ δυοῖν μόραιν καὶ δυοῖν πολεμάρχοιν .
+perseus-eng2	 But if ever they think there will be fighting, he takes the lead of the first regiment and wheels to the right, until he is between two regiments and two colonels.
+
+cts:urn:tlg0032.tlg010:13.7
+glaux1.0-sentence	238
+perseus-grc2	 οὓς δὲ δεῖ ἐπὶ τούτοις τετάχθαι , ὁ πρεσβύτατος τῶν περὶ δαμοσίαν συντάττει ·
+perseus-eng2	 The troops that are to support these are marshalled by the senior member of the King’s staff.
+
+cts:urn:tlg0032.tlg010:13.7
+glaux1.0-sentence	239
+perseus-grc2	 εἰσὶ δὲ οὗτοι ὅσοι ἂν σύσκηνοι ὦσι τῶν ὁμοίων , καὶ μάντεις καὶ ἰατροὶ καὶ αὐληταὶ καὶ οἱ τοῦ στρατοῦ ἄρχοντες , καὶ ἐθελούσιοι ἤν τινες παρῶσιν .
+perseus-eng2	 The staff consists of all peers who are members of the royal mess, seers, doctors, fluteplayers, commanding officers and any volunteers who happen to be present.
+
+cts:urn:tlg0032.tlg010:13.7
+glaux1.0-sentence	240
+perseus-grc2	 ὥστε τῶν δεομένων γίγνεσθαι οὐδὲν ἀπορεῖται ·
+perseus-eng2	 Thus nothing that has to be done causes any difficulty,
+
+cts:urn:tlg0032.tlg010:13.7
+glaux1.0-sentence	241
+perseus-grc2	 οὐδὲν γὰρ ἀπρόσκεπτόν ἐστι .
+perseus-eng2	 for everything is duly provided for.
+
+cts:urn:tlg0032.tlg010:13.8
+glaux1.0-sentence	242
+perseus-grc2	 μάλα δὲ καὶ τάδε ὠφέλιμα , ὡς ἐμοὶ δοκεῖ , ἐμηχανήσατο Λυκοῦργος εἰς τὸν ἐν ὅπλοις ἀγῶνα .
+perseus-eng2	 The following arrangements made by Lycurgus with a view to the actual fighting are also, in my opinion, very useful.
+
+cts:urn:tlg0032.tlg010:13.8
+glaux1.0-sentence	243
+perseus-grc2	 ὅταν γὰρ ὁρώντων ἤδη τῶν πολεμίων χίμαιρα σφαγιάζηται , αὐλεῖν τε πάντας τοὺς παρόντας αὐλητὰς νόμος καὶ μηδένα Λακεδαιμονίων ἀστεφάνωτον εἶναι ·
+perseus-eng2	 When a goat is sacrificed, the enemy being near enough to see, custom ordains that all the fluteplayers present are to play and every Lacedaemonian is to wear a wreath.
+
+cts:urn:tlg0032.tlg010:13.8
+glaux1.0-sentence	244
+perseus-grc2	 καὶ ὅπλα δὲ λαμπρύνεσθαι προαγορεύεται .
+perseus-eng2	 An order is also given to polish arms.
+
+cts:urn:tlg0032.tlg010:13.9
+glaux1.0-sentence	245
+perseus-grc2	 ἔξεστι δὲ τῷ νέῳ καὶ κεχριμένῳ εἰς μάχην συνιέναι καὶ φαιδρὸν εἶναι καὶ εὐδόκιμον .
+perseus-eng2	 It is also the privilege of the young warrior to comb his hair before entering battle, to look cheerful and earn a good report.
+
+cts:urn:tlg0032.tlg010:13.9
+glaux1.0-sentence	246
+perseus-grc2	 καὶ παρακελεύονται δὲ τῷ ἐνωμοτάρχῳ ·
+perseus-eng2	 Moreover, the men shout words of encouragement to the subaltern,
+
+cts:urn:tlg0032.tlg010:13.9
+glaux1.0-sentence	247
+perseus-grc2	 οὐδ’ ἀκούεται γὰρ εἰς ἑκάστην πᾶσαν τὴν ἐνωμοτίαν ἀφ’ ἑκάστου ἐνωμοτάρχου ἔξω ·
+perseus-eng2	 for it is impossible for each subaltern to make his voice travel along the whole of his section to the far end.
+
+cts:urn:tlg0032.tlg010:13.9
+glaux1.0-sentence	248
+perseus-grc2	 ὅπως δὲ καλῶς γίγνηται πολεμάρχῳ δεῖ μέλειν .
+perseus-eng2	 The colonel is responsible for seeing that all is done properly.
+
+cts:urn:tlg0032.tlg010:13.10
+glaux1.0-sentence	249
+perseus-grc2	 ὅταν γε μὴν καιρὸς δοκῇ εἶναι στρατοπεδεύεσθαι , τούτου μὲν δὴ κύριος βασιλεὺς καὶ τοῦ δεῖξαί γε ὅπου δεῖ ·
+perseus-eng2	 When the time for encamping seems to have arrived, the decision rests with the King, who also indicates the proper place.
+
+cts:urn:tlg0032.tlg010:13.10
+glaux1.0-sentence	250
+perseus-grc2	 τὸ μέντοι πρεσβείας ἀποπέμπεσθαι καὶ φιλίας καὶ πολεμίας , τοῦτ’ οὐ βασιλέως .
+perseus-eng2	 On the other hand the dispatch of embassies whether to friends or enemies is not the King’s affair.
+
+cts:urn:tlg0032.tlg010:13.10
+glaux1.0-sentence	251
+perseus-grc2	 καὶ ἄρχονται μὲν πάντες ἀπὸ βασιλέως , ὅταν βούλωνται πρᾶξαί τι .
+perseus-eng2	 All who have any business to transact deal in the first instance with the King.
+
+cts:urn:tlg0032.tlg010:13.11
+glaux1.0-sentence	252
+perseus-grc2	 ἢν δ’ οὖν δίκης δεόμενός τις ἔλθῃ , πρὸς ἑλλανοδίκας τοῦτον ὁ βασιλεὺς ἀποπέμπει , ἢν δὲ χρημάτων , πρὸς ταμίας , ἢν δὲ ληίδα ἄγων , πρὸς λαφυροπώλας .
+perseus-eng2	 Suitors for justice are remitted by the King to the Court of Hellanodicae, applications for money to the treasurers; and if anyone brings booty, he is sent to the auctioneers.
+
+cts:urn:tlg0032.tlg010:13.11
+glaux1.0-sentence	253
+perseus-grc2	 οὕτω δὲ πραττομένων βασιλεῖ οὐδὲν ἄλλο ἔργον καταλείπεται ἐπὶ φρουρᾶς ἢ ἱερεῖ μὲν τὰ πρὸς τοὺς θεοὺς εἶναι , στρατηγῷ δὲ τὰ πρὸς τοὺς ἀνθρώπους .
+perseus-eng2	 With this routine the only duties left to the King on active service are to act as priest in matters of religion and as general in his dealings with the men.
+
+cts:urn:tlg0032.tlg010:14.1
+glaux1.0-sentence	254
+perseus-grc2	 εἰ δέ τίς με ἔροιτο εἰ καὶ νῦν ἔτι μοι δοκοῦσιν οἱ Λυκούργου νόμοι ἀκίνητοι διαμένειν , τοῦτο μὰ Δία οὐκ ἂν ἔτι θρασέως εἴποιμι .
+perseus-eng2	 Should anyone ask me whether I think that the laws of Lycurgus still remain unchanged at this day, I certainly could not say that with any confidence whatever.
+
+cts:urn:tlg0032.tlg010:14.2
+glaux1.0-sentence	255
+perseus-grc2	 οἶδα γὰρ πρότερον μὲν Λακεδαιμονίους αἱρουμένους οἴκοι τὰ μέτρια ἔχοντας ἀλλήλοις συνεῖναι μᾶλλον ἢ ἁρμόζοντας ἐν ταῖς πόλεσι καὶ κολακευομένους διαφθείρεσθαι .
+perseus-eng2	 For I know that formerly the Lacedaemonians preferred to live together at home with moderate fortunes rather than expose themselves to the corrupting influences of flattery as governors of dependent states.
+
+cts:urn:tlg0032.tlg010:14.3
+glaux1.0-sentence	256
+perseus-grc2	 καὶ πρόσθεν μὲν οἶδα αὐτοὺς φοβουμένους χρυσίον ἔχοντας φαίνεσθαι ·
+perseus-eng2	 And I know too that in former days they were afraid to be found in possession of gold;
+
+cts:urn:tlg0032.tlg010:14.3
+glaux1.0-sentence	257
+perseus-grc2	 νῦν δ’ ἔστιν οὓς καὶ καλλωπιζομένους ἐπὶ τῷ κεκτῆσθαι .
+perseus-eng2	 whereas nowadays there are some who even boast of their possessions.
+
+cts:urn:tlg0032.tlg010:14.4
+glaux1.0-sentence	258
+perseus-grc2	 ἐπίσταμαι δὲ καὶ πρόσθεν τούτου ἕνεκα ξενηλασίας γιγνομένας καὶ ἀποδημεῖν οὐκ ἐξόν , ὅπως μὴ ῥᾳδιουργίας οἱ πολῖται ἀπὸ τῶν ξένων ἐμπίμπλαιντο ·
+perseus-eng2	 There were alien acts in former days, and to live abroad was illegal;
+
+cts:urn:tlg0032.tlg010:14.4
+glaux1.0-sentence	259
+perseus-grc2	 νῦν δ’ ἐπίσταμαι τοὺς δοκοῦντας πρώτους εἶναι ἐσπουδακότας ὡς μηδέποτε παύωνται ἁρμόζοντες ἐπὶ ξένης .
+perseus-eng2	 and I have no doubt that the purpose of these regulations was to keep the citizens from being demoralized by contact with foreigners; and now I have no doubt that the fixed ambition of those who are thought to be first among them is to live to their dying day as governors in a foreign land.
+
+cts:urn:tlg0032.tlg010:14.5
+glaux1.0-sentence	260
+perseus-grc2	 καὶ ἦν μὲν ὅτε ἐπεμελοῦντο ὅπως ἄξιοι εἶεν ἡγεῖσθαι ·
+perseus-eng2	 There was a time when they would fain be worthy of leadership;
+
+cts:urn:tlg0032.tlg010:14.5
+glaux1.0-sentence	261
+perseus-grc2	 νῦν δὲ πολὺ μᾶλλον πραγματεύονται ὅπως ἄρξουσιν ἢ ὅπως ἄξιοι τούτων ἔσονται .
+perseus-eng2	 but now they strive far more earnestly to exercise rule than to be worthy of it.
+
+cts:urn:tlg0032.tlg010:14.6
+glaux1.0-sentence	262
+perseus-grc2	 τοιγαροῦν οἱ Ἕλληνες πρότερον μὲν ἰόντες εἰς Λακεδαίμονα ἐδέοντο αὐτῶν ἡγεῖσθαι ἐπὶ τοὺς δοκοῦντας ἀδικεῖν ·
+perseus-eng2	 Therefore in times past the Greeks would come to Lacedaemon and beg her to lead them against reputed wrongdoers;
+
+cts:urn:tlg0032.tlg010:14.6
+glaux1.0-sentence	263
+perseus-grc2	 νῦν δὲ πολλοὶ παρακαλοῦσιν ἀλλήλους ἐπὶ τὸ διακωλύειν ἄρξαι πάλιν αὐτούς .
+perseus-eng2	 but now many are calling on one another to prevent a revival of Lacedaemonian supremacy.
+
+cts:urn:tlg0032.tlg010:14.7
+glaux1.0-sentence	264
+perseus-grc2	 οὐδὲν μέντοι δεῖ θαυμάζειν τούτων τῶν ἐπιψόγων αὐτοῖς γιγνομένων , ἐπειδὴ φανεροί εἰσιν οὔτε τῷ θεῷ πειθόμενοι οὔτε τοῖς Λυκούργου νόμοις .
+perseus-eng2	 Yet we need not wonder if these reproaches are levelled at them, since it is manifest that they obey neither their god nor the laws of Lycurgus.
+
+cts:urn:tlg0032.tlg010:15.1
+glaux1.0-sentence	265
+perseus-grc2	 βούλομαι δὲ καὶ ἃς βασιλεῖ πρὸς τὴν πόλιν συνθήκας ὁ Λυκοῦργος ἐποίησε διηγήσασθαι ·
+perseus-eng2	 I wish also to give an account of the compact made by Lycurgus between King and state.
+
+cts:urn:tlg0032.tlg010:15.1
+glaux1.0-sentence	266
+perseus-grc2	 μόνη γὰρ δὴ αὕτη ἀρχὴ διατελεῖ οἵαπερ ἐξ ἀρχῆς κατεστάθη ·
+perseus-eng2	 For this is the only government that continues exactly as it was originally established,
+
+cts:urn:tlg0032.tlg010:15.1
+glaux1.0-sentence	267
+perseus-grc2	 τὰς δὲ ἄλλας πολιτείας εὕροι ἄν τις μετακεκινημένας καὶ ἔτι καὶ νῦν μετακινουμένας .
+perseus-eng2	 whereas other constitutions will be found to have undergone and still to be undergoing modifications.
+
+cts:urn:tlg0032.tlg010:15.2
+glaux1.0-sentence	268
+perseus-grc2	 ἔθηκε γὰρ θύειν μὲν βασιλέα πρὸ τῆς πόλεως τὰ δημόσια ἅπαντα , ὡς ἀπὸ τοῦ θεοῦ ὄντα , καὶ στρατιὰν ὅποι ἂν ἡ πόλις ἐκπέμπῃ ἡγεῖσθαι .
+perseus-eng2	 He ordained that the King shall offer all the public sacrifices on behalf of the state, in virtue of his divine descent, and that, whatever may be the destination to which the state sends out an army, he shall be its leader.
+
+cts:urn:tlg0032.tlg010:15.3
+glaux1.0-sentence	269
+perseus-grc2	 ἔδωκε δὲ καὶ γέρα ἀπὸ τῶν θυομένων λαμβάνειν , καὶ γῆν δὲ ἐν πολλαῖς τῶν περιοίκων πόλεων ἀπέδειξεν ἐξαίρετον τοσαύτην ὥστε μήτ’ ἐνδεῖσθαι τῶν μετρίων μήτε πλούτῳ ὑπερφέρειν .
+perseus-eng2	 He also gave him the right to receive certain parts of the beasts sacrificed, and assigned to him enough choice land in many of the outlanders’ cities to ensure him a reasonable competence without excessive riches.
+
+cts:urn:tlg0032.tlg010:15.4
+glaux1.0-sentence	270
+perseus-grc2	 ὅπως δὲ καὶ οἱ βασιλεῖς ἔξω σκηνοῖεν , σκηνὴν αὐτοῖς δημοσίαν ἀπέδειξε , καὶ διμοιρίᾳ γε ἐπὶ τῷ δείπνῳ ἐτίμησεν , οὐχ ἵνα διπλάσια καταφάγοιεν , ἀλλ’ ἵνα καὶ ἀπὸ τοῦδε τιμῆσαι ἔχοιεν εἴ τινα βούλοιντο .
+perseus-eng2	 In order that even the kings should mess in public, he assigned to them a public mess tent; he also honoured them with a double portion at the meal, not that they might eat enough for two, but that they might have the wherewithal to honour anyone whom they chose.
+
+cts:urn:tlg0032.tlg010:15.5
+glaux1.0-sentence	271
+perseus-grc2	 ἔδωκε δ’ αὖ καὶ συσκήνους δύο ἑκατέρῳ προσελέσθαι , οἳ δὴ καὶ Πύθιοι καλοῦνται .
+perseus-eng2	 He also allowed each King to choose two messmates, who are called Pythii.
+
+cts:urn:tlg0032.tlg010:15.5
+glaux1.0-sentence	272
+perseus-grc2	 ἔδωκε δὲ καὶ πασῶν τῶν συῶν ἀπὸ τόκου χοῖρον λαμβάνειν , ὡς μήποτε ἀπορήσαι βασιλεὺς ἱερῶν , ἤν τι δεηθῇ θεοῖς συμβουλεύσασθαι .
+perseus-eng2	 Further, he granted them to take of every litter of pigs a porker, that a King may never want victims, in case he wishes to seek counsel of the gods.
+
+cts:urn:tlg0032.tlg010:15.6
+glaux1.0-sentence	273
+perseus-grc2	 καὶ πρὸς τῇ οἰκίᾳ δὲ λίμνη ὕδατος ἀφθονίαν παρέχει ·
+perseus-eng2	 A lake near the house supplies abundance of water;
+
+cts:urn:tlg0032.tlg010:15.6
+glaux1.0-sentence	274
+perseus-grc2	 ὅτι δὲ καὶ τοῦτο πρὸς πολλὰ χρήσιμον , οἱ μὴ ἔχοντες αὐτὸ μᾶλλον γιγνώσκουσι .
+perseus-eng2	 and how useful that is for many purposes none know so well as those who are without it.
+
+cts:urn:tlg0032.tlg010:15.6
+glaux1.0-sentence	275
+perseus-grc2	 καὶ ἕδρας δὲ πάντες ὑπανίστανται βασιλεῖ , πλὴν οὐκ ἔφοροι ἀπὸ τῶν ἐφορικῶν δίφρων .
+perseus-eng2	 Further, all rise from their seats when the King appears; only the Ephors do not rise from their official chairs.
+
+cts:urn:tlg0032.tlg010:15.7
+glaux1.0-sentence	276
+perseus-grc2	 καὶ ὅρκους δὲ ἀλλήλοις κατὰ μῆνα ποιοῦνται , ἔφοροι μὲν ὑπὲρ τῆς πόλεως , βασιλεὺς δὲ ὑπὲρ ἑαυτοῦ .
+perseus-eng2	 And they exchange oaths monthly, the Ephors on behalf of the state, the King for himself.
+
+cts:urn:tlg0032.tlg010:15.7
+glaux1.0-sentence	277
+perseus-grc2	 ὁ δὲ ὅρκος ἐστὶ τῷ μὲν βασιλεῖ κατὰ τοὺς τῆς πόλεως κειμένους νόμους βασιλεύσειν , τῇ δὲ πόλει ἐμπεδορκοῦντος ἐκείνου ἀστυφέλικτον τὴν βασιλείαν παρέξειν .
+perseus-eng2	 And this is the King’s oath: I will reign according to the established laws of the state. And this the oath of the state: While you abide by your oath, we will keep the kingship unshaken.
+
+cts:urn:tlg0032.tlg010:15.8
+glaux1.0-sentence	278
+perseus-grc2	 αὗται μὲν οὖν αἱ τιμαὶ οἴκοι ζῶντι βασιλεῖ δέδονται , οὐδέν τι πολὺ ὑπερφέρουσαι τῶν ἰδιωτικῶν ·
+perseus-eng2	 These then are the honours that are bestowed on the King at home during his lifetime; and they do not greatly exceed those of private persons.
+
+cts:urn:tlg0032.tlg010:15.8
+glaux1.0-sentence	279
+perseus-grc2	 οὐ γὰρ ἐβουλήθη οὔτε τοῖς βασιλεῦσι τυραννικὸν φρόνημα παραστῆσαι οὔτε τοῖς πολίταις φθόνον ἐμποιῆσαι τῆς δυνάμεως .
+perseus-eng2	 For it was not the wish of Lycurgus to put into the King’s hearts despotic pride, nor to implant in the mind of the citizens envy of their power.
+
+cts:urn:tlg0032.tlg010:15.9
+glaux1.0-sentence	280
+perseus-grc2	 αἳ δὲ τελευτήσαντι τιμαὶ βασιλεῖ δέδονται , τῇδε βούλονται δηλοῦν οἱ Λυκούργου νόμοι ὅτι οὐχ ὡς ἀνθρώπους ἀλλ’ ὡς ἥρωας τοὺς Λακεδαιμονίων βασιλεῖς προτετιμήκασι .
+perseus-eng2	 As for the honours assigned to the King at his death, the intention of the laws of Lycurgus herein is to show that they have preferred the Kings of the Lacedaemonians in honour not as mere men, but as demigods.

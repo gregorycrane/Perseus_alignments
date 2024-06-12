@@ -1,0 +1,2693 @@
+
+cts:urn:tlg0085.tlg001:1
+glaux1.0-sentence	1
+perseus-grc2.tb	Ζεὺς μὲν ἀφίκτωρ ἐπίδοι προφρόνως στόλον ἡμέτερον νάιον ἀρθέντ’ ἀπὸ προστομίων λεπτοψαμάθων Νείλου.
+perseus-eng2 May Zeus who guards suppliants look graciously upon our company, which boarded a ship and put to sea from the outlets of the fine sand of the Nile.
+
+cts:urn:tlg0085.tlg001:4
+glaux1.0-sentence	2
+perseus-grc2.tb	Δίαν δὲ λιποῦσαι χθόνα σύγχορτον Συρίᾳ φεύγομεν, οὔτιν’ ἐφ’ αἵματι δημηλασίαν ψήφῳ πόλεως γνωσθεῖσαν, ἀλλ’ αὐτογενεῖ φυξανορίᾳ γάμον Αἰγύπτου παίδων ἀσεβῆ ’ξ’ονοταζόμεναι.
+perseus-eng2 For we have fled Zeus’ land whose pastures border Syria, and are fugitives, not because of some public decree pronounced against blood crime, but because of our own act to escape the suit of man, since we abhor as impious all marriage with the sons of Aegyptus.
+
+cts:urn:tlg0085.tlg001:11
+glaux1.0-sentence	3
+perseus-grc2.tb	Δαναὸς δὲ πατὴρ καὶ βούλαρχος καὶ στασίαρχος τάδε πεσσονομῶν κύδιστ’ ἀχέων ἐπέκρανε, φεύγειν ἀνέδην διὰ κῦμ’ ἅλιον, κέλσαι δ’ Ἄργους γαῖαν, ὅθεν δὴ γένος ἡμέτερον τῆς οἰστροδόνου βοὸς ἐξ ἐπαφῆς κ- ἐξ ἐπιπνοίας Διὸς εὐχόμενον τετέλεσται.
+perseus-eng2 It was Danaus, our father, adviser and leader, who, considering well our course, decided, as the best of all possible evils, that we flee with all speed over the waves of the sea and find a haven on Argos’ shore. For from there descends our race, sprung from the caress and breath of Zeus on the gnat-tormented heifer.
+
+cts:urn:tlg0085.tlg001:19
+glaux1.0-sentence	4
+perseus-grc2.tb	τίν’ ἂν οὖν χώραν εὔφρονα μᾶλλον τῆσδ’ ἀφικοίμεθα σὺν τοῖσδ’ ἱκετῶν ἐγχειριδίοις ἐριοστέπτοισι κλάδοισιν;
+perseus-eng2 To what kinder land than this could we come with these wool-wreathed branches in our hands, sole weapons of the suppliant?
+
+cts:urn:tlg0085.tlg001:23
+glaux1.0-sentence	5
+perseus-grc2.tb	ὦ πόλις, ὦ γῆ, καὶ λευκὸν ὕδωρ, ὕπατοί τε θεοί, καὶ βαρύτιμοι χθόνιοι θήκας κατέχοντες, καὶ Ζεὺς σωτὴρ τρίτος, οἰκοφύλαξ ὁσίων ἀν
+perseus-eng2 O realm, O land, and clear water; gods on high and earth-bound powers, grievous in your vengeance, which inhabit the tomb; and you, Zeus the Savior, invoked third, the guardian of the habitations of righteous men: receive as suppliants this band of women with the compassionate spirit of the land.
+
+cts:urn:tlg0085.tlg001:29
+glaux1.0-sentence	6
+perseus-grc2.tb	ἀρσενοπληθῆ δ’ ἑσμὸν ὑβριστὴν Αἰγυπτογενῆ, πρὶν πόδα χέρσῳ τῆ δ’ ἐν ἀσώδει θεῖναι, ξὺν ὄχῳ ταχυήρει πέμψατε πόντονδ’ ·
+perseus-eng2 But the thronging swarm of violent men born of Aegyptus, should they set foot upon this marshy land, drive them seaward—and with them their swift ship—and there may they encounter a cruel sea with thunder, lightning, and rain-charged winds.
+
+cts:urn:tlg0085.tlg001:33
+glaux1.0-sentence	7
+perseus-grc2.tb	ἔνθα δὲ λαίλαπι χειμωνοτύπῳ, βροντῇ στεροπῇ τ’ ὀμβροφόροισίν τ’ ἀνέμοις ἀγρίας ἁλὸς ἀντήσαντες, ὄλοιντο, πρίν ποτε λέκτρων, ὧν θέμις εἴργει, σφετεριξάμενοι πατραδέλφειαν τήνδ’ ἀεκόντων ἐπιβῆναι.
+perseus-eng2 and perish by the tempest’s buffeting blasts, if they ever lay their hands on us, their cousins, and mount unwilling beds from which Right holds them aloof.
+
+cts:urn:tlg0085.tlg001:40
+glaux1.0-sentence	8
+perseus-grc2.tb	νῦν δ’ ἐπικεκλομένα Δῖον πόρτιν ὑπερπόντιον τιμάορ’, ἶνίν τ’ ἀνθονομούσας προγόνου βοὸς ἐξ ἐπιπνοίας Ζηνὸς ἔφαψιν ·
+perseus-eng2 And now I invoke, as our champion from beyond the sea, the calf born of Zeus, the offspring of the flower-grazing cow, our ancestress, the caress of Zeus’ breath.
+
+cts:urn:tlg0085.tlg001:45
+glaux1.0-sentence	9
+perseus-grc2.tb	ἐπωνυμίᾳ δ’ ἐπεκραίνετο μόρσιμος αἰὼν εὐλόγως, Ἔπαφόν τ’ ἐγέννασεν ·
+perseus-eng2 The appointed period confirmed itself in a name suited to the event—Epaphus, to whom she gave birth.
+
+cts:urn:tlg0085.tlg001:49
+glaux1.0-sentence	10
+perseus-grc2.tb	ὅντ’ ἐπιλεξαμένα, νῦν ἐν ποιονόμοις ματρὸς ἀρχαίας τόποις τῶν πρόσθε πόνων μνασαμένα, τά τε νῦν ἐπιδείξω πιστὰ τεκμήρια γαιονόμοις, τὰ δ’ ἄελπτά περ ὄντα φανεῖται.
+perseus-eng2 And now in the region wherein our first mother pastured, by recounting the story of her distress of long ago, I shall now set forth reliable proofs to the inhabitants of the land; and other evidence, though unexpected, will yet appear.
+
+cts:urn:tlg0085.tlg001:56
+glaux1.0-sentence	11
+perseus-grc2.tb	γνώσεται δὲ λόγους τις ἐν μάκει.
+perseus-eng2 Men will come to know the truth as my tale proceeds.
+
+cts:urn:tlg0085.tlg001:58
+glaux1.0-sentence	12
+perseus-grc2.tb	εἰ δὲ κυρεῖ τις πέλας οἰωνοπόλων ἔγγαιος οἶκτον οἰκτρὸν ἀίων, δοξάσει τις ἀκούειν ὄπα τᾶς Τηρεΐας Μήτιδος οἰκτρᾶς ἀλόχου, κιρκηλάτου τ’ ἀηδόνος,
+perseus-eng2 Now if by chance there be some neighbor in the land who knows the song of birds, when our complaint greets his ear, he will fancy that he hears the voice of Metis, Tereus’ piteous wife, the hawk-chased nightingale.
+
+cts:urn:tlg0085.tlg001:63
+glaux1.0-sentence	13
+perseus-grc2.tb	ἅτ’ ἀπὸ χλωρῶν πετάλων ἐργομένα πενθεῖ μὲν οἶκτον ἠθέων ·
+perseus-eng2 For she, constrained to leave her green leaves, laments pitifully her accustomed haunts,
+
+cts:urn:tlg0085.tlg001:65
+glaux1.0-sentence	14
+perseus-grc2.tb	ξυντίθησι δὲ παιδὸς μόρον, ὡς αὐτοφόνως ὤλετο πρὸς χειρὸς ἕθεν δυσμάτορος κότου τυχών ·
+perseus-eng2 and composes the tale of her own child’s doom—how he perished, destroyed by her own hand, victim of the wrath of an unnatural mother.
+
+cts:urn:tlg0085.tlg001:68
+glaux1.0-sentence	15
+perseus-grc2.tb	τὼς καὶ ἐγὼ φιλόδυρτος Ἰαονίοισι νόμοισι δάπτω τὰν ἁπαλὰν Νειλοθερῆ παρειὰν ἀπειρόδακρύν τε καρδίαν.
+perseus-eng2 Even so I, indulging my grief in Ionian strains, pain my tender face summered by Nile’s sun and my heart unexercised in tears; and I gather the flowers of grief, anxious whether there is any friendly kinsman here to champion our band which has fled from the haze-shrouded land.
+
+cts:urn:tlg0085.tlg001:73
+glaux1.0-sentence	16
+perseus-grc2.tb	γοεδνὰ δ’ ἀνθεμίζομαι δειμαίνουσα φίλους, τᾶσδε φυγᾶς ἀερίας ἀπὸ γᾶς εἴ τις ἐστὶ κηδεμών.
+perseus-eng2 But, gods of our race, hear, and regard with favor the cause of righteousness; if you refuse youthful fulfillment of its arrogant desires, and readily abhor violence, you would be righteous toward marriage.
+
+cts:urn:tlg0085.tlg001:77
+glaux1.0-sentence	17
+perseus-grc2.tb	ἀλλά, θεοὶ γενέται κλύετ’ εὖ τὸ δίκαιον ἰδόντες ·
+perseus-eng2 Even for those who flee hard-pressed from war there is an altar, a shelter against harm through respect for the powers of heaven.
+
+cts:urn:tlg0085.tlg001:79
+glaux1.0-sentence	18
+perseus-grc2.tb	ἥβᾳ μὴ τέλεον δόντες ἔχειν παρ’ αἶσαν, ὕβριν δ’ ἑτοίμως στυγοῦντες, πέλοιτ’ ἂν ἔνδικοι γάμοις.
+perseus-eng2 But may Zeus grant that it go well with us. For Zeus’ desire is hard to trace: it shines everywhere, even in gloom, together with fortune obscure to mortal men.
+
+cts:urn:tlg0085.tlg001:83
+glaux1.0-sentence	19
+perseus-grc2.tb	ἔστι δὲ κ- ἐκ πολέμου τειρομένοις βωμὸς ἀρῆς φυγάσιν ῥῦμα, δαιμόνων σέβας.
+perseus-eng2 But may Zeus grant that it go well with us. For Zeus’ desire is hard to trace: it shines everywhere, even in gloom, together with fortune obscure to mortal men.
+
+cts:urn:tlg0085.tlg001:86
+glaux1.0-sentence	20
+perseus-grc2.tb	εὖ δ’ εἴη Διόθεν παναληθῶς.
+perseus-eng2 But may Zeus grant that it go well with us. For Zeus’ desire is hard to trace: it shines everywhere, even in gloom, together with fortune obscure to mortal men.
+
+cts:urn:tlg0085.tlg001:87
+glaux1.0-sentence	21
+perseus-grc2.tb	Διὸς ἵμερος οὐκ εὐθήρατος ἐτύχθη.
+perseus-eng2 For Zeus’ longing was not easily pursued.
+
+cts:urn:tlg0085.tlg001:88
+glaux1.0-sentence	22
+perseus-grc2.tb	παντᾷ τοι φλεγέθει κ- ἐν σκότῳ μελαίνᾳ ξὺν τύχᾳ μερόπεσσι λαοῖς.
+perseus-eng2 It burns bright in every way and together with fate, even in black darkness, among mortal men.
+
+cts:urn:tlg0085.tlg001:91
+glaux1.0-sentence	23
+perseus-grc2.tb	πίπτει δ’ ἀσφαλὲς οὐδ’ ἐπὶ νώτῳ, κορυφᾷ Διὸς εἰ κρανθῇ, πρᾶγμα τέλειον.
+perseus-eng2 Safely it falls, and not upon its back, whatever deed comes to pass at Zeus’ nod; for the pathways of his understanding stretch dark and tangled, beyond comprehension.
+
+cts:urn:tlg0085.tlg001:93
+glaux1.0-sentence	24
+perseus-grc2.tb	δαυλοὶ γὰρ πραπίδων δάσκιοί τε τείνουσιν πόροι κατιδεῖν ἄφραστοι.
+perseus-eng2 From their high-towering hopes he hurls mankind to utter destruction; yet he does not marshal any armed violence—
+
+cts:urn:tlg0085.tlg001:96
+glaux1.0-sentence	25
+perseus-grc2.tb	ἰάπτει δ’ ἐλπίδων ἀφ’ ὑψιπύργων πανώλεις βροτούς, βίαν δ’ οὔτιν’ ἐξοπλίζει ·
+perseus-eng2 all that is wrought by the powers divine is free from toil. Seated on his holy throne, unmoved, in mysterious ways he accomplishes his will.
+
+cts:urn:tlg0085.tlg001:100
+glaux1.0-sentence	26
+perseus-grc2.tb	πᾶν ἄπονον δαιμονίων.
+perseus-eng2 All the work of the divine is effortless.
+
+cts:urn:tlg0085.tlg001:101
+glaux1.0-sentence	27
+perseus-grc2.tb	ἥμενος ὃν φρόνημά πως αὐτόθεν ἐξέπραξεν ἔμπας ἑδράνων ἐφ’ ἁγνῶν.
+perseus-eng2 Seated on his holy throne, unmoved, in mysterious ways he accomplishes his will.
+
+cts:urn:tlg0085.tlg001:104
+glaux1.0-sentence	28
+perseus-grc2.tb	ἰδέσθω δ’ εἰς ὕβριν βρότειον, οἵα νεάζει πυθμὴν δι’ ἁμὸν γάμον τεθαλὼς δυσπαραβούλοισι φρεσίν, καὶ διάνοιαν μαινόλιν κέντρον ἔχων ἄφυκτον, ἄταν δ’ ἀπάτ
+perseus-eng2 So let him look upon human outrageousness—in what way it shoots up men in their wooing of us, sprouted from thoughts of evil intent, having a frenzied purpose as its irresistible spur, and deluded, turning its thoughts to folly.
+
+cts:urn:tlg0085.tlg001:112
+glaux1.0-sentence	29
+perseus-grc2.tb	τοιαῦτα πάθεα μέλεα θρεομένα λέγω λιγέα βαρέα δακρυοπετῆ, ἰὴ ἰή, ἰηλέμοισιν ἐμπρεπῆ ·
+perseus-eng2 Such piteous strains of woe I utter in my pain, now shrill, now deep, blended with falling tears—Alas, alas! groans appropriate to funeral wails; though I live, I chant my own dirge.
+
+cts:urn:tlg0085.tlg001:115
+glaux1.0-sentence	30
+perseus-grc2.tb	θρεομένη μέλη ζῶσα γόοις με τιμῶ.
+perseus-eng2 Though I live, I chant my own dirge with laments.
+
+cts:urn:tlg0085.tlg001:117
+glaux1.0-sentence	31
+perseus-grc2.tb	ἱλεοῦμαι μὲν Ἀπίαν βοῦνιν, καρβᾶνα δ’ αὐδὰν εὖ, γᾶ, κοννεῖς.
+perseus-eng2 I invoke Apia’s hilly land—for well, O land, you understand my barbarous speech—,
+
+cts:urn:tlg0085.tlg001:120
+glaux1.0-sentence	32
+perseus-grc2.tb	πολλάκι δ’ ἐμπίτνω ξὺν λακίδι λινοσινεῖ Σιδονία καλύπτρᾳ.
+perseus-eng2 and many times I lay my hands upon my Sidonian veil and tear its linen fabric to shreds.
+
+cts:urn:tlg0085.tlg001:123
+glaux1.0-sentence	33
+perseus-grc2.tb	θεοῖς δ’ ἐναγέα τέλεα πελομένων καλῶς ἐπίδρομ’ ὁπόθι θάνατος ἀπῇ.
+perseus-eng2 Sacrifices in satisfaction of vows are given freely to the gods when all fares well, if only there be escape from death.
+
+cts:urn:tlg0085.tlg001:125
+glaux1.0-sentence	34
+perseus-grc2.tb	ἰὼ ἰώ, ἰὼ δυσάγκριτοι πόνοι.
+perseus-eng2 Alas, alas, perplexing troubles!
+
+cts:urn:tlg0085.tlg001:127
+glaux1.0-sentence	35
+perseus-grc2.tb	ποῖ τόδε κῦμ’ ἀπάξει;
+perseus-eng2 Where will this wave of trouble bear me away?
+
+cts:urn:tlg0085.tlg001:128
+glaux1.0-sentence	36
+perseus-grc2.tb	ἱλεοῦμαι μὲν Ἀπίαν βοῦνιν, καρβᾶνα δ’ αὐδὰν εὖ, γᾶ, κοννεῖς.
+perseus-eng2 I invoke Apia’s hilly land—for well, O land, you understand my barbarous speech—,
+
+cts:urn:tlg0085.tlg001:131
+glaux1.0-sentence	37
+perseus-grc2.tb	πολλάκι δ’ ἐμπίτνω ξὺν λακίδι λινοσινεῖ Σιδονίᾳ καλύπτρᾳ.
+perseus-eng2 and many times I lay my hands upon my Sidonian veil and tear its linen fabric to shreds.
+
+cts:urn:tlg0085.tlg001:134
+glaux1.0-sentence	38
+perseus-grc2.tb	πλάτα μὲν οὖν λινορραφής τε δόμος ἅλα στέγων δορὸς ἀχείματόν μ’ ἔπεμπε σὺν πνοαῖς ·
+perseus-eng2 Our oars, indeed, and our timbered ship, bound with yellow rope to withstand the sea, sped me on by help of favoring winds, unharmed by all tempests;
+
+cts:urn:tlg0085.tlg001:137
+glaux1.0-sentence	39
+perseus-grc2.tb	οὐδὲ μέμφομαι ·
+perseus-eng2 nor have I reason for complaint.
+
+cts:urn:tlg0085.tlg001:138
+glaux1.0-sentence	40
+perseus-grc2.tb	τελευτὰς δ’ ἐν χρόνῳ πατήρ μοι παντόπτας πρευμενεῖς κτίσειεν ,
+perseus-eng2 And may the all-seeing Father establish a kindly issue in due time—
+
+cts:urn:tlg0085.tlg001:141
+glaux1.0-sentence	41
+perseus-grc2.tb	σπέρμα σεμνᾶς μέγα ματρὸς εὐνὰς ἀνδρῶν , ἒ ἔ , ἄγαμον ἀδάματον ἐκφυγεῖν .
+perseus-eng2 That the mighty race of our honorable mother may escape the embrace of man (ah me), unwedded, unvanquished.
+
+cts:urn:tlg0085.tlg001:144
+glaux1.0-sentence	42
+perseus-grc2.tb	θέλουσα δ’ αὖ θέλουσαν ἁγνά μ’ ἐπιδέτω Διὸς κόρα , ἔχουσα σέμν’ ἐνώπι’ ἀσφαλῶς , παντὶ δὲ σθένει διωγμοῖς ἀσχαλῶσ’ ἀδμήτας ἀδμήτα ῥύσιος γενέσθω ,
+perseus-eng2 And may Zeus’ pure daughter, she who holds securely the sacred wall, willingly, meeting my will, look upon me; and, grieved at our pursuit, come with all her might, a virgin to a virgin’s aid, to deliver me —
+
+cts:urn:tlg0085.tlg001:151
+glaux1.0-sentence	43
+perseus-grc2.tb	σπέρμα σεμνᾶς μέγα ματρὸς εὐνὰς ἀνδρῶν , ἒ ἔ , ἄγαμον ἀδάματον ἐκφυγεῖν .
+perseus-eng2 That the mighty race of our honorable mother may escape the embrace of man (ah me), unwedded, unvanquished.
+
+cts:urn:tlg0085.tlg001:154
+glaux1.0-sentence	44
+perseus-grc2.tb	εἰ δὲ μή , μελανθὲς ἡλιόκτυπον γένος τὸν γάιον , τὸν πολυξενώτατον Ζῆνα τῶν κεκμηκότων ἱξόμεθα σὺν κλάδοις ἀρτάναις θανοῦσαι , μὴ τυχοῦσαι θεῶν Ὀλυμπίων .
+perseus-eng2 Yet, if she will not, we, a dark, sun-burned race, with suppliant boughs will invoke the underworld Zeus, Zeus the great host of the dead; for if the gods of Olympus hear us not, we will hang ourselves.
+
+cts:urn:tlg0085.tlg001:162
+glaux1.0-sentence	45
+perseus-grc2.tb	ἆ Ζήν , Ἰοῦς ἰῷ μῆνις μάστειρ’ ἐκ θεῶν ·
+perseus-eng2 Ah Zeus! On account of the poisonous hate of Io vengeance from the gods pursues us.
+
+cts:urn:tlg0085.tlg001:164
+glaux1.0-sentence	46
+perseus-grc2.tb	κοννῶ δ’ ἄγαν γαμετᾶς οὐρανόνι
+perseus-eng2 I know your consort’s sky-conquering spite; for a stormy sea follows a harsh wind.
+
+cts:urn:tlg0085.tlg001:166
+glaux1.0-sentence	47
+perseus-grc2.tb	χαλεποῦ γὰρ ἐκ πνεύματος εἶσι χειμών.
+perseus-eng2 For from a harsh spirit comes a stormy wind.
+
+cts:urn:tlg0085.tlg001:168
+glaux1.0-sentence	48
+perseus-grc2.tb	καὶ τότ’ οὐ δικαίοις Ζεὺς ἐνέξεται λόγοις, τὸν τᾶς βοὸς παῖδ’ ἀτιμάσας, τὸν αὐτός ποτ’ ἔκτισεν γόνῳ, νῦν ἔχων παλίντροπον ὄψιν ἐν λιταῖσιν;
+perseus-eng2 And then would Zeus not be just in his words, dishonoring the child of the cow, whom he himself once created, now turning his gaze away in our supplications?
+
+cts:urn:tlg0085.tlg001:175
+glaux1.0-sentence	49
+perseus-grc2.tb	ὑψόθεν δ’ εὖ κλύοι καλούμενος.
+perseus-eng2 May he hear us well from on high, as we call upon him.
+
+cts:urn:tlg0085.tlg001:162a
+glaux1.0-sentence	50
+perseus-grc2.tb	ἆ Ζήν, Ἰοῦς ἰῶ, μῆνις μάστειρ’ ἐκ θεῶν ·
+perseus-eng2 Ah Zeus, alas, alas, the avenger of wrath from the gods;
+
+cts:urn:tlg0085.tlg001:164a
+glaux1.0-sentence	51
+perseus-grc2.tb	κοννῶ δ’ ἄγαν γαμετᾶς οὐρανόνικον χαλεποῦ γὰρ ἐκ πνεύματος εἶσι χειμών.
+perseus-eng2 I know all too well the consort's sky-conquering anger, for from a harsh spirit comes a stormy wind.
+
+cts:urn:tlg0085.tlg001:176
+glaux1.0-sentence	52
+perseus-grc2.tb	παῖδες, φρονεῖν χρή ·
+perseus-eng2 My children, you must be prudent.
+
+cts:urn:tlg0085.tlg001:176
+glaux1.0-sentence	53
+perseus-grc2.tb	ξὺν φρονοῦντι δ’ ἥκετε πιστῷ γέροντι τῷ δε ναυκλήρῳ πατρί.
+perseus-eng2 A prudent captain of your voyage was your reliable old father here with whom you came.
+
+cts:urn:tlg0085.tlg001:178
+glaux1.0-sentence	54
+perseus-grc2.tb	καὶ τ- ἐπὶ χέρσου νῦν προμηθίαν λαβὼν αἰνῶ φυλάξαι τ- ἔμ’ ἔπη δελτουμένας.
+perseus-eng2 And now that I have considered with foresight what may befall us here on land, I charge you, record my injunctions on the tablets of your minds and guard them.
+
+cts:urn:tlg0085.tlg001:180
+glaux1.0-sentence	55
+perseus-grc2.tb	ὁρῶ κόνιν, ἄναυδον ἄγγελον στρατοῦ ·
+perseus-eng2 I see dust, the voiceless herald of an army;
+
+cts:urn:tlg0085.tlg001:181
+glaux1.0-sentence	56
+perseus-grc2.tb	σύριγγες οὐ σιγῶσιν ἀξονήλατοι ·
+perseus-eng2 the axle-driven wheels are not silent in their sockets.
+
+cts:urn:tlg0085.tlg001:182
+glaux1.0-sentence	57
+perseus-grc2.tb	ὄχλον δ’ ὑπασπιστῆρα καὶ δορυσσόον λεύσσω, ξὺν ἵπποις καμπύλοις τ’ ὀχήμασιν ·
+perseus-eng2 I behold a throng, armed with shields and holding spears, with steeds and curved chariots.
+
+cts:urn:tlg0085.tlg001:184
+glaux1.0-sentence	58
+perseus-grc2.tb	τάχ’ ἂν πρὸς ἡμᾶς τῆσδε γῆς ἀρχηγέται ὀπτῆρες εἶεν ἀγγέλων πεπυσμένοι.
+perseus-eng2 Perhaps they are the princes of the land come to look on us, informed by messengers.
+
+cts:urn:tlg0085.tlg001:186
+glaux1.0-sentence	59
+perseus-grc2.tb	ἀλλ’ εἴτ’ ἀπήμων εἴτε καὶ τεθηγμένος ὠμῇ ξὺν ὀργῇ τόνδ’ ἐπόρνυται στόλον, ἄμεινόν ἐστι παντὸς εἵνεκ’, ὦ κόραι, πάγον προσίζειν τόνδ’ ἀγωνίων θεῶν.
+perseus-eng2 But whether a harmless man or one driven by savage wrath rouses this expedition, it is better, damsels, in any case, to seat yourselves at that mound sacred to the assembled gods.
+
+cts:urn:tlg0085.tlg001:190
+glaux1.0-sentence	60
+perseus-grc2.tb	κρεῖσσον δὲ πύργου βωμός, ἄρρηκτον σάκος ἀλλ’ ὡς τάχιστα βᾶτε, καὶ λευκοστεφεῖς ἱκετηρίας, ἁγάλματ’ αἰδοίου Διός, σεμνῶς ἔχουσαι διὰ χερῶν εὐωνύμων, αἰδοῖα καὶ γοεδνὰ καὶ ζαχρε
+perseus-eng2 Stronger than a castle is an altar—an impenetrable shield. As quick as you can, gather in your left hands your white-wreathed suppliant boughs, sacred emblems of Zeus the merciful. Reply to the strangers, as is fitting for aliens, in piteous and plaintive language of necessity, telling them clearly of your flight, how it was unstained by deed of blood.
+
+cts:urn:tlg0085.tlg001:197
+glaux1.0-sentence	61
+perseus-grc2.tb	φθογγῇ δ’ ἑπέσθω πρῶτα μὲν τὸ μὴ θρασύ, τὸ μὴ μάταιον δ’ ἐκ μετωποσωφρόνων ἴτω προσώπων ὄμματος παρ’ ἡσύχου.
+perseus-eng2 Above all let no arrogance accompany your speech, and reveal nothing impious in your peaceful eyes, from your respectful face.
+
+cts:urn:tlg0085.tlg001:200
+glaux1.0-sentence	62
+perseus-grc2.tb	καὶ μὴ πρόλεσχος μηδ’ ἐφολκὸς ἐν λόγῳ γένῃ.
+perseus-eng2 In your speech neither interrupt, nor hesitate—
+
+cts:urn:tlg0085.tlg001:201
+glaux1.0-sentence	63
+perseus-grc2.tb	τὸ τῇδε κάρτ’ ἐπίφθονον γένος.
+perseus-eng2 for this would offend these people.
+
+cts:urn:tlg0085.tlg001:202
+glaux1.0-sentence	64
+perseus-grc2.tb	μέμνησο δ’ εἴκειν ·
+perseus-eng2 And remember to be submissive:
+
+cts:urn:tlg0085.tlg001:202
+glaux1.0-sentence	65
+perseus-grc2.tb	χρεῖος εἶ ξένη φυγάς.
+perseus-eng2 you are an alien, a fugitive, and in need.
+
+cts:urn:tlg0085.tlg001:203
+glaux1.0-sentence	66
+perseus-grc2.tb	θρασυστομεῖν γὰρ οὐ πρέπει τοὺς ἥσσονας .
+perseus-eng2 Bold speech does not suit the weak.
+
+cts:urn:tlg0085.tlg001:204
+glaux1.0-sentence	67
+perseus-grc2.tb	πάτερ , φρονούντως πρὸς φρονοῦντας ἐννέπεις .
+perseus-eng2 Father, your words are prudent, and they fall on prudent ears.
+
+cts:urn:tlg0085.tlg001:205
+glaux1.0-sentence	68
+perseus-grc2.tb	φυλάξομαι δὲ τάσδε μεμνῆσθαι σέθεν κεδνὰς ἐφετμάς.
+perseus-eng2 I will take heed of your wise words, and hold them in memory.
+
+cts:urn:tlg0085.tlg001:206
+glaux1.0-sentence	69
+perseus-grc2.tb	Ζεὺς δὲ γεννήτωρ ἴδοι ·
+perseus-eng2 May Zeus, the author of our race, behold us!
+
+cts:urn:tlg0085.tlg001:207
+glaux1.0-sentence	70
+perseus-grc2.tb	ἴδοιτο δῆτα πρευμενοῦς ἀπ’ ὄμματος ·
+perseus-eng2 May he indeed behold you, and with a gracious eye.
+
+cts:urn:tlg0085.tlg001:208
+glaux1.0-sentence	71
+perseus-grc2.tb	θέλοιμ’ ἂν ἤδη σοὶ πέλας θρόνους ἔχειν.
+perseus-eng2 I would like even now to be seated by your side.
+
+cts:urn:tlg0085.tlg001:209
+glaux1.0-sentence	72
+perseus-grc2.tb	μή νυν σχόλαζε, μηχανῆς δ’ ἔστω κράτος.
+perseus-eng2 Then do not delay, but put your purpose into action.
+
+cts:urn:tlg0085.tlg001:210
+glaux1.0-sentence	73
+perseus-grc2.tb	ὦ Ζεῦ, κόπων οἴκτιρε μὴ ἀπολωλότας.
+perseus-eng2 O Zeus, have pity upon our troubles lest we are ruined.
+
+cts:urn:tlg0085.tlg001:211
+glaux1.0-sentence	74
+perseus-grc2.tb	κείνου θέλοντος εὖ τελευτήσει τάδε.
+perseus-eng2 If he wishes it so, all will end well.
+
+cts:urn:tlg0085.tlg001:212
+glaux1.0-sentence	75
+perseus-grc2.tb	καὶ Ζηνὸς ὄρνιν τόνδε νῦν κικλῄσκετε.
+perseus-eng2 Invoke now also that bird of Zeus.
+
+cts:urn:tlg0085.tlg001:213
+glaux1.0-sentence	76
+perseus-grc2.tb	καλοῦμεν αὐγὰς ἡλίου σωτηρίους, — ἁγνόν τ’ Ἀπόλλω, φυγάδ’ ἀπ’ οὐρανοῦ θεόν.
+perseus-eng2 We invoke the saving beams of the sun, and pure Apollo too, who, though a god, was exiled once from heaven.
+
+cts:urn:tlg0085.tlg001:215
+glaux1.0-sentence	77
+perseus-grc2.tb	εἰδὼς ἂν αἶσαν τήνδε συγγνοίη βροτοῖς.
+perseus-eng2 Knowing our lot, he may well have pity on mortals.
+
+cts:urn:tlg0085.tlg001:216
+glaux1.0-sentence	78
+perseus-grc2.tb	συγγνοῖτο δῆτα καὶ παρασταίη πρόφρων.
+perseus-eng2 May he have pity indeed, and stand by ready to defend.
+
+cts:urn:tlg0085.tlg001:217
+glaux1.0-sentence	79
+perseus-grc2.tb	τίν’ οὖν κικλῄσκω τῶνδε δαιμόνων ἔτι;
+perseus-eng2 Whom, further, of these divinities must I invoke?
+
+cts:urn:tlg0085.tlg001:218
+glaux1.0-sentence	80
+perseus-grc2.tb	ὁρῶ τρίαιναν τήνδε σημεῖον θεοῦ.
+perseus-eng2 I behold a trident here, the token of its god.
+
+cts:urn:tlg0085.tlg001:219
+glaux1.0-sentence	81
+perseus-grc2.tb	ἀλλ’ εὖ τ’ ἔπεμψεν εὖ τε δεξάσθω χθονί.
+perseus-eng2 Well did he send us here and well may he receive us in this land.
+
+cts:urn:tlg0085.tlg001:220
+glaux1.0-sentence	82
+perseus-grc2.tb	Ἑρμῆς ὅδ’ ἄλλος τοῖσιν Ἑλλήνων νόμοις.
+perseus-eng2 Here, too, is Hermes, according to the Hellenic custom.
+
+cts:urn:tlg0085.tlg001:221
+glaux1.0-sentence	83
+perseus-grc2.tb	ἐλευθέροις νυν ἐσθλὰ κηρυκευέτω.
+perseus-eng2 May he then announce good tidings to the free!
+
+cts:urn:tlg0085.tlg001:222
+glaux1.0-sentence	84
+perseus-grc2.tb	πάντων δ’ ἀνάκτων τῶνδε κοινοβωμίαν σέβεσθ’ ·
+perseus-eng2 Honor to the mutual altar of all these protecting powers;
+
+cts:urn:tlg0085.tlg001:223
+glaux1.0-sentence	85
+perseus-grc2.tb	ἐν ἁγνῷ δ’ ἑσμὸς ὡς πελειάδων ἵζεσθε κίρκων τῶν ὁμοπτέρων φόβῳ, ἐχθρῶν ὁμαίμων καὶ μιαινόντων γένος.
+perseus-eng2 and seat yourselves on holy ground like a flock of doves in dread of hawks of the same feathered tribe—kindred, yet foes, who would defile their
+perseus-eng2 race.
+
+cts:urn:tlg0085.tlg001:226
+glaux1.0-sentence	86
+perseus-grc2.tb	ὄρνιθος ὄρνις πῶς ἂν ἁγνεύοι φαγών;
+perseus-eng2 If bird prey on bird, how can it be pure?
+
+cts:urn:tlg0085.tlg001:227
+glaux1.0-sentence	87
+perseus-grc2.tb	πῶς δ’ ἂν γαμῶν ἄκουσαν ἄκοντος πάρα ἁγνὸς γένοιτ’ ἄν;
+perseus-eng2 And how can man be pure who would seize from an unwilling father an unwilling bride?
+
+cts:urn:tlg0085.tlg001:228
+glaux1.0-sentence	88
+perseus-grc2.tb	οὐδὲ μὴ ’ν Ἅιδου θανὼν φύγῃ ματαίων αἰτίας, πράξας τάδε.
+perseus-eng2 For such an act, not even in Hades, after death, shall he escape arraignment for outrage.
+
+cts:urn:tlg0085.tlg001:230
+glaux1.0-sentence	89
+perseus-grc2.tb	κ- ἐκεῖ δικάζει τ- ἀπλακήματʼ, ὡς λόγος, Ζεὺς ἄλλος ἐν καμοῦσιν ὑστάτας δίκας.
+perseus-eng2 There also among the dead, so men tell, another Zeus holds a last judgment upon misdeeds.
+
+cts:urn:tlg0085.tlg001:232
+glaux1.0-sentence	90
+perseus-grc2.tb	σκοπεῖτε, κ- ἀμείβεσθε τόνδε τὸν τρόπον, ὅπως ἂν ὑμῖν πρᾶγος εὖ νικᾷ τόδε.
+perseus-eng2 Take heed and reply in this manner, that victory may attend your cause.
+
+cts:urn:tlg0085.tlg001:234
+glaux1.0-sentence	91
+perseus-grc2.tb	ποδαπὸν ὅμιλον τόνδ’ ἀνελληνόστολον πέπλοισι βαρβάροισι καὶ πυκνώμασι χλίοντα προσφωνοῦμεν;
+perseus-eng2 From where comes this band we address, clothed in foreign attire and luxuriating in closely-woven and barbaric robes?
+
+cts:urn:tlg0085.tlg001:236
+glaux1.0-sentence	92
+perseus-grc2.tb	οὐ γὰρ Ἀργολὶς ἐσθὴς γυναικῶν οὐδ’ ἀφ’ Ἑλλάδος τόπων.
+perseus-eng2 For your apparel is not that of the women of Argos, nor yet of any part of Hellas.
+
+cts:urn:tlg0085.tlg001:238
+glaux1.0-sentence	93
+perseus-grc2.tb	ὅπως δὲ χώραν οὔτε κηρύκων ὕπο, ἀπρόξενοί τε, νόσφιν ἡγητῶν, μολεῖν ἔτλητ’ ἀτρέστως, τοῦτο θαυμαστὸν πέλει.
+perseus-eng2 How you have gained courage thus fearlessly to come to this land, unheralded and friendless and without guides, this makes me wonder.
+
+cts:urn:tlg0085.tlg001:241
+glaux1.0-sentence	94
+perseus-grc2.tb	κλάδοι γε μὲν δὴ κατὰ νόμους ἀφικτόρων κεῖνται παρ’ ὑμῖν πρὸς θεοῖς ἀγωνίοις;
+perseus-eng2 And yet, truly, I see that branches usually carried by suppliants are laid by your side before the gods assembled here—as to this alone can Hellas guess with confidence.
+
+cts:urn:tlg0085.tlg001:243
+glaux1.0-sentence	95
+perseus-grc2.tb	μόνον τόδ’ Ἑλλὰς χθὼν συνοίσεται στόχῳ.
+perseus-eng2 As for the rest, there is still much I should with reason leave to conjecture, if your voice were not here to inform me.
+
+cts:urn:tlg0085.tlg001:244
+glaux1.0-sentence	96
+perseus-grc2.tb	καὶ τ- ἄλλα πόλλ’ ἔτ’ εἰκάσαι δίκαιον ἦν, εἰ μὴ παρόντι φθόγγος ἦν ὁ σημανῶν.
+perseus-eng2 You have not spoken falsely about our clothing.
+
+cts:urn:tlg0085.tlg001:246
+glaux1.0-sentence	97
+perseus-grc2.tb	εἴρηκας ἀμφὶ κόσμον ἀψευδῆ λόγον.
+perseus-eng2 But, for my part, how am I to address you?
+
+cts:urn:tlg0085.tlg001:247
+glaux1.0-sentence	98
+perseus-grc2.tb	ἐγὼ δὲ πρὸς σὲ πότερον ὡς ἔτην λέγω, ἢ
+perseus-eng2 As commoner, as spokesman, bearer of the sacred wand, or as ruler of the realm?
+
+cts:urn:tlg0085.tlg001:249
+glaux1.0-sentence	99
+perseus-grc2.tb	πρὸς ταῦτ’ ἀμείβου καὶ λέγ’ εὐθαρσὴς ἐμοί.
+perseus-eng2 As for that, answer and speak to me with confidence.
+
+cts:urn:tlg0085.tlg001:250
+glaux1.0-sentence	100
+perseus-grc2.tb	τοῦ γηγενοῦς γάρ εἰμ’ ἐγὼ Παλαίχθονος ἶνις Πελασγός, τῆσδε γῆς ἀρχηγέτης.
+perseus-eng2 For I am Pelasgus, offspring of Palaechthon, whom the earth brought forth, and lord of this land;
+
+cts:urn:tlg0085.tlg001:252
+glaux1.0-sentence	101
+perseus-grc2.tb	ἐμοῦ δ’ ἄνακτος εὐλόγως ἐπώνυμον γένος Πελασγῶν τήνδε καρποῦται χθόνα.
+perseus-eng2 and after me, their king, is rightly named the race of the Pelasgi, who harvest the land.
+
+cts:urn:tlg0085.tlg001:254
+glaux1.0-sentence	102
+perseus-grc2.tb	καὶ πᾶσαν αἶαν, ἧς δι’ ἁγνὸς ἔρχεται Στρυμών, τὸ πρὸς δύνοντος ἡλίου, κρατῶ.
+perseus-eng2 Of all the region through which the pure Strymon flows, on the side toward the setting sun, I am the lord.
+
+cts:urn:tlg0085.tlg001:256
+glaux1.0-sentence	103
+perseus-grc2.tb	ὁρίζομαι δὲ τήν τε Περραίβων χθόνα, Πίνδου τε τ- ἐπέκεινα, Παιόνων πέλας, ὄρη τε Δωδωναῖα.
+perseus-eng2 There lies within the limits of my rule the land of the Perrhaebi, the parts beyond Pindus close to the Paeonians, and the mountain ridge of Dodona;
+
+cts:urn:tlg0085.tlg001:258
+glaux1.0-sentence	104
+perseus-grc2.tb	συντέμνει δ’ ὅρος ὑγρᾶς θαλάσσης ·
+perseus-eng2 the edge of the watery sea borders my kingdom.
+
+cts:urn:tlg0085.tlg001:259
+glaux1.0-sentence	105
+perseus-grc2.tb	τῶνδε τ- ἐπὶ τάδε κρατῶ.
+perseus-eng2 I rule up to these boundaries.
+
+cts:urn:tlg0085.tlg001:260
+glaux1.0-sentence	106
+perseus-grc2.tb	αὐτῆς δὲ χώρας Ἀπίας πέδον τόδε πάλαι κέκληται φωτὸς ἰατροῦ χάριν.
+perseus-eng2 The ground where we stand is Apian land itself, and has borne that name since antiquity in honor of a healer.
+
+cts:urn:tlg0085.tlg001:262
+glaux1.0-sentence	107
+perseus-grc2.tb	Ἆπις γὰρ ἐλθὼν ἐκ πέρας Ναυπακτίας ἰατρόμαντ
+perseus-eng2 For Apis, coming from Naupactus in the far land, seer and healer, son of Apollo, purified this land of monsters deadly to man, which Earth, defiled by the pollution of ancient blood, had caused to spring up—plagues charged with wrath, an ominous colony of swarming serpents.
+
+cts:urn:tlg0085.tlg001:268
+glaux1.0-sentence	108
+perseus-grc2.tb	τούτων ἄκη τομαῖα καὶ λυτήρια πράξας ἀμέμπτως Ἆπις Ἀργείᾳ χθονὶ μνήμην ποτ’ ἀντίμισθον ηὕρετ’ ἐν λιταῖς.
+perseus-eng2 Of these plagues Apis worked the cure by sorcery and spells to the content of the Argive land, and for reward thereafter earned for himself remembrance in prayers.
+
+cts:urn:tlg0085.tlg001:271
+glaux1.0-sentence	109
+perseus-grc2.tb	ἔχουσα δ’ ἤδη τ- ἄπʼ ἐμοῦ τεκμήρια γένος τ’ ἂν ἐξεύχοιο καὶ λέγοις πρόσω.
+perseus-eng2 Now that you have my testimony, declare your lineage and speak further—
+
+cts:urn:tlg0085.tlg001:273
+glaux1.0-sentence	110
+perseus-grc2.tb	μακράν γε μὲν δὴ ῥῆσιν οὐ στέργει πόλις .
+perseus-eng2 yet our people do not take pleasure in long discourse.
+
+cts:urn:tlg0085.tlg001:274
+glaux1.0-sentence	111
+perseus-grc2.tb	βραχὺς τορός θ’ ὁ μῦθος ·
+perseus-eng2 Our tale is brief and clear.
+
+cts:urn:tlg0085.tlg001:274
+glaux1.0-sentence	112
+perseus-grc2.tb	Ἀργεῖαι γένος ἐξευχόμεσθα, σπέρματ’ εὐτέκνου βοός ·
+perseus-eng2 Argives we claim to be by birth, offspring of a cow blest in its children.
+
+cts:urn:tlg0085.tlg001:276
+glaux1.0-sentence	113
+perseus-grc2.tb	καὶ ταῦτ’ ἀληθῆ πάντα προσφύσω λόγῳ.
+perseus-eng2 And the truth of this I shall confirm in full.
+
+cts:urn:tlg0085.tlg001:277
+glaux1.0-sentence	114
+perseus-grc2.tb	ἄπιστα μυθεῖσθ’, ὦ ξέναι, κλύειν ἐμοί, ὅπως τόδ’ ὑμῖν ἐστιν Ἀργεῖον γένος.
+perseus-eng2 Foreign maidens, your tale is beyond my belief—how your race can be from Argos.
+
+cts:urn:tlg0085.tlg001:279
+glaux1.0-sentence	115
+perseus-grc2.tb	Λιβυστικαῖς γὰρ μᾶλλον ἐμφερέστεραι γυναιξίν ἐστε κ- οὐδαμῶς ἐγχωρίαις.
+perseus-eng2 For you are more similar to the women of Libya and in no way similar to those native to our land.
+
+cts:urn:tlg0085.tlg001:281
+glaux1.0-sentence	116
+perseus-grc2.tb	Καὶ Νεῖλος ἂν θρέψειε τοιοῦτον φυτόν, Κύπριος χαρακτήρ τ’
+perseus-eng2 The Nile, too, might foster such a stock, and like yours is the Cyprian impress stamped upon female images by male craftsmen.
+
+cts:urn:tlg0085.tlg001:284
+glaux1.0-sentence	117
+perseus-grc2.tb	τοίας τ’ ἀκούω νομάδας ἱπποβάμοσιν εἶναι καμήλοις ἀστραβιζούσας, χθόνα παρ’ Αἰθίοψιν ἀστυγειτονουμένας.
+perseus-eng2 And of such aspect, I have heard, are nomad women, who ride on camels for steeds, having padded saddles, and dwell in a land neighboring the Aethiopians.
+
+cts:urn:tlg0085.tlg001:287
+glaux1.0-sentence	118
+perseus-grc2.tb	καὶ τὰς ἀνάνδρους κρεοβόρους τ’ Ἀμαζόνας, εἰ τοξοτευχεῖς ἦτε, κάρτ’ ἂν ᾔκασα ὑμᾶς.
+perseus-eng2 And had you been armed with the bow, certainly I would have guessed you to be the unwed, flesh-devouring Amazons.
+
+cts:urn:tlg0085.tlg001:289
+glaux1.0-sentence	119
+perseus-grc2.tb	διδαχθεὶς δ’ ἂν τόδ’ εἰδείην πλέον, ὅπως γένεθλον σπέρμα τ’ Ἀργεῖον τὸ σόν.
+perseus-eng2 But inform me, and I will better comprehend how it is that you trace your race and lineage from Argos.
+
+cts:urn:tlg0085.tlg001:291
+glaux1.0-sentence	120
+perseus-grc2.tb	κλῃδοῦχον Ἥρας φασὶ δωμάτων ποτὲ Ἰὼ γενέσθαι τῇ δ’ ἐν Ἀργείᾳ χθονί;
+perseus-eng2 Is there a report that once in this land of Argos Io was ward of Hera’s house?
+
+cts:urn:tlg0085.tlg001:293
+glaux1.0-sentence	121
+perseus-grc2.tb	ἦν ὡς μάλιστα, καὶ φάτις πολλὴ κρατεῖ.
+perseus-eng2 Certainly she was; the tradition prevails far and wide.
+
+cts:urn:tlg0085.tlg001:295
+glaux1.0-sentence	122
+perseus-grc2.tb	μὴ καὶ λόγος τις Ζῆνα μειχθῆναι βροτῷ;
+perseus-eng2 And is there some story, too, that Zeus was joined in love with a mortal?
+
+cts:urn:tlg0085.tlg001:296
+glaux1.0-sentence	123
+perseus-grc2.tb	κ- ἄκρυπτα γ’ Ἥρας ταῦτα τ-
+perseus-eng2 This entanglement was not secret from Hera.
+
+cts:urn:tlg0085.tlg001:297
+glaux1.0-sentence	124
+perseus-grc2.tb	πῶς οὖν τελευτᾷ βασιλέων νείκη τάδε;
+perseus-eng2 What then was the result of this royal strife?
+
+cts:urn:tlg0085.tlg001:298
+glaux1.0-sentence	125
+perseus-grc2.tb	βοῦν τὴν γυναῖκ’ ἔθηκεν Ἀργεία θεός.
+perseus-eng2 The goddess of Argos transformed the woman into a cow.
+
+cts:urn:tlg0085.tlg001:300
+glaux1.0-sentence	126
+perseus-grc2.tb	οὔκουν πελάζει Ζεὺς ἐπ’ εὐκραίρῳ βοΐ;
+perseus-eng2 And while she was a horned cow, did not Zeus approach her?
+
+cts:urn:tlg0085.tlg001:301
+glaux1.0-sentence	127
+perseus-grc2.tb	φασίν, πρέποντα βουθόρῳ ταύρῳ δέμας.
+perseus-eng2 So they say, making his form that of a bull lusting for a mate.
+
+cts:urn:tlg0085.tlg001:302
+glaux1.0-sentence	128
+perseus-grc2.tb	τί δῆτα πρὸς ταῦτ’ ἄλοχος ἰσχυρὰ Διός;
+perseus-eng2 What answer then did Zeus’ stubborn consort give?
+
+cts:urn:tlg0085.tlg001:303
+glaux1.0-sentence	129
+perseus-grc2.tb	τὸν πάνθ’ ὁρῶντα φύλακ’ ἐπέστησεν βοΐ.
+perseus-eng2 She placed the all-seeing one to stand watch over the cow.
+
+cts:urn:tlg0085.tlg001:304
+glaux1.0-sentence	130
+perseus-grc2.tb	ποῖον πανόπτην οἰοβουκόλον λέγεις;
+perseus-eng2 What manner of all-seeing herdsman with a single duty do you mean?
+
+cts:urn:tlg0085.tlg001:305
+glaux1.0-sentence	131
+perseus-grc2.tb	Ἄργον, τὸν Ἑρμῆς παῖδα γῆς κατέκτανεν.
+perseus-eng2 Argus, a son of Earth, whom Hermes slew.
+
+cts:urn:tlg0085.tlg001:306
+glaux1.0-sentence	132
+perseus-grc2.tb	τί οὖν ἔτευξεν ἄλλο δυσπότμῳ βοΐ;
+perseus-eng2 What else did she contrive against the unfortunate cow?
+
+cts:urn:tlg0085.tlg001:307
+glaux1.0-sentence	133
+perseus-grc2.tb	βοηλάτην μύωπα κινητήριον.
+perseus-eng2 A sting, torment of cattle, constantly driving her on.
+
+cts:urn:tlg0085.tlg001:308
+glaux1.0-sentence	134
+perseus-grc2.tb	οἶστρον καλοῦσιν αὐτὸν οἱ Νείλου πέλας.
+perseus-eng2 They call it a gadfly, those who dwell by the Nile.
+
+cts:urn:tlg0085.tlg001:309
+glaux1.0-sentence	135
+perseus-grc2.tb	τοιγάρ νιν ἐκ γῆς ἤλασεν μακρῷ δρόμῳ.
+perseus-eng2 Well then, it drove her by a long course out of the land.
+
+cts:urn:tlg0085.tlg001:310
+glaux1.0-sentence	136
+perseus-grc2.tb	καὶ ταῦτ’ ἔλεξας πάντα συγκόλλως ἐμοί.
+perseus-eng2 Your account agrees with mine in all respects.
+
+cts:urn:tlg0085.tlg001:311
+glaux1.0-sentence	137
+perseus-grc2.tb	καὶ μὴν Κάνωβον κ- ἐπὶ Μέμφιν ἵκετο.
+perseus-eng2 So she came to Canobus and to Memphis.
+
+cts:urn:tlg0085.tlg001:312
+glaux1.0-sentence	138
+perseus-grc2.tb	καὶ Ζεύς γ’ ἐφάπτωρ χειρὶ φιτύει γόνον.
+perseus-eng2 And Zeus begot a son by the touching of his hand.
+
+cts:urn:tlg0085.tlg001:313
+glaux1.0-sentence	139
+perseus-grc2.tb	τίς οὖν ὁ Δῖος πόρτις εὔχεται βοός;
+perseus-eng2 Who is it then that claims to be the cow's Zeus-begotten calf?
+
+cts:urn:tlg0085.tlg001:315
+glaux1.0-sentence	140
+perseus-grc2.tb	Ἔπαφος ἀληθῶς ῥυσίων ἐπώνυμος.
+perseus-eng2 Epaphus, and truly named from laying on of hands.
+
+cts:urn:tlg0085.tlg001:317
+glaux1.0-sentence	141
+perseus-grc2.tb	Λιβύη, μέγιστον γῆς πέδον καρπουμένη.
+perseus-eng2 And who was begotten of Epaphus? Libya, who reaps the fruit of the largest portion of the earth.
+
+cts:urn:tlg0085.tlg001:318
+glaux1.0-sentence	142
+perseus-grc2.tb	τίν’ οὖν ἔτ’ ἄλλον τῆσδε βλαστημὸν λέγεις;
+perseus-eng2 What offspring, then, did Libya have?
+
+cts:urn:tlg0085.tlg001:319
+glaux1.0-sentence	143
+perseus-grc2.tb	Βῆλον δίπαιδα πατέρα τοῦδ’ ἐμοῦ πατρός.
+perseus-eng2 Agenor was her first child born.
+
+cts:urn:tlg0085.tlg001:320
+glaux1.0-sentence	144
+perseus-grc2.tb	τὸ πάνσοφον νῦν ὄνομα τοῦτό μοι φράσον.
+perseus-eng2 And who was his offspring?
+
+cts:urn:tlg0085.tlg001:321
+glaux1.0-sentence	145
+perseus-grc2.tb	Δαναός, ἀδελφὸς δ’ ἐστὶ πεντηκοντάπαις.
+perseus-eng2 Belus, who had two sons and was father of my father here.
+
+cts:urn:tlg0085.tlg001:322
+glaux1.0-sentence	146
+perseus-grc2.tb	καὶ τοῦδ’ ἄνοιγε τ- ὄνομʼ ἀφθόνῳ λόγῳ.
+perseus-eng2 Now tell me his wisely-given name.
+
+cts:urn:tlg0085.tlg001:323
+glaux1.0-sentence	147
+perseus-grc2.tb	Αἴγυπτος.
+perseus-eng2 Reveal his name ungrudgingly.
+
+cts:urn:tlg0085.tlg001:323
+glaux1.0-sentence	148
+perseus-grc2.tb	εἰδὼς δ’ ἁμὸν ἀρχαῖον γένος πράσσοις ἂν ὡς Ἀργεῖον ἀνστήσῃς στόλον.
+perseus-eng2 Aegyptus; and now that you know my ancient lineage, I pray you to help a band that is Argive by descent.
+
+cts:urn:tlg0085.tlg001:325
+glaux1.0-sentence	149
+perseus-grc2.tb	δοκεῖτε δή μοι τῆσδε κοινωνεῖν χθονὸς τ- ἀρχαῖον.
+perseus-eng2 I think you indeed have some share in this land from old.
+
+cts:urn:tlg0085.tlg001:326
+glaux1.0-sentence	150
+perseus-grc2.tb	ἀλλὰ πῶς πατρῷα δώματα λιπεῖν ἔτλητε;
+perseus-eng2 But how did you bring yourselves to leave the home of your fathers?
+
+cts:urn:tlg0085.tlg001:327
+glaux1.0-sentence	151
+perseus-grc2.tb	τίς κατέσκηψεν τύχη;
+perseus-eng2 What stroke of fortune befell you?
+
+cts:urn:tlg0085.tlg001:328
+glaux1.0-sentence	152
+perseus-grc2.tb	ἄναξ Πελασγῶν, αἰόλ’ ἀνθρώπων κακά.
+perseus-eng2 Lord of the Pelasgians, of varying color are the ills of mankind,
+
+cts:urn:tlg0085.tlg001:329
+glaux1.0-sentence	153
+perseus-grc2.tb	πόνου δ’ ἴδοις ἂν οὐδαμοῦ τ- αὐτὸν πτερόν;
+perseus-eng2 and nowhere can you find trouble of the same plume.
+
+cts:urn:tlg0085.tlg001:330
+glaux1.0-sentence	154
+perseus-grc2.tb	ἐπεὶ τίς ηὔχει τήνδ’ ἀνέλπιστον φυγὴν κέλσειν ἐς Ἄργος κῆδος ἐγγενὲς τὸ πρίν, ἔχθει μεταπτοιοῦσαν εὐναίων γάμων;
+perseus-eng2 For who dreamed that a kindred race, sprung of old, would thus in unexpected flight find haven at Argos, fleeing in terror through loathing of the marriage-bed?
+
+cts:urn:tlg0085.tlg001:333
+glaux1.0-sentence	155
+perseus-grc2.tb	τί φὴς ἱκνεῖσθαι τῶνδ’ ἀγωνίων θεῶν, λευκοστεφεῖς ἔχουσα νεοδρέπτους κλάδους;
+perseus-eng2 Why have you come as suppliants of these gods congregated here, holding in your hands those white-wreathed, fresh-plucked boughs?
+
+cts:urn:tlg0085.tlg001:335
+glaux1.0-sentence	156
+perseus-grc2.tb	ὡς μὴ γένωμαι δμωὶς Αἰγύπτου γένει.
+perseus-eng2 So as not to be made slave to Aegyptus’ race.
+
+cts:urn:tlg0085.tlg001:336
+glaux1.0-sentence	157
+perseus-grc2.tb	πότερα κατ’ ἔχθραν, ἢ τὸ μὴ θέμις λέγεις;
+perseus-eng2 By reason of hatred? Or do you speak of unlawfulness?
+
+cts:urn:tlg0085.tlg001:337
+glaux1.0-sentence	158
+perseus-grc2.tb	τίς δ’ ἂν φίλους ὠνοῖτο τοὺς κε
+perseus-eng2 Who would purchase their lords from among their kin?
+
+cts:urn:tlg0085.tlg001:338
+glaux1.0-sentence	159
+perseus-grc2.tb	σθένος μὲν οὕτως μεῖζον αὔξεται βροτοῖς.
+perseus-eng2 In this way families have enhanced their power.
+
+cts:urn:tlg0085.tlg001:339
+glaux1.0-sentence	160
+perseus-grc2.tb	καὶ δυστυχούντων γ’ εὐμαρὴς ἀπαλλαγή.
+perseus-eng2 And it is easy then, if things go ill, to separate from a wife.
+
+cts:urn:tlg0085.tlg001:340
+glaux1.0-sentence	161
+perseus-grc2.tb	πῶς οὖν πρὸς ὑμᾶς εὐσεβὴς ἐγὼ πέλω;
+perseus-eng2 How then am I to deal with you in accordance with my sacred duty?
+
+cts:urn:tlg0085.tlg001:341
+glaux1.0-sentence	162
+perseus-grc2.tb	αἰτοῦσι μὴ ’κδοὺς παισὶν Αἰγύπτου πάλιν.
+perseus-eng2 By not surrendering us at the demand of Aegyptus’ sons.
+
+cts:urn:tlg0085.tlg001:342
+glaux1.0-sentence	163
+perseus-grc2.tb	βαρέα σύ γ’ εἶπας, πόλεμον ἄρασθαι νέον.
+perseus-eng2 A serious request—to take upon myself a dangerous war.
+
+cts:urn:tlg0085.tlg001:343
+glaux1.0-sentence	164
+perseus-grc2.tb	ἀλλ’ ἡ δίκη γε ξυμμάχων ὑπερστατεῖ.
+perseus-eng2 But Justice protects her champions.
+
+cts:urn:tlg0085.tlg001:344
+glaux1.0-sentence	165
+perseus-grc2.tb	εἴπερ γ’ ἀπ’ ἀρχῆς πραγμάτων κοινωνὸς ἦν.
+perseus-eng2 True, if she had a share in the matter from the beginning.
+
+cts:urn:tlg0085.tlg001:345
+glaux1.0-sentence	166
+perseus-grc2.tb	αἰδοῦ σὺ πρύμναν πόλεος ὧδ’ ἐστεμμένην.
+perseus-eng2 Show reverence for the ship of state thus crowned.
+
+cts:urn:tlg0085.tlg001:346
+glaux1.0-sentence	167
+perseus-grc2.tb	πέφρικα λεύσσων τάσδ’ ἕδρας κατασκίους.
+perseus-eng2 I shrink as I gaze upon these shaded shrines.
+
+cts:urn:tlg0085.tlg001:347
+glaux1.0-sentence	168
+perseus-grc2.tb	βαρύς γε μέντοι Ζηνὸς ἱκεσίου κότος.
+perseus-eng2 Yet heavy is the wrath of Zeus, god of the suppliant.
+
+cts:urn:tlg0085.tlg001:348
+glaux1.0-sentence	169
+perseus-grc2.tb	Παλαίχθονος τέκος, κλῦθί μου πρόφρονι καρδίᾳ, Πελασγῶν ἄναξ.
+perseus-eng2 Son of Palaechthon, lord of the Pelasgians, hear me with a benign heart.
+
+cts:urn:tlg0085.tlg001:350
+glaux1.0-sentence	170
+perseus-grc2.tb	ἴδε με τὰν ἱκέτιν φυγάδα περίδρομον, λυκοδίωκτον ὡς δάμαλ
+perseus-eng2 Behold me, your suppliant, a fugitive, running around like a heifer chased by wolves upon precipitous crags, where, confident in his help, she lows to tell the herdsman of her distress.
+
+cts:urn:tlg0085.tlg001:354
+glaux1.0-sentence	171
+perseus-grc2.tb	ὁρῶ κλάδοισι νεοδρόποις κατάσκιον νεύονθ’ ὅμιλον τόνδ’ ἀγωνίων θεῶν.
+perseus-eng2 I see a company of assembled gods assenting beneath the shade of fresh-plucked boughs.
+
+cts:urn:tlg0085.tlg001:356
+glaux1.0-sentence	172
+perseus-grc2.tb	εἴη δ’ ἄνατον πρᾶγμα τοῦτ’ ἀστοξένων.
+perseus-eng2 Nevertheless, may this affair of claimants to the friendship of our city bring no mischief in its wake!
+
+cts:urn:tlg0085.tlg001:357
+glaux1.0-sentence	173
+perseus-grc2.tb	μηδ’ ἐξ ἀέλπτων κ- ἀπρομηθήτων πόλει νεῖκος γένηται ·
+perseus-eng2 And let no feud come upon the state from causes unforeseen and unforestalled;
+
+cts:urn:tlg0085.tlg001:358
+glaux1.0-sentence	174
+perseus-grc2.tb	τῶν γὰρ οὐ δεῖται πόλις.
+perseus-eng2 for the state has no need of such trouble.
+
+cts:urn:tlg0085.tlg001:359
+glaux1.0-sentence	175
+perseus-grc2.tb	ἴδοιτο δῆτ’ ἄνατον φυγὰν ἱκεσία Θέμις Διὸς κλαρίου.
+perseus-eng2 May Justice, daughter of Zeus the Apportioner, look upon our flight that it bring no mischief in its wake.
+
+cts:urn:tlg0085.tlg001:361
+glaux1.0-sentence	176
+perseus-grc2.tb	σὺ δὲ παρ’ ὀψιγόνου μάθε γεραιόφρων·
+perseus-eng2 But you, aged in experience, learn from one of younger birth.
+
+cts:urn:tlg0085.tlg001:362
+glaux1.0-sentence	177
+perseus-grc2.tb	ποτιτρόπαιον αἰδόμενος οὖνπερ ἱεροδόκα θεῶν λήματ’ ἀπ’ ἀνδρὸς ἁγνοῦ.
+perseus-eng2 If you show mercy to a suppliant, as is due, respecting the sacred will of the gods from a man of holiness.
+
+cts:urn:tlg0085.tlg001:365
+glaux1.0-sentence	178
+perseus-grc2.tb	οὔτοι κάθησθε δωμάτων ἐφέστιοι ἐμῶν.
+perseus-eng2 It is not my own house at whose hearth you sit.
+
+cts:urn:tlg0085.tlg001:366
+glaux1.0-sentence	179
+perseus-grc2.tb	τὸ κοινὸν δ’ εἰ μιαίνεται πόλις, ξυνῇ μελέσθω λαὸς ἐκπονεῖν ἄκη.
+perseus-eng2 If the state is stained by pollution in its commonalty, in common let the people strive to work out the cure.
+
+cts:urn:tlg0085.tlg001:368
+glaux1.0-sentence	180
+perseus-grc2.tb	ἐγὼ δ’ ἂν οὐ κραίνοιμ’ ὑπόσχεσιν πάρος, ἀστοῖς δὲ πᾶσι τῶνδε κοινώσας πέρι.
+perseus-eng2 For myself, I will pledge no promise before I have communicated these events to all the citizens.
+
+cts:urn:tlg0085.tlg001:370
+glaux1.0-sentence	181
+perseus-grc2.tb	σύ τοι πόλις, σὺ δὲ τὸ δάμιον.
+perseus-eng2 You are the state, you are the people.
+
+cts:urn:tlg0085.tlg001:371
+glaux1.0-sentence	182
+perseus-grc2.tb	πρύτανις ἄκριτος ὤν, κρατύνεις βωμόν, ἑστίαν χθονός, μονοψήφοισι νεύμασιν σέθεν, μονοσκήπτροισι δ’ ἐν θρόνοις χρέος πᾶν ἐπικραίνεις·
+perseus-eng2 Being subject to no judge, you rule the altar, your country’s hearth by your will’s sole ordinance; and, enthroned in sole sovereignty, you determine every issue.
+
+cts:urn:tlg0085.tlg001:375
+glaux1.0-sentence	183
+perseus-grc2.tb	ἄγος φυλάσσου.
+perseus-eng2 Beware pollution!
+
+cts:urn:tlg0085.tlg001:376
+glaux1.0-sentence	184
+perseus-grc2.tb	ἄγος μὲν εἴη τοῖς ἐμοῖς παλιγκότοις, ὑμῖν δ’ ἀρήγειν οὐκ ἔχω βλάβης ἄτερ.
+perseus-eng2 Pollution on my enemies! But without harm I do not know how to help you.
+
+cts:urn:tlg0085.tlg001:378
+glaux1.0-sentence	185
+perseus-grc2.tb	οὐδ’ αὖ τόδ’ ε
+perseus-eng2 And yet again, it is not well advised to slight these supplications.
+
+cts:urn:tlg0085.tlg001:379
+glaux1.0-sentence	186
+perseus-grc2.tb	ἀμηχανῶ δὲ καὶ φόβος μ’ ἔχει φρένας δρᾶσαί τε μὴ δρᾶσαί τε καὶ τύχην ἑλεῖν.
+perseus-eng2 I am perplexed, and fear possesses my soul whether to act, or not to act and take what fortune sends.
+
+cts:urn:tlg0085.tlg001:381
+glaux1.0-sentence	187
+perseus-grc2.tb	τὸν ὑψόθεν σκοπὸν ἐπισκόπει, φύλακα πολυπόνων βροτῶν, οἳ τοῖς πέλας προσήμενοι δίκας οὐ τυγχάνουσιν ἐννόμου.
+perseus-eng2 Look to him who looks down from above, to him, the guardian of mortals sore-distressed, who appeal to their neighbors, yet do not obtain the justice that is their right.
+
+cts:urn:tlg0085.tlg001:385
+glaux1.0-sentence	188
+perseus-grc2.tb	μένει τοι Ζηνὸς ἱκταίου κότος δυσπαραθέλκτους παθόντος οἴκτοις.
+perseus-eng2 The wrath of Zeus, the suppliant’s god, remains, and will not be softened by a sufferer’s complaints.
+
+cts:urn:tlg0085.tlg001:387
+glaux1.0-sentence	189
+perseus-grc2.tb	εἴ τοι κρατοῦσι παῖδες Αἰγύπτου σέθεν νόμῳ πόλεως, φάσκοντες ἐγγύτατα γένους εἶναι, τίς ἂν τοῖσδ’ ἀντιωθῆναι θέλοι;
+perseus-eng2 If the sons of Aegyptus have authority over you by the law of your country, claiming that they are nearest of kin, who would wish to contest it?
+
+cts:urn:tlg0085.tlg001:390
+glaux1.0-sentence	190
+perseus-grc2.tb	δεῖ τοί σε φεύγειν κατὰ νόμους τοὺς οἴκοθεν, ὡς οὐκ ἔχουσιν κῦρος οὐδὲν ἀμφὶ σοῦ.
+perseus-eng2 You must plead in accordance with the laws of the land you have fled, that they have no authority over you.
+
+cts:urn:tlg0085.tlg001:392
+glaux1.0-sentence	191
+perseus-grc2.tb	μή τί ποτ’ οὖν γενοίμαν ὑποχείριος κράτεσιν ἀρσένων.
+perseus-eng2 Never, oh never, may I fall subject to the power and authority of these men.
+
+cts:urn:tlg0085.tlg001:393
+glaux1.0-sentence	192
+perseus-grc2.tb	ὕπαστρον δέ τοι μῆχαρ ὁρίζομαι γάμου δύσφρονος φυγάν·
+perseus-eng2 I am determined to flee to escape this marriage that offends my soul, piloting my course by the stars.
+
+cts:urn:tlg0085.tlg001:395
+glaux1.0-sentence	193
+perseus-grc2.tb	ξύμμαχον δ’ ἑλόμενος δίκαν κρῖνε σέβας τὸ πρὸς θεῶν.
+perseus-eng2 Take Justice as your ally, and render judgment for the cause deemed righteous by the gods.
+
+cts:urn:tlg0085.tlg001:397
+glaux1.0-sentence	194
+perseus-grc2.tb	οὐκ εὔκριτον τὸ κρῖμα.
+perseus-eng2 The judgment is not easy—do not make me the judge.
+
+cts:urn:tlg0085.tlg001:397
+glaux1.0-sentence	195
+perseus-grc2.tb	μή μ’ αἱροῦ κριτήν.
+perseus-eng2 I have declared already that, though I am ruler, I will not do this thing without the consent of my people.
+
+cts:urn:tlg0085.tlg001:398
+glaux1.0-sentence	196
+perseus-grc2.tb	εἶπον δὲ καὶ πρίν, οὐκ ἄνευ δήμου τάδε πράξαιμ’ ἄν, οὐδέ περ κρατῶν, μὴ καί ποτε εἴπῃ λεώς, εἴ πού τι μὴ τοῖον τύχοι, ἐπήλυδας τιμῶν ἀπώλεσας πόλιν.
+perseus-eng2 lest hereafter, if any evil befall, the people should say, "You honored aliens and brought ruin upon your own land."
+
+cts:urn:tlg0085.tlg001:402
+glaux1.0-sentence	197
+perseus-grc2.tb	ἀμφοτέρους ὁμαίμων τάδ’ ἐπισκοπεῖ Ζεὺς ἑτερορρεπής, νέμων εἰκότως ἄδικα μὲν κακοῖς, ὅσια δ’ ἐννόμοις.
+perseus-eng2 Kindred to both in blood, Zeus surveys both sides alike in this dispute with an impartial scale, apportioning, as is due, to the wicked their wrongdoing and to the godly their works of righteousness.
+
+cts:urn:tlg0085.tlg001:405
+glaux1.0-sentence	198
+perseus-grc2.tb	τί τῶνδ’ ἐξ ἴσου ῥεπομένων μεταλγεῖς τὸ δίκαιον ἔρξας;
+perseus-eng2 When these things are thus equally balanced, why do you fear to act justly?
+
+cts:urn:tlg0085.tlg001:407
+glaux1.0-sentence	199
+perseus-grc2.tb	δεῖ τοι βαθείας φροντίδος σωτηρίου, δίκην κολυμβητῆρος, ἐς βυθὸν μολεῖν δεδορκὸς ὄμμα, μηδ’ ἄγαν ᾠνωμένον, ὅπως ἄνατα ταῦτα πρῶτα μὲν πόλει, αὐτοῖσί θ’ ἡμῖν ἐκτελευτήσει καλῶς, καὶ μήτε δῆρις ῥυσίων ἐφάψεται μήτ’ ἐν θεῶν ἕδραισιν ὧδ’ ἱδρυμένας ἐκδόντες ὑμᾶς τὸν πανώλεθρον θεὸν βαρὺν ξύνοικον θησόμεσθ’ ἀλάστορα, ὃς οὐδ’ ἐν Ἅιδου τὸν θανόντ’ ἐλευθεροῖ.
+perseus-eng2 You need deep, lifesaving thought, like a diver to the bottom of the sea, clear-eyed, not overly confident, to ensure that these issues first end well for the city and for us, and that neither the wrath of the gods be kindled by our actions nor, by giving you up, we make our city the dwelling of an all-destructive, heavy curse, a vindictive god who does not even free his victim in death.
+
+cts:urn:tlg0085.tlg001:417
+glaux1.0-sentence	200
+perseus-grc2.tb	μῶν οὐ δοκεῖ δεῖν φροντίδος σωτηρίου;
+perseus-eng2 Surely you cannot think there is no need of salutary counsel?
+
+cts:urn:tlg0085.tlg001:418
+glaux1.0-sentence	201
+perseus-grc2.tb	φρόντισον καὶ γενοῦ πανδίκως εὐσεβὴς πρόξενος ·
+perseus-eng2 Consider the situation and become a universally just and pious protector.
+
+cts:urn:tlg0085.tlg001:420
+glaux1.0-sentence	202
+perseus-grc2.tb	τὰν φυγάδα μὴ προδῷς, τὰν ἕκαθεν ἐκβολαῖς δυσθέοις ὀρμέναν ·
+perseus-eng2 Do not betray the fugitive, one who has fled from cruel banishments.
+
+cts:urn:tlg0085.tlg001:423
+glaux1.0-sentence	203
+perseus-grc2.tb	μηδ’ ἴδῃς μ’ ἐξ ἑδρᾶν πολυθέων ῥυσιασθεῖσαν, ὦ πᾶν κράτος ἔχων χθονός.
+perseus-eng2 Nor let me be torn from these many-godded seats, you who hold all power over this land.
+
+cts:urn:tlg0085.tlg001:426
+glaux1.0-sentence	204
+perseus-grc2.tb	γνῶθι δ’ ὕβριν ἀνέρων καὶ φύλαξαι κότον.
+perseus-eng2 Know the insolence of men and guard against their wrath.
+
+cts:urn:tlg0085.tlg001:428
+glaux1.0-sentence	205
+perseus-grc2.tb	μή τι τλῇς τὰν ἱκέτιν εἰσιδεῖν ἀπὸ βρετέων βίᾳ δίκας ἀγομέναν ἱππηδὸν ἀμπύκων, πολυμίτων πέπλων τ’ ἐπιλαβὰς ἐμῶν.
+perseus-eng2 May you not endure to see the suppliant dragged away by force from these sacred seats, clutching at my many-folded robes in her distress.
+
+cts:urn:tlg0085.tlg001:433
+glaux1.0-sentence	206
+perseus-grc2.tb	ἴσθι γάρ ·
+perseus-eng2 Be aware;
+
+cts:urn:tlg0085.tlg001:433
+glaux1.0-sentence	207
+perseus-grc2.tb	παισὶ τάδε καὶ δόμοις, ὁπότερ’ ἂν κτίσῃς, μένει ἄρ ἐκτίνειν ὁμοιΐαν θέμιν.
+perseus-eng2 For these children and these homes, whatever you create, await to fulfill a similar fate.
+
+cts:urn:tlg0085.tlg001:437
+glaux1.0-sentence	208
+perseus-grc2.tb	τάδε φράσαι δίκαια Διόθεν κράτη.
+perseus-eng2 Consider these things, just decrees from Zeus.
+
+cts:urn:tlg0085.tlg001:438
+glaux1.0-sentence	209
+perseus-grc2.tb	καὶ δὴ πέφρασμαι.
+perseus-eng2 And now I have spoken.
+
+cts:urn:tlg0085.tlg001:438
+glaux1.0-sentence	210
+perseus-grc2.tb	δεῦρο δ’ ἐξοκέλλεται.
+perseus-eng2 Hence it is driven forth.
+
+cts:urn:tlg0085.tlg001:439
+glaux1.0-sentence	211
+perseus-grc2.tb	ἢ τοῖσιν ἢ τοῖς πόλεμον αἴρεσθαι μέγαν πᾶσ’ ἔστ’ ἀνάγκη, καὶ γεγόμφωται σκάφος στρέβλαισι ναυτικαῖσιν ὡς προσηγμένον.
+perseus-eng2 Either with these or those, it is necessary to undertake a great war, and the ship is fastened with naval cables as if moored.
+
+cts:urn:tlg0085.tlg001:442
+glaux1.0-sentence	212
+perseus-grc2.tb	ἄνευ δὲ λύπης οὐδαμοῦ καταστροφή.
+perseus-eng2 Without sorrow, there is no turning back anywhere.
+
+cts:urn:tlg0085.tlg001:443
+glaux1.0-sentence	213
+perseus-grc2.tb	καὶ χρημάτων μὲν ἐκ δόμων πορθουμένων, ἄτην γε μείζω καὶ μέγ’ ἐμπλήσας γόμου γένοιτ’ ἂν ἄλλα Κτησίου Διὸς χάριν ·
+perseus-eng2 And though wealth may be plundered from houses, causing greater ruin and filling with much sorrow, yet for the sake of Zeus the Guardian, another outcome may arise;
+
+cts:urn:tlg0085.tlg001:446
+glaux1.0-sentence	214
+perseus-grc2.tb	καὶ γλῶσσα τοξεύσασα μὴ τὰ καίρια, γένοιτο μύθου μῦθος ἂν θελκτήριος ἀλγεινὰ θυμοῦ κάρτα κινητήρια.
+perseus-eng2 and a tongue that has misfired, not hitting the mark, may become a tale that soothes painful anger, stirring the heart deeply.
+
+cts:urn:tlg0085.tlg001:449
+glaux1.0-sentence	215
+perseus-grc2.tb	ὅπως δ’ ὅμαιμον αἷμα μὴ γενήσεται, δεῖ κάρτα θύειν καὶ πεσεῖν χρηστήρια θεοῖσι πολλοῖς πολλά, πημονῆς ἄκη.
+perseus-eng2 To avoid the shedding of kindred blood, it is indeed necessary to sacrifice greatly and offer many propitiations to numerous gods, as a deliverance from impending harm.
+
+cts:urn:tlg0085.tlg001:452
+glaux1.0-sentence	216
+perseus-grc2.tb	ἦ κάρτα νείκους τοῦδ’ ἔσω παροίχομαι, θέλω δ’ ἄιδρις μᾶλλον ἢ σοφὸς κακῶν εἶναι.
+perseus-eng2 Indeed, I willingly withdraw from this strife; I prefer to remain ignorant rather than be wise in the ways of evil.
+
+cts:urn:tlg0085.tlg001:454
+glaux1.0-sentence	217
+perseus-grc2.tb	γένοιτο δ’ εὖ παρὰ γνώμην ἐμήν.
+perseus-eng2 May all go well, contrary to my expectation.
+
+cts:urn:tlg0085.tlg001:455
+glaux1.0-sentence	218
+perseus-grc2.tb	πολλῶν ἄκουσον τέρματ’ αἰδοίων λόγων.
+perseus-eng2 Hear now the end of many revered words.
+
+cts:urn:tlg0085.tlg001:456
+glaux1.0-sentence	219
+perseus-grc2.tb	ἤκουσα, καὶ λέγοις ἄν.
+perseus-eng2 I have heard, and you may speak.
+
+cts:urn:tlg0085.tlg001:456
+glaux1.0-sentence	220
+perseus-grc2.tb	οὔ με φεύξεται.
+perseus-eng2 It shall not escape me.
+
+cts:urn:tlg0085.tlg001:457
+glaux1.0-sentence	221
+perseus-grc2.tb	ἔχω στρόφους ζώνας τε, συλλαβὰς πέπλων τάχ’ ἂν γυναιξὶ ταῦτα συμπρεπῆ πέλοι.
+perseus-eng2 I have breast-bands and girdles, the clasps of robes, which might perhaps be suitable for women.
+
+cts:urn:tlg0085.tlg001:459
+glaux1.0-sentence	222
+perseus-grc2.tb	ἐκ τῶνδε τοίνυν , ἴσθι , μηχανὴ καλή —
+perseus-eng2 In these then, be sure, I have a beautiful instrument—
+perseus-eng2 Tell me what speech you plan to utter.
+
+cts:urn:tlg0085.tlg001:461
+glaux1.0-sentence	223
+perseus-grc2.tb	εἰ μή τι πιστὸν τῷδ’ ὑποστήσεις στόλῳ — τί σοι περαίνει μηχανὴ συζωμάτων ;
+perseus-eng2 If you do not uphold this group with a firm pledge, what will be the outcome of your strategem with these sashes?
+
+cts:urn:tlg0085.tlg001:463
+glaux1.0-sentence	224
+perseus-grc2.tb	νέοις πίναξι βρέτεα κοσμῆσαι τάδε.
+perseus-eng2 To adorn these statues with new tablets.
+
+cts:urn:tlg0085.tlg001:464
+glaux1.0-sentence	225
+perseus-grc2.tb	αἰνιγματῶδες τ- ἔπος ·
+perseus-eng2 Your speech is riddled;
+
+cts:urn:tlg0085.tlg001:464
+glaux1.0-sentence	226
+perseus-grc2.tb	ἀλλ’ ἁπλῶς φράσον.
+perseus-eng2 but speak plainly.
+
+cts:urn:tlg0085.tlg001:465
+glaux1.0-sentence	227
+perseus-grc2.tb	ἐκ τῶνδ’ ὅπως τάχιστ’ ἀπάγξασθαι θεῶν.
+perseus-eng2 To hang ourselves from these gods as quickly as possible.
+
+cts:urn:tlg0085.tlg001:466
+glaux1.0-sentence	228
+perseus-grc2.tb	ἤκουσα μαστικτῆρα καρδίας λόγον.
+perseus-eng2 I have heard a heart-wrenching statement.
+
+cts:urn:tlg0085.tlg001:467
+glaux1.0-sentence	229
+perseus-grc2.tb	ξυνῆκας ·
+perseus-eng2 You understand;
+
+cts:urn:tlg0085.tlg001:467
+glaux1.0-sentence	230
+perseus-grc2.tb	ὠμμάτωσα γὰρ σαφέστερον.
+perseus-eng2 for I have made it clearer to your eyes.
+
+cts:urn:tlg0085.tlg001:468
+glaux1.0-sentence	231
+perseus-grc2.tb	καὶ πολλαχῇ γε δυσπάλαιστα πράγματα, κακῶν δὲ πλῆθος ποταμὸς ὣς ἐπέρχεται ·
+perseus-eng2 And indeed, many things are hard to struggle with, and a multitude of evils approaches like a river;
+
+cts:urn:tlg0085.tlg001:470
+glaux1.0-sentence	232
+perseus-grc2.tb	ἄτης δ’ ἄβυσσον πέλαγος οὐ μάλ’ εὔπορον τόδ’ ἐσβέβηκα, κ- οὐδαμοῦ λιμὴν κακῶν.
+perseus-eng2 I am embarked upon a sea of ruin, not at all easy to navigate, and nowhere is there a harbor from these evils.
+
+cts:urn:tlg0085.tlg001:472
+glaux1.0-sentence	233
+perseus-grc2.tb	εἰ μὲν γὰρ ὑμῖν μὴ τόδ’ ἐκπράξω χρέος, μίασμ’ ἔλεξας οὐχ ὑπερτοξεύσιμον.
+perseus-eng2 For if I do not accomplish this task for you, the pollution you speak of is beyond all shooting range.
+
+cts:urn:tlg0085.tlg001:474
+glaux1.0-sentence	234
+perseus-grc2.tb	εἰ δ’ αὖθ’ ὁμαίμοις παισὶν Αἰγύπτου σέθεν σταθεὶς πρὸ τειχέων διὰ μάχης ἥξω τέλους, πῶς οὐχὶ τ- ἀνάλωμα γίγνεται πικρόν, ἄνδρας γυναικῶν οὕνεχ’ αἱμάξαι πέδον;
+perseus-eng2 But if, siding with your kinsmen, the sons of Aegyptus, I come to battle before the walls, how will the cost not become bitter, spilling men's blood on account of women?
+
+cts:urn:tlg0085.tlg001:478
+glaux1.0-sentence	235
+perseus-grc2.tb	ὅμως δ’ ἀνάγκη Ζηνὸς αἰδεῖσθαι κότον ἱκτῆρος;
+perseus-eng2 Nevertheless, it is necessary to revere the wrath of Zeus, the protector of suppliants.
+
+cts:urn:tlg0085.tlg001:479
+glaux1.0-sentence	236
+perseus-grc2.tb	ὕψιστος γὰρ ἐν βροτοῖς φόβος.
+perseus-eng2 For it is the highest fear among mortals.
+
+cts:urn:tlg0085.tlg001:480
+glaux1.0-sentence	237
+perseus-grc2.tb	σὺ μέν, πάτερ γεραιὲ τῶνδε παρθένων, κλάδους τε τούτους αἶψ’ ἐν ἀγκάλαις λαβὼν βωμοὺς ἐπ’ ἄλλους δαιμόνων ἐγχωρίων θές, ὡς ἴδωσι τῆσδ’ ἀφίξεως τέκμαρ πάντες πολῖται, μηδ’ ἀπορριφθῇ ψόγος ἐμοῦ;
+perseus-eng2 You then, old father of these maidens, quickly take these boughs in your arms and place them on other altars of the local gods, so that all the citizens may see a sign of your arrival and no reproach fall upon me.
+
+cts:urn:tlg0085.tlg001:485
+glaux1.0-sentence	238
+perseus-grc2.tb	κατ’ ἀρχῆς γὰρ φιλαίτιος λεώς.
+perseus-eng2 For from the beginning, the people are fond of their own.
+
+cts:urn:tlg0085.tlg001:486
+glaux1.0-sentence	239
+perseus-grc2.tb	καὶ γὰρ τάχ’ ἄν τις οἰκτίσας ἰδὼν τάδε ὕβριν μὲν ἐχθήρειεν ἄρσενος στόλου, ὑμῖν δ’ ἂν εἴη δῆμος εὐμενέστερος;
+perseus-eng2 Perhaps someone, moved to pity on seeing this, would hate the arrogance of the male group, and the people would be more favorable to you.
+
+cts:urn:tlg0085.tlg001:489
+glaux1.0-sentence	240
+perseus-grc2.tb	τοῖς ἥσσοσιν γὰρ πᾶς τις εὐνοίας φέρει.
+perseus-eng2 For everyone bears goodwill to the weaker party.
+
+cts:urn:tlg0085.tlg001:490
+glaux1.0-sentence	241
+perseus-grc2.tb	πολλῶν τάδ’ ἡμῖν ἐστιν ἠξιωμένα, αἰδοῖον εὑρεθέντα πρόξενον λαβεῖν.
+perseus-eng2 These are of great worth to us, to have found a revered protector.
+
+cts:urn:tlg0085.tlg001:492
+glaux1.0-sentence	242
+perseus-grc2.tb	ὀπάονας δὲ φράστοράς τ’ ἐγχωρίων ξύμπεμψον, ὡς ἂν τῶν πολισσούχων θεῶν βωμοὺς προνάους καὶ πολισσούχων ἕδρας εὕρωμεν, ἀσφάλεια δ’ ᾖ δι’ ἄστεως στείχουσι;
+perseus-eng2 Also send attendants and guides from among the locals, so we may find the altars and seats of the city's protecting gods, ensuring safety as we walk through the city.
+
+cts:urn:tlg0085.tlg001:496
+glaux1.0-sentence	243
+perseus-grc2.tb	μορφῆς δ’ οὐχ ὁμόστολος φύσις.
+perseus-eng2 For our nature is not of the same dress as our form.
+
+cts:urn:tlg0085.tlg001:497
+glaux1.0-sentence	244
+perseus-grc2.tb	Νεῖλος γὰρ οὐχ ὅμοιον Ἰνάχῳ γένος τρέφει.
+perseus-eng2 For the Nile does not nurture a race similar to Inachus.
+
+cts:urn:tlg0085.tlg001:498
+glaux1.0-sentence	245
+perseus-grc2.tb	φύλαξαι μὴ θράσος τέκῃ φόβον;
+perseus-eng2 Beware lest boldness gives birth to fear.
+
+cts:urn:tlg0085.tlg001:499
+glaux1.0-sentence	246
+perseus-grc2.tb	καὶ δὴ φίλον τις ἔκταν’ ἀγνοίας ὕπο.
+perseus-eng2 And indeed, someone has unwittingly killed a loved one.
+
+cts:urn:tlg0085.tlg001:500
+glaux1.0-sentence	247
+perseus-grc2.tb	στείχοιτ’ ἄν, ἄνδρες;
+perseus-eng2 Proceed then, men.
+
+cts:urn:tlg0085.tlg001:500
+glaux1.0-sentence	248
+perseus-grc2.tb	εὖ γὰρ ὁ ξένος λέγει.
+perseus-eng2 For the stranger speaks well.
+
+cts:urn:tlg0085.tlg001:501
+glaux1.0-sentence	249
+perseus-grc2.tb	ἡγεῖσθε βωμοὺς ἀστικούς, θεῶν ἕδρας;
+perseus-eng2 Lead the way to the city's altars, the seats of the gods.
+
+cts:urn:tlg0085.tlg001:502
+glaux1.0-sentence	250
+perseus-grc2.tb	καὶ ξυμβολοῦσιν οὐ πολυστομεῖν χρεὼν ναύτην ἄγοντας τόνδ’ ἐφέστιον θεῶν.
+perseus-eng2 And those you meet, it is not necessary to engage in much talk while conducting this seafarer to the hearth of the gods.
+
+cts:urn:tlg0085.tlg001:504
+glaux1.0-sentence	251
+perseus-grc2.tb	τούτῳ μὲν εἶπας, καὶ τεταγμένος κίοι;
+perseus-eng2 You have spoken to him, now let him go as instructed.
+
+cts:urn:tlg0085.tlg001:505
+glaux1.0-sentence	252
+perseus-grc2.tb	ἐγὼ δὲ πῶς δρῶ;
+perseus-eng2 But what shall I do?
+
+cts:urn:tlg0085.tlg001:505
+glaux1.0-sentence	253
+perseus-grc2.tb	ποῦ θράσος νέμεις ἐμοί;
+perseus-eng2 Where do you assign courage to me?
+
+cts:urn:tlg0085.tlg001:506
+glaux1.0-sentence	254
+perseus-grc2.tb	κλάδους μὲν αὐτοῦ λεῖπε, σημεῖον πόνου.
+perseus-eng2 Leave the branches here, a token of your trouble.
+
+cts:urn:tlg0085.tlg001:507
+glaux1.0-sentence	255
+perseus-grc2.tb	καὶ δή σφε λείπω χειρὶ καὶ λόγοις σέθεν
+perseus-eng2 And indeed, I leave them at your command, both with hand and word.
+
+cts:urn:tlg0085.tlg001:508
+glaux1.0-sentence	256
+perseus-grc2.tb	λευρὸν κατ’ ἄλσος νῦν ἐπιστρέφου τόδε.
+perseus-eng2 Now turn to this white area around the sanctuary.
+
+cts:urn:tlg0085.tlg001:509
+glaux1.0-sentence	257
+perseus-grc2.tb	καὶ πῶς βέβηλον ἄλσος ἂν ῥύοιτό με;
+perseus-eng2 And how could unholy ground protect me?
+
+cts:urn:tlg0085.tlg001:510
+glaux1.0-sentence	258
+perseus-grc2.tb	οὔτοι πτερωτῶν ἁρπαγαῖς σ’ ἐκδώσομεν.
+perseus-eng2 Certainly, we will not surrender you to the ravishment of winged creatures.
+
+cts:urn:tlg0085.tlg001:511
+glaux1.0-sentence	259
+perseus-grc2.tb	ἀλλ’ εἰ δρακόντων δυσφρόνων ἐχθίοσιν;
+perseus-eng2 But what if you face the hostility of malicious serpents?
+
+cts:urn:tlg0085.tlg001:512
+glaux1.0-sentence	260
+perseus-grc2.tb	εὔφημον εἴη τ- ἔπος εὐφημουμένῃ.
+perseus-eng2 Let your words be auspicious as I speak auspiciously to you.
+
+cts:urn:tlg0085.tlg001:513
+glaux1.0-sentence	261
+perseus-grc2.tb	οὔτοι τι θαῦμα δυσφορεῖν φόβῳ φρενός.
+perseus-eng2 It is no wonder to be troubled by fear in the mind.
+
+cts:urn:tlg0085.tlg001:514
+glaux1.0-sentence	262
+perseus-grc2.tb	ἀεί γ’ ἄναρκτόν ἐστι δεῖμ’ ἐξαίσιον.
+perseus-eng2 Indeed, excessive fear is always uncontrolled.
+
+cts:urn:tlg0085.tlg001:515
+glaux1.0-sentence	263
+perseus-grc2.tb	σὺ καὶ λέγων εὔφραινε καὶ πράσσων φρένα.
+perseus-eng2 You cheer my heart both by speaking and by acting.
+
+cts:urn:tlg0085.tlg001:516
+glaux1.0-sentence	264
+perseus-grc2.tb	ἀλλ’ οὔτι δαρὸν χρόνον ἐρημώσει πατήρ.
+perseus-eng2 But your father will not leave you alone for long.
+
+cts:urn:tlg0085.tlg001:517
+glaux1.0-sentence	265
+perseus-grc2.tb	ἐγὼ δὲ λαοὺς συγκαλῶν ἐγχωρίους στείχω, τὸ κοινὸν ὡς ἂν εὐμενὲς τιθῶ;
+perseus-eng2 I am going to call together the local people to make the masses friendly.
+
+cts:urn:tlg0085.tlg001:519
+glaux1.0-sentence	266
+perseus-grc2.tb	καὶ σὸν διδάξω πατέρα ποῖα χρὴ λέγειν.
+perseus-eng2 And I will instruct your father in what he should say.
+
+cts:urn:tlg0085.tlg001:520
+glaux1.0-sentence	267
+perseus-grc2.tb	πρὸς ταῦτα μίμνε καὶ θεοὺς ἐγχωρίους λιταῖς παραιτοῦ τῶν σ’ ἔρως ἔχει τυχεῖν.
+perseus-eng2 Remain here and beseech the local gods with prayers to grant what you desire.
+
+cts:urn:tlg0085.tlg001:522
+glaux1.0-sentence	268
+perseus-grc2.tb	ἐγὼ δὲ ταῦτα πορσυνῶν ἐλεύσομαι.
+perseus-eng2 And I will come having arranged these things.
+
+cts:urn:tlg0085.tlg001:523
+glaux1.0-sentence	269
+perseus-grc2.tb	πειθὼ δ’ ἕποιτο καὶ τύχη πρακτήριος.
+perseus-eng2 May persuasion and propitious fortune follow me.
+
+cts:urn:tlg0085.tlg001:524
+glaux1.0-sentence	270
+perseus-grc2.tb	ἄναξ ἀνάκτων, μακάρων μακάρτατε καὶ τελέων τελειότατον κράτος, ὄλβιε Ζεῦ, πιθοῦ τε καὶ γένει σῷ ἄλευσον ἀνδρῶν ὕβριν εὖ στυγήσας.
+perseus-eng2 Lord of lords, most blessed among the blessed, power most perfect among the perfect, O blessed Zeus, hear! And from your offspring ward off in utter abhorrence the lust of men.
+
+cts:urn:tlg0085.tlg001:529
+glaux1.0-sentence	271
+perseus-grc2.tb	λίμνᾳ δ’ ἔμβαλε πορφυροειδεῖ τὰν μελανόζυγ’ ἄταν.
+perseus-eng2 And into the purple sea cast their black-benched madness!
+
+cts:urn:tlg0085.tlg001:531
+glaux1.0-sentence	272
+perseus-grc2.tb	τὸ πρὸς γυναικῶν δ’ ἐπιδὼν παλαίφατον ἁμέτερον γένος φιλίας προγόνου γυναικὸς νέωσον εὔφρον’ αἶνον, γενοῦ πολυμνάστωρ, ἔφαπτορ Ἰοῦς ·
+perseus-eng2 Look benignly upon the women’s cause, look upon our race ancient in story, and recall the happy tale of our ancestress, the woman of your love.
+
+cts:urn:tlg0085.tlg001:536
+glaux1.0-sentence	273
+perseus-grc2.tb	Δῖαί τοι γένος εὐχόμεθ’ εἶναι γᾶς ἀπὸ τᾶσδ’ ἄποικοι.
+perseus-eng2 Show that you remember all, you who laid your hand upon Io. It is from Zeus that we claim descent, and it is from this, our homeland, that we went forth.
+
+cts:urn:tlg0085.tlg001:538
+glaux1.0-sentence	274
+perseus-grc2.tb	παλαιὸν, δ’ εἰς ἴχνος μετέσταν ματέρος ἀνθονόμους ἐπωπάς, λειμῶνα βούχιλον,
+perseus-eng2 I have come here to the prints of ancient feet, my mother’s, even to the region where she was watched while she browsed among the flowers— into that pasture, from which Io, tormented by the gad-fly’s sting, fled in frenzy, traversing many tribes of men, and according to fate, cut in two the surging strait, marking off the land upon the farther shore.
+
+cts:urn:tlg0085.tlg001:547
+glaux1.0-sentence	275
+perseus-grc2.tb	ἰάπτει δ’ Ἀσίδος δι’ αἴας μηλοβότου Φρυγίας διαμπάξ.
+perseus-eng2 And through the land of Asia she gallops, straight through sheep-pasturing Phrygia,
+
+cts:urn:tlg0085.tlg001:549
+glaux1.0-sentence	276
+perseus-grc2.tb	περᾷ δὲ Τεύθραντος ἄστυ Μυσῶν, Λύδιά τε γύαλα, καὶ δι’ ὀρῶν Κιλίκων
+perseus-eng2 and she passes the city of Teuthras among the Mysians, and the hollow vales of Lydia, across the mountains of the Cilicians and the Pamphylians, speeding over ever-flowing rivers and earth deep and rich, and the land of Aphrodite that teems with wheat.
+
+cts:urn:tlg0085.tlg001:556
+glaux1.0-sentence	277
+perseus-grc2.tb	ἱκνεῖται δὴ σινουμένα βέλει βουκόλου πτερόεντος Δῖον πάμβοτον ἄλσος, λειμῶνα χιονόβοσκον, ὅντ’ ἐπέρχεται Τυφῶ μένος, ὕδωρ τε Νείλου νόσοις ἄθικτον, μαινομένα πόνοις ἀτίμοις ὀδύναις τε κεντροδαλήτισι, θυιὰς Ἥρας.
+perseus-eng2 Harassed by the sting of the winged herdsman, she reaches the all-rich grove of Zeus
+perseus-eng2 , a snow-fed pasture, assailed by Typho's rage, and the waters of the Nile, untouched by disease, tormented by her dishonorable toils and the agonizing pain of Hera's stinging scourge.
+
+cts:urn:tlg0085.tlg001:565
+glaux1.0-sentence	278
+perseus-grc2.tb	βροτοὶ δ’, οἳ γᾶς τότ’ ἦσαν ἔννομοι χλωρῷ δείματι θυμὸν πάλλοντ’ ὄψιν ἀήθη, βοτὸν ἐσορῶντες δυσχερὲς μειξόμβροτον, τὰν μὲν βοός, τὰν δ’ αὖ γυναικός;
+perseus-eng2 And mortals, who then inhabited the land, were struck with green fear, their hearts trembling at the sight, beholding a difficult mixed-being, part cow, part woman.
+
+cts:urn:tlg0085.tlg001:570
+glaux1.0-sentence	279
+perseus-grc2.tb	τέρας δ’ ἐθάμβουν.
+perseus-eng2 They were amazed at this monster.
+
+cts:urn:tlg0085.tlg001:571
+glaux1.0-sentence	280
+perseus-grc2.tb	καὶ τότε δὴ τίς ἦν ὁ θέλξας πολύπλαγκτον ἀθλίαν οἰστροδόνητον Ἰώ;
+perseus-eng2 And then, who was it that soothed the far-wandering, wretched, gadfly-tormented Io?
+
+cts:urn:tlg0085.tlg001:574
+glaux1.0-sentence	281
+perseus-grc2.tb	δι’ αἰῶνος κρέων ἀπαύστου Ζεὺς Διὸς δ’ ἀπημάντῳ σθένει καὶ θείαις ἐπιπνοίαις παύεται, δακρύων δ’ ἀποστάζει πένθιμον αἰδῶ.
+perseus-eng2 Through ceaseless ages, it was Zeus who, with his unerring power and divine inspiration, brought her to rest, and she shed sorrowful tears of relief.
+
+cts:urn:tlg0085.tlg001:580
+glaux1.0-sentence	282
+perseus-grc2.tb	λαβοῦσα δ’ ἕρμα Δῖον ἀψευδεῖ λόγῳ γείνατο παῖδ’ ἀμεμφῆ,
+perseus-eng2 And taking Zeus as her support, according to a true story, she bore a blameless son,
+
+cts:urn:tlg0085.tlg001:582
+glaux1.0-sentence	283
+perseus-grc2.tb	δι’ αἰῶνος μακροῦ πάνολβον ·
+perseus-eng2 Throughout long ages blessed.
+
+cts:urn:tlg0085.tlg001:583
+glaux1.0-sentence	284
+perseus-grc2.tb	ἔνθεν πᾶσα βοᾷ χθών, φυσιζόου γένος τόδε Ζηνός ἐστιν ἀληθῶς ·
+perseus-eng2 All the earth cries aloud, "This is in very truth the offspring of life-giving Zeus;"
+
+cts:urn:tlg0085.tlg001:586
+glaux1.0-sentence	285
+perseus-grc2.tb	τίς γὰρ ἂν κατέπαυσεν Ἥρας νόσους ἐπιβούλους ;
+perseus-eng2 For who else could have endured the suffering plotted by Hera?
+
+cts:urn:tlg0085.tlg001:588
+glaux1.0-sentence	286
+perseus-grc2.tb	Διὸς τόδ’ ἔργον καὶ τόδ’ ἂν γένος λέγων ἐξ Ἐπάφου κυρήσαις .
+perseus-eng2 Call this the work of Zeus and this his race sprung from Epaphus and you will hit the truth.
+
+cts:urn:tlg0085.tlg001:590
+glaux1.0-sentence	287
+perseus-grc2.tb	τίν’ ἂν θεῶν ἐνδικωτέροισιν κεκλοίμαν εὐλόγως ἐπ’ ἔργοις ;
+perseus-eng2 Which of the gods has accomplished deeds which, with good reason, warrant more justly my appeal to him?
+
+cts:urn:tlg0085.tlg001:592
+glaux1.0-sentence	288
+perseus-grc2.tb	αὐτὸς ὁ πατὴρ φυτουργὸς αὐτόχειρ ἄναξ γένους παλαιόφρων μέγας τέκτων, τὸ πᾶν μῆχαρ οὔριος Ζεύς.
+perseus-eng2 Father himself and lord, he planted us with his own hand; he is the mighty fashioner of our race, ancient in wisdom, who devises everything, whose breath makes all things prosper, Zeus himself.
+
+cts:urn:tlg0085.tlg001:595
+glaux1.0-sentence	289
+perseus-grc2.tb	ὑπ’ ἀρχᾶς δ’ οὔ τινος θοάζων τὸ μεῖον κρεισσόνων κρατύνει.
+perseus-eng2 He does not sit upon his throne by mandate of another and hold his dominion beneath a mightier.
+
+cts:urn:tlg0085.tlg001:597
+glaux1.0-sentence	290
+perseus-grc2.tb	οὔτινος ἄνωθεν ἡμένου σέβει κράτη.
+perseus-eng2 No one sits above him whose power he holds in awe.
+
+cts:urn:tlg0085.tlg001:598
+glaux1.0-sentence	291
+perseus-grc2.tb	πάρεστι δ’ ἔργον ὡς ἔπος σπεῦσαί τι τῶν βούλιος φέρει φρήν.
+perseus-eng2 He speaks, and it is done—he hastens to execute whatever his counselling mind conceives.
+
+cts:urn:tlg0085.tlg001:600
+glaux1.0-sentence	292
+perseus-grc2.tb	θαρσεῖτε παῖδες.
+perseus-eng2 Be of good cheer, my children.
+
+cts:urn:tlg0085.tlg001:600
+glaux1.0-sentence	293
+perseus-grc2.tb	εὖ τὰ τῶν ἐγχωρίων.
+perseus-eng2 All goes well on the part of the citizens.
+
+cts:urn:tlg0085.tlg001:601
+glaux1.0-sentence	294
+perseus-grc2.tb	δήμου δέδοκται παντελῆ ψηφίσματα.
+perseus-eng2 Decrees, carrying full authority, have been passed.
+
+cts:urn:tlg0085.tlg001:602
+glaux1.0-sentence	295
+perseus-grc2.tb	ὦ χαῖρε πρέσβυ, φίλτατ’ ἀγγέλλων ἐμοί ἔνισπε δ’ ἡμῖν ποῖ κεκύρωται τέλος, δήμου κρατοῦσα χεὶρ ὅπῃ πληθύνεται.
+perseus-eng2 Chorus
+perseus-eng2 Hail, our envoy, harbinger of tidings most welcome. But tell us—to what end has the decision been carried, and to what course does the majority of the people’s votes incline?
+
+cts:urn:tlg0085.tlg001:605
+glaux1.0-sentence	296
+perseus-grc2.tb	ἔδοξεν Ἀργείοισιν οὐ διχορρόπως, ἀλλ’ ὥστ’ ἀνηβῆσαί με γηραιᾷ φρενί.
+perseus-eng2 Danaus
+perseus-eng2 Action was taken by the Argives, not by any doubtful vote but in such a way as to make my aged heart renew its youth.
+
+cts:urn:tlg0085.tlg001:607
+glaux1.0-sentence	297
+perseus-grc2.tb	πανδημίᾳ γὰρ χερσὶ δεξιωνύμοις ἔφριξεν αἰθὴρ τόνδε κραινόντων λόγον.
+perseus-eng2 For the air bristled with right hands held aloft as, in full vote, they ratified this resolution into law.
+
+cts:urn:tlg0085.tlg001:609
+glaux1.0-sentence	298
+perseus-grc2.tb	ἡμᾶς μετοικεῖν τῆσδε γῆς ἐλευθέρους κ- ἀρρυσιάστους ξύν τ’ ἀσυλίᾳ βροτῶν.
+perseus-eng2 That we are settlers in this land, and are free, subject to no seizure, and secure from robbery of man.
+
+cts:urn:tlg0085.tlg001:611
+glaux1.0-sentence	299
+perseus-grc2.tb	καὶ μήτ’ ἐνοίκων μήτ’ ἐπηλύδων τινὰ ἄγειν.
+perseus-eng2 That no one, native or alien, lead us captive.
+
+cts:urn:tlg0085.tlg001:612
+glaux1.0-sentence	300
+perseus-grc2.tb	ἐὰν δὲ προστιθῇ τὸ καρτερόν, τὸν μὴ βοηθήσαντα τῶνδε γαμόρων ἄτιμον εἶναι ξὺν φυγῇ δημηλάτῳ.
+perseus-eng2 But, if they turn to violence, any landholder who refuses to rescue us, should both forfeit his rights and suffer public banishment.
+
+cts:urn:tlg0085.tlg001:615
+glaux1.0-sentence	301
+perseus-grc2.tb	τοιάνδ’ ἔπειθεν ῥῆσιν ἀμφ’ ἡμῶν λέγων ἄ
+perseus-eng2 Such was the persuasive speech that the king of the Pelasgians delivered on our behalf, uttering the solemn warning that never in the future should the city feed the great wrath of Zeus, protector of the suppliant; and declaring that, should a twofold defilement—from strangers and from natives at once—arise before the city, it would become fodder for distress past all relief.
+
+cts:urn:tlg0085.tlg001:621
+glaux1.0-sentence	302
+perseus-grc2.tb	τοιαῦτ’ ἀκούων χερσὶν Ἀργεῖος λεὼς ἔκραν’ ἄνευ κλητῆρος ὡς εἶναι τάδε.
+perseus-eng2 Hearing these words, the Argive people, waiting for no proclamation of crier, voted by uplifted hand that this should be so.
+
+cts:urn:tlg0085.tlg001:623
+glaux1.0-sentence	303
+perseus-grc2.tb	δημηγόρους δ’ ἤκουσεν εὐπιθὴς στροφὰς δῆμος Πελασγῶν.
+perseus-eng2 It was the Pelasgian people, won readily to assent, who heard the subtle windings of his speech.
+
+cts:urn:tlg0085.tlg001:624
+glaux1.0-sentence	304
+perseus-grc2.tb	Ζεὺς δ’ ἐπέκρανεν τέλος.
+perseus-eng2 But it was Zeus who brought the end to pass.
+
+cts:urn:tlg0085.tlg001:625
+glaux1.0-sentence	305
+perseus-grc2.tb	ἄγε δή, λέξωμεν ἐπ’ Ἀργείοις εὐχὰς ἀγαθάς, ἀγαθῶν ποινάς.
+perseus-eng2 Chorus
+perseus-eng2 Come, let us invoke blessings upon the Argives in return for blessings.
+
+cts:urn:tlg0085.tlg001:627
+glaux1.0-sentence	306
+perseus-grc2.tb	Ζεὺς δ’ ἐφορεύοι ξένιος ξενίου στόματος τιμὰς ἐπ’ ἀληθείᾳ, τέρμον’ ἄμεμπτον προσαπαντᾶν.
+perseus-eng2 And may Zeus, god of strangers, behold the offerings of gratitude voiced by a stranger’s lips, that they may in true fulfilment reach their perfect goal.
+
+cts:urn:tlg0085.tlg001:630
+glaux1.0-sentence	307
+perseus-grc2.tb	νῦν ὅτε καί, θεοὶ διογενεῖς, κλύοιτ’ εὐκταῖα γένει χεούσας.
+perseus-eng2 Chorus
+perseus-eng2 Divinely-born gods! Hear now as I pour forth libations for blessings upon our kindred.
+
+cts:urn:tlg0085.tlg001:633
+glaux1.0-sentence	308
+perseus-grc2.tb	μήποτε πυρίφατον γᾶν Πελασγίαν πόλιν τὸν ἄκορον βοᾶς, κτίσαι μάχλον Ἄπη, τὸν ἀρότοις θερίζοντα βροτοὺς ἐν ἄλλοις, οὕνεκ’ ᾤκτισαν ἡμᾶς, ψῆφον δ’ εὔφρον’ ἔθεντο, αἰδοῦνται δ’ ἱκέτας Διός, ποίμναν τάνδ’ ἀμέγαρτον.
+perseus-eng2 Never may the wanton lord of war, insatiate of battle-cry, Ares, who reaps a human harvest in alien fields, destroy this Pelasgian land by fire; for they had compassion for us, and cast a vote in our favor, respecting our pitiable flock, suppliants in the name of Zeus.
+
+cts:urn:tlg0085.tlg001:643
+glaux1.0-sentence	309
+perseus-grc2.tb	οὐδὲ μετ’ ἀρσένων ψῆφον ἔθεντ’ ἀτιμώσαντες ἔριν γυναικῶν, Δῖον ἐπιδόμενοι πράκτορά τε σκοπὸν δυσπολέμητον, ὃν οὐ τίς ἂν δόμος ἔχοι ἐπ’ ὀρόφων μιαίνοντα.
+perseus-eng2 Nor did they cast their votes for the side of the males, disregarding the women’s cause, since they honored the avenging eye of Zeus, against which there is no battling, and what house would have it defiling its roof?
+
+cts:urn:tlg0085.tlg001:651
+glaux1.0-sentence	310
+perseus-grc2.tb	βαρὺς δ’ ἐφίζει.
+perseus-eng2 For he sits heavily upon it.
+
+cts:urn:tlg0085.tlg001:652
+glaux1.0-sentence	311
+perseus-grc2.tb	ἅζονται γὰρ ὁμαίμους Ζηνὸς ἵκτορας ἁγνοῦ.
+perseus-eng2 They take reverent heed of their kin, petitioners of holy Zeus;
+
+cts:urn:tlg0085.tlg001:654
+glaux1.0-sentence	312
+perseus-grc2.tb	τοιγάρτοι καθαροῖσι βωμοῖς θεοὺς ἀρέσονται.
+perseus-eng2 therefore with pure altars shall they please the gods.
+
+cts:urn:tlg0085.tlg001:656
+glaux1.0-sentence	313
+perseus-grc2.tb	τοιγὰρ ὑποσκίων ἐκ στομάτων ποτάσθω φιλότιμος εὐχά, μήποτε λοιμὸς ἀνδρῶν τάνδε πόλιν κενώσαι.
+perseus-eng2 Therefore let there fly forth from our overshadowed lips a prayer of gratitude. Never may pestilence empty this city of its men
+
+cts:urn:tlg0085.tlg001:661
+glaux1.0-sentence	314
+perseus-grc2.tb	μηδ’ ἐπιχωρίοις ἔρις πτώμασιν αἱματίσαι πέδον γᾶς.
+perseus-eng2 nor strife stain the soil of the land with the blood of slain inhabitants.
+
+cts:urn:tlg0085.tlg001:663
+glaux1.0-sentence	315
+perseus-grc2.tb	ἥβας δ’ ἄνθος ἄδρεπτον ἔστω, μηδ’ Ἀφροδίτας εὐνάτωρ βροτολοιγὸς Ἄρης κέρσειεν ἄωτον.
+perseus-eng2 But may the flower of its youth be unplucked, and may Ares, the partner of Aphrodite’s bed, he who makes havoc of men, not shear off their bloom.
+
+cts:urn:tlg0085.tlg001:667
+glaux1.0-sentence	316
+perseus-grc2.tb	καὶ γεραροῖσι πρεσβυτοδόκοι γεμόντων θυμέλαι φλεγόντων.
+perseus-eng2 And may the altars, where the elders gather, blaze in honor of venerable men.
+
+cts:urn:tlg0085.tlg001:670
+glaux1.0-sentence	317
+perseus-grc2.tb	τὼς πόλις εὖ νέμοιτο Ζῆνα μέγαν σεβόντων, τὸν ξένιον δ’ ὑπερτάτως, ὃς πολιῷ νόμῳ αἶσαν ὀρθοῖ.
+perseus-eng2 Thus may their state be regulated well, if they hold in awe mighty Zeus, and, most of all, Zeus the warden of the guest, who by venerable enactment guides destiny straight.
+
+cts:urn:tlg0085.tlg001:674
+glaux1.0-sentence	318
+perseus-grc2.tb	τίκτεσθαι δ’ ἐφόρους γᾶς ἄλλους εὐχόμεθ’ ἀεί, Ἄρτεμιν δ’ Ἑκάταν γυναικῶν λόχους ἐφορεύειν.
+perseus-eng2 We pray that other guardians be always renewed, and that Artemis-Hecate watch over the childbirth of their women.
+
+cts:urn:tlg0085.tlg001:678
+glaux1.0-sentence	319
+perseus-grc2.tb	μηδέ τις ἀνδροκμὴς λοιγὸς ἐπελθέτω τάνδε πόλιν δαΐζων, ἄχορον ἀκίθαριν δακρυογόνον Ἄρη βοάν τ’ ἔνδημον ἐξοπλίζων.
+perseus-eng2 And let no murderous havoc come upon the realm to ravage it, by arming Ares—foe to the dance and lute, parent of tears—and the shout of civil strife.
+
+cts:urn:tlg0085.tlg001:684
+glaux1.0-sentence	320
+perseus-grc2.tb	νούσων δ’ ἑσμὸς ἀπ’ ἀστῶν ἵζοι κρατὸς ἀτερπής.
+perseus-eng2 And may the joyless swarm of diseases settle far from the heads of the inhabitants,
+
+cts:urn:tlg0085.tlg001:686
+glaux1.0-sentence	321
+perseus-grc2.tb	εὐμενὴς δ’ ὁ Λύκειος ἔστω πάσᾳ νεολαίᾳ.
+perseus-eng2 and to all the young people may Lyceus be graciously disposed.
+
+cts:urn:tlg0085.tlg001:688
+glaux1.0-sentence	322
+perseus-grc2.tb	καρποτελῆ δέ τοι Ζεὺς ἐπικραινέτω φέρματι γᾶν πανώρῳ.
+perseus-eng2 May Zeus cause the earth to bring forth its tribute of fruit by the produce of every season;
+
+cts:urn:tlg0085.tlg001:691
+glaux1.0-sentence	323
+perseus-grc2.tb	πρόνομα δὲ βότ’ ἀγροῖς πολύγονα τελέθοι.
+perseus-eng2 may their grazing cattle in the fields have abundant increase,
+
+cts:urn:tlg0085.tlg001:693
+glaux1.0-sentence	324
+perseus-grc2.tb	τὸ πᾶν τ’ ἐκ δαιμόνων λάχοιεν.
+perseus-eng2 and may they obtain all things from the heavenly powers.
+
+cts:urn:tlg0085.tlg001:694
+glaux1.0-sentence	325
+perseus-grc2.tb	εὔφαμον δ’ ἐπὶ βωμοῖς μοῦσαν θείατ’ ἀοιδοί.
+perseus-eng2 May minstrels sing hymns of praise at the altars;
+
+cts:urn:tlg0085.tlg001:696
+glaux1.0-sentence	326
+perseus-grc2.tb	ἁγνῶν τ’ ἐκ στομάτων φερέσθω φάμα φιλοφόρμιγξ.
+perseus-eng2 and from pure lips let there proceed the phorminx-loving chant.
+
+cts:urn:tlg0085.tlg001:698
+glaux1.0-sentence	327
+perseus-grc2.tb	φυλάσσοι τ’ ἀτρεμαῖα τιμὰς τὸ δάμιον, τὸ πτόλιν κρατύνει, προμαθὶς εὐκοινόμητις ἀρχά.
+perseus-eng2 May the people who control the state guard its privileges free from fear— a prudent government counselling wisely for the public prosperity.
+
+cts:urn:tlg0085.tlg001:701
+glaux1.0-sentence	328
+perseus-grc2.tb	ξένοισί τ’ εὐξυμβόλους, πρὶν ἐξοπλίζειν Ἄρη, δίκας ἄτερ πημάτων διδοῖεν.
+perseus-eng2 And should they have recourse to arms may they inflict no loss, but grant just rights of covenant to the stranger within their gates.
+
+cts:urn:tlg0085.tlg001:704
+glaux1.0-sentence	329
+perseus-grc2.tb	θεοὺς δ’, οἳ γᾶν ἔχουσιν ἀεὶ τίοιεν ἐγχωρίοις πατρῴαις δαφνηφόροις βουθύτοισι τιμαῖς.
+perseus-eng2 And may they worship forever the gods who possess the land with native honors of laurel bough held aloft, and oxen slain, even as their fathers did before their time.
+
+cts:urn:tlg0085.tlg001:707
+glaux1.0-sentence	330
+perseus-grc2.tb	τὸ γὰρ τεκόντων σέβας τρίτον τόδ’ ἐν θεσμίοις Δίκας γέγραπται μεγιστοτίμου.
+perseus-eng2 Since reverence for parents stands written third among the statutes of Justice, to whom honor supreme is due.
+
+cts:urn:tlg0085.tlg001:710
+glaux1.0-sentence	331
+perseus-grc2.tb	εὐχὰς μὲν αἰνῶ τάσδε σώφρονας, φίλαι.
+perseus-eng2 Danaus
+perseus-eng2 I commend these sensible prayers, dear children;
+
+cts:urn:tlg0085.tlg001:711
+glaux1.0-sentence	332
+perseus-grc2.tb	ὑμεῖς δὲ μὴ τρέσητ’ ἀκούσασαι πατρὸς ἀπροσδοκήτους τούσδε καὶ νέους λόγους.
+perseus-eng2 but do not be troubled yourselves when you hear the unexpected and startling tidings your father has to tell.
+
+cts:urn:tlg0085.tlg001:713
+glaux1.0-sentence	333
+perseus-grc2.tb	ἱκεταδόκου γὰρ τῆσδ’ ἀπ
+perseus-eng2 From my post of look-out here on the sanctuary of suppliants I see that ship;
+
+cts:urn:tlg0085.tlg001:714
+glaux1.0-sentence	334
+perseus-grc2.tb	εὔσημον γὰρ οὔ με λανθάνει.
+perseus-eng2 for it is well-marked and does not escape me:
+
+cts:urn:tlg0085.tlg001:715
+glaux1.0-sentence	335
+perseus-grc2.tb	στολμοί τε λαίφους καὶ παραρρύσεις νεώς, καὶ πρῷρα πρόσθεν ὄμμασιν βλέπουσ’ ὁδόν, οἴακος εὐθυντῆρος ὑστάτου νεὼς ἄγαν καλῶς κλύουσα, τοῖσιν οὐ φίλη.
+perseus-eng2 the trimming of its sail, its side-guards, and the prow that with its eyes scans its onward course, obeying—all too well for those to whom it is unfriendly—the guiding rudder at the stern.
+
+cts:urn:tlg0085.tlg001:719
+glaux1.0-sentence	336
+perseus-grc2.tb	πρέπουσι δ’ ἄνδρες νάιοι μελαγχίμοις γυίοισι λευκῶν ἐκ πεπλωμάτων ἰδεῖν, καὶ τ- ἄλλα πλοῖα πᾶσά θ’ ἡ ’πικουρία εὔπρεπτος.
+perseus-eng2 The men on board are plainly seen, their black limbs showing from their white attire. The rest of the ships and all the assisting fleet stand clear in view:
+
+cts:urn:tlg0085.tlg001:722
+glaux1.0-sentence	337
+perseus-grc2.tb	αὐτὴ δ’ ἡγεμὼν ὑπὸ χθόνα στείλασα λαῖφος παγκρότως ἐρέσσεται.
+perseus-eng2 but the leading ship herself has furled her sail and draws near the shore with full sweep of sounding oars.
+
+cts:urn:tlg0085.tlg001:724
+glaux1.0-sentence	338
+perseus-grc2.tb	ἀλλ’ ἡσύχως χρὴ καὶ σεσωφρονισμένως πρὸς πρᾶγμ’ ὁρώσας τῶνδε μὴ ἀμελεῖν θεῶν.
+perseus-eng2 Yet you must face the matter calmly and with self-control, and not be unmindful of these gods.
+
+cts:urn:tlg0085.tlg001:726
+glaux1.0-sentence	339
+perseus-grc2.tb	ἐγὼ δ’ ἀρωγοὺς ξυνδίκους θ’ ἥξω λαβών.
+perseus-eng2 For my part, I will secure allies and advocates to urge our cause, and return.
+perseus-eng2 Perhaps some herald or envoys may come, eager to seize you as a prize and drag you away, but nothing will happen: do not fear them.
+
+cts:urn:tlg0085.tlg001:729
+glaux1.0-sentence	341
+perseus-grc2.tb	ἀλλ’ οὐδὲν ἔσται τῶνδε.
+perseus-eng2 Yet in the event that we should be slow in bringing aid, it would be better not to forget for a moment the means of help you have here at hand.
+
+cts:urn:tlg0085.tlg001:729
+glaux1.0-sentence	342
+perseus-grc2.tb	μὴ τρέσητέ νιν.
+perseus-eng2 Courage!
+
+cts:urn:tlg0085.tlg001:730
+glaux1.0-sentence	343
+perseus-grc2.tb	ὅμως δ’ ἄμεινον, εἰ βραδύνοιμεν βοῇ, ἀλκῆς λαθέσθαι τῆσδε μηδαμῶς ποτε.
+perseus-eng2 In good time, assuredly, and on the day ordained, he who dishonors the gods will suffer punishment.
+
+cts:urn:tlg0085.tlg001:732
+glaux1.0-sentence	344
+perseus-grc2.tb	θάρσει.
+perseus-eng2 Father, I am afraid.
+
+cts:urn:tlg0085.tlg001:732
+glaux1.0-sentence	345
+perseus-grc2.tb	χρόνῳ τοι κυρίῳ τ’ ἐν ἡμέρᾳ θεοὺς ἀτίζων τις βροτῶν δώσει δίκην.
+perseus-eng2 With what swift wings the ships approach! There is not much time left.
+
+cts:urn:tlg0085.tlg001:734
+glaux1.0-sentence	346
+perseus-grc2.tb	πάτερ , φοβοῦμαι , νῆες ὡς ὠκύπτεροι ἥκουσι ·
+perseus-eng2 Father, I am afraid. With what swift wings the ships approach!
+
+cts:urn:tlg0085.tlg001:735
+glaux1.0-sentence	347
+perseus-grc2.tb	μῆκος δ’ οὐδὲν ἐν μέσῳ χρόνου .
+perseus-eng2 There is not much time left.
+
+cts:urn:tlg0085.tlg001:736
+glaux1.0-sentence	348
+perseus-grc2.tb	περίφοβόν μ’ ἔχει τάρβος ἐτητύμως πολυδρόμου φυγᾶς ὄφελος εἴ τί μοι.
+perseus-eng2 I am possessed by dreadful fear if truly my long flight has been of no profit.
+
+cts:urn:tlg0085.tlg001:738
+glaux1.0-sentence	349
+perseus-grc2.tb	παροίχομαι, πάτερ, δείματι.
+perseus-eng2 Father, I am consumed with fright.
+
+cts:urn:tlg0085.tlg001:739
+glaux1.0-sentence	350
+perseus-grc2.tb	ἐπεὶ τελεία ψῆφος Ἀργείων, τέκνα, θάρσει, μαχοῦνται περὶ σέθεν, σάφ’ οἶδ’ ἐγώ.
+perseus-eng2 Danaus
+perseus-eng2 Since the vote of the Argives was final, be of good cheer, my children; they will fight in your defense, I know this well.
+
+cts:urn:tlg0085.tlg001:741
+glaux1.0-sentence	351
+perseus-grc2.tb	ἐξῶλές ἐστι μάργον Αἰγύπτου γένος μάχης τ’ ἄπληστον;
+perseus-eng2 Chorus
+perseus-eng2 Abominable is the lustful race of Aegyptus and insatiate of battle; and you know that all too well.
+
+cts:urn:tlg0085.tlg001:742
+glaux1.0-sentence	352
+perseus-grc2.tb	καὶ λέγω πρὸς εἰδότα.
+perseus-eng2 And I say this knowing that you understand.
+
+cts:urn:tlg0085.tlg001:743
+glaux1.0-sentence	353
+perseus-grc2.tb	δοριπαγεῖς δ’ ἔχοντες κυανώπιδας νῆας ἔπλευσαν ὧδ’ ἐπιτυχεῖ κότῳ πολεῖ μελαγχίμῳ σὺν στρατῷ.
+perseus-eng2 In ships, stout-timbered and dark-prowed, they have sailed here, attended by a mighty black host, and in their wrath overtaken us.
+
+cts:urn:tlg0085.tlg001:746
+glaux1.0-sentence	354
+perseus-grc2.tb	πολλοὺς δέ γ’ εὑρήσουσιν ἐν μεσημβρίας θάλπει βραχίον’ εὖ κατερρινημένους.
+perseus-eng2 Danaus
+perseus-eng2 But they will find here a force with arms well-seasoned by the noonday heat.
+
+cts:urn:tlg0085.tlg001:748
+glaux1.0-sentence	355
+perseus-grc2.tb	μόνην δὲ μὴ πρόλειπε;
+perseus-eng2 Chorus
+perseus-eng2 Do not leave me forlorn,
+
+cts:urn:tlg0085.tlg001:748
+glaux1.0-sentence	356
+perseus-grc2.tb	λίσσομαι, πάτερ.
+perseus-eng2 I implore you, father.
+
+cts:urn:tlg0085.tlg001:749
+glaux1.0-sentence	357
+perseus-grc2.tb	γυνὴ μονωθεῖσ’ οὐδέν;
+perseus-eng2 A woman abandoned to herself is nothing.
+
+cts:urn:tlg0085.tlg001:749
+glaux1.0-sentence	358
+perseus-grc2.tb	οὐκ ἔνεστ’ Ἄρης.
+perseus-eng2 There is no Ares in her.
+
+cts:urn:tlg0085.tlg001:750
+glaux1.0-sentence	359
+perseus-grc2.tb	οὐλόφρονες, δὲ καὶ δολιομήτιδες δυσάγνοις φρεσίν, κόρακες ὥστε, βωμῶν ἀλέγοντες οὐδέν.
+perseus-eng2 They are of evil mind, and guileful of purpose, with impure hearts, thinking no more of altars than carrion birds.
+
+cts:urn:tlg0085.tlg001:753
+glaux1.0-sentence	360
+perseus-grc2.tb	καλῶς ἂν ἡμῖν ξυμφέροι ταῦτ’ ὦ τέκνα, εἰ σοί τε καὶ θεοῖσιν ἐχθαιροίατο.
+perseus-eng2 Danaus
+perseus-eng2 This would profit us well, my children, should they incur both Heaven’s hate and yours.
+
+cts:urn:tlg0085.tlg001:755
+glaux1.0-sentence	361
+perseus-grc2.tb	οὐ μὴ τριαίνας τάσδε καὶ θεῶν σέβη δείσαντες ἡμῶν χεῖρ’ ἀπόσχωνται, πάτερ.
+perseus-eng2 Chorus
+perseus-eng2 Father, no fear of tridents or of things held sacred in the sight of Heaven will ever keep their hands from us.
+
+cts:urn:tlg0085.tlg001:757
+glaux1.0-sentence	362
+perseus-grc2.tb	περίφρονες δ’ ἄγαν ἀνιέρῳ μένει μεμαργωμένοι κυνοθρασεῖς, θεῶν οὐδὲν ἐπαΐοντες.
+perseus-eng2 They are overweening, maddened, with unholy rage, shameless dogs that do not respect the gods.
+
+cts:urn:tlg0085.tlg001:760
+glaux1.0-sentence	363
+perseus-grc2.tb	ἀλλ’ ἔστι φήμη τοὺς λύκους κρείσσους κυνῶν εἶναι;
+perseus-eng2 Danaus
+perseus-eng2 Yet there is a saying that wolves are stronger than dogs;
+
+cts:urn:tlg0085.tlg001:761
+glaux1.0-sentence	364
+perseus-grc2.tb	βύβλου δὲ καρπὸς οὐ κρατεῖ στάχυν.
+perseus-eng2 the papyrus-fruit does not conquer the wheat-ear.
+
+cts:urn:tlg0085.tlg001:762
+glaux1.0-sentence	365
+perseus-grc2.tb	ὡς καὶ ματαίων ἀνοσίων τε κνωδάλων ἔχοντας ὀργάς, χρὴ φυλάσσεσθαι τάχος.
+perseus-eng2 Chorus
+perseus-eng2 Since they have the tempers of lewd and impious beasts, we must guard against them quickly.
+
+cts:urn:tlg0085.tlg001:764
+glaux1.0-sentence	366
+perseus-grc2.tb	οὔτοι ταχεῖα ναυτικοῦ στρατοῦ στολή, οὐδ’ ὅρμος, οὗ δεῖ πεισμάτων σωτήρια ἐς γῆν ἐνεγκεῖν, οὐδ’ ἐν ἀγκυρουχίαις θαρσοῦσι ναῶν ποιμένες παραυτίκα, ἄλλως τε καὶ μολόντες ἀλίμενον χθόνα ἐς νύκτ’ ἀποστείχοντος ἡλίου.
+perseus-eng2 Danaus
+perseus-eng2 A fleet in getting under way is not so speedy, nor yet in anchoring, when the securing cables must be brought ashore; and even at anchorage shepherds of ships do not feel immediately secure, above all if they have arrived on a harborless coast when the sun is sinking into night.
+
+cts:urn:tlg0085.tlg001:769
+glaux1.0-sentence	367
+perseus-grc2.tb	φιλεῖ ὠδῖνα τίκτειν νὺξ κυβερνήτῃ σοφῷ.
+perseus-eng2 In a cautious pilot night is likely to beget anxiety.
+
+cts:urn:tlg0085.tlg001:771
+glaux1.0-sentence	368
+perseus-grc2.tb	οὕτω γένοιτ’ ἂν οὐδ’ ἂν ἔκβασις στρατοῦ καλή, πρὶν ὅρμῳ ναῦν θρασυνθῆναι.
+perseus-eng2 Then, too, the disembarking of an army cannot be effected with success before a ship has gained confidence in her moorings.
+
+cts:urn:tlg0085.tlg001:772
+glaux1.0-sentence	369
+perseus-grc2.tb	σὺ δὲ φρόνει μὲν ὡς ταρβοῦσα μὴ ἀμελεῖν θεῶν;
+perseus-eng2 But, for all your terror, remember not to neglect the gods.
+
+cts:urn:tlg0085.tlg001:774b
+glaux1.0-sentence	370
+perseus-grc2.tb	πράξας ἀρωγήν;
+perseus-eng2 Danaus
+perseus-eng2 I will return when I have secured aid.
+
+cts:urn:tlg0085.tlg001:774b
+glaux1.0-sentence	371
+perseus-grc2.tb	ἄγγελον δ’ οὐ μέμψεται πόλις γέρονθ’, ἡβῶντα δ’ εὐγλώσσῳ φρενί.
+perseus-eng2 Chorus
+perseus-eng2 The city will find no fault with a messenger, old in years, but with youth in his heart and on his tongue.
+
+cts:urn:tlg0085.tlg001:776
+glaux1.0-sentence	372
+perseus-grc2.tb	ἰὼ γᾶ βοῦνι, πάνδικον σέβας, τί πεισόμεσθα;
+perseus-eng2 O land of hills, land of our righteous veneration, what is to be our lot?
+
+cts:urn:tlg0085.tlg001:777
+glaux1.0-sentence	373
+perseus-grc2.tb	ποῖ φύγωμεν Ἀπίας χθονός, κελαινὸν εἴ τι κεῦθός ἐστί που;
+perseus-eng2 Chorus
+perseus-eng2 To what region in the Apian land are we to flee, if anywhere there be some dark hiding-place?
+
+cts:urn:tlg0085.tlg001:779
+glaux1.0-sentence	374
+perseus-grc2.tb	μέλας γενοίμαν καπνὸς νέφεσσι γειτονῶν Διός;
+perseus-eng2 Ah that I might become black smoke that draws near to the clouds of Zeus;
+
+cts:urn:tlg0085.tlg001:781
+glaux1.0-sentence	375
+perseus-grc2.tb	τὸ πᾶν δ’ ἄφαντος ἀμπετὴς ἀιδνὸς ὡς κόνις ἄτερθε πτερύγων ὀλοίμαν.
+perseus-eng2 or, soaring aloft without wings, vanish out of sight like viewless dust and dissolve into nothingness!
+
+cts:urn:tlg0085.tlg001:784
+glaux1.0-sentence	376
+perseus-grc2.tb	ἄφυκτον δ’ οὐκέτ’ ἂν πέλοι κακόν;
+perseus-eng2 The evil is no longer escapable;
+
+cts:urn:tlg0085.tlg001:785
+glaux1.0-sentence	377
+perseus-grc2.tb	κελαινόχρως δὲ πάλλεταί μου καρδία .
+perseus-eng2 my heart is darkened and trembling;
+
+cts:urn:tlg0085.tlg001:786
+glaux1.0-sentence	378
+perseus-grc2.tb	πατρὸς σκοπαὶ δέ μ’ εἷλον ·
+perseus-eng2 the look-out my father held has brought me ruin.
+
+cts:urn:tlg0085.tlg001:786
+glaux1.0-sentence	379
+perseus-grc2.tb	οἴχομαι φόβῳ .
+perseus-eng2 I am undone with terror.
+
+cts:urn:tlg0085.tlg001:787
+glaux1.0-sentence	380
+perseus-grc2.tb	θέλοιμι δ’ ἂν μορσίμου βρόχου τυχεῖν ἐν ἀρτάναις , πρὶν ἄνδρ’ ἀπευκτὸν τῷδε χριμφθῆναι χροΐ .
+perseus-eng2 Rather would I meet my doom in a noose than suffer the embraces of a man I loathe.
+
+cts:urn:tlg0085.tlg001:791
+glaux1.0-sentence	381
+perseus-grc2.tb	πρόπαρ θανούσας δ’ Ἀίδας ἀνάσσοι .
+perseus-eng2 Death before that, with Hades for my lord and master!
+
+cts:urn:tlg0085.tlg001:786
+glaux1.0-sentence	378
+perseus-grc2.tb	πατρὸς σκοπαὶ δέ μ’ εἷλον.
+perseus-eng2 My father's watchful care has captured me;
+
+cts:urn:tlg0085.tlg001:786
+glaux1.0-sentence	379
+perseus-grc2.tb	οἴχομαι φόβῳ.
+perseus-eng2 I am overwhelmed with fear.
+
+cts:urn:tlg0085.tlg001:787
+glaux1.0-sentence	380
+perseus-grc2.tb	θέλοιμι δ’ ἂν μορσίμου βρόχου τυχεῖν ἐν ἀρτάναις, πρὶν ἄνδρ’ ἀπευκτὸν τῷδε χριμφθῆναι χροΐ.
+perseus-eng2 I would rather meet my fate in a deadly noose than to be clasped in the arms of a man so abhorrent.
+
+cts:urn:tlg0085.tlg001:791
+glaux1.0-sentence	381
+perseus-grc2.tb	πρόπαρ θανούσας δ’ Ἀίδας ἀνάσσοι.
+perseus-eng2 Death before that, with Hades for my lord and master!
+
+cts:urn:tlg0085.tlg001:792
+glaux1.0-sentence	382
+perseus-grc2.tb	πόθεν δέ μοι γένοιτ’ ἂν αἰθέρος θρόνος, πρὸς ὃν νέφη μυδηλὰ γίγνεται χιών, ἢ λισσὰς αἰγίλιψ ἀπρόσδεικτος οἰόφρων κρεμὰς γυπιὰς πέτρα, βαθὺ πτῶμα μαρτυροῦσά μοι, πρὶν δαΐκτορος βίᾳ καρδίας γάμου κυρῆσαι;
+perseus-eng2 Ah, that somewhere in the upper air I might find a seat against which the dank clouds turn into snow, or some bare, inaccessible crag, beyond sight, brooding in solitude, to bear witness to my plunge before I am forced into a marriage that would pierce my heart!
+
+cts:urn:tlg0085.tlg001:800
+glaux1.0-sentence	383
+perseus-grc2.tb	κυσὶν δ’ ἔπειθ’ ἕλωρα κ- ἐπιχωρίοις ὄρνισι δεῖπνον οὐκ ἀναίνομαι πέλειν.
+perseus-eng2 Thereafter I refuse not to become a prey for dogs and a banquet for the local birds;
+
+cts:urn:tlg0085.tlg001:802
+glaux1.0-sentence	384
+perseus-grc2.tb	τὸ γὰρ θανεῖν ἐλευθεροῦται φιλαιάκτων κακῶν.
+perseus-eng2 for death is freedom from misery-loving evils.
+
+cts:urn:tlg0085.tlg001:803
+glaux1.0-sentence	385
+perseus-grc2.tb	ἐλθέτω ἐλθέτω μόρος, πρὸ κοίτας γαμηλίου τυχών.
+perseus-eng2 Come, come, death, before the marriage-bed!
+
+cts:urn:tlg0085.tlg001:806
+glaux1.0-sentence	386
+perseus-grc2.tb	ἀμφυγᾶς τίν’ ἔτι πόρον τέμνω γάμου λυτῆρα;
+perseus-eng2 How can I yet find some means of escape to deliver me from marriage?
+
+cts:urn:tlg0085.tlg001:808
+glaux1.0-sentence	387
+perseus-grc2.tb	ἴυζε δ’ ὀμφὰν οὐρανίαν μέλεα μέλη λιτανὰ θεοῖς.
+perseus-eng2 Shriek aloud, with a cry that reaches heaven, strains of supplication to the gods;
+
+cts:urn:tlg0085.tlg001:810
+glaux1.0-sentence	388
+perseus-grc2.tb	τέλεα δέ πως πελόμενά μοι λύσιμά τ’ ἄχιμά τ’ ἔπιδε, πάτερ, βίαια μὴ φαιδρῶς ὁρῶν ὄμμασιν ἐνδίκοις.
+perseus-eng2 O father, give heed that they are somehow accomplished to my safety and tranquility. Behold deeds of violence with no kind glance in your just eyes!
+
+cts:urn:tlg0085.tlg001:815
+glaux1.0-sentence	389
+perseus-grc2.tb	σεβίζου δ’ ἱκέτας σέθεν, γαιάοχε παγκρατὲς Ζεῦ.
+perseus-eng2 Have respect for your suppliants, O Zeus, omnipotent upholder of the land!
+
+cts:urn:tlg0085.tlg001:817
+glaux1.0-sentence	390
+perseus-grc2.tb	γένος γὰρ Αἰγύπτειον ὕβριν δύσφορον ἀρσενογενὲς μετά με δρόμοισι διόμενοι φυγάδα μάταισι πολυθρόοις βίαια δίζηνται λαβεῖν.
+perseus-eng2 For the males of the race of Aegyptus, intolerable in their wantonness, chase after me, a fugitive, with clamorous lewdness and seek to lay hold of me with violence.
+
+cts:urn:tlg0085.tlg001:822
+glaux1.0-sentence	391
+perseus-grc2.tb	σὸν δ’ ἐπίπαν ζυγὸν ταλάντου.
+perseus-eng2 But yours alone is the beam of the balance,
+
+cts:urn:tlg0085.tlg001:823
+glaux1.0-sentence	392
+perseus-grc2.tb	τί δ’ ἄνευ σέθεν θνατοῖσι τέλειόν ἐστιν;
+perseus-eng2 and without you what is accomplished for mortals?
+
+cts:urn:tlg0085.tlg001:825
+glaux1.0-sentence	393
+perseus-grc2.tb	ό ό ό, ά ά ά;
+perseus-eng2 Ho! Ha!
+
+cts:urn:tlg0085.tlg001:826
+glaux1.0-sentence	394
+perseus-grc2.tb	ὅδε μάρπτις νάιος γάιος.
+perseus-eng2 Here on the land is the pirate from the ship!
+
+cts:urn:tlg0085.tlg001:827
+glaux1.0-sentence	395
+perseus-grc2.tb	τῶν πρό, μάρπτι, κάμνοις;
+perseus-eng2 Before that, pirate, may you perish...
+
+cts:urn:tlg0085.tlg001:828
+glaux1.0-sentence	396
+perseus-grc2.tb	ἰόφ..
+perseus-eng2 I see...
+
+cts:urn:tlg0085.tlg001:828
+glaux1.0-sentence	397
+perseus-grc2.tb	ὀμ..
+perseus-eng2 ...in this...
+
+cts:urn:tlg0085.tlg001:828
+glaux1.0-sentence	398
+perseus-grc2.tb	αὖθι κάκκας νυ δυϊαν βοᾶν ἀμφαίνω.
+perseus-eng2 [translation unclear]
+
+cts:urn:tlg0085.tlg001:830
+glaux1.0-sentence	399
+perseus-grc2.tb	ὁρῶ τάδε φροίμια πράξαν πόνων βιαίων ἐμῶν.
+perseus-eng2 ...the prelude of suffering wrought by violence.
+
+cts:urn:tlg0085.tlg001:831
+glaux1.0-sentence	400
+perseus-grc2.tb	ἠὲ ἠέ.
+perseus-eng2 Oh! Oh!
+
+cts:urn:tlg0085.tlg001:832
+glaux1.0-sentence	401
+perseus-grc2.tb	βαῖνε φυγᾷ πρὸς ἀλκάν;
+perseus-eng2 Fly for protection!
+
+cts:urn:tlg0085.tlg001:833
+glaux1.0-sentence	402
+perseus-grc2.tb	βλοσυρόφρονα χλιδᾷ δύσφορα ναῒ κ- ἐν γᾷ.
+perseus-eng2 Savagery beyond bearing... by its insolence on sea and land alike.
+
+cts:urn:tlg0085.tlg001:835
+glaux1.0-sentence	403
+perseus-grc2.tb	γαϊάναξ προτάσσου.
+perseus-eng2 Lord of the land, protect us!
+
+cts:urn:tlg0085.tlg001:836
+glaux1.0-sentence	404
+perseus-grc2.tb	σοῦσθε σοῦσθ’ ἐπὶ βᾶριν ὅπως ποδῶν ἔχετε οὐκοῦν οὐκοῦν τιλμοὶ τιλμοὶ καὶ στιγμοί , πολυαίμων φόνιος ἀποκοπὰ κρατός .
+perseus-eng2 Away with you, away to the ship...
+perseus-eng2 I order you to stop your shrieking.
+
+cts:urn:tlg0085.tlg001:842
+glaux1.0-sentence	405
+perseus-grc2.tb	σοῦσθε σοῦσθ’ ὀλύμεναι ὀλόμεν’ ἐπαμίδα .
+perseus-eng2 ... Ho there! leave the sanctuary: be off to the ship!
+
+cts:urn:tlg0085.tlg001:843
+glaux1.0-sentence	406
+perseus-grc2.tb	εἴθ’ ἀνὰ πολύρυτον ἁλμήεντα πόρον δεσποσίῳ ξὺν ὕβρει , γομφοδέτῳ τε δόρει διώλου .
+perseus-eng2 Would that you had perished on your course over the great briny flood
+perseus-eng2 along with your lordly arrogance and your riveted ship!
+
+cts:urn:tlg0085.tlg001:847
+glaux1.0-sentence	407
+perseus-grc2.tb	αἵμονες ὡς ἐπάμιδα ησυδουπιάπιτα κελεύω βοᾶν μεθέσθαι ἴχαρ φρενί τ’ ἄταν .
+perseus-eng2 I order you to stop your shrieking.
+
+cts:urn:tlg0085.tlg001:851
+glaux1.0-sentence	408
+perseus-grc2.tb	ἰοὺ ἰού .
+perseus-eng2 You there!
+
+cts:urn:tlg0085.tlg001:852
+glaux1.0-sentence	409
+perseus-grc2.tb	λεῖφ’ ἕδρανα , κί’ ἐς δόρυ .
+perseus-eng2 leave the sanctuary: be off to the ship!
+
+cts:urn:tlg0085.tlg001:853
+glaux1.0-sentence	410
+perseus-grc2.tb	ἀτίετον ἄπολιν οὐ σέβω .
+perseus-eng2 I do not respect one without honor and city.
+
+cts:urn:tlg0085.tlg001:854
+glaux1.0-sentence	411
+perseus-grc2.tb	μήποτε πάλιν ἴδοιμ’ ἀλφεσίβοιον ὕδωρ , ἔνθεν ἀεξόμενον ζώφυτον αἷμα βροτοῖσι θάλλει .
+perseus-eng2 Never again may my eyes behold
+perseus-eng2 the cattle-nurturing stream from which increase comes to men and vigor of the blood of life.
+
+cts:urn:tlg0085.tlg001:858
+glaux1.0-sentence	412
+perseus-grc2.tb	ἔγγαιος ἐγὼ βαθυχαῖος βαθρείας βαθρείας , γέρον .
+perseus-eng2 I am a native here, of ancient nobility . . . old man.
+
+cts:urn:tlg0085.tlg001:861
+glaux1.0-sentence	413
+perseus-grc2.tb	σὺ δ’ ἐν ναῒ ναῒ βάσῃ τάχα θέλεος ἀθέλεος , βίᾳ βίᾳ τε πολλᾷ φροῦδα .
+perseus-eng2 You will get yourself speedily on board, on board, I say, whether you will or not, by force, by force. . . .
+
+cts:urn:tlg0085.tlg001:864
+glaux1.0-sentence	414
+perseus-grc2.tb	βάτεαι βαθυμιτροκακὰ παθῶν ὀλόμεναι παλάμαις .
+perseus-eng2 [translation unclear]
+
+cts:urn:tlg0085.tlg001:866
+glaux1.0-sentence	415
+perseus-grc2.tb	αἰαῖ αἰαῖ .
+perseus-eng2 Alas, alas!
+
+cts:urn:tlg0085.tlg001:867
+glaux1.0-sentence	416
+perseus-grc2.tb	αἲ γὰρ δυσπαλάμως ὄλοιο δι’ ἁλίρρυτον ἄλσος , κατὰ Σαρπηδόνιον χῶμα πολύψαμμον ἀλαθεὶς Εὐρεΐαισιν αὔραις .
+perseus-eng2 So may you perish past all help, driven from your course over the surging waves by eastern breezes off the sandy tomb of Sarpedon!
+
+cts:urn:tlg0085.tlg001:872
+glaux1.0-sentence	417
+perseus-grc2.tb	ἴυζε καὶ λάκαζε καὶ κάλει θεούς.
+perseus-eng2 Wail and shout and call upon the gods—
+
+cts:urn:tlg0085.tlg001:873
+glaux1.0-sentence	418
+perseus-grc2.tb	Αἰγυπτίαν γὰρ βᾶριν οὐχ ὑπερθορῇ.
+perseus-eng2 you will not escape the Egyptian ship.
+
+cts:urn:tlg0085.tlg001:874
+glaux1.0-sentence	419
+perseus-grc2.tb	ἴυζε καὶ βόα, χέον πικρότερον οἰζύος νόμον.
+perseus-eng2 Cry out, utter a strain of woe more bitter still.
+
+cts:urn:tlg0085.tlg001:876
+glaux1.0-sentence	420
+perseus-grc2.tb	οἰοῖ οἰοῖ, λύμας, ᾇ σὺ πρὸ γᾶς ὑλάσκων περί, χάμψα, βρυάζεις.
+perseus-eng2 Alas, alas the brutal outrage with which, you crocodile, you boast arrogantly, bellowing on the sea.
+
+cts:urn:tlg0085.tlg001:879
+glaux1.0-sentence	421
+perseus-grc2.tb	ὃς ἐπωπᾷ σ’, ὁ μέγας Νεῖλος, ὑβρίζοντά σ’ ἀποτρέψειεν ἄιστον ὕβριν.
+perseus-eng2 May the mighty Nile, who watches you, overwhelm your arrogance and destroy you.
+
+cts:urn:tlg0085.tlg001:882
+glaux1.0-sentence	422
+perseus-grc2.tb	βαίνειν κελεύω βᾶριν εἰς ἀμφίστροφον ὅσον τάχιστα.
+perseus-eng2 Go to the double-prowed ship as quickly as possible.
+
+cts:urn:tlg0085.tlg001:883
+glaux1.0-sentence	423
+perseus-grc2.tb	μηδέ τις σχολαζέτω.
+perseus-eng2 Let no one delay,
+
+cts:urn:tlg0085.tlg001:884
+glaux1.0-sentence	424
+perseus-grc2.tb	ὁλκὴ γὰρ οὔτοι πλόκαμον οὐδάμ’ ἅζεται.
+perseus-eng2 for dragging by force has no mercy on locks of hair.
+
+cts:urn:tlg0085.tlg001:885
+glaux1.0-sentence	425
+perseus-grc2.tb	οἰοῖ, πάτερ, βρέτεος ἄρος ἀτᾷ μ’.
+perseus-eng2 Alas, father; the help of the sacred images deludes me.
+
+cts:urn:tlg0085.tlg001:886
+glaux1.0-sentence	426
+perseus-grc2.tb	·
+
+cts:urn:tlg0085.tlg001:886
+glaux1.0-sentence	427
+perseus-grc2.tb	ἅλαδ’ ἄγει ἄραχνος ὡς βάδην.
+perseus-eng2 Like a spider, he is carrying me seaward step by step—
+
+cts:urn:tlg0085.tlg001:888
+glaux1.0-sentence	428
+perseus-grc2.tb	ὄναρ ὄναρ μέλαν, ὀτοτοτοτοῖ, μᾶ Γᾶ μᾶ Γᾶ, βοὰν φοβερὸν ἀπότρεπε, ὦ πᾶ, Γᾶς παῖ, Ζεῦ.
+perseus-eng2 a nightmare, a black nightmare! Oh! Oh! Mother Earth, mother Earth, avert his fearful cries! O father Zeus, son of Earth!
+
+cts:urn:tlg0085.tlg001:893
+glaux1.0-sentence	429
+perseus-grc2.tb	οὔτοι φοβοῦμαι δαίμονας τοὺς ἐνθάδε.
+perseus-eng2 I do not fear the native gods, be assured.
+
+cts:urn:tlg0085.tlg001:894
+glaux1.0-sentence	430
+perseus-grc2.tb	οὐ γάρ μ’ ἔθρε
+perseus-eng2 They did not rear me, nor by their nurture did they bring me to old age.
+
+cts:urn:tlg0085.tlg001:895
+glaux1.0-sentence	431
+perseus-grc2.tb	μαιμᾷ πέλας δίπους ὄφις.
+perseus-eng2 He rages close to me, the two-footed serpent.
+
+cts:urn:tlg0085.tlg001:896
+glaux1.0-sentence	432
+perseus-grc2.tb	ἔχιδνα δ’ ὥς μέ τις πόδα δακοῦσ’ ἔχει.
+perseus-eng2 Like some viper he lays hold of me and bites my foot.
+
+cts:urn:tlg0085.tlg001:898
+glaux1.0-sentence	433
+perseus-grc2.tb	ὀτοτοτοτοῖ, μᾶ Γᾶ μᾶ Γᾶ βοὰν φοβερὸν ἀπότρεπε, ὦ πᾶ, Γᾶς παῖ, Ζεῦ.
+perseus-eng2 Alas, alas! Mother Earth, mother Earth, avert his fearful cries! O father Zeus, son of Earth!
+
+cts:urn:tlg0085.tlg001:902
+glaux1.0-sentence	434
+perseus-grc2.tb	εἰ μή τις ἐς ναῦν εἶσιν αἰνέσας τάδε, λακὶς χιτῶνος ἔργον οὐ κατοικτιεῖ.
+perseus-eng2 If you will not resign yourself and get to the ship, rending will have no pity on the fabric of your garments.
+
+cts:urn:tlg0085.tlg001:904
+glaux1.0-sentence	435
+perseus-grc2.tb	διωλόμεσθ’.
+perseus-eng2 We are lost!
+
+cts:urn:tlg0085.tlg001:904
+glaux1.0-sentence	436
+perseus-grc2.tb	ἄσεπτ’, ἄναξ, πάσχομεν — πολλοὺς ἄνακτας, παῖδας Αἰγύπτου τάχα ὄψεσθε.
+perseus-eng2 O King, we are suffering impious violence! You will soon see many kings in Aegyptus’ sons.
+
+cts:urn:tlg0085.tlg001:906
+glaux1.0-sentence	437
+perseus-grc2.tb	θαρσεῖτ’, οὐκ ἐρεῖτ’ ἀναρχίαν.
+perseus-eng2 Be of good cheer: you will not have to blame lack of government.
+
+cts:urn:tlg0085.tlg001:907
+glaux1.0-sentence	438
+perseus-grc2.tb	ἰὼ πόλεως ἀγοὶ πρόμοι, δάμναμαι.
+perseus-eng2 Listen! Chiefs and rulers of the city, I am threatened with violence!
+
+cts:urn:tlg0085.tlg001:909
+glaux1.0-sentence	439
+perseus-grc2.tb	ἕλξειν ἔοιχ’ ὑμᾶς ἀποσπάσας κόμης, ἐπεὶ οὐκ ἀκούετ’ ὀξὺ τῶν ἐμῶν λόγων.
+perseus-eng2 I think I will have to seize you by the hair and drag you off since you are slow to heed my orders.
+
+cts:urn:tlg0085.tlg001:911
+glaux1.0-sentence	440
+perseus-grc2.tb	οὗτος, τί ποιεῖς;
+perseus-eng2 You there! What are you doing?
+
+cts:urn:tlg0085.tlg001:911
+glaux1.0-sentence	441
+perseus-grc2.tb	ἐκ ποίου φρονήματος ἀνδρῶν Πελασγῶν τήνδ’
+perseus-eng2 What kind of arrogance has incited you to do such dishonor to this realm of Pelasgian men?
+
+cts:urn:tlg0085.tlg001:913
+glaux1.0-sentence	442
+perseus-grc2.tb	ἀλλ’ ἦ γυναικῶν ἐς πόλιν δοκεῖς μολεῖν;
+perseus-eng2 Indeed, do you think you have come to a land of women?
+
+cts:urn:tlg0085.tlg001:914
+glaux1.0-sentence	443
+perseus-grc2.tb	κάρβανος ὢν δ’ Ἕλλησιν ἐγχλίεις ἄγαν;
+perseus-eng2 For a barbarian dealing with Hellenes, you act insolently.
+
+cts:urn:tlg0085.tlg001:915
+glaux1.0-sentence	444
+perseus-grc2.tb	καὶ πόλλ’ ἁμαρτὼν οὐδὲν ὤρθωσας φρενί.
+perseus-eng2 Many are the misses of your wits, and your hits are none.
+
+cts:urn:tlg0085.tlg001:916
+glaux1.0-sentence	445
+perseus-grc2.tb	τί δ’ ἠμπλάκηται τῶνδ’ ἐμοὶ δίκης ἄτερ;
+perseus-eng2 And in this case where have I gone wrong and transgressed my right?
+
+cts:urn:tlg0085.tlg001:917
+glaux1.0-sentence	446
+perseus-grc2.tb	ξένος μὲν εἶναι πρῶτον οὐκ ἐπίστασαι.
+perseus-eng2 First of all, you do not know how to act as a stranger.
+
+cts:urn:tlg0085.tlg001:918
+glaux1.0-sentence	447
+perseus-grc2.tb	πῶς δ’ οὐχί;
+perseus-eng2 I not know? How so?
+
+cts:urn:tlg0085.tlg001:918
+glaux1.0-sentence	448
+perseus-grc2.tb	τ- ἔμʼ ὀλωλόθ’ εὑρίσκων ἄγω.
+perseus-eng2 When I simply find and take my own that I had lost?
+
+cts:urn:tlg0085.tlg001:919
+glaux1.0-sentence	449
+perseus-grc2.tb	ποίοισιν εἰπὼν προξένοις ἐγχωρίοις;
+perseus-eng2 To what patrons of your land was your notice given?
+
+cts:urn:tlg0085.tlg001:920
+glaux1.0-sentence	450
+perseus-grc2.tb	Ἑρμῇ μεγίστῳ προξένῳ μαστηρίῳ.
+perseus-eng2 To Hermes, the Searcher, greatest of patrons.
+
+cts:urn:tlg0085.tlg001:921
+glaux1.0-sentence	451
+perseus-grc2.tb	θεοῖσιν εἰπὼν τοὺς θεοὺς οὐδὲν σέβῃ.
+perseus-eng2 For all your notice to the gods, you do them no reverence.
+
+cts:urn:tlg0085.tlg001:922
+glaux1.0-sentence	452
+perseus-grc2.tb	τοὺς ἀμφὶ Νεῖλον δαίμονας σεβίζομαι.
+perseus-eng2 I revere the deities by the Nile.
+
+cts:urn:tlg0085.tlg001:923
+glaux1.0-sentence	453
+perseus-grc2.tb	οἱ δ’ ἐνθάδ’ οὐδέν, ὡς ἐγὼ σέθεν κλύω;
+perseus-eng2 While ours are nothing, as I understand you?
+
+cts:urn:tlg0085.tlg001:924
+glaux1.0-sentence	454
+perseus-grc2.tb	ἄγοιμ’ ἄν, εἴ τις τάσδε μὴ ’ξαιρήσεται.
+perseus-eng2 I shall carry off these maids unless someone tears them away.
+
+cts:urn:tlg0085.tlg001:925
+glaux1.0-sentence	455
+perseus-grc2.tb	κλάοις ἄν, εἰ ψαύσειας, οὐ μάλ’ ἐς μακράν.
+perseus-eng2 If you so much as touch them, you will regret it, and right soon.
+
+cts:urn:tlg0085.tlg001:926
+glaux1.0-sentence	456
+perseus-grc2.tb	ἤκουσα τ- ἔπος δ’ οὐδαμῶς φιλόξενον.
+perseus-eng2 I hear you; and your speech is far from hospitable.
+
+cts:urn:tlg0085.tlg001:927
+glaux1.0-sentence	457
+perseus-grc2.tb	οὐ γὰρ ξενοῦμαι τοὺς θεῶν συλήτορας.
+perseus-eng2 No, since I have no hospitality for despoilers of the gods.
+
+cts:urn:tlg0085.tlg001:928
+glaux1.0-sentence	458
+perseus-grc2.tb	λέγοιμ’ ἂν ἐλθὼν παισὶν Αἰγύπτου τάδε.
+perseus-eng2 I will go and tell Aegyptus’ sons about this.
+
+cts:urn:tlg0085.tlg001:929
+glaux1.0-sentence	459
+perseus-grc2.tb	ἀβουκόλητον τοῦτ’ ἐμῷ, φρονήματι.
+perseus-eng2 My proud spirit will not ponder on this threat.
+
+cts:urn:tlg0085.tlg001:930
+glaux1.0-sentence	460
+perseus-grc2.tb	ἀλλ’ ὡς ἂν εἰδὼς ἐννέπω σαφέστερον, — καὶ γὰρ πρέπει κήρυκ’ ἀπαγγέλλειν τορῶς ἕκαστα, — πῶς φῶ, πρὸς τίνος τ’ ἀφαιρεθεὶς ἥκειν γυναικῶν αὐτανέψιον στόλον?
+perseus-eng2 But that I may know and tell a plainer tale —for it is fitting that a herald make exact report on each detail—what message am I to deliver? Who is it, am I to tell on my return, that has despoiled me of this band of women, their own cousins?
+
+cts:urn:tlg0085.tlg001:934
+glaux1.0-sentence	461
+perseus-grc2.tb	οὔτοι δικάζει ταῦτα μαρτύρων ὕπο Ἄρης;
+perseus-eng2 It is not, I suppose, by voice of witnesses that the god of battle judges cases like this;
+
+cts:urn:tlg0085.tlg001:935
+glaux1.0-sentence	462
+perseus-grc2.tb	τὸ νεῖκος δ’ οὐκ ἐν ἀργύρου λαβῇ ἔλυσεν;
+perseus-eng2 nor is it by the gift of silver that he settles dispute;
+
+cts:urn:tlg0085.tlg001:936
+glaux1.0-sentence	463
+perseus-grc2.tb	ἀλλὰ πολλὰ γίγνεται πάρος πεσήματ’ ἀνδρῶν κ- ἀπολακτισμοὶ βίου.
+perseus-eng2 no! If that be the case, many a one shall fall and shuffle off his life.
+
+cts:urn:tlg0085.tlg001:938
+glaux1.0-sentence	464
+perseus-grc2.tb	τί σοι λέγειν χρὴ τ- ὄνομʼ;
+perseus-eng2 My name? Why should I tell you?
+
+cts:urn:tlg0085.tlg001:938
+glaux1.0-sentence	465
+perseus-grc2.tb	ἐν χρόνῳ μαθὼν εἴσῃ σύ τ’ αὐτὸς κ- οἱ ξυνέμποροι σέθεν.
+perseus-eng2 In due course of time you will learn it, you and your companions.
+
+cts:urn:tlg0085.tlg001:940
+glaux1.0-sentence	466
+perseus-grc2.tb	ταύτας δ’ ἑκούσας μὲν κατ’ εὔνοιαν φρενῶν ἄγοις ἄν, εἴπερ εὐσεβὴς πίθοι λόγος.
+perseus-eng2 As for these maids, if, convinced by god-fearing argument, they consent of their own free will and heartily, you may take them.
+
+cts:urn:tlg0085.tlg001:942
+glaux1.0-sentence	467
+perseus-grc2.tb	τοία δὲ δημόπρακτος ἐκ πόλεως μία ψῆφος κέκρανται, μήποτ’ ἐκδοῦναι βίᾳ στόλον γυναικῶν.
+perseus-eng2 But to this purpose a decree has been passed by the unanimous resolve of the people of the State, never, under compulsion, to surrender this association of women.
+
+cts:urn:tlg0085.tlg001:944
+glaux1.0-sentence	468
+perseus-grc2.tb	τῶνδ’ ἐφήλωται τορῶς γόμφος διαμπάξ, ὡς μένειν ἀραρότως.
+perseus-eng2 Through their resolve the rivet has been driven home, to remain fixed and fast.
+
+cts:urn:tlg0085.tlg001:946
+glaux1.0-sentence	469
+perseus-grc2.tb	ταῦτ’ οὐ πίναξίν ἐστιν ἐγγεγραμμένα οὐδ’ ἐν πτυχαῖς βίβλων κατεσφραγισμένα, σαφῆ δ’ ἀκούεις ἐξ ἐλευθεροστόμου γλώσσης.
+perseus-eng2 Not on tablets is this inscribed, nor has it been sealed in folds of books: you hear the truth from free-spoken lips.
+
+cts:urn:tlg0085.tlg001:949
+glaux1.0-sentence	470
+perseus-grc2.tb	κομίζου δ’ ὡς τάχιστ’ ἐξ ὀμμάτων.
+perseus-eng2 Now get out of my sight immediately!
+
+cts:urn:tlg0085.tlg001:950
+glaux1.0-sentence	471
+perseus-grc2.tb	ἔοιγμεν ἤδη πόλεμον ἀρεῖσθαι νέον.
+perseus-eng2 I think we are about to involve ourselves in a new war.
+
+cts:urn:tlg0085.tlg001:951
+glaux1.0-sentence	472
+perseus-grc2.tb	εἴη δὲ νίκη καὶ κράτη τοῖς ἄρσεσιν.
+perseus-eng2 But may victory and authority rest with the men!
+
+cts:urn:tlg0085.tlg001:952
+glaux1.0-sentence	473
+perseus-grc2.tb	ἀλλ’ ἄρσενάς τοι τῆσδε γῆς οἰκήτορας εὑρήσετ’ οὐ πίνοντας ἐκ κριθῶν μέθυ.
+perseus-eng2 It is men, I believe, you will find in the dwellers of this land; and they are no drinkers of diluted wine.
+
+cts:urn:tlg0085.tlg001:954
+glaux1.0-sentence	474
+perseus-grc2.tb	ὑμεῖς δὲ πᾶσαι σὺν φίλαις ὀπάοσι θράσος λαβοῦσαι στείχετ’ εὐερκῆ πόλιν, πύργων βαθείᾳ μηχανῇ κεκλῃμένην.
+perseus-eng2 But you, all of you, along with your handmaidens, take courage and proceed to our well-fenced town, encircled by sturdy devices of towers.
+
+cts:urn:tlg0085.tlg001:957
+glaux1.0-sentence	475
+perseus-grc2.tb	καὶ δώματ’ ἐστὶ πολλὰ μὲν τὰ δήμια, δεδωμάτωμαι δ’ οὐδ’ ἐγὼ σμικρᾷ χερί.
+perseus-eng2 As for places inside to lodge, there are plenty of the public sort. For on no modest scale do I myself live,
+
+cts:urn:tlg0085.tlg001:959
+glaux1.0-sentence	476
+perseus-grc2.tb	ἔνθ’ ὑμίν ἐστιν εὐτύκους ναίειν δόμους πολλῶν μετ’ ἄλλων.
+perseus-eng2 where, in company with many others, you may occupy abodes suitably prepared;
+
+cts:urn:tlg0085.tlg001:960
+glaux1.0-sentence	477
+perseus-grc2.tb	εἰ δέ τις μείζων χάρις, πάρεστιν οἰκεῖν καὶ μονορρύθμους δόμους.
+perseus-eng2 or, if it is more pleasing to you, it is free for you also to make your home in dwellings of separate sort.
+
+cts:urn:tlg0085.tlg001:962
+glaux1.0-sentence	478
+perseus-grc2.tb	τούτων τὰ λῷστα καὶ τὰ θυμηδέστατα πάρεστι, λωτίσασθε.
+perseus-eng2 Of these select what is best and most to your desires.
+
+cts:urn:tlg0085.tlg001:963
+glaux1.0-sentence	479
+perseus-grc2.tb	προστάτης δ’ ἐγὼ ἀστοί τε πάντες, ὧνπερ ἥδε κραίνεται ψῆφος.
+perseus-eng2 A protector you have in me and in all the inhabitants, whose resolve this is that now takes effect.
+
+cts:urn:tlg0085.tlg001:965
+glaux1.0-sentence	480
+perseus-grc2.tb	τί τῶνδε κυριωτέρους μένεις;
+perseus-eng2 Why wait for others of higher authority?
+
+cts:urn:tlg0085.tlg001:966
+glaux1.0-sentence	481
+perseus-grc2.tb	ἀλλ’ ἀντ’ ἀγαθῶν ἀγαθοῖσι βρύοις, δῖε Πελασγῶν.
+perseus-eng2 In blessings may you abound, noble Pelasgian, in requital for your blessings!
+
+cts:urn:tlg0085.tlg001:968
+glaux1.0-sentence	482
+perseus-grc2.tb	πέμψον δὲ πρόφρων δεῦρ’ ἡμέτερον πατέρ’ εὐθαρσῆ Δαναόν, πρόνοον καὶ βούλαρχον.
+perseus-eng2 But, if it pleases you, send our brave father Danaus here to be our adviser and leader of our counsels.
+
+cts:urn:tlg0085.tlg001:970
+glaux1.0-sentence	483
+perseus-grc2.tb	τοῦ γὰρ προτέρα μῆτις, ὅπου χρὴ δώματα ναίειν καὶ τόπος εὔφρων.
+perseus-eng2 For it befits him, rather than ourselves, to advise us where we should establish our home and what neighborhood is friendly.
+
+cts:urn:tlg0085.tlg001:972
+glaux1.0-sentence	484
+perseus-grc2.tb	πᾶς τις ἐπειπεῖν ψόγον ἀλλοθρόοις εὔτυκος;
+perseus-eng2 All the world is ready to cast reproach on those who speak a foreign tongue.
+
+cts:urn:tlg0085.tlg001:974
+glaux1.0-sentence	485
+perseus-grc2.tb	εἴη δὲ τὰ λῷστα.
+perseus-eng2 But may all be for the best!
+
+cts:urn:tlg0085.tlg001:975
+glaux1.0-sentence	486
+perseus-grc2.tb	σύν τ’ εὐκλείᾳ καὶ ἀμηνίτῳ βάξει λαῶν ἐγχώρων τάσσεσθε , φίλαι δμωίδες , οὕτως ὡς ἐφ’ ἑκάστῃ διεκλήρωσεν Δαναὸς θεραποντίδα φερνήν .
+perseus-eng2 And you, dear handmaidens, preserving your fair fame and provoking no angry utterances on the part of the native folk, take up your stations even as Danaus has allotted her duty of attendance unto each.
+
+cts:urn:tlg0085.tlg001:975
+glaux1.0-sentence	486
+perseus-grc2.tb	σύν τ’ εὐκλείᾳ καὶ ἀμηνίτῳ βάξει λαῶν ἐγχώρων τάσσεσθε, φίλαι δμωίδες, οὕτως ὡς ἐφ’ ἑκάστῃ διεκλήρωσεν Δαναὸς θεραποντίδα φερνήν.
+perseus-eng2 Align yourselves with both the fame and the peaceful conduct of the local people, dear handmaidens, according to the allotment Danaus has made for each of you.
+
+cts:urn:tlg0085.tlg001:980
+glaux1.0-sentence	487
+perseus-grc2.tb	ὦ παῖδες, Ἀργείοισιν εὔχεσθαι χρεών, θύειν τε λείβειν θ’, ὡς θεοῖς, Ὀλυμπίοις, σπονδάς, ἐπεὶ σωτῆρες οὐ διχορρόπως.
+perseus-eng2 O children, it is right to pray to the Argives, to sacrifice and pour libations to them, as to the Olympian gods, for they are our unquestionable saviors.
+
+cts:urn:tlg0085.tlg001:983
+glaux1.0-sentence	488
+perseus-grc2.tb	καί μου τὰ μὲν πραχθέντα πρὸς τοὺς ἐγγενεῖς φίλους πικρῶς ἤκουσαν αὐτανεψίοις.
+perseus-eng2 They heard bitterly of the deeds done against our kinfolk by their own cousins.
+
+cts:urn:tlg0085.tlg001:985
+glaux1.0-sentence	489
+perseus-grc2.tb	ἐμοὶ δ’ ὀπαδοὺς τούσδε καὶ δορυσσόους ἔταξαν, ὡς ἔχοιμι τίμιον γέρας, καὶ μὴ ’ξ ἀέλπτων δορικανεῖ μόρῳ θανὼν λάθοιμι, χώρᾳ δ’ ἄχθος ἀείζων πέλοι.
+perseus-eng2 To me, they assigned these attendants and spearmen, so that I might have honorable distinction and not die unnoticed by the spear's blow, becoming an ever-growing burden to the land.
+
+cts:urn:tlg0085.tlg001:989
+glaux1.0-sentence	490
+perseus-grc2.tb	τοιῶνδε τυγχάνοντας ἐκ πρυμνῆς φρενὸς χάριν σέβεσθαι τιμιωτέραν χρεών.
+perseus-eng2 Those who receive such favors must hold gratitude in higher honor from the depths of their hearts.
+
+cts:urn:tlg0085.tlg001:991
+glaux1.0-sentence	491
+perseus-grc2.tb	καὶ ταῦθ’ ἅμ’ ἐγγράψασθε πρὸς γεγραμμένοις πολλοῖσιν ἄλλοις σωφρονίσμασιν πατρός, ἀγνῶθ’ ὅμιλον ἐξελέγχεσθαι χρόνῳ.
+perseus-eng2 And along with these, inscribe in your hearts many other wise teachings of your father, knowing that an unknown company is proven over time.
+
+cts:urn:tlg0085.tlg001:994
+glaux1.0-sentence	492
+perseus-grc2.tb	πᾶς δ’ ἐν μετοίκῳ γλῶσσαν εὔτυκον φέρει κακήν, τό τ’ εἰπεῖν εὐπετὲς μύσαγμά πως.
+perseus-eng2 Every foreigner carries a tongue prone to evil, and it is easy to utter slander lightly.
+
+cts:urn:tlg0085.tlg001:996
+glaux1.0-sentence	493
+perseus-grc2.tb	ὑμᾶς δ’ ἐπαινῶ μὴ καταισχύνειν ἐμέ, ὥραν ἐχούσας τήνδ’ ἐπίστρεπτον βροτοῖς.
+perseus-eng2 I commend you not to bring shame upon me, now that you have reached an age that attracts the gaze of men.
+
+cts:urn:tlg0085.tlg001:998
+glaux1.0-sentence	494
+perseus-grc2.tb	τέρειν’ ὀπώρα δ’ εὐφύλακτος οὐδαμῶς;
+perseus-eng2 The tender ripeness of summer fruit is by no means easy to protect;
+
+cts:urn:tlg0085.tlg001:999
+glaux1.0-sentence	495
+perseus-grc2.tb	θῆρες δὲ κηραίνουσι καὶ βροτοί, τί μήν?
+perseus-eng2 Beasts and men alike prey upon it, do they not?
+
+cts:urn:tlg0085.tlg001:1000
+glaux1.0-sentence	496
+perseus-grc2.tb	καὶ κνώδαλα πτεροῦντα καὶ πεδοστιβῆ.
+perseus-eng2 And creatures that fly and those that tread the earth.
+
+cts:urn:tlg0085.tlg001:1001
+glaux1.0-sentence	497
+perseus-grc2.tb	καρπώματα στάζοντα κηρύσσει Κύπρις καλωρα κωλύουσαν θωσμένειν ἐρῶ, καὶ παρθένων χλιδαῖσιν εὐμόρφοις ἔπι πᾶς τις παρελθὼν ὄμματος θελκτήριον τόξευμ’ ἔπεμψεν, ἱμέρου νικώμενος.
+perseus-eng2 Love's goddess heralds the dripping fruits, preventing them from being plucked by love, and everyone who passes by sends an alluring arrow from their eyes at the delicate beauty of virgins, overcome by desire.
+
+cts:urn:tlg0085.tlg001:1006
+glaux1.0-sentence	498
+perseus-grc2.tb	πρὸς ταῦτα μὴ πάθωμεν ὧν πολὺς πόνος πολὺς δὲ πόντος οὕνεκ’ ἠρόθη δορί, μηδ’ αἶσχος ἡμῖν, ἡδονὴν δ’ ἐχθροῖς ἐμοῖς πράξωμεν.
+perseus-eng2 Let us not suffer for that which has caused us much toil and much trouble over the sea, nor bring shame upon ourselves, nor grant pleasure to my enemies.
+
+cts:urn:tlg0085.tlg001:1009
+glaux1.0-sentence	499
+perseus-grc2.tb	οἴκησις δὲ καὶ διπλῆ πάρα τὴν μὲν Πελασγός, τὴν δὲ καὶ πόλις διδοῖ, οἰκεῖν λάτρων ἄτερθεν.
+perseus-eng2 We have been offered two kinds of dwelling, one by the Pelasgians and another by the city, to live without servitude.
+
+cts:urn:tlg0085.tlg001:1011
+glaux1.0-sentence	500
+perseus-grc2.tb	εὐπετῆ τάδε.
+perseus-eng2 These terms are easy.
+
+cts:urn:tlg0085.tlg001:1012
+glaux1.0-sentence	501
+perseus-grc2.tb	μόνον φύλαξαι τάσδ’ ἐπιστολὰς πατρός , τὸ σωφρονεῖν τιμῶσα τοῦ βίου πλέον .
+perseus-eng2 Only pay heed to these behests of your father, and count your chastity more precious than your life.
+
+cts:urn:tlg0085.tlg001:1014
+glaux1.0-sentence	502
+perseus-grc2.tb	τ- ἄλλʼ εὐτυχοῖμεν πρὸς θεῶν Ὀλυμπίων.
+perseus-eng2 May we be fortunate in all else, with the blessing of the Olympian gods.
+
+cts:urn:tlg0085.tlg001:1015
+glaux1.0-sentence	503
+perseus-grc2.tb	ἐμῆς δ’ ὀπώρας οὕνεκ’ εὖ θάρσει, πάτερ.
+perseus-eng2 Father, be of good cheer for the sake of my virginity.
+
+cts:urn:tlg0085.tlg001:1016
+glaux1.0-sentence	504
+perseus-grc2.tb	εἰ γάρ τι μὴ θεοῖς βεβούλευται νέον, ἴχνος τὸ πρόσθεν οὐ διαστρέψω φρενός.
+perseus-eng2 For if anything not destined by the gods, I will not turn from my former path.
+
+cts:urn:tlg0085.tlg001:1018
+glaux1.0-sentence	505
+perseus-grc2.tb	ἴτε μὰν ἀστυάνακτας μάκαρας θεοὺς γανάοντες πολιούχους τε καὶ οἳ χεῦμ’ Ἐρασίνου περιναίουσιν παλαιόν.
+perseus-eng2 Let us go, honoring the blessed gods, the city's guardians, and those who dwell around the ancient stream of Erasinus.
+
+cts:urn:tlg0085.tlg001:1022
+glaux1.0-sentence	506
+perseus-grc2.tb	ὑποδέξασθε δ’ ὀπαδοὶ μέλος.
+perseus-eng2 And you, attendants, receive the song.
+
+cts:urn:tlg0085.tlg001:1023
+glaux1.0-sentence	507
+perseus-grc2.tb	αἶνος δὲ πόλιν τήνδε Πελασγῶν ἐχέτω, μηδ’ ἔτι Νείλου προχοὰς σέβωμεν ὕμνοις.
+perseus-eng2 Praise be to this city of the Pelasgians, and let us no longer honor the streams of the Nile with our hymns.
+
+cts:urn:tlg0085.tlg001:1026
+glaux1.0-sentence	508
+perseus-grc2.tb	ποταμοὺς δ’ οἳ διὰ χώρας θελεμὸν πῶμα χέουσιν πολύτεκνοι, λιπαροῖς χεύμασι γαίας τόδε μειλίσσοντες οὖδας.
+perseus-eng2 But the rivers that flow through the land, bringing plentiful water, soothing its soil with their fertilizing streams.
+
+cts:urn:tlg0085.tlg001:1030
+glaux1.0-sentence	509
+perseus-grc2.tb	ἐπίδοι δ’ Ἄρτεμις ἁγνὰ στόλον οἰκτιζομένα, μηδ’ ὑπ’ ἀνάγκας γάμος ἔλθοι Κυθερείας.
+perseus-eng2 May pure Artemis look upon this band with compassion, and may no marriage come through Cytherea's compulsion.
+
+cts:urn:tlg0085.tlg001:1033
+glaux1.0-sentence	510
+perseus-grc2.tb	στυγίων πέλοι τόδ’ ἆθλον.
+perseus-eng2 May this challenge be detestable.
+
+cts:urn:tlg0085.tlg001:1034
+glaux1.0-sentence	511
+perseus-grc2.tb	Κύπριδος δ’ οὐκ ἀμελεῖ θεσμὸς ὅδ’ εὔφρων δύναται γὰρ Διὸς ἄγχιστα σὺν Ἥρᾳ.
+perseus-eng2 Yet this decree of Cypris is not disregarded with joy; she can exert power very close to that of Zeus along with Hera.
+
+cts:urn:tlg0085.tlg001:1036
+glaux1.0-sentence	512
+perseus-grc2.tb	τίεται δ’ αἰολόμητις θεὸς ἔργοις ἐπὶ σεμνοῖς.
+perseus-eng2 The goddess of varied wiles is held in honor for her solemn rites.
+
+cts:urn:tlg0085.tlg001:1038
+glaux1.0-sentence	513
+perseus-grc2.tb	μετάκοινοι δὲ φίλᾷ ματρὶ πάρεισιν Πόθος ᾗ τ’ οὐδὲν ἄπαρνον τελέθει θέλκτορι Πειθοῖ.
+perseus-eng2 And Desire and Persuasion, who make nothing impossible, are in the train of their beloved mother.
+
+cts:urn:tlg0085.tlg001:1041
+glaux1.0-sentence	514
+perseus-grc2.tb	δέδοται δ’ Ἁρμονίᾳ μοῖρ’ Ἀφροδίτας ψεδυρᾷ τρίβῳ τ’ Ἐρώτων.
+perseus-eng2 And to Harmonia has been given a share of Aphrodite, and to the whispering caresses of the Loves.
+
+cts:urn:tlg0085.tlg001:1043
+glaux1.0-sentence	515
+perseus-grc2.tb	φυγάδεσσιν δ’ ἐπιπνοίας κακά τ’ ἄλγη πολέμους θ’ αἱματόεντας προφοβοῦμαι.
+perseus-eng2 But for us fugitives, I fear the breath of evils, the pain of war, and bloody battles.
+
+cts:urn:tlg0085.tlg001:1045
+glaux1.0-sentence	516
+perseus-grc2.tb	τί ποτ’ εὔπλοιαν ἔπραξαν ταχυπόμποισι διωγμοῖς;
+perseus-eng2 How did our smooth sailing fare amid swift pursuits?
+
+cts:urn:tlg0085.tlg001:1047
+glaux1.0-sentence	517
+perseus-grc2.tb	ὅ τί τοι μόρσιμόν ἐστιν, τὸ γένοιτ’ ἄν.
+perseus-eng2 Whatever is destined will surely come to pass.
+
+cts:urn:tlg0085.tlg001:1048
+glaux1.0-sentence	518
+perseus-grc2.tb	Διὸς οὐ παρβατός ἐστιν μεγάλα φρὴν ἀπέρατος.
+perseus-eng2 Zeus' great and boundless mind cannot be transgressed.
+
+cts:urn:tlg0085.tlg001:1050
+glaux1.0-sentence	519
+perseus-grc2.tb	μετὰ πολλῶν δὲ γάμων ἅδε τελευτὰ προτερᾶν πέλοι γυναικῶν.
+perseus-eng2 After many marriages, the final end of earlier women might be pleasant.
+
+cts:urn:tlg0085.tlg001:1052
+glaux1.0-sentence	520
+perseus-grc2.tb	ὁ μέγας Ζεὺς ἀπαλέξαι γάμον Αἰγυπτογενῆ μοι.
+perseus-eng2 May mighty Zeus avert the marriage from the Egyptian-born for me.
+
+cts:urn:tlg0085.tlg001:1054
+glaux1.0-sentence	521
+perseus-grc2.tb	τὸ μὲν ἂν βέλτατον εἴη.
+perseus-eng2 That would indeed be best.
+
+cts:urn:tlg0085.tlg001:1055
+glaux1.0-sentence	522
+perseus-grc2.tb	σὺ δὲ θέλγοις ἂν ἄθελκτον.
+perseus-eng2 But you would charm the uncharming.
+
+cts:urn:tlg0085.tlg001:1056
+glaux1.0-sentence	523
+perseus-grc2.tb	σὺ δέ γ’ οὐκ οἶσθα τὸ μέλλον.
+perseus-eng2 And you do not know what the future holds.
+
+cts:urn:tlg0085.tlg001:1057
+glaux1.0-sentence	524
+perseus-grc2.tb	τί δὲ μέλλω φρένα Δίαν καθορᾶν, ὄψιν ἄβυσσον;
+perseus-eng2 Why should I attempt to perceive the unfathomable mind of Zeus?
+
+cts:urn:tlg0085.tlg001:1059
+glaux1.0-sentence	525
+perseus-grc2.tb	μέτριον νῦν ἔπος εὔχου.
+perseus-eng2 Now let your words be moderate in your prayer.
+
+cts:urn:tlg0085.tlg001:1060
+glaux1.0-sentence	526
+perseus-grc2.tb	τίνα καιρόν με διδάσκεις;
+perseus-eng2 What sense of proportion are you teaching me?
+
+cts:urn:tlg0085.tlg001:1061
+glaux1.0-sentence	527
+perseus-grc2.tb	τὰ θεῶν μηδὲν ἀγάζειν.
+perseus-eng2 Do not overstep in asking too much of the gods.
+
+cts:urn:tlg0085.tlg001:1062
+glaux1.0-sentence	528
+perseus-grc2.tb	Ζεὺς ἄναξ ἀποστεροίη γάμον δυσάνορα δάιον, ὅσπερ Ἰὼ πημονᾶς ἐλύσατ’ εὖ χειρὶ παιωνίᾳ κατασχεθών, εὐμενῆ βίαν κτίσας.
+perseus-eng2 May Lord Zeus avert from me a cruel and hateful marriage, just as he once mercifully freed Io from her afflictions, restraining them with his healing hand, creating benevolent force.
+
+cts:urn:tlg0085.tlg001:1068
+glaux1.0-sentence	529
+perseus-grc2.tb	καὶ κράτος νέμοι γυναιξίν.
+perseus-eng2 And may he grant power to women.
+
+cts:urn:tlg0085.tlg001:1069
+glaux1.0-sentence	530
+perseus-grc2.tb	τὸ βέλτερον κακοῦ καὶ τὸ δίμοιρον αἰνῶ, καὶ δίκᾳ δίκας ἕπεσθαι, ξὺν εὐχαῖς ἐμαῖς, λυτηρίοις μαχαναῖς θεοῦ πάρα.
+perseus-eng2 I praise that which is better than the bad and the double portion of the good. I pray that justice follows justice, in line with my prayers, through the god's liberating mechanisms.

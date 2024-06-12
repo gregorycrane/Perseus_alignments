@@ -1,0 +1,1790 @@
+
+cts:urn:tlg0032.tlg009:1.1
+glaux1.0-sentence	1
+perseus-grc2	 οἶδα μὲν ὅτι τῆς Ἀγησιλάου ἀρετῆς τε καὶ δόξης οὐ ῥᾴδιον ἄξιον ἔπαινον γράψαι , ὅμως δ’ ἐγχειρητέον .
+perseus-eng2	 I know how difficult it is to write an appreciation of Agesilaus that shall be worthy of his virtue and glory.
+
+cts:urn:tlg0032.tlg009:1.1
+glaux1.0-sentence	2
+perseus-grc2	 οὐ γὰρ ἂν καλῶς ἔχοι εἰ ὅτι τελέως ἀνὴρ ἀγαθὸς ἐγένετο , διὰ τοῦτο οὐδὲ μειόνων ἂν τυγχάνοι ἐπαίνων .
+perseus-eng2	 Nevertheless the attempt must be made. For it would not be seemly that so good a man, just because of his perfection, should receive no tributes of praise, however inadequate.
+
+cts:urn:tlg0032.tlg009:1.2
+glaux1.0-sentence	3
+perseus-grc2	 περὶ μὲν οὖν εὐγενείας αὐτοῦ τί ἄν τις μεῖζον καὶ κάλλιον εἰπεῖν ἔχοι ἢ ὅτι ἔτι καὶ νῦν τοῖς προγόνοις ὀνομαζομένοις ἀπομνημονεύεται ὁπόστος ἀφ’ Ἡρακλέους ἐγένετο , καὶ τούτοις οὐκ ἰδιώταις ἀλλ’ ἐκ βασιλέων βασιλεῦσιν ;
+perseus-eng2	 Now concerning his high birth what greater and nobler could be said than this, that even to-day the line of his descent from Heracles is traced through the roll of his ancestors, and those no simple citizens, but kings and sons of kings?
+
+cts:urn:tlg0032.tlg009:1.3
+glaux1.0-sentence	4
+perseus-grc2	 ἀλλὰ μὴν οὐδὲ ταύτῃ γ’ ἄν τις ἔχοι καταμέμψασθαι αὐτοὺς ὡς βασιλεύουσι μέν , πόλεως δὲ τῆς ἐπιτυχούσης ·
+perseus-eng2	 Nor are they open to the reproach that though they were kings, they ruled over a petty state.
+
+cts:urn:tlg0032.tlg009:1.3
+glaux1.0-sentence	5
+perseus-grc2	 ἀλλ’ ὥσπερ τὸ γένος αὐτῶν τῆς πατρίδος ἐντιμότατον , οὕτω καὶ ἡ πόλις ἐν τῇ Ἑλλάδι ἐνδοξοτάτη ·
+perseus-eng2	 On the contrary, as their family is honoured above all in their fatherland, so is their state glorious above all in Greece;
+
+cts:urn:tlg0032.tlg009:1.3
+glaux1.0-sentence	6
+perseus-grc2	 ὥστε οὐ δευτέρων πρωτεύουσιν , ἀλλ’ ἡγεμόνων ἡγεμονεύουσιν .
+perseus-eng2	 thus they are not first in the second rank, but leaders in a community of leaders.
+
+cts:urn:tlg0032.tlg009:1.4
+glaux1.0-sentence	7
+perseus-grc2	 τῇδέ γε μὴν καὶ κοινῇ ἄξιον ἐπαινέσαι τήν τε πατρίδα καὶ τὸ γένος αὐτοῦ ·
+perseus-eng2	 On one account his fatherland and his family are worthy to be praised together,
+
+cts:urn:tlg0032.tlg009:1.4
+glaux1.0-sentence	8
+perseus-grc2	 ἥ τε γὰρ πόλις οὐδεπώποτε φθονήσασα τοῦ προτετιμῆσθαι αὐτοὺς ἐπεχείρησε καταλῦσαι τὴν ἀρχὴν αὐτῶν , οἵ τε βασιλεῖς οὐδεπώποτε μειζόνων ὠρέχθησαν ἢ ἐφ’ οἷσπερ ἐξ ἀρχῆς τὴν βασιλείαν παρέλαβον .
+perseus-eng2	 for never at any time has the state been moved by jealousy of their pre-eminence to attempt the overthrow of their government, and never at any time have the kings striven to obtain greater powers than were conferred on them originally at their succession to the throne.
+
+cts:urn:tlg0032.tlg009:1.4
+glaux1.0-sentence	9
+perseus-grc2	 τοιγαροῦν ἄλλη μὲν οὐδεμία ἀρχὴ φανερά ἐστι διαγεγενημένη ἀδιάσπαστος οὔτε δημοκρατία οὔτε ὀλιγαρχία οὔτε τυραννὶς οὔτε βασιλεία ·
+perseus-eng2	 For this reason, while no other government — democracy, oligarchy, despotism or kingdom — can lay claim to an unbroken existence,
+
+cts:urn:tlg0032.tlg009:1.4
+glaux1.0-sentence	10
+perseus-grc2	 αὕτη δὲ μόνη διαμένει συνεχὴς βασιλεία .
+perseus-eng2	 this kingdom alone stands fast continually.
+
+cts:urn:tlg0032.tlg009:1.5
+glaux1.0-sentence	11
+perseus-grc2	 ὥς γε μὴν καὶ πρὶν ἄρξαι ἄξιος τῆς βασιλείας ἐδόκει εἶναι Ἀγησίλαος τάδε τὰ σημεῖα .
+perseus-eng2	 However, there are not wanting signs that even before his reign began Agesilaus was deemed worthy to be king.
+
+cts:urn:tlg0032.tlg009:1.5
+glaux1.0-sentence	12
+perseus-grc2	 ἐπεὶ γὰρ Ἆγις βασιλεὺς ὢν ἐτελεύτησεν , ἐρισάντων περὶ τῆς ἀρχῆς Λεωτυχίδα μὲν ὡς Ἄγιδος ὄντος υἱοῦ , Ἀγησιλάου δὲ ὡς Ἀρχιδάμου , κρίνασα ἡ πόλις ἀνεπικλητότερον εἶναι Ἀγησίλαον καὶ τῷ γένει καὶ τῇ ἀρετῇ τοῦτον ἐστήσατο βασιλέα .
+perseus-eng2	 For on the death of King Agis there was a struggle for the throne between Leotychidas, as the son of Agis, and Agesilaus, as the son of Archidamus. The state decided in favour of Agesilaus, judging him to be the more eligible in point of birth and character alike.
+
+cts:urn:tlg0032.tlg009:1.5
+glaux1.0-sentence	13
+perseus-grc2	 καίτοι τὸ ἐν τῇ κρατίστῃ πόλει ὑπὸ τῶν ἀρίστων κριθέντα τοῦ καλλίστου γέρως ἀξιωθῆναι ποίων ἔτι τεκμηρίων προσδεῖται τῆς γε πρὶν ἄρξαι αὐτὸν ἀρετῆς ;
+perseus-eng2	 Surely to have been pronounced worthy of the highest privilege by the best men in the mightiest state is proof sufficient of his virtue, at least before he began to reign.
+
+cts:urn:tlg0032.tlg009:1.6
+glaux1.0-sentence	14
+perseus-grc2	 ὅσα γε μὴν ἐν τῇ βασιλείᾳ διεπράξατο νῦν ἤδη διηγήσομαι ·
+perseus-eng2	 I will now give an account of the achievements of his reign,
+
+cts:urn:tlg0032.tlg009:1.6
+glaux1.0-sentence	15
+perseus-grc2	 ἀπὸ γὰρ τῶν ἔργων καὶ τοὺς τρόπους αὐτοῦ κάλλιστα νομίζω καταδήλους ἔσεσθαι .
+perseus-eng2	 for I believe that his deeds will throw the clearest light on his qualities.
+
+cts:urn:tlg0032.tlg009:1.6
+glaux1.0-sentence	16
+perseus-grc2	 Ἀγησίλαος τοίνυν ἔτι μὲν νέος ὢν ἔτυχε τῆς βασιλείας ·
+perseus-eng2	 Now Agesilaus was still a young man when he gained the throne.
+
+cts:urn:tlg0032.tlg009:1.6
+glaux1.0-sentence	17
+perseus-grc2	 ἄρτι δὲ ὄντος αὐτοῦ ἐν τῇ ἀρχῇ , ἐξηγγέλθη βασιλεὺς ὁ Περσῶν ἁθροίζων καὶ ναυτικὸν καὶ πεζὸν πολὺ στράτευμα ὡς ἐπὶ τοὺς Ἕλληνας ·
+perseus-eng2	 He had been but a short time in power when the news leaked out that the king of the Persians was assembling a great navy and army for an attack on the Greeks.
+
+cts:urn:tlg0032.tlg009:1.7
+glaux1.0-sentence	18
+perseus-grc2	 βουλευομένων δὲ περὶ τούτων Λακεδαιμονίων καὶ τῶν συμμάχων , Ἀγησίλαος ὑπέστη , ἐὰν δῶσιν αὐτῷ τριάκοντα μὲν Σπαρτιατῶν , δισχιλίους δὲ νεοδαμώδεις , εἰς ἑξακισχιλίους δὲ τὸ σύνταγμα τῶν συμμάχων , διαβήσεσθαι εἰς τὴν Ἀσίαν καὶ πειράσεσθαι εἰρήνην ποιῆσαι , ἢ ἂν πολεμεῖν βούληται ὁ βάρβαρος , ἀσχολίαν αὐτῷ παρέξειν στρατεύειν ἐπὶ τοὺς Ἕλληνας .
+perseus-eng2	 While the Lacedaemonians and their allies were considering the matter, Agesilaus declared, that if they would give him thirty Spartans, two thousand newly enrolled citizens, and a contingent of six thousand allies, he would cross to Asia  and try to effect a peace, or, in case the barbarian wanted to fight, would keep him so busy that he would have no time for an attack on the Greeks.
+
+cts:urn:tlg0032.tlg009:1.8
+glaux1.0-sentence	19
+perseus-grc2	 εὐθὺς μὲν οὖν πολλοὶ πάνυ ἠγάσθησαν αὐτὸ τοῦτο τὸ ἐπιθυμῆσαι , ἐπειδὴ ὁ Πέρσης πρόσθεν ἐπὶ τὴν Ἑλλάδα διέβη , ἀντιδιαβῆναι ἐπ’ αὐτόν , τό τε αἱρεῖσθαι ἐπιόντα μᾶλλον ἢ ὑπομένοντα μάχεσθαι αὐτῷ , καὶ τὸ τ- ἐκείνου δαπανῶντα βούλεσθαι μᾶλλον ἢ τὰ τῶν Ἑλλήνων πολεμεῖν , κάλλιστον δὲ πάντων ἐκρίνετο τὸ μὴ περὶ τῆς Ἑλλάδος ἀλλὰ περὶ τῆς Ἀσίας τὸν ἀγῶνα καθιστάναι .
+perseus-eng2	 His eagerness to pay back the Persian in his own coin for the former invasion of Greece , his determination to wage an offensive rather than a defensive war, and his wish to make the enemy pay for it rather than the Greeks, were enough to arouse an immediate and widespread enthusiasm for his project. But what appealed most to the imagination was the idea of entering on a struggle not to save Greece , but to subdue Asia .
+
+cts:urn:tlg0032.tlg009:1.9
+glaux1.0-sentence	20
+perseus-grc2	 ἐπεί γε μὴν λαβὼν τὸ στράτευμα ἐξέπλευσε , πῶς ἄν τις σαφέστερον ἐπιδείξειεν ὡς ἐστρατήγησεν ἢ εἰ αὐτὰ διηγήσαιτο ἃ ἔπραξεν ;
+perseus-eng2	 And what of his strategy after he had received the army and had sailed out? A simple narrative of his actions will assuredly convey the clearest impression of it.
+
+cts:urn:tlg0032.tlg009:1.10
+glaux1.0-sentence	21
+perseus-grc2	 ἐν τοίνυν τῇ Ἀσίᾳ ἥδε πρώτη πρᾶξις ἐγένετο .
+perseus-eng2	 This, then, was his first act in Asia.
+
+cts:urn:tlg0032.tlg009:1.10
+glaux1.0-sentence	22
+perseus-grc2	 Τισσαφέρνης μὲν ὤμοσεν Ἀγησιλάῳ , εἰ σπείσαιτο ἕως ἔλθοιεν οὓς πέμψειε πρὸς βασιλέα ἀγγέλους , διαπράξεσθαι αὐτῷ ἀφεθῆναι αὐτονόμους τὰς ἐν τῇ Ἀσίᾳ πόλεις Ἑλληνίδας , Ἀγησίλαος δὲ ἀντώμοσε σπονδὰς ἄξειν ἀδόλως , ὁρισάμενος τῆς πράξεως τρεῖς μῆνας .
+perseus-eng2	 Tissaphernes had sworn the following oath to Agesilaus: If you will arrange an armistice to last until the return of the messengers whom I will send to the King, I will do my utmost to obtain independence for the Greek cities in Asia; and Agesilaus on his part had sworn to observe the armistice honestly, allowing three months for the transaction. What followed?
+
+cts:urn:tlg0032.tlg009:1.11
+glaux1.0-sentence	23
+perseus-grc2	 ὁ μὲν δὴ Τισσαφέρνης ἃ ὤμοσεν εὐθὺς ἐψεύσατο ·
+perseus-eng2	 Tissaphernes forthwith broke his oath,
+
+cts:urn:tlg0032.tlg009:1.11
+glaux1.0-sentence	24
+perseus-grc2	 ἀντὶ γὰρ τοῦ εἰρήνην πράττειν στράτευμα πολὺ παρὰ βασιλέως πρὸς ᾧ πρόσθεν εἶχε μετεπέμπετο .
+perseus-eng2	 and instead of arranging a peace, applied to the King for a large army in addition to that which he had before.
+
+cts:urn:tlg0032.tlg009:1.11
+glaux1.0-sentence	25
+perseus-grc2	 Ἀγησίλαος δὲ καίπερ αἰσθόμενος ταῦτα ὅμως ἐνέμεινε ταῖς σπονδαῖς .
+perseus-eng2	 As for Agesilaus, though well aware of this, he none the less continued to keep the armistice.
+
+cts:urn:tlg0032.tlg009:1.12
+glaux1.0-sentence	26
+perseus-grc2	 ἐμοὶ οὖν τοῦτο πρῶτον καλὸν δοκεῖ διαπράξασθαι , ὅτι Τισσαφέρνην μὲν ἐμφανίσας ἐπίορκον ἄπιστον πᾶσιν ἐποίησεν , ἑαυτὸν δ’ ἀντεπιδείξας πρῶτον μὲν ὅρκους ἐμπεδοῦντα , ἔπειτα συνθήκας μὴ ψευδόμενον , πάντας ἐποίησε καὶ Ἕλληνας καὶ βαρβάρους θαρροῦντας συντίθεσθαι ἑαυτῷ , εἴ τι βούλοιτο .
+perseus-eng2	 I think, therefore, that here we have his first noble achievement. By showing up Tissaphernes as a perjurer, he made him distrusted everywhere; and, contrariwise, by proving himself to be a man of his word and true to his agreements, he encouraged all, Greeks and barbarians alike, to enter into an agreement with him whenever he wished it.
+
+cts:urn:tlg0032.tlg009:1.13
+glaux1.0-sentence	27
+perseus-grc2	 ἐπεὶ δὲ μέγα φρονήσας ὁ Τισσαφέρνης ἐπὶ τῷ καταβάντι στρατεύματι προεῖπεν Ἀγησιλάῳ πόλεμον , εἰ μὴ ἀπίοι ἐκ τῆς Ἀσίας , οἱ μὲν ἄλλοι σύμμαχοι καὶ Λακεδαιμονίων οἱ παρόντες μάλα ἀχθεσθέντες φανεροὶ ἐγένοντο , νομίζοντες μείονα τὴν παροῦσαν δύναμιν Ἀγησιλάῳ τῆς βασιλέως παρασκευῆς εἶναι ·
+perseus-eng2	 The arrival of the new army emboldened Tissaphernes to send an ultimatum to Agesilaus, threatening war unless he withdrew from Asia; and the allies and the Lacedaemonians present made no concealment of their chagrin, believing that the strength of Agesilaus was weaker than the Persian king’s armament.
+
+cts:urn:tlg0032.tlg009:1.13
+glaux1.0-sentence	28
+perseus-grc2	 Ἀγησίλαος δὲ μάλα φαιδρῷ τῷ προσώπῳ ἀπαγγεῖλαι τῷ Τισσαφέρνει τοὺς πρέσβεις ἐκέλευσεν ὡς πολλὴν χάριν αὐτῷ ἔχοι ὅτι ἐπιορκήσας αὐτὸς μὲν πολεμίους τοὺς θεοὺς ἐκτήσατο , τοῖς δ’ Ἕλλησι συμμάχους ἐποίησεν .
+perseus-eng2	 But Agesilaus with a beaming face bade the envoys of Tissaphernes inform their master that he was profoundly grateful to him for his perjury, by which he had gained the hostility of the gods for himself and had made them allies of the Greeks.
+
+cts:urn:tlg0032.tlg009:1.14
+glaux1.0-sentence	29
+perseus-grc2	 ἐκ δὲ τούτου εὐθὺς τοῖς μὲν στρατιώταις παρήγγειλε συσκευάζεσθαι ὡς εἰς στρατείαν ·
+perseus-eng2	 Without a moment’s delay he gave the word to his troops to pack up in preparation for a campaign,
+
+cts:urn:tlg0032.tlg009:1.14
+glaux1.0-sentence	30
+perseus-grc2	 ταῖς δὲ πόλεσιν εἰς ἃς ἀνάγκη ἦν ἀφικνεῖσθαι στρατευομένῳ ἐπὶ Καρίαν προεῖπεν ἀγορὰν παρασκευάζειν .
+perseus-eng2	 and warned the cities that lay on the lines of march to Caria to have their markets ready stocked.
+
+cts:urn:tlg0032.tlg009:1.14
+glaux1.0-sentence	31
+perseus-grc2	 ἐπέστειλε δὲ καὶ Ἴωσι καὶ Αἰολεῦσι καὶ Ἑλλησποντίοις πέμπειν πρὸς αὑτὸν εἰς Ἔφεσον τοὺς συστρατευσομένους .
+perseus-eng2	 He advised by letter the Greeks of Ionia, the Aeolid and the Hellespont, to send their contingents for the campaign to his headquarters at Ephesus.
+
+cts:urn:tlg0032.tlg009:1.15
+glaux1.0-sentence	32
+perseus-grc2	 ὁ μὲν οὖν Τισσαφέρνης , καὶ ὅτι ἱππικὸν οὐκ εἶχεν ὁ Ἀγησίλαος , ἡ δὲ Καρία ἄφιππος ἦν , καὶ ὅτι ἡγεῖτο αὐτὸν ὀργίζεσθαι αὐτῷ διὰ τὴν ἀπάτην , τῷ ὄντι νομίσας ἐπὶ τὸν αὐτοῦ οἶκον εἰς Καρίαν ὁρμήσειν αὐτόν , τὸ μὲν πεζὸν ἅπαν διεβίβασεν ἐκεῖσε , τὸ δὲ ἱππικὸν εἰς τὸ Μαιάνδρου πεδίον περιήγαγε , νομίζων ἱκανὸς εἶναι καταπατῆσαι τῇ ἵππῳ τοὺς Ἕλληνας πρὶν εἰς τὰ δύσιππα ἀφικέσθαι .
+perseus-eng2	 Now Tissaphernes reflected that Agesilaus was without cavalry, while Caria  was a difficult country for mounted men, and he thought that Agesilaus was wroth with him on account of his deceit. Concluding, therefore, that his estate in Caria  was the real object of the coming attack, he sent the whole of his infantry across to that district and took his cavalry round into the plain of the Maeander , confident that he could ride down the Greeks before they reached the country where cavalry could not operate.
+
+cts:urn:tlg0032.tlg009:1.16
+glaux1.0-sentence	33
+perseus-grc2	 ὁ δὲ Ἀγησίλαος ἀντὶ τοῦ ἐπὶ Καρίαν ἰέναι εὐθὺς ἀντιστρέψας ἐπὶ Φρυγίας ἐπορεύετο ·
+perseus-eng2	 But instead of marching on Caria, Agesilaus forthwith turned round and made for Phrygia.
+
+cts:urn:tlg0032.tlg009:1.16
+glaux1.0-sentence	34
+perseus-grc2	 καὶ τάς τε ἐν τῇ πορείᾳ ἀπαντώσας δυνάμεις ἀναλαμβάνων ἦγε καὶ τὰς πόλεις κατεστρέφετο καὶ ἐμβαλὼν ἀπροσδοκήτως παμπληθῆ χρήματα ἔλαβε .
+perseus-eng2	 Picking up the various forces that met him on the route, he proceeded to reduce the cities and captured a vast quantity of booty by sudden attacks.
+
+cts:urn:tlg0032.tlg009:1.17
+glaux1.0-sentence	35
+perseus-grc2	 στρατηγικὸν οὖν καὶ τοῦτο ἐδόκει διαπράξασθαι , ὅτι ἐπεὶ πόλεμος προερρήθη καὶ τὸ ἐξαπατᾶν ὅσιόν τε καὶ δίκαιον ἐξ ἐκείνου ἐγένετο , παῖδα ἀπέδειξε τὸν Τισσαφέρνην τῇ ἀπάτῃ , φρονίμως δὲ καὶ τοὺς φίλους ἐνταῦθα ἔδοξε πλουτίσαι ·
+perseus-eng2	 This achievement also was thought to be a proof of sound generalship, that when war was declared and cozening in consequence became righteous and fair dealing, he showed Tissaphernes to be a child at deception. It was thought, too, that he made shrewd use of this occasion to enrich his friends.
+
+cts:urn:tlg0032.tlg009:1.18
+glaux1.0-sentence	36
+perseus-grc2	 ἐπεὶ γὰρ διὰ τὸ πολλὰ χρήματα εἰλῆφθαι ἀντίπροικα τὰ πάντα ἐπωλεῖτο , τοῖς μὲν φίλοις προεῖπεν ὠνεῖσθαι , εἰπὼν ὅτι καταβήσοιτο ἐπὶ θάλατταν ἐν τάχει τὸ στράτευμα κατάγων ·
+perseus-eng2	 For the accumulation of plunder was so great that things were selling for next to nothing. So he gave his friends the word to buy, saying that he was shortly going down to the coast with his army.
+
+cts:urn:tlg0032.tlg009:1.18
+glaux1.0-sentence	37
+perseus-grc2	 τοὺς δὲ λαφυροπώλας ἐκέλευσε γραφομένους ὁπόσου τι πρίαιντο προΐεσθαι τὰ χρήματα .
+perseus-eng2	 The auctioneers were ordered to have a schedule made of the prices obtained and to give delivery of the goods.
+
+cts:urn:tlg0032.tlg009:1.18
+glaux1.0-sentence	38
+perseus-grc2	 ὥστε οὐδὲν προτελέσαντες οἱ φίλοι αὐτοῦ οὐδὲ τὸ δημόσιον βλάψαντες πάντες παμπληθῆ χρήματα ἔλαβον .
+perseus-eng2	 Thus without capital outlay, and without any loss to the treasury, all his friends made a prodigious amount of money.
+
+cts:urn:tlg0032.tlg009:1.19
+glaux1.0-sentence	39
+perseus-grc2	 ἔτι δὲ ὁπότε αὐτόμολοι ὡς εἰκὸς πρὸς βασιλέα ἰόντα χρήματα ἐθέλοιεν ὑφηγεῖσθαι , καὶ ταῦτα ἐπεμέλετο ὡς διὰ τῶν φίλων ἁλίσκοιτο , ὅπως ἅμα μὲν χρηματίζοιντο , ἅμα δὲ ἐνδοξότεροι γίγνοιντο .
+perseus-eng2	 Further, whenever deserters offered to give information where plunder might be taken, they naturally went to the king.
+
+cts:urn:tlg0032.tlg009:1.19
+glaux1.0-sentence	40
+perseus-grc2	 διὰ μὲν δὴ ταῦτα εὐθὺς πολλοὺς ἐραστὰς τῆς αὑτοῦ φιλίας ἐποιήσατο .
+perseus-eng2	 In such a case he took care that the capture should be effected by his friends, so that they might at one and the same time make money and add to their laurels. The immediate result was that he had many ardent suitors for his friendship.
+
+cts:urn:tlg0032.tlg009:1.20
+glaux1.0-sentence	41
+perseus-grc2	 γιγνώσκων δ’ ὅτι ἡ μὲν πορθουμένη καὶ ἐρημουμένη χώρα οὐκ ἂν δύναιτο πολὺν χρόνον στράτευμα φέρειν , ἡ δ’ οἰκουμένη μὲν σπειρομένη δὲ ἀέναον ἂν τὴν τροφὴν παρέχοι , ἐπεμέλετο οὐ μόνον τοῦ βίᾳ χειροῦσθαι τοὺς ἐναντίους , ἀλλὰ καὶ τοῦ πρᾳότητι προσάγεσθαι .
+perseus-eng2	 Recognizing that a country plundered and depopulated could not long support an army, whereas an inhabited and cultivated land would yield inexhaustible supplies, he took pains not only to crush his enemies by force, but also to win them over by gentleness.
+
+cts:urn:tlg0032.tlg009:1.21
+glaux1.0-sentence	42
+perseus-grc2	 καὶ πολλάκις μὲν προηγόρευε τοῖς στρατιώταις τοὺς ἁλισκομένους μὴ ὡς ἀδίκους τιμωρεῖσθαι , ἀλλ’ ὡς ἀνθρώπους ὄντας φυλάττειν , πολλάκις δὲ ὁπότε μεταστρατοπεδεύοιτο , εἰ αἴσθοιτο καταλελειμμένα παιδάρια μικρὰ ἐμπόρων , ἃ πολλοὶ ἐπώλουν διὰ τὸ νομίζειν μὴ δύνασθαι ἂν φέρειν αὐτὰ καὶ τρέφειν , ἐπεμέλετο καὶ τούτων ὅπως συγκομίζοιντό ποι .
+perseus-eng2	 He would often warn his men not to punish their prisoners as criminals, but to guard them as human beings; and often when shifting camp, if he noticed little children, the property of merchants, left behind  —  many merchants offered children for sale because they thought they would not be able to carry and feed them  —  he looked after them too, and had them conveyed to some place of refuge.
+
+cts:urn:tlg0032.tlg009:1.22
+glaux1.0-sentence	43
+perseus-grc2	 τοῖς δ’ αὖ διὰ γῆρας καταλειπομένοις αἰχμαλώτοις προσέταττεν ἐπιμελεῖσθαι αὐτῶν , ὡς μήτε ὑπὸ κυνῶν μήθ’ ὑπὸ λύκων διαφθείροιντο .
+perseus-eng2	 Again, he arranged that prisoners of war who were too old to accompany the army were to be looked after, that they might not fall a prey to dogs or wolves.
+
+cts:urn:tlg0032.tlg009:1.22
+glaux1.0-sentence	44
+perseus-grc2	 ὥστε οὐ μόνον οἱ πυνθανόμενοι ταῦτα , ἀλλὰ καὶ αὐτοὶ οἱ ἁλισκόμενοι εὐμενεῖς αὐτῷ ἐγίγνοντο .
+perseus-eng2	 It thus came about that he won the goodwill not only of those who heard of these facts, but even of the prisoners themselves.
+
+cts:urn:tlg0032.tlg009:1.22
+glaux1.0-sentence	45
+perseus-grc2	 ὁπόσας δὲ πόλεις προσαγάγοιτο , ἀφαιρῶν αὐτῶν ὅσα δοῦλοι δεσπόταις ὑπηρετοῦσι προσέταττεν ὅσα ἐλεύθεροι ἄρχουσι πείθονται ·
+perseus-eng2	 In his settlement with the cities that he won over, he invariably excused them from all servile duties and required only such obedience as freemen owe to their rulers;
+
+cts:urn:tlg0032.tlg009:1.22
+glaux1.0-sentence	46
+perseus-grc2	 καὶ τῶν κατὰ κράτος ἀναλώτων τειχέων τῇ φιλανθρωπίᾳ ὑπὸ χεῖρα ἐποιεῖτο .
+perseus-eng2	 and by his clemency he made himself master of fortresses impregnable to assault.
+
+cts:urn:tlg0032.tlg009:1.23
+glaux1.0-sentence	47
+perseus-grc2	 ἐπεὶ μέντοι ἀνὰ τὰ πεδία οὐδὲ ἐν τῇ Φρυγίᾳ ἐδύνατο στρατεύεσθαι διὰ τὴν Φαρναβάζου ἱππείαν , ἔδοξεν αὐτῷ ἱππικὸν κατασκευαστέον εἶναι , ὡς μὴ δραπετεύοντα πολεμεῖν δέοι αὐτόν .
+perseus-eng2	 However, since a campaign in the plains was impossible even in Phrygia, owing to Pharnabazus’ cavalry, he decided that he must raise a mounted force, if he was to avoid continually running away from the enemy.
+
+cts:urn:tlg0032.tlg009:1.23
+glaux1.0-sentence	48
+perseus-grc2	 τοὺς μὲν οὖν πλουσιωτάτους ἐκ πασῶν τῶν ἐκεῖ πόλεων ἱπποτροφεῖν κατέλεξε .
+perseus-eng2	 He therefore enrolled the wealthiest men in all the cities thereabouts as breeders of horses,.
+
+cts:urn:tlg0032.tlg009:1.24
+glaux1.0-sentence	49
+perseus-grc2	 προεῖπε δέ , ὅστις παρέχοιτο ἵππον καὶ ὅπλα καὶ ἄνδρα δόκιμον , ὡς ἐξέσοιτο αὐτῷ μὴ στρατεύεσθαι ·
+perseus-eng2	 And he issued a proclamation that anyone who supplied a horse and arms and an efficient man should be exempt from personal service.
+
+cts:urn:tlg0032.tlg009:1.24
+glaux1.0-sentence	50
+perseus-grc2	 καὶ ἐποίησεν οὕτως ἕκαστον προθύμως ταῦτα πράττειν ὥσπερ ἄν τις τὸν ὑπὲρ αὑτοῦ ἀποθανούμενον προθύμως μαστεύοι .
+perseus-eng2	 In this way he brought it about that every one of them carried out these requirements with the zeal of a man in quest of someone to die in his stead.
+
+cts:urn:tlg0032.tlg009:1.24
+glaux1.0-sentence	51
+perseus-grc2	 ἔταξε δὲ καὶ πόλεις ἐξ ὧν δέοι τοὺς ἱππέας παρασκευάζειν , νομίζων ἐκ τῶν ἱπποτρόφων πόλεων εὐθὺς καὶ φρονηματίας μάλιστα ἂν ἐπὶ τῇ ἱππικῇ γενέσθαι .
+perseus-eng2	 He also specified cities that were to furnish contingents of cavalry, feeling sure that from the horsebreeding cities riders proud of their horsemanship would be forthcoming.
+
+cts:urn:tlg0032.tlg009:1.24
+glaux1.0-sentence	52
+perseus-grc2	 καὶ τοῦτ’ οὖν ἀγαστῶς ἔδοξε πρᾶξαι , ὅτι κατεσκεύαστο τὸ ἱππικὸν αὐτῷ καὶ εὐθὺς ἐρρωμένον ἦν καὶ ἐνεργόν .
+perseus-eng2	 This again was considered an admirable stroke on his part, that no sooner had he raised his cavalry than it became a powerful body ready for action.
+
+cts:urn:tlg0032.tlg009:1.25
+glaux1.0-sentence	53
+perseus-grc2	 ἐπειδὴ δὲ ἔαρ ὑπέφαινε , συνήγαγε πᾶν τὸ στράτευμα εἰς Ἔφεσον ·
+perseus-eng2	 At the first sign of spring he collected the whole of his forces at Ephesus.
+
+cts:urn:tlg0032.tlg009:1.25
+glaux1.0-sentence	54
+perseus-grc2	 ἀσκῆσαι δὲ καὶ αὐτὸ βουλόμενος ἆθλα προὔθηκε καὶ ταῖς ἱππικαῖς τάξεσιν , ἥτις κράτιστα ἂν ἱππεύοι , καὶ ταῖς ὁπλιτικαῖς , ἥτις ἂν ἄριστα σωμάτων ἔχοι ·
+perseus-eng2	 With a view to their training he offered prizes for the cavalry squadron that rode best, and for the company of heavy infantry that reached the highest level of physical fitness.
+
+cts:urn:tlg0032.tlg009:1.25
+glaux1.0-sentence	55
+perseus-grc2	 καὶ πελτασταῖς δὲ καὶ τοξόταις ἆθλα προύθηκεν , οἵτινες κράτιστοι τὰ προσήκοντα ἔργα φαίνοιντο .
+perseus-eng2	 He also offered prizes to the targeteers and the archers who showed the greatest efficiency in their particular duties.
+
+cts:urn:tlg0032.tlg009:1.25
+glaux1.0-sentence	56
+perseus-grc2	 ἐκ τούτου δὲ παρῆν ὁρᾶν τὰ μὲν γυμνάσια μεστὰ τῶν ἀνδρῶν γυμναζομένων , τὸν δὲ ἱππόδρομον ἱππέων ἱππαζομένων , τοὺς δὲ ἀκοντιστὰς καὶ τοὺς τοξότας ἐπὶ στόχον ἱέντας .
+perseus-eng2	 Thereupon one might see every gymnasium crowded with the men exercising, the racecourse thronged with cavalrymen riding, and the javelin-men and archers shooting at the mark.
+
+cts:urn:tlg0032.tlg009:1.26
+glaux1.0-sentence	57
+perseus-grc2	 ἀξίαν δὲ καὶ ὅλην τὴν πόλιν ἐν ᾗ ἦν θέας ἐποίησεν .
+perseus-eng2	 Indeed he made the whole city in which he was quartered a sight to see.
+
+cts:urn:tlg0032.tlg009:1.26
+glaux1.0-sentence	58
+perseus-grc2	 ἥ τε γὰρ ἀγορὰ μεστὴ ἦν παντοδαπῶν καὶ ὅπλων καὶ ἵππων ὠνίων , οἵ τε χαλκοτύποι καὶ οἱ τέκτονες καὶ οἱ σιδηρεῖς καὶ σκυτεῖς καὶ γραφεῖς πάντες πολεμικὰ ὅπλα κατεσκεύαζον ·
+perseus-eng2	 For the market was full of arms and horses of all sorts on sale, and the coppersmiths, carpenters, workers in iron, cobblers, and painters were all busy making weapons of war,
+
+cts:urn:tlg0032.tlg009:1.26
+glaux1.0-sentence	59
+perseus-grc2	 ὥστε τὴν πόλιν ὄντως ἂν ἡγήσω πολέμου ἐργαστήριον εἶναι .
+perseus-eng2	 so that you might have thought that the city was really a war factory.
+
+cts:urn:tlg0032.tlg009:1.27
+glaux1.0-sentence	60
+perseus-grc2	 ἐπερρώσθη δ’ ἄν τις κ- ἐκεῖνο ἰδών , Ἀγησίλαον μὲν πρῶτον , ἔπειτα δὲ καὶ τοὺς ἄλλους στρατιώτας ἐστεφανωμένους τε ὅπου ἀπὸ τῶν γυμνασίων ἴοιεν , καὶ ἀνατιθέντας τοὺς στεφάνους τῇ Ἀρτέμιδι .
+perseus-eng2	 And an inspiring sight it would have been to watch Agesilaus and all his soldiers behind him returning garlanded from the gymnasium and dedicating their garlands to Artemis.
+
+cts:urn:tlg0032.tlg009:1.27
+glaux1.0-sentence	61
+perseus-grc2	 ὅπου γὰρ ἄνδρες θεοὺς μὲν σέβοιεν , πολεμικὰ δὲ ἀσκοῖεν , πειθαρχίαν δὲ μελετῷεν , πῶς οὐκ εἰκὸς ἐνταῦθα πάντα μεστὰ ἐλπίδων ἀγαθῶν εἶναι ;
+perseus-eng2	 For where men reverence the gods, train themselves in warfare and practise obedience, there you surely find high hopes abounding.
+
+cts:urn:tlg0032.tlg009:1.28
+glaux1.0-sentence	62
+perseus-grc2	 ἡγούμενος δὲ καὶ τὸ καταφρονεῖν τῶν πολεμίων ῥώμην τινὰ ἐμβαλεῖν πρὸς τὸ μάχεσθαι , προεῖπε τοῖς κήρυξι τοὺς ὑπὸ τῶν λῃστῶν ἁλισκομένους βαρβάρους γυμνοὺς πωλεῖν .
+perseus-eng2	 Moreover, believing that contempt for the enemy would kindle the fighting spirit, he gave instructions to his heralds that the barbarians captured in the raids should be exposed for sale naked.
+
+cts:urn:tlg0032.tlg009:1.28
+glaux1.0-sentence	63
+perseus-grc2	 ὁρῶντες οὖν οἱ στρατιῶται λευκοὺς μὲν διὰ τὸ μηδέποτε ἐκδύεσθαι , πίονας δὲ καὶ ἀπόνους διὰ τὸ ἀεὶ ἐπ’ ὀχημάτων εἶναι , ἐνόμισαν μηδὲν διοίσειν τὸν πόλεμον ἢ εἰ γυναιξὶ δέοι μάχεσθαι .
+perseus-eng2	 So when his soldiers saw them white because they never stripped, and fat and lazy through constant riding in carriages, they believed that the war would be exactly like fighting with women.
+
+cts:urn:tlg0032.tlg009:1.28
+glaux1.0-sentence	64
+perseus-grc2	 προεῖπε δὲ καὶ τοῦτο τοῖς στρατιώταις , ὡς εὐθὺς ἡγήσοιτο τὴν συντομωτάτην ἐπὶ τὰ κράτιστα τῆς χώρας , ὅπως αὐτόθεν αὐτῷ τὰ σώματα καὶ τὴν γνώμην παρασκευάζοιντο ὡς ἀγωνιούμενοι .
+perseus-eng2	 He also gave notice to the troops that he would immediately lead them by the shortest route to the most fertile parts of the country, so that he might at once find them preparing themselves in body and mind for the coming struggle.
+
+cts:urn:tlg0032.tlg009:1.29
+glaux1.0-sentence	65
+perseus-grc2	 ὁ μέντοι Τισσαφέρνης ταῦτα μὲν ἐνόμισε λέγειν αὐτὸν πάλιν βουλόμενον ἐξαπατῆσαι , εἰς Καρίαν δὲ νῦν τῷ ὄντι ἐμβαλεῖν .
+perseus-eng2	 Tissaphernes, however, believed that in saying this he meant to deceive him again, and that now he would really invade Caria.
+
+cts:urn:tlg0032.tlg009:1.29
+glaux1.0-sentence	66
+perseus-grc2	 τό τε οὖν πεζὸν καθάπερ τὸ πρόσθεν εἰς Καρίαν διεβίβασε καὶ τὸ ἱππικὸν εἰς τὸ Μαιάνδρου πεδίον κατέστησεν .
+perseus-eng2	 Accordingly he sent his infantry across into Caria as before, and stationed his cavalry in the plain of the Maeander.
+
+cts:urn:tlg0032.tlg009:1.29
+glaux1.0-sentence	67
+perseus-grc2	 ὁ δὲ Ἀγησίλαος οὐκ ἐψεύσατο , ἀλλ’ ὥσπερ προεῖπεν εὐθὺς εἰς τὸν Σαρδιανὸν τόπον ἐχώρησε , καὶ τρεῖς μὲν ἡμέρας δι’ ἐρημίας πολεμίων πορευόμενος πολλὰ τὰ ἐπιτήδεια τῇ στρατιᾷ παρεῖχε ·
+perseus-eng2	 But Agesilaus did not play false: in accordance with his notice he marched straight to the neighbourhood of Sardis; and for three days his route lay through a country bare of enemies, so that he supplied his army with abundance of provisions.
+
+cts:urn:tlg0032.tlg009:1.29
+glaux1.0-sentence	68
+perseus-grc2	 τῇ δὲ τετάρτῃ ἡμέρᾳ ἧκον οἱ τῶν πολεμίων ἱππεῖς .
+perseus-eng2	 On the fourth day the enemy’s cavalry came up.
+
+cts:urn:tlg0032.tlg009:1.30
+glaux1.0-sentence	69
+perseus-grc2	 καὶ τῷ μὲν ἄρχοντι τῶν σκευοφόρων εἶπεν ὁ ἡγεμὼν διαβάντι τὸν Πακτωλὸν ποταμὸν στρατοπεδεύεσθαι ·
+perseus-eng2	 Their leader told the officer in command of the baggage-train to cross the river Pactolus and encamp.
+
+cts:urn:tlg0032.tlg009:1.30
+glaux1.0-sentence	70
+perseus-grc2	 αὐτοὶ δὲ κατιδόντες τοὺς τῶν Ἑλλήνων ἀκολούθους ἐσπαρμένους καθ’ ἁρπαγὴν πολλοὺς αὐτῶν ἀπέκτειναν .
+perseus-eng2	 The cavalry, meantime, catching sight of the Greek camp-followers plundering in scattered bands, killed a large number of them.
+
+cts:urn:tlg0032.tlg009:1.30
+glaux1.0-sentence	71
+perseus-grc2	 αἰσθόμενος δὲ ὁ Ἀγησίλαος βοηθεῖν ἐκέλευσε τοὺς ἱππέας .
+perseus-eng2	 On noticing this, Agesilaus ordered his cavalry to go to their help.
+
+cts:urn:tlg0032.tlg009:1.30
+glaux1.0-sentence	72
+perseus-grc2	 οἱ δ’ αὖ Πέρσαι ὡς εἶδον τὴν βοήθειαν , ἡθροίσθησαν καὶ ἀντιπαρετάξαντο παμπληθέσι τῶν ἱππέων τάξεσιν .
+perseus-eng2	 The Persians in turn, seeing the supports coming, gathered in a mass and confronted them with the full strength of their horse.
+
+cts:urn:tlg0032.tlg009:1.31
+glaux1.0-sentence	73
+perseus-grc2	 ἔνθα δὴ ὁ Ἀγησίλαος γιγνώσκων ὅτι τοῖς μὲν πολεμίοις οὔπω παρείη τὸ πεζόν , αὐτῷ δὲ οὐδὲν ἀπείη τῶν παρεσκευασμένων , καιρὸν ἡγήσατο μάχην συνάψαι , εἰ δύναιτο .
+perseus-eng2	 Then Agesilaus, realising that the enemy’s infantry was not yet up, while he had all his resources on the spot, thought the moment was come to join battle if he could.
+
+cts:urn:tlg0032.tlg009:1.31
+glaux1.0-sentence	74
+perseus-grc2	 σφαγιασάμενος οὖν τὴν μὲν φάλαγγα εὐθὺς ἦγεν ἐπὶ τοὺς ἀντιτεταγμένους ἱππέας , ἐκ δὲ τῶν ὁπλιτῶν ἐκέλευσε τὰ δέκα ἀφ’ ἥβης θεῖν ὁμόσε αὐτοῖς , τοῖς δὲ πελτασταῖς εἶπε δρόμῳ ὑφηγεῖσθαι ·
+perseus-eng2	 Therefore, after offering sacrifice, he led forward the battle line immediately against the opposing cavalry, the heavy infantrymen of ten years service having orders to run to close quarters with the enemy, while the targeteers were to lead the advance at the double.
+
+cts:urn:tlg0032.tlg009:1.31
+glaux1.0-sentence	75
+perseus-grc2	 παρήγγειλε δὲ καὶ τοῖς ἱππεῦσιν ἐμβάλλειν , ὡς αὐτοῦ τε καὶ παντὸς τοῦ στρατεύματος ἑπομένου .
+perseus-eng2	 He also sent word to the cavalry to attack in the knowledge that he himself was following with the whole army.
+
+cts:urn:tlg0032.tlg009:1.32
+glaux1.0-sentence	76
+perseus-grc2	 τοὺς μὲν δὴ ἱππέας ἐδέξαντο οἱ ἀγαθοὶ τῶν Περσῶν ·
+perseus-eng2	 The charge of the cavalry was met by the flower of the Persians:
+
+cts:urn:tlg0032.tlg009:1.32
+glaux1.0-sentence	77
+perseus-grc2	 ἐπειδὴ δὲ ἅμα πάντα τὰ δεινὰ παρῆν ἐπ’ αὐτούς , ἐνέκλιναν , καὶ οἱ μὲν αὐτῶν εὐθὺς ἐν τῷ ποταμῷ ἔπεσον , οἱ δὲ ἄλλοι ἔφευγον .
+perseus-eng2	 but as soon as the full weight of the attack fell on them, they swayed, and some were cut down immediately in the river, while the rest fled.
+
+cts:urn:tlg0032.tlg009:1.32
+glaux1.0-sentence	78
+perseus-grc2	 οἱ δὲ Ἕλληνες ἑπόμενοι αἱροῦσι καὶ τὸ στρατόπεδον αὐτῶν .
+perseus-eng2	 The Greeks followed up their success and captured their camp.
+
+cts:urn:tlg0032.tlg009:1.32
+glaux1.0-sentence	79
+perseus-grc2	 καὶ οἱ μὲν πελτασταὶ ὥσπερ εἰκὸς ἐφ’ ἁρπαγὴν ἐτρέποντο ·
+perseus-eng2	 The targeteers naturally fell to pillaging;
+
+cts:urn:tlg0032.tlg009:1.32
+glaux1.0-sentence	80
+perseus-grc2	 ὁ δὲ Ἀγησίλαος ἔχων κύκλῳ πάντα καὶ φίλια καὶ πολέμια περιεστρατοπεδεύσατο .
+perseus-eng2	 but Agesilaus drew the lines of his camp round so as to enclose the property of all, friends and foes alike.
+
+cts:urn:tlg0032.tlg009:1.33
+glaux1.0-sentence	81
+perseus-grc2	 ὡς δ’ ἤκουσε τοὺς πολεμίους ταράττεσθαι διὰ τὸ αἰτιᾶσθαι ἀλλήλους τοῦ γεγενημένου , εὐθὺς ἦγεν ἐπὶ Σάρδεις .
+perseus-eng2	 On hearing that there was confusion among the enemy, because everyone put the blame for what had happened on his neighbour, he advanced forthwith on Sardis.
+
+cts:urn:tlg0032.tlg009:1.33
+glaux1.0-sentence	82
+perseus-grc2	 κ- ἐκεῖ ἅμα μὲν ἔκαιε καὶ ἐπόρθει τὰ περὶ τὸ ἄστυ , ἅμα δὲ καὶ κηρύγματι ἐδήλου τοὺς μὲν ἐλευθερίας δεομένους ὡς πρὸς σύμμαχον αὐτὸν παρεῖναι ·
+perseus-eng2	 There he began burning and pillaging the suburbs, and meantime issued a proclamation calling on those who wanted freedom to join his standard.
+
+cts:urn:tlg0032.tlg009:1.33
+glaux1.0-sentence	83
+perseus-grc2	 εἰ δέ τινες τὴν Ἀσίαν ἑαυτῶν ποιοῦνται , πρὸς τοὺς ἐλευθεροῦντας διακρινουμένους ἐν ὅπλοις παρεῖναι .
+perseus-eng2	 And he challenged any who claimed a right to Asia to seek a decision between themselves and the liberators by an appeal to arms.
+
+cts:urn:tlg0032.tlg009:1.34
+glaux1.0-sentence	84
+perseus-grc2	 ἐπεὶ μέντοι οὐδεὶς ἀντεξῄει , ἀδεῶς δὴ τὸ ἀπὸ τούτου ἐστρατεύετο , τοὺς μὲν πρόσθεν προσκυνεῖν Ἕλληνας ἀναγκαζομένους ὁρῶν τιμωμένους ὑφ’ ὧν ὑβρίζοντο , τοὺς δὲ ἀξιοῦντας καὶ τὰς τῶν θεῶν τιμὰς καρποῦσθαι , τούτους ποιήσας μηδ’ ἀντιβλέπειν τοῖς Ἕλλησι δύνασθαι , καὶ τὴν μὲν τῶν φίλων χώραν ἀδῄωτον παρέχων , τὴν δὲ τῶν πολεμίων οὕτω καρπούμενος ὥστε ἐν δυοῖν ἐτοῖν πλέον τῶν ἑκατὸν ταλάντων τῷ θεῷ ἐν Δελφοῖς δεκάτην ἀποθῦσαι .
+perseus-eng2	 As no one came out to oppose him, he prosecuted the campaign henceforward in complete confidence: he beheld the Greeks, compelled erstwhile to cringe, now honoured by their oppressors; caused those who arrogantly claimed for themselves the honours paid to the gods to shrink even from looking the Greeks in the face; rendered the country of his friends inviolate, and stripped the enemy’s country so thoroughly that in two years he consecrated to the god at Delphi  more than two hundred talents as tithe.
+
+cts:urn:tlg0032.tlg009:1.35
+glaux1.0-sentence	85
+perseus-grc2	 ὁ μέντοι Περσῶν βασιλεύς , νομίσας Τισσαφέρνην αἴτιον εἶναι τοῦ κακῶς φέρεσθαι τὰ ἑαυτοῦ , Τιθραύστην καταπέμψας ἀπέτεμεν αὐτοῦ τὴν κεφαλήν .
+perseus-eng2	 But the Persian king, believing that Tissaphernes was responsible for the bad turn in his affairs, sent down Tithraustes and beheaded Tissaphernes.
+
+cts:urn:tlg0032.tlg009:1.35
+glaux1.0-sentence	86
+perseus-grc2	 μετὰ δὲ τοῦτο τὰ μὲν τῶν βαρβάρων ἔτι ἀθυμότερα ἐγένετο , τὰ δὲ Ἀγησιλάου πολὺ ἐρρωμενέστερα .
+perseus-eng2	 After this the outlook became still more hopeless for the barbarians, while Agesilaus received large accessions of strength.
+
+cts:urn:tlg0032.tlg009:1.35
+glaux1.0-sentence	87
+perseus-grc2	 ἀπὸ πάντων γὰρ τῶν ἐθνῶν ἐπρεσβεύοντο περὶ φιλίας , πολλοὶ δὲ καὶ ἀφίσταντο πρὸς αὐτόν , ὀρεγόμενοι τῆς ἐλευθερίας , ὥστε οὐκέτι Ἑλλήνων μόνον ἀλλὰ καὶ βαρβάρων πολλῶν ἡγεμὼν ἦν ὁ Ἀγησίλαος .
+perseus-eng2	 For all the nations of the empire sent embassies seeking his friendship, and the desire for freedom caused many to revolt to him, so that not Greeks alone, but many barbarians also now acknowledged the leadership of Agesilaus.
+
+cts:urn:tlg0032.tlg009:1.36
+glaux1.0-sentence	88
+perseus-grc2	 ἄξιόν γε μὴν καὶ ἐντεῦθεν ὑπερβαλλόντως ἄγασθαι αὐτοῦ , ὅστις ἄρχων μὲν παμπόλλων ἐν τῇ ἠπείρῳ πόλεων , ἄρχων δὲ καὶ νήσων , ἐπεὶ καὶ τὸ ναυτικὸν προσῆψεν αὐτῷ ἡ πόλις , αὐξανόμενος δὲ καὶ εὐκλείᾳ καὶ δυνάμει , παρὸν δ’ αὐτῷ πολλοῖς καὶ ἀγαθοῖς χρῆσθαι ὅ τι ἐβούλετο , πρὸς δὲ τούτοις τὸ μέγιστον , ἐπινοῶν καὶ ἐλπίζων καταλύσειν τὴν ἐπὶ τὴν Ἑλλάδα στρατεύσασαν πρότερον ἀρχήν , ὅμως ὑπ’ οὐδενὸς τούτων ἐκρατήθη , ἀλλ’ ἐπειδὴ ἦλθεν αὐτῷ ἀπὸ τῶν οἴκοι τελῶν βοηθεῖν τῇ πατρίδι , ἐπείθετο τῇ πόλει οὐδὲν διαφερόντως ἢ εἰ ἐν τῷ ἐφορείῳ ἔτυχεν ἑστηκὼς μόνος παρὰ τοὺς πέντε , μάλα ἔνδηλον ποιῶν ὡς οὔτε ἂν πᾶσαν τὴν γῆν δέξαιτο ἀντὶ τῆς πατρίδος οὔτε τοὺς ἐπικτήτους ἀντὶ τῶν ἀρχαίων φίλων οὔτε αἰσχρὰ καὶ ἀκίνδυνα κέρδη μᾶλλον ἢ μετὰ κινδύνων τὰ καλὰ καὶ δίκαια .
+perseus-eng2	 His conduct at this juncture also merits unstinted admiration. Though ruler of countless cities on the mainland, and master of islands  —  for the state had now added the fleet to his command  —  becoming daily more famous and more powerful; placed in a position to make what use he would of his many opportunities; and designing and expecting to crown his achievements by dissolving the empire that had attacked Greece  in the past: he suppressed all thought of these things, and as soon as he received a request from the home government to come to the aid of his fatherland, he obeyed the call of the state, just as though he were standing in the Ephor’s palace alone before the Five, thus showing clearly that he would not take the whole earth in exchange for his fatherland, nor new-found friends for old, and that he scorned to choose base and secure gains rather than that which was right and honourable, even though it was dangerous.
+
+cts:urn:tlg0032.tlg009:1.37
+glaux1.0-sentence	89
+perseus-grc2	 ὅσον γε μὴν χρόνον ἐπὶ τῇ ἀρχῇ ἔμεινε πῶς οὐκ ἀξιεπαίνου βασιλέως καὶ τοῦτ’ ἔργον ἐπεδείξατο , ὅστις παραλαβὼν πάσας πόλεις ἐφ’ ἃς ἄρξων ἐξέπλευσε στασιαζούσας διὰ τὸ τὰς πολιτείας κινηθῆναι , ἐπεὶ Ἀθηναῖοι τῆς ἀρχῆς ἔληξαν , ἐποίησεν ὥστ’ ἄνευ φυγῆς καὶ θανάτων ἕως αὐτὸς παρῆν ὁμονόως πολιτευομένας καὶ εὐδαίμονας τὰς πόλεις διατελέσαι ;
+perseus-eng2	 Throughout the time that he remained in his command, another achievement of his showed beyond question how admirable was his skill in kingcraft. Having found all the cities that he had gone out to govern rent by faction in consequence of the political disturbances that followed on the collapse of the Athenian empire, he brought it about by the influence of his presence that the communities lived in unbroken harmony and prosperity without recourse to banishment or executions.
+
+cts:urn:tlg0032.tlg009:1.38
+glaux1.0-sentence	90
+perseus-grc2	 τοιγαροῦν οἱ ἐν τῇ Ἀσίᾳ Ἕλληνες οὐχ ὡς ἄρχοντος μόνον ἀλλὰ καὶ ὡς πατρὸς καὶ ἑταίρου ἀπιόντος αὐτοῦ ἐλυποῦντο .
+perseus-eng2	 Therefore the Greeks in Asia mourned his departure as though they were bidding farewell not merely to a ruler, but to a father or a comrade.
+
+cts:urn:tlg0032.tlg009:1.38
+glaux1.0-sentence	91
+perseus-grc2	 καὶ τέλος ἐδήλωσαν ὅτι οὐ πλαστὴν τὴν φιλίαν παρείχοντο .
+perseus-eng2	 And at the end they showed that their affection was unfeigned.
+
+cts:urn:tlg0032.tlg009:1.38
+glaux1.0-sentence	92
+perseus-grc2	 ἐθελούσιοι γοῦν αὐτῷ συνεβοήθησαν τῇ Λακεδαίμονι , καὶ ταῦτα εἰδότες ὅτι οὐ χείροσιν ἑαυτῶν δεήσοι μάχεσθαι .
+perseus-eng2	 At any rate they went with him voluntarily to aid Sparta, knowing as they did that they must meet an enemy not inferior to themselves.
+
+cts:urn:tlg0032.tlg009:1.38
+glaux1.0-sentence	93
+perseus-grc2	 τῶν μὲν δὴ ἐν τῇ Ἀσίᾳ πράξεων τοῦτο τέλος ἐγένετο .
+perseus-eng2	 This then was the end of his activities in Asia.
+
+cts:urn:tlg0032.tlg009:2.1
+glaux1.0-sentence	94
+perseus-grc2	 διαβὰς δὲ τὸν Ἑλλήσποντον ἐπορεύετο διὰ τῶν αὐτῶν ἐθνῶν ὧνπερ ὁ Πέρσης τῷ παμπληθεῖ στόλῳ ·
+perseus-eng2	 After crossing the Hellespont, he passed through the very same tribes as the Persian king with his mighty host;
+
+cts:urn:tlg0032.tlg009:2.1
+glaux1.0-sentence	95
+perseus-grc2	 καὶ ἣν ἐνιαυσίαν ὁδὸν ὁ βάρβαρος ἐποιήσατο , ταύτην μεῖον ἢ ἐν μηνὶ καθήνυσεν ὁ Ἀγησίλαος .
+perseus-eng2	 and the distance that had been traversed by the barbarian in a year was covered by Agesilaus in less than a month.
+
+cts:urn:tlg0032.tlg009:2.1
+glaux1.0-sentence	96
+perseus-grc2	 οὐ γὰρ ὡς ὑστερήσειε τῆς πατρίδος προεθυμεῖτο .
+perseus-eng2	 For he had no intention of arriving too late to aid his fatherland.
+
+cts:urn:tlg0032.tlg009:2.2
+glaux1.0-sentence	97
+perseus-grc2	 ἐπεὶ δὲ ἐξαμείψας Μακεδονίαν εἰς Θετταλίαν ἀφίκετο , Λαρισαῖοι μὲν καὶ Κραννώνιοι καὶ Σκοτουσαῖοι καὶ Φαρσάλιοι σύμμαχοι ὄντες Βοιωτοῖς , καὶ πάντες δὲ Θετταλοὶ πλὴν ὅσοι αὐτῶν φυγάδες τότε ὄντες ἐτύγχανον , ἐκακούργουν αὐτὸν ἐφεπόμενοι .
+perseus-eng2	 When he had passed through Macedonia and reached Thessaly, the people of Larisa, Crannon, Scotussa and Pharsalus, who were allies of the Boeotians, all the Thessalians, in fact, except those who happened to be in exile at the time, followed at his heels and kept molesting him.
+
+cts:urn:tlg0032.tlg009:2.2
+glaux1.0-sentence	98
+perseus-grc2	 ὁ δὲ τέως μὲν ἦγεν ἐν πλαισίῳ τὸ στράτευμα , τοὺς ἡμίσεις μὲν ἔμπροσθεν , τοὺς ἡμίσεις δὲ ἐπ’ οὐρᾷ ἔχων τῶν ἱππέων ·
+perseus-eng2	 For a time he led the army in a hollow square, with one half of the cavalry in front and the other half in the rear;
+
+cts:urn:tlg0032.tlg009:2.2
+glaux1.0-sentence	99
+perseus-grc2	 ἐπεὶ δ’ ἐκώλυον τῆς πορείας αὐτὸν οἱ Θετταλοὶ ἐπιτιθέμενοι τοῖς ὄπισθεν , παραπέμπει ἐπ’ οὐρὰν καὶ τὸ ἀπὸ τοῦ προηγουμένου στρατεύματος ἱππικὸν πλὴν τῶν περὶ ἑαυτόν .
+perseus-eng2	 but finding his progress hampered by Thessalian attacks on his rearguard, he sent round all the cavalry from the vanguard to the rear, except his own escort.
+
+cts:urn:tlg0032.tlg009:2.3
+glaux1.0-sentence	100
+perseus-grc2	 ὡς δὲ παρετάξαντο ἀλλήλοις , οἱ μὲν Θετταλοί , νομίσαντες οὐκ ἐν καλῷ εἶναι πρὸς τοὺς ὁπλίτας ἱππομαχεῖν , στρέψαντες βάδην ἀπεχώρουν ·
+perseus-eng2	 When the two forces faced one another in line of battle, the Thessalians, believing it inexpedient to engage heavy infantry with cavalry, wheeled round and slowly retired,
+
+cts:urn:tlg0032.tlg009:2.3
+glaux1.0-sentence	101
+perseus-grc2	 οἱ δὲ μάλα σωφρόνως ἐφείποντο .
+perseus-eng2	 their enemy following very cautiously.
+
+cts:urn:tlg0032.tlg009:2.3
+glaux1.0-sentence	102
+perseus-grc2	 γνοὺς δὲ ὁ Ἀγησίλαος ἃ ἑκάτεροι ἡμάρτανον παραπέμπει τοὺς ἀμφ’ αὑτὸν μάλ’ εὐρώστους ἱππέας , καὶ κελεύει τοῖς τε ἄλλοις παραγγέλλειν καὶ αὐτοὺς διώκειν κατὰ κράτος καὶ μηκέτι δοῦναι αὐτοῖς ἀναστροφήν .
+perseus-eng2	 Agesilaus, noticing the errors into which both sides were falling, now sent round his own escort of stalwart horsemen, with orders to bid the others to charge at full speed, and to do the same themselves, and not to give the enemy a chance of rallying.
+
+cts:urn:tlg0032.tlg009:2.3
+glaux1.0-sentence	103
+perseus-grc2	 οἱ δὲ Θετταλοὶ ὡς εἶδον παρὰ δόξαν ἐλαύνοντας , οἱ μὲν αὐτῶν οὐδ’ ἀνέστρεψαν , οἱ δὲ καὶ ἀναστρέφειν πειρώμενοι πλαγίους ἔχοντες τοὺς ἵππους ἡλίσκοντο .
+perseus-eng2	 As for the Thessalians, on seeing the unexpected charge they either did not rally at all, or were captured in the attempt to do so with their horses broadside to the enemy.
+
+cts:urn:tlg0032.tlg009:2.4
+glaux1.0-sentence	104
+perseus-grc2	 Πολύχαρμος μέντοι ὁ Φαρσάλιος ἱππαρχῶν ἀνέστρεψέ τε καὶ μαχόμενος σὺν τοῖς ἀμφ’ αὑτὸν ἀποθνῄσκει .
+perseus-eng2	 Polycharmus the Pharsalian, commander of the cavalry, did indeed turn, and fell fighting along with those about him.
+
+cts:urn:tlg0032.tlg009:2.4
+glaux1.0-sentence	105
+perseus-grc2	 ὡς δὲ τοῦτο ἐγένετο , φυγὴ γίγνεται ἐξαισία ·
+perseus-eng2	 Hereupon ensued a wild flight,
+
+cts:urn:tlg0032.tlg009:2.4
+glaux1.0-sentence	106
+perseus-grc2	 ὥσθ’ οἱ μὲν ἀπέθνῃσκον αὐτῶν , οἱ δὲ καὶ ζῶντες ἡλίσκοντο .
+perseus-eng2	 so that some of the enemy were killed and some were taken prisoners:
+
+cts:urn:tlg0032.tlg009:2.4
+glaux1.0-sentence	107
+perseus-grc2	 ἔστησαν δ’ οὖν οὐ πρόσθεν πρὶν ἢ ἐπὶ τῷ ὄρει τῷ Ναρθακίῳ ἐγένοντο .
+perseus-eng2	 at any rate they never halted until they reached Mt. Narthacium.
+
+cts:urn:tlg0032.tlg009:2.5
+glaux1.0-sentence	108
+perseus-grc2	 καὶ τότε μὲν δὴ ὁ Ἀγησίλαος τρόπαιόν τε ἐστήσατο μεταξὺ Πραντὸς καὶ Ναρθακίου ·
+perseus-eng2	 On that day Agesilaus set up a trophy between Pras and Narthacium,
+
+cts:urn:tlg0032.tlg009:2.5
+glaux1.0-sentence	109
+perseus-grc2	 καὶ αὐτοῦ κατέμεινε , μάλα ἡδόμενος τῷ ἔργῳ , ὅτι τοὺς μέγιστον φρονοῦντας ἐφ’ ἱππικῇ ἐνενικήκει σὺν ᾧ αὐτὸς ἐμηχανήσατο ἱππικῷ .
+perseus-eng2	 and here for the moment he paused, mightily pleased with his exploit, since he had defeated an enemy inordinately proud of his horsemanship with the cavalry that he had himself created.
+
+cts:urn:tlg0032.tlg009:2.5
+glaux1.0-sentence	110
+perseus-grc2	 τῇ δ’ ὑστεραίᾳ ὑπερβάλλων τὰ Ἀχαϊκὰ τῆς Φθίας ὄρη τὴν λοιπὴν ἤδη πᾶσαν διὰ φιλίας ἐπορεύθη εἰς τὰ Βοιωτῶν ὅρια .
+perseus-eng2	 On the morrow he crossed the Achaean mountains in Phthia, and now his route led him through friendly country till he reached the borders of Boeotia.
+
+cts:urn:tlg0032.tlg009:2.6
+glaux1.0-sentence	111
+perseus-grc2	 ἐνταῦθα δὴ ἀντιτεταγμένους εὑρὼν Θηβαίους , Ἀθηναίους , Ἀργείους , Κορινθίους , Αἰνιᾶνας , Εὐβοέας καὶ Λοκροὺς ἀμφοτέρους , οὐδὲν ἐμέλλησεν , ἀλλ’ ἐκ τοῦ φανεροῦ ἀντιπαρέταττε , Λακεδαιμονίων μὲν ἔχων μόραν καὶ ἥμισυ , τῶν δ’ αὐτόθεν συμμάχων Φωκέας καὶ Ὀρχομενίους μόνους , τό τ’ ἄλλο στράτευμα ὅπερ ἠγάγετο αὐτός .
+perseus-eng2	 Here he found arrayed against him the Thebans, Athenians, Argives, Corinthians, Aenianians, Euboeans, and both the Locrian tribes. Without a moment’s delay, in full view of the enemy, he drew up his army for battle. In addition to the army that he had brought with him he had a regiment and a half of Lacedaemonians, and of the local allies only the Phocians and Orchomenians.
+
+cts:urn:tlg0032.tlg009:2.7
+glaux1.0-sentence	112
+perseus-grc2	 καὶ οὐ τοῦτο λέξων ἔρχομαι , ὡς πολὺ μὲν ἐλάττους πολὺ δὲ χείρονας ἔχων ὅμως συνέβαλεν ·
+perseus-eng2	 Now I am not going to say that his forces were far inferior in numbers and in quality, and that nevertheless he accepted battle.
+
+cts:urn:tlg0032.tlg009:2.7
+glaux1.0-sentence	113
+perseus-grc2	 εἰ γὰρ ταῦτα λέγοιμι , Ἀγησίλαόν τ’ ἄν μοι δοκῶ ἄφρονα ἀποφαίνειν καὶ ἐμαυτὸν μωρόν , εἰ ἐπαινοίην τὸν περὶ τῶν μεγίστων εἰκῇ κινδυνεύοντα ·
+perseus-eng2	 That statement, I think, would but show a want of common sense in Agesilaus and my own folly in praising a leader who wantonly jeopardised interests of vital moment.
+
+cts:urn:tlg0032.tlg009:2.7
+glaux1.0-sentence	114
+perseus-grc2	 ἀλλὰ μᾶλλον τάδ’ αὐτοῦ ἄγαμαι , ὅτι πλῆθός τε οὐδὲν μεῖον ἢ τὸ τῶν πολεμίων παρεσκευάσατο , ὥπλισέν τε οὕτως ὡς ἅπαντα μὲν χαλκόν , ἅπαντα δὲ φοινικᾶ φαίνεσθαι ·
+perseus-eng2	 On the contrary — and this is what I do admire him for — he brought into the field an army not a whit inferior to the enemy’s; he so armed it that it looked one solid mass of bronze and scarlet;
+
+cts:urn:tlg0032.tlg009:2.8
+glaux1.0-sentence	115
+perseus-grc2	 ἐπεμελήθη δ’ ὅπως οἱ στρατιῶται τοὺς πόνους δυνήσοιντο ὑποφέρειν ·
+perseus-eng2	 he took care to render his men capable of meeting all calls on their endurance;
+
+cts:urn:tlg0032.tlg009:2.8
+glaux1.0-sentence	116
+perseus-grc2	 ἐνέπλησε δὲ καὶ φρονήματος τὰς ψυχὰς αὐτῶν , ὡς ἱκανοὶ εἶεν πρὸς οὕστινας δέοι μάχεσθαι ·
+perseus-eng2	 he filled their hearts with confidence that they were able to withstand any and every enemy;
+
+cts:urn:tlg0032.tlg009:2.8
+glaux1.0-sentence	117
+perseus-grc2	 ἔτι δὲ φιλονικίαν ἐνέβαλε πρὸς ἀλλήλους τοῖς μετ’ αὐτοῦ ὅπως ἕκαστοι αὐτῶν ἄριστοι φαίνοιντο .
+perseus-eng2	 he inspired them all with an eager determination to out-do one another in valour;
+
+cts:urn:tlg0032.tlg009:2.8
+glaux1.0-sentence	118
+perseus-grc2	 ἐλπίδων γε μὴν πάντας ἐνέπλησεν ὡς πᾶσι πολλὰ κ- ἀγαθὰ ἔσοιτο , εἰ ἄνδρες ἀγαθοὶ γίγνοιντο , νομίζων ἐκ τῶν τοιούτων ἀνθρώπους προθυμότατα τοῖς πολεμίοις μάχεσθαι .
+perseus-eng2	 and lastly he filled all with anticipation that many good things would befall them, if only they proved good men. For he believed that men so prepared fight with all their might; nor in point of fact did he deceive himself.
+
+cts:urn:tlg0032.tlg009:2.9
+glaux1.0-sentence	119
+perseus-grc2	 καὶ μέντοι οὐκ ἐψεύσθη .
+perseus-eng2	 In point of fact did he deceive himself.
+
+cts:urn:tlg0032.tlg009:2.9
+glaux1.0-sentence	120
+perseus-grc2	 διηγήσομαι δὲ καὶ τὴν μάχην ·
+perseus-eng2	 I will describe the battle,
+
+cts:urn:tlg0032.tlg009:2.9
+glaux1.0-sentence	121
+perseus-grc2	 καὶ γὰρ ἐγένετο οἵαπερ οὐκ ἄλλη τῶν ἐφ’ ἡμῶν .
+perseus-eng2	 for there has been none like it in our time.
+
+cts:urn:tlg0032.tlg009:2.9
+glaux1.0-sentence	122
+perseus-grc2	 συνῇσαν μὲν γὰρ εἰς τὸ κατὰ Κορώνειαν πεδίον οἱ μὲν σὺν Ἀγησιλάῳ ἀπὸ τοῦ Κηφισοῦ , οἱ δὲ σὺν τοῖς Θηβαίοις ἀπὸ τοῦ Ἑλικῶνος .
+perseus-eng2	 The two armies met in the plain of Coronea, Agesilaus advancing from the Cephisus, the Thebans and their allies from Helicon.
+
+cts:urn:tlg0032.tlg009:2.9
+glaux1.0-sentence	123
+perseus-grc2	 ἑώρων δὲ τάς τε φάλαγγας ἀλλήλων μάλα ἰσοπάλους , σχεδὸν δὲ καὶ οἱ ἱππεῖς ἦσαν ἑκατέρων ἰσοπληθεῖς .
+perseus-eng2	 Their eyes told them that the opposing lines of battle were exactly matched in strength, and the number of cavalry on both sides was about the same.
+
+cts:urn:tlg0032.tlg009:2.9
+glaux1.0-sentence	124
+perseus-grc2	 εἶχε δὲ ὁ Ἀγησίλαος μὲν τὸ δεξιὸν τοῦ μεθ’ ἑαυτοῦ , Ὀρχομένιοι δὲ ἔσχατοι ἦσαν αὐτῷ τοῦ εὐωνύμου .
+perseus-eng2	 Agesilaus was on the right wing of his army and had the Orchomenians on his extreme left.
+
+cts:urn:tlg0032.tlg009:2.9
+glaux1.0-sentence	125
+perseus-grc2	 οἱ δ’ αὖ Θηβαῖοι αὐτοὶ μὲν δεξιοὶ ἦσαν , Ἀργεῖοι δ’ αὐτοῖς τὸ εὐώνυμον εἶχον .
+perseus-eng2	 On the other side the Thebans themselves were on the right wing and the Argives held the left.
+
+cts:urn:tlg0032.tlg009:2.10
+glaux1.0-sentence	126
+perseus-grc2	 συνιόντων δὲ τέως μὲν σιγὴ πολλὴ ἦν ἀπ’ ἀμφοτέρων ·
+perseus-eng2	 As they approached both sides for a time maintained complete silence,
+
+cts:urn:tlg0032.tlg009:2.10
+glaux1.0-sentence	127
+perseus-grc2	 ἡνίκα δὲ ἀπεῖχον ἀλλήλων ὅσον στάδιον , ἀλαλάξαντες οἱ Θηβαῖοι δρόμῳ ὁμόσε ἐφέροντο .
+perseus-eng2	 but when they were about a furlong apart, the Thebans raised the battle-cry and rushed forward at the double.
+
+cts:urn:tlg0032.tlg009:2.10
+glaux1.0-sentence	128
+perseus-grc2	 ὡς δὲ τριῶν ἔτι πλέθρων ἐν μέσῳ ὄντων ἀντεξέδραμον ἀπὸ τῆς Ἀγησιλάου φάλαγγος ὧν Ἡριππίδας ἐξενάγει ( ἦσαν δ’ οὗτοι τῶν τε ἐξ οἴκου αὐτῷ συστρατευσαμένων καὶ τῶν Κυρείων τινές ) , καὶ Ἴωνες δὲ καὶ Αἰολεῖς καὶ Ἑλλησπόντιοι ἐχόμενοι .
+perseus-eng2	 The distance between them was still about one hundred yards when the mercenary troops under Herippidas, consisting of the men who had gone with Agesilaus from home and some of the Cyreians, dashed out in turn from their main body, closely followed by Ionians, Aeolians and Hellespontines.
+
+cts:urn:tlg0032.tlg009:2.11
+glaux1.0-sentence	129
+perseus-grc2	 καὶ πάντες οὗτοι τῶν συνεκδραμόντων τε ἐγένοντο καὶ εἰς δόρυ ἀφικόμενοι ἐτρέψαντο τὸ καθ’ ἑαυτούς .
+perseus-eng2	 All these took part in the dash, and coming within spear-thrust put to flight the force in front of them.
+
+cts:urn:tlg0032.tlg009:2.11
+glaux1.0-sentence	130
+perseus-grc2	 Ἀργεῖοι μέντοι οὐκ ἐδέξαντο τοὺς ἀμφ’ Ἀγησίλαον , ἀλλ’ ἔφυγον ἐπὶ τὸν Ἑλικῶνα .
+perseus-eng2	 As for the Argives, they fled towards Helicon without awaiting the attack of Agesilaus.
+
+cts:urn:tlg0032.tlg009:2.11
+glaux1.0-sentence	131
+perseus-grc2	 κ- ἐνταῦθα οἱ μέν τινες τῶν ξένων ἐστεφάνουν ἤδη τὸν Ἀγησίλαον , ἀγγέλλει δέ τις αὐτῷ ὅτι Θηβαῖοι τοὺς Ὀρχομενίους διακόψαντες ἐν τοῖς σκευοφόροις εἰσί .
+perseus-eng2	 And now some of the mercenaries were in the act of crowning Agesilaus with a wreath, when a man reported to him that the Thebans had cut their way through the Orchomenians and were among the baggage train.
+
+cts:urn:tlg0032.tlg009:2.11
+glaux1.0-sentence	132
+perseus-grc2	 καὶ ὁ μὲν εὐθὺς ἐξελίξας τὴν φάλαγγα ἦγεν ἐπ’ αὐτούς ·
+perseus-eng2	 So he immediately wheeled his main body and advanced against them;
+
+cts:urn:tlg0032.tlg009:2.11
+glaux1.0-sentence	133
+perseus-grc2	 οἱ δ’ αὖ Θηβαῖοι ὡς εἶδον τοὺς συμμάχους πρὸς τῷ Ἑλικῶνι πεφευγότας , διαπεσεῖν βουλόμενοι πρὸς τοὺς ἑαυτῶν ἐχώρουν ἐρρωμένως .
+perseus-eng2	 and the Thebans in their turn, seeing that their allies had sought refuge at the foot of Mt. Helicon, and wanting to break through and join their friends, made a strong move forward.
+
+cts:urn:tlg0032.tlg009:2.12
+glaux1.0-sentence	134
+perseus-grc2	 ἐνταῦθα δὴ Ἀγησίλαον ἀνδρεῖον μὲν ἔξεστιν εἰπεῖν ἀναμφιλόγως , οὐ μέντοι εἵλετό γε τὰ ἀσφαλέστατα ·
+perseus-eng2	 At this juncture one may say without fear of contradiction that Agesilaus showed courage;
+
+cts:urn:tlg0032.tlg009:2.12
+glaux1.0-sentence	135
+perseus-grc2	 ἐξὸν γὰρ αὐτῷ παρέντι τοὺς διαπίπτοντας ἑπομένῳ χειροῦσθαι τοὺς ὄπισθεν οὐκ ἐποίησε τοῦτο , ἀλλ’ ἀντιμέτωπος συνέρραξε τοῖς Θηβαίοις .
+perseus-eng2	 but the course that he adopted was not the safest. For he might have allowed the men who were trying to break through to pass, and then have followed them and annihilated those in the rear. Instead of doing that he made a furious frontal attack on the Thebans.
+
+cts:urn:tlg0032.tlg009:2.12
+glaux1.0-sentence	136
+perseus-grc2	 καὶ συμβαλόντες τὰς ἀσπίδας ἐωθοῦντο , ἐμάχοντο , ἀπέκτεινον , ἀπέθνῃσκον .
+perseus-eng2	 Thrusting shield against shield, they shoved and fought and killed and fell.
+
+cts:urn:tlg0032.tlg009:2.12
+glaux1.0-sentence	137
+perseus-grc2	 καὶ κραυγὴ μὲν οὐδεμία παρῆν , οὐ μὴν οὐδὲ σιγή , φωνὴ δέ τις ἦν τοιαύτη οἵαν ὀργή τε καὶ μάχη παράσχοιτ’ ἄν .
+perseus-eng2	 There was no shouting, nor was there silence, but the strange noise that wrath and battle together will produce.
+
+cts:urn:tlg0032.tlg009:2.12
+glaux1.0-sentence	138
+perseus-grc2	 τέλος δὲ τῶν Θηβαίων οἱ μὲν διαπίπτουσι πρὸς τὸν Ἑλικῶνα , πολλοὶ δ’ ἀποχωροῦντες ἀπέθανον .
+perseus-eng2	 In the end some of the Thebans broke through and reached Helicon, but many fell during the retreat.
+
+cts:urn:tlg0032.tlg009:2.13
+glaux1.0-sentence	139
+perseus-grc2	 ἐπειδὴ δὲ ἡ μὲν νίκη σὺν Ἀγησιλάῳ ἐγένετο , τετρωμένος δ’ αὐτὸς προσηνέχθη πρὸς τὴν φάλαγγα , προσελάσαντές τινες τῶν ἱππέων λέγουσιν αὐτῷ ὅτι τῶν πολεμίων ὀγδοήκοντα σὺν τοῖς ὅπλοις ὑπὸ τῷ ναῷ εἰσι , καὶ ἠρώτων τί χρὴ ποιεῖν .
+perseus-eng2	 The victory lay with Agesilaus; but he himself had been carried wounded to his battle-line, when some horsemen rode up, and told him that eighty of the enemy retaining their arms had taken cover in the temple, and they asked what they should do.
+
+cts:urn:tlg0032.tlg009:2.13
+glaux1.0-sentence	140
+perseus-grc2	 ὁ δὲ καίπερ πολλὰ τραύματα ἔχων πάντοσε καὶ παντοίοις ὅπλοις ὅμως οὐκ ἐπελάθετο τοῦ θείου , ἀλλ’ ἐᾶν τε ἀπιέναι ὅποι βούλοιντο ἐκέλευε καὶ ἀδικεῖν οὐκ εἴα , καὶ προπέμψαι ἐπέταξε τοὺς ἀμφ’ αὐτὸν ἱππεῖς ἔστε ἐν τῷ ἀσφαλεῖ ἐγένοντο .
+perseus-eng2	 Though wounded in every part of his body with every sort of weapon, he did not forget his duty towards the gods, but gave orders that these men should be suffered to go whithersoever they wished, and would not suffer them to be harmed, and charged his escort of cavalry to conduct them to a place of safety.
+
+cts:urn:tlg0032.tlg009:2.14
+glaux1.0-sentence	141
+perseus-grc2	 ἐπεί γε μὴν ἔληξεν ἡ μάχη , παρῆν δὴ θεάσασθαι ἔνθα συνέπεσον ἀλλήλοις τὴν μὲν γῆν αἵματι πεφυρμένην , νεκροὺς δὲ κειμένους φιλίους καὶ πολεμίους μετ’ ἀλλήλων , ἀσπίδας δὲ διατεθρυμμένας , δόρατα συντεθραυσμένα , ἐγχειρίδια γυμνὰ κολεῶν , τὰ μὲν χαμαί , τὰ δ’ ἐν σώματι , τὰ δ’ ἔτι μετὰ χεῖρας .
+perseus-eng2	 Now that the fighting was at an end, a weird spectacle met the eye, as one surveyed the scene of the conflict  —  the earth stained with blood, friend and foe lying dead side by side, shields smashed to pieces, spears snapped in two, daggers bared of their sheaths, some on the ground, some embedded in the bodies, some yet gripped by the hand.
+
+cts:urn:tlg0032.tlg009:2.15
+glaux1.0-sentence	142
+perseus-grc2	 τότε μὲν οὖν ( καὶ γὰρ ἦν ἤδη ὀψέ ) συνελκύσαντες τοὺς τῶν πολεμίων νεκροὺς εἴσω φάλαγγος ἐδειπνοποιήσαντο καὶ ἐκοιμήθησαν ·
+perseus-eng2	 Then, as the day was far spent, having dragged the enemy’s dead within their battle line, they supped and slept.
+
+cts:urn:tlg0032.tlg009:2.15
+glaux1.0-sentence	143
+perseus-grc2	 πρῲ δὲ Γῦλιν τὸν πολέμαρχον παρατάξαι τε ἐκέλευσε τὸ στράτευμα καὶ τρόπαιον ἵστασθαι καὶ στεφανοῦσθαι πάντας τῷ θεῷ καὶ τοὺς αὐλητὰς πάντας αὐλεῖν .
+perseus-eng2	 Early next morning Agesilaus ordered Gylis, the polemarch, to draw up the army in battle order and to set up a trophy, and to command every man to wear a wreath in honour of the god and all the flute-players to play.
+
+cts:urn:tlg0032.tlg009:2.16
+glaux1.0-sentence	144
+perseus-grc2	 καὶ οἱ μὲν ταῦτ’ ἐποίουν ·
+perseus-eng2	 Now while they were carrying out these orders
+
+cts:urn:tlg0032.tlg009:2.16
+glaux1.0-sentence	145
+perseus-grc2	 οἱ δὲ Θηβαῖοι ἔπεμψαν κήρυκα , ὑποσπόνδους τοὺς νεκροὺς αἰτοῦντες θάψαι .
+perseus-eng2	 the Thebans sent a herald, asking leave to bury their dead under protection of a truce.
+
+cts:urn:tlg0032.tlg009:2.16
+glaux1.0-sentence	146
+perseus-grc2	 καὶ οὕτως δὴ αἵ τε σπονδαὶ γίγνονται καὶ ὁ Ἀγησίλαος οἴκαδε ἀπεχώρει , ἑλόμενος ἀντὶ τοῦ μέγιστος εἶναι ἐν τῇ Ἀσίᾳ οἴκοι τὰ νόμιμα μὲν ἄρχειν , τὰ νόμιμα δὲ ἄρχεσθαι .
+perseus-eng2	 And so a truce was made, and Agesilaus left for home, choosing, instead of supreme power in Asia, to rule and to be ruled at home according to the constitution.
+
+cts:urn:tlg0032.tlg009:2.17
+glaux1.0-sentence	147
+perseus-grc2	 ἐκ δὲ τούτου κατανοήσας τοὺς Ἀργείους τὰ μὲν οἴκοι καρπουμένους , Κόρινθον δὲ προσειληφότας , ἡδομένους δὲ τῷ πολέμῳ , στρατεύει ἐπ’ αὐτούς ·
+perseus-eng2	 Some time afterwards, finding that the Argives were enjoying the fruits of their land, that they had appropriated Corinth and were finding the war a pleasant occupation, he made an expedition against them.
+
+cts:urn:tlg0032.tlg009:2.17
+glaux1.0-sentence	148
+perseus-grc2	 καὶ δῃώσας πᾶσαν αὐτῶν τὴν χώραν εὐθὺς ἐκεῖθεν ὑπερβαλὼν κατὰ τὰ στενὰ εἰς Κόρινθον αἱρεῖ τὰ ἐπὶ τὸ Λέχαιον τείνοντα τείχη ·
+perseus-eng2	 He first laid waste all their territory, then crossed to Corinth by the pass and captured the walls leading to Lechaeum.
+
+cts:urn:tlg0032.tlg009:2.17
+glaux1.0-sentence	149
+perseus-grc2	 καὶ ἀναπετάσας τῆς Πελοποννήσου τὰς πύλας οὕτως οἴκαδε ἀπελθὼν εἰς τὰ Ὑακίνθια ὅπου ἐτάχθη ὑπὸ τοῦ χοροποιοῦ τὸν παιᾶνα τῷ θεῷ συνεπετέλει .
+perseus-eng2	 Having thus unbarred the gates of Peloponnese, he returned home for the festival of Hyacinthus and joined in singing the paean in honour of the god, taking the place assigned to him by the choirmaster.
+
+cts:urn:tlg0032.tlg009:2.18
+glaux1.0-sentence	150
+perseus-grc2	 ἐκ τούτου δὲ αἰσθανόμενος τοὺς Κορινθίους πάντα μὲν τὰ κτήνη ἐν τῷ Πειραίῳ σῳζομένους , πᾶν δὲ τὸ Πείραιον σπείροντας καὶ καρπουμένους , μέγιστον δὲ ἡγησάμενος ὅτι Βοιωτοὶ ταύτῃ ἐκ Κρεύσιος ὁρμώμενοι εὐπετῶς τοῖς Κορινθίοις παρεγίγνοντο , στρατεύει ἐπὶ τὸ Πείραιον .
+perseus-eng2	 After a time, discovering that the Corinthians were keeping all their cattle safe in Peiraeum, and sowing and reaping the crops throughout that district, and — what he thought most serious — that the Boeotians were finding this route convenient for sending support to the Corinthians, with Creusis as their base, he marched against Peiraeum.
+
+cts:urn:tlg0032.tlg009:2.18
+glaux1.0-sentence	151
+perseus-grc2	 ἰδὼν δὲ ὑπὸ πολλῶν φυλαττόμενον , ὡς ἐνδιδομένης τῆς πόλεως ἐξ ἀρίστου μετεστρατοπεδεύσατο πρὸς τὸ ἄστυ ·
+perseus-eng2	 Seeing that it was strongly guarded, he moved his camp after the morning meal to a position before the capital, as though the city was about to surrender.
+
+cts:urn:tlg0032.tlg009:2.19
+glaux1.0-sentence	152
+perseus-grc2	 αἰσθόμενος δὲ ὑπὸ νύκτα βεβοηθηκότας ἐκ τοῦ Πειραίου εἰς τὴν πόλιν πασσυδίᾳ , ὑποστρέψας ἅμα τῇ ἡμέρᾳ αἱρεῖ τὸ Πείραιον , ἔρημον εὑρὼν φυλακῆς , καὶ τά τε ἄλλα τὰ ἐνόντα λαμβάνει καὶ τὰ τείχη ἃ ἐνετετείχιστο .
+perseus-eng2	 But becoming aware that supports had been hurriedly poured into the city during the night from Peiraeum , he turned about at daybreak and captured Peiraeum , finding it undefended, and everything in it, along with the fortresses that stood there, fell into his hands. Having done this, he returned home.
+
+cts:urn:tlg0032.tlg009:2.20
+glaux1.0-sentence	153
+perseus-grc2	 ταῦτα δὲ ποιήσας οἴκαδε ἀπεχώρησε .
+perseus-eng2	 After doing this he withdrew home.
+
+cts:urn:tlg0032.tlg009:2.20
+glaux1.0-sentence	154
+perseus-grc2	 μετὰ δὲ ταῦτα προθύμων ὄντων τῶν Ἀχαιῶν εἰς τὴν συμμαχίαν καὶ δεομένων συστρατεύειν αὐτοῖς εἰς Ἀκαρνανίαν G? καὶ ἐπιθεμένων ἐν στενοῖς τῶν Ἀκαρνάνων καταλαβὼν τοῖς ψιλοῖς τὰ ὑπὲρ κεφαλῆς αὐτῶν μάχην συνάπτει καὶ πολλοὺς ἀποκτείνας αὐτῶν τρόπαιον ἐστήσατο , καὶ οὐ πρότερον ἔληξε πρὶν Ἀχαιοῖς μὲν φίλους ἐποίησεν Ἀκαρνᾶνας καὶ Αἰτωλοὺς καὶ Ἀργείους , ἑαυτῷ δὲ καὶ συμμάχους .
+perseus-eng2	 After these events, the Achaeans, who were zealous advocates of the alliance, begged him to join them in an expedition against Acarnania.
+
+cts:urn:tlg0032.tlg009:2.21
+glaux1.0-sentence	155
+perseus-grc2	 ἐπειδὴ δὲ εἰρήνης ἐπιθυμήσαντες οἱ πολέμιοι ἐπρεσβεύοντο , Ἀγησίλαος ἀντεῖπε τῇ εἰρήνῃ , ἕως τοὺς διὰ Λακεδαιμονίους φυγόντας Κορινθίων καὶ Θηβαίων ἠνάγκασε τὰς πόλεις οἴκαδε καταδέξασθαι .
+perseus-eng2	 When the enemy sent embassies desiring peace, Agesilaus opposed the peace until he forced Corinth and Thebes to restore to their homes the citizens who had been exiled on account of their sympathy with the Lacedaemonians.
+
+cts:urn:tlg0032.tlg009:2.21
+glaux1.0-sentence	156
+perseus-grc2	 ὕστερον δ’ αὖ καὶ Φλειασίων τοὺς διὰ Λακεδαιμονίους φυγόντας κατήγαγεν , αὐτὸς στρατευσάμενος ἐπὶ Φλειοῦντα .
+perseus-eng2	 And again later, having led an expedition in person against Phleius, he also restored the Phleiasian exiles who had suffered in the same cause.
+
+cts:urn:tlg0032.tlg009:2.21
+glaux1.0-sentence	157
+perseus-grc2	 εἰ δέ τις ἄλλῃ πῃ ταῦτα μέμφεται , ἀλλ’ οὖν φιλεταιρίᾳ γε πραχθέντα φανερά ἐστι .
+perseus-eng2	 Possibly some may censure these actions on other grounds, but at least it is obvious that they were prompted by a spirit of true comradeship.
+
+cts:urn:tlg0032.tlg009:2.22
+glaux1.0-sentence	158
+perseus-grc2	 καὶ γὰρ ἐπεὶ τοὺς ἐν Θήβαις τῶν Λακεδαιμονίων κατέκανον οἱ ἐναντίοι , βοηθῶν αὖ τούτοις στρατεύει ἐπὶ τὰς Θήβας .
+perseus-eng2	 It was in the same spirit that he subsequently made an expedition against Thebes, to relieve the Lacedaemonians in that city when their opponents had taken to murdering them.
+
+cts:urn:tlg0032.tlg009:2.22
+glaux1.0-sentence	159
+perseus-grc2	 εὑρὼν δὲ ἀποτεταφρευμένα καὶ ἀπεσταυρωμένα ἅπαντα , ὑπερβὰς τὰς Κυνὸς κεφαλὰς ἐδῄου τὴν χώραν μέχρι τοῦ ἄστεως , παρέχων καὶ ἐν πεδίῳ καὶ ἀνὰ τὰ ὄρη μάχεσθαι Θηβαίοις , εἰ βούλοιντο .
+perseus-eng2	 Finding the city protected on all sides by a trench and stockade, he crossed the Pass of Cynoscephalae, and laid waste the country up to the city walls, offering battle to the Thebans both on the plain and on the hills, if they chose to fight.
+
+cts:urn:tlg0032.tlg009:2.22
+glaux1.0-sentence	160
+perseus-grc2	 ἐστράτευσε δὲ καὶ τῷ ἐπιόντι ἔτει πάλιν ἐπὶ Θήβας ·
+perseus-eng2	 In the following year he made another expedition against Thebes,
+
+cts:urn:tlg0032.tlg009:2.22
+glaux1.0-sentence	161
+perseus-grc2	 καὶ ὑπερβὰς τὰ κατὰ Σκῶλον σταυρώματα καὶ τάφρους ἐδῄωσε τὰ λοιπὰ τῆς Βοιωτίας .
+perseus-eng2	 and, after crossing the stockade and trenches at Scolus, laid waste the rest of Boeotia.
+
+cts:urn:tlg0032.tlg009:2.23
+glaux1.0-sentence	162
+perseus-grc2	 τὰ μὲν δὴ μέχρι τούτου κοινῇ αὐτός τε καὶ ἡ πόλις ηὐτύχει ·
+perseus-eng2	 Up to this time he and his city enjoyed unbroken success;
+
+cts:urn:tlg0032.tlg009:2.23
+glaux1.0-sentence	163
+perseus-grc2	 ὅσα γε μὴν μετὰ τοῦτο σφάλματα ἐγένοντο οὐδεὶς ἂν εἴποι ὡς Ἀγησιλάου ἡγουμένου ἐπράχθη .
+perseus-eng2	 and though the following years brought a series of troubles, it cannot be said that they were incurred under the leadership of Agesilaus.
+
+cts:urn:tlg0032.tlg009:2.23
+glaux1.0-sentence	164
+perseus-grc2	 ἐπεὶ δ’ αὖ τῆς ἐν Λεύκτροις συμφορᾶς γεγενημένης κατακαίνουσι τοὺς ἐν Τεγέᾳ φίλους καὶ ξένους αὐτοῦ οἱ ἀντίπαλοι σὺν Μαντινεῦσι , συνεστηκότων ἤδη Βοιωτῶν τε πάντων καὶ Ἀρκάδων καὶ Ἠλείων , στρατεύει σὺν μόνῃ τῇ Λακεδαιμονίων δυνάμει , πολλῶν νομιζόντων οὐδ’ ἂν ἐξελθεῖν Λακεδαιμονίους πολλοῦ χρόνου ἐκ τῆς αὑτῶν .
+perseus-eng2	 On the other hand, after the disaster at Leuctra, when his adversaries in league with the Mantineans were murdering his friends and acquaintances in Tegea, and a coalition of all Boeotia, Arcadia and Elis had been formed, he took the field with the Lacedaemonian forces only, thus disappointing the general expectation that the Lacedaemonians would not even go outside their own borders for a long time to come.
+
+cts:urn:tlg0032.tlg009:2.23
+glaux1.0-sentence	165
+perseus-grc2	 δῃώσας δὲ τὴν χώραν τῶν κατακανόντων τοὺς φίλους οὕτως αὖ οἴκαδε ἀπεχώρησεν .
+perseus-eng2	 It was not until he had laid waste the country of those who had murdered his friends that he returned home once more.
+
+cts:urn:tlg0032.tlg009:2.24
+glaux1.0-sentence	166
+perseus-grc2	 ἀπό γε μὴν τούτου ἐπὶ τὴν Λακεδαίμονα στρατευσαμένων Ἀρκάδων τε πάντων καὶ Ἀργείων καὶ Ἠλείων καὶ Βοιωτῶν , καὶ σὺν αὐτοῖς Φωκέων καὶ Λοκρῶν ἀμφοτέρων καὶ Θετταλῶν καὶ Αἰνιάνων καὶ Ἀκαρνάνων καὶ Εὐβοέων , πρὸς δὲ τούτοις ἀφεστηκότων μὲν τῶν δούλων , πολλῶν δὲ περιοικίδων πόλεων , καὶ αὐτῶν Σπαρτιατῶν οὐ μειόνων ἀπολωλότων ἐν τῇ ἐν Λεύκτροις μάχῃ ἢ λειπομένων , ὅμως διεφύλαξε τὴν πόλιν , καὶ ταῦτα ἀτείχιστον οὖσαν , ὅπου μὲν τῷ παντὶ πλέον ἂν εἶχον οἱ πολέμιοι , οὐκ ἐξάγων ἐνταῦθα , ὅπου δὲ οἱ πολῖται πλέον ἕξειν ἔμελλον , εὐρώστως παρατεταγμένος , νομίζων εἰς μὲν τὸ πλατὺ ἐξιὼν πάντοθεν ἂν περιέχεσθαι , ἐν δὲ τοῖς στενοῖς καὶ ὑπερδεξίοις τόποις ὑπομένων τῷ παντὶ κρατεῖν ἄν .
+perseus-eng2	 After this Sparta  was attacked by all the Arcadians, Argives, Eleians and Boeotians, who had the support of the Phocians, both the Locrian peoples, the Thessalians, Aenianians, Acarnanians and Euboeans. In addition the slaves and many of the outlander communities were in revolt, and at least as many of the Spartan nobles had fallen in the battle of Leuctra as survived. He kept the city safe notwithstanding, and that though it was without walls, not going out into the open where the advantage would have lain wholly with the enemy, and keeping his army strongly posted where the citizens would have the advantage; for he believed that he would be surrounded on all sides if he came out into the plain, but that if he made a stand in the defiles and the heights, he would be master of the situation.
+
+cts:urn:tlg0032.tlg009:2.25
+glaux1.0-sentence	167
+perseus-grc2	 ἐπεί γε μὴν ἀπεχώρησε τὸ στράτευμα , πῶς οὐκ ἂν φαίη τις αὐτὸν εὐγνωμόνως χρῆσθαι ἑαυτῷ ;
+perseus-eng2	 After the retirement of the enemy, none will deny that his conduct was marked by good sense.
+
+cts:urn:tlg0032.tlg009:2.25
+glaux1.0-sentence	168
+perseus-grc2	 ὡς γὰρ τοῦ στρατεύεσθαι αὐτὸν καὶ πεζῇ καὶ ἐφ’ ἵππων ἀπεῖργεν ἤδη τὸ γῆρας , χρημάτων δὲ ἑώρα τὴν πόλιν δεομένην , εἰ μέλλοι σύμμαχόν τινα ἕξειν , ἐπὶ τὸ πορίζειν ταῦτα ἑαυτὸν ἔταξε .
+perseus-eng2	 The marching and riding incidental to active service were no longer possible to a man of his years, but he saw that the state must have money if she was to gain an ally anywhere. So he applied himself to the business of raising money.
+
+cts:urn:tlg0032.tlg009:2.25
+glaux1.0-sentence	169
+perseus-grc2	 καὶ ὅσα μὲν ἐδύνατο οἴκοι μένων ἐμηχανᾶτο , ἃ δὲ καιρὸς ἦν οὐκ ὤκνει μετιέναι , οὐδ’ ᾐσχύνετο , εἰ μέλλοι τὴν πόλιν ὠφελήσειν , πρεσβευτὴς ἐκπορευόμενος ἀντὶ στρατηγοῦ .
+perseus-eng2	 At home he did all that ingenuity could suggest; and, if he saw any prospect of serving the state abroad, shrank from no measures that circumstances called for, and he was not ashamed to go out, not as a general, but as an envoy.
+
+cts:urn:tlg0032.tlg009:2.26
+glaux1.0-sentence	170
+perseus-grc2	 ὅμως δὲ καὶ ἐν τῇ πρεσβείᾳ μεγάλου στρατηγοῦ ἔργα διεπράξατο .
+perseus-eng2	 And even as an envoy he accomplished work worthy of a great general.
+
+cts:urn:tlg0032.tlg009:2.26
+glaux1.0-sentence	171
+perseus-grc2	 Αὐτοφραδάτης τε γὰρ πολιορκῶν ἐν Ἀσσῷ Ἀριοβαρζάνην σύμμαχον ὄντα δείσας Ἀγησίλαον φεύγων ᾤχετο ·
+perseus-eng2	 For instance, Autophradates laying siege to Ariobarzanes, an ally of Sparta, at Assos, took to his heels from fear of Agesilaus.
+
+cts:urn:tlg0032.tlg009:2.26
+glaux1.0-sentence	172
+perseus-grc2	 Κότυς δ’ αὖ Σηστὸν πολιορκῶν Ἀριοβαρζάνου ἔτι οὖσαν λύσας καὶ οὗτος τὴν πολιορκίαν ἀπηλλάγη ·
+perseus-eng2	 Cotys for his part, besieging Sestos, while it was still in the hands of Ariobarzanes, broke up the siege and made off.
+
+cts:urn:tlg0032.tlg009:2.26
+glaux1.0-sentence	173
+perseus-grc2	 ὥστ’ οὐκ ἀλόγως καὶ ἀπὸ τῆς πρεσβείας τρόπαιον τῶν πολεμίων εἱστήκει αὐτῷ .
+perseus-eng2	 With good reason, therefore, might the victorious envoy have set up a trophy once again to record these bloodless successes.
+
+cts:urn:tlg0032.tlg009:2.26
+glaux1.0-sentence	174
+perseus-grc2	 Μαύσωλός γε μὴν κατὰ θάλατταν ἑκατὸν ναυσὶ πολιορκῶν ἀμφότερα τὰ χωρία ταῦτα οὐκέτι δείσας ἀλλὰ πεισθεὶς ἀπέπλευσεν οἴκαδε .
+perseus-eng2	 Again, Mausolus, laying siege to both these places with a fleet of a hundred vessels, was induced, not indeed by fear, but by persuasion, to sail for home.
+
+cts:urn:tlg0032.tlg009:2.27
+glaux1.0-sentence	175
+perseus-grc2	 κ- ἐνταῦθα οὖν ἄξια θαύματος διεπράξατο ·
+perseus-eng2	 And in this affair too his success was admirable;
+
+cts:urn:tlg0032.tlg009:2.27
+glaux1.0-sentence	176
+perseus-grc2	 οἵ τε γὰρ εὖ πεπονθέναι νομίζοντες ὑπ’ αὐτοῦ καὶ οἱ φεύγοντες αὐτὸν χρήματα ἀμφότεροι ἔδοσαν .
+perseus-eng2	 for those who considered that they were under an obligation to him and those who fled before him, both paid.
+
+cts:urn:tlg0032.tlg009:2.27
+glaux1.0-sentence	177
+perseus-grc2	 Ταχώς γε μὴν καὶ Μαύσωλος , διὰ τὴν πρόσθεν Ἀγησιλάου ξενίαν συμβαλόμενος καὶ οὗτος χρήματα τῇ Λακεδαίμονι , ἀπέπεμψαν αὐτὸν οἴκαδε προπομπὴν δόντες μεγαλοπρεπῆ .
+perseus-eng2	 Yet again, Tachos and Mausolus (another of those who contributed money to Sparta, owing to his old ties of hospitality with Agesilaus), sent him home with a magnificent escort.
+
+cts:urn:tlg0032.tlg009:2.28
+glaux1.0-sentence	178
+perseus-grc2	 ἐκ δὲ τούτου ἤδη μὲν ἔτη ἐγεγόνει ἀμφὶ τὰ ὀγδοήκοντα ·
+perseus-eng2	 Subsequently, when he was now about eighty years of age,
+
+cts:urn:tlg0032.tlg009:2.28
+glaux1.0-sentence	179
+perseus-grc2	 κατανενοηκὼς δὲ τὸν Αἰγυπτίων βασιλέα ἐπιθυμοῦντα τῷ Πέρσῃ πολεμεῖν , καὶ πολλοὺς μὲν πεζούς , πολλοὺς δὲ ἱππέας , πολλὰ δὲ χρήματα ἔχοντα , ἅσμενος ἤκουσεν ὅτι μετεπέμπετο αὐτόν , καὶ ταῦτα ἡγεμονίαν ὑπισχνούμενος .
+perseus-eng2	 he became aware that the king of Egypt was bent on war with Persia, and was possessed of large forces of infantry and cavalry and plenty of money. He was delighted when a summons for help reached him from the Egyptian king, who actually promised him the chief command.
+
+cts:urn:tlg0032.tlg009:2.29
+glaux1.0-sentence	180
+perseus-grc2	 ἐνόμιζε γὰρ τῇ αὐτῇ ὁρμῇ τῷ μὲν Αἰγυπτίῳ χάριν ἀποδώσειν ἀνθ’ ὧν εὐεργετήκει τὴν Λακεδαίμονα , τοὺς δ’ ἐν τῇ Ἀσίᾳ Ἕλληνας πάλιν ἐλευθερώσειν , τῷ δὲ Πέρσῃ δίκην ἐπιθήσειν καὶ τῶν πρόσθεν καὶ ὅτι νῦν σύμμαχος εἶναι φάσκων ἐπέταττε Μεσσήνην ἀφιέναι .
+perseus-eng2	 For he believed that at one stroke he would repay the Egyptian for his good offices to Sparta , would again set free the Greeks in Asia , and would chastise the Persian for his former hostility, and for demanding now, when he professed to be an ally of Sparta , that her claim to Messene  should be given up.
+
+cts:urn:tlg0032.tlg009:2.30
+glaux1.0-sentence	181
+perseus-grc2	 ἐπεὶ μέντοι ὁ μεταπεμψάμενος οὐκ ἀπεδίδου τὴν ἡγεμονίαν αὐτῷ , ὁ μὲν Ἀγησίλαος ὡς τὸ μέγιστον ἐξηπατημένος ἐφρόντιζε τί δεῖ ποιεῖν .
+perseus-eng2	 However, when this suitor for his assistance failed to give him the command Agesilaus felt that he had been grossly deceived, and was in doubt what he ought to do.
+
+cts:urn:tlg0032.tlg009:2.30
+glaux1.0-sentence	182
+perseus-grc2	 ἐκ τούτου δὲ πρῶτον μὲν οἱ δίχα στρατευόμενοι τῶν Αἰγυπτίων ἀφίστανται τοῦ βασιλέως , ἔπειτα δὲ καὶ οἱ ἄλλοι πάντες ἀπέλιπον αὐτόν .
+perseus-eng2	 At this juncture first a portion of the Egyptian troops, operating as a separate army, revolted from the king, and then the rest of his forces deserted him.
+
+cts:urn:tlg0032.tlg009:2.30
+glaux1.0-sentence	183
+perseus-grc2	 καὶ αὐτὸς μὲν δείσας ἀπεχώρησε φυγῇ εἰς Σιδῶνα τῆς Φοινίκης , οἱ δ’ Αἰγύπτιοι στασιάζοντες διττοὺς βασιλέας αἱροῦνται .
+perseus-eng2	 The king left Egypt and fled in terror to Sidon in Phoenicia, while the Egyptians split up into two parties, and each chose its own king.
+
+cts:urn:tlg0032.tlg009:2.31
+glaux1.0-sentence	184
+perseus-grc2	 ἐνταῦθα δὴ Ἀγησίλαος γνοὺς ὅτι , εἰ μὲν μηδετέρῳ συλλήψοιτο , μισθὸν οὐδέτερος λύσει τοῖς Ἕλλησιν , ἀγορὰν δὲ οὐδέτερος παρέξει , ὁπότερός τ’ ἂν κρατήσῃ , οὗτος ἐχθρὸς ἔσται , εἰ δὲ τῷ ἑτέρῳ συλλήψοιτο , οὗτός γε εὖ παθὼν ὡς τὸ εἰκὸς φίλος ἔσοιτο , οὕτω δὴ κρίνας ὁπότερος φιλέλλην μᾶλλον ἐδόκει εἶναι , στρατευσάμενος μετὰ τούτου τὸν μὲν μισέλληνα μάχῃ νικήσας χειροῦται , τὸν δ’ ἕτερον συγκαθίστησι ·
+perseus-eng2	 Agesilaus now realised that if he helped neither king, neither of them would pay the Greeks their wages, neither would provide a market, and the conqueror, whichever he proved to be, would be hostile, but if he co-operated with one of them, that one, being under an obligation to him, would in all probability adopt a friendly attitude.
+
+cts:urn:tlg0032.tlg009:2.31
+glaux1.0-sentence	185
+perseus-grc2	 καὶ φίλον ποιήσας τῇ Λακεδαίμονι καὶ χρήματα πολλὰ προσλαβὼν οὕτως ἀποπλεῖ οἴκαδε καίπερ μέσου χειμῶνος ὄντος , σπεύδων ὡς μὴ ἀργὸς ἡ πόλις εἰς τὸ ἐπιὸν θέρος πρὸς τοὺς πολεμίους γένοιτο .
+perseus-eng2	 Accordingly, having decided which of them showed the stronger signs of being a friend to the Greeks, he took the field with him. He inflicted a crushing defeat on the enemy of the Greeks, and helped to establish his rival; and so having made him the friend of Sparta, and having received a great sum of money in addition, he sailed home, though it was mid-winter, with all haste, in order that the state might be in a position to take action against her enemies in the coming summer.
+
+cts:urn:tlg0032.tlg009:3.1
+glaux1.0-sentence	186
+perseus-grc2	 καὶ ταῦτα μὲν δὴ εἴρηται ὅσα τῶν ἐκείνου ἔργων μετὰ πλείστων μαρτύρων ἐπράχθη .
+perseus-eng2	 Such, then, is the record of my hero’s deeds, so far as they were done before a crowd of witnesses.
+
+cts:urn:tlg0032.tlg009:3.1
+glaux1.0-sentence	187
+perseus-grc2	 τὰ γὰρ τοιαῦτα οὐ τεκμηρίων προσδεῖται , ἀλλ’ ἀναμνῆσαι μόνον ἀρκεῖ καὶ εὐθὺς πιστεύεται .
+perseus-eng2	 Actions like these need no proofs; the mere mention of them is enough and they command belief immediately.
+
+cts:urn:tlg0032.tlg009:3.1
+glaux1.0-sentence	188
+perseus-grc2	 νῦν δὲ τὴν ἐν τῇ ψυχῇ αὐτοῦ ἀρετὴν πειράσομαι δηλοῦν , δι’ ἣν ταῦτα ἔπραττε καὶ πάντων τῶν καλῶν ἤρα καὶ πάντα τὰ αἰσχρὰ ἐξεδίωκεν .
+perseus-eng2	 But now I will attempt to show the virtue that was in his soul, the virtue through which he wrought those deeds and loved all that is honourable and put away all that is base.
+
+cts:urn:tlg0032.tlg009:3.2
+glaux1.0-sentence	189
+perseus-grc2	 Ἀγησίλαος γὰρ τὰ μὲν θεῖα οὕτως ἐσέβετο ὡς καὶ οἱ πολέμιοι τοὺς ἐκείνου ὅρκους καὶ τὰς ἐκείνου σπονδὰς πιστοτέρας ἐνόμιζον ἢ τὴν ἑαυτῶν φιλίαν ·
+perseus-eng2	 Agesilaus had such reverence for religion, that even his enemies considered his oaths and his treaties more to be relied on than their own friendship with one another:
+
+cts:urn:tlg0032.tlg009:3.2
+glaux1.0-sentence	190
+perseus-grc2	 οἳ καὶ πρὸς ἀλλήλους ἔστιν ὅτε μὲν ὤκνουν εἰς τ- αὐτὸν ἰέναι , Ἀγησιλάῳ δὲ αὑτοὺς ἐνεχείριζον .
+perseus-eng2	 for there were times when they shrank from meeting together, and yet would place themselves in the power of Agesilaus.
+
+cts:urn:tlg0032.tlg009:3.2
+glaux1.0-sentence	191
+perseus-grc2	 ὅπως δὲ μή τις ἀπιστῇ , καὶ ὀνομάσαι βούλομαι τοὺς ἐπιφανεστάτους αὐτῶν .
+perseus-eng2	 And lest anyone should think this statement incredible, I wish to name the most famous among them.
+
+cts:urn:tlg0032.tlg009:3.3
+glaux1.0-sentence	192
+perseus-grc2	 Σπιθριδάτης μέν γε ὁ Πέρσης εἰδὼς ὅτι Φαρνάβαζος γῆμαι μὲν τὴν βασιλέως ἔπραττε θυγατέρα , τὴν δ’ αὐτοῦ ἄνευ γάμου λαβεῖν ἐβούλετο , ὕβριν νομίσας τοῦτο Ἀγησιλάῳ ἑαυτὸν καὶ τὴν γυναῖκα καὶ τὰ τέκνα καὶ τὴν δύναμιν ἐνεχείρισε .
+perseus-eng2	 Pharnabazus was negotiating for a marriage with the Great King’s daughter, and intended to take his, Spithridates’, daughter as a concubine. Regarding this as an outrage, he delivered himself, his wife, his children and all that he had into Agesilaus’ hands. Cotys, ruler of the Paphlagonians, who had disobeyed
+
+cts:urn:tlg0032.tlg009:3.4
+glaux1.0-sentence	193
+perseus-grc2	 Κότυς δὲ ὁ τῶν Παφλαγόνων ἄρχων βασιλεῖ μὲν οὐχ ὑπήκουσε δεξιὰν πέμποντι , φοβούμενος μὴ ληφθεὶς ἢ χρήματα πολλὰ ἀποτείσειεν ἢ καὶ ἀποθάνοι , Ἀγησιλάου δὲ καὶ οὗτος ταῖς σπονδαῖς πιστεύσας εἰς τὸ στρατόπεδόν τε ἦλθε καὶ συμμαχίαν ποιησάμενος εἵλετο σὺν Ἀγησιλάῳ στρατεύεσθαι , χιλίους μὲν ἱππέας , δισχιλίους δὲ πελτοφόρους ἔχων .
+perseus-eng2	 the command of the Great King, though it was accompanied with the symbol of friendship, feared that he would be seized and either be fined heavily or even put to death; but he too, trusting in the armistice with Agesilaus, came to his camp and having entered into alliance elected to take the field at Agesilaus’ side with a thousand horse and two thousand targeteers.
+
+cts:urn:tlg0032.tlg009:3.5
+glaux1.0-sentence	194
+perseus-grc2	 ἀφίκετο δὲ καὶ Φαρνάβαζος Ἀγησιλάῳ εἰς λόγους καὶ διωμολόγησεν , εἰ μὴ αὐτὸς πάσης τῆς στρατιᾶς στρατηγὸς κατασταθείη , ἀποστήσεσθαι βασιλέως ·
+perseus-eng2	 And Pharnabazus too came and parleyed with Agesilaus, and made agreement with him that if he were not himself appointed the Persian general, he would revolt from the Great King.
+
+cts:urn:tlg0032.tlg009:3.5
+glaux1.0-sentence	195
+perseus-grc2	 ἢν μέντοι ἐγὼ γένωμαι στρατηγός , ἔφη , πολεμήσω σοι , ὦ Ἀγησίλαε , ὡς ἂν ἐγὼ δύνωμαι κράτιστα .
+perseus-eng2	 But, he said, if I become general, I shall make war on you, Agesilaus, with all my might.
+
+cts:urn:tlg0032.tlg009:3.5
+glaux1.0-sentence	196
+perseus-grc2	 καὶ ταῦτα λέγων ἐπίστευε μηδὲν ἂν παράσπονδον παθεῖν .
+perseus-eng2	 He used this language in full confidence that nothing contrary to the terms of the armistice would happen to him.
+
+cts:urn:tlg0032.tlg009:3.5
+glaux1.0-sentence	197
+perseus-grc2	 οὕτω μέγα καὶ καλὸν κτῆμα τοῖς τε ἄλλοις ἅπασι καὶ ἀνδρὶ δὴ στρατηγῷ τὸ ὅσιόν τε καὶ πιστὸν εἶναί τε καὶ ὄντα ἐγνῶσθαι .
+perseus-eng2	 So great and so noble a treasure has every man, and above all a general, who is upright and trustworthy and is known to be so.
+
+cts:urn:tlg0032.tlg009:3.5
+glaux1.0-sentence	198
+perseus-grc2	 καὶ περὶ μὲν εὐσεβείας ταῦτα .
+perseus-eng2	 So much, then, for the virtue of Piety.
+
+cts:urn:tlg0032.tlg009:4.1
+glaux1.0-sentence	199
+perseus-grc2	 περί γε μὴν τῆς εἰς χρήματα δικαιοσύνης ποῖα ἄν τις μείζω τεκμήρια ἔχοι τῶνδε ;
+perseus-eng2	 Next comes his Justice in money matters. Of this what proofs can be more convincing than the following?
+
+cts:urn:tlg0032.tlg009:4.1
+glaux1.0-sentence	200
+perseus-grc2	 ὑπὸ γὰρ Ἀγησιλάου στέρεσθαι μὲν οὐδεὶς οὐδὲν πώποτε ἐνεκάλεσεν , εὖ δὲ πεπονθέναι πολλοὶ πολλὰ ὡμολόγουν .
+perseus-eng2	 No man ever made any complaint that he had been defrauded by Agesilaus: but many acknowledged that they had received many benefits from him.
+
+cts:urn:tlg0032.tlg009:4.1
+glaux1.0-sentence	201
+perseus-grc2	 ὅτῳ δὲ ἡδὺ τὰ αὑτοῦ διδόναι ἐπ’ ὠφελείᾳ ἀνθρώπων , πῶς ἂν οὗτος ἐθέλοι τὰ ἀλλότρια ἀποστερεῖν ἐφ’ ᾧ κακόδοξος εἶναι ;
+perseus-eng2	 One who delighted to give away his own for the good of others could not possibly be minded to defraud others at the price of disgrace.
+
+cts:urn:tlg0032.tlg009:4.1
+glaux1.0-sentence	202
+perseus-grc2	 εἰ γὰρ χρημάτων ἐπιθυμοίη , πολὺ ἀπραγμονέστερον τὰ αὑτοῦ φυλάττειν ἢ τὰ μὴ προσήκοντα λαμβάνειν .
+perseus-eng2	 For if he had coveted money it would have cost him far less trouble to keep his own than to take what did not belong to him.
+
+cts:urn:tlg0032.tlg009:4.2
+glaux1.0-sentence	203
+perseus-grc2	 ὃς δὲ δὴ καὶ χάριτας ἀποστερεῖν μὴ ἐθέλοι , ὧν οὐκ εἰσὶ δίκαι πρὸς τὸν μὴ ἀποδιδόντα , πῶς ἅ γε καὶ νόμος κωλύει ἐθέλοι ἂν ἀποστερεῖν ;
+perseus-eng2	 A man who would not leave unpaid debts of gratitude, which are not recoverable in the courts, cannot have been minded to commit thefts that are forbidden by law.
+
+cts:urn:tlg0032.tlg009:4.2
+glaux1.0-sentence	204
+perseus-grc2	 Ἀγησίλαος δὲ οὐ μόνον τὸ μὴ ἀποδιδόναι χάριτας ἄδικον ἔκρινεν , ἀλλὰ καὶ τὸ μὴ πολὺ μείζους τὸν μείζω δυνάμενον .
+perseus-eng2	 And Agesilaus held it wrong not only to repudiate a debt of gratitude, but, having greater means, not to render in return a much greater kindness.
+
+cts:urn:tlg0032.tlg009:4.3
+glaux1.0-sentence	205
+perseus-grc2	 τά γε μὴν τῆς πόλεως κλέπτειν πῇ ἄν τις αὐτὸν εἰκότως αἰτιάσαιτο , ὃς καὶ τὰς αὐτῷ χάριτας ὀφειλομένας τῇ πατρίδι καρποῦσθαι παρεδίδου ;
+perseus-eng2	 Again, with what show of reason could embezzlement of public property be charged against a man who bestowed on his fatherland the rewards due to himself?
+
+cts:urn:tlg0032.tlg009:4.3
+glaux1.0-sentence	206
+perseus-grc2	 τὸ δ’ , ὁπότε βούλοιτο εὖ ποιεῖν ἢ πόλιν ἢ φίλους χρήμασι , δύνασθαι παρ’ ἑτέρων λαμβάνοντα ὠφελεῖν , οὐ καὶ τοῦτο μέγα τεκμήριον ἐγκρατείας χρημάτων ;
+perseus-eng2	 And is it not a striking proof of his freedom from avarice that he was able to get money from others, whenever he wanted, for the purpose of rendering financial assistance to the state or his friends?
+
+cts:urn:tlg0032.tlg009:4.4
+glaux1.0-sentence	207
+perseus-grc2	 εἰ γὰρ ἐπώλει τὰς χάριτας ἢ μισθοῦ εὐεργέτει , οὐδεὶς ἂν οὐδὲν ὀφείλειν αὐτῷ ἐνόμισεν ·
+perseus-eng2	 For had he been in the habit of selling his favours or taking payment for his benefactions, no one would have felt that he owed him anything.
+
+cts:urn:tlg0032.tlg009:4.4
+glaux1.0-sentence	208
+perseus-grc2	 ἀλλ’ οἱ προῖκα εὖ πεπονθότες , οὗτοι ἀεὶ ἡδέως ὑπηρετοῦσι τῷ εὐεργέτῃ , καὶ διότι εὖ ἔπαθον καὶ διότι προεπιστεύθησαν ἄξιοι εἶναι παρακαταθήκην χάριτος φυλάττειν .
+perseus-eng2	 It is the recipient of unbought, gratuitous benefits who is always glad to oblige his benefactor in return for the kindness he has received and in acknowledgment of the trust reposed in him as a worthy and faithful guardian of a favour.
+
+cts:urn:tlg0032.tlg009:4.5
+glaux1.0-sentence	209
+perseus-grc2	 ὅστις δ’ ᾑρεῖτο καὶ σὺν τῷ γενναίῳ μειονεκτεῖν ἢ σὺν τῷ ἀδίκῳ πλέον ἔχειν , πῶς οὗτος οὐκ ἂν πολὺ τὴν αἰσχροκέρδειαν ἀποφεύγοι ;
+perseus-eng2	 Further, is it not certain that the man who by a noble instinct refused to take more and preferred to take less than his just share was far beyond the reach of covetousness?
+
+cts:urn:tlg0032.tlg009:4.5
+glaux1.0-sentence	210
+perseus-grc2	 ἐκεῖνος τοίνυν κριθεὶς ὑπὸ τῆς πόλεως ἅπαντα ἔχειν τὰ Ἄγιδος τὰ ἡμίσεα τοῖς ἀπὸ μητρὸς αὐτῷ ὁμογόνοις μετέδωκεν , ὅτι πενομένους αὐτοὺς ἑώρα .
+perseus-eng2	 Now when the state pronounced him sole heir to the property of Agis, he gave half of it to his mother’s kinsfolk, because he saw that they were in want;
+
+cts:urn:tlg0032.tlg009:4.5
+glaux1.0-sentence	211
+perseus-grc2	 ὡς δὲ ταῦτα ἀληθῆ πᾶσα μάρτυς ἡ τῶν Λακεδαιμονίων πόλις .
+perseus-eng2	 and all Lacedaemon bears witness that my statement is true.
+
+cts:urn:tlg0032.tlg009:4.6
+glaux1.0-sentence	212
+perseus-grc2	 διδόντος δ’ αὐτῷ πάμπολλα δῶρα Τιθραύστου , εἰ ἀπέλθοι ἐκ τῆς χώρας , ἀπεκρίνατο ὁ Ἀγησίλαος ·
+perseus-eng2	 On receiving from Tithraustes an offer of gifts unnumbered if only he would leave his country, Agesilaus answered:
+
+cts:urn:tlg0032.tlg009:4.6
+glaux1.0-sentence	213
+perseus-grc2	 ὦ Τιθραύστα , νομίζεται παρ’ ἡμῖν τῷ ἄρχοντι κάλλιον εἶναι τὴν στρατιὰν ἢ ἑαυτὸν πλουτίζειν , καὶ παρὰ τῶν πολεμίων λάφυρα μᾶλλον πειρᾶσθαι ἢ δῶρα λαμβάνειν .
+perseus-eng2	 Among us, Tithraustes, a ruler’s honour requires him to enrich his army rather than himself, and to take spoils rather than gifts from the enemy.
+
+cts:urn:tlg0032.tlg009:5.1
+glaux1.0-sentence	214
+perseus-grc2	 ἀλλὰ μὴν καὶ ὅσαι γε ἡδοναὶ πολλῶν κρατοῦσιν ἀνθρώπων , ποίας οἶδέ τις Ἀγησίλαον ἡττηθέντα ;
+perseus-eng2	 Again, among all the pleasures that prove too strong for many men, who can mention one to which Agesilaus yielded?
+
+cts:urn:tlg0032.tlg009:5.1
+glaux1.0-sentence	215
+perseus-grc2	 ὃς μέθης μὲν ἀποσχέσθαι ὁμοίως ᾤετο χρῆναι καὶ λαιμαργίας , σίτων δ’ ὑπὲρ καιρὸν ὁμοίως ὡς καὶ ἁμαρτίας .
+perseus-eng2	 Drunkenness, he thought, should be avoided like madness, overeating like idleness.
+
+cts:urn:tlg0032.tlg009:5.1
+glaux1.0-sentence	216
+perseus-grc2	 διμοιρίαν γε μὴν λαμβάνων ἐν ταῖς θοίναις οὐχ ὅπως ἀμφοτέραις ἐχρῆτο , ἀλλὰ διαπέμπων οὐδετέραν αὑτῷ κατέλειπε , νομίζων βασιλεῖ τοῦτο διπλασιασθῆναι οὐχὶ πλησμονῆς ἕνεκα , ἀλλ’ ὅπως ἔχοι καὶ τούτῳ τιμᾶν εἴ τινα βούλοιτο .
+perseus-eng2	 Moreover, he received a double ration at the public meals, but instead of consuming both portions himself, he distributed both and left neither for himself, holding that the purpose of this double allowance to the king was not to provide him with a heavy meal, but to give him the opportunity of honouring whomsoever he would.
+
+cts:urn:tlg0032.tlg009:5.2
+glaux1.0-sentence	217
+perseus-grc2	 οὐ μὴν ὕπνῳ γε δεσπότῃ ἀλλ’ ἀρχομένῳ ὑπὸ τῶν πράξεων ἐχρῆτο , καὶ εὐνήν γε εἰ μὴ τῶν συνόντων φαυλοτάτην ἔχοι , αἰδούμενος οὐκ ἄδηλος ἦν ·
+perseus-eng2	 As for sleep, it was not his master, but the servant of his activities; and unless he occupied the humblest bed among his comrades, he could not conceal his shame:
+
+cts:urn:tlg0032.tlg009:5.2
+glaux1.0-sentence	218
+perseus-grc2	 ἡγεῖτο γὰρ ἄρχοντι προσήκειν οὐ μαλακίᾳ ἀλλὰ καρτερίᾳ τῶν ἰδιωτῶν περιεῖναι .
+perseus-eng2	 for he thought that a ruler’s superiority over ordinary men should be shown not by weakness but by endurance.
+
+cts:urn:tlg0032.tlg009:5.3
+glaux1.0-sentence	219
+perseus-grc2	 τάδε μέντοι πλεονεκτῶν οὐκ ᾐσχύνετο , ἐν μὲν τῷ θέρει τοῦ ἡλίου , ἐν δὲ τῷ χειμῶνι τοῦ ψύχους ·
+perseus-eng2	 There were things, to be sure, of which he was not ashamed to take more than his share — for instance, the summer’s heat and the winter’s cold:
+
+cts:urn:tlg0032.tlg009:5.3
+glaux1.0-sentence	220
+perseus-grc2	 καὶ μὴν εἴ ποτε μοχθῆσαι στρατιᾷ συμβαίη , ἑκὼν ἐπόνει παρὰ τοὺς ἄλλους , νομίζων πάντα τὰ τοιαῦτα παραμυθίαν εἶναι τοῖς στρατιώταις .
+perseus-eng2	 and whenever his army was faced with a hard task, he toiled willingly beyond all others, believing that all such actions were an encouragement to the men.
+
+cts:urn:tlg0032.tlg009:5.3
+glaux1.0-sentence	221
+perseus-grc2	 ὡς δὲ συνελόντι εἰπεῖν , Ἀγησίλαος πονῶν μὲν ἠγάλλετο , ῥᾳστώνην δὲ πάμπαν οὐ προσίετο .
+perseus-eng2	 Not to labour the point, Agesilaus gloried in hard work, and showed a strong distaste for indolence.
+
+cts:urn:tlg0032.tlg009:5.4
+glaux1.0-sentence	222
+perseus-grc2	 περί γε μὴν ἀφροδισίων ἐγκρατείας αὐτοῦ ἆρ’ οὐχὶ εἰ μή του ἄλλου ἀλλὰ θαύματος ἕνεκα ἄξιον μνησθῆναι ;
+perseus-eng2	 His habitual control of his affections surely deserves a tribute of admiration, if worthy of mention on no other ground.
+
+cts:urn:tlg0032.tlg009:5.4
+glaux1.0-sentence	223
+perseus-grc2	 τὸ μὲν γὰρ ὧν μὴ ἐπεθύμησεν ἀπέχεσθαι ἀνθρώπινον ἄν τις φαίη εἶναι ·
+perseus-eng2	 That he should keep at arms’ length those whose intimacy he did not desire may be thought only human.
+
+cts:urn:tlg0032.tlg009:5.4
+glaux1.0-sentence	224
+perseus-grc2	 τὸ δὲ Μεγαβάτου τοῦ Σπιθριδάτου παιδὸς ἐρασθέντα ὥσπερ ἂν τοῦ καλλίστου ἡ σφοδροτάτη φύσις ἐρασθείη , ἔπειτα , ἡνίκα ἐπιχωρίου ὄντος τοῖς Πέρσαις φιλεῖν οὓς ἂν τιμῶσιν ἐπεχείρησε καὶ ὁ Μεγαβάτης φιλῆσαι τὸν Ἀγησίλαον , διαμάχεσθαι ἀνὰ κράτος τὸ μὴ φιληθῆναι , ἆρ’ οὐ τοῦτό γε ἤδη τὸ σωφρόνημα καὶ δαιμόνιον ;
+perseus-eng2	 But he loved Megabates, the handsome son of Spithridates, with all the intensity of an ardent nature. Now it is the custom among the Persians to bestow a kiss on those whom they honour. Yet when Megabates attempted to kiss him, Agesilaus resisted his advances with all his might — an act of punctilious moderation surely!
+
+cts:urn:tlg0032.tlg009:5.5
+glaux1.0-sentence	225
+perseus-grc2	 ἐπεὶ δὲ ὥσπερ ἀτιμασθῆναι νομίσας ὁ Μεγαβάτης τοῦ λοιποῦ οὐκέτι φιλεῖν ἐπειρᾶτο , προσφέρει τινὶ λόγον τῶν ἑταίρων ὁ Ἀγησίλαος πείθειν τὸν Μεγαβάτην πάλιν τιμᾶν αὐτόν .
+perseus-eng2	 Megabates, feeling himself slighted, tried no more to kiss him, and Agesilaus approached one of his companions with a request that he would persuade Megabates to show him honour once again.
+
+cts:urn:tlg0032.tlg009:5.5
+glaux1.0-sentence	226
+perseus-grc2	 ἐρομένου δὲ τοῦ ἑταίρου , ἢν πεισθῇ ὁ Μεγαβάτης , εἰ φιλήσει , ἐνταῦθα διασιωπήσας ὁ Ἀγησίλαος εἶπεν ·
+perseus-eng2	 Will you kiss him, asked his companion, if Megabates yields?
+
+cts:urn:tlg0032.tlg009:5.5
+glaux1.0-sentence	227
+perseus-grc2	 οὐ τὼ σιώ , οὐδ’ εἰ μέλλοιμί γε αὐτίκα μάλα κάλλιστός τε καὶ ἰσχυρότατος καὶ τάχιστος ἀνθρώπων ἔσεσθαι ·
+perseus-eng2	 After a deep silence, Agesilaus gave his reply: By the twin gods, no, not if I were straightway to be the fairest and strongest and fleetest man on earth!
+
+cts:urn:tlg0032.tlg009:5.5
+glaux1.0-sentence	228
+perseus-grc2	 μάχεσθαί γε μέντοι πάλιν τὴν αὐτὴν μάχην ὄμνυμι πάντας θεοὺς ἦ μὴν μᾶλλον βούλεσθαι ἢ πάντα μοι ὅσα ὁρῶ χρυσᾶ γενέσθαι .
+perseus-eng2	 By all the gods I swear that I would rather fight that same battle over again than that everything I see should turn into gold.
+
+cts:urn:tlg0032.tlg009:5.6
+glaux1.0-sentence	229
+perseus-grc2	 καὶ ὅ τι μὲν δὴ ὑπολαμβάνουσί τινες ταῦτα οὐκ ἀγνοῶ ·
+perseus-eng2	 What opinion some hold in regard to these matters I know well enough;
+
+cts:urn:tlg0032.tlg009:5.6
+glaux1.0-sentence	230
+perseus-grc2	 ἐγὼ μέντοι δοκῶ εἰδέναι ὅτι πολὺ πλέονες τῶν πολεμίων ἢ τῶν τοιούτων δύνανται κρατεῖν .
+perseus-eng2	 but for my part I am persuaded that many more men can gain the mastery over their enemies than over impulses such as these.
+
+cts:urn:tlg0032.tlg009:5.6
+glaux1.0-sentence	231
+perseus-grc2	 ἀλλὰ ταῦτα μὲν ὀλίγων εἰδότων πολλοῖς ἔξεστιν ἀπιστεῖν ·
+perseus-eng2	 No doubt when these things are known to few, many have a right to be sceptical:
+
+cts:urn:tlg0032.tlg009:5.6
+glaux1.0-sentence	232
+perseus-grc2	 τὰ δὲ πάντες ἐπιστάμεθα ὅτι ἥκιστα μὲν οἱ ἐπιφανέστατοι τῶν ἀνθρώπων λανθάνουσιν ὅ τι ἂν ποιῶσιν ·
+perseus-eng2	 but we all know this, that the greater a man’s fame, the fiercer is the light that beats on all his actions;
+
+cts:urn:tlg0032.tlg009:5.6
+glaux1.0-sentence	233
+perseus-grc2	 Ἀγησίλαον δέ τι πράξαντα μὲν τοιοῦτον οὔτε ἰδὼν πώποτε οὐδεὶς ἀνήγγειλεν οὔτε εἰκάζων πιστὰ ἂν ἔδοξε λέγειν .
+perseus-eng2	 we know too that no one ever reported that he had seen Agesilaus do any such thing, and that no scandal based on conjecture would have gained credence;
+
+cts:urn:tlg0032.tlg009:5.7
+glaux1.0-sentence	234
+perseus-grc2	 καὶ γὰρ εἰς οἰκίαν μὲν οὐδεμίαν ἰδίᾳ ἐν ἀποδημίᾳ κατήγετο , ἀεὶ δὲ ἦν ἢ ἐν ἱερῷ , ἔνθα δὴ ἀδύνατον τὰ τοιαῦτα πράττειν , ἢ ἐν φανερῷ , μάρτυρας τοὺς πάντων ὀφθαλμοὺς τῆς σωφροσύνης ποιούμενος .
+perseus-eng2	 for it was not his habit, when abroad, to lodge apart in a private house, but he was always either in a temple, where conduct of this sort is, of course, impossible, or else in a public place where all men’s eyes became witnesses of his rectitude.
+
+cts:urn:tlg0032.tlg009:5.7
+glaux1.0-sentence	235
+perseus-grc2	 εἰ δ’ ἐγὼ ταῦτα ψεύδομαι ἀντία τῆς Ἑλλάδος ἐπισταμένης ἐκεῖνον μὲν οὐδὲν ἐπαινῶ , ἐμαυτὸν δὲ ψέγω .
+perseus-eng2	 If I speak this falsely against the knowledge of the Greek world, I am in no way praising my hero; but I am censuring myself.
+
+cts:urn:tlg0032.tlg009:6.1
+glaux1.0-sentence	236
+perseus-grc2	 ἀνδρείας γε μὴν οὐκ ἀφανῆ τεκμήριά μοι δοκεῖ παρασχέσθαι ὑφιστάμενος μὲν ἀεὶ πολεμεῖν πρὸς τοὺς ἰσχυροτάτους τῶν ἐχθρῶν τῇ τε πόλει καὶ τῇ Ἑλλάδι , ἐν δὲ τοῖς πρὸς τούτους ἀγῶσι πρῶτον μὲν ἑαυτὸν τάττων .
+perseus-eng2	 As for Courage, he seems to me to have afforded clear proofs of that by always engaging himself to fight against the strongest enemies of his state and of Greece , and by always placing himself in the forefront of the struggle.
+
+cts:urn:tlg0032.tlg009:6.2
+glaux1.0-sentence	237
+perseus-grc2	 ἔνθα γε μὴν ἠθέλησαν αὐτῷ οἱ πολέμιοι μάχην συνάψαι , οὐ φόβῳ τρεψάμενος νίκης ἔτυχεν , ἀλλὰ μάχῃ ἀντιτύπῳ κρατήσας τρόπαιον ἐστήσατο , ἀθάνατα μὲν τῆς ἑαυτοῦ ἀρετῆς μνημεῖα καταλιπών , σαφῆ δὲ καὶ αὐτὸς σημεῖα ἀπενεγκάμενος τοῦ θυμῷ μάχεσθαι ·
+perseus-eng2	 When the enemy were willing to join battle with him, it was not by their panic flight that he won victory, but it was after overcoming them in stubborn fighting that he set up a trophy,
+
+cts:urn:tlg0032.tlg009:6.2
+glaux1.0-sentence	238
+perseus-grc2	 ὥστ’ οὐκ ἀκούοντας ἀλλ’ ὁρῶντας ἐξῆν αὐτοῦ τὴν ψυχὴν δοκιμάζειν .
+perseus-eng2	 leaving behind him imperishable memorials of his own valour, and bearing in his own body visible tokens of the fury of his fighting, so that not by hearsay but by the evidence of their own eyes men could judge what manner of man he was.
+
+cts:urn:tlg0032.tlg009:6.3
+glaux1.0-sentence	239
+perseus-grc2	 τρόπαια μὴν Ἀγησιλάου οὐχ ὅσα ἐστήσατο ἀλλ’ ὅσα ἐστρατεύσατο δίκαιον νομίζειν .
+perseus-eng2	 In truth the trophies of Agesilaus are not to be counted by telling how many he set up; the number of his campaigns is the number of them.
+
+cts:urn:tlg0032.tlg009:6.3
+glaux1.0-sentence	240
+perseus-grc2	 μεῖον μὲν γὰρ οὐδὲν ἐκράτει ὅτε οὐκ ἤθελον αὐτῷ οἱ πολέμιοι μάχεσθαι , ἀκινδυνότερον δὲ καὶ συμφορώτερον τῇ τε πόλει καὶ τοῖς συμμάχοις ·
+perseus-eng2	 His mastery was in no way less complete when the enemy were unwilling to accept battle, but it was gained at less risk and with more profit to the state and to the allies.
+
+cts:urn:tlg0032.tlg009:6.3
+glaux1.0-sentence	241
+perseus-grc2	 καὶ ἐν τοῖς ἀγῶσι δὲ οὐδὲν ἧττον τοὺς ἀκονιτὶ ἢ τοὺς διὰ μάχης νικῶντας στεφανοῦσι .
+perseus-eng2	 So in the Great Games the unchallenged champion is crowned no less than he who has fought to conquer.
+
+cts:urn:tlg0032.tlg009:6.4
+glaux1.0-sentence	242
+perseus-grc2	 τήν γε μὴν σοφίαν αὐτοῦ ποῖαι τῶν ἐκείνου πράξεων οὐκ ἐπιδεικνύουσιν ;
+perseus-eng2	 Of his Wisdom I find the evidence in every one of his deeds.
+
+cts:urn:tlg0032.tlg009:6.4
+glaux1.0-sentence	243
+perseus-grc2	 ὃς τῇ μὲν πατρίδι οὕτως ἐχρῆτο ὥστε μάλιστα πειθόμενος G? τοῖς δ’ ἑταίροις πρόθυμος ὢν ἀπροφασίστους τοὺς φίλους ἐκέκτητο ·
+perseus-eng2	 Towards his fatherland he behaved in such a manner that, being entirely obedient to her, he won the obedience of the citizens, and by his zeal for his comrades he held the unquestioning devotion of his friends:
+
+cts:urn:tlg0032.tlg009:6.4
+glaux1.0-sentence	244
+perseus-grc2	 τοὺς δέ γε στρατιώτας ἅμα πειθομένους καὶ φιλοῦντας αὐτὸν παρεῖχε .
+perseus-eng2	 and as for his troops, he gained at once their obedience and their affection.
+
+cts:urn:tlg0032.tlg009:6.4
+glaux1.0-sentence	245
+perseus-grc2	 καίτοι πῶς ἂν ἰσχυροτέρα γένοιτο φάλαγξ ἢ διὰ τὸ μὲν πείθεσθαι εὔτακτος οὖσα , διὰ δὲ τὸ φιλεῖν τὸν ἄρχοντα πιστῶς παροῦσα ;
+perseus-eng2	 Surely nothing is wanting to the strength of that battle-line in which obedience results in perfect discipline, and affection for the general produces faithful promptitude.
+
+cts:urn:tlg0032.tlg009:6.5
+glaux1.0-sentence	246
+perseus-grc2	 τούς γε μὴν πολεμίους εἶχε ψέγειν μὲν οὐ δυναμένους , μισεῖν δὲ ἀναγκαζομένους .
+perseus-eng2	 As for the enemy, though they were forced to hate, he gave them no chance to disparage him.
+
+cts:urn:tlg0032.tlg009:6.5
+glaux1.0-sentence	247
+perseus-grc2	 τοὺς γὰρ συμμάχους ἀεὶ πλέον ἔχειν αὐτῶν ἐμηχανᾶτο , ἐξαπατῶν μὲν ὅπου καιρὸς εἴη , φθάνων δὲ ὅπου τάχους δέοι , λήθων δὲ ὅπου τοῦτο συμφέροι , πάντα δὲ τ- ἐναντία πρὸς τοὺς πολεμίους ἢ πρὸς τοὺς φίλους ἐπιτηδεύων .
+perseus-eng2	 For he contrived that his allies always had the better of them, by the use of deception when occasion offered, by anticipating their action if speed was necessary, by hiding when it suited his purpose, and by practising all the opposite methods when dealing with enemies to those which he applied when dealing with friends.
+
+cts:urn:tlg0032.tlg009:6.6
+glaux1.0-sentence	248
+perseus-grc2	 καὶ γὰρ νυκτὶ μὲν ὅσαπερ ἡμέρᾳ ἐχρῆτο , ἡμέρᾳ δὲ ὅσαπερ νυκτί , πολλάκις ἄδηλος γιγνόμενος ὅπου τε εἴη καὶ ὅποι ἴοι καὶ ὅ τι ποιήσοι .
+perseus-eng2	 Night, for example, was to him as day, and day as night, for he often veiled his movements so completely that none could guess where he was, whither he was going, or what he meant to do.
+
+cts:urn:tlg0032.tlg009:6.6
+glaux1.0-sentence	249
+perseus-grc2	 ὥστε καὶ τὰ ἐχυρὰ ἀνώχυρα τοῖς ἐχθροῖς καθίστη , τὰ μὲν παριών , τὰ δὲ ὑπερβαίνων , τὰ δὲ κλέπτων .
+perseus-eng2	 Thus he made even strong positions untenable to the enemy, turning one, scaling another, snatching a third by stealth.
+
+cts:urn:tlg0032.tlg009:6.7
+glaux1.0-sentence	250
+perseus-grc2	 ὁπότε γε μὴν πορεύοιτο εἰδὼς ὅτι ἐξείη τοῖς πολεμίοις μάχεσθαι , εἰ βούλοιντο , συντεταγμένον μὲν οὕτως ἦγε τὸ στράτευμα ὡς ἂν ἐπικουρεῖν μάλιστα ἑαυτῷ δύναιτο , ἡσύχως δ’ ὥσπερ ἂν παρθένος ἡ σωφρονεστάτη προβαίνοι , νομίζων ἐν τῷ τοιούτῳ τὸ τε ἀτρεμὲς καὶ ἀνεκπληκτότατον καὶ ἀθορυβητότατον καὶ ἀναμαρτητότατον καὶ δυσεπιβουλευτότατον εἶναι .
+perseus-eng2	 On the march, whenever he knew that the enemy could bring him to an engagement if they chose, he would lead his army in close order, alert and ready to defend himself, moving on as quietly as a modest maiden, since he held that this was the best means of maintaining calm, of avoiding panic, confusion, and blundering, and of guarding against a surprise attack.
+
+cts:urn:tlg0032.tlg009:6.8
+glaux1.0-sentence	251
+perseus-grc2	 τοιγαροῦν τοιαῦτα ποιῶν τοῖς μὲν πολεμίοις δεινὸς ἦν , τοῖς δὲ φίλοις θάρρος καὶ ῥώμην ἐνεποίει .
+perseus-eng2	 And so, by using such methods, he was formidable to his enemies, and inspired his friends with strength and confidence.
+
+cts:urn:tlg0032.tlg009:6.8
+glaux1.0-sentence	252
+perseus-grc2	 ὥστε ἀκαταφρόνητος μὲν ὑπὸ τῶν ἐχθρῶν διετέλεσεν , ἀζήμιος δ’ ὑπὸ τῶν πολιτῶν , ἄμεμπτος δ’ ὑπὸ τῶν φίλων , πολυεραστότατος δὲ καὶ πολυεπαινετώτατος ὑπὸ πάντων ἀνθρώπων .
+perseus-eng2	 Thus he was never despised by his foes, never brought to account by the citizens, never blamed by his friends, but throughout his career he was praised and idolised by all the world.
+
+cts:urn:tlg0032.tlg009:7.1
+glaux1.0-sentence	253
+perseus-grc2	 ὥς γε μὴν φιλόπολις ἦν καθ’ ἓν μὲν ἕκαστον μακρὸν ἂν εἴη γράφειν ·
+perseus-eng2	 Of his Patriotism it would be a long task to write in complete detail, for there is no single action of his, I think, that does not illustrate that quality.
+
+cts:urn:tlg0032.tlg009:7.1
+glaux1.0-sentence	254
+perseus-grc2	 οἴομαι γὰρ οὐδὲν εἶναι τῶν πεπραγμένων αὐτῷ ὅ τι οὐκ εἰς τοῦτο συντείνει .
+perseus-eng2	 To speak briefly, we all know that when Agesilaus thought he would be serving his fatherland he never shirked toil, never shrank from danger, never spared money, never excused himself on the score of bodily weakness or old age;
+
+cts:urn:tlg0032.tlg009:7.1
+glaux1.0-sentence	255
+perseus-grc2	 ὡς δ’ ἐν βραχεῖ εἰπεῖν , ἅπαντες ἐπιστάμεθα ὅτι Ἀγησίλαος , ὅπου ᾤετο τὴν πατρίδα τι ὠφελήσειν , οὐ πόνων ὑφίετο , οὐ κινδύνων ἀφίστατο , οὐ χρημάτων ἐφείδετο , οὐ σῶμα , οὐ γῆρας προὐφασίζετο , ἀλλὰ καὶ βασιλέως ἀγαθοῦ τοῦτο ἔργον ἐνόμιζε , τὸ τοὺς ἀρχομένους ὡς πλεῖστα ἀγαθὰ ποιεῖν .
+perseus-eng2	 but believed that it is the duty of a good king to do as much good as possible to his subjects.
+
+cts:urn:tlg0032.tlg009:7.2
+glaux1.0-sentence	256
+perseus-grc2	 ἐν τοῖς μεγίστοις δὲ ὠφελήμασι τῆς πατρίδος καὶ τόδε ἐγὼ τίθημι αὐτοῦ , ὅτι δυνατώτατος ὢν ἐν τῇ πόλει φανερὸς ἦν μάλιστα τοῖς νόμοις λατρεύων .
+perseus-eng2	 Among the greatest services he rendered to his fatherland I reckon the fact that, though the most powerful man in the state, he was clearly a devoted servant of the laws.
+
+cts:urn:tlg0032.tlg009:7.2
+glaux1.0-sentence	257
+perseus-grc2	 τίς γὰρ ἂν ἠθέλησεν ἀπειθεῖν ὁρῶν τὸν βασιλέα πειθόμενον ;
+perseus-eng2	 For who would be minded to disobey when he saw the king obeying?
+
+cts:urn:tlg0032.tlg009:7.2
+glaux1.0-sentence	258
+perseus-grc2	 τίς δ’ ἂν ἡγούμενος μειονεκτεῖν νεώτερόν τι ἐπεχείρησε ποιεῖν εἰδὼς τὸν βασιλέα νομίμως καὶ τὸ κρατεῖσθαι φέροντα ;
+perseus-eng2	 Who would turn revolutionist, thinking himself defrauded of his due, when he knew that the king was ready to yield in accordance with the laws?
+
+cts:urn:tlg0032.tlg009:7.3
+glaux1.0-sentence	259
+perseus-grc2	 ὃς καὶ πρὸς τοὺς διαφόρους ἐν τῇ πόλει ὥσπερ πατὴρ πρὸς παῖδας προσεφέρετο .
+perseus-eng2	 Here was a man whose behaviour to his political opponents was that of a father to his children: though he would chide them for their errors he honoured them when they did a good deed, and stood by them when any disaster befell them,
+
+cts:urn:tlg0032.tlg009:7.3
+glaux1.0-sentence	260
+perseus-grc2	 ἐλοιδορεῖτο μὲν γὰρ ἐπὶ τοῖς ἁμαρτήμασιν , ἐτίμα δ’ εἴ τι καλὸν πράττοιεν , παρίστατο δ’ εἴ τις συμφορὰ συμβαίνοι , ἐχθρὸν μὲν οὐδένα ἡγούμενος πολίτην , ἐπαινεῖν δὲ πάντας ἐθέλων , σῴζεσθαι δὲ πάντας κέρδος νομίζων , ζημίαν δὲ τιθεὶς εἰ καὶ ὁ μικροῦ ἄξιος ἀπόλοιτο ·
+perseus-eng2	 deeming no citizen an enemy, willing to praise all, counting the safety of all a gain, and reckoning the destruction even of a man of little worth as a loss.
+
+cts:urn:tlg0032.tlg009:7.3
+glaux1.0-sentence	261
+perseus-grc2	 εἰ δ’ ἐν τοῖς νόμοις ἠρεμοῦντες διαμένοιεν , δῆλος ἦν εὐδαίμονα μὲν αἰεὶ ἔσεσθαι τὴν πατρίδα λογιζόμενος , ἰσχυρὰν δὲ τότε ὅταν οἱ Ἕλληνες σωφρονῶσιν .
+perseus-eng2	 He clearly reckoned that if the citizens should continue to live in peaceful submission to the laws, the fatherland would always prosper and that she would be strong when the Greeks were prudent.
+
+cts:urn:tlg0032.tlg009:7.4
+glaux1.0-sentence	262
+perseus-grc2	 εἴ γε μὴν αὖ καλὸν Ἕλληνα ὄντα φιλέλληνα εἶναι , τίνα τις οἶδεν ἄλλον στρατηγὸν ἢ πόλιν οὐκ ἐθέλοντα αἱρεῖν , ὅταν οἴηται πορθήσειν , ἢ συμφορὰν νομίζοντα τὸ νικᾶν ἐν τῷ πρὸς Ἕλληνας πολέμῳ ;
+perseus-eng2	 Again, if it is honourable in one who is a Greek to be a friend to the Greeks, what other general has the world seen unwilling to take a city when he thought that it would be sacked, or who looked on victory in a war against Greeks as a disaster?
+
+cts:urn:tlg0032.tlg009:7.5
+glaux1.0-sentence	263
+perseus-grc2	 ἐκεῖνος τοίνυν , ἀγγελίας μὲν ἐλθούσης αὐτῷ ὡς ἐν τῇ ἐν Κορίνθῳ μάχῃ ὀκτὼ μὲν Λακεδαιμονίων , ἐγγὺς δὲ μύριοι τεθναῖεν τῶν πολεμίων , οὐκ ἐφησθεὶς φανερὸς ἐγένετο , ἀλλ’ εἶπεν ἄρα ·
+perseus-eng2	 Now when a report reached Agesilaus that eight Lacedaemonians and near ten thousand of the enemy had fallen at the battle of Corinth, instead of showing pleasure, he actually exclaimed:
+
+cts:urn:tlg0032.tlg009:7.5
+glaux1.0-sentence	264
+perseus-grc2	 φεῦ σου , ὦ Ἑλλάς , ὁπότε οἱ νῦν τεθνηκότες ἱκανοὶ ἦσαν ζῶντες νικᾶν μαχόμενοι πάντας τοὺς βαρβάρους .
+perseus-eng2	 Alas for thee, Hellas! those who now lie dead were enough to defeat all the barbarians in battle had they lived!
+
+cts:urn:tlg0032.tlg009:7.6
+glaux1.0-sentence	265
+perseus-grc2	 Κορινθίων γε μὴν τῶν φευγόντων λεγόντων ὅτι ἐνδιδοῖτο αὐτοῖς ἡ πόλις , καὶ μηχανὰς ἐπιδεικνύντων αἷς πάντως ἤλπιζον ἂν ἑλεῖν τὰ τείχη , οὐκ ἤθελε προσβάλλειν , λέγων ὅτι οὐκ ἀνδραποδίζεσθαι δέοι Ἑλληνίδας πόλεις ἀλλὰ σωφρονίζειν .
+perseus-eng2	 And when the Corinthian exiles told him that the city was about to be surrendered to them and pointed to the engines with which they were confident of taking the walls, he would not make an assault, declaring that Greek cities ought not to be enslaved, but chastened.
+
+cts:urn:tlg0032.tlg009:7.6
+glaux1.0-sentence	266
+perseus-grc2	 εἰ δὲ τοὺς ἁμαρτάνοντας , ἔφη , ἡμῶν αὐτῶν ἀφανιοῦμεν , ὁρᾶν χρὴ μὴ οὐδ’ ἕξομεν μεθ’ ὅτου τῶν βαρβάρων κρατήσομεν .
+perseus-eng2	 And if, he added, we are going to annihilate the erring members of our own race, let us beware lest we lack men to help in the conquest of the barbarians.
+
+cts:urn:tlg0032.tlg009:7.7
+glaux1.0-sentence	267
+perseus-grc2	 εἰ δ’ αὖ καλὸν καὶ μισοπέρσην εἶναι , ὅτι καὶ ὁ πάλαι ἐξεστράτευσεν ὡς δουλωσόμενος τὴν Ἑλλάδα καὶ ὁ νῦν συμμαχεῖ μὲν τούτοις μεθ’ ὁποτέρων ἂν οἴηται μείζω βλάψειν , δωρεῖται δ’ ἐκείνοις οὓς ἂν νομίζῃ λαβόντας πλεῖστα κακὰ τοὺς Ἕλληνας ποιήσειν , εἰρήνην δὲ συμπράττει ἐξ ἧς ἂν ἡγῆται μάλιστα ἡμᾶς ἀλλήλοις πολεμήσειν , ὁρῶσι μὲν οὖν ἅπαντες ταῦτα ·
+perseus-eng2	 Or again, if it is honourable to hate the Persian because in old days he set out to enslave Greece, and now allies himself with that side which offers him the prospect of working the greater mischief, makes gifts to those who, as he believes, will injure the Greeks most in return, negotiates the peace that he thinks most certain to produce war among us — well, everyone can see these things,
+
+cts:urn:tlg0032.tlg009:7.7
+glaux1.0-sentence	268
+perseus-grc2	 ἐπεμελήθη δὲ τίς ἄλλος πώποτε πλὴν Ἀγησίλαος ἢ ὅπως φῦλόν τι ἀποστήσεται τοῦ Πέρσου ἢ ὅπως τὸ ἀποστὰν μὴ ἀπόληται ἢ τὸ παράπαν ὡς καὶ βασιλεὺς κακὰ ἔχων μὴ δυνήσεται τοῖς Ἕλλησι πράγματα παρέχειν ;
+perseus-eng2	 but who except Agesilaus has ever striven either to bring about the revolt of a tribe from the Persian, or to save a revolting tribe from destruction, or by some means or other to involve the Great King in trouble so that he will be unable to annoy the Greeks?
+
+cts:urn:tlg0032.tlg009:7.7
+glaux1.0-sentence	269
+perseus-grc2	 ὃς καὶ πολεμούσης τῆς πατρίδος πρὸς Ἕλληνας ὅμως τοῦ κοινοῦ ἀγαθοῦ τῇ Ἑλλάδι οὐκ ἠμέλησεν , ἀλλ’ ἐξέπλευσεν ὅ τι δύναιτο κακὸν ποιήσων τὸν βάρβαρον .
+perseus-eng2	 Nay, when his fatherland was actually at war with Greeks, he did not neglect the common good of Greece, but went out with a fleet to do what harm he could to the barbarian.
+
+cts:urn:tlg0032.tlg009:8.1
+glaux1.0-sentence	270
+perseus-grc2	 ἀλλὰ μὴν ἄξιόν γε αὐτοῦ καὶ τὸ εὔχαρι μὴ σιωπᾶσθαι ·
+perseus-eng2	 Another quality that should not go unrecorded is his urbanity.
+
+cts:urn:tlg0032.tlg009:8.1
+glaux1.0-sentence	271
+perseus-grc2	 ᾧ γε ὑπαρχούσης μὲν τιμῆς , παρούσης δὲ δυνάμεως , πρὸς δὲ τούτοις βασιλείας , καὶ ταύτης οὐκ ἐπιβουλευομένης ἀλλ’ ἀγαπωμένης , τὸ μὲν μεγάλαυχον οὐκ εἶδέ τις , τὸ δὲ φιλόστοργον καὶ θεραπευτικὸν τῶν φίλων καὶ μὴ ζητῶν κατενόησεν ἄν .
+perseus-eng2	 For although he held honour in fee, and had power at his beck, and to these added sovereignty — sovereignty not plotted against but regarded with affection — yet no traces of arrogance could have been detected in him, whereas signs of a fatherly affection and readiness to serve his friends, even if unsought, were evident.
+
+cts:urn:tlg0032.tlg009:8.2
+glaux1.0-sentence	272
+perseus-grc2	 καὶ μὴν μετεῖχε μὲν ἥδιστα παιδικῶν λόγων , συνεσπούδαζε δὲ πᾶν ὅ τι δέοι φίλοις .
+perseus-eng2	 He delighted, moreover, to take his part in light talk, yet he showed an eager sympathy with friends in all their serious concerns.
+
+cts:urn:tlg0032.tlg009:8.2
+glaux1.0-sentence	273
+perseus-grc2	 διὰ δὲ τὸ εὔελπις καὶ εὔθυμος καὶ ἀεὶ ἱλαρὸς εἶναι πολλοὺς ἐποίει μὴ τοῦ διαπράξασθαί τι μόνον ἕνεκα πλησιάζειν , ἀλλὰ καὶ τοῦ ἥδιον διημερεύειν .
+perseus-eng2	 Thanks to his optimism, good humour, and cheerfulness he was a centre of attraction to many, who came not merely for purposes of business, but to pass the day more pleasantly.
+
+cts:urn:tlg0032.tlg009:8.2
+glaux1.0-sentence	274
+perseus-grc2	 ἥκιστα δ’ ὢν οἷος μεγαληγορεῖν ὅμως τῶν ἐπαινούντων αὑτοὺς οὐ βαρέως ἤκουεν , ἡγούμενος βλάπτειν οὐδὲν αὐτούς , ὑπισχνεῖσθαι δὲ ἄνδρας ἀγαθοὺς ἔσεσθαι .
+perseus-eng2	 Little inclined to boastfulness himself, he heard without annoyance the self-praise of others, thinking that, by indulging in it, they did no harm and gave earnest of high endeavour.
+
+cts:urn:tlg0032.tlg009:8.3
+glaux1.0-sentence	275
+perseus-grc2	 ἀλλὰ μὴν καὶ τῇ μεγαλογνωμοσύνῃ γε ὡς εὐκαίρως ἐχρῆτο οὐ παραλειπτέον .
+perseus-eng2	 On the other hand, one must not omit a reference to the dignity that he showed on appropriate occasions.
+
+cts:urn:tlg0032.tlg009:8.3
+glaux1.0-sentence	276
+perseus-grc2	 ἐκεῖνος γὰρ ὅτ’ ἦλθεν αὐτῷ ἐπιστολὴ παρὰ βασιλέως , ἣν ὁ μετὰ Καλλία τοῦ Λακεδαιμονίου Πέρσης ἤνεγκε , περὶ ξενίας τε καὶ φιλίας αὐτῷ , ταύτην μὲν οὐκ ἐδέξατο , τῷ δὲ φέροντι εἶπεν ἀπαγγεῖλαι βασιλεῖ ὡς ἰδίᾳ μὲν πρὸς αὐτὸν οὐδὲν δέοι ἐπιστολὰς πέμπειν , ἢν δὲ φίλος τῇ Λακεδαίμονι καὶ τῇ Ἑλλάδι εὔνους ὢν φαίνηται , ὅτι καὶ αὐτὸς φίλος ἀνὰ κράτος αὐτῷ ἔσοιτο ·
+perseus-eng2	 Thus, when the Persian envoy who came with Calleas, the Lacedaemonian, handed him a letter from the Great King containing offers of friendship and hospitality, he declined to accept it.
+
+cts:urn:tlg0032.tlg009:8.3
+glaux1.0-sentence	277
+perseus-grc2	 ἢν μέντοι , ἔφη , ἐπιβουλεύων ἁλίσκηται , μηδ’ ἂν πάνυ πολλὰς ἐπιστολὰς δέχωμαι , φίλον ἕξειν με οἰέσθω .
+perseus-eng2	 Tell his Majesty, he said to the bearer, that there is no need for him to send me private letters, but, if he gives proof of friendship for Lacedaemon, and goodwill towards Greece, I on my part will be his friend with all my heart. But if he is found plotting against them, let him not hope to have a friend in me, however many letters I may receive.
+
+cts:urn:tlg0032.tlg009:8.4
+glaux1.0-sentence	278
+perseus-grc2	 ἐγὼ οὖν καὶ τοῦτο ἐπαινῶ Ἀγησιλάου τὸ πρὸς τὸ ἀρέσκειν τοῖς Ἕλλησιν ὑπεριδεῖν τὴν βασιλέως ξενίαν .
+perseus-eng2	 In this contempt for the king’s hospitality, as nothing in comparison with the approval of the Greeks, I find one more reason for praising Agesilaus.
+
+cts:urn:tlg0032.tlg009:8.4
+glaux1.0-sentence	279
+perseus-grc2	 ἄγαμαι δὲ κ- ἐκεῖνο , ὅτι οὐχ ὁπότερος πλείω τε χρήματα ἔχοι καὶ πλειόνων ἄρχοι , τούτῳ ἡγήσατο μεῖζον φρονητέον εἶναι , ἀλλ’ ὁπότερος αὐτός τε ἀμείνων εἴη καὶ ἀμεινόνων ἡγοῖτο .
+perseus-eng2	 Admirable too was his opinion that it is not for the ruler with the deeper coffers and the longer roll of subjects to set himself above his rival, but for him who is the better leader of the better people.
+
+cts:urn:tlg0032.tlg009:8.5
+glaux1.0-sentence	280
+perseus-grc2	 ἐπαινῶ δὲ κ- ἐκεῖνο τῆς προνοίας αὐτοῦ , ὅτι νομίζων ἀγαθὸν τοὺς τῇ Ἑλλάδι ἀφίστασθαι τοῦ βασιλέως ὡς πλείστους σατράπας , οὐκ ἐκρατήθη οὔθ’ ὑπὸ δώρων οὔθ’ ὑπὸ τῆς βασιλέως ῥώμης ἐθελήσας ξενωθῆναι αὐτῷ , ἀλλ’ ἐφυλάξατο μὴ ἄπιστος γενέσθαι τοῖς ἀφίστασθαι βουλομένοις .
+perseus-eng2	 Again, an instance of his foresight that I find worthy of praise is this: believing it to be good for Greece  that as many satraps as possible should revolt from the king, he was not prevailed on either by gifts or by the king’s power to accept his hospitality, but was careful not to give cause to those who wanted to revolt for mistrusting him.
+
+cts:urn:tlg0032.tlg009:8.6
+glaux1.0-sentence	281
+perseus-grc2	 ἐκεῖνό γε μὴν αὐτοῦ τίς οὐκ ἂν ἀγασθείη ;
+perseus-eng2	 There is yet another side of his character that everyone must admire.
+
+cts:urn:tlg0032.tlg009:8.6
+glaux1.0-sentence	282
+perseus-grc2	 ὁ μὲν γὰρ Πέρσης , νομίζων , ἢν χρήματα πλεῖστα ἔχῃ , πάνθ’ ὑφ’ ἑαυτῷ ποιήσεσθαι , διὰ τοῦτο πᾶν μὲν τὸ ἐν ἀνθρώποις χρυσίον , πᾶν δὲ τὸ ἀργύριον , πάντα δὲ τὰ πολυτελέστατα ἐπειρᾶτο πρὸς ἑαυτὸν ἁθροίζειν .
+perseus-eng2	 It was the belief of the Persian king that by possessing himself of colossal wealth, he would put all things in subjection to himself.
+
+cts:urn:tlg0032.tlg009:8.6
+glaux1.0-sentence	283
+perseus-grc2	 ὁ δὲ οὕτως ἀντεσκευάσατο τὸν οἶκον ὥστε τούτων μηδενὸς προσδεῖσθαι .
+perseus-eng2	 In this belief he tried to engross all the gold, all the silver and all the most costly things in the world. Agesilaus, on the contrary, adopted such a simple style in his home that he needed none of these things.
+
+cts:urn:tlg0032.tlg009:8.7
+glaux1.0-sentence	284
+perseus-grc2	 εἰ δέ τις ταῦτα ἀπιστεῖ , ἰδέτω μὲν οἵα οἰκία ἤρκει αὐτῷ , θεασάσθω δὲ τὰς θύρας αὐτοῦ ·
+perseus-eng2	 If anyone doubts this, let him mark what sort of a house contented him, and in particular, let him look at the doors:
+
+cts:urn:tlg0032.tlg009:8.7
+glaux1.0-sentence	285
+perseus-grc2	 εἰκάσειε γὰρ ἄν τις ἔτι ταύτας ἐκείνας εἶναι ἅσπερ Ἀριστόδημος ὁ Ἡρακλέους ὅτε κατῆλθε λαβὼν ἐπεστήσατο ·
+perseus-eng2	 one might imagine that they were the very doors that Aristodemus, the descendant of Heracles set up with his own hands in the days of his home-coming.
+
+cts:urn:tlg0032.tlg009:8.7
+glaux1.0-sentence	286
+perseus-grc2	 πειράσθω δὲ θεάσασθαι τὴν ἔνδον κατασκευήν , ἐννοησάτω δὲ ὡς ἐθοίναζεν ἐν ταῖς θυσίαις , ἀκουσάτω δὲ ὡς ἐπὶ πολιτικοῦ καννάθρου κατῄει εἰς Ἀμύκλας ἡ θυγάτηρ αὐτοῦ .
+perseus-eng2	 Let him try to picture the scene within; note how he entertained on days of sacrifice, hear how his daughter used to go down to Amyclae in a public car.
+
+cts:urn:tlg0032.tlg009:8.8
+glaux1.0-sentence	287
+perseus-grc2	 τοιγαροῦν οὕτως ἐφαρμόσας τὰς δαπάνας ταῖς προσόδοις οὐδὲν ἠναγκάζετο χρημάτων ἕνεκα ἄδικον πράττειν .
+perseus-eng2	 And so, thanks to this nice adjustment of his expenditure to his income, he was never compelled to commit an act of injustice for the sake of money.
+
+cts:urn:tlg0032.tlg009:8.8
+glaux1.0-sentence	288
+perseus-grc2	 καίτοι καλὸν μὲν δοκεῖ εἶναι τείχη ἀνάλωτα κτᾶσθαι ὑπὸ πολεμίων ·
+perseus-eng2	 Doubtless it is thought noble to build oneself fortresses impregnable to an enemy:
+
+cts:urn:tlg0032.tlg009:8.8
+glaux1.0-sentence	289
+perseus-grc2	 πολὺ μέντοι ἔγωγε κάλλιον κρίνω τὸ τὴν αὑτοῦ ψυχὴν ἀνάλωτον κατασκευάσαι καὶ ὑπὸ χρημάτων καὶ ὑπὸ ἡδονῶν καὶ ὑπὸ φόβου .
+perseus-eng2	 but in my judgment it is far nobler to fortify one’s own soul against all the assaults of lucre, of pleasure, and of fear.
+
+cts:urn:tlg0032.tlg009:9.1
+glaux1.0-sentence	290
+perseus-grc2	 ἀλλὰ μὴν ἐρῶ γε ὡς καὶ τὸν τρόπον ὑπεστήσατο τῇ τοῦ Πέρσου ἀλαζονείᾳ .
+perseus-eng2	 I will next point out the contrast between his behaviour and the imposture of the Persian king.
+
+cts:urn:tlg0032.tlg009:9.1
+glaux1.0-sentence	291
+perseus-grc2	 πρῶτον μὲν γὰρ ὁ μὲν τῷ σπανίως ὁρᾶσθαι ἐσεμνύνετο , Ἀγησίλαος δὲ τῷ ἀεὶ ἐμφανὴς εἶναι ἠγάλλετο , νομίζων αἰσχρουργίᾳ μὲν τὸ ἀφανίζεσθαι πρέπειν , τῷ δὲ εἰς κάλλος βίῳ τὸ φῶς μᾶλλον κόσμον παρέχειν .
+perseus-eng2	 In the first place the Persian thought his dignity required that he should be seldom seen: Agesilaus delighted to be constantly visible, believing that, whereas secrecy was becoming to an ugly career, the light shed lustre on a life of noble purpose.
+
+cts:urn:tlg0032.tlg009:9.2
+glaux1.0-sentence	292
+perseus-grc2	 ἔπειτα δὲ ὁ μὲν τῷ δυσπρόσοδος εἶναι ἐσεμνύνετο , ὁ δὲ τῷ πᾶσιν εὐπρόσοδος εἶναι ἔχαιρε ·
+perseus-eng2	 In the second place, the one prided himself on being difficult of approach: the other was glad to make himself accessible to all.
+
+cts:urn:tlg0032.tlg009:9.2
+glaux1.0-sentence	293
+perseus-grc2	 καὶ ὁ μὲν ἡβρύνετο τῷ βραδέως διαπράττειν , ὁ δὲ τότε μάλιστα ἔχαιρεν ὁπότε τάχιστα τυχόντας ὧν δέοιντο ἀποπέμποι .
+perseus-eng2	 And the one affected tardiness in negotiation: the other was best pleased when he could dismiss his suitors quickly with their requests granted.
+
+cts:urn:tlg0032.tlg009:9.3
+glaux1.0-sentence	294
+perseus-grc2	 ἀλλὰ μὴν καὶ τὴν εὐπάθειαν ὅσῳ ῥᾴονα καὶ εὐπορωτέραν Ἀγησίλαος ἐπετήδευσεν ἄξιον κατανοῆσαι .
+perseus-eng2	 In the matter of personal comfort, moreover, it is worth noticing how much simpler and how much more easily satisfied were the tastes of Agesilaus.
+
+cts:urn:tlg0032.tlg009:9.3
+glaux1.0-sentence	295
+perseus-grc2	 τῷ μὲν γὰρ Πέρσῃ πᾶσαν γῆν περιέρχονται μαστεύοντες τί ἂν ἡδέως πίοι , μυρίοι δὲ τεχνῶνται τί ἂν ἡδέως φάγοι ·
+perseus-eng2	 The Persian king has vintners scouring every land to find some drink that will tickle his palate; an army of cooks contrives dishes for his delight;
+
+cts:urn:tlg0032.tlg009:9.3
+glaux1.0-sentence	296
+perseus-grc2	 ὅπως γε μὲν καταδάρθοι οὐδ’ ἂν εἴποι τις ὅσα πραγματεύονται .
+perseus-eng2	 and the trouble his lackeys take that he may sleep is indescribable.
+
+cts:urn:tlg0032.tlg009:9.3
+glaux1.0-sentence	297
+perseus-grc2	 Ἀγησίλαος δὲ διὰ τὸ φιλόπονος εἶναι πᾶν μὲν τὸ παρὸν ἡδέως ἔπινε , πᾶν δὲ τὸ συντυχὸν ἡδέως ἤσθιεν ·
+perseus-eng2	 But Agesilaus, thanks to his love of toil, enjoyed any drink that was at hand and any food that came his way;
+
+cts:urn:tlg0032.tlg009:9.3
+glaux1.0-sentence	298
+perseus-grc2	 εἰς δὲ τὸ ἀσμένως κοιμηθῆναι πᾶς τόπος ἱκανὸς ἦν αὐτῷ .
+perseus-eng2	 and any place was good enough to give him soft repose.
+
+cts:urn:tlg0032.tlg009:9.4
+glaux1.0-sentence	299
+perseus-grc2	 καὶ ταῦτα οὐ μόνον πράττων ἔχαιρεν , ἀλλὰ καὶ ἐνθυμούμενος ἠγάλλετο ὅτι αὐτὸς μὲν ἐν μέσαις ταῖς εὐφροσύναις ἀναστρέφοιτο , τὸν δὲ βάρβαρον ἑώρα , εἰ μέλλοι ἀλύπως βιώσεσθαι , συνελκυστέον αὐτῷ ταῖς ἀπὸ περάτων τῆς γῆς τὰ τέρψοντα .
+perseus-eng2	 Nor was he happy only in this behaviour: he was also proud to reflect that, while he was surrounded with good cheer, he saw the barbarian constrained to draw from the ends of the world the material for his enjoyment, if he would live without discomfort.
+
+cts:urn:tlg0032.tlg009:9.5
+glaux1.0-sentence	300
+perseus-grc2	 ηὔφραινε δὲ αὐτὸν καὶ τάδε , ὅτι αὐτὸς μὲν ᾔδει τῇ τῶν θεῶν κατασκευῇ δυνάμενος ἀλύπως χρῆσθαι , τὸν δὲ ἑώρα φεύγοντα μὲν θάλπη , φεύγοντα δὲ ψύχη , δι’ ἀσθένειαν ψυχῆς , οὐκ ἀνδρῶν ἀγαθῶν ἀλλὰ θηρίων τῶν ἀσθενεστάτων βίον μιμούμενον .
+perseus-eng2	 And it cheered his heart to know that he could accommodate himself to the divine ordering of the world, whereas he saw his rival shunning heat and shunning cold through weakness of character, imitating the life, not of brave men, but of the weakest of the brutes.
+
+cts:urn:tlg0032.tlg009:9.6
+glaux1.0-sentence	301
+perseus-grc2	 ἐκεῖνό γε μὴν πῶς οὐ καλὸν καὶ μεγαλογνῶμον , τὸ αὐτὸν μὲν ἀνδρὸς ἔργοις καὶ κτήμασι κοσμεῖν τὸν ἑαυτοῦ οἶκον , κύνας τε πολλοὺς θηρευτὰς καὶ ἵππους πολεμιστηρίους τρέφοντα , Κυνίσκαν δὲ ἀδελφὴν οὖσαν πεῖσαι ἁρματοτροφεῖν καὶ ἐπιδεῖξαι νικώσης αὐτῆς ὅτι τὸ θρέμμα τοῦτο οὐκ ἀνδραγαθίας ἀλλὰ πλούτου ἐπίδειγμά ἐστι ;
+perseus-eng2	 Surely, too, he did what was seemly and dignified when he adorned his own estate with works and possessions worthy of a man, keeping many hounds and war horses, but persuaded his sister Cynisca to breed chariot horses, and showed by her victory that such a stud marks the owner as a person of wealth, but not necessarily of merit.
+
+cts:urn:tlg0032.tlg009:9.7
+glaux1.0-sentence	302
+perseus-grc2	 τόδε γε μὴν πῶς οὐ σαφῶς πρὸς τὸ γενναῖον ἔγνω , ὅτι ἅρματι μὲν νικήσας τοὺς ἰδιώτας οὐδὲν ὀνομαστότερος ἂν εἴη γένοιτο , εἰ δὲ φίλην μὲν πάντων μάλιστα τὴν πόλιν ἔχοι , πλείστους δὲ φίλους καὶ ἀρίστους ἀνὰ πᾶσαν τὴν γῆν κεκτῇτο , νικῴη δὲ τὴν μὲν πατρίδα καὶ τοὺς ἑταίρους εὐεργετῶν , τοὺς δὲ ἀντιπάλους τιμωρούμενος , ὅτι οὕτως ἂν εἴη νικηφόρος τῶν καλλίστων καὶ μεγαλοπρεπεστάτων ἀγωνισμάτων καὶ ὀνομαστότατος καὶ ζῶν καὶ τελευτήσας γένοιτ’ ἄν ;
+perseus-eng2	 How clearly his true nobility comes out in his opinion that a victory in the chariot race over private citizens would add not a whit to his renown; but if he held the first place in the affection of the people, gained the most friends and best all over the world, outstripped all others in serving his fatherland and his comrades and in punishing his adversaries, then he would be victor in the noblest and most splendid contests, and would gain high renown both in life and after death.
+
+cts:urn:tlg0032.tlg009:10.1
+glaux1.0-sentence	303
+perseus-grc2	 ἐγὼ μὲν οὖν τοιαῦτα ἐπαινῶ Ἀγησίλαον .
+perseus-eng2	 Such, then, are the qualities for which I praise Agesilaus.
+
+cts:urn:tlg0032.tlg009:10.1
+glaux1.0-sentence	304
+perseus-grc2	 ταῦτα γὰρ οὐχ ὥσπερ εἰ θησαυρῷ τις ἐντύχοι , πλουσιώτερος μὲν ἂν εἴη , οἰκονομικώτερος δὲ οὐδὲν ἄν , καὶ εἰ νόσου δὲ πολεμίοις ἐμπεσούσης κρατήσειεν , εὐτυχέστερος μὲν ἂν εἴη , στρατηγικώτερος δὲ οὐδὲν ἄν ·
+perseus-eng2	 These are the marks that distinguish him, say, from the man who, lighting on a treasure, becomes wealthier but not wiser in business, or from the man who wins victory through an outbreak of sickness among the enemy, and adds to his success but not to his knowledge of strategy.
+
+cts:urn:tlg0032.tlg009:10.1
+glaux1.0-sentence	305
+perseus-grc2	 ὁ δὲ καρτερίᾳ μὲν πρωτεύων ἔνθα πονεῖν καιρός , ἀλκῇ δὲ ὅπου ἀνδρείας ἀγών , γνώμῃ δὲ ὅπου βουλῆς ἔργον , οὗτος ἔμοιγε δοκεῖ δικαίως ἀνὴρ ἀγαθὸς παντελῶς ἂν νομίζεσθαι .
+perseus-eng2	 The man who is foremost in endurance when the hour comes for toil, in valour when the contest calls for courage, in wisdom when the need is for counsel  —  he is the man, I think, who may fairly be regarded as the perfect embodiment of goodness.
+
+cts:urn:tlg0032.tlg009:10.2
+glaux1.0-sentence	306
+perseus-grc2	 εἰ δὲ καλὸν εὕρημα ἀνθρώποις στάθμη καὶ κανὼν πρὸς τὸ ὀρθὰ ἐργάζεσθαι , καλὸν ἄν μοι δοκεῖ εἶναι ἡ Ἀγησιλάου ἀρετὴ παράδειγμα γενέσθαι τοῖς ἀνδραγαθίαν ἀσκεῖν βουλομένοις .
+perseus-eng2	 If line and rule are a noble discovery of man as aids to the production of good work, I think that the virtue of Agesilaus may well stand as a noble example for those to follow who wish to make moral goodness a habit.
+
+cts:urn:tlg0032.tlg009:10.2
+glaux1.0-sentence	307
+perseus-grc2	 τίς γὰρ ἂν ἢ θεοσεβῆ μιμούμενος ἀνόσιος γένοιτο ἢ δίκαιον ἄδικος ἢ σώφρονα ὑβριστὴς ἢ ἐγκρατῆ ἀκρατής ;
+perseus-eng2	 For who that imitates a pious, a just, a sober, a self-controlled man, can come to be unrighteous, unjust, violent, wanton?
+
+cts:urn:tlg0032.tlg009:10.2
+glaux1.0-sentence	308
+perseus-grc2	 καὶ γὰρ δὴ οὐχ οὕτως ἐπὶ τῷ ἄλλων βασιλεύειν ὡς ἐπὶ τῷ ἑαυτοῦ ἄρχειν ἐμεγαλύνετο , οὐδ’ ἐπὶ τῷ πρὸς τοὺς πολεμίους ἀλλ’ ἐπὶ τῷ πρὸς πᾶσαν ἀρετὴν ἡγεῖσθαι τοῖς πολίταις .
+perseus-eng2	 In point of fact, Agesilaus prided himself less on reigning over others than on ruling himself, less on leading the people against their enemies than on guiding them to all virtue.
+
+cts:urn:tlg0032.tlg009:10.3
+glaux1.0-sentence	309
+perseus-grc2	 ἀλλὰ γὰρ μὴ ὅτι τετελευτηκὼς ἐπαινεῖται τούτου ἕνεκα θρῆνόν τις τοῦτον τὸν λόγον νομισάτω , ἀλλὰ πολὺ μᾶλλον ἐγκώμιον .
+perseus-eng2	 However, let it not be thought, because one whose life is ended is the theme of my praise, that these words are meant for a funeral dirge.
+
+cts:urn:tlg0032.tlg009:10.3
+glaux1.0-sentence	310
+perseus-grc2	 πρῶτον μὲν γὰρ ἅπερ ζῶν ἤκουε τ- αὐτὰ καὶ νῦν λέγεται περὶ αὐτοῦ ·
+perseus-eng2	 They are far more truly the language of eulogy. In the first place the words now applied to him are the very same that he heard in his lifetime.
+
+cts:urn:tlg0032.tlg009:10.3
+glaux1.0-sentence	311
+perseus-grc2	 ἔπειτα δὲ τί καὶ πλέον θρήνου ἄπεστιν ἢ βίος τε εὐκλεὴς καὶ θάνατος ὡραῖος ;
+perseus-eng2	 And, in the second place, what theme is less appropriate to a dirge than a life of fame and a death well-timed?
+
+cts:urn:tlg0032.tlg009:10.3
+glaux1.0-sentence	312
+perseus-grc2	 ἐγκωμίων δὲ τί ἀξιώτερον ἢ νῖκαί τε αἱ κάλλισται καὶ ἔργα τὰ πλείστου ἄξια ;
+perseus-eng2	 What more worthy of eulogies than victories most glorious and deeds of sovereign worth?
+
+cts:urn:tlg0032.tlg009:10.4
+glaux1.0-sentence	313
+perseus-grc2	 δικαίως δ’ ἂν ἐκεῖνός γε μακαρίζοιτο ὃς εὐθὺς μὲν ἐκ παιδὸς ἐρασθεὶς τοῦ εὐκλεὴς γενέσθαι ἔτυχε τούτου μάλιστα τῶν καθ’ ἑαυτόν ·
+perseus-eng2	 Justly may the man be counted blessed who was in love with glory from early youth and won more of it than any man of his age;
+
+cts:urn:tlg0032.tlg009:10.4
+glaux1.0-sentence	314
+perseus-grc2	 φιλοτιμότατος δὲ πεφυκὼς ἀήττητος διετέλεσεν , ἐπεὶ βασιλεὺς ἐγένετο .
+perseus-eng2	 who, being by nature very covetous of honour, never once knew defeat from the day that he became a king;
+
+cts:urn:tlg0032.tlg009:10.4
+glaux1.0-sentence	315
+perseus-grc2	 ἀφικόμενος δὲ ἐπὶ τὸ μήκιστον ἀνθρωπίνου αἰῶνος ἀναμάρτητος ἐτελεύτησε καὶ περὶ τούτους ὧν ἡγεῖτο καὶ πρὸς ἐκείνους οἷς ἐπολέμει .
+perseus-eng2	 who, after living to the utmost limit of human life, died without one blunder to his account, either concerning the men whom he led or in dealing with those on whom he made war.
+
+cts:urn:tlg0032.tlg009:11.1
+glaux1.0-sentence	316
+perseus-grc2	 βούλομαι δὲ καὶ ἐν κεφαλαίοις ἐπανελθεῖν τὴν ἀρετὴν αὐτοῦ , ὡς ἂν ὁ ἔπαινος εὐμνημονεστέρως ἔχῃ .
+perseus-eng2	 I propose to go through the story of his virtue again, and to summarize it, in order that the praise of it may be more easily remembered.
+
+cts:urn:tlg0032.tlg009:11.1
+glaux1.0-sentence	317
+perseus-grc2	 Ἀγησίλαος ἱερὰ μὲν καὶ τὰ ἐν τοῖς πολεμίοις ἐσέβετο , ἡγούμενος τοὺς θεοὺς οὐχ ἧττον ἐν τῇ πολεμίᾳ χρῆναι ἢ ἐν τῇ φιλίᾳ συμμάχους ποιεῖσθαι ·
+perseus-eng2	 Agesilaus reverenced holy places even when they belonged to an enemy, thinking that he ought to make allies of the gods no less in hostile than in friendly countries.
+
+cts:urn:tlg0032.tlg009:11.1
+glaux1.0-sentence	318
+perseus-grc2	 ἱκέτας δὲ θεῶν οὐδὲ ἐχθροὺς ἐβιάζετο , νομίζων ἄλογον εἶναι τοὺς μὲν ἐξ ἱερῶν κλέπτοντας ἱεροσύλους καλεῖν , τοὺς δὲ βωμῶν ἱκέτας ἀποσπῶντας εὐσεβεῖς ἡγεῖσθαι .
+perseus-eng2	 To suppliants of the gods, even if his foes, he did no violence, believing it unreasonable to call robbers of temples sacrilegious and yet to consider those who dragged suppliants from altars pious men.
+
+cts:urn:tlg0032.tlg009:11.2
+glaux1.0-sentence	319
+perseus-grc2	 ἐκεῖνός γε μὴν ὑμνῶν οὔποτ’ ἔληγεν ὡς τοὺς θεοὺς οἴοιτο οὐδὲν ἧττον ὁσίοις ἔργοις ἢ ἁγνοῖς ἱεροῖς ἥδεσθαι .
+perseus-eng2	 My hero never failed to dwell on his opinion that the gods have pleasure in righteous deeds no less than in holy temples.
+
+cts:urn:tlg0032.tlg009:11.2
+glaux1.0-sentence	320
+perseus-grc2	 ἀλλὰ μὴν καὶ ὁπότε εὐτυχοίη , οὐκ ἀνθρώπων ὑπερεφρόνει , ἀλλὰ θεοῖς χάριν ᾔδει .
+perseus-eng2	 In the hour of success he was not puffed up with pride, but gave thanks to the gods.
+
+cts:urn:tlg0032.tlg009:11.2
+glaux1.0-sentence	321
+perseus-grc2	 καὶ θαρρῶν πλείονα ἔθυεν ἢ ὀκνῶν ηὔχετο .
+perseus-eng2	 He offered more sacrifices when confident than prayers when in doubt.
+
+cts:urn:tlg0032.tlg009:11.2
+glaux1.0-sentence	322
+perseus-grc2	 εἴθιστο δὲ φοβούμενος μὲν ἱλαρὸς φαίνεσθαι , εὐτυχῶν δὲ πρᾷος εἶναι .
+perseus-eng2	 He was wont to look cheerful when in fear, and to be humble when successful.
+
+cts:urn:tlg0032.tlg009:11.3
+glaux1.0-sentence	323
+perseus-grc2	 τῶν γε μὴν φίλων οὐ τοὺς δυνατωτάτους ἀλλὰ τοὺς προθυμοτάτους μάλιστα ἠσπάζετο .
+perseus-eng2	 Of his friends he welcomed most heartily not the most powerful, but the most devoted.
+
+cts:urn:tlg0032.tlg009:11.3
+glaux1.0-sentence	324
+perseus-grc2	 ἐμίσει οὐκ εἴ τις κακῶς πάσχων ἠμύνετο , ἀλλ’ εἴ τις εὐεργετούμενος ἀχάριστος φαίνοιτο .
+perseus-eng2	 He hated not the man who defended himself when injured, but such as showed no gratitude for a favour.
+
+cts:urn:tlg0032.tlg009:11.3
+glaux1.0-sentence	325
+perseus-grc2	 ἔχαιρε δὲ τοὺς μὲν αἰσχροκερδεῖς πένητας ὁρῶν , τοὺς δὲ δικαίους πλουσίους ποιῶν , βουλόμενος τὴν δικαιοσύνην τῆς ἀδικίας κερδαλεωτέραν καθιστάναι .
+perseus-eng2	 He rejoiced to see the avaricious poor and to enrich the upright, desiring to render right more profitable than wrong.
+
+cts:urn:tlg0032.tlg009:11.4
+glaux1.0-sentence	326
+perseus-grc2	 ἤσκει δὲ ἐξομιλεῖν μὲν παντοδαποῖς , χρῆσθαι δὲ τοῖς ἀγαθοῖς .
+perseus-eng2	 It was his habit to associate with all sorts and conditions of men, but to be intimate with the good.
+
+cts:urn:tlg0032.tlg009:11.4
+glaux1.0-sentence	327
+perseus-grc2	 ὁπότε δὲ ψεγόντων ἢ ἐπαινούντων τινὰς ἀκούοι , οὐχ ἧττον ᾤετο καταμανθάνειν τοὺς τῶν λεγόντων τρόπους ἢ περὶ ὧν λέγοιεν .
+perseus-eng2	 Whenever he heard men praise or blame others, he thought that he gained as much insight into the character of the critics as of the persons they criticized.
+
+cts:urn:tlg0032.tlg009:11.4
+glaux1.0-sentence	328
+perseus-grc2	 καὶ τοὺς μὲν ὑπὸ φίλων ἐξαπατωμένους οὐκ ἔψεγε , τοὺς δὲ ὑπὸ πολεμίων πάμπαν κατεμέμφετο , καὶ τὸ μὲν ἀπιστοῦντας ἐξαπατᾶν σοφὸν ἔκρινε , τὸ δὲ πιστεύοντας ἀνόσιον .
+perseus-eng2	 If friends proved deceivers he forebore to blame their victims, but he heaped reproaches on those who let an enemy deceive them; and he pronounced deception clever or wicked according as it was practised on the suspicious or the confiding.
+
+cts:urn:tlg0032.tlg009:11.5
+glaux1.0-sentence	329
+perseus-grc2	 ἐπαινούμενος δὲ ἔχαιρεν ὑπὸ τῶν καὶ ψέγειν ἐθελόντων τὰ μὴ ἀρεστά , καὶ τῶν παρρησιαζομένων οὐδένα ἤχθραινε , τοὺς δὲ κρυψίνους ὥσπερ ἐνέδρας ἐφυλάττετο .
+perseus-eng2	 The praise of those who were prepared to censure faults they disapproved was pleasing to him, and he never resented candour, but avoided dissimulation like a snare.
+
+cts:urn:tlg0032.tlg009:11.5
+glaux1.0-sentence	330
+perseus-grc2	 τούς γε μὴν διαβόλους μᾶλλον ἢ τοὺς κλέπτας ἐμίσει , μείζω ζημίαν ἡγούμενος φίλων ἢ χρημάτων στερίσκεσθαι .
+perseus-eng2	 Slanderers he hated more than thieves, deeming loss of friends graver than loss of money.
+
+cts:urn:tlg0032.tlg009:11.6
+glaux1.0-sentence	331
+perseus-grc2	 καὶ τὰς μὲν τῶν ἰδιωτῶν ἁμαρτίας πρᾴως ἔφερε , τὰς δὲ τῶν ἀρχόντων μεγάλας ἦγε , κρίνων τοὺς μὲν ὀλίγα , τοὺς δὲ πολλὰ κακῶς διατιθέναι .
+perseus-eng2	 The mistakes of private persons he judged leniently, because few interests suffer by their incompetence; but the errors of rulers he treated as serious, since they lead to many troubles.
+
+cts:urn:tlg0032.tlg009:11.6
+glaux1.0-sentence	332
+perseus-grc2	 τῇ δὲ βασιλείᾳ προσήκειν ἐνόμιζεν οὐ ῥᾳδιουργίαν ἀλλὰ καλοκἀγαθίαν .
+perseus-eng2	 Kingship, he held, demands not indolence, but manly virtue.
+
+cts:urn:tlg0032.tlg009:11.7
+glaux1.0-sentence	333
+perseus-grc2	 καὶ τοῦ μὲν σώματος εἰκόνα στήσασθαι ἀπέσχετο , πολλῶν αὐτῷ τοῦτο δωρεῖσθαι θελόντων , τῆς δὲ ψυχῆς οὐδέποτε ἐπαύετο μνημεῖα διαπονούμενος , ἡγούμενος τὸ μὲν ἀνδριαντοποιῶν , τὸ δὲ αὑτοῦ ἔργον εἶναι , καὶ τὸ μὲν πλουσίων , τὸ δὲ τῶν ἀγαθῶν .
+perseus-eng2	 He would not allow a statue of himself to be set up, though many wanted to give him one, but on memorials of his mind he laboured unceasingly, thinking the one to be the sculptor’s work, the other his own, the one appropriate to the rich, the other to the good.
+
+cts:urn:tlg0032.tlg009:11.8
+glaux1.0-sentence	334
+perseus-grc2	 χρήμασί γε μὴν οὐ μόνον δικαίως ἀλλὰ καὶ ἐλευθερίως ἐχρῆτο , τῷ μὲν δικαίῳ ἀρκεῖν ἡγούμενος τὸ ἐὰν τὰ ἀλλότρια , τῷ δὲ ἐλευθερίῳ καὶ τῶν ἑαυτοῦ προσωφελητέον εἶναι .
+perseus-eng2	 In the use of money he was not only just but generous, thinking that a just man may be content to leave other men’s money alone, but the generous man is required also to spend his own in the service of others.
+
+cts:urn:tlg0032.tlg009:11.8
+glaux1.0-sentence	335
+perseus-grc2	 αἰεὶ δὲ δεισιδαίμων ἦν , νομίζων τοὺς μὲν καλῶς ζῶντας οὔπω εὐδαίμονας , τοὺς δὲ εὐκλεῶς τετελευτηκότας ἤδη μακαρίους .
+perseus-eng2	 He was ever god-fearing, believing that they who are living life well are not yet happy, but only they who have died gloriously are blessed.
+
+cts:urn:tlg0032.tlg009:11.9
+glaux1.0-sentence	336
+perseus-grc2	 μείζω δὲ συμφορὰν ἔκρινε τὸ γιγνώσκοντα ἢ ἀγνοοῦντα ἀμελεῖν τῶν ἀγαθῶν .
+perseus-eng2	 He held it a greater calamity to neglect that which is good knowingly than in ignorance.
+
+cts:urn:tlg0032.tlg009:11.9
+glaux1.0-sentence	337
+perseus-grc2	 δόξης δὲ οὐδεμιᾶς ἤρα ἧς οὐκ ἐξεπόνει τὰ ἴδια .
+perseus-eng2	 No fame attracted him unless he did the right work to achieve it.
+
+cts:urn:tlg0032.tlg009:11.9
+glaux1.0-sentence	338
+perseus-grc2	 μετ’ ὀλίγων δέ μοι ἐδόκει ἀνθρώπων οὐ καρτερίαν τὴν ἀρετὴν ἀλλ’ εὐπάθειαν νομίζειν ·
+perseus-eng2	 He seemed to me one of the few men who count virtue not a task to be endured but a comfort to be enjoyed;
+
+cts:urn:tlg0032.tlg009:11.9
+glaux1.0-sentence	339
+perseus-grc2	 ἐπαινούμενος γοῦν ἔχαιρε μᾶλλον ἢ χρήματα κτώμενος .
+perseus-eng2	 At any rate praise gave him more pleasure than money.
+
+cts:urn:tlg0032.tlg009:11.9
+glaux1.0-sentence	340
+perseus-grc2	 ἀλλὰ μὴν ἀνδρείαν γε τὸ πλέον μετ’ εὐβουλίας ἢ μετὰ κινδύνων ἐπεδείκνυτο , καὶ σοφίαν ἔργῳ μᾶλλον ἢ λόγοις ἤσκει .
+perseus-eng2	 Courage, as he displayed it, was joined with prudence rather than boldness, and wisdom he cultivated more by action than in words.
+
+cts:urn:tlg0032.tlg009:11.10
+glaux1.0-sentence	341
+perseus-grc2	 πρᾳότατός γε μὴν φίλοις ὢν ἐχθροῖς φοβερώτατος ἦν ·
+perseus-eng2	 Very gentle with friends, he was very formidable to enemies;
+
+cts:urn:tlg0032.tlg009:11.10
+glaux1.0-sentence	342
+perseus-grc2	 καὶ πόνοις μάλιστα ἀντέχων ἑταίροις ἥδιστα ὑπεῖκε , καλῶν ἔργων μᾶλλον ἢ τῶν καλῶν σωμάτων ἐπιθυμῶν .
+perseus-eng2	 and while he resisted fatigue obstinately, he yielded most readily to a comrade, though fair deeds appealed more to his heart than fair faces.
+
+cts:urn:tlg0032.tlg009:11.10
+glaux1.0-sentence	343
+perseus-grc2	 ἔν γε μὴν ταῖς εὐπραξίαις σωφρονεῖν ἐπιστάμενος ἐν τοῖς δεινοῖς εὐθαρσὴς ἐδύνατο εἶναι .
+perseus-eng2	 To moderation in times of prosperity he added confidence in the midst of danger.
+
+cts:urn:tlg0032.tlg009:11.11
+glaux1.0-sentence	344
+perseus-grc2	 καὶ τὸ εὔχαρι οὐ σκώμμασιν ἀλλὰ τρόπῳ ἐπετήδευε , καὶ τῷ μεγαλόφρονι οὐ σὺν ὕβρει ἀλλὰ σὺν γνώμῃ ἐχρῆτο ·
+perseus-eng2	 His urbanity found its habitual expression not in jokes but in his manner;
+
+cts:urn:tlg0032.tlg009:11.11
+glaux1.0-sentence	345
+perseus-grc2	 τῶν γοῦν ὑπεραύχων καταφρονῶν τῶν μετρίων ταπεινότερος ἦν .
+perseus-eng2	 and when on his dignity, he was never arrogant, but always reasonable; at least, if he showed his contempt for the haughty, he was humbler than the average man.
+
+cts:urn:tlg0032.tlg009:11.11
+glaux1.0-sentence	346
+perseus-grc2	 καὶ γὰρ ἐκαλλωπίζετο τῇ μὲν ἀμφὶ τὸ σῶμα φαυλότητι , τῷ δ’ ἀμφὶ τὸ στράτευμα κόσμῳ καὶ τῷ μὲν αὐτὸς ὡς ἐλαχίστων δεῖσθαι , τῷ δὲ τοὺς φίλους ὡς πλεῖστα ὠφελεῖν .
+perseus-eng2	 For he prided himself on the simplicity of his own dress and the splendid equipment of his army, on a strict limitation of his own needs and a boundless generosity to his friends.
+
+cts:urn:tlg0032.tlg009:11.12
+glaux1.0-sentence	347
+perseus-grc2	 πρὸς δὲ τούτοις βαρύτατος μὲν ἀνταγωνιστὴς ἦν , κουφότατος δὲ κρατήσας ·
+perseus-eng2	 Added to this, he was the bitterest of adversaries, but the mildest of conquerors;
+
+cts:urn:tlg0032.tlg009:11.12
+glaux1.0-sentence	348
+perseus-grc2	 ἐχθροῖς μὲν δυσεξαπάτητος , φίλοις δὲ εὐπαραπειστότατος .
+perseus-eng2	 wary with enemies, but very compliant to friends.
+
+cts:urn:tlg0032.tlg009:11.12
+glaux1.0-sentence	349
+perseus-grc2	 αἰεὶ δὲ τιθεὶς τὰ τῶν φίλων ἀσφαλῶς αἰεὶ ἀμαυροῦν τὰ τῶν πολεμίων ἔργον εἶχεν .
+perseus-eng2	 While ever ensuring security to his own side, he ever made it his business to bring to nought the designs of his enemy.
+
+cts:urn:tlg0032.tlg009:11.13
+glaux1.0-sentence	350
+perseus-grc2	 ἐκεῖνον οἱ μὲν συγγενεῖς φιλοκηδεμόνα ἐκάλουν , οἱ δὲ χρώμενοι ἀπροφάσιστον , οἱ δ’ ὑπουργήσαντές τι μνήμονα , οἱ δ’ ἀδικούμενοι ἐπίκουρον , οἵ γε μὴν συγκινδυνεύοντες μετὰ θεοὺς σωτῆρα .
+perseus-eng2	 By his relatives he was described as devoted to his family, by his intimates as an unfailing friend, by those who served him as unforgetful, by the oppressed as a champion, by his comrades in danger as a saviour second to the gods.  In one respect, I think, he was unique.
+
+cts:urn:tlg0032.tlg009:11.14
+glaux1.0-sentence	351
+perseus-grc2	 δοκεῖ δ’ ἔμοιγε καὶ τόδε μόνος ἀνθρώπων ἐπιδεῖξαι , ὅτι ἡ μὲν τοῦ σώματος ἰσχὺς γηράσκει , ἡ δὲ τῆς ψυχῆς ῥώμη τῶν ἀγαθῶν ἀνδρῶν ἀγήρατός ἐστιν .
+perseus-eng2	 He proved that, though the bodily strength decays, the vigour of good men’s souls is ageless.
+
+cts:urn:tlg0032.tlg009:11.14
+glaux1.0-sentence	352
+perseus-grc2	 ἐκεῖνος γοῦν οὐκ ἀπεῖπε μεγάλην καὶ καλὴν ἐφιέμενος δόξαν , ἔστε τὸ σῶμα φέρειν ἐδύνατο τὴν τῆς ψυχῆς αὐτοῦ ῥώμην .
+perseus-eng2	 At any rate, he never wearied in the pursuit of great and noble glory so long as his body could support the vigour of his soul.
+
+cts:urn:tlg0032.tlg009:11.15
+glaux1.0-sentence	353
+perseus-grc2	 τοιγαροῦν ποίας οὐ νεότητος κρεῖττον τὸ ἐκείνου γῆρας ἐφάνη ;
+perseus-eng2	 What man’s youth, then, did not seem weaker than his old age?
+
+cts:urn:tlg0032.tlg009:11.15
+glaux1.0-sentence	354
+perseus-grc2	 τίς μὲν γὰρ τοῖς ἐχθροῖς ἀκμάζων οὕτω φοβερὸς ἦν ὡς Ἀγησίλαος τὸ μήκιστον τοῦ αἰῶνος ἔχων ;
+perseus-eng2	 For who in his prime was so formidable to his foes as Agesilaus at the very limit of human life?
+
+cts:urn:tlg0032.tlg009:11.15
+glaux1.0-sentence	355
+perseus-grc2	 τίνος δ’ ἐκποδὼν γενομένου μᾶλλον ἥσθησαν οἱ πολέμιοι ἢ Ἀγησιλάου καίπερ γηραιοῦ τελευτήσαντος ;
+perseus-eng2	 Whose removal brought such welcome relief to the enemy as the death of Agesilaus, despite his years?
+
+cts:urn:tlg0032.tlg009:11.15
+glaux1.0-sentence	356
+perseus-grc2	 τίς δὲ συμμάχοις θάρσος παρέσχεν ὅσον Ἀγησίλαος , καίπερ ἤδη πρὸς τῷ στόματι τοῦ βίου ὤν ;
+perseus-eng2	 Who gave such confidence to allies as Agesilaus, though now on the threshold of death?
+
+cts:urn:tlg0032.tlg009:11.15
+glaux1.0-sentence	357
+perseus-grc2	 τίνα δὲ νέον οἱ φίλοι πλέον ἐπόθησαν ἢ Ἀγησίλαον γηραιὸν ἀποθανόντα ;
+perseus-eng2	 What young man was more regretted by his friends than Agesilaus, though he died full of years?
+
+cts:urn:tlg0032.tlg009:11.16
+glaux1.0-sentence	358
+perseus-grc2	 οὕτω δὲ τελέως ὁ ἀνὴρ τῇ πατρίδι ὠφέλιμος ὢν διεγένετο ὡς καὶ τετελευτηκὼς ἤδη ἔτι μεγαλείως ὠφελῶν τὴν πόλιν εἰς τὴν ἀίδιον οἴκησιν κατηγάγετο , μνημεῖα μὲν τῆς ἑαυτοῦ ἀρετῆς ἀνὰ πᾶσαν τὴν γῆν κτησάμενος , τῆς δὲ βασιλικῆς ταφῆς ἐν τῇ πατρίδι τυχών .
+perseus-eng2	 So complete was the record of his service to his fatherland that it did not end even when he died: he was still a bountiful benefactor of the state when he was brought home to be laid in his eternal resting-place, and, having raised up monuments of his virtue throughout the world, was buried with royal ceremony in his own land.

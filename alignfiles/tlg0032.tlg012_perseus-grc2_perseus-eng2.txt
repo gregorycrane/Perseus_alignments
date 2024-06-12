@@ -1,0 +1,1460 @@
+
+cts:urn:tlg0032.tlg012:1.1
+glaux1.0-sentence	1
+perseus-grc2	 πρῶτον μὲν θύοντα χρὴ αἰτεῖσθαι θεοὺς ταῦτα διδόναι καὶ νοεῖν καὶ λέγειν καὶ πράττειν , ἀφ’ ὧν θεοῖς μὲν κεχαρισμενώτατα ἄρξαις ἄν , σαυτῷ δὲ καὶ φίλοις καὶ τῇ πόλει προσφιλέστατα καὶ εὐκλεέστατα καὶ πολυωφελέστατα .
+perseus-eng2	 The first duty is to sacrifice to the gods and pray them to grant you the thoughts, words and deeds likely to render your command most pleasing to the gods and to bring yourself, your friends and your city the fullest measure of affection and glory and advantage.
+
+cts:urn:tlg0032.tlg012:1.2
+glaux1.0-sentence	2
+perseus-grc2	 θεῶν δὲ ἵλεων ὄντων ἀναβιβαστέον μέν σοι ἱππέας , καὶ ὅπως ἀναπληρῶται ὁ κατὰ τὸν νόμον ἀριθμὸς καὶ ὅπως τὸ ὂν ἱππικὸν μὴ μειῶται .
+perseus-eng2	 Having gained the goodwill of the gods, you have then to recruit a sufficient number of mounted men that you may bring the number up to the total required by the law, and also may prevent any decrease in the cavalry establishment.
+
+cts:urn:tlg0032.tlg012:1.2
+glaux1.0-sentence	3
+perseus-grc2	 εἰ δὲ μὴ προσαναβήσονται ἱππεῖς , μείονες ἀεὶ ἔσονται .
+perseus-eng2	 Unless additional recruits are enrolled in the force, the number will constantly dwindle,
+
+cts:urn:tlg0032.tlg012:1.2
+glaux1.0-sentence	4
+perseus-grc2	 ἀνάγκη γὰρ τοὺς μὲν γήρᾳ ἀπαγορεύειν , τοὺς δὲ καὶ ἄλλως ἐκλείπειν .
+perseus-eng2	 for some men are bound to retire through old age and others to drop off for various reasons.
+
+cts:urn:tlg0032.tlg012:1.3
+glaux1.0-sentence	5
+perseus-grc2	 πληρουμένου γε μὴν τοῦ ἱππικοῦ ἐπιμελητέον μὲν ὅπως τρέφωνται οἱ ἵπποι ὡς ἂν δύνωνται πόνους ὑποφέρειν ·
+perseus-eng2	 While the ranks are filling up, you must see that the horses get enough food to stand hard work,
+
+cts:urn:tlg0032.tlg012:1.3
+glaux1.0-sentence	6
+perseus-grc2	 οἱ γὰρ ἥττους τῶν πόνων οὔτε αἱρεῖν οὔτε ἀποφεύγειν δύναιντ’ ἄν .
+perseus-eng2	 since horses unfit for their work can neither overtake nor escape.
+
+cts:urn:tlg0032.tlg012:1.3
+glaux1.0-sentence	7
+perseus-grc2	 ἐπιμελητέον δὲ ὅπως εὔχρηστοι ὦσιν ·
+perseus-eng2	 You must see that they are docile,
+
+cts:urn:tlg0032.tlg012:1.3
+glaux1.0-sentence	8
+perseus-grc2	 οἱ γὰρ αὖ ἀπειθεῖς τοῖς πολεμίοις μᾶλλον ἢ τοῖς φίλοις συμμαχοῦσι .
+perseus-eng2	 because disobedient animals assist the enemy more than their own side.
+
+cts:urn:tlg0032.tlg012:1.4
+glaux1.0-sentence	9
+perseus-grc2	 καὶ οἱ λακτίζοντες δὲ ἀναβεβαμένοι ἵπποι ἐκποδὼν ποιητέοι ·
+perseus-eng2	 And horses that kick when mounted must be got rid of,
+
+cts:urn:tlg0032.tlg012:1.4
+glaux1.0-sentence	10
+perseus-grc2	 οἱ γὰρ τοιοῦτοι πολλάκις πλείω κακὰ ἢ οἱ πολέμιοι ποιοῦσι .
+perseus-eng2	 for such brutes often do more mischief than the enemy.
+
+cts:urn:tlg0032.tlg012:1.4
+glaux1.0-sentence	11
+perseus-grc2	 δεῖ δὲ καὶ τῶν ποδῶν ἐπιμελεῖσθαι , ὅπως δύνωνται καὶ ἐν τραχείᾳ χώρᾳ ἱππεύειν , εἰδότα ὅτι ὅπου ἂν ἀλγῶσιν ἐλαυνόμενοι , ἐνταῦθα οὐ χρήσιμοί εἰσι .
+perseus-eng2	 You must also look after their feet, so that they can be ridden on rough ground, for you know that wherever galloping is painful to them, they are useless.
+
+cts:urn:tlg0032.tlg012:1.5
+glaux1.0-sentence	12
+perseus-grc2	 τῶν γε μὴν ἵππων ὑπαρχόντων οἵων δεῖ τοὺς ἱππέας αὖ ἀσκητέον , πρῶτον μὲν ὅπως ἐπὶ τοὺς ἵππους ἀναπηδᾶν δύνωνται ·
+perseus-eng2	 Having made sure that the horses are in good condition, the next business is to train the men.
+
+cts:urn:tlg0032.tlg012:1.5
+glaux1.0-sentence	13
+perseus-grc2	 πολλοῖς γὰρ ἤδη ἡ σωτηρία παρὰ τοῦτο ἐγένετο ·
+perseus-eng2	 First they must learn to mount from the spring,
+
+cts:urn:tlg0032.tlg012:1.5
+glaux1.0-sentence	14
+perseus-grc2	 δεύτερον δὲ ὅπως ἐν παντοίοις χωρίοις ἱππάζεσθαι δυνήσονται ·
+perseus-eng2	 since many before now have owed their lives to that.
+
+cts:urn:tlg0032.tlg012:1.5
+glaux1.0-sentence	15
+perseus-grc2	 καὶ γὰρ οἱ πόλεμοι ἄλλοτε ἐν ἀλλοίοις τόποις γίγνονται .
+perseus-eng2	 Secondly, they must practise riding over all sorts of ground, since any kind of country may become the area of war.
+
+cts:urn:tlg0032.tlg012:1.6
+glaux1.0-sentence	16
+perseus-grc2	 ὅταν δὲ ἤδη ἔποχοι ὦσι , δεῖ αὖ σκοπεῖσθαι ὅπως ἀκοντιοῦσί τε ὡς πλεῖστοι ἀπὸ τῶν ἵππων καὶ τ- ἄλλα δυνήσονται ποιεῖν ἃ δεῖ τοὺς ἱππικούς .
+perseus-eng2	 As soon as they have acquired a firm seat, your next task is to take steps that as many as possible shall be able to throw the javelin when mounted and shall become efficient in all the details of horsemanship.
+
+cts:urn:tlg0032.tlg012:1.6
+glaux1.0-sentence	17
+perseus-grc2	 μετὰ ταῦτα ὁπλιστέον καὶ ἵππους καὶ ἱππέας ὡς αὐτοὶ μὲν ἥκιστα τιτρώσκοιντ’ ἄν , βλάπτειν δὲ τοὺς πολεμίους μάλιστα δύναιντ’ ἄν .
+perseus-eng2	 After that both horses and men must be armed, so that, while they are themselves thoroughly protected against wounds, they may have the means of inflicting the greatest loss on the enemy.
+
+cts:urn:tlg0032.tlg012:1.7
+glaux1.0-sentence	18
+perseus-grc2	 ἐκ τούτων παρασκευαστέον ὅπως εὐπειθεῖς οἱ ἄνδρες ὦσιν ·
+perseus-eng2	 Then you must contrive to make the men obedient:
+
+cts:urn:tlg0032.tlg012:1.7
+glaux1.0-sentence	19
+perseus-grc2	 ἄνευ γὰρ τούτου οὔθ’ ἵππων ἀγαθῶν οὔθ’ ἱππέων ἐπόχων οὔθ’ ὅπλων καλῶν ὄφελος οὐδέν .
+perseus-eng2	 otherwise neither good horses nor a firm seat nor fine armour are of any use.
+
+cts:urn:tlg0032.tlg012:1.7
+glaux1.0-sentence	20
+perseus-grc2	 προστατεύειν μὲν οὖν τούτων πάντων ὅπως καλῶς γίγνηται τὸν ἵππαρχον εἰκός ἐστιν .
+perseus-eng2	 For ensuring efficiency in all these matters the cavalry commander, as a matter of course, is the principal authority.
+
+cts:urn:tlg0032.tlg012:1.8
+glaux1.0-sentence	21
+perseus-grc2	 ἐπεὶ δὲ καὶ ἡ πόλις χαλεπὸν ἡγησαμένη πάντα ταῦτα τὸν ἵππαρχον μόνον ὄντα ἀπεργάζεσθαι προσαιρεῖται μὲν αὐτῷ συνεργοὺς φυλάρχους , προσέταξε δὲ τῇ βουλῇ συνεπιμελεῖσθαι τοῦ ἱππικοῦ , ἀγαθόν μοι δοκεῖ εἶναι τοὺς μὲν φυλάρχους παρασκευάζειν συνεπιθυμεῖν σοι τῶν καλῶν τῷ ἱππικῷ , ἐν δὲ τῇ βουλῇ ἔχειν ῥήτορας ἐπιτηδείους , ὅπως λέγοντες φοβῶσί τε τοὺς ἱππέας ( βελτίονες γὰρ ἂν εἶεν φοβούμενοι ) , καταπραΰνωσί τε τὴν βουλήν , ἤν τι παρὰ καιρὸν χαλεπαίνῃ .
+perseus-eng2	 But, at the same time, the state thinks it difficult for the cavalry commander to carry out all these duties single-handed; therefore, it also elects colonels of regiments to assist him; and it has charged the Council with the duty of taking a share in the management of the cavalry. I think it well, then, that you should encourage the colonels to be as eager as yourself for the efficiency of the cavalry, and should have suitable spokesmen in the Council, that their speeches may alarm the men — they will do better under the influence of fear — and may also appease the wrath of the Council, in case it shows indignation at the wrong time.
+
+cts:urn:tlg0032.tlg012:1.9
+glaux1.0-sentence	22
+perseus-grc2	 ταῦτα μὲν οὖν ὑπομνήματα ὧν δεῖ σε ἐπιμελεῖσθαι ·
+perseus-eng2	 Here, then, you have brief notes on the matters that demand your attention.
+
+cts:urn:tlg0032.tlg012:1.9
+glaux1.0-sentence	23
+perseus-grc2	 ὡς δ’ ἂν ἕκαστα τούτων βέλτιστα περαίνοιτο , τοῦτο δὴ πειράσομαι λέγειν .
+perseus-eng2	 I will now try to explain how these duties may best be carried out in detail.
+
+cts:urn:tlg0032.tlg012:1.9
+glaux1.0-sentence	24
+perseus-grc2	 τοὺς μὲν τοίνυν ἱππέας δῆλον ὅτι καθιστάναι δεῖ κατὰ τὸν νόμον τοὺς δυνατωτάτους καὶ χρήμασι καὶ σώμασιν ἢ εἰσάγοντα εἰς δικαστήριον ἢ πείθοντα .
+perseus-eng2	 As for the men, you must obviously raise them as required by the law, from among those who are most highly qualified by wealth and bodily vigour, either by obtaining an order of the court or by the use of persuasion.
+
+cts:urn:tlg0032.tlg012:1.10
+glaux1.0-sentence	25
+perseus-grc2	 ἐγὼ δὲ οἶμαι εἰς μὲν τὸ δικαστήριον τούτους εἰσακτέον εἶναι οὓς μὴ εἰσάγων διὰ κέρδος ἄν τις δοκοίη τοῦτο ποιεῖν ·
+perseus-eng2	 The cases that should be brought before the court, I think, are those of men who otherwise might be suspected of having bribed you not to apply for a judgment.
+
+cts:urn:tlg0032.tlg012:1.10
+glaux1.0-sentence	26
+perseus-grc2	 καὶ γὰρ τοῖς ἧττον δυναμένοις εὐθὺς ἂν εἴη ἀποστροφή , εἰ μὴ τοὺς δυνατωτάτους πρώτους ἀναγκάζοις .
+perseus-eng2	 For the smaller men will at once have a ground for escaping, unless you first compel the most highly qualified to serve.
+
+cts:urn:tlg0032.tlg012:1.11
+glaux1.0-sentence	27
+perseus-grc2	 ἔστι δὲ καὶ οὓς ἄν μοι δοκεῖ τις νέους μὲν τὰ ἐν ἱππικῇ λαμπρὰ λέγων εἰς ἐπιθυμίαν καθιστάναι τοῦ ἱππεύειν , τοὺς δὲ κυρίους αὐτῶν ἧττον ἀντιτείνοντας ἔχειν , τάδε διδάσκων ὡς ἀναγκασθήσονται μὲν ἱπποτροφεῖν , ἢν μὴ ὑπὸ σοῦ , ὑπ’ ἄλλου γε διὰ τὰ χρήματα ·
+perseus-eng2	 I think, too, that, by dwelling on the brilliancy of horsemanship, you might fire some of the young men with ambition to serve in the cavalry, and that you might overcome the opposition of their guardians by informing them that they will be required to keep horses by someone, if not by you, on account of their wealth; whereas, if their
+
+cts:urn:tlg0032.tlg012:1.12
+glaux1.0-sentence	28
+perseus-grc2	 ἢν δ’ ἐπὶ σοῦ ἀναβῶσιν , ὡς ἀποτρέψεις μὲν τοὺς παῖδας αὐτῶν τῶν πολυτελῶν τε καὶ μανικῶν ἱππωνιῶν , ἐπιμελήσῃ δὲ ὡς ἂν ταχὺ ἱππικοὶ γίγνοιντο ·
+perseus-eng2	 If boys join up during your command, you will put an end to their extravagance in buying expensive horses,
+
+cts:urn:tlg0032.tlg012:1.12
+glaux1.0-sentence	29
+perseus-grc2	 λέγοντα δὲ οὕτω καὶ ποιεῖν ταῦτα πειρατέον .
+perseus-eng2	 and see that they soon make good riders. And you must try to suit your actions to your words.
+
+cts:urn:tlg0032.tlg012:1.13
+glaux1.0-sentence	30
+perseus-grc2	 τούς γε μὴν ὄντας ἱππέας ἡ βουλὴ ἄν μοι δοκεῖ προειποῦσα ὡς τὸ λοιπὸν δεήσει διπλάσια ἱππάζεσθαι καὶ ὡς τὸν μὴ δυνάμενον ἵππον ἀκολουθεῖν ἀποδοκιμάσει ἐπιτεῖναι ἂν τρέφειν τε ἄμεινον καὶ ἐπιμελεῖσθαι μᾶλλον τῶν ἵππων .
+perseus-eng2	 As for the existing cavalry, I think that the Council should give notice that in future double the amount of exercise will be required, and that any horse unable to keep up will be rejected. This warning would put the screw on the men and make them feed their horses better and take more care of them.
+
+cts:urn:tlg0032.tlg012:1.14
+glaux1.0-sentence	31
+perseus-grc2	 καὶ τοὺς βιαίους δὲ ἵππους ἀγαθόν μοι δοκεῖ εἶναι προρρηθῆναι ὅτι ἀποδοκιμασθήσονται .
+perseus-eng2	 I think it would be well, too, if notice were given that vicious horses would be rejected.
+
+cts:urn:tlg0032.tlg012:1.14
+glaux1.0-sentence	32
+perseus-grc2	 αὕτη γὰρ ἡ ἀπειλὴ πωλεύειν ἂν τοὺς τοιούτους μᾶλλον παρορμήσειε καὶ ἱππωνεῖν σωφρονέστερον .
+perseus-eng2	 Under the stimulus of this threat men would break in such animals more thoroughly and would be more careful in buying horses.
+
+cts:urn:tlg0032.tlg012:1.15
+glaux1.0-sentence	33
+perseus-grc2	 ἀγαθὸν δὲ καὶ τοὺς ἐν ταῖς ἱππασίαις λακτίζοντας ἵππους προρρηθῆναι ὅτι ἀποδοκιμασθήσονται ·
+perseus-eng2	 Again, it would be well to give notice that horses found kicking at exercise will be rejected.
+
+cts:urn:tlg0032.tlg012:1.15
+glaux1.0-sentence	34
+perseus-grc2	 οὐδὲ γὰρ συντάττειν τοὺς τοιούτους δυνατόν , ἀλλ’ ἀνάγκη , ἄν ποι ἐπὶ πολεμίους δέῃ ἐλαύνειν , ὑστάτους ἂν αὐτοὺς ἕπεσθαι , ὥστε διὰ τὴν τοῦ ἵππου κακουργίαν ἄχρηστος καὶ ὁ ἱππεὺς καθίσταται .
+perseus-eng2	 For it is impossible even to keep such animals in line; in a charge against an enemy they are bound to lag behind, and the consequence is, that through the bad behaviour of his horse, the man himself becomes useless.
+
+cts:urn:tlg0032.tlg012:1.16
+glaux1.0-sentence	35
+perseus-grc2	 ὡς δ’ ἂν καὶ οἱ πόδες εἶεν τῷ ἵππῳ κράτιστοι , εἰ μέν τις ἄλλην ἔχει ῥᾴω καὶ εὐτελεστέραν ἄσκησιν , ἐκείνη ἔστω ·
+perseus-eng2	 For getting horses’ feet into the best condition, if anyone has an easier and cheaper method than mine, by all means adopt it.
+
+cts:urn:tlg0032.tlg012:1.16
+glaux1.0-sentence	36
+perseus-grc2	 εἰ δὲ μή , ἐγώ φημι χρῆναι πεῖραν ἔχων χύδην καταβαλόντα λίθους τῶν ἐκ τῆς ὁδοῦ ὅσον μνααίους καὶ πλέον καὶ μεῖον ἐν τούτοις τὸν ἵππον καὶ ψήχειν καὶ ἐνιστάναι ὅταν ἀπὸ τῆς φάτνης ἀποβῇ ·
+perseus-eng2	 If not, I hold — and I speak from experience — that the right way is to throw down some stones from the road, averaging about a pound in weight, and to curry the horse on these and to make him stand on them whenever he goes out of the stable.
+
+cts:urn:tlg0032.tlg012:1.16
+glaux1.0-sentence	37
+perseus-grc2	 βαδίζων γὰρ ἐν τοῖς λίθοις οὔποτε ὁ ἵππος παύσεται οὔθ’ ὅταν ψήχηται οὔθ’ ὅταν μυωπίζηται .
+perseus-eng2	 For the horse will constantly use his feet on the stones when he is cleaned and when he is worried by flies.
+
+cts:urn:tlg0032.tlg012:1.16
+glaux1.0-sentence	38
+perseus-grc2	 ὁ δὲ πειραθεὶς τά τε ἄλλα ἃ λέγω πιστεύσει καὶ στρογγύλους τοὺς πόδας τοῦ ἵππου ὄψεται .
+perseus-eng2	 Try it, and you will find your horses’ feet round, and will believe in the rest of my rules.
+
+cts:urn:tlg0032.tlg012:1.17
+glaux1.0-sentence	39
+perseus-grc2	 ὁπότε γε μὴν οἱ ἵπποι εἰσὶν οἵους δεῖ , ὡς ἂν αὐτοὶ οἱ ἱππεῖς ἄριστοι γίγνοιντο , τοῦτο διηγήσομαι .
+perseus-eng2	 Assuming that the horses are in good condition, I will explain how to make the men themselves thoroughly efficient.
+
+cts:urn:tlg0032.tlg012:1.17
+glaux1.0-sentence	40
+perseus-grc2	 τὸ μὲν τοίνυν τοὺς νέους αὐτῶν ἀναπηδᾶν ἐπὶ τοὺς ἵππους πείθοιμεν ἂν αὐτοὺς μανθάνειν ·
+perseus-eng2	 We would persuade the young recruits to learn for themselves how to mount from the spring;
+
+cts:urn:tlg0032.tlg012:1.17
+glaux1.0-sentence	41
+perseus-grc2	 τὸν διδάξοντα δὲ παρασχὼν ἐπαίνου δικαίως ἂν τυγχάνοις .
+perseus-eng2	 but if you provide an instructor, you will receive well-merited praise.
+
+cts:urn:tlg0032.tlg012:1.17
+glaux1.0-sentence	42
+perseus-grc2	 τούς γε μὴν πρεσβυτέρους τὸν Περσικὸν τρόπον ἀναβάλλεσθαι ὑπ’ ἄλλων προσεθίσας καὶ τούτους ὠφελήσαις ἄν .
+perseus-eng2	 The way to help the older men is to accustom them to get a leg-up in the Persian fashion.
+
+cts:urn:tlg0032.tlg012:1.18
+glaux1.0-sentence	43
+perseus-grc2	 ὅπως γε μὴν ἐν παντοδαποῖς χωρίοις ἔποχοι οἱ ἱππεῖς δυνήσονται εἶναι , τὸ μὲν πυκνὰ ἐξάγειν μὴ πολέμου ὄντος ἴσως ὀχληρόν ·
+perseus-eng2	 To ensure that the men have a firm seat, whatever the nature of the ground, it is, perhaps, too much trouble to have them out frequently when there is no war going on;
+
+cts:urn:tlg0032.tlg012:1.18
+glaux1.0-sentence	44
+perseus-grc2	 συγκαλέσαντα δὲ χρὴ τοὺς ἱππέας συμβουλεῦσαι αὐτοῖς μελετᾶν , καὶ ὅταν εἰς χώραν ἐλαύνωσι καὶ ὅταν ἄλλοσέ ποι , ἐκβιβάζοντας τῶν ὁδῶν καὶ ταχὺ ἐλαύνοντας ἐν τόποις παντοδαποῖς .
+perseus-eng2	 but you should call the men together, and recommend them to practise turning off the roads and galloping over all sorts of ground when they are riding to quarters or any other place.
+
+cts:urn:tlg0032.tlg012:1.18
+glaux1.0-sentence	45
+perseus-grc2	 τοῦτο γὰρ ὠφελεῖ μὲν παραπλησίως τῷ ἐξάγειν , ὄχλον δ’ οὐχ ὁμοίως παρέχει .
+perseus-eng2	 For this does as much good as taking them out, and it is less tedious.
+
+cts:urn:tlg0032.tlg012:1.19
+glaux1.0-sentence	46
+perseus-grc2	 ἐπιτήδειον δὲ ὑπομιμνῄσκειν ὅτι καὶ ἡ πόλις ἀνέχεται δαπανῶσα εἰς τὸ ἱππικὸν ἐγγὺς τετταράκοντα τάλαντα τοῦ ἐνιαυτοῦ , ὡς ἢν πόλεμος γίγνηται , μὴ ζητεῖν δέῃ ἱππικόν , ἀλλ’ ἐξ ἑτοίμου ἔχῃ παρεσκευασμένῳ χρῆσθαι .
+perseus-eng2	 It is useful to remind them that the state supports an expenditure of nearly forty talents a year in order that she may not have to look about for cavalry in the event of war, but may have it ready for immediate use.
+
+cts:urn:tlg0032.tlg012:1.19
+glaux1.0-sentence	47
+perseus-grc2	 ταῦτα γὰρ ἐνθυμουμένους εἰκὸς καὶ τοὺς ἱππέας μᾶλλον ἂν ἀσκεῖν τὴν ἱππικήν , ὅπως , ἢν πόλεμος ἐγείρηται , μὴ ἀμελετήτους ὄντας ἀγωνίζεσθαι δέῃ περί τε τῆς πόλεως καὶ περὶ εὐκλείας καὶ περὶ τῆς ψυχῆς .
+perseus-eng2	 For with this thought in their minds the men are likely to take more pains with their horsemanship, so that when war breaks out they may not have to fight untrained for the state, for glory and for life.
+
+cts:urn:tlg0032.tlg012:1.20
+glaux1.0-sentence	48
+perseus-grc2	 ἀγαθὸν δὲ καὶ τοῦτο προειπεῖν τοῖς ἱππεῦσιν , ὅτι ἐξάξεις ποτὲ καὶ σὺ αὐτοὺς καὶ διὰ παντοίων χωρίων ἡγήσῃ .
+perseus-eng2	 It is well also to give notice to the men that you intend to take them out yourself some day, and lead them over country of all kinds.
+
+cts:urn:tlg0032.tlg012:1.20
+glaux1.0-sentence	49
+perseus-grc2	 καὶ ἐν ταῖς μελέταις δὲ ταῖς πρὸ τῆς ἀνθιππασίας καλὸν ἐξάγειν ἄλλοτ’ εἰς ἀλλοῖον τόπον ·
+perseus-eng2	 And during the manoeuvres that precede the sham fight it is proper to take them out to a different piece of country at different times:
+
+cts:urn:tlg0032.tlg012:1.20
+glaux1.0-sentence	50
+perseus-grc2	 καὶ γὰρ τοῖς ἱππεῦσι καὶ τοῖς ἵπποις βέλτιον .
+perseus-eng2	 this is better for both men and horses.
+
+cts:urn:tlg0032.tlg012:1.21
+glaux1.0-sentence	51
+perseus-grc2	 ἀκοντίζειν γε μὴν ἀπὸ τῶν ἵππων ὧδ’ ἂν πλεῖστοι μοι δοκοῦσι μελετᾶν , εἰ τοῦτ’ αὖ προείποις τοῖς φυλάρχοις , ὅτι αὐτοὺς δεήσει ἡγουμένους τοῖς τῆς φυλῆς ἀκοντισταῖς ἐλαύνειν ἐπὶ τὸ ἀκόντιον .
+perseus-eng2	 As for throwing the javelin on horseback, I think that the greatest number will practise that if you add a warning to the colonels that they will be required to ride to javelin exercise themselves at the head of the marksmen of the regiment.
+
+cts:urn:tlg0032.tlg012:1.21
+glaux1.0-sentence	52
+perseus-grc2	 φιλοτιμοῖντο γὰρ ἄν , ᾗ τὸ εἰκός , ὡς πλείστους ἕκαστος ἀποδεῖξαι ἀκοντιστὰς τῇ πόλει .
+perseus-eng2	 Thus, in all probability, everyone of them will be eager to turn out as many marksmen as possible for the service of the state.
+
+cts:urn:tlg0032.tlg012:1.22
+glaux1.0-sentence	53
+perseus-grc2	 ἀλλὰ μὴν καὶ τοῦ καλῶς γε ὁπλισθῆναι τοὺς ἱππέας οἱ φύλαρχοι ἄν μοι δοκοῦσι μέγιστον συλλαμβάνειν , εἰ πεισθείησαν ὅτι πολύ ἐστι πρὸς τῆς πόλεως εὐδοξότερον τῇ τῆς φυλῆς λαμπρότητι κεκοσμῆσθαι ἢ μόνον τῇ ἑαυτῶν στολῇ .
+perseus-eng2	 Towards the proper arming of the men, I think that the greatest amount of assistance will be obtained from the colonels, if they are persuaded that from the point of view of the state the brilliance of the regiment is a far more glorious ornament to them than the brightness of their own accoutrements only.
+
+cts:urn:tlg0032.tlg012:1.23
+glaux1.0-sentence	54
+perseus-grc2	 εἰκὸς δὲ μὴ δυσπείστους εἶναι αὐτοὺς τὰ τοιαῦτα , οἵ γε φυλαρχεῖν ἐπεθύμησαν δόξης καὶ τιμῆς ὀρεγόμενοι , δυνατοὶ δ’ εἰσὶ καὶ τὰ ἐν τῷ νόμῳ πορίσαι καὶ ἄνευ τοῦ αὐτοὶ δαπανᾶν τῷ μισθῷ ἐπαναγκάζοντες κατὰ τὸν νόμον ὁπλίζεσθαι .
+perseus-eng2	 It is likely that they will not be hard to persuade in such matters, considering that honour and glory were the attractions that the colonelcy held out to them, and they can arm the men in accordance with the regulations laid down in the law without incurring expense themselves, afterwards compelling the men to spend their pay on their arms, as the law ordains.
+
+cts:urn:tlg0032.tlg012:1.24
+glaux1.0-sentence	55
+perseus-grc2	 εἴς γε μὴν τὸ εὐπειθεῖς εἶναι τοὺς ἀρχομένους μέγα μὲν τὸ καὶ λόγῳ διδάσκειν ὅσα ἀγαθὰ ἔνι ἐν τῷ πειθαρχεῖν , μέγα δὲ καὶ τὸ ἔργῳ κατὰ τὸν νόμον πλεονεκτεῖν μὲν ποιεῖν τοὺς εὐτάκτους , μειονεκτεῖν δὲ ἐν πᾶσι τοὺς ἀτακτοῦντας .
+perseus-eng2	 To make the men who are under your command obedient, it is important to impress on them by word of mouth the many advantages of obedience to authority, and no less important to see that good discipline brings gain and insubordination loss in every respect.
+
+cts:urn:tlg0032.tlg012:1.25
+glaux1.0-sentence	56
+perseus-grc2	 ἰσχυροτάτη δέ μοι δοκεῖ εἶναι παρόρμησις τῶν φυλάρχων εἰς τὸ φιλοτιμεῖσθαι αὐτοὺς καλῶς παρεσκευασμένης ἕκαστον τῆς φυλῆς ἡγεῖσθαι , εἰ τοὺς ἀμφὶ σὲ προδρόμους κοσμήσαις μὲν ὅπλοις ὡς κάλλιστα , ἀκοντίζειν δὲ μελετᾶν ἐξαναγκάσαις ὡς μάλιστα , ἡγοῖο δὲ αὐτοῖς ἐπὶ τὸ ἀκόντιον αὐτὸς εὖ μάλα μεμελετηκώς .
+perseus-eng2	 The best way of inducing every colonel to take pride in commanding a well equipped regiment, I think, is to arm your company of couriers as well as you can, to demand of them constant practice in the use of the javelin, and to instruct them in it after making yourself proficient.
+
+cts:urn:tlg0032.tlg012:1.26
+glaux1.0-sentence	57
+perseus-grc2	 εἰ δὲ καὶ ἆθλά τις δύναιτο προτιθέναι ταῖς φυλαῖς πάντων ὁπόσα ἀγαθὰ νομίζουσιν ἀσκεῖσθαι ἐν ταῖς θέαις ὑπὸ τοῦ ἱππικοῦ , τοῦτο πάντας οἶμαι Ἀθηναίους γε μάλιστ’ ἂν προτρέπειν εἰς φιλονικίαν .
+perseus-eng2	 And if you could offer prizes to the regiments for skill in all the feats that the public expects the cavalry to perform at the spectacles, I think this would appeal strongly to the spirit of emulation in every Athenian.
+
+cts:urn:tlg0032.tlg012:1.26
+glaux1.0-sentence	58
+perseus-grc2	 δῆλον δὲ τοῦτο καὶ ἐν τοῖς χοροῖς , ὡς μικρῶν ἄθλων ἕνεκεν πολλοὶ μὲν πόνοι , μεγάλαι δὲ δαπάναι τελοῦνται .
+perseus-eng2	 For evidence of this I may refer to the choruses, in which many labours and heavy expenses are the price paid for trifling rewards.
+
+cts:urn:tlg0032.tlg012:1.26
+glaux1.0-sentence	59
+perseus-grc2	 τοὺς μέντοι κριτὰς τοιούτους δεῖ εὑρίσκειν παρ’ οἷς νικῶντες μάλιστ’ ἂν ἀγάλλοιντο .
+perseus-eng2	 Only you must find judges whose suffrage will shed lustre on a victory.
+
+cts:urn:tlg0032.tlg012:2.1
+glaux1.0-sentence	60
+perseus-grc2	 ἢν δὲ δή σοι ταῦτα πάντα ἐξησκημένοι ὦσιν οἱ ἱππεῖς , δεῖ δήπου καὶ τάξιν τινὰ ἐπίστασθαι αὐτοὺς ἐξ ἧς καλλίστας μὲν θεοῖς πομπὰς πέμψουσι , κάλλιστα δὲ ἱππάσονται , ἄριστα δὲ μαχοῦνται , ἢν δέῃ , ῥᾷστα δὲ καὶ ἀταρακτότατα ὁδοὺς πορεύσονται καὶ διαβάσεις περάσουσιν .
+perseus-eng2	 When your men are well trained in all these points, they must, of course, understand some plan of formation, that in which they will show to greatest advantage in the sacred processions and at manoeuvres, fight, if need be, with the greatest courage, and move along roads and cross rivers with perfect ease in unbroken order.
+
+cts:urn:tlg0032.tlg012:2.1
+glaux1.0-sentence	61
+perseus-grc2	 ᾗ τοίνυν χρώμενοι τάξει δοκοῦσιν ἄν μοι ταῦτα κάλλιστα διαπράττεσθαι , ταύτην νῦν ἤδη πειράσομαι δηλοῦν .
+perseus-eng2	 So I will now try to explain the formation that I think will give the best results in these various circumstances.
+
+cts:urn:tlg0032.tlg012:2.2
+glaux1.0-sentence	62
+perseus-grc2	 οὐκοῦν ὑπὸ μὲν τῆς πόλεως ὑπάρχουσι διῃρημέναι φυλαὶ δέκα .
+perseus-eng2	 Now the state has divided the cavalry into ten separate regiments.
+
+cts:urn:tlg0032.tlg012:2.2
+glaux1.0-sentence	63
+perseus-grc2	 τούτων δ’ ἐγώ φημι χρῆναι πρῶτον μὲν δεκαδάρχους σὺν τῇ τῶν φυλάρχων ἑκάστου γνώμῃ καταστῆσαι ἐκ τῶν ἀκμαζόντων τε καὶ φιλοτιμοτάτων καλόν τι ποιεῖν καὶ ἀκούειν ·
+perseus-eng2	 I hold that within these you should, to begin with, appoint file-leaders after consulting each of the colonels, choosing sturdy men, who are bent on winning fame by some brilliant deed.
+
+cts:urn:tlg0032.tlg012:2.2
+glaux1.0-sentence	64
+perseus-grc2	 καὶ τούτους μὲν πρωτοστάτας δεῖ εἶναι .
+perseus-eng2	 These should form the front rank.
+
+cts:urn:tlg0032.tlg012:2.3
+glaux1.0-sentence	65
+perseus-grc2	 μετὰ δὲ τούτους ἴσους χρὴ τούτοις ἀριθμὸν ἐκ τῶν πρεσβυτάτων τε καὶ φρονιμωτάτων ἑλέσθαι οἵτινες τελευταῖοι τῶν δεκάδων ἔσονται .
+perseus-eng2	 Next you should choose an equal number of the oldest and most sensible to form the rear rank.
+
+cts:urn:tlg0032.tlg012:2.3
+glaux1.0-sentence	66
+perseus-grc2	 εἰ γὰρ δεῖ καὶ ἀπεικάσαι , οὕτω καὶ σίδηρος μάλιστα διατέμνει σίδηρον , ὅταν τό τε ἡγούμενον τοῦ τομέως ἐρρωμένον ᾖ καὶ τὸ ἐπελαυνόμενον ἱκανόν .
+perseus-eng2	 To use an illustration, steel has most power to cut through steel when its edge is keen and its back reliable.
+
+cts:urn:tlg0032.tlg012:2.4
+glaux1.0-sentence	67
+perseus-grc2	 τούς γε μὴν ἐν μέσῳ τῶν πρώτων καὶ τῶν τελευταίων , εἰ οἱ δεκάδαρχοι ἐπιστάτας ἕλοιντο καὶ οἱ ἄλλοι ἐφέλοιντο , οὕτως εἰκὸς ἑκάστῳ πιστότατον τὸν ἐπιστάτην εἶναι .
+perseus-eng2	 To fill the ranks between the front and rear, the file-leaders should choose the men to form the second line, and these in turn the men to form the third, and so on throughout. In this way every man will naturally have complete confidence in the man behind him.
+
+cts:urn:tlg0032.tlg012:2.5
+glaux1.0-sentence	68
+perseus-grc2	 τὸν μέντοι ἀφηγούμενον ἐκ παντὸς τρόπου δεῖ ἱκανὸν ἄνδρα καθιστάναι .
+perseus-eng2	 You must be very careful to appoint a competent man as leader in the rear.
+
+cts:urn:tlg0032.tlg012:2.5
+glaux1.0-sentence	69
+perseus-grc2	 ἀγαθὸς γὰρ ὤν , εἴτε ποτὲ δέοι ἐπὶ πολεμίους ἐλαύνειν , ἐγκελεύων ῥώμην ἂν ἐμβάλλοι τοῖς ἔμπροσθεν , εἴτ’ αὖ καὶ ἀποχωρεῖν καιρὸς συμβαίνοι , φρονίμως ἀφηγούμενος μᾶλλον ἄν , ὡς τὸ εἰκός , σῴζοι τοὺς φυλέτας .
+perseus-eng2	 For if he is a good man, his cheers will always hearten the ranks in front of him in case it becomes necessary to charge; or, should the moment come to retreat, his prudent leadership will, in all probability, do much for the safety of his regiment.
+
+cts:urn:tlg0032.tlg012:2.6
+glaux1.0-sentence	70
+perseus-grc2	 οἱ μέντοι δεκάδαρχοι ἄρτιοι ὄντες πλείω ἴσα μέρη παρέχοιεν ἂν διαιρεῖν ἢ εἰ περιττοὶ εἶεν .
+perseus-eng2	 An even number of file-leaders has this advantage over an odd, that it is possible to divide the regiment into a larger number of equal parts.
+
+cts:urn:tlg0032.tlg012:2.6
+glaux1.0-sentence	71
+perseus-grc2	 αὕτη δέ μοι ἡ τάξις ἀρέσκει διὰ τάδε , ὅτι πρῶτον μὲν οἱ πρωτοστάται πάντες ἄρχοντες γίγνονται ·
+perseus-eng2	 The reasons why I like this formation are these. In the first place, all the men in the front rank are officers;
+
+cts:urn:tlg0032.tlg012:2.6
+glaux1.0-sentence	72
+perseus-grc2	 οἱ δ’ αὐτοὶ ἄνδρες ὅταν ἄρχωσι , μᾶλλόν πως οἴονται ἑαυτοῖς προσήκειν καλόν τι ποιεῖν ἢ ὅταν ἰδιῶται ὦσιν ·
+perseus-eng2	 and the obligation to distinguish themselves appeals more strongly to men when they are officers than when they are privates.
+
+cts:urn:tlg0032.tlg012:2.6
+glaux1.0-sentence	73
+perseus-grc2	 ἔπειτα δὲ καὶ ὅταν πρακτέον τι ᾖ , τὸ παραγγέλλειν μὴ ἰδιώταις ἀλλ’ ἄρχουσι πολὺ ἁνυτικώτερον .
+perseus-eng2	 Secondly, when anything has to be done, the word of command is much more effective if it is passed to officers rather than to privates.
+
+cts:urn:tlg0032.tlg012:2.7
+glaux1.0-sentence	74
+perseus-grc2	 τεταγμένων γε μὴν οὕτω χρή , ὥσπερ καὶ τοῖς φυλάρχοις προαγορεύεται ἡ χώρα ὑπὸ τοῦ ἱππάρχου ἐν ᾗ ἑκάστῳ ἐλατέον , οὕτω καὶ τοῖς δεκαδάρχοις παρηγγέλθαι ὑπὸ τῶν φυλάρχων ὅπῃ πορευτέον ἑκάστῳ .
+perseus-eng2	 Let us assume that this formation has been adopted: every file-leader must know his position in the line of march by word passed along by the colonel, just as every colonel is informed by the commander of his proper place in the charge.
+
+cts:urn:tlg0032.tlg012:2.7
+glaux1.0-sentence	75
+perseus-grc2	 οὕτω γὰρ προειρημένων πολὺ εὐτακτοτέρως ἂν ἔχοι ἢ εἰ ὥσπερ ἐκ θεάτρου ὡς ἂν τύχωσιν ἀπιόντες λυποῦσιν ἀλλήλους .
+perseus-eng2	 For when these instructions are given there will be much better order than if the men hamper one another like a crowd leaving the theatre.
+
+cts:urn:tlg0032.tlg012:2.8
+glaux1.0-sentence	76
+perseus-grc2	 καὶ μάχεσθαι δὲ μᾶλλον ἐθέλουσιν οἵ τε πρῶτοι , ἤν τι ἐκ τοῦ πρόσθεν προσπίπτῃ , ὅταν εἰδῶσιν ὅτι αὕτη ἡ χώρα αὐτῶν , καὶ οἱ τελευταῖοι , ἤν τι ὄπισθεν ἐπιφαίνηται , ἐπιστάμενοι ὅτι αἰσχρὸν λιπεῖν τὴν τάξιν .
+perseus-eng2	 And in the event of a frontal attack, the men in the van are far more willing to fight when they know that this is their station; so is the rear-rank in the event of a surprise attack in the rear, when the men there understand that it is disgraceful to leave their post.
+
+cts:urn:tlg0032.tlg012:2.9
+glaux1.0-sentence	77
+perseus-grc2	 ἄτακτοι δ’ ὄντες ἀλλήλους μὲν ταράττουσι καὶ ἐν στεναῖς ὁδοῖς καὶ ἐν διαβάσεσι , τοῖς δὲ πολεμίοις οὐδεὶς ἑκὼν ἑαυτὸν τάττει μάχεσθαι .
+perseus-eng2	 But if no order is kept there is confusion whenever the roads are narrow or rivers are being crossed; and when an action is fought no one voluntarily takes his post in the fighting line.
+
+cts:urn:tlg0032.tlg012:2.9
+glaux1.0-sentence	78
+perseus-grc2	 καὶ ταῦτα μὲν δὴ πάντα ὑπάρχειν δεῖ ἐκπεπονημένα πᾶσι τοῖς ἱππεῦσιν , εἰ μέλλουσιν ἀπροφάσιστοι ἔσεσθαι συνεργοὶ τῷ ἡγουμένῳ .
+perseus-eng2	 All these preliminaries must be thoroughly mastered by all the cavalry, if they are to give their leader unflinching support.
+
+cts:urn:tlg0032.tlg012:3.1
+glaux1.0-sentence	79
+perseus-grc2	 τῶνδέ γε μὴν αὐτῷ ἤδη μέλειν δεῖ τῷ ἱππάρχῳ ·
+perseus-eng2	 Now we come to duties that the cavalry commander must perform himself.
+
+cts:urn:tlg0032.tlg012:3.1
+glaux1.0-sentence	80
+perseus-grc2	 πρῶτον μὲν ὅπως καλλιερήσει τοῖς θεοῖς ὑπὲρ τοῦ ἱππικοῦ , ἔπειτα ὅπως τὰς πομπὰς ἐν ταῖς ἑορταῖς ἀξιοθεάτους ποιήσει , ἔτι δὲ καὶ τ- ἄλλα ὅσα ἐπιδεικνύναι δεῖ τῇ πόλει ὅπως ᾗ δυνατὸν κάλλιστα ἐπιδείξει , τά τε ἐν Ἀκαδημείᾳ καὶ τὰ ἐν Λυκείῳ καὶ τὰ Φαληροῖ καὶ τὰ ἐν τῷ ἱπποδρόμῳ .
+perseus-eng2	 First, he must sacrifice to propitiate the gods on behalf of the cavalry; secondly, he must make the processions during the festivals worth seeing; further, he must conduct all the other obligatory displays before the people with as much splendour as possible, that is to say, the reviews in the Academy, in the Lyceum, at Phalerum, and in the Hippodrome.
+
+cts:urn:tlg0032.tlg012:3.1
+glaux1.0-sentence	81
+perseus-grc2	 καὶ ταῦτα μὲν ἄλλα ὑπομνήματα ·
+perseus-eng2	 These again are only brief notes;
+
+cts:urn:tlg0032.tlg012:3.1
+glaux1.0-sentence	82
+perseus-grc2	 ὡς δὲ τούτων ἕκαστα κάλλιστ’ ἂν πράττοιτο , νῦν αὐτὰ ταῦτα λέξω .
+perseus-eng2	 and I will now explain exactly how the details of these various functions may be carried out with most splendour.
+
+cts:urn:tlg0032.tlg012:3.2
+glaux1.0-sentence	83
+perseus-grc2	 τὰς μὲν οὖν πομπὰς οἴομαι ἂν καὶ τοῖς θεοῖς κεχαρισμενωτάτας καὶ τοῖς θεαταῖς εἶναι εἰ , ὅσων ἱερὰ καὶ ἀγάλματα ἐν τῇ ἀγορᾷ ἐστι , ταῦτα ἀρξάμενοι ἀπὸ τῶν Ἑρμῶν κύκλῳ περὶ τὴν ἀγορὰν καὶ τὰ ἱερὰ περιελαύνοιεν τιμῶντες τοὺς θεούς .
+perseus-eng2	 As for the processions, I think they would be most acceptable both to the gods and to the spectators if they included a gala ride in the market place. The starting point would be the Herms;
+
+cts:urn:tlg0032.tlg012:3.2
+glaux1.0-sentence	84
+perseus-grc2	 καὶ ἐν τοῖς Διονυσίοις δὲ οἱ χοροὶ προσεπιχαρίζονται ἄλλοις τε θεοῖς καὶ τοῖς δώδεκα χορεύοντες .
+perseus-eng2	 and the cavalry would ride round saluting the gods at their shrines and statues. So at the Great Dionysia the dance of the choruses forms part of the homage offered to the Twelve and to other gods.
+
+cts:urn:tlg0032.tlg012:3.2
+glaux1.0-sentence	85
+perseus-grc2	 ἐπειδὰν δὲ πάλιν πρὸς τοῖς Ἑρμαῖς γένωνται περιεληλακότες , ἐντεῦθεν καλόν μοι δοκεῖ εἶναι κατὰ φυλὰς εἰς τάχος ἀνιέναι τοὺς ἵππους μέχρι τοῦ Ἐλευσινίου .
+perseus-eng2	 When the circuit is completed and the cavalcade is again near the Herms, the next thing to do, I think, is to gallop at top speed by regiments as far as the Eleusinium.
+
+cts:urn:tlg0032.tlg012:3.3
+glaux1.0-sentence	86
+perseus-grc2	 οὐδὲ δόρατα μὴν παραλείψω ὡς ἥκιστα ἂν ἀλλήλοις ἐπαλλάττοιτο .
+perseus-eng2	 I will add a word on the position in which the lances should be held to prevent crossing.
+
+cts:urn:tlg0032.tlg012:3.3
+glaux1.0-sentence	87
+perseus-grc2	 δεῖ γὰρ μεταξὺ τοῖν ὤτοιν τοῦ ἵππου ἕκαστον σχεῖν , εἰ μέλλει φοβερά τε καὶ εὐκρινῆ ἔσεσθαι καὶ ἅμα πολλὰ φανεῖσθαι .
+perseus-eng2	 Every man should point his lance between his horse’s ears, if the weapons are to look fearsome, stand out distinctly, and at the same time to convey the impression of numbers.
+
+cts:urn:tlg0032.tlg012:3.4
+glaux1.0-sentence	88
+perseus-grc2	 ἐπειδὰν δὲ τῆς εἰς τάχος διελάσεως λήξωσι , τὴν ἄλλην καλὸν ἤδη σχέδην εἰς τὰ ἱερά , ᾗπερ καὶ πρόσθεν , διελαύνειν .
+perseus-eng2	 The gallop finished and the goal reached, the right plan is to ride back to the temples by the same route, but at a slow pace:
+
+cts:urn:tlg0032.tlg012:3.4
+glaux1.0-sentence	89
+perseus-grc2	 καὶ οὕτως ὅσα ἔστιν ἡδέα ἰδεῖν ἐν ἵππῳ ἀναβεβαμένῳ πάντα ἐπιδεδειγμένα ἔσται καὶ τοῖς θεοῖς καὶ τοῖς ἀνθρώποις .
+perseus-eng2	 thus every effect that can be obtained from a horse with a man on his back will be included in the display, to the satisfaction of gods and men alike.
+
+cts:urn:tlg0032.tlg012:3.5
+glaux1.0-sentence	90
+perseus-grc2	 καὶ ὅτι μὲν ταῦτα οὐκ εἰθισμένοι ποιεῖν οἱ ἱππεῖς εἰσιν οἶδα ·
+perseus-eng2	 I know that our cavalrymen are not accustomed to these movements:
+
+cts:urn:tlg0032.tlg012:3.5
+glaux1.0-sentence	91
+perseus-grc2	 γιγνώσκω δὲ ὅτι ἀγαθὰ καὶ καλὰ καὶ τοῖς θεαταῖς ἡδέα ἔσται .
+perseus-eng2	 but I am sure that they are desirable and beautiful, and will delight the spectators.
+
+cts:urn:tlg0032.tlg012:3.5
+glaux1.0-sentence	92
+perseus-grc2	 αἰσθάνομαι δὲ καὶ ἄλλα ἀγωνίσματα τοὺς ἱππέας κεκαινουργηκότας , ἐπειδὴ οἱ ἵππαρχοι ἱκανοὶ ἐγένοντο πεῖσαι ἃ ἐβουλήθησαν .
+perseus-eng2	 I am aware, too, that the cavalry have exhibited other novel feats of skill in days when the cavalry commanders had sufficient influence to get their wishes carried out.
+
+cts:urn:tlg0032.tlg012:3.6
+glaux1.0-sentence	93
+perseus-grc2	 ὅταν γε μὴν πρὸ τοῦ ἀκοντισμοῦ διελαύνωσιν ἐν Λυκείῳ , καλὸν ἑκατέρας τὰς πέντε φυλὰς ἐπὶ τοῦ μετώπου ἐλαύνειν , ὥσπερ εἰς μάχην ἡγουμένου τοῦ ἱππάρχου καὶ τῶν φυλάρχων ἐν τοιαύτῃ τάξει ἀφ’ ἧς πληρώσεται τοῦ δρόμου τὸ πλάτος .
+perseus-eng2	 During the parade at the Lyceum, before the javelin-throwing, the right way is to ride in two divisions in line of battle, each division consisting of five regiments with its commander at the head and the colonels; and the line should be so extended that the whole breadth of the course will be covered.
+
+cts:urn:tlg0032.tlg012:3.7
+glaux1.0-sentence	94
+perseus-grc2	 ἐπειδὰν δ’ ὑπερβάλωσι τὸ κεφάλαιον τοῦ ἀντιπροσώπου θεάτρου , χρήσιμον ἂν οἴομαι φανῆναι καὶ εἰ καθ’ ὁπόσους μέτριον εἰς τὸ κάταντες δυναμένους ταχὺ ἐλαύνειν ἐπιδείξαις τοὺς ἱππέας .
+perseus-eng2	 As soon as they reach the highest point looking down on the Theatre opposite, I think it would clearly be useful if you displayed your men’s ability to gallop downhill in fairly large companies.
+
+cts:urn:tlg0032.tlg012:3.8
+glaux1.0-sentence	95
+perseus-grc2	 οὐ μέντοι ἀγνοῶ ὅτι , ἢν μὲν πιστεύωσι δυνήσεσθαι ταχὺ ἐλαύνειν , πάνυ ἂν ἡδέως ἐπιδείξαιντο ·
+perseus-eng2	 To be sure, I know well enough that, if they feel confident of their ability to gallop, they will welcome the opportunity of showing off their skill:
+
+cts:urn:tlg0032.tlg012:3.8
+glaux1.0-sentence	96
+perseus-grc2	 ἢν δὲ ἀμελέτητοι ὦσιν , ὁρᾶν χρὴ ὅπως μὴ οἱ πολέμιοι αὐτοὺς τοῦτο δρᾶν ἀναγκάσουσιν .
+perseus-eng2	 but you must see that they are not short of practice, or the enemy will compel them to do it against their will.
+
+cts:urn:tlg0032.tlg012:3.9
+glaux1.0-sentence	97
+perseus-grc2	 ἔν γε μὴν ταῖς δοκιμασίαις ἡ μὲν τάξις εἴρηται μεθ’ ἧς ἂν κάλλιστα ἱππάζοιντο .
+perseus-eng2	 The formation that would add most to the beauty of the exercises at the inspections has already been explained.
+
+cts:urn:tlg0032.tlg012:3.9
+glaux1.0-sentence	98
+perseus-grc2	 ἢν δὲ ὁ ἡγούμενος , ἤνπερ ἔχῃ δυνατὸν ἵππον , ἐν τῷ ἔξωθεν ἀεὶ στίχῳ περιφέρηται , οὕτως αὐτὸς μὲν ἀεὶ ταχὺ ἐλᾷ καὶ οἱ σὺν αὐτῷ ἔξωθεν γιγνόμενοι πάλιν αὖ ταχὺ ἐλῶσιν ·
+perseus-eng2	 Provided his horse is strong enough, the leader should ride round with the file that is on the outside every time. He will be galloping all the time himself, and the file whose turn it is to be on the outside with him will also be galloping.
+
+cts:urn:tlg0032.tlg012:3.9
+glaux1.0-sentence	99
+perseus-grc2	 ὥστε ἡ μὲν βουλὴ ἀεὶ τὸ ταχὺ ἐλαυνόμενον θεάσεται , οἱ δὲ ἵπποι οὐκ ἀπεροῦσιν ἐν μέρει ἀναπαυόμενοι .
+perseus-eng2	 Thus the eyes of the Council will always be on the galloping file, and the horses will get a breathing space, resting by turns.
+
+cts:urn:tlg0032.tlg012:3.10
+glaux1.0-sentence	100
+perseus-grc2	 ὅταν γε μὴν ἐν τῷ ἱπποδρόμῳ ἡ ἐπίδειξις ᾖ , καλὸν μὲν οὕτω πρῶτον τάξασθαι ὡς ἂν ἐπὶ μετώπου ἐμπλήσαντες ἵππων τὸν ἱππόδρομον ἐξελάσειαν τοὺς ἐκ τοῦ μέσου ἀνθρώπους ·
+perseus-eng2	 When the Hippodrome is the scene of the display, the right plan would be that the men should first be drawn up on a front broad enough to fill the Hippodrome with horses and drive out the people standing there.
+
+cts:urn:tlg0032.tlg012:3.11
+glaux1.0-sentence	101
+perseus-grc2	 καλὸν δ’ , ἐπεὶ αἱ φυλαὶ ἐν τῇ ἀνθιππασίᾳ φεύγουσί τε ἀλλήλας καὶ διώκουσι ταχέως , ὅταν οἱ ἵππαρχοι ἡγῶνται ταῖς πέντε φυλαῖς , ἑκατέρας διελαύνειν τὰς φυλὰς δι’ ἀλλήλων .
+perseus-eng2	 In the sham fight when the regiments pursue and fly from one another at the gallop in two squadrons of five regiments, each side led by its commander, the regiments should ride through one another.
+
+cts:urn:tlg0032.tlg012:3.11
+glaux1.0-sentence	102
+perseus-grc2	 ταύτης γὰρ τῆς θέας τό τε ἀντιμετώπους προσελαύνειν ἀλλήλοις γοργόν , τό τε διελάσαντας τὸν ἱππόδρομον ἀντίους πάλιν στῆναι ἀλλήλοις σεμνόν , καὶ τὸ ὑπὸ σάλπιγγος αὖ τὸ δεύτερον θᾶττον ἐπελαύνειν καλόν .
+perseus-eng2	 How formidable they will look when they charge front to front; how imposing when, after sweeping across the Hippodrome, they stand facing one another again; how splendid, when the trumpet sounds and they charge once more at a quicker pace!
+
+cts:urn:tlg0032.tlg012:3.12
+glaux1.0-sentence	103
+perseus-grc2	 στάντας δὲ ἤδη τὸ τρίτον αὖ ὑπὸ τῆς σάλπιγγος χρὴ τάχιστα ἀλλήλοις ἐπελαύνειν , καὶ διελάσαντας εἰς κατάλυσιν ἤδη ἐπὶ φάλαγγος ἅπαντας καταστάντας , ὥσπερ εἰώθατε , πρὸς τὴν βουλὴν προσελαύνειν .
+perseus-eng2	 After the halt, the trumpet should sound once more, and they should charge yet a third time at top speed; and when they have crossed, they should all range themselves in battle line preparatory to being dismissed, and ride up to the Council, just as you are accustomed to do.
+
+cts:urn:tlg0032.tlg012:3.13
+glaux1.0-sentence	104
+perseus-grc2	 ταῦτά μοι δοκεῖ πολεμικώτερά τε φαίνεσθαι ἂν καὶ καινότερα .
+perseus-eng2	 I think that these manoeuvres would look more like war and would have the charm of novelty.
+
+cts:urn:tlg0032.tlg012:3.13
+glaux1.0-sentence	105
+perseus-grc2	 τὸ δὲ βραδύτερον μὲν τῶν φυλάρχων ἐλαύνειν , τὸν δ’ αὐτὸν τρόπον ἐκείνοις ἱππεύειν , οὐκ ἄξιον ἱππαρχίας .
+perseus-eng2	 It is unworthy of his high rank that a cavalry commander should gallop at a slower pace than the colonels, and ride in the same way as they do.
+
+cts:urn:tlg0032.tlg012:3.14
+glaux1.0-sentence	106
+perseus-grc2	 ὅταν γε μὴν ἐν τῷ ἐπικρότῳ ἐν Ἀκαδημέᾳ ἱππεύειν δέῃ , ἔχω τάδε παραινέσαι ·
+perseus-eng2	 When the ride is to take place in the Academy on the hard ground, I have the following recommendations to make.
+
+cts:urn:tlg0032.tlg012:3.14
+glaux1.0-sentence	107
+perseus-grc2	 εἰς μὲν τὸ μὴ ἀποκρούεσθαι ἀπὸ τῶν ἵππων , ὑπτίους ἀναπεπτωκότας ἐλαύνειν , εἰς δὲ τὸ μὴ πίπτειν , τοὺς ἵππους ὑπολαμβάνειν ἐν ταῖς ἀναστροφαῖς .
+perseus-eng2	 To avoid being thrown the riders should throw the body back in charging, and collect their horses when wheeling, to keep them from falling.
+
+cts:urn:tlg0032.tlg012:3.14
+glaux1.0-sentence	108
+perseus-grc2	 τὰ μέντοι ὀρθὰ ταχὺ ἐλαύνειν χρή ·
+perseus-eng2	 In the straight, however, they should gallop.
+
+cts:urn:tlg0032.tlg012:3.14
+glaux1.0-sentence	109
+perseus-grc2	 οὕτω γὰρ τὸ ἀσφαλὲς καὶ τὸ καλὸν θεάσεται ἡ βουλή .
+perseus-eng2	 The Council will thus watch a safe as well as a beautiful performance.
+
+cts:urn:tlg0032.tlg012:4.1
+glaux1.0-sentence	110
+perseus-grc2	 ἔν γε μὴν ταῖς πορείαις ἀεὶ δεῖ τὸν ἵππαρχον προνοεῖν ὅπως ἀναπαύῃ μὲν τῶν ἵππων τὰς ἕδρας , ἀναπαύῃ δὲ τοὺς ἱππέας τῷ βαδίζειν , μέτριον μὲν ὀχοῦντα , μέτριον δὲ πεζοποροῦντα .
+perseus-eng2	 During a march the cavalry commander must always think ahead, in order that he may rest the horses’ backs and relieve the men by walking, giving moderate spells of alternate riding and marching.
+
+cts:urn:tlg0032.tlg012:4.1
+glaux1.0-sentence	111
+perseus-grc2	 τοῦ δὲ μετρίου ἐννοῶν οὐκ ἂν ἁμαρτάνοις ·
+perseus-eng2	 You can’t misjudge what is a moderate spell,
+
+cts:urn:tlg0032.tlg012:4.1
+glaux1.0-sentence	112
+perseus-grc2	 αὐτὸς γὰρ μέτρον ἕκαστος τοῦ μὴ λαθεῖν ὑπερπονοῦντας .
+perseus-eng2	 since every man is himself the measure that will show you when they are getting tired.
+
+cts:urn:tlg0032.tlg012:4.2
+glaux1.0-sentence	113
+perseus-grc2	 ὅταν μέντοι ἀδήλου ὄντος εἰ πολεμίοις ἐντεύξῃ πορεύῃ ποι , κατὰ μέρος χρὴ τὰς φυλὰς ἀναπαύειν .
+perseus-eng2	 But when it is uncertain whether you will encounter an enemy on your way to any place, you must give the regiments a rest in turn.
+
+cts:urn:tlg0032.tlg012:4.2
+glaux1.0-sentence	114
+perseus-grc2	 χαλεπὸν γὰρ εἰ πᾶσι καταβεβηκόσι πλησιάσειαν οἱ πολέμιοι .
+perseus-eng2	 For it would be a bad job if all the men were dismounted when the enemy is close at hand.
+
+cts:urn:tlg0032.tlg012:4.3
+glaux1.0-sentence	115
+perseus-grc2	 καὶ ἢν μέν γε διὰ στενῶν ὁδῶν ἐλαύνῃς , ἀπὸ παραγγέλσεως εἰς κέρας ἡγητέον ·
+perseus-eng2	 If you are riding along narrow roads, the order must be given to form column;
+
+cts:urn:tlg0032.tlg012:4.3
+glaux1.0-sentence	116
+perseus-grc2	 ἢν δὲ πλατείαις ἐπιτυγχάνῃς ὁδοῖς , ἀπὸ παραγγέλσεως αὖ πλατυντέον τῆς φυλῆς ἑκάστης τὸ μέτωπον ·
+perseus-eng2	 but when you find yourself on broad roads, the order must be given to every regiment to extend front.
+
+cts:urn:tlg0032.tlg012:4.3
+glaux1.0-sentence	117
+perseus-grc2	 ὅταν γε μὴν εἰς πεδίον ἀφικνῆσθε , ἐπὶ φάλαγγος πάσας τὰς φυλὰς ἀκτέον .
+perseus-eng2	 When you reach open ground, all the regiments must be in line of battle.
+
+cts:urn:tlg0032.tlg012:4.3
+glaux1.0-sentence	118
+perseus-grc2	 ἀγαθὸν γὰρ καὶ μελέτης ἕνεκα ταῦτα ποιεῖν καὶ τοῦ ἥδιον διαπερᾶν τὰς ὁδοὺς ποικίλλοντας ἱππικαῖς τάξεσι τὰς πορείας .
+perseus-eng2	 Incidentally these changes of order are good for practice, and help the men to get over the ground more pleasantly by varying the march with cavalry manoeuvres.
+
+cts:urn:tlg0032.tlg012:4.4
+glaux1.0-sentence	119
+perseus-grc2	 ὅταν μέντοι ἔξω τῶν ὁδῶν διὰ δυσχωριῶν ἐλαύνητε , μάλα χρήσιμον καὶ ἐν πολεμίᾳ καὶ ἐν φιλίᾳ προελαύνειν τῆς φυλῆς ἑκάστης τῶν ὑπηρετῶν οἵτινες , ἢν ἀπόροις νάπαις ἐντυγχάνωσι , παριόντες ἐπὶ τὰ εὔπορα δηλώσουσι τοῖς ἱππεῦσιν ᾗ χρὴ τὴν ἔλασιν ποιεῖσθαι , ὡς μὴ ὅλαι αἱ τάξεις πλανῶνται .
+perseus-eng2	 When riding on difficult ground away from roads, whether in hostile or friendly country, it is very useful to have some of the aides-de-camp in advance of each regiment, that they may find a way round into the open in case they come across pathless woodland, and show the men what line they should follow, so that whole companies may not go astray.
+
+cts:urn:tlg0032.tlg012:4.5
+glaux1.0-sentence	120
+perseus-grc2	 ἢν δὲ δι’ ἐπικινδύνων ἐλαύνητέ που , φρονίμου ἱππάρχου τὸ τῶν προόδων ἄλλους προόδους διερευνωμένους προηγεῖσθαι ( τὸ γὰρ ὡς ἐκ πλείστου προαισθάνεσθαι πολεμίων χρήσιμον καὶ πρὸς τὸ ἐπιθέσθαι καὶ πρὸς τὸ φυλάξασθαι ) , καὶ τὸ ἀναμένειν δὲ ἐπὶ ταῖς διαβάσεσιν , ὡς μὴ κατακόπτωσι τοὺς ἵππους οἱ τελευταῖοι τὸν ἡγεμόνα διώκοντες .
+perseus-eng2	 If your route lies in dangerous country, a prudent commander will have a second advanced guard ahead of his scouts for reconnaissance purposes.
+
+cts:urn:tlg0032.tlg012:4.5
+glaux1.0-sentence	121
+perseus-grc2	 ἴσασι μὲν οὖν ταῦτα σχεδὸν ἅπαντες , καρτερεῖν δ’ ἐπιμελούμενοι οὐ πολλοὶ ἐθέλουσι .
+perseus-eng2	 For it is useful both for attack and defence to discover an enemy as far off as possible. It is useful also to halt at the passage of a river, that the rear guard may not wear out their horses in chasing their leader. These rules, no doubt, are familiar to nearly everybody; but few will take the trouble to observe them.
+
+cts:urn:tlg0032.tlg012:4.6
+glaux1.0-sentence	122
+perseus-grc2	 προσήκει δὲ ἱππάρχῳ ἔτι ἐν εἰρήνῃ ἐπιμελεῖσθαι ὅπως ἐμπείρως ἕξει τῆς τε πολεμίας καὶ τῆς φιλίας χώρας ·
+perseus-eng2	 A cavalry commander should be at pains even in time of peace to acquaint himself with hostile and friendly country alike.
+
+cts:urn:tlg0032.tlg012:4.6
+glaux1.0-sentence	123
+perseus-grc2	 ἢν δ’ ἄρα αὐτὸς ἀπείρως ἔχῃ , τῶν ἄλλων γε δὴ τοὺς ἐπιστημονεστάτους ἑκάστων τόπων παραλαμβάνειν .
+perseus-eng2	 In case he is without personal experience, he should at least consult the men in the force who have the best knowledge of various localities.
+
+cts:urn:tlg0032.tlg012:4.6
+glaux1.0-sentence	124
+perseus-grc2	 πολὺ γὰρ διαφέρει ἡγούμενος ὁ εἰδὼς τὰς ὁδοὺς τοῦ μὴ εἰδότος , καὶ ἐπιβουλεύων δὲ πολεμίοις ὁ εἰδὼς τοὺς τόπους τοῦ μὴ εἰδότος πολὺ διαφέρει .
+perseus-eng2	 For the leader who knows the roads has a great advantage over one who does not. In making plans against the enemy, too, a knowledge of the district makes a great difference.
+
+cts:urn:tlg0032.tlg012:4.7
+glaux1.0-sentence	125
+perseus-grc2	 καὶ κατασκόπων δὲ πρὶν πόλεμον εἶναι δεῖ μεμεληκέναι , ὅπως ἔσονται καὶ ἐκ πόλεων ἀμφοτέροις φιλίων καὶ ἐξ ἐμπόρων ·
+perseus-eng2	 You must also have taken steps to enlist the services of spies before the outbreak of war.
+
+cts:urn:tlg0032.tlg012:4.7
+glaux1.0-sentence	126
+perseus-grc2	 πᾶσαι γὰρ αἱ πόλεις τοὺς εἰσάγοντάς τι ἀεὶ ὡς εὐμενεῖς δέχονται ·
+perseus-eng2	 Some of these should be citizens of neutral states, and some merchants, since all states invariably welcome the importer of merchandise.
+
+cts:urn:tlg0032.tlg012:4.7
+glaux1.0-sentence	127
+perseus-grc2	 καὶ ψευδαυτόμολοι δ’ ἔστιν ὅτε χρήσιμον .
+perseus-eng2	 Sham deserters, too, have their use on occasions.
+
+cts:urn:tlg0032.tlg012:4.8
+glaux1.0-sentence	128
+perseus-grc2	 οὐ μέντοι τοῖς γε κατασκόποις δεῖ ποτε πιστεύοντα φυλακῆς ἀμελεῖν , ἀλλ’ ἀεὶ οὕτως κατεσκευάσθαι χρή , ὥσπερ ἢν ἥξοντες εἰσηγγελμένοι ὦσιν οἱ πολέμιοι .
+perseus-eng2	 Still, you must never neglect to post guards through reliance on spies; on the contrary, your precautions must at all times be as complete as when you have information that the enemy is approaching.
+
+cts:urn:tlg0032.tlg012:4.8
+glaux1.0-sentence	129
+perseus-grc2	 καὶ γὰρ ἢν πάνυ πιστοὶ ὦσιν οἱ κατάσκοποι , χαλεπὸν ἐν καιρῷ ἀπαγγέλλειν ·
+perseus-eng2	 For even if the spies are entirely reliable, it is difficult to report at the critical moment,
+
+cts:urn:tlg0032.tlg012:4.8
+glaux1.0-sentence	130
+perseus-grc2	 πολλὰ γὰρ ἐν πολέμῳ τὰ ἐμπόδια συμπίπτει .
+perseus-eng2	 since many things happen in war to hinder them.
+
+cts:urn:tlg0032.tlg012:4.9
+glaux1.0-sentence	131
+perseus-grc2	 τάς γε μὴν ἐξαγωγὰς τοῦ ἱππικοῦ ἧττον ἂν οἱ πολέμιοι αἰσθάνοιντο , εἰ ἀπὸ παραγγέλσεως γίγνοιντο μᾶλλον ἢ εἰ ὑπὸ κήρυκος ἢ εἰ ἀπὸ προγραφῆς .
+perseus-eng2	 The advance of cavalry is less likely to be detected by the enemy if orders are not given by a herald or in writing beforehand, but passed along.
+
+cts:urn:tlg0032.tlg012:4.9
+glaux1.0-sentence	132
+perseus-grc2	 ἀγαθὸν οὖν καὶ τὸ πρὸς τὸ διὰ παραγγέλσεως ἐξάγειν τὸ δεκαδάρχους καθιστάναι , καὶ ἐπὶ τοῖς δεκαδάρχοις πεμπαδάρχους , ἵνα ὡς ἐλαχίστοις ἕκαστος παραγγέλλῃ ·
+perseus-eng2	 Accordingly, for this purpose, too, that the order to advance may be given by word of mouth, it is well to post file-leaders, and half file-leaders behind them, so that each may pass the word to as few men as possible. Thus, too, the half file-leaders will wheel and extend the line without confusion, whenever there is occasion to do so.
+
+cts:urn:tlg0032.tlg012:4.10
+glaux1.0-sentence	133
+perseus-grc2	 καὶ τὸ μέτωπον δὲ οὕτως μηκύνοιεν ἂν τῆς τάξεως ἀταράκτως οἱ πεμπάδαρχοι παράγοντες , ὁπότε τούτου καιρὸς εἴη .
+perseus-eng2	 When it is necessary to keep a look out, I am all in favour of the plan of having hidden outposts and guards.
+
+cts:urn:tlg0032.tlg012:4.10
+glaux1.0-sentence	134
+perseus-grc2	 ὅταν γε μὴν προφυλάττειν δέῃ , ἐγὼ μὲν ἀεὶ ἐπαινῶ τὰς κρυπτὰς σκοπάς τε καὶ φυλακάς ·
+perseus-eng2	 For these serve at once as guards to protect your friends and snares to trap the enemy.
+
+cts:urn:tlg0032.tlg012:4.10
+glaux1.0-sentence	135
+perseus-grc2	 οὕτω γὰρ ἅμα μὲν τῶν φίλων φυλακαὶ γίγνονται , ἅμα δὲ τοῖς πολεμίοις ἐνέδραι κατασκευάζονται .
+perseus-eng2	 And the men, being unseen, are more secure themselves and at the same time more formidable to the enemy.
+
+cts:urn:tlg0032.tlg012:4.11
+glaux1.0-sentence	136
+perseus-grc2	 καὶ αὐτοὶ μὲν δυσεπιβουλευτότεροί εἰσιν ἀφανεῖς ὄντες , τοῖς δὲ πολεμίοις φοβερώτεροι .
+perseus-eng2	 For the enemy, conscious that there are outposts somewhere,
+
+cts:urn:tlg0032.tlg012:4.11
+glaux1.0-sentence	137
+perseus-grc2	 τὸ γὰρ εἰδέναι μὲν ὅτι εἰσί που φυλακαί , ὅπου δ’ εἰσὶ καὶ ὁπόσαι μὴ εἰδέναι , τοῦτο θαρσεῖν μὲν κωλύει τοὺς πολεμίους , ὑποπτεύειν δὲ ἀναγκάζει πάντα τὰ χωρία ·
+perseus-eng2	 but ignorant of their whereabouts and their strength, feels nervous and is forced to suspect every possible position;
+
+cts:urn:tlg0032.tlg012:4.11
+glaux1.0-sentence	138
+perseus-grc2	 αἱ δὲ φανεραὶ φυλακαὶ δῆλα παρέχουσι καὶ τὰ δεινὰ καὶ τὰ εὐθαρσῆ .
+perseus-eng2	 whereas visible outposts show them where danger lies and where all is safe.
+
+cts:urn:tlg0032.tlg012:4.12
+glaux1.0-sentence	139
+perseus-grc2	 ἔτι δὲ τῷ μὲν κρυπτὰς ἔχοντι φυλακὰς ἐξέσται μὲν φανεροῖς ὀλίγοις ἔμπροσθεν τῶν κρυπτῶν φυλάττοντα πειρᾶσθαι τοὺς πολεμίους εἰς ἐνέδρας ὑπάγειν ·
+perseus-eng2	 Besides, if you conceal your outposts, you will have the chance of luring the enemy into an ambush by placing a few guards in the open to screen the hidden men.
+
+cts:urn:tlg0032.tlg012:4.12
+glaux1.0-sentence	140
+perseus-grc2	 ἀγρευτικὸν δὲ καὶ ὄπισθεν τῶν κρυπτῶν ἄλλοις φανεροῖς ἔστιν ὅτε φυλάττειν ·
+perseus-eng2	 Occasionally, too, a cunning trap may be laid by posting a second body of exposed guards behind the men in hiding;
+
+cts:urn:tlg0032.tlg012:4.12
+glaux1.0-sentence	141
+perseus-grc2	 καὶ τοῦτο γὰρ ἐξαπατητικὸν τῶν πολεμίων ὁμοίως τῷ πρόσθεν εἰρημένῳ .
+perseus-eng2	 for this plan may prove as deceptive to the enemy as the one just referred to.
+
+cts:urn:tlg0032.tlg012:4.13
+glaux1.0-sentence	142
+perseus-grc2	 ἀλλὰ μὴν φρονίμου γε ἄρχοντος καὶ τὸ μήποτε κινδυνεύειν ἑκόντα , πλὴν ὅπου ἂν πρόδηλον ᾖ ὅτι πλέον ἕξει τῶν πολεμίων ·
+perseus-eng2	 A prudent commander will never take risks unnecessarily, except when it is clear beforehand that he will have the advantage of the enemy.
+
+cts:urn:tlg0032.tlg012:4.13
+glaux1.0-sentence	143
+perseus-grc2	 τὸ δὲ ὑπηρετεῖν τὰ ἥδιστα τοῖς πολεμίοις προδοσία τῶν ξυμμάχων δικαίως ἂν μᾶλλον ἢ ἀνδρεία κρίνοιτο .
+perseus-eng2	 To play into the enemy’s hand may fairly be considered treachery to one’s allies rather than courage.
+
+cts:urn:tlg0032.tlg012:4.14
+glaux1.0-sentence	144
+perseus-grc2	 σῶφρον δὲ καὶ τὸ ἐκεῖσε ὁρμᾶν ὅπου ἂν ἀσθενῆ τὰ τῶν πολεμίων ᾖ , κἂν πρόσω ὄντα τυγχάνῃ .
+perseus-eng2	 Another sound principle is to go for any position where the enemy is weak, even if it is a long way off,
+
+cts:urn:tlg0032.tlg012:4.14
+glaux1.0-sentence	145
+perseus-grc2	 τὸ γὰρ σφόδρα πονῆσαι ἀκινδυνότερον ἢ πρὸς τοὺς κρείττους ἀγωνίζεσθαι .
+perseus-eng2	 since hard work is less dangerous than a struggle against superior forces.
+
+cts:urn:tlg0032.tlg012:4.15
+glaux1.0-sentence	146
+perseus-grc2	 ἢν δέ πῃ εἰς μέσον φιλίων τειχέων εἰσίωσιν οἱ πολέμιοι , κἂν πολὺ κρείττους ὄντες , καλὸν μὲν ἐντεῦθεν ἐπιχειρεῖν ὁποτέρωθι ἂν λελήθῃς παρών , καλὸν δὲ καὶ ἅμα ἀμφοτέρωθεν .
+perseus-eng2	 But if the enemy places himself somewhere between yourself and fortresses friendly to you, then it is proper to attack him, even if he is greatly superior, on that side where your presence is unsuspected, or on both flanks at once,
+
+cts:urn:tlg0032.tlg012:4.15
+glaux1.0-sentence	147
+perseus-grc2	 ὅταν γὰρ οἱ ἕτεροι ἀποχωρῶσιν , οἱ ἐκ τοῦ ἐπὶ θάτερα ἐλαύνοντες ταράττοιεν μὲν ἂν τοὺς πολεμίους , σῴζοιεν δ’ ἂν τοὺς φίλους .
+perseus-eng2	 for when one part of your force is retiring, a charge on the opposite flank will flurry the enemy and rescue your friends.
+
+cts:urn:tlg0032.tlg012:4.16
+glaux1.0-sentence	148
+perseus-grc2	 καὶ τὸ μὲν διὰ κατασκόπων πειρᾶσθαι εἰδέναι τὰ τῶν πολεμίων πάλαι εἴρηται ὡς ἀγαθόν ἐστιν ·
+perseus-eng2	 It is an old maxim that, in attempting to discover what the enemy is about, it is well to employ spies.
+
+cts:urn:tlg0032.tlg012:4.16
+glaux1.0-sentence	149
+perseus-grc2	 ἐγὼ δὲ πάντων ἄριστον νομίζω εἶναι τὸ αὐτὸν πειρᾶσθαι , ἢν ᾖ ποθεν ἐξ ἀσφαλοῦς , θεώμενον τοὺς πολεμίους ἀθρεῖν ἤν τι ἁμαρτάνωσι .
+perseus-eng2	 But the best plan of all, in my opinion, is for the commander himself to watch the enemy from some safe coign of vantage, if possible, and take notice of his mistakes.
+
+cts:urn:tlg0032.tlg012:4.17
+glaux1.0-sentence	150
+perseus-grc2	 καὶ τὸ μὲν κλαπῆναι δυνατὸν πέμπειν χρὴ τοὺς ἐπιτηδείους κλέψοντας , τὸ δ’ ἁρπασθῆναι ἐγχωροῦν ἐφιέναι τοὺς ἁρπάσοντας .
+perseus-eng2	 And when anything can be filched by cunning, you should send likely men to steal it;
+
+cts:urn:tlg0032.tlg012:4.17
+glaux1.0-sentence	151
+perseus-grc2	 ἢν δὲ πορευομένων ποι τῶν πολεμίων ἀπαρτᾶταί τι ἀσθενέστερον τῆς αὑτοῦ δυνάμεως ἢ θαρροῦν ἀποσκεδαννύηται , οὐδὲ τοῦτο χρὴ λανθάνειν ·
+perseus-eng2	 and when anything may be seized you should despatch troops to seize it.
+
+cts:urn:tlg0032.tlg012:4.17
+glaux1.0-sentence	152
+perseus-grc2	 ἀεὶ μέντοι τῷ ἰσχυροτέρῳ τὸ ἀσθενέστερον θηρᾶν .
+perseus-eng2	 If the enemy is marching on some objective and a part of his force weaker than your own separates from the main body or straggles carelessly, the chance must not be missed; the hunter, however, must always be stronger than the hunted.
+
+cts:urn:tlg0032.tlg012:4.18
+glaux1.0-sentence	153
+perseus-grc2	 δυνατὸν δὲ προσέχοντι τὸν νοῦν ταῦτα καταμανθάνειν , ἐπεὶ καὶ τὰ βραχυγνωμονέστερα ἀνθρώπου θηρία , οἵ τε ἴκτινοι δύνανται ὃ ἂν ἀφύλακτον ᾖ ἀφαρπάσαντες εἰς τὸ ἀσφαλὲς ἀποχωρεῖν πρὶν ληφθῆναι , καὶ οἱ λύκοι δὲ τά τε ἐρημούμενα φυλακῆς ἀγρεύουσι καὶ τὰ ἐν τοῖς δυσοράτοις κλέπτουσι , κἂν μεταθέων γέ τις ἐπιγίγνηται κύων , ἢν μὲν ἥττων ᾖ , τούτῳ ἐπιτίθεται , ἢν δὲ κρείττων , ἀποσπάσας ὅ τι ἂν ἔχῃ ἀποχωρεῖ .
+perseus-eng2	 You can see the point of this if you consider. Even wild creatures less intelligent than man, such as hawks, will grab unguarded plunder and get away into a place of safety before they can be caught: wolves, again, prey on anything left unprotected and steal things lying in holes and corners; and if a dog does pursue and overtake him,
+
+cts:urn:tlg0032.tlg012:4.19
+glaux1.0-sentence	154
+perseus-grc2	 ὅταν δέ γε φυλακῆς καταφρονήσωσι λύκοι , τάξαντες ἑαυτῶν τοὺς μὲν ἀπελάσαι τὴν φυλακήν , τοὺς δὲ ἁρπάζειν , οὕτω τὰ ἐπιτήδεια πορίζονται .
+perseus-eng2	 the wolf, if stronger than the dog, attacks him; or if weaker, snatches away the prize and makes off. Moreover, when a pack of wolves feels no fear of a convoy, they arrange themselves so that some shall drive off the convoy, and others seize the plunder; and thus they get their food.
+
+cts:urn:tlg0032.tlg012:4.20
+glaux1.0-sentence	155
+perseus-grc2	 θηρίων γε μὴν δυναμένων τὰ τοιαῦτα φρονίμως λῄζεσθαι , πῶς οὐκ ἄνθρωπόν γε ὄντα εἰκὸς σοφώτερον τούτων φαίνεσθαι ἃ καὶ αὐτὰ τέχνῃ ὑπ’ ἀνθρώπου ἁλίσκεται ;
+perseus-eng2	 Well, if wild beasts show such sagacity, surely any man may be expected to show more wisdom than creatures that are themselves taken by the skill of man.
+
+cts:urn:tlg0032.tlg012:5.1
+glaux1.0-sentence	156
+perseus-grc2	 κ- ἐκεῖνο γε μὴν εἰδέναι ἱππικοῦ ἀνδρός , ἐκ πόσου ἂν ἵππος πεζὸν ἕλοι καὶ ἐξ ὁπόσου βραδεῖς ἵπποι ταχεῖς ἂν ἀποφύγοιεν .
+perseus-eng2	 Every horseman should know at what distance a horse can overtake a man on foot, and how much start a slow horse needs to escape from a fast one.
+
+cts:urn:tlg0032.tlg012:5.1
+glaux1.0-sentence	157
+perseus-grc2	 ἱππαρχικὸν δὲ καὶ χωρία γιγνώσκειν ἔνθα πεζοὶ κρείττους ἱππέων καὶ ἔνθα πεζῶν κρείττους ἱππῆς .
+perseus-eng2	 A cavalry commander should also be able to judge of the ground where infantry has an advantage over cavalry and where cavalry has an advantage over infantry.
+
+cts:urn:tlg0032.tlg012:5.2
+glaux1.0-sentence	158
+perseus-grc2	 χρὴ δὲ μηχανητικὸν εἶναι καὶ τοῦ πολλοὺς μὲν φαίνεσθαι τοὺς ὀλίγους ἱππέας , πάλιν δ’ ὀλίγους τοὺς πολλούς , καὶ τοῦ δοκεῖν παρόντα μὲν ἀπεῖναι , ἀπόντα δὲ παρεῖναι , καὶ τοῦ μὴ τὰ τῶν πολεμίων μόνον κλέπτειν ἐπίστασθαι , ἀλλὰ καὶ τοὺς ἑαυτοῦ ἱππέας ἅμα κλέπτοντα ἐξ ἀπροσδοκήτου τοῖς πολεμίοις ἐπιτίθεσθαι .
+perseus-eng2	 He must also have sufficient ingenuity to make a small company of horse look large, and conversely, to make a large one look small; to seem to be absent when present, and present when absent; to know how to deceive, not merely how to steal the enemy’s possessions, but also how to conceal his own force and fall on the enemy unexpectedly.
+
+cts:urn:tlg0032.tlg012:5.3
+glaux1.0-sentence	159
+perseus-grc2	 ἀγαθὸν δὲ μηχάνημα καὶ τὸ δύνασθαι , ὅταν μὲν τὰ ἑαυτοῦ ἀσθενῶς ἔχῃ , φόβον παρασκευάζειν τοῖς πολεμίοις ὡς μὴ ἐπίθωνται , ὅταν δ’ ἐρρωμένως , θάρσος αὐτοῖς ἐμποιεῖν ὡς ἐγχειρῶσιν .
+perseus-eng2	 Another neat ruse is to create a scare among the enemy when your own position is precarious, so that he may not attack, and to put him in good heart, when it is strong, so that he may make an attempt.
+
+cts:urn:tlg0032.tlg012:5.3
+glaux1.0-sentence	160
+perseus-grc2	 οὕτω γὰρ αὐτὸς μὲν ἂν ἥκιστα κακῶς πάσχοις , τοὺς δὲ πολεμίους μάλιστ’ ἂν ἁμαρτάνοντας λαμβάνοις .
+perseus-eng2	 Thus you are least likely to come to harm yourself and most likely to catch the enemy tripping.
+
+cts:urn:tlg0032.tlg012:5.4
+glaux1.0-sentence	161
+perseus-grc2	 ὅπως δὲ μὴ προστάττειν δοκῶ ἀδύνατα , γράψω καὶ ὡς ἂν γίγνοιτο τὰ δοκοῦντα αὐτῶν χαλεπώτατα εἶναι .
+perseus-eng2	 That I may not seem to demand impossibilities, I will add a solution of the problems that seem most puzzling.
+
+cts:urn:tlg0032.tlg012:5.4
+glaux1.0-sentence	162
+perseus-grc2	 τὸ μὲν τοίνυν μὴ σφάλλεσθαι ἐγχειροῦντα διώκειν ἢ ἀποχωρεῖν ἐμπειρία ποιεῖ ἵππων δυνάμεως .
+perseus-eng2	 Success in an attempt to pursue or retreat depends on experience of horses and their powers.
+
+cts:urn:tlg0032.tlg012:5.4
+glaux1.0-sentence	163
+perseus-grc2	 πῶς δ’ ἂν ἐμπείρως ἔχοις ;
+perseus-eng2	 But how are you to get this experience?
+
+cts:urn:tlg0032.tlg012:5.4
+glaux1.0-sentence	164
+perseus-grc2	 εἰ προσέχοις τὸν νοῦν ἐν ταῖς μετὰ φιλίας ἀνθιππασίαις οἷοι ἀποβαίνουσιν ἐκ τῶν διώξεων τε καὶ φυγῶν .
+perseus-eng2	 By watching the friendly encounters of the sham fights and noticing what condition the horses are in after the pursuits and flights.
+
+cts:urn:tlg0032.tlg012:5.5
+glaux1.0-sentence	165
+perseus-grc2	 ὅταν μέντοι βούλῃ τοὺς ἱππέας πολλοὺς φαίνεσθαι , ἓν μὲν πρῶτον ὑπαρχέτω , ἤνπερ ἐγχωρῇ , μὴ ἐγγὺς τῶν πολεμίων ἐγχειρεῖν ἐξαπατᾶν ·
+perseus-eng2	 When your object is to make the number of your cavalry look large, first take it for an axiom, if possible, not to attempt the ruse when you are near the enemy:
+
+cts:urn:tlg0032.tlg012:5.5
+glaux1.0-sentence	166
+perseus-grc2	 καὶ γὰρ ἀσφαλέστερον τὸ πρόσω καὶ ἀπατητικώτερον .
+perseus-eng2	 for distance gives safety and increases the illusion.
+
+cts:urn:tlg0032.tlg012:5.5
+glaux1.0-sentence	167
+perseus-grc2	 ἔπειτα δὲ χρὴ εἰδέναι ὅτι ἁθρόοι μὲν ἵπποι πολλοὶ φαίνονται διὰ τὸ μέγεθος τοῦ ζῴου , διασπειρόμενοι δ’ εὐαρίθμητοι γίγνονται .
+perseus-eng2	 Secondly you must know that horses look many when crowded, owing to the animal’s size, but are easily counted when scattered.
+
+cts:urn:tlg0032.tlg012:5.6
+glaux1.0-sentence	168
+perseus-grc2	 ἔτι δ’ ἂν πλέον σοι τὸ ἱππικὸν τοῦ ὄντος φαίνοιτο , εἰ τοὺς ἱπποκόμους εἰς τοὺς ἱππέας ἐνισταίης μάλιστα μὲν δόρατα , εἰ δὲ μή , ὅμοια δόρασιν ἔχοντας , ἤν τε ἑστηκὸς ἐπιδεικνύῃς τὸ ἱππικὸν ἤν τε παράγῃς ·
+perseus-eng2	 Another way of exaggerating the apparent strength of your force is to arm the grooms with lances or even imitation lances, and put them between the cavalrymen, whether you display the cavalry at the halt or wheel it into line.
+
+cts:urn:tlg0032.tlg012:5.6
+glaux1.0-sentence	169
+perseus-grc2	 ἀνάγκη γὰρ τὸν ὄγκον τῆς τάξεως οὕτω μείζω τε καὶ πυκνότερον φαίνεσθαι .
+perseus-eng2	 Thus the bulk of the company is bound to look denser and more massive.
+
+cts:urn:tlg0032.tlg012:5.7
+glaux1.0-sentence	170
+perseus-grc2	 ἢν δ’ αὖ τοὺς πολλοὺς ὀλίγους βούλῃ δοκεῖν εἶναι , ἢν μέν σοι χωρία ὑπάρχῃ οἷα συγκρύπτειν , δῆλον ὅτι τοὺς μὲν ἐν τῷ φανερῷ ἔχων , τοὺς δ’ εἰς τὸ ἄδηλον ἀποκρύπτων κλέπτοις ἂν τοὺς ἱππέας ·
+perseus-eng2	 On the other hand, if your object is to make a large number look small, then, assuming that your ground affords cover, you can obviously conceal your cavalry by having part in the open and part hidden.
+
+cts:urn:tlg0032.tlg012:5.7
+glaux1.0-sentence	171
+perseus-grc2	 ἢν δὲ πᾶν καταφανὲς ᾖ τὸ χωρίον , δεκάδας χρὴ στοιχούσας ποιήσαντα διαλειπούσας παράγειν , καὶ τοὺς μὲν πρὸς τῶν πολεμίων ἱππέας ἑκάστης δεκάδος ὀρθὰ τὰ δόρατα ἔχειν , τοὺς δ’ ἄλλους ταπεινὰ καὶ μὴ ὑπερφανῆ .
+perseus-eng2	 If, however, the whole of the ground is exposed, you must form the files into rows and wheel, leaving a gap between each two rows; and the men in each file who are next the enemy must hold their lances upright, while the rest keep theirs low down out of sight.
+
+cts:urn:tlg0032.tlg012:5.8
+glaux1.0-sentence	172
+perseus-grc2	 φοβεῖν γε μὴν τοὺς πολεμίους καὶ ψευδενέδρας οἷόν τε καὶ ψευδοβοηθείας καὶ ψευδαγγελίας ποιοῦντα .
+perseus-eng2	 The means to employ for scaring the enemy are false ambuscades, false reliefs and false information.
+
+cts:urn:tlg0032.tlg012:5.8
+glaux1.0-sentence	173
+perseus-grc2	 θαρσοῦσι δὲ μάλιστα πολέμιοι , ὅταν ὄντα τοῖς ἐναντίοις πράγματα καὶ ἀσχολίας πυνθάνωνται .
+perseus-eng2	 An enemy’s confidence is greatest when he is told that the other side is in difficulties and is preoccupied.
+
+cts:urn:tlg0032.tlg012:5.9
+glaux1.0-sentence	174
+perseus-grc2	 τούτων δὲ γεγραμμένων μηχανᾶσθαι αὐτὸν χρὴ πρὸς τὸ παρὸν ἀεὶ ἀπατᾶν ·
+perseus-eng2	 But given these instructions, a man must himself invent a ruse to meet every emergency as it occurs.
+
+cts:urn:tlg0032.tlg012:5.9
+glaux1.0-sentence	175
+perseus-grc2	 ὄντως γὰρ οὐδὲν κερδαλεώτερον ἀπάτης ἐν πολέμῳ .
+perseus-eng2	 For there is really nothing more profitable in war than deception.
+
+cts:urn:tlg0032.tlg012:5.10
+glaux1.0-sentence	176
+perseus-grc2	 ὁπότε γὰρ καὶ οἱ παῖδες , ὅταν παίζωσι ποσίνδα , δύνανται ἀπατᾶν προΐσχοντες ὥστε ὀλίγους τ’ ἔχοντες πολλοὺς δοκεῖν ἔχειν καὶ πολλοὺς προέχοντες ὀλίγους φαίνεσθαι ἔχειν , πῶς οὐκ ἄνδρες γε τῷ ἐξαπατᾶν προσέχοντες τὸν νοῦν δύναιντ’ ἂν τοιαῦτα μηχανᾶσθαι ;
+perseus-eng2	 Even children are successful deceivers when they play Guess the number; they will hold up a counter or two and make believe that they have got a fist-full, and seem to hold up few when they are holding many; so surely men can play similar tricks when they are intent on deceiving in earnest.
+
+cts:urn:tlg0032.tlg012:5.11
+glaux1.0-sentence	177
+perseus-grc2	 καὶ ἐνθυμούμενος δ’ ἂν τὰ ἐν τοῖς πολέμοις πλεονεκτήματα εὕροι ἄν τις τὰ πλεῖστα καὶ μέγιστα σὺν ἀπάτῃ γεγενημένα .
+perseus-eng2	 And on thinking over the successes gained in war you will find that most of them, and these the greatest, have been won with the aid of deception.
+
+cts:urn:tlg0032.tlg012:5.11
+glaux1.0-sentence	178
+perseus-grc2	 ὧν ἕνεκα ἢ οὐκ ἐγχειρητέον ἄρχειν ἢ τοῦτο σὺν τῇ ἄλλῃ παρασκευῇ καὶ παρὰ θεῶν αἰτητέον δύνασθαι ποιεῖν καὶ αὐτῷ μηχανητέον .
+perseus-eng2	 For these reasons either you should not essay to command, or you should pray to heaven that your equipment may include this qualification, and you should contrive on your own part to possess it.
+
+cts:urn:tlg0032.tlg012:5.12
+glaux1.0-sentence	179
+perseus-grc2	 οἷς δὲ θάλαττα πρόσεστιν , ἀπατητικὸν καὶ τὸ πλοῖα παρασκευαζόμενον πεζῇ τι πρᾶξαι καὶ τὸ πεζῇ προσποιούμενον ἐπιβουλεύειν κατὰ θάλατταν ἐπιχειρῆσαι .
+perseus-eng2	 For those near the sea two effective ruses are, to strike on land while fitting out ships, and to attack by sea while ostensibly planning a land attack.
+
+cts:urn:tlg0032.tlg012:5.13
+glaux1.0-sentence	180
+perseus-grc2	 ἱππαρχικὸν δὲ καὶ τὸ διδάσκειν τὴν πόλιν ὡς ἀσθενὲς τὸ πεζῶν ἔρημον ἱππικὸν πρὸς τὸ ἁμίππους πεζοὺς ἔχον .
+perseus-eng2	 Another duty of a cavalry commander is to demonstrate to the city the weakness of cavalry destitute of infantry as compared with cavalry that has infantry attached to it.
+
+cts:urn:tlg0032.tlg012:5.13
+glaux1.0-sentence	181
+perseus-grc2	 ἱππαρχικὸν δὲ καὶ τὸ λαβόντα πεζοὺς αὐτοῖς χρῆσθαι ·
+perseus-eng2	 Further, having got his infantry, a cavalry commander should make use of it.
+
+cts:urn:tlg0032.tlg012:5.13
+glaux1.0-sentence	182
+perseus-grc2	 ἔστι δὲ πεζοὺς οὐ μόνον ἐντὸς ἀλλὰ καὶ ὄπισθεν ἱππέων ἀποκρύψασθαι ·
+perseus-eng2	 Infantry may be hidden away not only among the cavalry but in the rear as well.
+
+cts:urn:tlg0032.tlg012:5.13
+glaux1.0-sentence	183
+perseus-grc2	 πολὺ γὰρ μείζων ὁ ἱππεὺς τοῦ πεζοῦ .
+perseus-eng2	 A mounted man being much higher than a man on foot.
+
+cts:urn:tlg0032.tlg012:5.14
+glaux1.0-sentence	184
+perseus-grc2	 ταῦτα δὲ πάντα ἐγὼ καὶ ὅσα πρὸς τούτοις τις μηχανήσεται ἢ βίᾳ ἢ τέχνῃ αἱρεῖν τοὺς ἐναντίους βουλόμενος σὺν τῷ θεῷ πράττειν συμβουλεύω , ἵνα καὶ ἡ τύχη συνεπαινῇ θεῶν ἵλεων ὄντων .
+perseus-eng2	 For the practical application of these devices and any others you may contrive for the undoing of your foes by force or craft, I counsel you to work with God, so that, the gods being propitious, fortune too may favour you.
+
+cts:urn:tlg0032.tlg012:5.15
+glaux1.0-sentence	185
+perseus-grc2	 ἔστι δ’ ὅτε πάνυ ἀπατητικὸν καὶ τὸ λίαν φυλακτικὸν προσποιήσασθαι εἶναι καὶ μηδαμῶς φιλοκίνδυνον ·
+perseus-eng2	 Another ruse that proves highly effective at times is to feign excess of caution and reluctance to take risks.
+
+cts:urn:tlg0032.tlg012:5.15
+glaux1.0-sentence	186
+perseus-grc2	 τοῦτο γὰρ τοὺς πολεμίους πολλάκις προάγεται ἀφυλακτοῦντας μᾶλλον ἁμαρτάνειν .
+perseus-eng2	 For this pretence often lures the enemy into making a more fatal blunder through want of caution.
+
+cts:urn:tlg0032.tlg012:5.15
+glaux1.0-sentence	187
+perseus-grc2	 ἢν δ’ ἅπαξ δόξῃ τις φιλοκίνδυνος εἶναι , ἔξεστι καὶ ἡσυχίαν ἔχοντα , προσποιούμενον δὲ πράξειν τι , πράγματα παρέχειν τοῖς πολεμίοις .
+perseus-eng2	 Or once come to be thought venturesome, and you can give the enemy trouble by merely sitting still and pretending that you are on the point of doing something.
+
+cts:urn:tlg0032.tlg012:6.1
+glaux1.0-sentence	188
+perseus-grc2	 ἀλλὰ γὰρ οὐδὲν ἄν τις δύναιτο πλάσαι οἷον βούλεται , εἰ μὴ ἐξ ὧν γε πλάττοιτο παρεσκευασμένα εἴη ὡς πείθεσθαι τῇ τοῦ χειροτέχνου γνώμῃ ·
+perseus-eng2	 However, no man can mould anything to his mind unless the stuff in which he proposes to work lies ready to obey the artist’s will.
+
+cts:urn:tlg0032.tlg012:6.1
+glaux1.0-sentence	189
+perseus-grc2	 οὐδέ γ’ ἂν ἐξ ἀνδρῶν , εἰ μὴ σὺν θεῷ οὕτω παρεσκευασμένοι ἔσονται ὡς φιλικῶς τε ἔχειν πρὸς τὸν ἄρχοντα καὶ φρονιμώτερον σφῶν αὐτὸν ἡγεῖσθαι περὶ τῶν πρὸς τοὺς πολεμίους ἀγώνων .
+perseus-eng2	 No more can you make anything of men, unless, by God’s help, they are ready to regard their commander with friendly feelings and to think him wiser than themselves in the conduct of operations against the enemy.
+
+cts:urn:tlg0032.tlg012:6.2
+glaux1.0-sentence	190
+perseus-grc2	 εὐνοϊκῶς μὲν οὖν ἔχειν καὶ ἐκ τῶνδε εἰκὸς τοὺς ἀρχομένους , ὅταν φιλοφρόνως τε ἔχῃ πρὸς αὐτοὺς καὶ προνοῶν φαίνηται ὅπως τε σῖτον ἕξουσι καὶ ὅπως ἀσφαλῶς μὲν ἀποχωρήσουσι , πεφυλαγμένως δὲ ἀναπαύσονται .
+perseus-eng2	 Now the feeling of loyalty will naturally be fostered when the commander is kind to his men, and obviously takes care that they have victuals, and that they are safe in retreat and well protected when at rest.
+
+cts:urn:tlg0032.tlg012:6.3
+glaux1.0-sentence	191
+perseus-grc2	 ἐν δὲ ταῖς φρουραῖς χρὴ καὶ χιλοῦ καὶ σκηνῶν καὶ ὕδατος καὶ φρυγάνων καὶ τῶν ἄλλων ἐπιτηδείων φανερὸν εἶναι ἐπιμελόμενον καὶ προνοοῦντά τε καὶ ἀγρυπνοῦντα ἕνεκα τῶν ἀρχομένων .
+perseus-eng2	 In the garrisons he must show an interest in fodder, tents, water, firewood, and all other supplies: he must show that he thinks ahead and keeps his eyes open for the sake of his men.
+
+cts:urn:tlg0032.tlg012:6.3
+glaux1.0-sentence	192
+perseus-grc2	 καὶ ὅταν γε πλέον ἔχῃ τι , τὸ μεταδοῦναι κερδαλέον τῷ προεστηκότι .
+perseus-eng2	 And when he is doing well the chief’s best policy is to give them a share in his good things.
+
+cts:urn:tlg0032.tlg012:6.4
+glaux1.0-sentence	193
+perseus-grc2	 ἥκιστα δ’ ἂν καταφρονοῖεν ἄρχοντος , ὡς μὲν συνελόντι εἰπεῖν , εἰ ὁπόσα ἐκείνοις παραινοίη , αὐτὸς ταῦτα βέλτιον ἐκείνων φαίνοιτο ποιῶν .
+perseus-eng2	 To put it shortly, a commander is least likely to incur the contempt of his men if he shows himself more capable than they of doing whatever he requires of them.
+
+cts:urn:tlg0032.tlg012:6.5
+glaux1.0-sentence	194
+perseus-grc2	 ἀρξάμενον οὖν δεῖ ἀπὸ τοῦ ἀναβαίνειν ἐπὶ τοὺς ἵππους πάντα τὰ ἐν ἱππικῇ μελετᾶν , ὅπως ὁρῶσι τὸν ἄρχοντα δυνάμενον ἐπὶ τοῦ ἵππου καὶ τάφρους ἀσφαλῶς περᾶν καὶ τειχία ὑπερακρίζειν καὶ ἀπ’ ὄχθων κατορούειν καὶ ἀκοντίζειν ἱκανῶς ·
+perseus-eng2	 He must therefore practise every detail of horsemanship — mounting and the rest, that they may see their commander able to take a ditch without a spill, clear a wall, leap down from a bank and throw a javelin skilfully.
+
+cts:urn:tlg0032.tlg012:6.5
+glaux1.0-sentence	195
+perseus-grc2	 πάντα γὰρ ταῦτα προκόπτει τι εἰς τὸ μὴ καταφρονεῖσθαι .
+perseus-eng2	 For all these feats are so many stepping stones to their respect.
+
+cts:urn:tlg0032.tlg012:6.6
+glaux1.0-sentence	196
+perseus-grc2	 ἢν δὲ δὴ καὶ τάττειν γνῶσιν ἐπιστάμενόν τε καὶ δυνάμενον παρασκευάζειν ὡς ἂν πλέον ἔχοιεν τῶν πολεμίων , πρὸς δὲ τούτοις κ- ἐκεῖνο λάβωσιν εἰς τὴν γνώμην , ὡς οὔτ’ ἂν εἰκῇ οὔτ’ ἄνευ θεῶν οὔτε παρὰ τὰ ἱερὰ ἡγήσαιτ’ ἂν ἐπὶ πολεμίους , πάντα ταῦτα πιθανωτέρους τῷ ἄρχοντι τοὺς ἀρχομένους ποιεῖ .
+perseus-eng2	 If they know him also to be a master of tactics and able to put them in the way of getting the better of the enemy; and if besides, they are certain that he will never lead them against an enemy recklessly or without the gods’ approval or in defiance of the sacrifices, all these conditions increase the men’s readiness to obey their commander.
+
+cts:urn:tlg0032.tlg012:7.1
+glaux1.0-sentence	197
+perseus-grc2	 παντὶ μὲν οὖν προσήκει ἄρχοντι φρονίμῳ εἶναι ·
+perseus-eng2	 Every commander, then, should have intelligence.
+
+cts:urn:tlg0032.tlg012:7.1
+glaux1.0-sentence	198
+perseus-grc2	 πολὺ μέντοι τὸν Ἀθηναίων ἵππαρχον διαφέρειν δεῖ καὶ τῷ τοὺς θεοὺς θεραπεύειν καὶ τῷ πολεμικὸν εἶναι , ᾧ γε ὑπάρχουσι μὲν ὅμοροι ἀντίπαλοι ἱππεῖς τε παραπλήσιοι τὸ πλῆθος καὶ ὁπλῖται πολλοί .
+perseus-eng2	 The Athenian cavalry commander, however, should excel greatly both in the observance of his duty to the gods and in the qualities of a warrior, seeing that he has on his borders rivals in the shape of cavalry as numerous as his and large forces of infantry.
+
+cts:urn:tlg0032.tlg012:7.2
+glaux1.0-sentence	199
+perseus-grc2	 κἂν μὲν εἰς τὴν πολεμίαν ἐμβάλλειν ἐπιχειρῇ ἄνευ τῆς ἄλλης πόλεως , πρὸς ἀμφοτέρους τούτους μόνοις ἂν τοῖς ἱππεῦσι διακινδυνεύοι .
+perseus-eng2	 And if he attempts to invade the enemy’s country without the other armed forces of the state, he will have to take his chance with the cavalry only against both arms.
+
+cts:urn:tlg0032.tlg012:7.2
+glaux1.0-sentence	200
+perseus-grc2	 ἢν δ’ οἱ πολέμιοι εἰς τὴν Ἀθηναίων χώραν ἐμβάλωσι , πρῶτον μὲν οὐκ ἂν ἄλλως ἔλθοιεν εἰ μὴ σὺν ἄλλοις τε ἱππεῦσι πρὸς τοῖς ἑαυτῶν καὶ πρὸς τούτοις ὁπλίταις ὁπόσοις ἂν οἴωνται πάντας Ἀθηναίους μὴ ἱκανοὺς εἶναι μάχεσθαι .
+perseus-eng2	 Or if the enemy invades Athenian territory, in the first place, he will certainly not fail to bring with him other cavalry besides his own and infantry in addition, whose numbers he reckons to be more than a match for all the Athenians put together.
+
+cts:urn:tlg0032.tlg012:7.3
+glaux1.0-sentence	201
+perseus-grc2	 πρὸς οὖν τοσούτους πολεμίους ἢν μὲν ἡ πόλις πᾶσα ἐπεξίῃ ἀρήξουσα τῇ χώρᾳ , ἐλπίδες καλαί .
+perseus-eng2	 Now provided that the whole of the city’s levies turn out against such a host in defence of their country, the prospects are good.
+
+cts:urn:tlg0032.tlg012:7.3
+glaux1.0-sentence	202
+perseus-grc2	 ἱππεῖς τε γὰρ σὺν θεῷ ἀμείνους , ἤν τις αὐτῶν ἐπιμελῆται ὡς δεῖ , ὁπλῖταί τε οὐ μείους ἔσονται καὶ τὰ σώματα τοίνυν οὐ χείρω ἔχοντες καὶ τὰς ψυχὰς φιλοτιμότεροι , ἢν ὀρθῶς ἀσκηθῶσι σὺν θεῷ .
+perseus-eng2	 For our cavalrymen, God helping, will be the better, if proper care is taken of them, and our heavy infantry will not be inferior in numbers, and I may add, they will be in as good condition and will show the keener spirit, if only, with God’s help, they are trained on the right lines.
+
+cts:urn:tlg0032.tlg012:7.3
+glaux1.0-sentence	203
+perseus-grc2	 καὶ μὴν ἐπί γε τοῖς προγόνοις οὐ μεῖον Ἀθηναῖοι ἢ Βοιωτοὶ φρονοῦσιν .
+perseus-eng2	 And, remember, the Athenians are quite as proud of their ancestry as the Boeotians.
+
+cts:urn:tlg0032.tlg012:7.4
+glaux1.0-sentence	204
+perseus-grc2	 ἢν δὲ ἡ μὲν πόλις τρέπηται ἐπὶ τὰ ναυτικὰ καὶ ἀρκῇ αὐτῇ τὰ τείχη διασῴζειν , ὥσπερ καὶ ὁπότε Λακεδαιμόνιοι σὺν ἅπασι τοῖς Ἕλλησιν ἐνέβαλον , τοὺς δὲ ἱππέας ἀξιώσῃ τά τε ἐκτὸς τοῦ τείχους διασῴζειν καὶ αὐτοὺς μόνους διακινδυνεύειν πρὸς πάντας τοὺς ἐναντίους , ἐνταῦθα δὴ θεῶν μὲν οἶμαι πρῶτον συμμάχων ἰσχυρῶν δεῖ , ἔπειτα δὲ καὶ τὸν ἵππαρχον προσήκει ἀποτετελεσμένον ἄνδρα εἶναι .
+perseus-eng2	 But if the city falls back on her navy, and is content to keep her walls intact, as in the days when the Lacedaemonians invaded us with all the Greeks to help them, and if she expects her cavalry to protect all that lies outside the walls, and to take its chance unaided against her foes, — why then, I suppose, we need first the strong arm of the gods to aid us, and in the second place it is essential that our cavalry commander should be masterly.
+
+cts:urn:tlg0032.tlg012:7.4
+glaux1.0-sentence	205
+perseus-grc2	 καὶ γὰρ φρονήσεως δεῖ πολλῆς πρὸς τοὺς πολὺ πλείους καὶ τόλμης , ὁπότε καιρὸς παραπέσοι ·
+perseus-eng2	 For much sagacity is called for in coping with a greatly superior force, and abundance of courage when the call comes.
+
+cts:urn:tlg0032.tlg012:7.5
+glaux1.0-sentence	206
+perseus-grc2	 δεῖ δέ , ὡς ἐμοὶ δοκεῖ , καὶ αὐτὸν προνοεῖν ἱκανὸν εἶναι .
+perseus-eng2	 I take it, he must also be able to stand hard work.
+
+cts:urn:tlg0032.tlg012:7.5
+glaux1.0-sentence	207
+perseus-grc2	 πρὸς μὲν γὰρ τὸ παρὸν στράτευμα διακινδυνεύων , ᾧ μηδὲ ὅλη ἡ πόλις θέλοι ἀντικαθίστασθαι , δῆλον ὅτι πάσχοι ἂν ὅ τι οἱ κρείττους βούλοιντο , ποιεῖν δὲ οὐδὲν ἂν ἱκανὸς εἴη , εἰ δὲ φυλάττοι μὲν τὰ ἔξω τείχους τοσούτοις ὅσοι σκοπεύειν τε τοὺς πολεμίους ἱκανοὶ ἔσονται καὶ ἀναχωρίζειν εἰς τὸ ἀσφαλὲς τὰ δεόμενα ὡς ἐκ πλείστου — ἱκανοὶ δὲ καὶ προορᾶν οὐδὲν ἧττον οἱ ὀλίγοι τῶν πολλῶν , καὶ φυλάττειν τοίνυν καὶ ἀναχωρίζειν τὰ φίλια οὐκ ἀκαιρότεροι οἱ μήτε αὑτοῖς μήτε τοῖς ἵπποις πιστεύοντες ·
+perseus-eng2	 For if he should elect to take his chance against the army confronting him — an army that not even the whole state is prepared to stand up to — it is evident that he would be entirely at the mercy of the stronger and incapable of doing anything.
+
+cts:urn:tlg0032.tlg012:7.7
+glaux1.0-sentence	208
+perseus-grc2	 ὁ γὰρ φόβος δεινὸς δοκεῖ συμφύλαξ εἶναι — τοὺς μὲν οὖν φύλακας ἐκ τούτων ἄν τις ποιῶν ἴσως ὀρθῶς βουλεύοιτο ·
+perseus-eng2	 Formidable member of a guard — well, it may perhaps be a sound plan to draw on these men for his guards.
+
+cts:urn:tlg0032.tlg012:7.7
+glaux1.0-sentence	209
+perseus-grc2	 τοὺς δὲ περιττοὺς τῆς φυλακῆς εἰ μέν τις στρατιὰν ἔχειν ἡγήσεται , ὀλίγη αὐτῷ φανεῖται ·
+perseus-eng2	 But if he imagines that the number remaining over and above the guard constitutes an army, he will find it too small;
+
+cts:urn:tlg0032.tlg012:7.7
+glaux1.0-sentence	210
+perseus-grc2	 τοῦ παντὸς γὰρ ἐνδεήσεται ὥστε ἐκ τοῦ ἐμφανοῦς διακινδυνεύειν ·
+perseus-eng2	 for it will be utterly inadequate to risk a conflict in the open.
+
+cts:urn:tlg0032.tlg012:7.7
+glaux1.0-sentence	211
+perseus-grc2	 ἢν δὲ ὡς λῃσταῖς αὐτοῖς χρῆται , πάνυ ἂν ὡς τὸ εἰκὸς ἱκανὴν τοῦτο πράττειν ἔχοι δύναμιν .
+perseus-eng2	 Let him use these men as raiders, and he will probably have a force quite sufficient for this purpose.
+
+cts:urn:tlg0032.tlg012:7.8
+glaux1.0-sentence	212
+perseus-grc2	 δεῖ δέ , ὡς ἐμοὶ δοκεῖ , τούτους παρεσκευασμένους ἀεὶ ἔχοντα ὡς ποιεῖν τι μὴ καταφανῆ ὄντα φυλάττειν , ἤν τι ἁμαρτάνῃ τὸ τῶν πολεμίων στράτευμα .
+perseus-eng2	 His business, it seems to me, is to watch for any blunder on the enemy’s part without showing himself, keeping men constantly on the alert and ready to strike.
+
+cts:urn:tlg0032.tlg012:7.9
+glaux1.0-sentence	213
+perseus-grc2	 φιλοῦσι δέ πως στρατιῶται , ὅσῳ ἂν πλείους ὦσι , τοσούτῳ πλείω ἁμαρτάνειν .
+perseus-eng2	 It happens that, the greater is the number of soldiers, the more they are apt to blunder.
+
+cts:urn:tlg0032.tlg012:7.9
+glaux1.0-sentence	214
+perseus-grc2	 ἢ γὰρ ἐπὶ τὰ ἐπιτήδεια ἐπιμελείᾳ σκεδάννυνται ἢ πορευομένων ἀταξίᾳ οἱ μὲν προέρχονται , οἱ δ’ ὑπολείπονται πλέον τοῦ καιροῦ .
+perseus-eng2	 Either they scatter deliberately in search of provisions, or they are so careless of order on the march that some get too far ahead, while others lag too far behind.
+
+cts:urn:tlg0032.tlg012:7.10
+glaux1.0-sentence	215
+perseus-grc2	 τὰ οὖν τοιαῦτα ἁμαρτήματα οὐ χρὴ παριέναι ἀκόλαστα ( εἰ δὲ μή , ὅλη ἡ χώρα στρατόπεδον ἔσται ) ἐκεῖνο καλῶς προνοοῦντα , καὶ ποιήσαντά τι φθάσαι ἀποχωρήσαντα πρὶν τὸ πολὺ βοηθοῦν ἐπιγενέσθαι .
+perseus-eng2	 So he must not let such blunders go unpunished, or the whole country will be occupied; only he must take good care to retire the moment he has struck, without giving time for the main supports to arrive on the scene.
+
+cts:urn:tlg0032.tlg012:7.11
+glaux1.0-sentence	216
+perseus-grc2	 πολλάκις δὲ πορευόμενον στράτευμα καὶ εἰς ὁδοὺς ἔρχεται ἐν αἷς οὐδὲν πλέον οἱ πολλοὶ τῶν ὀλίγων δύνανται .
+perseus-eng2	 An army on the march often comes to roads where large numbers have no advantage over small.
+
+cts:urn:tlg0032.tlg012:7.11
+glaux1.0-sentence	217
+perseus-grc2	 καὶ ἐν διαβάσεσί γε ἔστι τῷ προσέχοντι τὸν νοῦν ἀσφαλῶς ἐφεπομένῳ ταμιεύσασθαι ὥστε ὁπόσοις ἂν βούληται τῶν πολεμίων ἐπιτίθεσθαι .
+perseus-eng2	 In crossing rivers, again, a man with his wits about him may dog the enemy’s steps without danger and regulate according to his will the number of the enemy that he chooses to attack.
+
+cts:urn:tlg0032.tlg012:7.12
+glaux1.0-sentence	218
+perseus-grc2	 ἔστι δ’ ὅτε καλὸν καὶ στρατοπεδευομένοις καὶ ἀριστῶσι καὶ δειπνοποιουμένοις ἐπιχειρεῖν , καὶ ἐκ κοίτης γε ἀνισταμένοις .
+perseus-eng2	 Sometimes it is proper to tackle the enemy while his troops are at breakfast or supper or when they are turning out of bed.
+
+cts:urn:tlg0032.tlg012:7.12
+glaux1.0-sentence	219
+perseus-grc2	 ἐν πᾶσι γὰρ τούτοις ἄοπλοι στρατιῶται γίγνονται , μείονα μὲν χρόνον οἱ ὁπλῖται , πλείονα δὲ οἱ ἱππεῖς .
+perseus-eng2	 For at all these moments soldiers are without arms, infantry for a shorter and cavalry for a longer time.
+
+cts:urn:tlg0032.tlg012:7.13
+glaux1.0-sentence	220
+perseus-grc2	 σκοποῖς μέντοι καὶ προφυλακαῖς οὐδέποτε δεῖ παύεσθαι ἐπιβουλεύοντα .
+perseus-eng2	 Pickets and outposts, however, should be the mark of incessant plots,
+
+cts:urn:tlg0032.tlg012:7.13
+glaux1.0-sentence	221
+perseus-grc2	 οὗτοι γὰρ αὖ ὀλίγοι μὲν ἀεὶ καθίστανται , πολὺ δὲ τοῦ ἰσχυροῦ ἐνίοτε ἀποστατοῦσιν .
+perseus-eng2	 These being invariably weak in numbers and sometimes remote from their main force.
+
+cts:urn:tlg0032.tlg012:7.14
+glaux1.0-sentence	222
+perseus-grc2	 ὅταν δὲ τὰ τοιαῦτα ἤδη καλῶς φυλάττωνται οἱ πολέμιοι , καλόν ἐστι σὺν θεῷ λαθόντα ἐλθεῖν εἰς τὴν πολεμίαν μεμελετηκότα ὡς G? πόσοι τε ἑκασταχοῦ καὶ ποῦ τῆς χώρας προφυλάττουσιν .
+perseus-eng2	 But when the enemy has learned to take due precautions against such attacks, it is proper, with God’s help, to enter his country stealthily after ascertaining his strength at various points and the position of his outposts.
+
+cts:urn:tlg0032.tlg012:7.14
+glaux1.0-sentence	223
+perseus-grc2	 οὐδεμία γὰρ οὕτω καλὴ λεία ὡς αἱ φυλακαί , ἢν κρατηθῶσι .
+perseus-eng2	 For no booty that you can capture is so fine as a patrol.
+
+cts:urn:tlg0032.tlg012:7.15
+glaux1.0-sentence	224
+perseus-grc2	 καὶ εὐεξαπάτητοι δ’ εἰσὶν οἱ φύλακες ·
+perseus-eng2	 Besides, patrols are easily deceived,
+
+cts:urn:tlg0032.tlg012:7.15
+glaux1.0-sentence	225
+perseus-grc2	 διώκουσι γὰρ ὅ τι ἂν ὀλίγον ἴδωσι , νομίζοντες σφίσι τοῦτο προστετάχθαι .
+perseus-eng2	 for they pursue a handful of men at sight, believing that to be their special duty.
+
+cts:urn:tlg0032.tlg012:7.15
+glaux1.0-sentence	226
+perseus-grc2	 τὰς μέντοι ἀποχωρήσεις σκοπεῖν δεῖ ὅπως μὴ ἐναντίαι τοῖς βοηθοῦσιν ἔσονται .
+perseus-eng2	 You must see, however, that your line of retreat does not lead you straight into the enemy’s supports.
+
+cts:urn:tlg0032.tlg012:8.1
+glaux1.0-sentence	227
+perseus-grc2	 τοὺς μέντοι μέλλοντας δυνήσεσθαι ἀσφαλῶς τὸ πολὺ κρεῖττον στράτευμα κακουργεῖν σαφῶς δεῖ τοσοῦτον διαφέρειν ὥστε αὐτοὺς μὲν ἀσκητὰς φαίνεσθαι τῶν πολεμικῶν ἐν ἱππικῇ ἔργων , τοὺς δὲ πολεμίους ἰδιώτας .
+perseus-eng2	 It is clear, however, that no troops will be able to inflict loss on a much stronger army with impunity, unless they are so superior in the practical application of horsemanship to war that they show like experts contending with amateurs.
+
+cts:urn:tlg0032.tlg012:8.2
+glaux1.0-sentence	228
+perseus-grc2	 τοῦτο δ’ ἂν εἴη πρῶτον μὲν εἰ οἱ λῄζεσθαι μέλλοντες ἐκπεπονημένοι εἶεν τῇ ἐλάσει , ὥστε δύνασθαι στρατιωτικοὺς πόνους ὑποφέρειν ·
+perseus-eng2	 This superiority can be attained first and foremost if your marauding bands are so thoroughly drilled in riding that they can stand the hard work of a campaign.
+
+cts:urn:tlg0032.tlg012:8.2
+glaux1.0-sentence	229
+perseus-grc2	 οἱ γὰρ πρὸς ταῦτα ἀμελῶς ἔχοντες καὶ ἵπποι καὶ ἄνδρες εἰκότως ἂν ὥσπερ γυναῖκες πρὸς ἄνδρας ἀγωνίζοιντο .
+perseus-eng2	 For both horses and men that are carelessly trained in this respect will naturally be like women struggling with men.
+
+cts:urn:tlg0032.tlg012:8.3
+glaux1.0-sentence	230
+perseus-grc2	 οἱ δέ γε δεδιδαγμένοι τε καὶ εἰθισμένοι τάφρους διαπηδᾶν καὶ τειχία ὑπεραίρειν καὶ ἐπ’ ὄχθους ἀνάλλεσθαι καὶ ἀφ’ ὑψηλῶν ἀσφαλῶς κατιέναι καὶ τὰ κατάντη ταχὺ ἐλαύνεσθαι , οὗτοι δ’ αὖ τοσοῦτον διαφέροιεν ἂν τῶν ἀμελετήτων ταῦτα ὅσονπερ πτηνοὶ πεζῶν ·
+perseus-eng2	 On the contrary, those that are taught and accustomed to jump ditches, leap walls, spring up banks, leap down from heights without a spill, and gallop down steep places, will be as superior to the men and horses that lack this training as birds to beasts.
+
+cts:urn:tlg0032.tlg012:8.3
+glaux1.0-sentence	231
+perseus-grc2	 οἱ δέ γε αὖ τοὺς πόδας ἐκπεπονημένοι τῶν ἀτριβῶν πρὸς τραχέα ὅσονπερ ὑγιεῖς χωλῶν ·
+perseus-eng2	 Moreover, those that have their feet well hardened will differ on rough ground from the tender-footed as widely as the sound from the lame.
+
+cts:urn:tlg0032.tlg012:8.3
+glaux1.0-sentence	232
+perseus-grc2	 καὶ οἵ γε τῶν τόπων ἔμπειροι πρὸς τοὺς ἀπείρους τοσοῦτον ἐν ταῖς προελάσεσι καὶ ἀποχωρήσεσι διαφέροιεν ἂν ὅσονπερ οἱ ὁρῶντες τῶν τυφλῶν .
+perseus-eng2	 And those that are familiar with the locality, compared with those to whom it is unfamiliar, will differ in the advance and retreat as much as men with eyes differ from the blind.
+
+cts:urn:tlg0032.tlg012:8.4
+glaux1.0-sentence	233
+perseus-grc2	 καὶ τοῦτο δὲ χρὴ εἰδέναι , ὅτι οἱ εὐωχούμενοι μὲν οἱ ἵπποι , μὴ ἐκπεπονημένοι δὲ ὥστε μὴ ἀποπνίγεσθαι ἐν τοῖς πόνοις , εὖ παρεσκευασμένοι εἰσί .
+perseus-eng2	 It should also be realised that horses, to be well fettled, must be well fed and thoroughly exercised, so as to do their work without suffering from heaves.
+
+cts:urn:tlg0032.tlg012:8.4
+glaux1.0-sentence	234
+perseus-grc2	 χρὴ δέ , ἐπείπερ χαλινοὶ καὶ ἐφίππια ἐξ ἱμάντων ἠρτημένα ἐστί χρήσιμα , μήποτε τὸν ἵππαρχον τούτων ἔρημον εἶναι ·
+perseus-eng2	 And since bits and saddle-cloths are fastened with straps, a cavalry leader must never be short of them,
+
+cts:urn:tlg0032.tlg012:8.4
+glaux1.0-sentence	235
+perseus-grc2	 μικρᾷ γὰρ δαπάνῃ τοὺς ἀποροῦντας χρησίμους ἂν παρέχοιτο .
+perseus-eng2	 for at a trifling expense he will make men in difficulties efficient.
+
+cts:urn:tlg0032.tlg012:8.5
+glaux1.0-sentence	236
+perseus-grc2	 εἰ δέ τις νομίζοι πολλὰ ἔχειν ἂν πράγματα , εἰ οὕτω δεήσει ἀσκεῖν τὴν ἱππικήν , ἐνθυμηθήτω ὅτι οἱ εἰς τοὺς γυμνικοὺς ἀγῶνας ἀσκοῦντες πολὺ πλείω πράγματα καὶ χαλεπώτερα ἔχουσιν ἢ οἱ τὴν ἱππικὴν τὰ μάλιστα μελετῶντες .
+perseus-eng2	 In case anyone feels that his troubles will be endless if his duty requires him to practise horsemanship in this way, let him reflect that men in training for gymnastic contests face troubles far more numerous and exacting than the most strenuous votaries of horsemanship.
+
+cts:urn:tlg0032.tlg012:8.6
+glaux1.0-sentence	237
+perseus-grc2	 καὶ γὰρ τῶν μὲν γυμνικῶν ἀσκημάτων τὰ πολλὰ σὺν ἱδρῶτι ἐκπονοῦνται , τῆς δὲ ἱππικῆς τὰ πλεῖστα μεθ’ ἡδονῆς .
+perseus-eng2	 For most gymnastic exercises are carried out with sweat and drudgery, but nearly all equestrian exercises are pleasant work.
+
+cts:urn:tlg0032.tlg012:8.6
+glaux1.0-sentence	238
+perseus-grc2	 ὅπερ γὰρ εὔξαιτ’ ἄν τις πτηνὸς γενέσθαι , οὐκ ἔστιν ὅ τι μᾶλλον τῶν ἀνθρωπίνων ἔργων ἔοικεν αὐτῷ .
+perseus-eng2	 For if it is true that any man would like to fly, no action of man bears a closer resemblance to flying.
+
+cts:urn:tlg0032.tlg012:8.7
+glaux1.0-sentence	239
+perseus-grc2	 καὶ μὴν τό γ’ ἐν πολέμῳ νικᾶν πολλῷ ἐνδοξότερον ἢ πυγμῇ ·
+perseus-eng2	 And, remember, it is far more glorious to win a victory in war than in a boxing match,
+
+cts:urn:tlg0032.tlg012:8.7
+glaux1.0-sentence	240
+perseus-grc2	 μετέχει μὲν γάρ τι καὶ ἡ πόλις ταύτης τῆς δόξης ·
+perseus-eng2	 because, whereas the state as well as the victor has a considerable share in this glory,
+
+cts:urn:tlg0032.tlg012:8.7
+glaux1.0-sentence	241
+perseus-grc2	 ὡς δὲ τὰ πολλὰ ἐπὶ τῇ τοῦ πολέμου νίκῃ καὶ εὐδαιμονίᾳ οἱ θεοὶ τὰς πόλεις στεφανοῦσιν , ὥστ’ οὐκ οἶδ’ ἔγωγε τί προσήκει ἄλλ’ ἄττα μᾶλλον ἀσκεῖσθαι ἢ τὰ πολεμικά .
+perseus-eng2	 for a victory in war the gods generally crown states with happiness as well.
+
+cts:urn:tlg0032.tlg012:8.8
+glaux1.0-sentence	242
+perseus-grc2	 ἐννοεῖν δὲ χρὴ ὅτι καὶ οἱ κατὰ θάλατταν λῃσταὶ διὰ τὸ πονεῖν ἠσκηκέναι δύνανται ζῆν καὶ ἀπὸ τῶν πολὺ κρειττόνων .
+perseus-eng2	 It should be noticed that a long apprenticeship to toil enables sea-pirates to live at the expense of much stronger folk.
+
+cts:urn:tlg0032.tlg012:8.8
+glaux1.0-sentence	243
+perseus-grc2	 προσήκει γε μὴν καὶ κατὰ γῆν οὐ τοῖς καρπουμένοις τὰ ἑαυτῶν ἀλλὰ τοῖς στερισκομένοις τῆς τροφῆς λῄζεσθαι ·
+perseus-eng2	 On land, too, pillage, though not for those who reap what they have sown, is the natural resource of men who are deprived of food.
+
+cts:urn:tlg0032.tlg012:8.8
+glaux1.0-sentence	244
+perseus-grc2	 ἢ γὰρ ἐργαστέον ἢ ἀπὸ τῶν εἰργασμένων θρεπτέον ·
+perseus-eng2	 For either men must work or they must eat the fruits of other men’s labour:
+
+cts:urn:tlg0032.tlg012:8.8
+glaux1.0-sentence	245
+perseus-grc2	 ἄλλως δ’ οὐ ῥᾴδιον οὔτε βιοτεύειν οὔτε εἰρήνης τυχεῖν .
+perseus-eng2	 else it is a problem how to live and to obtain peace.
+
+cts:urn:tlg0032.tlg012:8.9
+glaux1.0-sentence	246
+perseus-grc2	 μεμνῆσθαι δὲ κ- ἐκεῖνο χρή , μήποτε ἐπὶ τοὺς κρείττους ἐλαύνειν ὄπισθεν ἵπποις δύσβατα ποιούμενον ·
+perseus-eng2	 If you charge a superior force, you must remember never to leave behind you ground difficult for horses.
+
+cts:urn:tlg0032.tlg012:8.9
+glaux1.0-sentence	247
+perseus-grc2	 οὐ γὰρ ὅμοιον φεύγοντι καὶ διώκοντι σφαλῆναι .
+perseus-eng2	 For a fall in retreat and a fall in pursuit are very different things.
+
+cts:urn:tlg0032.tlg012:8.10
+glaux1.0-sentence	248
+perseus-grc2	 ἔτι δὲ βούλομαι ὑπομνῆσαι καὶ τόδε φυλάττεσθαι .
+perseus-eng2	 I want to add a word of warning against another error.
+
+cts:urn:tlg0032.tlg012:8.10
+glaux1.0-sentence	249
+perseus-grc2	 εἰσὶ γάρ τινες οἵ , ὅταν μὲν ἴωσιν ἐπὶ τούτους ὧν ἂν οἴωνται κρείττους εἶναι , παντάπασιν ἀσθενεῖ δυνάμει ἔρχονται , ὥστε πολλάκις ἔπαθον ἃ ᾤοντο ποιήσειν ·
+perseus-eng2	 Some men, when they suppose themselves to be stronger than the enemy whom they are going to attack, take an utterly inadequate force with them.
+
+cts:urn:tlg0032.tlg012:8.10
+glaux1.0-sentence	250
+perseus-grc2	 ὅταν δ’ ἐπὶ τούτους ὧν ἂν σαφῶς ἐπίστωνται ἥττους ὄντες , πᾶσαν ὅσην ἂν ἔχωσι δύναμιν ἄγουσιν .
+perseus-eng2	 The consequence is that they are apt to incur the loss they expected to inflict. Or, when they know themselves to be weaker than the enemy, they use all their available strength in the attack.
+
+cts:urn:tlg0032.tlg012:8.11
+glaux1.0-sentence	251
+perseus-grc2	 ἐγὼ δέ φημι χρῆναι τ- ἐναντία τούτων ποιεῖν ·
+perseus-eng2	 The right procedure, in my opinion, is just the opposite:
+
+cts:urn:tlg0032.tlg012:8.11
+glaux1.0-sentence	252
+perseus-grc2	 ὅταν μὲν κρατήσειν οἰόμενος ἄγῃ , μὴ φείδεσθαι τῆς δυνάμεως ὅσην ἂν ἔχῃ ·
+perseus-eng2	 when the commander expects to win, he should not hesitate to use the whole of his strength.
+
+cts:urn:tlg0032.tlg012:8.11
+glaux1.0-sentence	253
+perseus-grc2	 τὸ γὰρ πολὺ νικᾶν οὐδενὶ πώποτε μεταμέλειαν παρέσχεν ·
+perseus-eng2	 For an overwhelming victory never yet was followed by remorse.
+
+cts:urn:tlg0032.tlg012:8.12
+glaux1.0-sentence	254
+perseus-grc2	 ὅταν δὲ τοῖς πολὺ κρείττοσιν ἐπιχειρῇ καὶ προγιγνώσκῃ ὅτι ποιήσαντα ὅ τι ἂν δύνηται φευκτέον ἐστίν , εἰς τὰ τοιαῦτά φημι πολὺ κρεῖττον εἶναι ὀλίγους ἢ πάντας προσάγειν , τοὺς μέντοι ἀπειλεγμένους καὶ ἵππους καὶ ἄνδρας τοὺς κρατίστους .
+perseus-eng2	 But when he tries conclusions with a much stronger force, knowing beforehand that he is bound to retreat when he has done his best, I hold that it is far better in such a case to throw a small part of his strength into the attack than the whole of it.
+
+cts:urn:tlg0032.tlg012:8.12
+glaux1.0-sentence	255
+perseus-grc2	 τοιοῦτοι γὰρ ὄντες καὶ ποιῆσαι ἄν τι καὶ ἀποχωρῆσαι ἀσφαλέστερον ἂν δύναιντο .
+perseus-eng2	 Only horses and men alike should be his very best. For such a force will be able to achieve something and to retreat with less risk.
+
+cts:urn:tlg0032.tlg012:8.13
+glaux1.0-sentence	256
+perseus-grc2	 ὅταν δὲ πρὸς τοὺς κρείττους πάντας προσαγαγὼν ἀποχωρεῖν βούληται , ἀνάγκη τοὺς μὲν ἐπὶ τῶν βραδυτάτων ἵππων ἁλίσκεσθαι , τοὺς δὲ καὶ δι’ ἀφιππίαν πίπτειν , τοὺς δὲ διὰ δυσχωρίας ἀπολαμβάνεσθαι ·
+perseus-eng2	 But when he has thrown the whole of his strength into an attack on a stronger force, and wants to retire, the men on the slowest mounts are bound to be taken prisoners; others to be thrown through lack of horsemanship; and others to be cut off owing to inequalities in the ground,
+
+cts:urn:tlg0032.tlg012:8.13
+glaux1.0-sentence	257
+perseus-grc2	 καὶ γὰρ πολὺν τόπον χαλεπὸν εὑρεῖν οἷον ἄν τις εὔξαιτο .
+perseus-eng2	 Since it is hard to find a wide expanse of country entirely to your liking.
+
+cts:urn:tlg0032.tlg012:8.14
+glaux1.0-sentence	258
+perseus-grc2	 ὑπό γε μὴν τοῦ πλήθους καὶ συμπίπτοιεν ἂν καὶ ἐμποδίζοντες πολλὰ ἂν ἀλλήλους κακουργοῖεν .
+perseus-eng2	 Moreover, owing to their numbers they will collide and hinder and hurt one another frequently.
+
+cts:urn:tlg0032.tlg012:8.14
+glaux1.0-sentence	259
+perseus-grc2	 οἱ δ’ ἀγαθοὶ ἵπποι καὶ ἱππεῖς δυνατοὶ καὶ ἐξ αὐτῶν διαφεύγειν ἄλλως τε ἂν καὶ μηχανᾶταί τις τοῖς διώκουσι φόβον ἀπὸ τῶν περιττῶν ἱππέων .
+perseus-eng2	 But good horses and men will contrive to escape, especially if you manage to scare the pursuers by using your reserves.
+
+cts:urn:tlg0032.tlg012:8.15
+glaux1.0-sentence	260
+perseus-grc2	 σύμφορον δ’ εἰς τοῦτο καὶ αἱ ψευδενέδραι ·
+perseus-eng2	 Sham ambuscades, too, are helpful for this purpose.
+
+cts:urn:tlg0032.tlg012:8.15
+glaux1.0-sentence	261
+perseus-grc2	 χρήσιμον δὲ κ- ἐκεῖνο , τὸ εὑρίσκειν πόθεν ἂν οἱ φίλοι ἐξ ἀσφαλοῦς ἐπιφαινόμενοι βραδυτέρους τοὺς διώκοντας παρέχοιεν .
+perseus-eng2	 It is also useful to discover on what quarter your friends may suddenly reveal themselves in a safe position and make the pursuit slower.
+
+cts:urn:tlg0032.tlg012:8.16
+glaux1.0-sentence	262
+perseus-grc2	 ἀλλὰ μὴν καὶ τόδε δῆλον , ὡς πόνοις καὶ τάχει οἱ ὀλίγοι τῶν πολλῶν πολὺ μᾶλλον ἢ οἱ πολλοὶ τῶν ὀλίγων περιγίγνοιντ’ ἄν .
+perseus-eng2	 Then again it is obvious that in point of endurance and speed the advantage is much more likely to rest with a small than with a large force.
+
+cts:urn:tlg0032.tlg012:8.16
+glaux1.0-sentence	263
+perseus-grc2	 καὶ οὐ λέγω ὡς διὰ τὸ ὀλίγοι εἶναι καὶ πονεῖν μᾶλλον δυνήσονται καὶ θάττους ἔσονται , ἀλλ’ ὅτι ῥᾷον εὑρεῖν ὀλίγους ἢ πολλοὺς τοὺς καὶ τῶν ἵππων ἐπιμελησομένους ὡς δεῖ καὶ αὐτοὺς φρονίμως μελετήσοντας τὴν ἱππικήν .
+perseus-eng2	 I do not mean that mere paucity of numbers will increase the men’s powers of endurance and add to their speed; but it is easier to find few men than many who will take proper care of their horses and will practise the art of horsemanship intelligently on their own account.
+
+cts:urn:tlg0032.tlg012:8.17
+glaux1.0-sentence	264
+perseus-grc2	 ἢν δέ ποτε συμβαίνῃ ἀγωνίζεσθαι πρὸς παραπλησίους ἱππέας , ἐγὼ μὲν οἶμαι οὐκ ἂν χεῖρον εἶναι εἴ τις δύο τάξεις ἐκ τῆς φυλῆς ποιήσειεν , καὶ τῆς μὲν ὁ φύλαρχος ἡγοῖτο , τῆς δὲ ἄλλης ὅστις ἄριστος δοκοίη εἶναι , οὗτος δὲ τέως μὲν ἕποιτο κατ’ οὐρὰν τῆς μετὰ τοῦ φυλάρχου τάξεως , ἐπεὶ δ’ ἐγγὺς ἤδη εἶεν οἱ ἀντίπαλοι , ἀπὸ παραγγέλσεως παρελαύνοι ἐπὶ τοὺς πολεμίους .
+perseus-eng2	 Should it happen at any time that the cavalry forces engaged are about equal, I think it would be a good plan to split each regiment into two divisions, putting one under the command of the colonel, and the other under the best man available.
+
+cts:urn:tlg0032.tlg012:8.18
+glaux1.0-sentence	265
+perseus-grc2	 οὕτω γὰρ οἶμαι καὶ ἐκπληκτικωτέρους τοῖς ἐχθροῖς ἂν εἶναι καὶ δυσμαχωτέρους .
+perseus-eng2	 The latter would follow in the rear of the colonel’s division for a time; but presently, when the adversary is near, he would wheel on receiving the order and charge. This plan, I think, would make the blow delivered by the regiment more stunning and more difficult to parry.
+
+cts:urn:tlg0032.tlg012:8.19
+glaux1.0-sentence	266
+perseus-grc2	 εἰ δὲ καὶ πεζοὺς ἔχοιεν ἑκάτεροι , καὶ οὗτοι ἀποκεκρυμμένοι ὄπισθεν τῶν ἱππέων , ἐξαπίνης δὲ παραφαινόμενοι καὶ ὁμόσε ἰόντες δοκοῦσιν ἄν μοι τὴν νίκην πολὺ μᾶλλον κατεργάζεσθαι .
+perseus-eng2	 Both divisions should have an infantry contingent; and if the infantry, hidden away behind the cavalry, came out suddenly and went for the enemy, I think they would prove an important factor in making the victory more decisive.
+
+cts:urn:tlg0032.tlg012:8.19
+glaux1.0-sentence	267
+perseus-grc2	 ὁρῶ γὰρ τὰ παράδοξα ἢν μὲν ἀγαθὰ ᾖ , μᾶλλον εὐφραίνοντα τοὺς ἀνθρώπους , ἢν δὲ δεινά , μᾶλλον ἐκπλήττοντα .
+perseus-eng2	 For I have noticed that a surprise cheers men up if it is pleasant, but stuns them if it is alarming.
+
+cts:urn:tlg0032.tlg012:8.20
+glaux1.0-sentence	268
+perseus-grc2	 ταῦτα δὲ γνοίη ἄν τις μάλιστα ἐνθυμούμενος ὡς οἵ τε ἐνέδραις ἐμπίπτοντες ἐκπλήττονται , καὶ ἐὰν πολὺ πλείους ὦσι , καὶ ὅταν πολέμιοι ἀλλήλοις ἀντικάθωνται , ὡς πολὺ ταῖς πρώταις ἡμέραις φοβερώτατα ἔχουσιν .
+perseus-eng2	 Anyone will recognise the truth of this who reflects that, however great their advantage in numbers, men are dazed when they fall into an ambuscade, and that two hostile armies confronting each other are scared out of their wits for the first few days.
+
+cts:urn:tlg0032.tlg012:8.21
+glaux1.0-sentence	269
+perseus-grc2	 ἀλλὰ τὸ μὲν διατάξαι ταῦτα οὐ χαλεπόν ·
+perseus-eng2	 There is no difficulty in adopting these tactics.
+
+cts:urn:tlg0032.tlg012:8.21
+glaux1.0-sentence	270
+perseus-grc2	 τὸ δ’ εὑρεῖν τοὺς φρονίμως καὶ πιστῶς καὶ προθύμως καὶ εὐψύχως παρελῶντας ἐπὶ τοὺς πολεμίους , τοῦτο ἤδη ἀγαθοῦ ἱππάρχου .
+perseus-eng2	 But only a good cavalry commander can find men who will show intelligence, reliability and courage in wheeling to charge the enemy.
+
+cts:urn:tlg0032.tlg012:8.22
+glaux1.0-sentence	271
+perseus-grc2	 δεῖ γὰρ καὶ λέγειν αὐτὸν ἱκανὸν εἶναι καὶ ποιεῖν τοιαῦτα ἀφ’ ὧν οἱ ἀρχόμενοι γνώσονται ἀγαθὸν εἶναι τό τε πείθεσθαι καὶ τὸ ἕπεσθαι καὶ τὸ ὁμόσε ἐλαύνειν τοῖς πολεμίοις καὶ ἐπιθυμήσουσι τοῦ καλόν τι ἀκούειν καὶ δυνήσονται ἃ ἂν γνῶσιν ἐγκαρτερεῖν .
+perseus-eng2	 For the commander must be capable both by his words and action of making the men under him realize that it is good to obey, to back up their leader, and to charge home; of firing them with a desire to win commendation; and of enabling them to carry out their intentions with persistence.
+
+cts:urn:tlg0032.tlg012:8.23
+glaux1.0-sentence	272
+perseus-grc2	 ἐὰν δέ ποτε αὖ ἢ φαλάγγων ἀντιτεταγμένων ἢ χωρίων ἑκατέροις ὑπαρχόντων ἐν τῷ μέσῳ τοῖς ἱππεῦσιν ἀναστροφαί τε καὶ διώξεις καὶ ἀποχωρήσεις γίγνωνται , εἰώθασι μὲν ὡς τὰ πολλὰ ἐκ τῶν τοιούτων ὁρμᾶν μὲν ἐκ τῶν ἀναστροφῶν βραδέως ἀμφότεροι , τὸ δ’ ἐν μέσῳ τάχιστα ἐλαύνειν .
+perseus-eng2	 Suppose now that the cavalry are busy in the no-man’s-land that separates two battle lines drawn up face to face or two strategic positions, wheeling, pursuing and retreating. After such manoeuvres both sides usually start off at a slow pace, but gallop at full speed in the unoccupied ground.
+
+cts:urn:tlg0032.tlg012:8.24
+glaux1.0-sentence	273
+perseus-grc2	 ἢν δέ τις οὕτω προδείξας ἔπειτα δ’ ἐκ τῶν ἀναστροφῶν ταχέως τε διώκῃ καὶ ταχέως ἀποχωρῇ , βλάπτειν τ’ ἂν μάλιστα τοὺς πολεμίους δύναιτο καὶ ὡς τὸ εἰκὸς ἀσφαλέστατ’ ἂν διάγοι , ταχὺ μὲν διώκων ἐν ᾧ ἂν ἐγγὺς ᾖ τοῦ ἑαυτοῦ ἰσχυροῦ , ταχὺ δὲ ἀποχωρῶν ἀπὸ τῶν τοῖς πολεμίοις ἰσχυρῶν .
+perseus-eng2	 But if a commander first feints in this manner, and then after wheeling, pursues and retreats at the gallop he will be able to inflict the greatest loss on the enemy, and will probably come through with the least harm, by pursuing at the gallop so long as he is near his own defence, and retreating at the gallop from the enemy’s defences.
+
+cts:urn:tlg0032.tlg012:8.25
+glaux1.0-sentence	274
+perseus-grc2	 εἰ δὲ καὶ λαθεῖν δύναιτο ἀπὸ τῆς τάξεως ἑκάστης καταλιπὼν ἢ τέτταρας ἢ πέντε τῶν κρατίστων ἵππων τε καὶ ἀνδρῶν , πολὺ ἂν προέχοιεν εἰς τὸ ἐπαναστρεφομένοις τοῖς πολεμίοις ἐμπίπτειν .
+perseus-eng2	 If, moreover, he can secretly leave behind him four or five of the best horses and men in each division, they will be at a great advantage in falling on the enemy as he is turning to renew the charge.
+
+cts:urn:tlg0032.tlg012:9.1
+glaux1.0-sentence	275
+perseus-grc2	 ταῦτα δὲ ἀναγιγνώσκειν μὲν καὶ ὀλιγάκις ἀρκεῖ , ἐννοεῖν δὲ τὸ παρατυγχάνον αὐτῷ ἀεὶ δεῖ , καὶ πρὸς τὸ παριστάμενον σκοποῦντα τὸ συμφέρον ἐκπονεῖν .
+perseus-eng2	 To read these suggestions a few times is enough.
+
+cts:urn:tlg0032.tlg012:9.1
+glaux1.0-sentence	276
+perseus-grc2	 γράψαι δὲ πάντα ὁπόσα δεῖ ποιεῖν οὐδὲν μᾶλλον οἷόν τέ ἐστιν ἢ τὰ μέλλοντα πάντα εἰδέναι .
+perseus-eng2	 But it is always necessary for the commander to hit on the right thing at the right moment, to think of the present situation and to carry out what is expedient in view of it. To write out all that he ought to do is no more possible than to know everything that is going to happen.
+
+cts:urn:tlg0032.tlg012:9.2
+glaux1.0-sentence	277
+perseus-grc2	 πάντων δὲ τῶν ὑπομνημάτων ἔμοιγε δοκεῖ κράτιστον εἶναι τὸ ὅσα ἂν γνῷ ἀγαθὰ εἶναι ἐπιμελεῖσθαι ὡς ἂν πραχθῇ .
+perseus-eng2	 The most important of all my hints, I think, is this: Whatever you decide to be best, see that it gets done.
+
+cts:urn:tlg0032.tlg012:9.2
+glaux1.0-sentence	278
+perseus-grc2	 ὀρθῶς δὲ γιγνωσκόμενα οὐ φέρει καρπὸν οὔτ’ ἐν γεωργίᾳ οὔτ’ ἐν ναυκληρίᾳ οὔτ’ ἐν ἀρχῇ , ἢν μή τις ἐπιμέληται ὡς ἂν ταῦτα σὺν τοῖς θεοῖς ἐκπεραίνηται .
+perseus-eng2	 Whether you are a farmer, a skipper or a commander, sound decisions bear no fruit unless you see to it that, with heaven’s help, they are duly carried out.
+
+cts:urn:tlg0032.tlg012:9.3
+glaux1.0-sentence	279
+perseus-grc2	 φημὶ δ’ ἐγὼ ταῦτα καὶ τὸ πᾶν ἱππικὸν ὧδ’ ἂν πολὺ θᾶττον ἐκπληρωθῆναι εἰς τοὺς χιλίους ἱππεῖς καὶ πολὺ ῥᾷον τοῖς πολίταις , εἰ διακοσίους ἱππέας ξένους καταστήσαιντο ·
+perseus-eng2	 Further, I am of opinion that the full complement of a thousand cavalry would be raised much more quickly and in a manner much less burdensome to the citizens if they established a force of two hundred foreign cavalry.
+
+cts:urn:tlg0032.tlg012:9.3
+glaux1.0-sentence	280
+perseus-grc2	 δοκοῦσι γὰρ ἄν μοι οὗτοι προσγενόμενοι καὶ εὐπειστότερον ἂν πᾶν τὸ ἱππικὸν ποιῆσαι καὶ φιλοτιμότερον πρὸς ἀλλήλους περὶ ἀνδραγαθίας .
+perseus-eng2	 For I believe that the presence of these men would improve the discipline of the whole force and would foster rivalry in the display of efficiency.
+
+cts:urn:tlg0032.tlg012:9.4
+glaux1.0-sentence	281
+perseus-grc2	 οἶδα δ’ ἔγωγε καὶ Λακεδαιμονίοις ἱππικὸν ἀρξάμενον εὐδοκιμεῖν , ἐπεὶ ξένους ἱππέας προσέλαβον .
+perseus-eng2	 I know that the fame of the Lacedaemonian horse dates from the introduction of foreign cavalry.
+
+cts:urn:tlg0032.tlg012:9.4
+glaux1.0-sentence	282
+perseus-grc2	 καὶ ἐν ταῖς ἄλλαις δὲ πόλεσι πανταχοῦ τὰ ξενικὰ ὁρῶ εὐδοκιμοῦντα ·
+perseus-eng2	 And in the other states everywhere I notice that the foreign contingents enjoy a high reputation;
+
+cts:urn:tlg0032.tlg012:9.4
+glaux1.0-sentence	283
+perseus-grc2	 ἡ γὰρ χρεία μεγάλην προθυμίαν συμβάλλεται .
+perseus-eng2	 For need helps to produce great eagerness.
+
+cts:urn:tlg0032.tlg012:9.5
+glaux1.0-sentence	284
+perseus-grc2	 εἰς δὲ τιμὴν τῶν ἵππων νομίζω ἂν αὐτοῖς χρήματα ὑπάρξαι καὶ παρὰ τῶν σφόδρα ἀπεχομένων μὴ ἱππεύειν , ὅτι καὶ οἷς καθίστησι τὸ ἱππικὸν ἐθέλουσι τελεῖν ἀργύριον ὡς μὴ ἱππεύειν , καὶ παρὰ πλουσίων μέν , ἀδυνάτων δὲ τοῖς σώμασιν , οἴομαι δὲ καὶ παρ’ ὀρφανῶν τῶν δυνατοὺς οἴκους ἐχόντων .
+perseus-eng2	 To defray the cost of their horses, I believe that money would be forthcoming from those who strongly object to serve in the cavalry — since even men actually enrolled are willing to pay in order to get out of the service — from rich men who are physically unfit, and also, I think, from orphans possessed of large estates.
+
+cts:urn:tlg0032.tlg012:9.6
+glaux1.0-sentence	285
+perseus-grc2	 νομίζω δὲ καὶ μετοίκων φιλοτιμεῖσθαι ἄν τινας εἰς ἱππικὸν καθισταμένους ·
+perseus-eng2	 I believe also that some of the resident aliens would be proud to be enrolled in the cavalry.
+
+cts:urn:tlg0032.tlg012:9.6
+glaux1.0-sentence	286
+perseus-grc2	 ὁρῶ γὰρ καὶ τῶν ἄλλων ὁπόσων ἂν καλῶν ὄντων μεταδιδῶσιν αὐτοῖς οἱ πολῖται , φιλοτίμως ἐνίους ἐθέλοντας τὸ προσταχθὲν διαπράττεσθαι .
+perseus-eng2	 For I notice that, whenever the citizens give them a share in any other honourable duty, some are willing enough to take pride in doing the part assigned to them.
+
+cts:urn:tlg0032.tlg012:9.7
+glaux1.0-sentence	287
+perseus-grc2	 δοκεῖ δ’ ἄν μοι καὶ πεζὸν σὺν τοῖς ἵπποις ἐνεργότατον εἶναι , εἰ συσταθείη ἐξ ἀνδρῶν τῶν ἐναντιωτάτων τοῖς πολεμίοις .
+perseus-eng2	 I fancy, too, that infantry attached to the cavalry will be most effective if it consists of persons who are very bitter against the enemy.  All these things are feasible provided the gods give their consent.
+
+cts:urn:tlg0032.tlg012:9.8
+glaux1.0-sentence	288
+perseus-grc2	 ταῦτα δὲ πάντα θεῶν συνεθελόντων γένοιτ’ ἄν .
+perseus-eng2	 If anyone is surprised at my frequent repetition of the exhortation to work with God, I can assure him that his surprise will diminish, if he is often in peril,
+
+cts:urn:tlg0032.tlg012:9.8
+glaux1.0-sentence	289
+perseus-grc2	 εἰ δέ τις τοῦτο θαυμάζει , ὅτι πολλάκις γέγραπται τὸ σὺν θεῷ πράττειν , εὖ ἴστω ὅτι ἢν πολλάκις κινδυνεύῃ , ἧττον τοῦτο θαυμάσεται , καὶ ἤν γε κατανοῇ ὅτι , ὅταν πόλεμος ᾖ , ἐπιβουλεύουσι μὲν ἀλλήλοις οἱ ἐναντίοι , ὀλιγάκις δὲ ἴσασι πῶς ἔχει τὰ ἐπιβουλευόμενα .
+perseus-eng2	 And if he considers that in time of war foemen plot and counterplot, but seldom know what will come of their plots.
+
+cts:urn:tlg0032.tlg012:9.9
+glaux1.0-sentence	290
+perseus-grc2	 τὰ οὖν τοιαῦτα οὐδ’ ὅτῳ συμβουλεύσεταί τις οἷόν τε εὑρεῖν πλὴν θεῶν ·
+perseus-eng2	 Therefore there is none other that can give counsel in such a case but the gods.
+
+cts:urn:tlg0032.tlg012:9.9
+glaux1.0-sentence	291
+perseus-grc2	 οὗτοι δὲ πάντα ἴσασι καὶ προσημαίνουσιν ᾧ ἂν ἐθέλωσι καὶ ἐν ἱεροῖς καὶ ἐν οἰωνοῖς καὶ ἐν φήμαις καὶ ἐν ὀνείρασιν .
+perseus-eng2	 They know all things, and warn whomsoever they will in sacrifices, in omens, in voices, and in dreams.
+
+cts:urn:tlg0032.tlg012:9.9
+glaux1.0-sentence	292
+perseus-grc2	 εἰκὸς δὲ μᾶλλον ἐθέλειν αὐτοὺς συμβουλεύειν τούτοις , οἳ ἂν μὴ μόνον ὅταν δέωνται ἐπερωτῶσι τί χρὴ ποιεῖν , ἀλλὰ καὶ ἐν ταῖς εὐτυχίαις θεραπεύωσιν ὅ τι ἂν δύνωνται τοὺς θεούς .
+perseus-eng2	 And we may suppose that they are more ready to counsel those who not only ask what they ought to do in the hour of need, but also serve the gods in the days of their prosperity with all their might.

@@ -1,0 +1,3460 @@
+
+cts:urn:tlg0032.tlg004:1.1
+glaux1.0-sentence	1
+perseus-grc2	 ἀλλ’ ἐμοὶ δοκεῖ τῶν καλῶν κ- ἀγαθῶν ἀνδρῶν ἔργα οὐ μόνον τὰ μετὰ σπουδῆς πραττόμενα ἀξιομνημόνευτα εἶναι , ἀλλὰ καὶ τὰ ἐν ταῖς παιδιαῖς .
+perseus-eng2	 To my mind it is worth while to relate not only the serious acts of great and good men but also what they do in their lighter moods.
+
+cts:urn:tlg0032.tlg004:1.1
+glaux1.0-sentence	2
+perseus-grc2	 οἷς δὲ παραγενόμενος ταῦτα γιγνώσκω δηλῶσαι βούλομαι .
+perseus-eng2	 I should like to narrate an experience of mine that gives me this conviction.
+
+cts:urn:tlg0032.tlg004:1.2
+glaux1.0-sentence	3
+perseus-grc2	 ἦν μὲν γὰρ Παναθηναίων τῶν μεγάλων ἱπποδρομία , Καλλίας δὲ ὁ Ἱππονίκου ἐρῶν ἐτύγχανεν Αὐτολύκου παιδὸς ὄντος , καὶ νενικηκότα αὐτὸν παγκράτιον ἧκεν ἄγων ἐπὶ τὴν θέαν .
+perseus-eng2	 It was on the occasion of the horse-races at the greater Panathenaic games; Callias, Hipponicus’ son, was enamoured, as it happened, of the boy Autolycus, and in honour of his victory in the pancratium had brought him to see the spectacle.
+
+cts:urn:tlg0032.tlg004:1.2
+glaux1.0-sentence	4
+perseus-grc2	 ὡς δὲ ἡ ἱπποδρομία ἔληξεν , ἔχων τόν τε Αὐτόλυκον καὶ τὸν πατέρα αὐτοῦ ἀπῄει εἰς τὴν ἐν Πειραιεῖ οἰκίαν ·
+perseus-eng2	 When the racing was over, Callias proceeded on his way to his house in the Peiraeus with Autolycus and the boy’s father;
+
+cts:urn:tlg0032.tlg004:1.2
+glaux1.0-sentence	5
+perseus-grc2	 συνείπετο δὲ αὐτῷ καὶ Νικήρατος .
+perseus-eng2	 Niceratus also was in his company.
+
+cts:urn:tlg0032.tlg004:1.3
+glaux1.0-sentence	6
+perseus-grc2	 ἰδὼν δὲ ὁμοῦ ὄντας Σωκράτην τε καὶ Κριτόβουλον καὶ Ἑρμογένην καὶ Ἀντισθένην καὶ Χαρμίδην , τοῖς μὲν ἀμφ’ Αὐτόλυκον ἡγεῖσθαί τινα ἔταξεν , αὐτὸς δὲ προσῆλθε τοῖς ἀμφὶ Σωκράτην , καὶ εἶπεν ·
+perseus-eng2	 But on catching sight of a group comprising  Socrates  , Critobulus, Hermogenes, Antisthenes, and Charmides, Callias bade one of his servants escort Autolycus and the others, and himself going over to  Socrates   and his companions, said,
+
+cts:urn:tlg0032.tlg004:1.4
+glaux1.0-sentence	7
+perseus-grc2	 εἰς καλόν γε ὑμῖν συντετύχηκα ·
+perseus-eng2	 This is an opportune meeting,
+
+cts:urn:tlg0032.tlg004:1.4
+glaux1.0-sentence	8
+perseus-grc2	 ἑστιᾶν γὰρ μέλλω Αὐτόλυκον καὶ τὸν πατέρα αὐτοῦ .
+perseus-eng2	 for I am about to give a dinner in honour of Autolycus and his father;
+
+cts:urn:tlg0032.tlg004:1.4
+glaux1.0-sentence	9
+perseus-grc2	 οἶμαι οὖν πολὺ ἂν τὴν κατασκευήν μοι λαμπροτέραν φανῆναι εἰ ἀνδράσιν ἐκκεκαθαρμένοις τὰς ψυχὰς ὥσπερ ὑμῖν ὁ ἀνδρὼν κεκοσμημένος εἴη μᾶλλον ἢ εἰ στρατηγοῖς καὶ ἱππάρχοις καὶ σπουδαρχίαις .
+perseus-eng2	 and I think that my entertainment would present a great deal more brilliance if my dining-room were graced with the presence of men like you, whose hearts have undergone philosophy’s purification, than it would with generals and cavalry commanders and office-seekers.
+
+cts:urn:tlg0032.tlg004:1.5
+glaux1.0-sentence	10
+perseus-grc2	 καὶ ὁ Σωκράτης εἶπεν ·
+perseus-eng2	 You are always quizzing us, replied Socrates;
+
+cts:urn:tlg0032.tlg004:1.5
+glaux1.0-sentence	11
+perseus-grc2	 ἀεὶ σὺ ἐπισκώπτεις ἡμᾶς καταφρονῶν , ὅτι σὺ μὲν Πρωταγόρᾳ τε πολὺ ἀργύριον δέδωκας ἐπὶ σοφίᾳ καὶ Γοργίᾳ καὶ Προδίκῳ καὶ ἄλλοις πολλοῖς , ἡμᾶς δ’ ὁρᾷς αὐτουργούς τινας τῆς φιλοσοφίας ὄντας .
+perseus-eng2	 for you have yourself paid a good deal of money for wisdom to Protagoras, Gorgias, Prodicus, and many others, while you see that we are what you might call amateurs in philosophy; and so you feel supercilious toward us.
+
+cts:urn:tlg0032.tlg004:1.6
+glaux1.0-sentence	12
+perseus-grc2	 καὶ ὁ Καλλίας , καὶ πρόσθεν μέν γε , ἔφη , ἀπεκρυπτόμην ὑμᾶς ἔχων πολλὰ καὶ σοφὰ λέγειν , νῦν δέ , ἐὰν παρ’ ἐμοὶ ἦτε , ἐπιδείξω ὑμῖν ἐμαυτὸν πάνυ πολλῆς σπουδῆς ἄξιον ὄντα .
+perseus-eng2	 Yes,  said Callias,  so far, I admit, I have been keeping you ignorant of my ability at profound and lengthy discourse; but now, if you will favour me with your company, I will prove to you that I am a person of some consequence.
+
+cts:urn:tlg0032.tlg004:1.7
+glaux1.0-sentence	13
+perseus-grc2	 οἱ οὖν ἀμφὶ τὸν Σωκράτην πρῶτον μέν , ὥσπερ εἰκὸς ἦν , ἐπαινοῦντες τὴν κλῆσιν οὐχ ὑπισχνοῦντο συνδειπνήσειν ·
+perseus-eng2	 Now at first Socrates and his companions thanked him for the invitation, as might be expected, but would not promise to attend the banquet;
+
+cts:urn:tlg0032.tlg004:1.7
+glaux1.0-sentence	14
+perseus-grc2	 ὡς δὲ πάνυ ἀχθόμενος φανερὸς ἦν , εἰ μὴ ἕψοιντο , συνηκολούθησαν .
+perseus-eng2	 when it became clear, however, that he was taking their refusal very much to heart, they went with him.
+
+cts:urn:tlg0032.tlg004:1.7
+glaux1.0-sentence	15
+perseus-grc2	 ἔπειτα δὲ αὐτῷ οἱ μὲν γυμνασάμενοι καὶ χρισάμενοι , οἱ δὲ καὶ λουσάμενοι παρῆλθον .
+perseus-eng2	 And so his guests arrived, some having first taken their exercise and their rub-down, others with the addition of a bath.
+
+cts:urn:tlg0032.tlg004:1.8
+glaux1.0-sentence	16
+perseus-grc2	 Αὐτόλυκος μὲν οὖν παρὰ τὸν πατέρα ἐκαθέζετο , οἱ δ’ ἄλλοι , ὥσπερ εἰκός , κατεκλίθησαν .
+perseus-eng2	 Autolycus took a seat by his father’s side; the others, of course, reclined.
+
+cts:urn:tlg0032.tlg004:1.8
+glaux1.0-sentence	17
+perseus-grc2	 εὐθὺς μὲν οὖν ἐννοήσας τις τὰ γιγνόμενα ἡγήσατ’ ἂν φύσει βασιλικόν τι κάλλος εἶναι , ἄλλως τε καὶ ἂν μετ’ αἰδοῦς καὶ σωφροσύνης , καθάπερ Αὐτόλυκος τότε , κεκτῆταί τις αὐτό .
+perseus-eng2	 A person who took note of the course of events would have come at once to the conclusion that beauty is in its essence something regal, especially when, as in the present case of Autolycus, its possessor joins with it modesty and sobriety.
+
+cts:urn:tlg0032.tlg004:1.9
+glaux1.0-sentence	18
+perseus-grc2	 πρῶτον μὲν γάρ , ὥσπερ ὅταν φέγγος τι ἐν νυκτὶ φανῇ , πάντων προσάγεται τὰ ὄμματα , οὕτω καὶ τότε τοῦ Αὐτολύκου τὸ κάλλος πάντων εἷλκε τὰς ὄψεις πρὸς αὐτόν ·
+perseus-eng2	 For in the first place, just as the sudden glow of a light at night draws all eyes to itself, so now the beauty of Autolycus compelled every one to look at him.
+
+cts:urn:tlg0032.tlg004:1.9
+glaux1.0-sentence	19
+perseus-grc2	 ἔπειτα τῶν ὁρώντων οὐδεὶς οὐκ ἔπασχέ τι τὴν ψυχὴν ὑπ’ ἐκείνου .
+perseus-eng2	 And again, there was not one of the onlookers who did not feel his soul strangely stirred by the boy;
+
+cts:urn:tlg0032.tlg004:1.9
+glaux1.0-sentence	20
+perseus-grc2	 οἱ μέν γε σιωπηρότεροι ἐγίγνοντο , οἱ δὲ καὶ ἐσχηματίζοντό πως .
+perseus-eng2	 some of them grew quieter than before, others even assumed some kind of a pose.
+
+cts:urn:tlg0032.tlg004:1.10
+glaux1.0-sentence	21
+perseus-grc2	 πάντες μὲν οὖν οἱ ἐκ θεῶν του κατεχόμενοι ἀξιοθέατοι δοκοῦσιν εἶναι ·
+perseus-eng2	 Now it is true that all who are under the influence of any of the gods seem well worth gazing at;
+
+cts:urn:tlg0032.tlg004:1.10
+glaux1.0-sentence	22
+perseus-grc2	 ἀλλ’ οἱ μὲν ἐξ ἄλλων πρὸς τὸ γοργότεροί τε ὁρᾶσθαι καὶ φοβερώτερον φθέγγεσθαι καὶ σφοδρότεροι εἶναι φέρονται , οἱ δ’ ὑπὸ τοῦ σώφρονος ἔρωτος ἔνθεοι τά τε ὄμματα φιλοφρονεστέρως ἔχουσι καὶ τὴν φωνὴν πρᾳοτέραν ποιοῦνται καὶ τὰ σχήματα εἰς τὸ ἐλευθεριώτερον ἄγουσιν .
+perseus-eng2	 but whereas those who are possessed of the other gods have a tendency to be sterner of countenance, more terrifying of voice, and more vehement, those who are inspired by chaste Love have a more tender look, subdue their voices to more gentle tones, and assume a supremely noble bearing.
+
+cts:urn:tlg0032.tlg004:1.10
+glaux1.0-sentence	23
+perseus-grc2	 ἃ δὴ καὶ Καλλίας τότε διὰ τὸν ἔρωτα πράττων ἀξιοθέατος ἦν τοῖς τετελεσμένοις τούτῳ τῷ θεῷ .
+perseus-eng2	 Such was the demeanour of Callias at this time under the influence of Love; and therefore he was an object well worth the gaze of those initiated into the worship of this god.
+
+cts:urn:tlg0032.tlg004:1.11
+glaux1.0-sentence	24
+perseus-grc2	 ἐκεῖνοι μὲν οὖν σιωπῇ ἐδείπνουν , ὥσπερ τοῦτο ἐπιτεταγμένον αὐτοῖς ὑπὸ κρείττονός τινος .
+perseus-eng2	 The company, then, were feasting in silence, as though some one in authority had commanded them to do so,
+
+cts:urn:tlg0032.tlg004:1.11
+glaux1.0-sentence	25
+perseus-grc2	 Φίλιππος δ’ ὁ γελωτοποιὸς κρούσας τὴν θύραν εἶπε τῷ ὑπακούσαντι εἰσαγγεῖλαι ὅστις τε εἴη καὶ δι’ ὅ τι κατάγεσθαι βούλοιτο , συνεσκευασμένος τε παρεῖναι ἔφη πάντα τὰ ἐπιτήδεια ὥστε δειπνεῖν τ- ἀλλότρια , καὶ τὸν παῖδα δὲ ἔφη πάνυ πιέζεσθαι διά τε τὸ φέρειν μηδὲν καὶ διὰ τὸ ἀνάριστον εἶναι .
+perseus-eng2	 when Philip the buffoon knocked at the door and told the porter to announce who he was and that he desired to be admitted; he added that with regard to food he had come all prepared, in all varieties — to dine on some other person’s, — and that his servant was in great distress with the load he carried of — nothing, and with having an empty stomach.
+
+cts:urn:tlg0032.tlg004:1.12
+glaux1.0-sentence	26
+perseus-grc2	 ὁ οὖν Καλλίας ἀκούσας ταῦτα εἶπεν ·
+perseus-eng2	 Callias, having heard this, said:
+
+cts:urn:tlg0032.tlg004:1.12
+glaux1.0-sentence	27
+perseus-grc2	 ἀλλὰ μέντοι , ὦ ἄνδρες , αἰσχρὸν στέγης γε φθονῆσαι ·
+perseus-eng2	 Well, gentlemen, we cannot decently begrudge him at the least the shelter of our roof;
+
+cts:urn:tlg0032.tlg004:1.12
+glaux1.0-sentence	28
+perseus-grc2	 εἰσίτω οὖν .
+perseus-eng2	 so let him come in.
+
+cts:urn:tlg0032.tlg004:1.12
+glaux1.0-sentence	29
+perseus-grc2	 καὶ ἅμα ἀπέβλεψεν εἰς τὸν Αὐτόλυκον , δῆλον ὅτι ἐπισκοπῶν τί ἐκείνῳ δόξειε τὸ σκῶμμα εἶναι .
+perseus-eng2	 With the words he cast a glance at Autolycus, obviously trying to make out what he had thought of the pleasantry.
+
+cts:urn:tlg0032.tlg004:1.13
+glaux1.0-sentence	30
+perseus-grc2	 ὁ δὲ στὰς ἐπὶ τῷ ἀνδρῶνι ἔνθα τὸ δεῖπνον ἦν εἶπεν ·
+perseus-eng2	 But Philip, standing at the threshold of the men’s hall where the banquet was served, announced:
+
+cts:urn:tlg0032.tlg004:1.13
+glaux1.0-sentence	31
+perseus-grc2	 ὅτι μὲν γελωτοποιός εἰμι ἴστε πάντες ·
+perseus-eng2	 You all know that I am a jester;
+
+cts:urn:tlg0032.tlg004:1.13
+glaux1.0-sentence	32
+perseus-grc2	 ἥκω δὲ προθύμως νομίσας γελοιότερον εἶναι τὸ ἄκλητον ἢ τὸ κεκλημένον ἐλθεῖν ἐπὶ τὸ δεῖπνον .
+perseus-eng2	 and so I have come here with a will, thinking it more of a joke to come to your dinner uninvited than to come by invitation.
+
+cts:urn:tlg0032.tlg004:1.13
+glaux1.0-sentence	33
+perseus-grc2	 κατακλίνου τοίνυν , ἔφη ὁ Καλλίας .
+perseus-eng2	 Well, then, said Callias, take a place;
+
+cts:urn:tlg0032.tlg004:1.13
+glaux1.0-sentence	34
+perseus-grc2	 καὶ γὰρ οἱ παρόντες σπουδῆς μέν , ὡς ὁρᾷς , μεστοί , γέλωτος δὲ ἴσως ἐνδεέστεροι .
+perseus-eng2	 for the guests, though well fed, as you observe, on seriousness, are perhaps rather ill supplied with laughter.
+
+cts:urn:tlg0032.tlg004:1.14
+glaux1.0-sentence	35
+perseus-grc2	 δειπνούντων δὲ αὐτῶν ὁ Φίλιππος γελοῖόν τι εὐθὺς ἐπεχείρει λέγειν , ἵνα δὴ ἐπιτελοίη ὧνπερ ἕνεκα ἐκαλεῖτο ἑκάστοτε ἐπὶ τὰ δεῖπνα .
+perseus-eng2	 No sooner were they engaged in their dinner than Philip attempted a witticism, with a view to rendering the service that secured him all his dinner engagements;
+
+cts:urn:tlg0032.tlg004:1.14
+glaux1.0-sentence	36
+perseus-grc2	 ὡς δ’ οὐκ ἐκίνησε γέλωτα , τότε μὲν ἀχθεσθεὶς φανερὸς ἐγένετο .
+perseus-eng2	 but on finding that he did not excite any laughter, he showed himself, for the time, considerably vexed.
+
+cts:urn:tlg0032.tlg004:1.14
+glaux1.0-sentence	37
+perseus-grc2	 αὖθις δ’ ὀλίγον ὕστερον ἄλλο τι γελοῖον ἐβούλετο λέγειν .
+perseus-eng2	 A little later, however, he must try another jest;
+
+cts:urn:tlg0032.tlg004:1.14
+glaux1.0-sentence	38
+perseus-grc2	 ὡς δὲ οὐδὲ τότε ἐγέλασαν ἐπ’ αὐτῷ , ἐν τῷ μεταξὺ παυσάμενος τοῦ δείπνου συγκαλυψάμενος κατέκειτο .
+perseus-eng2	 but when they would not laugh at him this time either, he stopped while the dinner was in full swing, covered his head with his cloak, and lay down on his couch.
+
+cts:urn:tlg0032.tlg004:1.15
+glaux1.0-sentence	39
+perseus-grc2	 καὶ ὁ Καλλίας , τί τοῦτ’ , ἔφη , ὦ Φίλιππε ;
+perseus-eng2	 What does this mean, Philip? Callias inquired.
+
+cts:urn:tlg0032.tlg004:1.15
+glaux1.0-sentence	40
+perseus-grc2	 ἀλλ’ ἢ ὀδύνη σε εἴληφε ;
+perseus-eng2	 Are you seized with a pain?
+
+cts:urn:tlg0032.tlg004:1.15
+glaux1.0-sentence	41
+perseus-grc2	 καὶ ὃς ἀναστενάξας εἶπε ·
+perseus-eng2	 Philip replied with a groan,
+
+cts:urn:tlg0032.tlg004:1.15
+glaux1.0-sentence	42
+perseus-grc2	 ναὶ μὰ Δί’ , ἔφη , ὦ Καλλία , μεγάλη γε ·
+perseus-eng2	 Yes, Callias, by Heaven, with a severe one;
+
+cts:urn:tlg0032.tlg004:1.15
+glaux1.0-sentence	43
+perseus-grc2	 ἐπεὶ γὰρ γέλως ἐξ ἀνθρώπων ἀπόλωλεν , ἔρρει τὰ ἐμὰ πράγματα .
+perseus-eng2	 for since laughter has perished from the world, my business is ruined.
+
+cts:urn:tlg0032.tlg004:1.15
+glaux1.0-sentence	44
+perseus-grc2	 πρόσθεν μὲν γὰρ τούτου ἕνεκα ἐκαλούμην ἐπὶ τὰ δεῖπνα , ἵνα εὐφραίνοιντο οἱ συνόντες δι’ ἐμὲ γελῶντες ·
+perseus-eng2	 For in times past, the reason why I got invitations to dinner was that I might stir up laughter among the guests and make them merry;
+
+cts:urn:tlg0032.tlg004:1.15
+glaux1.0-sentence	45
+perseus-grc2	 νῦν δὲ τίνος ἕνεκα καὶ καλεῖ μέ τις ;
+perseus-eng2	 but now, what will induce any one to invite me?
+
+cts:urn:tlg0032.tlg004:1.15
+glaux1.0-sentence	46
+perseus-grc2	 οὔτε γὰρ ἔγωγε σπουδάσαι ἂν δυναίμην μᾶλλον ἤπερ ἀθάνατος γενέσθαι , οὔτε μὴν ὡς ἀντικληθησόμενος καλεῖ μέ τις , ἐπεὶ πάντες ἴσασιν ὅτι ἀρχὴν οὐδὲ νομίζεται εἰς τὴν ἐμὴν οἰκίαν δεῖπνον προσφέρεσθαι .
+perseus-eng2	 For I could no more turn serious than I could become immortal; and certainly no one will invite me in the hope of a return invitation, as every one knows that there is not a vestige of tradition of bringing dinner into my house.
+
+cts:urn:tlg0032.tlg004:1.15
+glaux1.0-sentence	47
+perseus-grc2	 καὶ ἅμα λέγων ταῦτα ἀπεμύττετό τε καὶ τῇ φωνῇ σαφῶς κλαίειν ἐφαίνετο .
+perseus-eng2	 As he said this, he wiped his nose, and to judge by the sound, he was evidently weeping.
+
+cts:urn:tlg0032.tlg004:1.16
+glaux1.0-sentence	48
+perseus-grc2	 πάντες μὲν οὖν παρεμυθοῦντό τε αὐτὸν ὡς αὖθις γελασόμενοι καὶ δειπνεῖν ἐκέλευον , Κριτόβουλος δὲ καὶ ἐξεκάγχασεν ἐπὶ τῷ οἰκτισμῷ αὐτοῦ .
+perseus-eng2	 All tried to comfort him with the promise that they would laugh next time, and urged him to eat; and Critobulus actually burst out into a guffaw at his lugubrious moaning.
+
+cts:urn:tlg0032.tlg004:1.16
+glaux1.0-sentence	49
+perseus-grc2	 ὁ δ’ ὡς ᾔσθετο τοῦ γέλωτος , ἀνεκαλύψατό τε καὶ τῇ ψυχῇ παρακελευσάμενος θαρρεῖν , ὅτι ἔσονται συμβολαί , πάλιν ἐδείπνει .
+perseus-eng2	 The moment Philip heard the laughter he uncovered his head, and exhorting his spirit to be of good courage, in view of approaching engagements, he fell to eating again.
+
+cts:urn:tlg0032.tlg004:2.1
+glaux1.0-sentence	50
+perseus-grc2	 ὡς δ’ ἀφῃρέθησαν αἱ τράπεζαι καὶ ἔσπεισάν τε καὶ ἐπαιάνισαν , ἔρχεται αὐτοῖς ἐπὶ κῶμον Συρακόσιός τις ἄνθρωπος , ἔχων τε αὐλητρίδα ἀγαθὴν καὶ ὀρχηστρίδα τῶν τὰ θαύματα δυναμένων ποιεῖν , καὶ παῖδα πάνυ γε ὡραῖον καὶ πάνυ καλῶς κιθαρίζοντα καὶ ὀρχούμενον .
+perseus-eng2	 When the tables had been removed and the guests had poured a libation and sung a hymn, there entered a man from Syracuse, to give them an evening’s merriment.
+
+cts:urn:tlg0032.tlg004:2.1
+glaux1.0-sentence	51
+perseus-grc2	 ταῦτα δὲ καὶ ἐπιδεικνὺς ὡς ἐν θαύματι ἀργύριον ἐλάμβανεν .
+perseus-eng2	 He had with him a fine flute-girl, a dancing-girl — one of those skilled in acrobatic tricks, — and a very handsome boy, who was expert at playing the cither and at dancing; the Syracusan made money by exhibiting their performances as a spectacle.
+
+cts:urn:tlg0032.tlg004:2.2
+glaux1.0-sentence	52
+perseus-grc2	 ἐπεὶ δὲ αὐτοῖς ἡ αὐλητρὶς μὲν ηὔλησεν , ὁ δὲ παῖς ἐκιθάρισε , καὶ ἐδόκουν μάλα ἀμφότεροι ἱκανῶς εὐφραίνειν , εἶπεν ὁ Σωκράτης ·
+perseus-eng2	 They now played for the assemblage, the flute-girl on the flute, the boy on the cither; and it was agreed that both furnished capital amusement.
+
+cts:urn:tlg0032.tlg004:2.2
+glaux1.0-sentence	53
+perseus-grc2	 νὴ Δί’ , ὦ Καλλία , τελέως ἡμᾶς ἑστιᾷς .
+perseus-eng2	 Thereupon Socrates remarked: On my word, Callias, you are giving us a perfect dinner;
+
+cts:urn:tlg0032.tlg004:2.2
+glaux1.0-sentence	54
+perseus-grc2	 οὐ γὰρ μόνον δεῖπνον ἄμεμπτον παρέθηκας , ἀλλὰ καὶ θεάματα καὶ ἀκροάματα ἥδιστα παρέχεις .
+perseus-eng2	 for not only have you set before us a feast that is above criticism, but you are also offering us very delightful sights and sounds.
+
+cts:urn:tlg0032.tlg004:2.3
+glaux1.0-sentence	55
+perseus-grc2	 καὶ ὃς ἔφη ·
+perseus-eng2	 Suppose we go further, said Callias,
+
+cts:urn:tlg0032.tlg004:2.3
+glaux1.0-sentence	56
+perseus-grc2	 τί οὖν εἰ καὶ μύρον τις ἡμῖν ἐνέγκαι , ἵνα καὶ εὐωδίᾳ ἑστιώμεθα ;
+perseus-eng2	 and have some one bring us some perfume, so that we may dine in the midst of pleasant odours, also.
+
+cts:urn:tlg0032.tlg004:2.3
+glaux1.0-sentence	57
+perseus-grc2	 μηδαμῶς , ἔφη ὁ Σωκράτης .
+perseus-eng2	 No, indeed! replied Socrates.
+
+cts:urn:tlg0032.tlg004:2.3
+glaux1.0-sentence	58
+perseus-grc2	 ὥσπερ γάρ τοι ἐσθὴς ἄλλη μὲν γυναικί , ἄλλη δὲ ἀνδρὶ καλή , οὕτω καὶ ὀσμὴ ἄλλη μὲν ἀνδρί , ἄλλη δὲ γυναικὶ πρέπει .
+perseus-eng2	 For just as one kind of dress looks well on a woman and another kind on a man, so the odours appropriate to men and to women are diverse.
+
+cts:urn:tlg0032.tlg004:2.3
+glaux1.0-sentence	59
+perseus-grc2	 καὶ γὰρ ἀνδρὸς μὲν δήπου ἕνεκα ἀνὴρ οὐδεὶς μύρῳ χρίεται .
+perseus-eng2	 No man, surely, ever uses perfume for a man’s sake.
+
+cts:urn:tlg0032.tlg004:2.3
+glaux1.0-sentence	60
+perseus-grc2	 αἱ μέντοι γυναῖκες ἄλλως τε καὶ ἂν νύμφαι τύχωσιν οὖσαι , ὥσπερ ἡ Νικηράτου τοῦδε καὶ ἡ Κριτοβούλου , μύρου μὲν τί καὶ προσδέονται ;
+perseus-eng2	 And as for the women, particularly if they chance to be young brides, like the wives of Niceratus here and Critobulus, how can they want any additional perfume?
+
+cts:urn:tlg0032.tlg004:2.4
+glaux1.0-sentence	61
+perseus-grc2	 αὐταὶ γὰρ τούτου ὄζουσιν ·
+perseus-eng2	 For that is what they are redolent of, themselves.
+
+cts:urn:tlg0032.tlg004:2.4
+glaux1.0-sentence	62
+perseus-grc2	 ἐλαίου δὲ τοῦ ἐν γυμνασίοις ὀσμὴ καὶ παροῦσα ἡδίων ἢ μύρου γυναιξὶ καὶ ἀποῦσα ποθεινοτέρα .
+perseus-eng2	 The odour of the olive oil, on the other hand, that is used in the gymnasium is more delightful when you have it on your flesh than perfume is to women, and when you lack it, the want of it is more keenly felt.
+
+cts:urn:tlg0032.tlg004:2.4
+glaux1.0-sentence	63
+perseus-grc2	 καὶ γὰρ δὴ μύρῳ μὲν ὁ ἀλειψάμενος καὶ δοῦλος καὶ ἐλεύθερος εὐθὺς ἅπας ὅμοιον ὄζει ·
+perseus-eng2	 Indeed, so far as perfume is concerned, when once a man has anointed himself with it, the scent forthwith is all one whether he be slave or free;
+
+cts:urn:tlg0032.tlg004:2.4
+glaux1.0-sentence	64
+perseus-grc2	 αἱ δ’ ἀπὸ τῶν ἐλευθερίων μόχθων ὀσμαὶ ἐπιτηδευμάτων τε πρῶτον χρηστῶν καὶ χρόνου πολλοῦ δέονται , εἰ μέλλουσιν ἡδεῖαί τε καὶ ἐλευθέριοι ἔσεσθαι .
+perseus-eng2	 but the odours that result from the exertions of freemen demand primarily noble pursuits engaged in for many years if they are to be sweet and suggestive of freedom.
+
+cts:urn:tlg0032.tlg004:2.4
+glaux1.0-sentence	65
+perseus-grc2	 καὶ ὁ Λύκων εἶπεν ·
+perseus-eng2	 That may do for young fellows, observed Lycon;
+
+cts:urn:tlg0032.tlg004:2.4
+glaux1.0-sentence	66
+perseus-grc2	 οὐκοῦν νέοις μὲν ἂν εἴη ταῦτα ·
+perseus-eng2	 but what of us who no longer exercise in the gymnasia? What should be our distinguishing scent?
+
+cts:urn:tlg0032.tlg004:2.4
+glaux1.0-sentence	67
+perseus-grc2	 ἡμᾶς δὲ τοὺς μηκέτι γυμναζομένους τίνος ὄζειν δεήσει ;
+perseus-eng2	 Nobility of soul, surely! replied Socrates.
+
+cts:urn:tlg0032.tlg004:2.4
+glaux1.0-sentence	68
+perseus-grc2	 καλοκἀγαθίας νὴ Δί’ , ἔφη ὁ Σωκράτης .
+perseus-eng2	 And where may a person get this ointment?
+
+cts:urn:tlg0032.tlg004:2.4
+glaux1.0-sentence	69
+perseus-grc2	 καὶ πόθεν ἄν τις τοῦτο τὸ χρῖμα λάβοι ;
+perseus-eng2	 Certainly not from the perfumers, said Socrates.
+
+cts:urn:tlg0032.tlg004:2.4
+glaux1.0-sentence	70
+perseus-grc2	 οὐ μὰ Δί’ , ἔφη , οὐ παρὰ τῶν μυροπωλῶν .
+perseus-eng2	 But where, then?
+
+cts:urn:tlg0032.tlg004:2.4
+glaux1.0-sentence	71
+perseus-grc2	 ἀλλὰ πόθεν δή ;
+perseus-eng2	 Theognis has said:
+
+cts:urn:tlg0032.tlg004:2.4
+glaux1.0-sentence	72
+perseus-grc2	 ὁ μὲν Θέογνις ἔφη ·Ἐσθλῶν μὲν γὰρ ἀπ’ ἐσθλὰ διδάξεαι ·
+perseus-eng2	 Good men teach good;
+
+cts:urn:tlg0032.tlg004:2.4
+glaux1.0-sentence	73
+perseus-grc2	 ἢν δὲ κακοῖσισυμμίσγῃς , ἀπολεῖς καὶ τὸν ἐόντα νόον .
+perseus-eng2	 society with bad Will but corrupt the good mind that you had.
+
+cts:urn:tlg0032.tlg004:2.5
+glaux1.0-sentence	74
+perseus-grc2	 καὶ ὁ Λύκων εἶπεν ·
+perseus-eng2	 Do you hear that, my son? asked Lycon.
+
+cts:urn:tlg0032.tlg004:2.5
+glaux1.0-sentence	75
+perseus-grc2	 ἀκούεις ταῦτα , ὦ υἱέ ;
+perseus-eng2	 Yes, indeed he does, said Socrates;
+
+cts:urn:tlg0032.tlg004:2.5
+glaux1.0-sentence	76
+perseus-grc2	 ναὶ μὰ Δί’ , ἔφη ὁ Σωκράτης , καὶ χρῆταί γε .
+perseus-eng2	 and he puts it into practice, too.
+
+cts:urn:tlg0032.tlg004:2.5
+glaux1.0-sentence	77
+perseus-grc2	 ἐπεὶ γοῦν νικηφόρος ἐβούλετο τοῦ παγκρατίου γενέσθαι , σὺν σοὶ σκεψάμενος G? σὺν σοὶ σκεψάμενος αὖ , ὃς ἂν δοκῇ αὐτῷ ἱκανώτατος εἶναι εἰς τὸ ταῦτα ἐπιτηδεῦσαι , τούτῳ συνέσται .
+perseus-eng2	 At any rate, when he desired to become a prize-winner in the pancratium, he availed himself of your help to discover the champions in that sport and associated with them; and so, if he desires to learn the ways of virtue, he will again with your help seek out the man who seems to him most proficient in this way of life and will associate with him.
+
+cts:urn:tlg0032.tlg004:2.6
+glaux1.0-sentence	78
+perseus-grc2	 ἐνταῦθα δὴ πολλοὶ ἐφθέγξαντο ·
+perseus-eng2	 Thereupon there was a chorus of voices.
+
+cts:urn:tlg0032.tlg004:2.6
+glaux1.0-sentence	79
+perseus-grc2	 καὶ ὁ μέν τις αὐτῶν εἶπε ·
+perseus-eng2	 Where will he find an instructor in this subject? said one.
+
+cts:urn:tlg0032.tlg004:2.6
+glaux1.0-sentence	80
+perseus-grc2	 ποῦ οὖν εὑρήσει τούτου διδάσκαλον ;
+perseus-eng2	 Another maintained that it could not be taught at all.
+
+cts:urn:tlg0032.tlg004:2.6
+glaux1.0-sentence	81
+perseus-grc2	 ὁ δέ τις ὡς οὐδὲ διδακτὸν τοῦτο εἴη , ἕτερος δέ τις ὡς εἴπερ τι καὶ ἄλλο καὶ τοῦτο μαθητόν .
+perseus-eng2	 A third asserted that this could be learned if anything could.
+
+cts:urn:tlg0032.tlg004:2.7
+glaux1.0-sentence	82
+perseus-grc2	 ὁ δὲ Σωκράτης ἔφη ·
+perseus-eng2	 Since this is a debatable matter, suggested Socrates,
+
+cts:urn:tlg0032.tlg004:2.7
+glaux1.0-sentence	83
+perseus-grc2	 τοῦτο μὲν ἐπειδὴ ἀμφίλογόν ἐστιν , εἰς αὖθις ἀποθώμεθα ·
+perseus-eng2	 let us reserve it for another time;
+
+cts:urn:tlg0032.tlg004:2.7
+glaux1.0-sentence	84
+perseus-grc2	 νυνὶ δὲ τὰ προκείμενα ἀποτελῶμεν .
+perseus-eng2	 for the present let us finish what we have on hand.
+
+cts:urn:tlg0032.tlg004:2.7
+glaux1.0-sentence	85
+perseus-grc2	 ὁρῶ γὰρ ἔγωγε τήνδε τὴν ὀρχηστρίδα ἐφεστηκυῖαν καὶ τροχούς τινα αὐτῇ προσφέροντα .
+perseus-eng2	 For I see that the dancing girl here is standing ready, and that some one is bringing her some hoops.
+
+cts:urn:tlg0032.tlg004:2.8
+glaux1.0-sentence	86
+perseus-grc2	 ἐκ τούτου δὴ ηὔλει μὲν αὐτῇ ἡ ἑτέρα , παρεστηκὼς δέ τις τῇ ὀρχηστρίδι ἀνεδίδου τοὺς τροχοὺς μέχρι δώδεκα .
+perseus-eng2	 At that, the other girl began to accompany the dancer on the flute, and a boy at her elbow handed her up the hoops until he had given her twelve.
+
+cts:urn:tlg0032.tlg004:2.8
+glaux1.0-sentence	87
+perseus-grc2	 ἡ δὲ λαμβάνουσα ἅμα τε ὠρχεῖτο καὶ ἀνερρίπτει δονουμένους συντεκμαιρομένη ὅσον ἔδει ῥιπτεῖν ὕψος ὡς ἐν ῥυθμῷ δέχεσθαι αὐτούς .
+perseus-eng2	 She took these and as she danced kept throwing them whirling into the air, observing the proper height to throw them so as to catch them in a regular rhythm.
+
+cts:urn:tlg0032.tlg004:2.9
+glaux1.0-sentence	88
+perseus-grc2	 καὶ ὁ Σωκράτης εἶπεν ·
+perseus-eng2	 As Socrates looked on he remarked:
+
+cts:urn:tlg0032.tlg004:2.9
+glaux1.0-sentence	89
+perseus-grc2	 ἐν πολλοῖς μέν , ὦ ἄνδρες , καὶ ἄλλοις δῆλον καὶ ἐν οἷς δ’ ἡ παῖς ποιεῖ ὅτι ἡ γυναικεία φύσις οὐδὲν χείρων τῆς τοῦ ἀνδρὸς οὖσα τυγχάνει , γνώμης δὲ καὶ ἰσχύος δεῖται .
+perseus-eng2	 This girl’s feat, gentlemen, is only one of many proofs that woman’s nature is really not a whit inferior to man’s, except in its lack of judgment and physical strength.
+
+cts:urn:tlg0032.tlg004:2.9
+glaux1.0-sentence	90
+perseus-grc2	 ὥστε εἴ τις ὑμῶν γυναῖκα ἔχει , θαρρῶν διδασκέτω ὅ τι βούλοιτ’ ἂν αὐτῇ ἐπισταμένῃ χρῆσθαι .
+perseus-eng2	 So if any one of you has a wife, let him confidently set about teaching her whatever he would like to have her know.
+
+cts:urn:tlg0032.tlg004:2.10
+glaux1.0-sentence	91
+perseus-grc2	 καὶ ὁ Ἀντισθένης , πῶς οὖν , ἔφη , ὦ Σώκρατες , οὕτω γιγνώσκων οὐ καὶ σὺ παιδεύεις Ξανθίππην , ἀλλὰ χρῇ γυναικὶ τῶν οὐσῶν , οἶμαι δὲ καὶ τῶν γεγενημένων καὶ τῶν ἐσομένων χαλεπωτάτῃ ;
+perseus-eng2	 If that is your view, Socrates, asked Antisthenes,
+
+cts:urn:tlg0032.tlg004:2.10
+glaux1.0-sentence	92
+perseus-grc2	 ὅτι , ἔφη , ὁρῶ καὶ τοὺς ἱππικοὺς βουλομένους γενέσθαι οὐ τοὺς εὐπειθεστάτους ἀλλὰ τοὺς θυμοειδεῖς ἵππους κτωμένους .
+perseus-eng2	 how does it come that you don’t practise what you preach by yourself educating Xanthippe, but live with a wife who is the hardest to get along with of all the women there are — yes, or all that ever were, I suspect, or ever will be?
+
+cts:urn:tlg0032.tlg004:2.10
+glaux1.0-sentence	93
+perseus-grc2	 νομίζουσι γάρ , ἂν τοὺς τοιούτους δύνωνται κατέχειν , ῥᾳδίως τοῖς γε ἄλλοις ἵπποις χρήσεσθαι .
+perseus-eng2	 Because, he replied, I observe that men who wish to become expert horsemen do not get the most docile horses but rather those that are high-mettled, believing that if they can manage this kind, they will easily handle any other.
+
+cts:urn:tlg0032.tlg004:2.10
+glaux1.0-sentence	94
+perseus-grc2	 κ- ἐγὼ δὴ βουλόμενος ἀνθρώποις χρῆσθαι καὶ ὁμιλεῖν ταύτην κέκτημαι , εὖ εἰδὼς ὅτι εἰ ταύτην ὑποίσω , ῥᾳδίως τοῖς γε ἄλλοις ἅπασιν ἀνθρώποις συνέσομαι .
+perseus-eng2	 My course is similar. Mankind at large is what I wish to deal and associate with; and so I have got her, well assured that if I can endure her, I shall have no difficulty in my relations with all the rest of human kind.
+
+cts:urn:tlg0032.tlg004:2.10
+glaux1.0-sentence	95
+perseus-grc2	 καὶ οὗτος μὲν δὴ ὁ λόγος οὐκ ἄπο τοῦ σκοποῦ ἔδοξεν εἰρῆσθαι .
+perseus-eng2	 These words, in the judgment of the guests, did not go wide of the mark.
+
+cts:urn:tlg0032.tlg004:2.11
+glaux1.0-sentence	96
+perseus-grc2	 μετὰ δὲ τοῦτο κύκλος εἰσηνέχθη περίμεστος ξιφῶν ὀρθῶν .
+perseus-eng2	 But now there was brought in a hoop set all around with upright swords;
+
+cts:urn:tlg0032.tlg004:2.11
+glaux1.0-sentence	97
+perseus-grc2	 εἰς οὖν ταῦτα ἡ ὀρχηστρὶς ἐκυβίστα τε καὶ ἐξεκυβίστα ὑπὲρ αὐτῶν .
+perseus-eng2	 over these the dancer turned somersaults into the hoop and out again, to the dismay of the onlookers, who thought that she might suffer some mishap.
+
+cts:urn:tlg0032.tlg004:2.11
+glaux1.0-sentence	98
+perseus-grc2	 ὥστε οἱ μὲν θεώμενοι ἐφοβοῦντο μή τι πάθῃ , ἡ δὲ θαρρούντως τε καὶ ἀσφαλῶς ταῦτα διεπράττετο .
+perseus-eng2	 She, however, went through this performance fearlessly and safely.
+
+cts:urn:tlg0032.tlg004:2.12
+glaux1.0-sentence	99
+perseus-grc2	 καὶ ὁ Σωκράτης καλέσας τὸν Ἀντισθένην εἶπεν ·
+perseus-eng2	 Then Socrates, drawing Antisthenes’ attention, said:
+
+cts:urn:tlg0032.tlg004:2.12
+glaux1.0-sentence	100
+perseus-grc2	 οὔτοι τούς γε θεωμένους τάδε ἀντιλέξειν ἔτι οἴομαι , ὡς οὐχὶ καὶ ἡ ἀνδρεία διδακτόν , ὁπότε αὕτη καίπερ γυνὴ οὖσα οὕτω τολμηρῶς εἰς τὰ ξίφη ἵεται .
+perseus-eng2	 Witnesses of this feat, surely, will never again deny, I feel sure, that courage, like other things, admits of being taught, when this girl, in spite of her sex, leaps so boldly in among the swords!
+
+cts:urn:tlg0032.tlg004:2.13
+glaux1.0-sentence	101
+perseus-grc2	 καὶ ὁ Ἀντισθένης εἶπεν ·
+perseus-eng2	 Well, then, asked Antisthenes,
+
+cts:urn:tlg0032.tlg004:2.13
+glaux1.0-sentence	102
+perseus-grc2	 ἆρ’ οὖν καὶ τῷδε τῷ Συρακοσίῳ κράτιστον ἐπιδείξαντι τῇ πόλει τὴν ὀρχηστρίδα εἰπεῖν , ἐὰν διδῶσιν αὐτῷ Ἀθηναῖοι χρήματα , ποιήσειν πάντας Ἀθηναίους τολμᾶν ὁμόσε ταῖς λόγχαις ἰέναι ;
+perseus-eng2	 had this Syracusan not better exhibit his dancer to the city and announce that if the Athenians will pay him for it he will give all the men of Athens the courage to face the spear?
+
+cts:urn:tlg0032.tlg004:2.14
+glaux1.0-sentence	103
+perseus-grc2	 καὶ ὁ Φίλιππος , νὴ Δί’ , ἔφη , καὶ μὴν ἔγωγε ἡδέως ἂν θεῴμην Πείσανδρον τὸν δημηγόρον μανθάνοντα κυβιστᾶν εἰς τὰς μαχαίρας , ὃς νῦν διὰ τὸ μὴ δύνασθαι λόγχαις ἀντιβλέπειν οὐδὲ συστρατεύεσθαι ἐθέλει .
+perseus-eng2	 Well said!  interjected Philip.  I certainly should like to see Peisander the politician learning to turn somersaults among the knives; for, as it is now, his inability to look spears in the face makes him shrink even from joining the army.
+
+cts:urn:tlg0032.tlg004:2.15
+glaux1.0-sentence	104
+perseus-grc2	 ἐκ τούτου ὁ παῖς ὠρχήσατο .
+perseus-eng2	 At this point the boy performed a dance,
+
+cts:urn:tlg0032.tlg004:2.15
+glaux1.0-sentence	105
+perseus-grc2	 καὶ ὁ Σωκράτης εἶπεν ·
+perseus-eng2	 eliciting from Socrates the remark,
+
+cts:urn:tlg0032.tlg004:2.15
+glaux1.0-sentence	106
+perseus-grc2	 εἴδετ’ , ἔφη , ὡς καλὸς ὁ παῖς ὢν ὅμως σὺν τοῖς σχήμασιν ἔτι καλλίων φαίνεται ἢ ὅταν ἡσυχίαν ἔχῃ ;
+perseus-eng2	 Did you notice that, handsome as the boy is, he appears even handsomer in the poses of the dance than when he is at rest?
+
+cts:urn:tlg0032.tlg004:2.15
+glaux1.0-sentence	107
+perseus-grc2	 καὶ ὁ Χαρμίδης εἶπεν ·
+perseus-eng2	 It looks to me, said Charmides,
+
+cts:urn:tlg0032.tlg004:2.15
+glaux1.0-sentence	108
+perseus-grc2	 ἐπαινοῦντι ἔοικας τὸν ὀρχηστοδιδάσκαλον .
+perseus-eng2	 as if you were puffing the dancing-master.
+
+cts:urn:tlg0032.tlg004:2.16
+glaux1.0-sentence	109
+perseus-grc2	 ναὶ μὰ τὸν Δί’ , ἔφη ὁ Σωκράτης ·
+perseus-eng2	 Assuredly, replied Socrates;
+
+cts:urn:tlg0032.tlg004:2.16
+glaux1.0-sentence	110
+perseus-grc2	 καὶ γὰρ ἄλλο τι προσενενόησα , ὅτι οὐδὲν ἀργὸν τοῦ σώματος ἐν τῇ ὀρχήσει ἦν , ἀλλ’ ἅμα καὶ τράχηλος καὶ σκέλη καὶ χεῖρες ἐγυμνάζοντο , ὥσπερ χρὴ ὀρχεῖσθαι τὸν μέλλοντα εὐφορώτερον τὸ σῶμα ἕξειν .
+perseus-eng2	 and I remarked something else, too, — that no part of his body was idle during the dance, but neck, legs, and hands were all active together. And that is the way a person must dance who intends to increase the suppleness of his body.
+
+cts:urn:tlg0032.tlg004:2.16
+glaux1.0-sentence	111
+perseus-grc2	 καὶ ἐγὼ μέν , ἔφη , πάνυ ἂν ἡδέως , ὦ Συρακόσιε , μάθοιμι τὰ σχήματα παρὰ σοῦ .
+perseus-eng2	 And for myself, he continued, addressing the Syracusan, I should be delighted to learn the figures from you.
+
+cts:urn:tlg0032.tlg004:2.17
+glaux1.0-sentence	112
+perseus-grc2	 καὶ ὅς , τί οὖν χρήσῃ αὐτοῖς ;
+perseus-eng2	 What use will you make of them?
+
+cts:urn:tlg0032.tlg004:2.17
+glaux1.0-sentence	113
+perseus-grc2	 ἔφη .
+perseus-eng2	 the other asked.
+
+cts:urn:tlg0032.tlg004:2.17
+glaux1.0-sentence	114
+perseus-grc2	 ὀρχήσομαι νὴ Δία .
+perseus-eng2	 I will dance, by Zeus.
+
+cts:urn:tlg0032.tlg004:2.17
+glaux1.0-sentence	115
+perseus-grc2	 ἐνταῦθα δὴ ἐγέλασαν ἅπαντες .
+perseus-eng2	 At this point everyone laughed.
+
+cts:urn:tlg0032.tlg004:2.17
+glaux1.0-sentence	116
+perseus-grc2	 καὶ ὁ Σωκράτης μάλα ἐσπουδακότι τῷ προσώπῳ , γελᾶτε , ἔφη , ἐπ’ ἐμοί ;
+perseus-eng2	 but  Socrates  , with a perfectly grave expression on his face, said: You are laughing at me, are you?
+
+cts:urn:tlg0032.tlg004:2.17
+glaux1.0-sentence	117
+perseus-grc2	 πότερον ἐπὶ τούτῳ εἰ βούλομαι γυμναζόμενος μᾶλλον ὑγιαίνειν ἢ εἰ ἥδιον ἐσθίειν καὶ καθεύδειν ἢ εἰ τοιούτων γυμνασίων ἐπιθυμῶ , μὴ ὥσπερ οἱ δολιχοδρόμοι τὰ σκέλη μὲν παχύνονται , τοὺς ὤμους δὲ λεπτύνονται , μηδ’ ὥσπερ οἱ πύκται τοὺς μὲν ὤμους παχύνονται , τὰ δὲ σκέλη λεπτύνονται , ἀλλὰ παντὶ διαπονῶν τῷ σώματι πᾶν ἰσόρροπον ποιεῖν ;
+perseus-eng2	 Is it because I want to exercise to better my health? Or because I want to take more pleasure in my food and my sleep? Or is it because I am eager for such exercises as these, not like the long-distance runners, who develop their legs at the expense of their shoulders, nor like the prize-fighters, who develop their shoulders but become thin-legged, but rather with a view to giving my body a symmetrical development by exercising it in every part?
+
+cts:urn:tlg0032.tlg004:2.18
+glaux1.0-sentence	118
+perseus-grc2	 ἢ ἐπ’ ἐκείνῳ γελᾶτε , ὅτι οὐ δεήσει με συγγυμναστὴν ζητεῖν , οὐδ’ ἐν ὄχλῳ πρεσβύτην ὄντα ἀποδύεσθαι , ἀλλ’ ἀρκέσει μοι οἶκος ἑπτάκλινος , ὥσπερ καὶ νῦν τῷδε τῷ παιδὶ ἤρκεσε τόδε τὸ οἴκημα ἐνιδρῶσαι , καὶ χειμῶνος μὲν ἐν στέγῃ γυμνάσομαι , ὅταν δὲ ἄγαν καῦμα ᾖ , ἐν σκιᾷ ;
+perseus-eng2	 Or are you laughing because I shall not need to hunt up a partner to exercise with, or to strip, old as I am, in a crowd, but shall find a moderate-sized room large enough for me (just as but now this room was large enough for the lad here to get up a sweat in), and because in winter I shall exercise under cover, and when it is very hot, in the shade?
+
+cts:urn:tlg0032.tlg004:2.19
+glaux1.0-sentence	119
+perseus-grc2	 ἢ τόδε γελᾶτε , εἰ μείζω τοῦ καιροῦ τὴν γαστέρα ἔχων μετριωτέραν βούλομαι ποιῆσαι αὐτήν ;
+perseus-eng2	 Or is this what provokes your laughter, that I have an unduly large paunch and wish to reduce it?
+
+cts:urn:tlg0032.tlg004:2.19
+glaux1.0-sentence	120
+perseus-grc2	 ἢ οὐκ ἴστε ὅτι ἔναγχος ἕωθεν Χαρμίδης οὑτοσὶ κατέλαβέ με ὀρχούμενον ;
+perseus-eng2	 Don’t you know that just the other day Charmides here caught me dancing early in the morning?
+
+cts:urn:tlg0032.tlg004:2.19
+glaux1.0-sentence	121
+perseus-grc2	 ναὶ μὰ τὸν Δί’ , ἔφη ὁ Χαρμίδης ·
+perseus-eng2	 Indeed I did, said Charmides;
+
+cts:urn:tlg0032.tlg004:2.19
+glaux1.0-sentence	122
+perseus-grc2	 καὶ τὸ μέν γε πρῶτον ἐξεπλάγην καὶ ἔδεισα μὴ μαίνοιο ·
+perseus-eng2	 and at first I was dumbfounded and feared that you were going stark mad;
+
+cts:urn:tlg0032.tlg004:2.19
+glaux1.0-sentence	123
+perseus-grc2	 ἐπεὶ δέ σου ἤκουσα ὅμοια οἷς νῦν λέγεις , καὶ αὐτὸς ἐλθὼν οἴκαδε ὠρχούμην μὲν οὔ , οὐ γὰρ πώποτε τοῦτ’ ἔμαθον , ἐχειρονόμουν δέ ·
+perseus-eng2	 but when I heard you say much the same things as you did just now, I myself went home, and although I did not dance, for I had never learned how, I practised shadow-boxing,
+
+cts:urn:tlg0032.tlg004:2.19
+glaux1.0-sentence	124
+perseus-grc2	 ταῦτα γὰρ ἠπιστάμην .
+perseus-eng2	 for I knew how to do that.
+
+cts:urn:tlg0032.tlg004:2.20
+glaux1.0-sentence	125
+perseus-grc2	 νὴ Δί’ , ἔφη ὁ Φίλιππος , καὶ γὰρ οὖν οὕτω τὰ σκέλη τοῖς ὤμοις φαίνει ἰσοφόρα ἔχειν ὥστε δοκεῖς ἐμοί , κἂν εἰ τοῖς ἀγορανόμοις ἀφισταίης ὥσπερ ἄρτους τὰ κάτω πρὸς τὰ ἄνω , ἀζήμιος ἂν γενέσθαι .
+perseus-eng2	 Undoubtedly, said Philip;
+
+cts:urn:tlg0032.tlg004:2.20
+glaux1.0-sentence	126
+perseus-grc2	 καὶ ὁ Καλλίας εἶπεν ·
+perseus-eng2	 at any rate, your legs appear so nearly equal in weight to your shoulders that I imagine if you were to go to the market commissioners and put your lower parts in the scale against your upper parts, as if they were loaves of bread, they would let you off without a fine.
+
+cts:urn:tlg0032.tlg004:2.20
+glaux1.0-sentence	127
+perseus-grc2	 ὦ Σώκρατες , ἐμὲ μὲν παρακάλει , ὅταν μέλλῃς μανθάνειν ὀρχεῖσθαι , ἵνα σοι ἀντιστοιχῶ τε καὶ συμμανθάνω .
+perseus-eng2	 When you are ready to begin your lessons, Socrates, said Callias, pray invite me, so that I may be opposite you in the figures and may learn with you.
+
+cts:urn:tlg0032.tlg004:2.21
+glaux1.0-sentence	128
+perseus-grc2	 ἄγε δή , ἔφη ὁ Φίλιππος , καὶ ἐμοὶ αὐλησάτω , ἵνα καὶ ἐγὼ ὀρχήσωμαι .
+perseus-eng2	 Come, said Philip, let me have some flute music, so that I may dance too.
+
+cts:urn:tlg0032.tlg004:2.21
+glaux1.0-sentence	129
+perseus-grc2	 ἐπειδὴ δ’ ἀνέστη , διῆλθε μιμούμενος τήν τε τοῦ παιδὸς καὶ τὴν τῆς παιδὸς ὄρχησιν .
+perseus-eng2	 So he got up and mimicked in detail the dancing of both the boy and the girl.
+
+cts:urn:tlg0032.tlg004:2.22
+glaux1.0-sentence	130
+perseus-grc2	 καὶ πρῶτον μὲν ὅτι ἐπῄνεσαν ὡς ὁ παῖς σὺν τοῖς σχήμασιν ἔτι καλλίων ἐφαίνετο , ἀνταπέδειξεν ὅ τι κινοίη τοῦ σώματος ἅπαν τῆς φύσεως γελοιότερον ·
+perseus-eng2	 To begin with, since the company had applauded the way the boy’s natural beauty was increased by the grace of the dancing postures, Philip made a burlesque out of the performance by rendering every part of his body that was in motion more grotesque than it naturally was;
+
+cts:urn:tlg0032.tlg004:2.22
+glaux1.0-sentence	131
+perseus-grc2	 ὅτι δ’ ἡ παῖς εἰς τ- ὄπισθεν καμπτομένη τροχοὺς ἐμιμεῖτο , ἐκεῖνος τ- αὐτὰ εἰς τὸ ἔμπροσθεν ἐπικύπτων μιμεῖσθαι τροχοὺς ἐπειρᾶτο .
+perseus-eng2	 and whereas the girl had bent backward until she resembled a hoop, he tried to do the same by bending forward.
+
+cts:urn:tlg0032.tlg004:2.22
+glaux1.0-sentence	132
+perseus-grc2	 τέλος δ’ ὅτι τὸν παῖδ’ ἐπῄνουν ὡς ἐν τῇ ὀρχήσει ἅπαν τὸ σῶμα γυμνάζοι , κελεύσας τὴν αὐλητρίδα θάττονα ῥυθμὸν ἐπάγειν ἵει ἅμα πάντα καὶ σκέλη καὶ χεῖρας καὶ κεφαλήν .
+perseus-eng2	 Finally, since they had given the boy applause for putting every part of his body into play in the dance, he told the flute girl to hit up the time faster, and danced away, flinging out legs, hands, and head all at the same time;
+
+cts:urn:tlg0032.tlg004:2.23
+glaux1.0-sentence	133
+perseus-grc2	 ἐπειδὴ δὲ ἀπειρήκει , κατακλινόμενος εἶπε ·
+perseus-eng2	 and when he was quite exhausted, he exclaimed as he laid himself down:
+
+cts:urn:tlg0032.tlg004:2.23
+glaux1.0-sentence	134
+perseus-grc2	 τεκμήριον , ὦ ἄνδρες , ὅτι καλῶς γυμνάζει καὶ τὰ ἐμὰ ὀρχήματα .
+perseus-eng2	 Here is proof, gentlemen, that my style of dancing, also, gives excellent exercise;
+
+cts:urn:tlg0032.tlg004:2.23
+glaux1.0-sentence	135
+perseus-grc2	 ἐγὼ γοῦν διψῶ ·
+perseus-eng2	 it has certainly given me a thirst;
+
+cts:urn:tlg0032.tlg004:2.23
+glaux1.0-sentence	136
+perseus-grc2	 καὶ ὁ παῖς ἐγχεάτω μοι τὴν μεγάλην φιάλην .
+perseus-eng2	 so let the servant fill me up the big goblet.
+
+cts:urn:tlg0032.tlg004:2.23
+glaux1.0-sentence	137
+perseus-grc2	 νὴ Δί’ , ἔφη ὁ Καλλίας , καὶ ἡμῖν γε , ἐπεὶ καὶ ἡμεῖς διψῶμεν ἐπὶ σοὶ γελῶντες .
+perseus-eng2	 Certainly, replied Callias;
+
+cts:urn:tlg0032.tlg004:2.24
+glaux1.0-sentence	138
+perseus-grc2	 ὁ δ’ αὖ Σωκράτης εἶπεν ·
+perseus-eng2	 and the same for us, for we are thirsty with laughing at you.
+
+cts:urn:tlg0032.tlg004:2.24
+glaux1.0-sentence	139
+perseus-grc2	 ἀλλὰ πίνειν μέν , ὦ ἄνδρες , καὶ ἐμοὶ πάνυ δοκεῖ ·
+perseus-eng2	 Here Socrates again interposed. Well, gentlemen, said he,
+
+cts:urn:tlg0032.tlg004:2.24
+glaux1.0-sentence	140
+perseus-grc2	 τῷ γὰρ ὄντι ὁ οἶνος ἄρδων τὰς ψυχὰς τὰς μὲν λύπας , ὥσπερ ὁ μανδραγόρας τοὺς ἀνθρώπους , κοιμίζει , τὰς δὲ φιλοφροσύνας , ὥσπερ ἔλαιον φλόγα , ἐγείρει .
+perseus-eng2	 so far as drinking is concerned, you have my hearty approval; for wine does of a truth moisten the soul and lull our griefs to sleep just as the mandragora does with men, at the same time awakening kindly feelings as oil quickens a flame.
+
+cts:urn:tlg0032.tlg004:2.25
+glaux1.0-sentence	141
+perseus-grc2	 δοκεῖ μέντοι μοι καὶ τὰ τῶν ἀνδρῶν σώματα τ- αὐτὰ πάσχειν ἅπερ καὶ τὰ τῶν ἐν γῇ φυομένων .
+perseus-eng2	 However, I suspect that men’s bodies fare the same as those of plants that grow in the ground.
+
+cts:urn:tlg0032.tlg004:2.25
+glaux1.0-sentence	142
+perseus-grc2	 καὶ γὰρ ἐκεῖνα , ὅταν μὲν ὁ θεὸς αὐτὰ ἄγαν ἁθρόως ποτίζῃ , οὐ δύναται ὀρθοῦσθαι οὐδὲ ταῖς αὔραις διαπνεῖσθαι ·
+perseus-eng2	 When God gives the plants water in floods to drink, they cannot stand up straight or let the breezes blow through them;
+
+cts:urn:tlg0032.tlg004:2.25
+glaux1.0-sentence	143
+perseus-grc2	 ὅταν δ’ ὅσῳ ἥδεται τοσοῦτον πίνῃ , καὶ μάλα ὀρθά τε αὔξεται καὶ θάλλοντα ἀφικνεῖται εἰς τὴν καρπογονίαν .
+perseus-eng2	 but when they drink only as much as they enjoy, they grow up very straight and tall and come to full and abundant fruitage.
+
+cts:urn:tlg0032.tlg004:2.26
+glaux1.0-sentence	144
+perseus-grc2	 οὕτω δὲ καὶ ἡμεῖς ἂν μὲν ἁθρόον τὸ ποτὸν ἐγχεώμεθα , ταχὺ ἡμῖν καὶ τὰ σώματα καὶ αἱ γνῶμαι σφαλοῦνται , καὶ οὐδὲ ἀναπνεῖν , μὴ ὅτι λέγειν τι δυνησόμεθα ·
+perseus-eng2	 So it is with us. If we pour ourselves immense draughts, it will be no long time before both our bodies and our minds reel, and we shall not be able even to draw breath, much less to speak sensibly;
+
+cts:urn:tlg0032.tlg004:2.26
+glaux1.0-sentence	145
+perseus-grc2	 ἂν δὲ ἡμῖν οἱ παῖδες μικραῖς κύλιξι πυκνὰ ἐπιψακάζωσιν , ἵνα καὶ ἐγὼ ἐν Γοργιείοις ῥήμασιν εἴπω , οὕτως οὐ βιαζόμενοι μεθύειν ὑπὸ τοῦ οἴνου ἀλλ’ ἀναπειθόμενοι πρὸς τὸ παιγνιωδέστερον ἀφιξόμεθα .
+perseus-eng2	 but if the servants frequently besprinkle us — if I too may use a Gorgian expression — with small cups, we shall thus not be driven on by the wine to a state of intoxication, but instead shall be brought by its gentle persuasion to a more sportive mood.
+
+cts:urn:tlg0032.tlg004:2.27
+glaux1.0-sentence	146
+perseus-grc2	 ἐδόκει μὲν δὴ ταῦτα πᾶσι ·
+perseus-eng2	 This resolution received a unanimous vote.
+
+cts:urn:tlg0032.tlg004:2.27
+glaux1.0-sentence	147
+perseus-grc2	 προσέθηκε δὲ ὁ Φίλιππος ὡς χρὴ τοὺς οἰνοχόους μιμεῖσθαι τοὺς ἀγαθοὺς ἁρματηλάτας , θᾶττον περιελαύνοντας τὰς κύλικας .
+perseus-eng2	 Philip added an amendment added to the effect that the wine-pourers should emulate skilful charioteers by driving the cups around with ever increasing speed.
+
+cts:urn:tlg0032.tlg004:2.27
+glaux1.0-sentence	148
+perseus-grc2	 οἱ μὲν δὴ οἰνοχόοι οὕτως ἐποίουν .
+perseus-eng2	 This the wine-pourers proceeded to do.
+
+cts:urn:tlg0032.tlg004:3.1
+glaux1.0-sentence	149
+perseus-grc2	 ἐκ δὲ τούτου συνηρμοσμένῃ τῇ λύρᾳ πρὸς τὸν αὐλὸν ἐκιθάρισεν ὁ παῖς καὶ ᾖσεν .
+perseus-eng2	 After this the boy, attuning his lyre to the flute, played and sang,
+
+cts:urn:tlg0032.tlg004:3.1
+glaux1.0-sentence	150
+perseus-grc2	 ἔνθα δὴ ἐπῄνεσαν μὲν ἅπαντες ·
+perseus-eng2	 and won the applause of all;
+
+cts:urn:tlg0032.tlg004:3.1
+glaux1.0-sentence	151
+perseus-grc2	 ὁ δὲ Χαρμίδης καὶ εἶπεν ·
+perseus-eng2	 and brought from Charmides the remark,
+
+cts:urn:tlg0032.tlg004:3.1
+glaux1.0-sentence	152
+perseus-grc2	 ἀλλ’ ἐμοὶ μὲν δοκεῖ , ὦ ἄνδρες , ὥσπερ Σωκράτης ἔφη τὸν οἶνον , οὕτως καὶ αὕτη ἡ κρᾶσις τῶν τε παίδων τῆς ὥρας καὶ τῶν φθόγγων τὰς μὲν λύπας κοιμίζειν , τὴν δ’ ἀφροδίτην ἐγείρειν .
+perseus-eng2	 It seems to me, gentlemen, that, as Socrates said of the wine, so this blending of the young people’s beauty and of the notes of the music lulls one’s griefs to sleep and awakens the goddess of Love.
+
+cts:urn:tlg0032.tlg004:3.2
+glaux1.0-sentence	153
+perseus-grc2	 ἐκ τούτου δὲ πάλιν εἶπεν ὁ Σωκράτης ·
+perseus-eng2	 Then Socrates resumed the conversation.
+
+cts:urn:tlg0032.tlg004:3.2
+glaux1.0-sentence	154
+perseus-grc2	 οὗτοι μὲν δή , ὦ ἄνδρες , ἱκανοὶ τέρπειν ἡμᾶς φαίνονται ·
+perseus-eng2	 These people, gentlemen, said he, show their competence to give us pleasure;
+
+cts:urn:tlg0032.tlg004:3.2
+glaux1.0-sentence	155
+perseus-grc2	 ἡμεῖς δὲ τούτων οἶδ’ ὅτι πολὺ βελτίονες οἰόμεθα εἶναι ·
+perseus-eng2	 and yet we, I am sure, think ourselves considerably superior to them.
+
+cts:urn:tlg0032.tlg004:3.2
+glaux1.0-sentence	156
+perseus-grc2	 οὐκ αἰσχρὸν οὖν εἰ μήδ’ ἐπιχειρήσομεν συνόντες ὠφελεῖν τι ἢ εὐφραίνειν ἀλλήλους ;
+perseus-eng2	 Will it not be to our shame, therefore, if we do not make even an attempt, while here together, to be of some service or to give some pleasure one to another?
+
+cts:urn:tlg0032.tlg004:3.2
+glaux1.0-sentence	157
+perseus-grc2	 ἐντεῦθεν εἶπαν πολλοί ·
+perseus-eng2	 At that many spoke up:
+
+cts:urn:tlg0032.tlg004:3.2
+glaux1.0-sentence	158
+perseus-grc2	 σὺ τοίνυν ἡμῖν ἐξηγοῦ ποίων λόγων ἁπτόμενοι μάλιστ’ ἂν ταῦτα ποιοῖμεν .
+perseus-eng2	 You lead the way, then, and tell us what to begin talking about to realize most fully what you have in mind.
+
+cts:urn:tlg0032.tlg004:3.3
+glaux1.0-sentence	159
+perseus-grc2	 ἐγὼ μὲν τοίνυν , ἔφη , ἥδιστ’ ἂν ἀπολάβοιμι παρὰ Καλλίου τὴν ὑπόσχεσιν .
+perseus-eng2	 For my part, he answered, I should like to have Callias redeem his promise;
+
+cts:urn:tlg0032.tlg004:3.3
+glaux1.0-sentence	160
+perseus-grc2	 ἔφη γὰρ δήπου , εἰ συνδειπνοῖμεν , ἐπιδείξειν τὴν αὑτοῦ σοφίαν .
+perseus-eng2	 for he said, you remember, that if we would take dinner with him, he would give us an exhibition of his profundity.
+
+cts:urn:tlg0032.tlg004:3.3
+glaux1.0-sentence	161
+perseus-grc2	 καὶ ἐπιδείξω γε , ἔφη , ἐὰν καὶ ὑμεῖς ἅπαντες εἰς μέσον φέρητε ὅ τι ἕκαστος ἐπίστασθε ἀγαθόν .
+perseus-eng2	 Yes, rejoined Callias; and I will do so, if the rest of you will also lay before us any serviceable knowledge that you severally possess.
+
+cts:urn:tlg0032.tlg004:3.3
+glaux1.0-sentence	162
+perseus-grc2	 ἀλλ’ οὐδείς σοι , ἔφη , ἀντιλέγει τὸ μὴ οὐ λέξειν ὅ τι ἕκαστος ἡγεῖται πλείστου ἄξιον ἐπίστασθαι .
+perseus-eng2	 Well, answered Socrates, no one objects to telling what he considers the most valuable knowledge in his possession.
+
+cts:urn:tlg0032.tlg004:3.4
+glaux1.0-sentence	163
+perseus-grc2	 ἐγὼ μὲν τοίνυν , ἔφη , λέγω ὑμῖν ἐφ’ ᾧ μέγιστον φρονῶ .
+perseus-eng2	 Very well, then, said Callias, I will now tell you what I take greatest pride in.
+
+cts:urn:tlg0032.tlg004:3.4
+glaux1.0-sentence	164
+perseus-grc2	 ἀνθρώπους γὰρ οἶμαι ἱκανὸς εἶναι βελτίους ποιεῖν .
+perseus-eng2	 It is that I believe I have the power to make men better.
+
+cts:urn:tlg0032.tlg004:3.4
+glaux1.0-sentence	165
+perseus-grc2	 καὶ ὁ Ἀντισθένης εἶπε ·
+perseus-eng2	 How? asked Antisthenes.
+
+cts:urn:tlg0032.tlg004:3.4
+glaux1.0-sentence	166
+perseus-grc2	 πότερον τέχνην τινὰ βαναυσικὴν ἢ καλοκἀγαθίαν διδάσκων ;
+perseus-eng2	 By teaching them some manual trade, or by teaching nobility of character?
+
+cts:urn:tlg0032.tlg004:3.4
+glaux1.0-sentence	167
+perseus-grc2	 εἰ καλοκἀγαθία ἐστὶν ἡ δικαιοσύνη .
+perseus-eng2	 The latter, if righteousness is the same thing as nobility.
+
+cts:urn:tlg0032.tlg004:3.4
+glaux1.0-sentence	168
+perseus-grc2	 νὴ Δί’ , ἔφη ὁ Ἀντισθένης , ἥ γε ἀναμφιλογωτάτη ·
+perseus-eng2	 Certainly it is, replied Antisthenes, and the least debatable kind, too;
+
+cts:urn:tlg0032.tlg004:3.4
+glaux1.0-sentence	169
+perseus-grc2	 ἐπεί τοι ἀνδρεία μὲν καὶ σοφία ἔστιν ὅτε βλαβερὰ καὶ φίλοις καὶ πόλει δοκεῖ εἶναι , ἡ δὲ δικαιοσύνη οὐδὲ καθ’ ἓν συμμίγνυται τῇ ἀδικίᾳ .
+perseus-eng2	 for though courage and wisdom appear at times to work injury both to one’s friends and to the state, righteousness and unrighteousness never overlap at a single point.
+
+cts:urn:tlg0032.tlg004:3.5
+glaux1.0-sentence	170
+perseus-grc2	 ἐπειδὰν τοίνυν καὶ ὑμῶν ἕκαστος εἴπῃ ὅ τι ὠφέλιμον ἔχει , τότε κ- ἐγὼ οὐ φθονήσω εἰπεῖν τὴν τέχνην δι’ ἧς τοῦτο ἀπεργάζομαι .
+perseus-eng2	 Well, then, when every one of you has named the benefit he can confer, I will not begrudge describing the art that gives me the success that I speak of.
+
+cts:urn:tlg0032.tlg004:3.5
+glaux1.0-sentence	171
+perseus-grc2	 ἀλλὰ σὺ αὖ , ἔφη , λέγε , ὦ Νικήρατε , ἐπὶ ποίᾳ ἐπιστήμῃ μέγα φρονεῖς .
+perseus-eng2	 And so, Niceratus, he suggested, it is your turn; tell us what kind of knowledge you take pride in.
+
+cts:urn:tlg0032.tlg004:3.5
+glaux1.0-sentence	172
+perseus-grc2	 καὶ ὃς εἶπεν ·
+perseus-eng2	 My father was anxious to see me develop into a good man, said Niceratus,
+
+cts:urn:tlg0032.tlg004:3.5
+glaux1.0-sentence	173
+perseus-grc2	 ὁ πατὴρ ὁ ἐπιμελούμενος ὅπως ἀνὴρ ἀγαθὸς γενοίμην ἠνάγκασέ με πάντα τὰ Ὁμήρου ἔπη μαθεῖν ·
+perseus-eng2	 and as a means to this end he compelled me to memorize all of Homer;
+
+cts:urn:tlg0032.tlg004:3.5
+glaux1.0-sentence	174
+perseus-grc2	 καὶ νῦν δυναίμην ἂν Ἰλιάδα ὅλην καὶ Ὀδύσσειαν ἀπὸ στόματος εἰπεῖν .
+perseus-eng2	 and so even now I can repeat the whole Iliad and the Odyssey by heart.
+
+cts:urn:tlg0032.tlg004:3.6
+glaux1.0-sentence	175
+perseus-grc2	 ἐκεῖνο δ’ , ἔφη ὁ Ἀντισθένης , λέληθέ σε , ὅτι καὶ οἱ ῥαψῳδοὶ πάντες ἐπίστανται ταῦτα τὰ ἔπη ;
+perseus-eng2	 But have you failed to observe, questioned Antisthenes, that the rhapsodes, too, all know these poems?
+
+cts:urn:tlg0032.tlg004:3.6
+glaux1.0-sentence	176
+perseus-grc2	 καὶ πῶς ἄν , ἔφη , λελήθοι ἀκροώμενόν γε αὐτῶν ὀλίγου ἀν’ ἑκάστην ἡμέραν ;
+perseus-eng2	 How could I, he replied, when I listen to their recitations nearly every day?
+
+cts:urn:tlg0032.tlg004:3.6
+glaux1.0-sentence	177
+perseus-grc2	 οἶσθά τι οὖν ἔθνος , ἔφη , ἠλιθιώτερον ῥαψῳδῶν ;
+perseus-eng2	 Well, do you know any tribe of men, went on the other, more stupid than the rhapsodes?
+
+cts:urn:tlg0032.tlg004:3.6
+glaux1.0-sentence	178
+perseus-grc2	 οὐ μὰ τὸν Δί’ , ἔφη ὁ Νικήρατος , οὔκουν ἔμοιγε δοκῶ .
+perseus-eng2	 No, indeed, answered Niceratus; not I, I am sure.
+
+cts:urn:tlg0032.tlg004:3.6
+glaux1.0-sentence	179
+perseus-grc2	 δῆλον γάρ , ἔφη ὁ Σωκράτης , ὅτι τὰς ὑπονοίας οὐκ ἐπίστανται .
+perseus-eng2	 No, said Socrates; and the reason is clear: they do not know the inner meaning of the poems.
+
+cts:urn:tlg0032.tlg004:3.6
+glaux1.0-sentence	180
+perseus-grc2	 σὺ δὲ Στησιμβρότῳ τε καὶ Ἀναξιμάνδρῳ καὶ ἄλλοις πολλοῖς πολὺ δέδωκας ἀργύριον , ὥστε οὐδέν σε τῶν πολλοῦ ἀξίων λέληθε .
+perseus-eng2	 But you have paid a good deal of money to Stesimbrotus, Anaximander, and many other Homeric critics, so that nothing of their valuable teaching can have escaped your knowledge.
+
+cts:urn:tlg0032.tlg004:3.7
+glaux1.0-sentence	181
+perseus-grc2	 τί γὰρ σύ , ἔφη , ὦ Κριτόβουλε , ἐπὶ τίνι μέγιστον φρονεῖς ;
+perseus-eng2	 But what about you, Critobulus? he continued. What do you take greatest pride in?
+
+cts:urn:tlg0032.tlg004:3.7
+glaux1.0-sentence	182
+perseus-grc2	 ἐπὶ κάλλει , ἔφη .
+perseus-eng2	 In beauty, he replied.
+
+cts:urn:tlg0032.tlg004:3.7
+glaux1.0-sentence	183
+perseus-grc2	 ἦ οὖν καὶ σύ , ἔφη ὁ Σωκράτης , ἕξεις λέγειν ὅτι τῷ σῷ κάλλει ἱκανὸς εἶ βελτίους ἡμᾶς ποιεῖν ;
+perseus-eng2	 What? exclaimed Socrates. Are you too going to be able to maintain that you can make us better, and by means of your beauty?
+
+cts:urn:tlg0032.tlg004:3.7
+glaux1.0-sentence	184
+perseus-grc2	 εἰ δὲ μή , δῆλόν γε ὅτι φαῦλος φανοῦμαι .
+perseus-eng2	 Why, otherwise, it is clear enough that I shall cut but an indifferent figure.
+
+cts:urn:tlg0032.tlg004:3.8
+glaux1.0-sentence	185
+perseus-grc2	 τί γὰρ σύ , εἶπεν , ἐπὶ τίνι μέγα φρονεῖς , ὦ Ἀντίσθενες ;
+perseus-eng2	 And you, Antisthenes, said Socrates, what do you take pride in?
+
+cts:urn:tlg0032.tlg004:3.8
+glaux1.0-sentence	186
+perseus-grc2	 ἐπὶ πλούτῳ , ἔφη .
+perseus-eng2	 In wealth, he replied.
+
+cts:urn:tlg0032.tlg004:3.8
+glaux1.0-sentence	187
+perseus-grc2	 ὁ μὲν δὴ Ἑρμογένης ἀνήρετο εἰ πολὺ εἴη αὐτῷ ἀργύριον .
+perseus-eng2	 Hermogenes asked him whether he had a large amount of money;
+
+cts:urn:tlg0032.tlg004:3.8
+glaux1.0-sentence	188
+perseus-grc2	 ὁ δὲ ἀπώμοσε μηδὲ ὀβολόν .
+perseus-eng2	 he swore that he did not have even a penny.
+
+cts:urn:tlg0032.tlg004:3.8
+glaux1.0-sentence	189
+perseus-grc2	 ἀλλὰ γῆν πολλὴν κέκτησαι ;
+perseus-eng2	 You own a great deal of land, then?
+
+cts:urn:tlg0032.tlg004:3.8
+glaux1.0-sentence	190
+perseus-grc2	 ἴσως ἄν , ἔφη , Αὐτολύκῳ τούτῳ ἱκανὴ γένοιτο ἐγκονίσασθαι .
+perseus-eng2	 Well, perhaps it might prove big enough, said he, for Autolycus here to sand himself in.
+
+cts:urn:tlg0032.tlg004:3.9
+glaux1.0-sentence	191
+perseus-grc2	 ἀκουστέον ἂν εἴη καὶ σοῦ .
+perseus-eng2	 It looks as if we should have to hear from you, too.
+
+cts:urn:tlg0032.tlg004:3.9
+glaux1.0-sentence	192
+perseus-grc2	 τί γὰρ σύ , ἔφη , ὦ Χαρμίδη , ἐπὶ τίνι μέγα φρονεῖς ;
+perseus-eng2	 And how about you, Charmides? he continued. What do you take pride in?
+
+cts:urn:tlg0032.tlg004:3.9
+glaux1.0-sentence	193
+perseus-grc2	 ἐγὼ αὖ , ἔφη , ἐπὶ πενίᾳ μέγα φρονῶ .
+perseus-eng2	 What pride, said he, on the contrary, is in my poverty.
+
+cts:urn:tlg0032.tlg004:3.9
+glaux1.0-sentence	194
+perseus-grc2	 νὴ Δί’ , ἔφη ὁ Σωκράτης , ἐπ’ εὐχαρίτῳ γε πράγματι .
+perseus-eng2	 A charming thing, upon my word! exclaimed Socrates.
+
+cts:urn:tlg0032.tlg004:3.9
+glaux1.0-sentence	195
+perseus-grc2	 τοῦτο γὰρ δὴ ἥκιστα μὲν ἐπίφθονον , ἥκιστα δὲ περιμάχητον , καὶ ἀφύλακτον ὂν σῴζεται καὶ ἀμελούμενον ἰσχυρότερον γίγνεται .
+perseus-eng2	 It seldom causes envy or is a bone of contention; and it is kept safe without the necessity of a guard, and grows sturdier by neglect!
+
+cts:urn:tlg0032.tlg004:3.10
+glaux1.0-sentence	196
+perseus-grc2	 σὺ δὲ δή , ἔφη ὁ Καλλίας , ἐπὶ τίνι μέγα φρονεῖς , ὦ Σώκρατες ;
+perseus-eng2	 But what of you, Socrates? said Callias. What are you proud of?
+
+cts:urn:tlg0032.tlg004:3.10
+glaux1.0-sentence	197
+perseus-grc2	 καὶ ὃς μάλα σεμνῶς ἀνασπάσας τὸ πρόσωπον , ἐπὶ μαστροπείᾳ , εἶπεν .
+perseus-eng2	 Socrates drew up his face into a very solemn expression, and answered, The trade of procurer.
+
+cts:urn:tlg0032.tlg004:3.10
+glaux1.0-sentence	198
+perseus-grc2	 ἐπεὶ δὲ ἐγέλασαν ἐπ’ αὐτῷ , ὑμεῖς μὲν γελᾶτε , ἔφη , ἐγὼ δὲ οἶδ’ ὅτι καὶ πάνυ ἂν πολλὰ χρήματα λαμβάνοιμι , εἰ βουλοίμην χρῆσθαι τῇ τέχνῃ .
+perseus-eng2	 After the rest had had a laugh at him, Very well, said he, you may laugh, but I know that I could make a lot of money if I cared to follow the trade.
+
+cts:urn:tlg0032.tlg004:3.11
+glaux1.0-sentence	199
+perseus-grc2	 σύ γε μὴν δῆλον , ἔφη ὁ Λύκων τὸν Φίλιππον προσειπών , ὅτι ἐπὶ τῷ γελωτοποιεῖν μέγα φρονεῖς .
+perseus-eng2	 As for you, said Lycon, addressing Philip, it is obvious that your pride is in your jesting.
+
+cts:urn:tlg0032.tlg004:3.11
+glaux1.0-sentence	200
+perseus-grc2	 δικαιότερόν γ’ , ἔφη , οἴομαι , ἢ Καλλιππίδης ὁ ὑποκριτής , ὃς ὑπερσεμνύνεται ὅτι δύναται πολλοὺς κλαίοντας καθίζειν .
+perseus-eng2	 And my pride is better founded, I think, replied Philip, than that of Callippides, the actor, who is consumed with vanity because he can fill the seats with audiences that weep.
+
+cts:urn:tlg0032.tlg004:3.12
+glaux1.0-sentence	201
+perseus-grc2	 οὐκοῦν καὶ σύ , ἔφη ὁ Ἀντισθένης , λέξεις , ὦ Λύκων , ἐπὶ τίνι μέγα φρονεῖς ;
+perseus-eng2	 Will you also not tell us, Lycon, said Antisthenes, what it is that you take pride in?
+
+cts:urn:tlg0032.tlg004:3.12
+glaux1.0-sentence	202
+perseus-grc2	 καὶ ὃς ἔφη ·
+perseus-eng2	 Don’t you all know, he answered,
+
+cts:urn:tlg0032.tlg004:3.12
+glaux1.0-sentence	203
+perseus-grc2	 οὐ γὰρ ἅπαντες ἴστε , ἔφη , ὅτι ἐπὶ τούτῳ τῷ υἱεῖ ;
+perseus-eng2	 that it is in my son here?
+
+cts:urn:tlg0032.tlg004:3.12
+glaux1.0-sentence	204
+perseus-grc2	 οὗτός γε μήν , ἔφη τις , δῆλον ὅτι ἐπὶ τῷ νικηφόρος εἶναι .
+perseus-eng2	 And as for him, said one, it is plain that he is proud at having taken a prize.
+
+cts:urn:tlg0032.tlg004:3.12
+glaux1.0-sentence	205
+perseus-grc2	 καὶ ὁ Αὐτόλυκος ἀνερυθριάσας εἶπε ·
+perseus-eng2	 At this Autolycus blushed and said,
+
+cts:urn:tlg0032.tlg004:3.12
+glaux1.0-sentence	206
+perseus-grc2	 μὰ Δί’ οὐκ ἔγωγε .
+perseus-eng2	 No, indeed, not that.
+
+cts:urn:tlg0032.tlg004:3.13
+glaux1.0-sentence	207
+perseus-grc2	 ἐπεὶ δὲ ἅπαντες ἡσθέντες ὅτι ἤκουσαν αὐτοῦ φωνήσαντος προσέβλεψαν , ἤρετό τις αὐτόν ·
+perseus-eng2	 All looked at him, delighted to hear him speak, and one asked,
+
+cts:urn:tlg0032.tlg004:3.13
+glaux1.0-sentence	208
+perseus-grc2	 ἀλλ’ ἐπὶ τῷ μήν , ὦ Αὐτόλυκε ;
+perseus-eng2	 What is it, then, Autolycus, that you are proud of?
+
+cts:urn:tlg0032.tlg004:3.13
+glaux1.0-sentence	209
+perseus-grc2	 ὁ δ’ εἶπεν ·
+perseus-eng2	 and he answered,
+
+cts:urn:tlg0032.tlg004:3.13
+glaux1.0-sentence	210
+perseus-grc2	 ἐπὶ τῷ πατρί , καὶ ἅμα ἐνεκλίθη αὐτῷ .
+perseus-eng2	 My father, and with the words nestled close against him.
+
+cts:urn:tlg0032.tlg004:3.13
+glaux1.0-sentence	211
+perseus-grc2	 καὶ ὁ Καλλίας ἰδών , Ἆρ’ οἶσθα , ἔφη , ὦ Λύκων , ὅτι πλουσιώτατος εἶ ἀνθρώπων ;
+perseus-eng2	 When Callias saw this, Do you realize, Lycon, said he, that you are the richest man in the world?
+
+cts:urn:tlg0032.tlg004:3.13
+glaux1.0-sentence	212
+perseus-grc2	 μὰ Δί’ , ἔφη , τοῦτο μέντοι ἐγὼ οὐκ οἶδα .
+perseus-eng2	 No, indeed, the other replied, I certainly do not know that.
+
+cts:urn:tlg0032.tlg004:3.13
+glaux1.0-sentence	213
+perseus-grc2	 ἀλλὰ λανθάνει σε ὅτι οὐκ ἂν δέξαιο τὰ βασιλέως χρήματα ἀντὶ τοῦ υἱοῦ ;
+perseus-eng2	 Why, are you blind to the fact that you would not part with your son for the wealth of the Great King?
+
+cts:urn:tlg0032.tlg004:3.13
+glaux1.0-sentence	214
+perseus-grc2	 ἐπ’ αὐτοφώρῳ εἴλημμαι , ἔφη , πλουσιώτατος , ὡς ἔοικεν , ἀνθρώπων ὤν .
+perseus-eng2	 I am caught, was the answer, red-handed; it does look as if I were the richest man in the world.
+
+cts:urn:tlg0032.tlg004:3.14
+glaux1.0-sentence	215
+perseus-grc2	 σὺ δέ , ἔφη ὁ Νικήρατος , ὦ Ἑρμόγενες , ἐπὶ τίνι μάλιστα ἀγάλλῃ ;
+perseus-eng2	 What about you, Hermogenes? said Niceratus. What do you delight in most?
+
+cts:urn:tlg0032.tlg004:3.14
+glaux1.0-sentence	216
+perseus-grc2	 καὶ ὅς , ἐπὶ φίλων , ἔφη , ἀρετῇ καὶ δυνάμει , καὶ ὅτι τοιοῦτοι ὄντες ἐμοῦ ἐπιμέλονται .
+perseus-eng2	 In the goodness and the power of my friends, he answered, and in the fact that with all their excellence they have regard for me.
+
+cts:urn:tlg0032.tlg004:3.14
+glaux1.0-sentence	217
+perseus-grc2	 ἐνταῦθα τοίνυν πάντες προσέβλεψαν αὐτῷ , καὶ πολλοὶ ἅμα ἤροντο εἰ καὶ σφίσι δηλώσοι αὐτούς .
+perseus-eng2	 Thereupon all eyes were turned toward him, and many speaking at once asked him whether he would not discover these friends to them;
+
+cts:urn:tlg0032.tlg004:3.14
+glaux1.0-sentence	218
+perseus-grc2	 ὁ δὲ εἶπεν ὅτι οὐ φθονήσει .
+perseus-eng2	 and he answered that he would not be at all loath to do so.
+
+cts:urn:tlg0032.tlg004:4.1
+glaux1.0-sentence	219
+perseus-grc2	 ἐκ τούτου ἔλεξεν ὁ Σωκράτης ·
+perseus-eng2	 At this point Socrates said:
+
+cts:urn:tlg0032.tlg004:4.1
+glaux1.0-sentence	220
+perseus-grc2	 οὐκοῦν λοιπὸν ἂν εἴη ἡμῖν ἃ ἕκαστος ὑπέσχετο ἀποδεικνύναι ὡς πολλοῦ ἄξιά ἐστιν .
+perseus-eng2	 I suspect that it remains now for each one of us to prove that what he engaged himself to champion is of real worth.
+
+cts:urn:tlg0032.tlg004:4.1
+glaux1.0-sentence	221
+perseus-grc2	 ἀκούοιτ’ ἄν , ἔφη ὁ Καλλίας , ἐμοῦ πρῶτον .
+perseus-eng2	 You may hear me first, said Callias.
+
+cts:urn:tlg0032.tlg004:4.1
+glaux1.0-sentence	222
+perseus-grc2	 ἐγὼ γὰρ ἐν τῷ χρόνῳ ᾧ ὑμῶν ἀκούω ἀπορούντων τί τὸ δίκαιον , ἐν τούτῳ δικαιοτέρους τοὺς ἀνθρώπους ποιῶ .
+perseus-eng2	 While I listen to your philosophical discussions of what righteousness is, I am all the time actually rendering men more righteous.
+
+cts:urn:tlg0032.tlg004:4.1
+glaux1.0-sentence	223
+perseus-grc2	 καὶ ὁ Σωκράτης , πῶς , ὦ λῷστε ;
+perseus-eng2	 How so, my good friend? asked Socrates.
+
+cts:urn:tlg0032.tlg004:4.1
+glaux1.0-sentence	224
+perseus-grc2	 ἔφη .
+perseus-eng2	 Why, by giving them money.
+
+cts:urn:tlg0032.tlg004:4.1
+glaux1.0-sentence	225
+perseus-grc2	 διδοὺς νὴ Δί’ ἀργύριον .
+perseus-eng2	 Then Antisthenes got up and in a very argumentative fashion interrogated him.
+
+cts:urn:tlg0032.tlg004:4.2
+glaux1.0-sentence	226
+perseus-grc2	 καὶ ὁ Ἀντισθένης ἐπαναστὰς μάλα ἐλεγκτικῶς αὐτὸν ἐπήρετο ·
+perseus-eng2	 Where do you think men harbour their righteousness, Callias, in their souls or in their purses?
+
+cts:urn:tlg0032.tlg004:4.2
+glaux1.0-sentence	227
+perseus-grc2	 οἱ δὲ ἄνθρωποι , ὦ Καλλία , πότερον ἐν ταῖς ψυχαῖς ἢ ἐν τῷ βαλαντίῳ τὸ δίκαιόν σοι δοκοῦσιν ἔχειν ;
+perseus-eng2	 In their souls, he replied.
+
+cts:urn:tlg0032.tlg004:4.2
+glaux1.0-sentence	228
+perseus-grc2	 ἐν ταῖς ψυχαῖς , ἔφη .
+perseus-eng2	 So you make their souls more righteous by putting money into their purses?
+
+cts:urn:tlg0032.tlg004:4.2
+glaux1.0-sentence	229
+perseus-grc2	 κ- ἔπειτα σὺ εἰς τὸ βαλάντιον διδοὺς ἀργύριον τὰς ψυχὰς δικαιοτέρους ποιεῖς ;
+perseus-eng2	 I surely do.
+
+cts:urn:tlg0032.tlg004:4.2
+glaux1.0-sentence	230
+perseus-grc2	 μάλιστα .
+perseus-eng2	 How?
+
+cts:urn:tlg0032.tlg004:4.2
+glaux1.0-sentence	231
+perseus-grc2	 πῶς ;
+perseus-eng2	 Because they know that they have the wherewithal to buy the necessities of life, and so they are reluctant to expose themselves to the hazards of crime.
+
+cts:urn:tlg0032.tlg004:4.2
+glaux1.0-sentence	232
+perseus-grc2	 ὅτι διὰ τὸ εἰδέναι ὡς ἔστιν ὅτου πριάμενοι τὰ ἐπιτήδεια ἕξουσιν οὐκ ἐθέλουσι κακουργοῦντες κινδυνεύειν .
+perseus-eng2	 And do they repay you, he asked, the money that they get from you?
+
+cts:urn:tlg0032.tlg004:4.3
+glaux1.0-sentence	233
+perseus-grc2	 ἦ καί σοι , ἔφη , ἀποδιδόασιν ὅ τι ἂν λάβωσι ;
+perseus-eng2	 Heavens, no! he replied.
+
+cts:urn:tlg0032.tlg004:4.3
+glaux1.0-sentence	234
+perseus-grc2	 μὰ τὸν Δί’ , ἔφη , οὐ μὲν δή .
+perseus-eng2	 Well, do they substitute thanks for money payment?
+
+cts:urn:tlg0032.tlg004:4.3
+glaux1.0-sentence	235
+perseus-grc2	 τί δέ , ἀντὶ τοῦ ἀργυρίου χάριτας ;
+perseus-eng2	 No, indeed, nor that either, he said.
+
+cts:urn:tlg0032.tlg004:4.3
+glaux1.0-sentence	236
+perseus-grc2	 οὐ μὰ τὸν Δί’ , ἔφη , οὐδὲ τοῦτο , ἀλλ’ ἔνιοι καὶ ἐχθιόνως ἔχουσιν ἢ πρὶν λαβεῖν .
+perseus-eng2	 On the contrary, some of them have an even greater dislike of me than before they got the money.
+
+cts:urn:tlg0032.tlg004:4.3
+glaux1.0-sentence	237
+perseus-grc2	 θαυμαστά γ’ , ἔφη ὁ Ἀντισθένης ἅμα εἰσβλέπων ὡς ἐλέγχων αὐτόν , εἰ πρὸς μὲν τοὺς ἄλλους δύνασαι δικαίους ἂν ποιεῖν αὐτούς , πρὸς δὲ σαυτὸν οὔ .
+perseus-eng2	 It is remarkable, said Antisthenes, looking fixedly at him as though he had him in a corner, that you can make them righteous toward others but not toward yourself.
+
+cts:urn:tlg0032.tlg004:4.4
+glaux1.0-sentence	238
+perseus-grc2	 καὶ τί τοῦτ’ , ἔφη ὁ Καλλίας , θαυμαστόν ;
+perseus-eng2	 What is there remarkable about that? asked Callias.
+
+cts:urn:tlg0032.tlg004:4.4
+glaux1.0-sentence	239
+perseus-grc2	 οὐ καὶ τέκτονάς τε καὶ οἰκοδόμους πολλοὺς ὁρᾷς οἳ ἄλλοις μὲν πολλοῖς ποιοῦσιν οἰκίας , ἑαυτοῖς δὲ οὐ δύνανται ποιῆσαι , ἀλλ’ ἐν μισθωταῖς οἰκοῦσι ;
+perseus-eng2	 Do you not see plenty of carpenters, also, and architects that build houses for many another person but cannot do it for themselves, but live in rented houses?
+
+cts:urn:tlg0032.tlg004:4.4
+glaux1.0-sentence	240
+perseus-grc2	 καὶ ἀνάσχου μέντοι , ὦ σοφιστά , ἐλεγχόμενος .
+perseus-eng2	 Come now, my captious friend, take your medicine and own that you are beaten.
+
+cts:urn:tlg0032.tlg004:4.5
+glaux1.0-sentence	241
+perseus-grc2	 νὴ Δί’ , ἔφη ὁ Σωκράτης , ἀνεχέσθω μέντοι ·
+perseus-eng2	 By all means, said Socrates, let him do so.
+
+cts:urn:tlg0032.tlg004:4.5
+glaux1.0-sentence	242
+perseus-grc2	 ἐπεὶ καὶ οἱ μάντεις λέγονται δήπου ἄλλοις μὲν προαγορεύειν τὸ μέλλον , ἑαυτοῖς δὲ μὴ προορᾶν τὸ ἐπιόν .
+perseus-eng2	 For even the soothsayers have the reputation, you know, of prophesying the future for others but of not being able to foresee their own fate.
+
+cts:urn:tlg0032.tlg004:4.6
+glaux1.0-sentence	243
+perseus-grc2	 οὗτος μὲν δὴ ὁ λόγος ἐνταῦθα ἔληξεν .
+perseus-eng2	 Here the discussion of this point ended.
+
+cts:urn:tlg0032.tlg004:4.6
+glaux1.0-sentence	244
+perseus-grc2	 ἐκ τούτου δὲ ὁ Νικήρατος , ἀκούοιτ’ ἄν , ἔφη , καὶ ἐμοῦ ἃ ἔσεσθε βελτίονες , ἂν ἐμοὶ συνῆτε .
+perseus-eng2	 Then Niceratus remarked: You may now hear me tell wherein you will be improved by associating with me.
+
+cts:urn:tlg0032.tlg004:4.6
+glaux1.0-sentence	245
+perseus-grc2	 ἴστε γὰρ δήπου ὅτι Ὅμηρος ὁ σοφώτατος πεποίηκε σχεδὸν περὶ πάντων τῶν ἀνθρωπίνων .
+perseus-eng2	 You know, doubtless, that the sage Homer has written about practically everything pertaining to man.
+
+cts:urn:tlg0032.tlg004:4.6
+glaux1.0-sentence	246
+perseus-grc2	 ὅστις ἂν οὖν ὑμῶν βούληται ἢ οἰκονομικὸς ἢ δημηγορικὸς ἢ στρατηγικὸς γενέσθαι ἢ ὅμοιος Ἀχιλλεῖ ἢ Αἴαντι ἢ Νέστορι ἢ Ὀδυσσεῖ , ἐμὲ θεραπευέτω .
+perseus-eng2	 Any one of you, therefore, who wishes to acquire the art of the householder, the political leader, or the general, or to become like Achilles or Ajax or Nestor or Odysseus, should seek my favour,
+
+cts:urn:tlg0032.tlg004:4.6
+glaux1.0-sentence	247
+perseus-grc2	 ἐγὼ γὰρ ταῦτα πάντα ἐπίσταμαι .
+perseus-eng2	 for I understand all these things.
+
+cts:urn:tlg0032.tlg004:4.6
+glaux1.0-sentence	248
+perseus-grc2	 ἦ καὶ βασιλεύειν , ἔφη ὁ Ἀντισθένης , ἐπίστασαι , ὅτι οἶσθα ἐπαινέσαντα αὐτὸν τὸν Ἀγαμέμνονα ὡς βασιλεύς τε εἴη ἀγαθὸς κρατερός τ’ αἰχμητής ;
+perseus-eng2	 Ha! said Antisthenes; do you understand how to play the king, too, knowing, as you do, that Homer praised Agamemnon for being "both goodly king and spearman strong"?
+
+cts:urn:tlg0032.tlg004:4.6
+glaux1.0-sentence	249
+perseus-grc2	 καὶ ναὶ μὰ Δί’ , ἔφη , ἔγωγε ὅτι ἁρματηλατοῦντα δεῖ ἐγγὺς μὲν τῆς στήλης κάμψαι ,αὐτὸν δὲ κλινθῆναι ἐυξέστου ἐπὶ δίφρου ἦκ’ ἐπ’ ἀριστερὰ τοῖιν , ἀτὰρ τὸν δεξιὸν ἵππονκένσαι ὁμοκλήσαντ’ εἶξαί τέ οἱ ἡνία χερσί .
+perseus-eng2	 Yes, indeed! said he; and I know also that in driving a chariot one must run close to the goalpost at the turn and "Himself lean lightly to the left within The polished car, the right-hand trace-horse goad, Urge him with shouts, and let him have the reins." Hom. Il. 23.335-337
+
+cts:urn:tlg0032.tlg004:4.7
+glaux1.0-sentence	250
+perseus-grc2	 καὶ πρὸς τούτοις γε ἄλλο οἶδα , καὶ ὑμῖν αὐτίκα μάλ’ ἔξεστι πειρᾶσθαι .
+perseus-eng2	 And beside this I know something else, which you may test immediately.
+
+cts:urn:tlg0032.tlg004:4.7
+glaux1.0-sentence	251
+perseus-grc2	 εἶπε γάρ που Ὅμηρος ·
+perseus-eng2	 For Homer says somewhere:
+
+cts:urn:tlg0032.tlg004:4.7
+glaux1.0-sentence	252
+perseus-grc2	 ἐπὶ δὲ κρόμυον ποτῷ ὄψον .
+perseus-eng2	 "An onion, too, a relish for the drink."
+
+cts:urn:tlg0032.tlg004:4.7
+glaux1.0-sentence	253
+perseus-grc2	 ἐὰν οὖν ἐνέγκῃ τις κρόμμυον , αὐτίκα μάλα τοῦτό γε ὠφελημένοι ἔσεσθε ·
+perseus-eng2	 Now if some one will bring an onion, you will receive this benefit, at any rate, without delay;
+
+cts:urn:tlg0032.tlg004:4.7
+glaux1.0-sentence	254
+perseus-grc2	 ἥδιον γὰρ πιεῖσθε .
+perseus-eng2	 for you will get more pleasure out of your drinking.
+
+cts:urn:tlg0032.tlg004:4.8
+glaux1.0-sentence	255
+perseus-grc2	 καὶ ὁ Χαρμίδης εἶπεν ·
+perseus-eng2	 Gentlemen, said Charmides,
+
+cts:urn:tlg0032.tlg004:4.8
+glaux1.0-sentence	256
+perseus-grc2	 ὦ ἄνδρες , ὁ Νικήρατος κρομμύων ὄζων ἐπιθυμεῖ οἴκαδε ἐλθεῖν , ἵν’ ἡ γυνὴ αὐτοῦ πιστεύῃ μηδὲ διανοηθῆναι μηδένα ἂν φιλῆσαι αὐτόν .
+perseus-eng2	 Niceratus is intent on going home smelling of onions to make his wife believe that no one would even have conceived the thought of kissing him.
+
+cts:urn:tlg0032.tlg004:4.8
+glaux1.0-sentence	257
+perseus-grc2	 νὴ Δί’ , ἔφη ὁ Σωκράτης , ἀλλ’ ἄλλην που δόξαν γελοίαν κίνδυνος ἡμῖν προσλαβεῖν .
+perseus-eng2	 Undoubtedly, said Socrates. But we run the risk of getting a different sort of reputation, one that will bring us ridicule.
+
+cts:urn:tlg0032.tlg004:4.8
+glaux1.0-sentence	258
+perseus-grc2	 ὄψον μὲν γὰρ δὴ ὄντως ἔοικεν εἶναι , ὡς κρόμμυόν γε οὐ μόνον σῖτον ἀλλὰ καὶ ποτὸν ἡδύνει .
+perseus-eng2	 For though the onion seems to be in the truest sense a relish, since it adds to our enjoyment not only of food, but also of drink,
+
+cts:urn:tlg0032.tlg004:4.8
+glaux1.0-sentence	259
+perseus-grc2	 εἰ δὲ δὴ τοῦτο καὶ μετὰ δεῖπνον τρωξόμεθα , ὅπως μὴ φήσῃ τις ἡμᾶς πρὸς Καλλίαν ἐλθόντας ἡδυπαθεῖν .
+perseus-eng2	 yet if we eat it not only with our dinner but after it as well, take care that some one does not say of us that on our visit to Callias we were merely indulging our appetites.
+
+cts:urn:tlg0032.tlg004:4.9
+glaux1.0-sentence	260
+perseus-grc2	 μηδαμῶς , ἔφη , ὦ Σώκρατες .
+perseus-eng2	 Heaven forbid, Socrates! was the reply.
+
+cts:urn:tlg0032.tlg004:4.9
+glaux1.0-sentence	261
+perseus-grc2	 εἰς μὲν γὰρ μάχην ὁρμωμένῳ καλῶς ἔχει κρόμμυον ὑποτρώγειν , ὥσπερ ἔνιοι τοὺς ἀλεκτρυόνας σκόροδα σιτίσαντες συμβάλλουσιν ·
+perseus-eng2	 I grant that when a man is setting out for battle, it is well for him to nibble an onion, just as some people give their game-cocks a feed of garlic before pitting them together in the ring;
+
+cts:urn:tlg0032.tlg004:4.9
+glaux1.0-sentence	262
+perseus-grc2	 ἡμεῖς δὲ ἴσως βουλευόμεθα ὅπως φιλήσομέν τινα μᾶλλον ἢ μαχούμεθα .
+perseus-eng2	 as for us, however, our plans perhaps look more to getting a kiss from some one than to fighting.
+
+cts:urn:tlg0032.tlg004:4.10
+glaux1.0-sentence	263
+perseus-grc2	 καὶ οὗτος μὲν δὴ ὁ λόγος οὕτω πως ἐπαύσατο .
+perseus-eng2	 That was about the way the discussion of this point ended.
+
+cts:urn:tlg0032.tlg004:4.10
+glaux1.0-sentence	264
+perseus-grc2	 ὁ δὲ Κριτόβουλος , οὐκοῦν αὖ ἐγὼ λέξω , ἔφη , ἐξ ὧν ἐπὶ τῷ κάλλει μέγα φρονῶ .
+perseus-eng2	 Then Critobulus said: Shall I take my turn now and tell you my grounds for taking pride in my handsomeness?
+
+cts:urn:tlg0032.tlg004:4.10
+glaux1.0-sentence	265
+perseus-grc2	 λέγε , ἔφασαν .
+perseus-eng2	 Do, they said.
+
+cts:urn:tlg0032.tlg004:4.10
+glaux1.0-sentence	266
+perseus-grc2	 εἰ μὲν τοίνυν μὴ καλός εἰμι , ὡς οἴομαι , ὑμεῖς ἂν δικαίως ἀπάτης δίκην ὑπέχοιτε ·
+perseus-eng2	 Well, then, if I am not handsome, as I think I am, you could fairly be sued for misrepresentation;
+
+cts:urn:tlg0032.tlg004:4.10
+glaux1.0-sentence	267
+perseus-grc2	 οὐδενὸς γὰρ ὁρκίζοντος ἀεὶ ὀμνύοντες καλόν μέ φατε εἶναι .
+perseus-eng2	 for though no one asks you for an oath, you are always swearing that I am handsome.
+
+cts:urn:tlg0032.tlg004:4.10
+glaux1.0-sentence	268
+perseus-grc2	 κ- ἐγὼ μέντοι πιστεύω .
+perseus-eng2	 And indeed I believe you;
+
+cts:urn:tlg0032.tlg004:4.10
+glaux1.0-sentence	269
+perseus-grc2	 καλοὺς γὰρ καὶ ἀγαθοὺς ὑμᾶς ἄνδρας νομίζω .
+perseus-eng2	 for I consider you to be honourable men.
+
+cts:urn:tlg0032.tlg004:4.11
+glaux1.0-sentence	270
+perseus-grc2	 εἰ δ’ εἰμί τε τῷ ὄντι καλὸς καὶ ὑμεῖς τὰ αὐτὰ πρὸς ἐμὲ πάσχετε οἷάπερ ἐγὼ πρὸς τὸν ἐμοὶ δοκοῦντα καλὸν εἶναι , ὄμνυμι πάντας θεοὺς μὴ ἑλέσθαι ἂν τὴν βασιλέως ἀρχὴν ἀντὶ τοῦ καλὸς εἶναι .
+perseus-eng2	 But, on the other hand, if I really am handsome and you have the same feelings toward me that I have toward the one who is handsome in my eyes, I swear by all the gods that I would not take the kingdom of Persia  in exchange for the possession of beauty.
+
+cts:urn:tlg0032.tlg004:4.12
+glaux1.0-sentence	271
+perseus-grc2	 νῦν γὰρ ἐγὼ Κλεινίαν ἥδιον μὲν θεῶμαι ἢ τ- ἄλλα πάντα τὰ ἐν ἀνθρώποις καλά ·
+perseus-eng2	 For as it is, I would rather gaze at Cleinias than at all the other beautiful objects in the world.
+
+cts:urn:tlg0032.tlg004:4.12
+glaux1.0-sentence	272
+perseus-grc2	 τυφλὸς δὲ τῶν ἄλλων ἁπάντων μᾶλλον δεξαίμην ἂν εἶναι ἢ Κλεινίου ἑνὸς ὄντος ·
+perseus-eng2	 I would rather be blind to all things else than to Cleinias alone.
+
+cts:urn:tlg0032.tlg004:4.12
+glaux1.0-sentence	273
+perseus-grc2	 ἄχθομαι δὲ καὶ νυκτὶ καὶ ὕπνῳ ὅτι ἐκεῖνον οὐχ ὁρῶ , ἡμέρᾳ δὲ καὶ ἡλίῳ τὴν μεγίστην χάριν οἶδα ὅτι μοι Κλεινίαν ἀναφαίνουσιν .
+perseus-eng2	 I chafe at both night and sleep because then I do not see him; I feel the deepest gratitude to day and the sun because they reveal Cleinias to me.
+
+cts:urn:tlg0032.tlg004:4.13
+glaux1.0-sentence	274
+perseus-grc2	 ἄξιόν γε μὴν ἡμῖν τοῖς καλοῖς καὶ ἐπὶ τοῖσδε μέγα φρονεῖν , ὅτι τὸν μὲν ἰσχυρὸν πονοῦντα δεῖ κτᾶσθαι τ- ἀγαθὰ καὶ τὸν ἀνδρεῖον κινδυνεύοντα , τὸν δέ γε σοφὸν λέγοντα ·
+perseus-eng2	 We handsome people have a right to be proud of this fact, too, that whereas the strong man must get the good things of his desire by toil, and the brave man by adventure, and the wise man by his eloquence,
+
+cts:urn:tlg0032.tlg004:4.13
+glaux1.0-sentence	275
+perseus-grc2	 ὁ δὲ καλὸς καὶ ἡσυχίαν ἔχων πάντ’ ἂν διαπράξαιτο .
+perseus-eng2	 the handsome person can attain all his ends without doing anything.
+
+cts:urn:tlg0032.tlg004:4.14
+glaux1.0-sentence	276
+perseus-grc2	 ἐγὼ γοῦν καίπερ εἰδὼς ὅτι χρήματα ἡδὺ κτῆμα ἥδιον μὲν ἂν Κλεινίᾳ τὰ ὄντα διδοίην ἢ ἕτερα παρ’ ἄλλου λαμβάνοιμι , ἥδιον δ’ ἂν δουλεύοιμι ἢ ἐλεύθερος εἴην , εἴ μου Κλεινίας ἄρχειν ἐθέλοι .
+perseus-eng2	 So far as I, at least, am concerned, although I realize that money is a delightful possession,
+
+cts:urn:tlg0032.tlg004:4.14
+glaux1.0-sentence	277
+perseus-grc2	 καὶ γὰρ πονοίην ἂν ῥᾷον ἐκείνῳ ἢ ἀναπαυοίμην , καὶ κινδυνεύοιμ’ ἂν πρὸ ἐκείνου ἥδιον ἢ ἀκίνδυνος ζῴην .
+perseus-eng2	 I should take more delight in giving what I have to Cleinias than in adding to my possessions from another person’s; and I should take more delight in being a slave than in being a free man, if Cleinias would deign to be my master. For I should find it easier to toil for him than to rest, and it would be more delightful to risk my life for his sake than to live in safety.
+
+cts:urn:tlg0032.tlg004:4.15
+glaux1.0-sentence	278
+perseus-grc2	 ὥστε εἰ σύ , ὦ Καλλία , μέγα φρονεῖς ὅτι δικαιοτέρους δύνασαι ποιεῖν , ἐγὼ πρὸς πᾶσαν ἀρετὴν δικαιότερος σοῦ εἰμι ἄγων ἀνθρώπους .
+perseus-eng2	 And so, Callias, if you are proud of your ability to make people more righteous, I have a better right than you to claim that I can influence men toward every sort of virtue.
+
+cts:urn:tlg0032.tlg004:4.15
+glaux1.0-sentence	279
+perseus-grc2	 διὰ γὰρ τὸ ἐμπνεῖν τι ἡμᾶς τοὺς καλοὺς τοῖς ἐρωτικοῖς ἐλευθεριωτέρους μὲν αὐτοὺς ποιοῦμεν εἰς χρήματα , φιλοπονωτέρους δὲ καὶ φιλοκαλωτέρους ἐν τοῖς κινδύνοις , καὶ μὴν αἰδημονεστέρους τε καὶ ἐγκρατεστέρους , οἵ γε καὶ ὧν δέονται μάλιστα ταῦτ’ αἰσχύνονται .
+perseus-eng2	 For since we handsome men exert a certain inspiration upon the amorous, we make them more generous in money matters, more strenuous and heroic amid dangers, yes, and more modest and self-controlled also; for they feel abashed about the very things that they want most.
+
+cts:urn:tlg0032.tlg004:4.16
+glaux1.0-sentence	280
+perseus-grc2	 μαίνονται δὲ καὶ οἱ μὴ τοὺς καλοὺς στρατηγοὺς αἱρούμενοι .
+perseus-eng2	 Madness is in those people, too, who do not elect the handsome men as generals;
+
+cts:urn:tlg0032.tlg004:4.16
+glaux1.0-sentence	281
+perseus-grc2	 ἐγὼ γοῦν μετὰ Κλεινίου κἂν διὰ πυρὸς ἰοίην ·
+perseus-eng2	 I certainly would go through fire with Cleinias,
+
+cts:urn:tlg0032.tlg004:4.16
+glaux1.0-sentence	282
+perseus-grc2	 οἶδα δ’ ὅτι καὶ ὑμεῖς μετ’ ἐμοῦ .
+perseus-eng2	 and I know that you would, also, with me.
+
+cts:urn:tlg0032.tlg004:4.16
+glaux1.0-sentence	283
+perseus-grc2	 ὥστε μηκέτι ἀπόρει , ὦ Σώκρατες , εἴ τι τ- ἐμὸν κάλλος ἀνθρώπους ὠφελήσει .
+perseus-eng2	 Therefore, Socrates, do not puzzle any more over the question whether or not my beauty will be of any benefit to men.
+
+cts:urn:tlg0032.tlg004:4.17
+glaux1.0-sentence	284
+perseus-grc2	 ἀλλ’ οὐδὲ μέντοι ταύτῃ γε ἀτιμαστέον τὸ κάλλος ὡς ταχὺ παρακμάζον , ἐπεὶ ὥσπερ γε παῖς γίγνεται καλός , οὕτω καὶ μειράκιον καὶ ἀνὴρ καὶ πρεσβύτης .
+perseus-eng2	 But more than that, beauty is not to be contemned on this ground, either, that it soon passes its prime;
+
+cts:urn:tlg0032.tlg004:4.17
+glaux1.0-sentence	285
+perseus-grc2	 τεκμήριον δέ ·
+perseus-eng2	 for just as we recognize beauty in a boy, so we do in a youth, a full-grown man, or an old man.
+
+cts:urn:tlg0032.tlg004:4.17
+glaux1.0-sentence	286
+perseus-grc2	 θαλλοφόρους γὰρ τῇ Ἀθηνᾷ τοὺς καλοὺς γέροντας ἐκλέγονται , ὡς συμπαρομαρτοῦντος πάσῃ ἡλικίᾳ τοῦ κάλλους .
+perseus-eng2	 Witness the fact that in selecting garlandbearers for Athena they choose beautiful old men, thus intimating that beauty attends every period of life.
+
+cts:urn:tlg0032.tlg004:4.18
+glaux1.0-sentence	287
+perseus-grc2	 εἰ δὲ ἡδὺ τὸ παρ’ ἑκόντων διαπράττεσθαι ὧν τις δέοιτο , εὖ οἶδ’ ὅτι καὶ νυνὶ θᾶττον ἂν ἐγὼ καὶ σιωπῶν πείσαιμι τὸν παῖδα τόνδε καὶ τὴν παῖδα φιλῆσαί με ἢ σύ , ὦ Σώκρατες , εἰ καὶ πάνυ πολλὰ καὶ σοφὰ λέγοις .
+perseus-eng2	 Furthermore, if it is pleasurable to attain one’s desires with the good will of the giver, I know very well that at this very moment, without uttering a word, I could persuade this boy or this girl to give me a kiss sooner than you could,  Socrates  , no matter how long and profoundly you might argue.
+
+cts:urn:tlg0032.tlg004:4.19
+glaux1.0-sentence	288
+perseus-grc2	 τί τοῦτο ;
+perseus-eng2	 How now? exclaimed Socrates.
+
+cts:urn:tlg0032.tlg004:4.19
+glaux1.0-sentence	289
+perseus-grc2	 ἔφη ὁ Σωκράτης ·
+perseus-eng2	 You boast as though you actually thought yourself a handsomer man than me.
+
+cts:urn:tlg0032.tlg004:4.19
+glaux1.0-sentence	290
+perseus-grc2	 ὡς γὰρ καὶ ἐμοῦ καλλίων ὢν ταῦτα κομπάζεις .
+perseus-eng2	 Of course, was Critobulus’s reply;
+
+cts:urn:tlg0032.tlg004:4.19
+glaux1.0-sentence	291
+perseus-grc2	 νὴ Δί’ , ἔφη ὁ Κριτόβουλος , ἢ πάντων Σειληνῶν τῶν ἐν τοῖς σατυρικοῖς αἴσχιστος ἂν εἴην .
+perseus-eng2	 otherwise I should be the ugliest of all the Satyrs ever on the stage.
+
+cts:urn:tlg0032.tlg004:4.19
+glaux1.0-sentence	292
+perseus-grc2	 ὁ δὲ Σωκράτης καὶ ἐτύγχανε προσεμφερὴς τούτοις ὤν .
+perseus-eng2	 Now Socrates, as fortune would have it, really resembled these creatures.
+
+cts:urn:tlg0032.tlg004:4.20
+glaux1.0-sentence	293
+perseus-grc2	 ἄγε νυν , ἔφη ὁ Σωκράτης , ὅπως μεμνήσῃ διακριθῆναι περὶ τοῦ κάλλους , ἐπειδὰν οἱ προκείμενοι λόγοι περιέλθωσι .
+perseus-eng2	 Come, come, said Socrates; see that you remember to enter a beauty contest with me when the discussion now under way has gone the rounds.
+
+cts:urn:tlg0032.tlg004:4.20
+glaux1.0-sentence	294
+perseus-grc2	 κρινάτω δ’ ἡμᾶς μὴ Ἀλέξανδρος ὁ Πριάμου , ἀλλ’ αὐτοὶ οὗτοι οὕσπερ σὺ οἴει ἐπιθυμεῖν σε φιλῆσαι .
+perseus-eng2	 And let our judges be not Alexander, Priam’s son, but these very persons whom you consider eager to give you a kiss.
+
+cts:urn:tlg0032.tlg004:4.21
+glaux1.0-sentence	295
+perseus-grc2	 Κλεινίᾳ δ’ , ἔφη , ὦ Σώκρατες , οὐκ ἂν ἐπιτρέψαις ;
+perseus-eng2	 Would you not entrust the arbitrament to Cleinias, Socrates?
+
+cts:urn:tlg0032.tlg004:4.21
+glaux1.0-sentence	296
+perseus-grc2	 καὶ ὃς εἶπεν ·
+perseus-eng2	 Aren’t you ever going to get your mind off Cleinias?
+
+cts:urn:tlg0032.tlg004:4.21
+glaux1.0-sentence	297
+perseus-grc2	 οὐ γὰρ παύσῃ σὺ Κλεινίου μεμνημένος ;
+perseus-eng2	 was the rejoinder.
+
+cts:urn:tlg0032.tlg004:4.21
+glaux1.0-sentence	298
+perseus-grc2	 ἂν δὲ μὴ ὀνομάζω , ἧττόν τί με οἴει μεμνῆσθαι αὐτοῦ ;
+perseus-eng2	 If I refrain from mentioning his name, do you suppose that I shall have him any the less in mind?
+
+cts:urn:tlg0032.tlg004:4.21
+glaux1.0-sentence	299
+perseus-grc2	 οὐκ οἶσθα ὅτι οὕτω σαφὲς ἔχω εἴδωλον αὐτοῦ ἐν τῇ ψυχῇ ὡς εἰ πλαστικὸς ἢ ζωγραφικὸς ἦν , οὐδὲν ἂν ἧττον ἐκ τοῦ εἰδώλου ἢ πρὸς αὐτὸν ὁρῶν ὅμοιον αὐτῷ ἀπειργασάμην ;
+perseus-eng2	 Do you not know that I have so clear an image of him in my heart that had I ability as a sculptor or a painter I could produce a likeness of him from this image that would be quite as close as if he were sitting for me in person?
+
+cts:urn:tlg0032.tlg004:4.22
+glaux1.0-sentence	300
+perseus-grc2	 καὶ ὁ Σωκράτης ὑπέλαβε ·
+perseus-eng2	 Socrates responded:
+
+cts:urn:tlg0032.tlg004:4.22
+glaux1.0-sentence	301
+perseus-grc2	 τί δῆτα οὕτως ὅμοιον εἴδωλον ἔχων πράγματά μοι παρέχεις ἄγεις τε αὐτὸν ὅπου ὄψει ;
+perseus-eng2	 Why do you annoy me, then,  and keep taking me about to places where you can see him in person, if you possess so faithful an image of him?
+
+cts:urn:tlg0032.tlg004:4.22
+glaux1.0-sentence	302
+perseus-grc2	 ὅτι , ὦ Σώκρατες , ἡ μὲν αὐτοῦ ὄψις εὐφραίνειν δύναται , ἡ δὲ τοῦ εἰδώλου τέρψιν μὲν οὐ παρέχει , πόθον δὲ ἐμποιεῖ .
+perseus-eng2	 Because, Socrates, the sight of him in person has the power to delight one, whereas the sight of the image does not give pleasure, but implants a craving for him.
+
+cts:urn:tlg0032.tlg004:4.23
+glaux1.0-sentence	303
+perseus-grc2	 καὶ ὁ Ἑρμογένης εἶπεν ·
+perseus-eng2	 For my part, Socrates, said Hermogenes,
+
+cts:urn:tlg0032.tlg004:4.23
+glaux1.0-sentence	304
+perseus-grc2	 ἀλλ’ ἐγώ , ὦ Σώκρατες , οὐδὲ πρὸς σοῦ ποιῶ τὸ περιιδεῖν Κριτόβουλον οὕτως ὑπὸ τοῦ ἔρωτος ἐκπλαγέντα .
+perseus-eng2	 I do not regard it as at all like you to countenance such a mad passion of love in Critobulus.
+
+cts:urn:tlg0032.tlg004:4.23
+glaux1.0-sentence	305
+perseus-grc2	 δοκεῖς γάρ , ἔφη ὁ Σωκράτης , ἐξ οὗ ἐμοὶ σύνεστιν οὕτω διατεθῆναι αὐτόν ;
+perseus-eng2	 What? Do you suppose, asked Socrates, that this condition has arisen since he began associating with me?
+
+cts:urn:tlg0032.tlg004:4.23
+glaux1.0-sentence	306
+perseus-grc2	 ἀλλὰ πότε μήν ;
+perseus-eng2	 If not, when did it?
+
+cts:urn:tlg0032.tlg004:4.23
+glaux1.0-sentence	307
+perseus-grc2	 οὐχ ὁρᾷς ὅτι τούτῳ μὲν παρὰ τὰ ὦτα ἄρτι ἴουλος καθέρπει , Κλεινίᾳ δὲ πρὸς τὸ ὄπισθεν ἤδη ἀναβαίνει ;
+perseus-eng2	 Do you not notice that the soft down is just beginning to grow down in front of his ears, while that of Cleinias is already creeping up the nape of his neck?
+
+cts:urn:tlg0032.tlg004:4.23
+glaux1.0-sentence	308
+perseus-grc2	 οὗτος οὖν συμφοιτῶν εἰς τ- αὐτὸ διδασκαλεῖον ἐκείνῳ τότε ἰσχυρῶς προσεκαύθη .
+perseus-eng2	 Well, then, this hot flame of his was kindled in the days when they used to go to school together.
+
+cts:urn:tlg0032.tlg004:4.24
+glaux1.0-sentence	309
+perseus-grc2	 ἃ δὴ αἰσθόμενος ὁ πατὴρ παρέδωκέ μοι αὐτόν , εἴ τι δυναίμην ὠφελῆσαι .
+perseus-eng2	 It was the discovery of this that caused his father to put him into my hands, in the hope that I might do him some good.
+
+cts:urn:tlg0032.tlg004:4.24
+glaux1.0-sentence	310
+perseus-grc2	 καὶ μέντοι πολὺ βέλτιον ἤδη ἔχει .
+perseus-eng2	 And without question he is already much improved.
+
+cts:urn:tlg0032.tlg004:4.24
+glaux1.0-sentence	311
+perseus-grc2	 πρόσθεν μὲν γάρ , ὥσπερ οἱ τὰς Γοργόνας θεώμενοι , λιθίνως ἔβλεπε πρὸς αὐτὸν καὶ λιθίνως οὐδαμοῦ ἀπῄει ἀπ’ αὐτοῦ ·
+perseus-eng2	 For awhile ago he was like those who look at the Gorgons — he would gaze at Cleinias with a fixed and stony stare and would never leave his presence;
+
+cts:urn:tlg0032.tlg004:4.24
+glaux1.0-sentence	312
+perseus-grc2	 νῦν δὲ ἤδη εἶδον αὐτὸν καὶ σκαρδαμύξαντα .
+perseus-eng2	 but now I have seen him actually close his eyes in a wink.
+
+cts:urn:tlg0032.tlg004:4.25
+glaux1.0-sentence	313
+perseus-grc2	 καίτοι νὴ τοὺς θεούς , ὦ ἄνδρες , δοκεῖ μοί γ’ , ἔφη , ὡς ἐν ἡμῖν αὐτοῖς εἰρῆσθαι , οὗτος καὶ πεφιληκέναι τὸν Κλεινίαν ·
+perseus-eng2	 But to tell you the truth, gentlemen, he continued,
+
+cts:urn:tlg0032.tlg004:4.25
+glaux1.0-sentence	314
+perseus-grc2	 οὗ ἔρωτος οὐδέν ἐστι δεινότερον ὑπέκκαυμα .
+perseus-eng2	 by Heaven! it does look to me — to speak confidentially — as if he had also kissed Cleinias;
+
+cts:urn:tlg0032.tlg004:4.25
+glaux1.0-sentence	315
+perseus-grc2	 καὶ γὰρ ἄπληστον καὶ ἐλπίδας τινὰς γλυκείας παρέχει .
+perseus-eng2	 and there is nothing more terribly potent than this at kindling the fires of passion. For it is insatiable and holds out seductive hopes.
+
+cts:urn:tlg0032.tlg004:4.26
+glaux1.0-sentence	316
+perseus-grc2	 ἴσως δὲ καὶ διὰ τὸ μόνον πάντων ἔργων τὸ τοῖς σώμασι συμψαύειν ὁμώνυμον εἶναι τῷ ταῖς ψυχαῖς φιλεῖσθαι ἐντιμότερόν ἐστιν .
+perseus-eng2	 For this reason I maintain that one who intends to possess the power of self-control must refrain from kissing those in the bloom of beauty.
+
+cts:urn:tlg0032.tlg004:4.26
+glaux1.0-sentence	317
+perseus-grc2	 οὗ ἕνεκα ἀφεκτέον ἐγώ φημι εἶναι φιλημάτων τῶν ὡραίων τῷ σωφρονεῖν δυνησομένῳ .
+perseus-eng2	 For this reason I maintain that one who intends to possess the power of self-control must refrain from kissing those in the bloom of beauty.
+
+cts:urn:tlg0032.tlg004:4.27
+glaux1.0-sentence	318
+perseus-grc2	 καὶ ὁ Χαρμίδης εἶπεν ·
+perseus-eng2	 Charmides now asked:
+
+cts:urn:tlg0032.tlg004:4.27
+glaux1.0-sentence	319
+perseus-grc2	 ἀλλὰ τί δή ποτε , ὦ Σώκρατες , ἡμᾶς μὲν οὕτω τοὺς φίλους μορμολύττῃ ἀπὸ τῶν καλῶν , αὐτὸν δέ σε , ἔφη , ἐγὼ εἶδον ναὶ μὰ τὸν Ἀπόλλω , ὅτε παρὰ τῷ γραμματιστῇ ἐν τῷ αὐτῷ βιβλίῳ ἀμφότεροι ἐμαστεύετέ τι , τὴν κεφαλὴν πρὸς τῇ κεφαλῇ καὶ τὸν ὦμον γυμνὸν πρὸς γυμνῷ τῷ Κριτοβούλου ὤμῳ ἔχοντα .
+perseus-eng2	 But why in the world, Socrates,  do you flourish your bogeys so to frighten us, your friends, away from the beauties, when, by Apollo! I have seen you yourself, when the two of you were hunting down something in the same book-roll at the school, sitting head to head, with your nude shoulder pressing against Critobulus’s nude shoulder?
+
+cts:urn:tlg0032.tlg004:4.28
+glaux1.0-sentence	320
+perseus-grc2	 καὶ ὁ Σωκράτης , φεῦ , ἔφη , ταῦτ’ ἄρα , ἔφη , ἐγὼ ὥσπερ ὑπὸ θηρίου τινὸς δεδηγμένος τόν τε ὦμον πλεῖν ἢ πέντε ἡμέρας ὤδαξον καὶ ἐν τῇ καρδίᾳ ὥσπερ κνῆσμά τι ἐδόκουν ἔχειν .
+perseus-eng2	 Dear me! exclaimed Socrates. So that is what affected me like the bite of a wild animal!
+
+cts:urn:tlg0032.tlg004:4.28
+glaux1.0-sentence	321
+perseus-grc2	 ἀλλὰ νῦν τοί σοι , ἔφη , ὦ Κριτόβουλε , ἐναντίον τοσούτων μαρτύρων προαγορεύω μὴ ἅπτεσθαί μου πρὶν ἂν τὸ γένειον τῇ κεφαλῇ ὁμοίως κομήσῃς .
+perseus-eng2	 And for over five days my shoulder smarted and I felt as if I had something like a sting in my heart.
+
+cts:urn:tlg0032.tlg004:4.28
+glaux1.0-sentence	322
+perseus-grc2	 καὶ οὗτοι μὲν δὴ οὕτως ἀναμὶξ ἔσκωψάν τε καὶ ἐσπούδασαν .
+perseus-eng2	 But now, Critobulus, said he, in the presence of all these witnesses I warn you not to lay a finger on me until you get as much hair on your chin as you have on your head.
+
+cts:urn:tlg0032.tlg004:4.29
+glaux1.0-sentence	323
+perseus-grc2	 ὁ δὲ Καλλίας , σὸν μέρος , ἔφη , λέγειν , ὦ Χαρμίδη , δι’ ὅ τι ἐπὶ πενίᾳ μέγα φρονεῖς .
+perseus-eng2	 Such was the mingled raillery and seriousness that these indulged in.
+
+cts:urn:tlg0032.tlg004:4.29
+glaux1.0-sentence	324
+perseus-grc2	 οὐκοῦν τόδε μέν , ἔφη , ὁμολογεῖται , κρεῖττον εἶναι θαρρεῖν ἢ φοβεῖσθαι καὶ ἐλεύθερον εἶναι μᾶλλον ἢ δουλεύειν καὶ θεραπεύεσθαι μᾶλλον ἢ θεραπεύειν καὶ πιστεύεσθαι ὑπὸ τῆς πατρίδος μᾶλλον ἢ ἀπιστεῖσθαι .
+perseus-eng2	 But Callias now remarked, It is your turn, Charmides, to tell us why poverty makes you feel proud.
+
+cts:urn:tlg0032.tlg004:4.30
+glaux1.0-sentence	325
+perseus-grc2	 ἐγὼ τοίνυν ἐν τῇδε τῇ πόλει ὅτε μὲν πλούσιος ἦν πρῶτον μὲν ἐφοβούμην μή τίς μου τὴν οἰκίαν διορύξας καὶ τὰ χρήματα λάβοι καὶ αὐτόν τί με κακὸν ἐργάσαιτο ·
+perseus-eng2	 Very well, said he. So much, at least, every one admits, that assurance is preferable to fear, freedom to slavery, being the recipient of attention to being the giver of it, the confidence of one’s country to its distrust.
+
+cts:urn:tlg0032.tlg004:4.30
+glaux1.0-sentence	326
+perseus-grc2	 ἔπειτα δὲ καὶ τοὺς συκοφάντας ἐθεράπευον , εἰδὼς ὅτι παθεῖν μᾶλλον κακῶς ἱκανὸς εἴην ἢ ποιῆσαι ἐκείνους .
+perseus-eng2	 Now, as for my situation in our commonwealth, when I was rich, I was, to begin with, in dread of some one’s digging through the wall of my house and not only getting my money but also doing me a mischief personally;
+
+cts:urn:tlg0032.tlg004:4.30
+glaux1.0-sentence	327
+perseus-grc2	 καὶ γὰρ δὴ καὶ προσετάττετο μὲν ἀεί τί μοι δαπανᾶν ὑπὸ τῆς πόλεως , ἀποδημῆσαι δὲ οὐδαμοῦ ἐξῆν .
+perseus-eng2	 in the next place, I knuckled down to the blackmailers, knowing well enough that my abilities lay more in the direction of suffering injury than of inflicting it on them. Then, too, I was for ever being ordered by the government to undergo some expenditure or other, and I never had the opportunity for foreign travel.
+
+cts:urn:tlg0032.tlg004:4.31
+glaux1.0-sentence	328
+perseus-grc2	 νῦν δ’ ἐπειδὴ τῶν ὑπερορίων στέρομαι καὶ τὰ ἔγγεια οὐ καρποῦμαι καὶ τὰ ἐκ τῆς οἰκίας πέπραται , ἡδέως μὲν καθεύδω ἐκτεταμένος , πιστὸς δὲ τῇ πόλει γεγένημαι , οὐκέτι δὲ ἀπειλοῦμαι , ἀλλ’ ἤδη ἀπειλῶ ἄλλοις , ὡς ἐλευθέρῳ τε ἔξεστί μοι καὶ ἀποδημεῖν καὶ ἐπιδημεῖν ·
+perseus-eng2	 Now, however, since I am stripped of my property over the border and get no income from the property in Attica , and my household effects have been sold,
+
+cts:urn:tlg0032.tlg004:4.31
+glaux1.0-sentence	329
+perseus-grc2	 ὑπανίστανται δέ μοι ἤδη καὶ θάκων καὶ ὁδῶν ἐξίστανται οἱ πλούσιοι .
+perseus-eng2	 I stretch out and enjoy a sound sleep, I have gained the confidence of the state, I am no longer subjected to threats but do the threatening now myself; and I have the free man’s privilege of going abroad or staying here at home as I please. People now actually rise from their seats in deference to me, and rich men obsequiously give me the right of way on the street.
+
+cts:urn:tlg0032.tlg004:4.32
+glaux1.0-sentence	330
+perseus-grc2	 καὶ εἰμὶ νῦν μὲν τυράννῳ ἐοικώς , τότε δὲ σαφῶς δοῦλος ἦν ·
+perseus-eng2	 Now I am like a despot; then I was clearly a slave.
+
+cts:urn:tlg0032.tlg004:4.32
+glaux1.0-sentence	331
+perseus-grc2	 καὶ τότε μὲν ἐγὼ φόρον ἀπέφερον τῷ δήμῳ , νῦν δὲ ἡ πόλις τέλος φέρουσα τρέφει με .
+perseus-eng2	 Then I paid a revenue to the body politic; now I live on the tribute that the state pays to me.
+
+cts:urn:tlg0032.tlg004:4.32
+glaux1.0-sentence	332
+perseus-grc2	 ἀλλὰ καὶ Σωκράτει , ὅτε μὲν πλούσιος ἦν , ἐλοιδόρουν με ὅτι συνῆν , νῦν δ’ ἐπεὶ πένης γεγένημαι , οὐκέτι οὐδὲν μέλει οὐδενί .
+perseus-eng2	 Moreover, people used to vilify me, when I was wealthy, for consorting with Socrates; but now that I have got poor, no one bothers his head about it any longer.
+
+cts:urn:tlg0032.tlg004:4.32
+glaux1.0-sentence	333
+perseus-grc2	 καὶ μὴν ὅτε μέν γε πολλὰ εἶχον , ἀεί τι ἀπέβαλλον ἢ ὑπὸ τῆς πόλεως ἢ ὑπὸ τῆς τύχης ·
+perseus-eng2	 Again, when my property was large, either the government or fate was continually making me throw some of it to the winds;
+
+cts:urn:tlg0032.tlg004:4.32
+glaux1.0-sentence	334
+perseus-grc2	 νῦν δὲ ἀποβάλλω μὲν οὐδέν ( οὐδὲ γὰρ ἔχω ) , ἀεὶ δέ τι λήψεσθαι ἐλπίζω .
+perseus-eng2	 but now, far from throwing anything away (for I possess nothing), I am always in expectation of acquiring something.
+
+cts:urn:tlg0032.tlg004:4.33
+glaux1.0-sentence	335
+perseus-grc2	 οὐκοῦν , ἔφη ὁ Καλλίας , καὶ εὔχῃ μηδέποτε πλουτεῖν , καὶ ἐάν τι ὄναρ ἀγαθὸν ἴδῃς , τοῖς ἀποτροπαίοις θύεις ;
+perseus-eng2	 Your prayers, also, said Callias, are doubtless to the effect that you may never be rich; and if you ever have a fine dream you sacrifice, do you not, to the deities who avert disasters?
+
+cts:urn:tlg0032.tlg004:4.33
+glaux1.0-sentence	336
+perseus-grc2	 μὰ Δία τοῦτο μέντοι , ἔφη , ἐγὼ οὐ ποιῶ , ἀλλὰ μάλα φιλοκινδύνως ὑπομένω , ἄν ποθέν τι ἐλπίζω λήψεσθαι .
+perseus-eng2	 Oh, no! was the reply; I don’t go so far as that; I hazard the danger with great heroism if I have any expectation of getting something from some one.
+
+cts:urn:tlg0032.tlg004:4.34
+glaux1.0-sentence	337
+perseus-grc2	 ἀλλ’ ἄγε δή , ἔφη ὁ Σωκράτης , σὺ αὖ λέγε ἡμῖν , ὦ Ἀντίσθενες , πῶς οὕτω βραχέα ἔχων μέγα φρονεῖς ἐπὶ πλούτῳ .
+perseus-eng2	 Come, now, Antisthenes, said Socrates, take your turn and tell us how it is that with such slender means you base your pride on wealth.
+
+cts:urn:tlg0032.tlg004:4.34
+glaux1.0-sentence	338
+perseus-grc2	 ὅτι νομίζω , ὦ ἄνδρες , τοὺς ἀνθρώπους οὐκ ἐν τῷ οἴκῳ τὸν πλοῦτον καὶ τὴν πενίαν ἔχειν ἀλλ’ ἐν ταῖς ψυχαῖς .
+perseus-eng2	 Because, sirs, I conceive that people’s wealth and poverty are to be found not in their real estate but in their hearts.
+
+cts:urn:tlg0032.tlg004:4.35
+glaux1.0-sentence	339
+perseus-grc2	 ὁρῶ γὰρ πολλοὺς μὲν ἰδιώτας , οἳ πάνυ πολλὰ ἔχοντες χρήματα οὕτω πένεσθαι ἡγοῦνται ὥστε πάντα μὲν πόνον , πάντα δὲ κίνδυνον ὑποδύονται , ἐφ’ ᾧ πλείω κτήσονται , οἶδα δὲ καὶ ἀδελφούς , οἳ τὰ ἴσα λαχόντες ὁ μὲν αὐτῶν τ- ἀρκοῦντα ἔχει καὶ περιττεύοντα τῆς δαπάνης , ὁ δὲ τοῦ παντὸς ἐνδεῖται ·
+perseus-eng2	 For I see many persons, not in office, who though possessors of large resources, yet look upon themselves as so poor that they bend their backs to any toil, any risk, if only they may increase their holdings; and again I know of brothers, with equal shares in their inheritance, where one of them has plenty, and more than enough to meet expenses, while the other is in utter want.
+
+cts:urn:tlg0032.tlg004:4.36
+glaux1.0-sentence	340
+perseus-grc2	 αἰσθάνομαι δὲ καὶ τυράννους τινάς , οἳ οὕτω πεινῶσι χρημάτων ὥστε ποιοῦσι πολὺ δεινότερα τῶν ἀπορωτάτων ·
+perseus-eng2	 Again, I am told of certain despots, also, who have such a greedy appetite for riches that they commit much more dreadful crimes than they who are afflicted with the direst poverty.
+
+cts:urn:tlg0032.tlg004:4.36
+glaux1.0-sentence	341
+perseus-grc2	 δι’ ἔνδειαν μὲν γὰρ δήπου οἱ μὲν κλέπτουσιν , οἱ δὲ τοιχωρυχοῦσιν , οἱ δὲ ἀνδραποδίζονται ·
+perseus-eng2	 For it is of course their want that makes some people steal, others commit burglary, others follow the slave trade;
+
+cts:urn:tlg0032.tlg004:4.36
+glaux1.0-sentence	342
+perseus-grc2	 τύραννοι δ’ εἰσί τινες οἳ ὅλους μὲν οἴκους ἀναιροῦσιν , ἁθρόους δ’ ἀποκτείνουσι , πολλάκις δὲ καὶ ὅλας πόλεις χρημάτων ἕνεκα ἐξανδραποδίζονται .
+perseus-eng2	 but there are some despots who destroy whole families, kill men wholesale, oftentimes enslave even entire cities, for the sake of money.
+
+cts:urn:tlg0032.tlg004:4.37
+glaux1.0-sentence	343
+perseus-grc2	 τούτους μὲν οὖν ἔγωγε καὶ πάνυ οἰκτίρω τῆς ἄγαν χαλεπῆς νόσου .
+perseus-eng2	 As for such men, I pity them deeply for their malignant disease;
+
+cts:urn:tlg0032.tlg004:4.37
+glaux1.0-sentence	344
+perseus-grc2	 ὅμοια γάρ μοι δοκοῦσι πάσχειν ὥσπερ εἴ τις πολλὰ ἔχοι καὶ πολλὰ ἐσθίων μηδέποτε ἐμπίμπλαιτο .
+perseus-eng2	 for in my eyes their malady resembles that of a person who possessed abundance but though continually eating could never be satisfied.
+
+cts:urn:tlg0032.tlg004:4.37
+glaux1.0-sentence	345
+perseus-grc2	 ἐγὼ δὲ οὕτω μὲν πολλὰ ἔχω ὡς μόλις αὐτὰ καὶ ἐγὼ ἂν αὐτὸς εὑρίσκω ·
+perseus-eng2	 For my own part, my possessions are so great that I can hardly find them myself;
+
+cts:urn:tlg0032.tlg004:4.37
+glaux1.0-sentence	346
+perseus-grc2	 ὅμως δὲ περίεστί μοι καὶ ἐσθίοντι ἄχρι τοῦ μὴ πεινῆν ἀφικέσθαι καὶ πίνοντι μέχρι τοῦ μὴ διψῆν καὶ ἀμφιέννυσθαι ὥστε ἔξω μὲν μηδὲν μᾶλλον Καλλίου τούτου τοῦ πλουσιωτάτου ῥιγοῦν ·
+perseus-eng2	 yet I have enough so that I can eat until I reach a point where I no longer feel hungry and drink until I do not feel thirsty and have enough clothing so that when out of doors I do not feel the cold any more than my superlatively wealthy friend Callias here;
+
+cts:urn:tlg0032.tlg004:4.38
+glaux1.0-sentence	347
+perseus-grc2	 ἐπειδάν γε μὴν ἐν τῇ οἰκίᾳ γένωμαι , πάνυ μὲν ἀλεεινοὶ χιτῶνες οἱ τοῖχοί μοι δοκοῦσιν εἶναι , πάνυ δὲ παχεῖαι ἐφεστρίδες οἱ ὄροφοι , στρωμνήν γε μὴν οὕτως ἀρκοῦσαν ἔχω ὥστ’ ἔργον μέγ’ ἐστὶ καὶ ἀνεγεῖραι .
+perseus-eng2	 and when I get into the house I look on my walls as exceedingly warm tunics and the roofs as exceptionally thick mantles;
+
+cts:urn:tlg0032.tlg004:4.38
+glaux1.0-sentence	348
+perseus-grc2	 ἂν δέ ποτε καὶ ἀφροδισιάσαι τὸ σῶμά μου δεηθῇ , οὕτω μοι τὸ παρὸν ἀρκεῖ ὥστε αἷς ἂν προσέλθω ὑπερασπάζονταί με διὰ τὸ μηδένα ἄλλον αὐταῖς ἐθέλειν προσιέναι .
+perseus-eng2	 and the bedding that I own is so satisfactory that it is actually a hard task to get me awake in the morning. If I ever feel a natural desire for converse with women, I am so well satisfied with whatever chance puts in my way that those to whom I make my addresses are more than glad to welcome me because they have no one else who wants to consort with them.
+
+cts:urn:tlg0032.tlg004:4.39
+glaux1.0-sentence	349
+perseus-grc2	 καὶ πάντα τοίνυν ταῦτα οὕτως ἡδέα μοι δοκεῖ εἶναι ὡς μᾶλλον μὲν ἥδεσθαι ποιῶν ἕκαστα αὐτῶν οὐκ ἂν εὐξαίμην , ἧττον δέ ·
+perseus-eng2	 In a word, all these items appeal to me as being so conducive to enjoyment that I could not pray for greater pleasure in performing any one of them, but could pray rather for less —
+
+cts:urn:tlg0032.tlg004:4.39
+glaux1.0-sentence	350
+perseus-grc2	 οὕτω μοι δοκεῖ ἔνια αὐτῶν ἡδίω εἶναι τοῦ συμφέροντος .
+perseus-eng2	 so much more pleasurable do I regard some of them than is good for one.
+
+cts:urn:tlg0032.tlg004:4.40
+glaux1.0-sentence	351
+perseus-grc2	 πλείστου δ’ ἄξιον κτῆμα ἐν τῷ ἐμῷ πλούτῳ λογίζομαι εἶναι ἐκεῖνο , ὅτι εἴ μού τις καὶ τὰ νῦν ὄντα παρέλοιτο , οὐδὲν οὕτως ὁρῶ φαῦλον ἔργον ὁποῖον οὐκ ἀρκοῦσαν ἂν τροφὴν ἐμοὶ παρέχοι .
+perseus-eng2	 But the most valuable parcel of my wealth I reckon to be this, that even though some one were to rob me of what I now possess, I see no occupation so humble that it would not give me adequate fare.
+
+cts:urn:tlg0032.tlg004:4.41
+glaux1.0-sentence	352
+perseus-grc2	 καὶ γὰρ ὅταν ἡδυπαθῆσαι βουληθῶ , οὐκ ἐκ τῆς ἀγορᾶς τὰ τίμια ὠνοῦμαι ( πολυτελῆ γὰρ γίγνεται ) , ἀλλ’ ἐκ τῆς ψυχῆς ταμιεύομαι .
+perseus-eng2	 For whenever I feel an inclination to indulge my appetite, I do not buy fancy articles at the market (for they come high),
+
+cts:urn:tlg0032.tlg004:4.41
+glaux1.0-sentence	353
+perseus-grc2	 καὶ πολὺ πλέον διαφέρει πρὸς ἡδονήν , ὅταν ἀναμείνας τὸ δεηθῆναι προσφέρωμαι ἢ ὅταν τινὶ τῶν τιμίων χρῶμαι , ὥσπερ καὶ νῦν τῷδε τῷ Θασίῳ οἴνῳ ἐντυχὼν οὐ διψῶν πίνω αὐτόν .
+perseus-eng2	 but I draw on the store-house of my soul. And it goes a long way farther toward producing enjoyment when I take food only after awaiting the craving for it than when I partake of one of these fancy dishes, like this fine Thasian wine that fortune has put in my way and I am drinking without the promptings of thirst.
+
+cts:urn:tlg0032.tlg004:4.42
+glaux1.0-sentence	354
+perseus-grc2	 ἀλλὰ μὴν καὶ πολὺ δικαιοτέρους γε εἰκὸς εἶναι τοὺς εὐτέλειαν μᾶλλον ἢ πολυχρηματίαν σκοποῦντας .
+perseus-eng2	 Yes, and it is natural that those whose eyes are set on frugality should be more honest than those whose eyes are fixed on money-making.
+
+cts:urn:tlg0032.tlg004:4.42
+glaux1.0-sentence	355
+perseus-grc2	 οἷς γὰρ μάλιστα τὰ παρόντα ἀρκεῖ ἥκιστα τῶν ἀλλοτρίων ὀρέγονται .
+perseus-eng2	 For those who are most contented with what they have are least likely to covet what belongs to others.
+
+cts:urn:tlg0032.tlg004:4.43
+glaux1.0-sentence	356
+perseus-grc2	 ἄξιον δ’ ἐννοῆσαι ὡς καὶ ἐλευθερίους ὁ τοιοῦτος πλοῦτος παρέχεται .
+perseus-eng2	 And it is worth noting that wealth of this kind makes people generous, also.
+
+cts:urn:tlg0032.tlg004:4.43
+glaux1.0-sentence	357
+perseus-grc2	 Σωκράτης τε γὰρ οὗτος παρ’ οὗ ἐγὼ τοῦτον ἐκτησάμην οὔτ’ ἀριθμῷ οὔτε σταθμῷ ἐπήρκει μοι , ἀλλ’ ὁπόσον ἐδυνάμην φέρεσθαι , τοσοῦτόν μοι παρεδίδου ·
+perseus-eng2	 My friend Socrates here and I are examples. For Socrates, from whom I acquired this wealth of mine, did not come to my relief with limitation of number and weight, but made over to me all that I could carry.
+
+cts:urn:tlg0032.tlg004:4.43
+glaux1.0-sentence	358
+perseus-grc2	 ἐγώ τε νῦν οὐδενὶ φθονῶ , ἀλλὰ πᾶσι τοῖς φίλοις καὶ ἐπιδεικνύω τὴν ἀφθονίαν καὶ μεταδίδωμι τῷ βουλομένῳ τοῦ ἐν τῇ ἐμῇ ψυχῇ πλούτου .
+perseus-eng2	 And as for me, I am now niggardly to no one, but both make an open display of my abundance to all my friends and share my spiritual wealth with any one of them that desires it.
+
+cts:urn:tlg0032.tlg004:4.44
+glaux1.0-sentence	359
+perseus-grc2	 καὶ μὴν καὶ τὸ ἁβρότατόν γε κτῆμα , τὴν σχολὴν ἀεὶ ὁρᾶτέ μοι παροῦσαν , ὥστε καὶ θεᾶσθαι τὰ ἀξιοθέατα καὶ ἀκούειν τὰ ἀξιάκουστα καὶ ὃ πλείστου ἐγὼ τιμῶμαι , Σωκράτει σχολάζων συνδιημερεύειν .
+perseus-eng2	 But — most exquisite possession of all! — you observe that I always have leisure,
+
+cts:urn:tlg0032.tlg004:4.44
+glaux1.0-sentence	360
+perseus-grc2	 καὶ οὗτος δὲ οὐ τοὺς πλεῖστον ἀριθμοῦντας χρυσίον θαυμάζει , ἀλλ’ οἳ ἂν αὐτῷ ἀρέσκωσι τούτοις συνὼν διατελεῖ .
+perseus-eng2	 with the result that I can go and see whatever is worth seeing, and hear whatever is worth hearing and — what I prize highest — pass the whole day, untroubled by business, in Socrates’ company.
+
+cts:urn:tlg0032.tlg004:4.44
+glaux1.0-sentence	361
+perseus-grc2	 οὗτος μὲν οὖν οὕτως εἶπεν .
+perseus-eng2	 Like me, he does not bestow his admiration on those who count the most gold, but spends his time with those who are congenial to him.
+
+cts:urn:tlg0032.tlg004:4.45
+glaux1.0-sentence	362
+perseus-grc2	 ὁ δὲ Καλλίας , νὴ τὴν Ἥραν , ἔφη , τά τε ἄλλα ζηλῶ σε τοῦ πλούτου καὶ ὅτι οὔτε ἡ πόλις σοι ἐπιτάττουσα ὡς δούλῳ χρῆται οὔτε οἱ ἄνθρωποι , ἂν μὴ δανείσῃς , ὀργίζονται .
+perseus-eng2	 Such was the thesis maintained by Antisthenes.  So help me Hera, commented Callias, among the numerous reasons I find for congratulating you on your wealth, one is that the government does not lay its commands on you and treat you as a slave, another is that people do not feel resentful at your not making them a loan.
+
+cts:urn:tlg0032.tlg004:4.45
+glaux1.0-sentence	363
+perseus-grc2	 ἀλλὰ μὰ Δί’ , ἔφη ὁ Νικήρατος , μὴ ζήλου ·
+perseus-eng2	 Do not be congratulating him, said Niceratus; because I am about to go and get him to make me a loan — of his contentment with his lot, schooled as I am by Homer to count
+
+cts:urn:tlg0032.tlg004:4.45
+glaux1.0-sentence	364
+perseus-grc2	 ἐγὼ γὰρ ἥξω παρ’ αὐτοῦ δανεισάμενος τὸ μηδενὸς προσδεῖσθαι , οὕτω πεπαιδευμένος ὑπὸ Ὁμήρου ἀριθμεῖν ἕπτ’ ἀπύρους τρίποδας , δέκα δὲ χρυσοῖο τάλαντα ,αἴθωνας δὲ λέβητας ἐείκοσι , δώδεκα δ’ ἵππουσσταθμῷ καὶ ἀριθμῷ , ὡς πλείστου πλούτου ἐπιθυμῶν οὐ παύομαι ·
+perseus-eng2	 "Seven pots unfired, ten talents’ weight of gold, A score of gleaming cauldrons, chargers twelve," Hom. Iliad 9.122 f., 264 f.
+
+cts:urn:tlg0032.tlg004:4.45
+glaux1.0-sentence	365
+perseus-grc2	 ἐξ ὧν ἴσως καὶ φιλοχρηματώτερός τισι δοκῶ εἶναι .
+perseus-eng2	 weighing and calculating until I am never done with yearning for vast riches; as a result, some people perhaps regard me as just a bit fond of lucre.
+
+cts:urn:tlg0032.tlg004:4.45
+glaux1.0-sentence	366
+perseus-grc2	 ἔνθα δὴ ἀνεγέλασαν ἅπαντες , νομίζοντες τὰ ὄντα εἰρηκέναι αὐτόν .
+perseus-eng2	 A burst of laughter from the whole company greeted this admission; for they considered that he had told nothing more than the truth.
+
+cts:urn:tlg0032.tlg004:4.46
+glaux1.0-sentence	367
+perseus-grc2	 ἐκ τούτου εἶπέ τις ·
+perseus-eng2	 Some one now remarked, from this,
+
+cts:urn:tlg0032.tlg004:4.46
+glaux1.0-sentence	368
+perseus-grc2	 σὸν ἔργον , ὦ Ἑρμόγενες , λέγειν τε τοὺς φίλους οἵτινές εἰσι καὶ ἐπιδεικνύναι ὡς μέγα τε δύνανται καὶ σοῦ ἐπιμέλονται , ἵνα δοκῇς δικαίως ἐπ’ αὐτοῖς μέγα φρονεῖν .
+perseus-eng2	 Hermogenes, it devolves on you, to mention who your friends are and to demonstrate their great power and their solicitude for you, so that your pride in them may appear justified.
+
+cts:urn:tlg0032.tlg004:4.47
+glaux1.0-sentence	369
+perseus-grc2	 οὐκοῦν ὡς μὲν καὶ Ἕλληνες καὶ βάρβαροι τοὺς θεοὺς ἡγοῦνται πάντα εἰδέναι τά τε ὄντα καὶ τὰ μέλλοντα εὔδηλον .
+perseus-eng2	 Very well; in the first place, it is clear as day that both Greeks and barbarians believe that the gods know everything both present and to come;
+
+cts:urn:tlg0032.tlg004:4.47
+glaux1.0-sentence	370
+perseus-grc2	 πᾶσαι γοῦν αἱ πόλεις καὶ πάντα τὰ ἔθνη διὰ μαντικῆς ἐπερωτῶσι τοὺς θεοὺς τί τε χρὴ καὶ τί οὐ χρὴ ποιεῖν .
+perseus-eng2	 at any rate, all cities and all races ask the gods, by the diviner’s art, for advice as to what to do and what to avoid.
+
+cts:urn:tlg0032.tlg004:4.47
+glaux1.0-sentence	371
+perseus-grc2	 καὶ μὴν ὅτι νομίζομέν γε δύνασθαι αὐτοὺς καὶ εὖ καὶ κακῶς ποιεῖν καὶ τοῦτο σαφές .
+perseus-eng2	 Second, it is likewise manifest that we consider them able to work us good or ill;
+
+cts:urn:tlg0032.tlg004:4.47
+glaux1.0-sentence	372
+perseus-grc2	 πάντες γοῦν αἰτοῦνται τοὺς θεοὺς τὰ μὲν φαῦλα ἀποτρέπειν , τ- ἀγαθὰ δὲ διδόναι .
+perseus-eng2	 at all events, every one prays the gods to avert evil and grant blessings.
+
+cts:urn:tlg0032.tlg004:4.48
+glaux1.0-sentence	373
+perseus-grc2	 οὗτοι τοίνυν οἱ πάντα μὲν εἰδότες πάντα δὲ δυνάμενοι θεοὶ οὕτω μοι φίλοι εἰσὶν ὥστε διὰ τὸ ἐπιμελεῖσθαί μου οὔποτε λήθω αὐτοὺς οὔτε νυκτὸς οὔθ’ ἡμέρας οὔθ’ ὅποι ἂν ὁρμῶμαι οὔθ’ ὅ τι ἂν μέλλω πράττειν .
+perseus-eng2	 Well, these gods, omniscient and omnipotent, feel so friendly toward me that their watchfulness over me never lets me out of their ken night or day, no matter where I am going or what business I have in view.
+
+cts:urn:tlg0032.tlg004:4.48
+glaux1.0-sentence	374
+perseus-grc2	 διὰ δὲ τὸ προειδέναι καὶ ὅ τι ἐξ ἑκάστου ἀποβήσεται σημαίνουσί μοι πέμποντες ἀγγέλους φήμας καὶ ἐνύπνια καὶ οἰωνοὺς ἅ τε δεῖ καὶ ἃ οὐ χρὴ ποιεῖν , οἷς ἐγὼ ὅταν μὲν πείθωμαι , οὐδέποτέ μοι μεταμέλει ·
+perseus-eng2	 They know the results also that will follow any act; and so they send me as messengers omens of sounds, dreams, and birds, and thus indicate what I ought to do and what I ought not to do. And when I do their bidding, I never regret it;
+
+cts:urn:tlg0032.tlg004:4.48
+glaux1.0-sentence	375
+perseus-grc2	 ἤδη δέ ποτε καὶ ἀπιστήσας ἐκολάσθην .
+perseus-eng2	 on the other hand, I have before now disregarded them and have been punished for it.
+
+cts:urn:tlg0032.tlg004:4.49
+glaux1.0-sentence	376
+perseus-grc2	 καὶ ὁ Σωκράτης εἶπεν ·
+perseus-eng2	 Socrates said:
+
+cts:urn:tlg0032.tlg004:4.49
+glaux1.0-sentence	377
+perseus-grc2	 ἀλλὰ τούτων μὲν οὐδὲν ἄπιστον .
+perseus-eng2	 None of these statements is incredible.
+
+cts:urn:tlg0032.tlg004:4.49
+glaux1.0-sentence	378
+perseus-grc2	 ἐκεῖνο μέντοι ἔγωγε ἡδέως ἂν πυθοίμην , πῶς αὐτοὺς θεραπεύων οὕτω φίλους ἔχεις .
+perseus-eng2	 But what I should like very much to know is how you serve them to keep them so friendly.
+
+cts:urn:tlg0032.tlg004:4.49
+glaux1.0-sentence	379
+perseus-grc2	 ναὶ μὰ τὸν Δί’ , ἔφη ὁ Ἑρμογένης , καὶ μάλα εὐτελῶς .
+perseus-eng2	 A very economical service it is, I declare! responded Hermogenes. I sound their praises, — which costs nothing; I always restore them part of what they give me;
+
+cts:urn:tlg0032.tlg004:4.49
+glaux1.0-sentence	380
+perseus-grc2	 ἐπαινῶ τε γὰρ αὐτοὺς οὐδὲν δαπανῶν , ὧν τε διδόασιν ἀεὶ αὖ παρέχομαι , εὐφημῶ τε ὅσα ἂν δύνωμαι καὶ ἐφ’ οἷς ἂν αὐτοὺς μάρτυρας ποιήσωμαι ἑκὼν οὐδὲν ψεύδομαι .
+perseus-eng2	 I avoid profanity of speech as far as I can; and I never wittingly lie in matters wherein I have invoked them to be my witnesses.
+
+cts:urn:tlg0032.tlg004:4.49
+glaux1.0-sentence	381
+perseus-grc2	 νὴ Δί’ , ἔφη , ὁ Σωκράτης εἰ ἄρα τοιοῦτος ὢν φίλους αὐτοὺς ἔχεις , καὶ οἱ θεοί , ὡς ἔοικε , καλοκἀγαθίᾳ ἥδονται .
+perseus-eng2	 Truly, said Socrates, if it is conduct like this that gives you their friendship, then the gods also, it would seem, take delight in nobility of soul!
+
+cts:urn:tlg0032.tlg004:4.50
+glaux1.0-sentence	382
+perseus-grc2	 οὗτος μὲν δὴ ὁ λόγος οὕτως ἐσπουδαιολογήθη .
+perseus-eng2	 Such was the serious turn given to the discussion of this topic.
+
+cts:urn:tlg0032.tlg004:4.50
+glaux1.0-sentence	383
+perseus-grc2	 ἐπειδὴ δὲ εἰς τὸν Φίλιππον ἧκον , ἠρώτων αὐτὸν τί ὁρῶν ἐν τῇ γελωτοποιίᾳ μέγα ἐπ’ αὐτῇ φρονοίη .
+perseus-eng2	 When they got around to Philip, they asked him what he saw in the jester’s profession to feel proud of it.
+
+cts:urn:tlg0032.tlg004:4.50
+glaux1.0-sentence	384
+perseus-grc2	 οὐ γὰρ ἄξιον , ἔφη , ὁπότε γε πάντες εἰδότες ὅτι γελωτοποιός εἰμι , ὅταν μέν τι ἀγαθὸν ἔχωσι , παρακαλοῦσί με ἐπὶ ταῦτα προθύμως , ὅταν δέ τι κακὸν λάβωσι , φεύγουσιν ἀμεταστρεπτί , φοβούμενοι μὴ καὶ ἄκοντες γελάσωσι ;
+perseus-eng2	 Have I not a right to be proud, said he, when all know that I am a jester, and so whenever they have a bit of good fortune, give me hearty invitations to come and join them, but when they suffer some reverse, run from me with never a glance behind, in dread that they may be forced to laugh in spite of themselves?
+
+cts:urn:tlg0032.tlg004:4.51
+glaux1.0-sentence	385
+perseus-grc2	 καὶ ὁ Νικήρατος εἶπε ·
+perseus-eng2	 Your pride is abundantly justified, said Niceratus.
+
+cts:urn:tlg0032.tlg004:4.51
+glaux1.0-sentence	386
+perseus-grc2	 νὴ Δία , σὺ τοίνυν δικαίως μέγα φρονεῖς .
+perseus-eng2	 In my case, on the contrary, those friends who enjoy success keep out of my way,
+
+cts:urn:tlg0032.tlg004:4.51
+glaux1.0-sentence	387
+perseus-grc2	 ἐμοὶ γὰρ αὖ τῶν φίλων οἱ μὲν εὖ πράττοντες ἐκποδὼν ἀπέρχονται , οἳ δ’ ἂν κακόν τι λάβωσι , γενεαλογοῦσι τὴν συγγένειαν καὶ οὐδέποτέ μου ἀπολείπονται .
+perseus-eng2	 but those that run into some mishap reckon up their kinship to me on the family tree, and I can’t get rid of them.
+
+cts:urn:tlg0032.tlg004:4.52
+glaux1.0-sentence	388
+perseus-grc2	 εἶεν ·
+perseus-eng2	 No doubt,
+
+cts:urn:tlg0032.tlg004:4.52
+glaux1.0-sentence	389
+perseus-grc2	 σὺ δὲ δή , ἔφη ὁ Χαρμίδης , ὦ Συρακόσιε , ἐπὶ τῷ μέγα φρονεῖς ;
+perseus-eng2	 said Charmides; and then, turning to the Syracusan,
+
+cts:urn:tlg0032.tlg004:4.52
+glaux1.0-sentence	390
+perseus-grc2	 ἢ δῆλον ὅτι ἐπὶ τῷ παιδί ;
+perseus-eng2	 What is it that you are proud of? The boy, I suppose?
+
+cts:urn:tlg0032.tlg004:4.52
+glaux1.0-sentence	391
+perseus-grc2	 μὰ τὸν Δί’ , ἔφη , οὐ μὲν δή ·
+perseus-eng2	 Quite the contrary, was the reply;
+
+cts:urn:tlg0032.tlg004:4.52
+glaux1.0-sentence	392
+perseus-grc2	 ἀλλὰ καὶ δέδοικα περὶ αὐτοῦ ἰσχυρῶς .
+perseus-eng2	 I am instead in extreme apprehension about him.
+
+cts:urn:tlg0032.tlg004:4.52
+glaux1.0-sentence	393
+perseus-grc2	 αἰσθάνομαι γάρ τινας ἐπιβουλεύοντας διαφθεῖραι αὐτόν .
+perseus-eng2	 For I understand that there are certain persons plotting his undoing.
+
+cts:urn:tlg0032.tlg004:4.53
+glaux1.0-sentence	394
+perseus-grc2	 καὶ ὁ Σωκράτης ἀκούσας , Ἡράκλεις , ἔφη , τί τοσοῦτον νομίζοντες ἠδικῆσθαι ὑπὸ τοῦ σοῦ παιδὸς ὥστε ἀποκτεῖναι αὐτὸν βούλεσθαι ;
+perseus-eng2	 On receiving this information, Good Heavens! exclaimed Socrates; what wrong do they imagine your lad has done them that is grave enough to make them wish to kill him?
+
+cts:urn:tlg0032.tlg004:4.53
+glaux1.0-sentence	395
+perseus-grc2	 ἀλλ’ οὔτοι , ἔφη , ἀποκτεῖναι βούλονται , ἀλλὰ πεῖσαι αὐτὸν συγκαθεύδειν αὐτοῖς .
+perseus-eng2	 Syr. It is not killing him that they desire; oh, no! but to persuade him to sleep with them.
+
+cts:urn:tlg0032.tlg004:4.53
+glaux1.0-sentence	396
+perseus-grc2	 σὺ δ’ , ὡς ἔοικας , εἰ τοῦτο γένοιτο , νομίζεις ἂν διαφθαρῆναι αὐτόν ;
+perseus-eng2	 Soc. Your belief, then, if I mistake not, is that if this happened, he would be undone?
+
+cts:urn:tlg0032.tlg004:4.53
+glaux1.0-sentence	397
+perseus-grc2	 ναὶ μὰ Δί’ , ἔφη , παντάπασί γε .
+perseus-eng2	 Syr. Aye, utterly!
+
+cts:urn:tlg0032.tlg004:4.54
+glaux1.0-sentence	398
+perseus-grc2	 οὐδ’ αὐτὸς ἄρ’ , ἔφη , συγκαθεύδεις αὐτῷ ;
+perseus-eng2	 Soc. Do you not then sleep in his bed yourself?
+
+cts:urn:tlg0032.tlg004:4.54
+glaux1.0-sentence	399
+perseus-grc2	 νὴ Δί’ ὅλας γε καὶ πάσας τὰς νύκτας .
+perseus-eng2	 Syr. Most certainly, all night and every night.
+
+cts:urn:tlg0032.tlg004:4.54
+glaux1.0-sentence	400
+perseus-grc2	 νὴ τὴν Ἥραν , ἔφη ὁ Σωκράτης , εὐτύχημά γέ σου μέγα τὸ τὸν χρῶτα τοιοῦτον φῦναι ἔχοντα ὥστε μόνον μὴ διαφθείρειν τοὺς συγκαθεύδοντας .
+perseus-eng2	 Soc. Marry, you are in great luck to be formed of such flesh that you are unique in not corrupting those that sleep with you.
+
+cts:urn:tlg0032.tlg004:4.54
+glaux1.0-sentence	401
+perseus-grc2	 ὥστε σοί γε εἰ μὴ ἐπ’ ἄλλῳ ἀλλ’ ἐπὶ τῷ χρωτὶ ἄξιον μέγα φρονεῖν .
+perseus-eng2	 And so you have a right to be proud of your flesh if of nothing else.
+
+cts:urn:tlg0032.tlg004:4.55
+glaux1.0-sentence	402
+perseus-grc2	 ἀλλὰ μὰ Δί’ , ἔφη , οὐκ ἐπὶ τούτῳ μέγα φρονῶ .
+perseus-eng2	 Syr. And yet that is not the basis of my pride.
+
+cts:urn:tlg0032.tlg004:4.55
+glaux1.0-sentence	403
+perseus-grc2	 ἀλλ’ ἐπὶ τῷ μήν ;
+perseus-eng2	 Soc. What is, then?
+
+cts:urn:tlg0032.tlg004:4.55
+glaux1.0-sentence	404
+perseus-grc2	 ἐπὶ νὴ Δία τοῖς ἄφροσιν .
+perseus-eng2	 Syr. Fools, in faith.
+
+cts:urn:tlg0032.tlg004:4.55
+glaux1.0-sentence	405
+perseus-grc2	 οὗτοι γὰρ τὰ ἐμὰ νευρόσπαστα θεώμενοι τρέφουσί με .
+perseus-eng2	 They give me a livelihood by coming to view my marionettes.
+
+cts:urn:tlg0032.tlg004:4.55
+glaux1.0-sentence	406
+perseus-grc2	 ταῦτ’ ἄρ’ , ἔφη ὁ Φίλιππος , καὶ πρῴην ἐγώ σου ἤκουον εὐχομένου πρὸς τοὺς θεοὺς ὅπου ἂν ᾖς διδόναι καρποῦ μὲν ἀφθονίαν , φρενῶν δὲ ἀφορίαν .
+perseus-eng2	 Ah! ejaculated Philip; that explains the prayer I heard you uttering the other day, that wherever you were the gods would grant you an abundant harvest of grain but a crop-failure of wits!
+
+cts:urn:tlg0032.tlg004:4.56
+glaux1.0-sentence	407
+perseus-grc2	 εἶεν , ἔφη ὁ Καλλίας ·
+perseus-eng2	 Good! said Callias.
+
+cts:urn:tlg0032.tlg004:4.56
+glaux1.0-sentence	408
+perseus-grc2	 σὺ δὲ δή , ὦ Σώκρατες , τί ἔχεις εἰπεῖν ὡς ἄξιόν σοί ἐστι μέγα φρονεῖν ἐφ’ ᾗ εἶπας οὕτως ἀδόξῳ οὔσῃ τέχνῃ ;
+perseus-eng2	 And now, Socrates, what can you advance in support of your pride in that disreputable profession that you mentioned?
+
+cts:urn:tlg0032.tlg004:4.56
+glaux1.0-sentence	409
+perseus-grc2	 καὶ ὃς εἶπεν ·
+perseus-eng2	 He said:
+
+cts:urn:tlg0032.tlg004:4.56
+glaux1.0-sentence	410
+perseus-grc2	 ὁμολογησώμεθα πρῶτον ποῖά ἐστιν ἔργα τοῦ μαστροποῦ ·
+perseus-eng2	 Let us first come to an understanding on the functions that belong to the procurer.
+
+cts:urn:tlg0032.tlg004:4.56
+glaux1.0-sentence	411
+perseus-grc2	 καὶ ὅσα ἂν ἐρωτῶ , μὴ ὀκνεῖτε ἀποκρίνεσθαι , ἵνα εἰδῶμεν ὅσα ἂν συνομολογῶμεν .
+perseus-eng2	 Do not hesitate to answer all the questions I ask you, so that we may know our points of agreement.
+
+cts:urn:tlg0032.tlg004:4.56
+glaux1.0-sentence	412
+perseus-grc2	 καὶ ὑμῖν οὕτω δοκεῖ ;
+perseus-eng2	 Is that your pleasure?
+
+cts:urn:tlg0032.tlg004:4.56
+glaux1.0-sentence	413
+perseus-grc2	 ἔφη .
+perseus-eng2	 he asked.
+
+cts:urn:tlg0032.tlg004:4.56
+glaux1.0-sentence	414
+perseus-grc2	 πάνυ μὲν οὖν , ἔφασαν .
+perseus-eng2	 Certainly, was their reply;
+
+cts:urn:tlg0032.tlg004:4.56
+glaux1.0-sentence	415
+perseus-grc2	 ὡς δ’ ἅπαξ εἶπαν πάνυ μὲν οὖν , τοῦτο πάντες ἐκ τοῦ λοιποῦ ἀπεκρίναντο .
+perseus-eng2	 and when they had once started with certainly, that was the regular answer they all made to his questions thereafter.
+
+cts:urn:tlg0032.tlg004:4.57
+glaux1.0-sentence	416
+perseus-grc2	 οὐκοῦν ἀγαθοῦ μέν , ἔφη , ὑμῖν δοκεῖ μαστροποῦ ἔργον εἶναι ἣν ἂν ἢ ὃν ἂν μαστροπεύῃ ἀρέσκοντα τοῦτον ἀποδεικνύναι οἷς ἂν συνῇ ;
+perseus-eng2	 Soc. Well, then, you consider it the function of a good procurer to render the man or the woman whom he is serving attractive to his or her associates?
+
+cts:urn:tlg0032.tlg004:4.57
+glaux1.0-sentence	417
+perseus-grc2	 πάνυ μὲν οὖν , ἔφασαν .
+perseus-eng2	 All. Certainly.
+
+cts:urn:tlg0032.tlg004:4.57
+glaux1.0-sentence	418
+perseus-grc2	 οὐκοῦν ἓν μέν τί ἐστιν εἰς τὸ ἀρέσκειν ἐκ τοῦ πρέπουσαν ἔχειν σχέσιν καὶ τριχῶν καὶ ἐσθῆτος ;
+perseus-eng2	 Soc. Now, one thing that contributes to rendering a person attractive is a comely arrangement of hair and clothing, is it not?
+
+cts:urn:tlg0032.tlg004:4.57
+glaux1.0-sentence	419
+perseus-grc2	 πάνυ μὲν οὖν , ἔφασαν .
+perseus-eng2	 All. Certainly.
+
+cts:urn:tlg0032.tlg004:4.58
+glaux1.0-sentence	420
+perseus-grc2	 οὐκοῦν καὶ τόδε ἐπιστάμεθα , ὅτι ἔστιν ἀνθρώπῳ τοῖς αὐτοῖς ὄμμασι καὶ φιλικῶς καὶ ἐχθρῶς πρός τινας βλέπειν ;
+perseus-eng2	 Soc. This, also, we know, do we not, that it is in a man’s power to use the one pair of eyes to express both friendship and hostility?
+
+cts:urn:tlg0032.tlg004:4.58
+glaux1.0-sentence	421
+perseus-grc2	 πάνυ μὲν οὖν .
+perseus-eng2	 All. Certainly.
+
+cts:urn:tlg0032.tlg004:4.58
+glaux1.0-sentence	422
+perseus-grc2	 τί δέ , τῇ αὐτῇ φωνῇ ἔστι καὶ αἰδημόνως καὶ θρασέως φθέγγεσθαι ;
+perseus-eng2	 Soc. And again, it is possible to speak both modestly and boldly with the same voice?
+
+cts:urn:tlg0032.tlg004:4.58
+glaux1.0-sentence	423
+perseus-grc2	 πάνυ μὲν οὖν .
+perseus-eng2	 All. Certainly.
+
+cts:urn:tlg0032.tlg004:4.58
+glaux1.0-sentence	424
+perseus-grc2	 τί δέ , λόγοι οὐκ εἰσὶ μέν τινες ἀπεχθανόμενοι , εἰσὶ δέ τινες οἳ πρὸς φιλίαν ἄγουσι ;
+perseus-eng2	 Soc. Moreover, are there not words that create ill feeling and others that conduce to friendliness?
+
+cts:urn:tlg0032.tlg004:4.58
+glaux1.0-sentence	425
+perseus-grc2	 πάνυ μὲν οὖν .
+perseus-eng2	 All. Certainly.
+
+cts:urn:tlg0032.tlg004:4.59
+glaux1.0-sentence	426
+perseus-grc2	 οὐκοῦν τούτων ὁ ἀγαθὸς μαστροπὸς τὰ συμφέροντα εἰς τὸ ἀρέσκειν διδάσκοι ἄν ;
+perseus-eng2	 Soc. Now the good procurer would teach only the words that tend to make one attractive, would he not?
+
+cts:urn:tlg0032.tlg004:4.59
+glaux1.0-sentence	427
+perseus-grc2	 πάνυ μὲν οὖν .
+perseus-eng2	 All. Certainly.
+
+cts:urn:tlg0032.tlg004:4.59
+glaux1.0-sentence	428
+perseus-grc2	 ἀμείνων δ’ ἂν εἴη , ἔφη , ὁ ἑνὶ δυνάμενος ἀρεστοὺς ποιεῖν ἢ ὅστις καὶ πολλοῖς ;
+perseus-eng2	 Soc. Which one would be the better? he continued, the one who could make people attractive to a single person or the one who could make them attractive to many?
+
+cts:urn:tlg0032.tlg004:4.59
+glaux1.0-sentence	429
+perseus-grc2	 ἐνταῦθα μέντοι ἐσχίσθησαν , καὶ οἱ μὲν εἶπον δῆλον ὅτι ὅστις πλείστοις , οἱ δὲ πάνυ μὲν οὖν .
+perseus-eng2	 This question brought a division; some said, Clearly the one who could make them attractive to a great many; the others merely repeated, Certainly.
+
+cts:urn:tlg0032.tlg004:4.60
+glaux1.0-sentence	430
+perseus-grc2	 ὁ δ’ εἰπὼν ὅτι καὶ τοῦτο ὁμολογεῖται ἔφη ·
+perseus-eng2	 Remarking that they were all of one mind on this point as on the others, he went on:
+
+cts:urn:tlg0032.tlg004:4.60
+glaux1.0-sentence	431
+perseus-grc2	 εἰ δέ τις καὶ ὅλῃ τῇ πόλει ἀρέσκοντας δύναιτο ἀποδεικνύναι , οὐχ οὗτος παντελῶς ἂν ἤδη ἀγαθὸς μαστροπὸς εἴη ;
+perseus-eng2	 If a person could render people attractive to the entire community, would he not satisfy the requirements of the ideal procurer?
+
+cts:urn:tlg0032.tlg004:4.60
+glaux1.0-sentence	432
+perseus-grc2	 σαφῶς γε νὴ Δία , πάντες εἶπον .
+perseus-eng2	 Indubitably, they all said.
+
+cts:urn:tlg0032.tlg004:4.60
+glaux1.0-sentence	433
+perseus-grc2	 οὐκοῦν εἴ τις τοιούτους δύναιτο ἐξεργάζεσθαι ὧν προστατοίη , δικαίως ἂν μέγα φρονοίη ἐπὶ τῇ τέχνῃ καὶ δικαίως ἂν πολὺν μισθὸν λαμβάνοι ;
+perseus-eng2	 And so, if one could produce men of this type out of his clients, he would be entitled to feel proud of his profession and to receive a high remuneration, would he not?
+
+cts:urn:tlg0032.tlg004:4.61
+glaux1.0-sentence	434
+perseus-grc2	 ἐπεὶ δὲ καὶ ταῦτα πάντες συνωμολόγουν , τοιοῦτος μέντοι , ἔφη , μοι δοκεῖ Ἀντισθένης εἶναι οὗτος .
+perseus-eng2	 All agreeing on this point, too, he added,
+
+cts:urn:tlg0032.tlg004:4.61
+glaux1.0-sentence	435
+perseus-grc2	 καὶ ὁ Ἀντισθένης , ἐμοί , ἔφη , παραδίδως , ὦ Σώκρατες , τὴν τέχνην ;
+perseus-eng2	 Antisthenes here seems to me to be a man of just that sort.
+
+cts:urn:tlg0032.tlg004:4.61
+glaux1.0-sentence	436
+perseus-grc2	 ναὶ μὰ Δί’ , ἔφη .
+perseus-eng2	 Antisthenes asked, Are you resigning your profession to me, Socrates?
+
+cts:urn:tlg0032.tlg004:4.61
+glaux1.0-sentence	437
+perseus-grc2	 ὁρῶ γάρ σε καὶ τὴν ἀκόλουθον ταύτης πάνυ ἐξειργασμένον .
+perseus-eng2	 Assuredly, was the answer. For I see that you have brought to a high state of perfection the complementary trade.
+
+cts:urn:tlg0032.tlg004:4.61
+glaux1.0-sentence	438
+perseus-grc2	 τίνα ταύτην ;
+perseus-eng2	 Antisthenes: What is that?
+
+cts:urn:tlg0032.tlg004:4.61
+glaux1.0-sentence	439
+perseus-grc2	 τὴν προαγωγείαν , ἔφη .
+perseus-eng2	 The profession of go-between, he said.
+
+cts:urn:tlg0032.tlg004:4.62
+glaux1.0-sentence	440
+perseus-grc2	 καὶ ὃς μάλα ἀχθεσθεὶς ἐπήρετο ·
+perseus-eng2	 Antisthenes, much incensed, asked,
+
+cts:urn:tlg0032.tlg004:4.62
+glaux1.0-sentence	441
+perseus-grc2	 καὶ τί μοι σύνοισθα , ὦ Σώκρατες , τοιοῦτον εἰργασμένῳ ;
+perseus-eng2	 What knowledge can you possibly have of my being guilty of such a thing as that?
+
+cts:urn:tlg0032.tlg004:4.62
+glaux1.0-sentence	442
+perseus-grc2	 οἶδα μέν , ἔφη , σε Καλλίαν τουτονὶ προαγωγεύσαντα τῷ σοφῷ Προδίκῳ , ὅτε ἑώρας τοῦτον μὲν φιλοσοφίας ἐρῶντα , ἐκεῖνον δὲ χρημάτων δεόμενον ·
+perseus-eng2	 Socrates: I know several instances. I know that you acted the part between Callias here and the scholar Prodicus, when you saw that Callias was in love with philosophy and that Prodicus wanted money.
+
+cts:urn:tlg0032.tlg004:4.62
+glaux1.0-sentence	443
+perseus-grc2	 οἶδα δέ σε Ἱππίᾳ τῷ Ἠλείῳ , παρ’ οὗ οὗτος καὶ τὸ μνημονικὸν ἔμαθεν ·
+perseus-eng2	 I know also that you did the same for Hippias, the Elean, from whom Callias got his memory system;
+
+cts:urn:tlg0032.tlg004:4.62
+glaux1.0-sentence	444
+perseus-grc2	 ἀφ’ οὗ δὴ καὶ ἐρωτικώτερος γεγένηται διὰ τὸ ὅ τι ἂν καλὸν ἴδῃ μηδέποτε ἐπιλανθάνεσθαι .
+perseus-eng2	 and as a result, Callias has become more amorous than ever, because he finds it impossible to forget any beauty he sees.
+
+cts:urn:tlg0032.tlg004:4.63
+glaux1.0-sentence	445
+perseus-grc2	 ἔναγχος δὲ δήπου καὶ πρὸς ἐμὲ ἐπαινῶν τὸν Ἡρακλεώτην ξένον ἐπεί με ἐποίησας ἐπιθυμεῖν αὐτοῦ , συνέστησάς μοι αὐτόν .
+perseus-eng2	 Socrates: And just recently, you remember, you introduced the stranger from Heraclea to me, after arousing my keen interest in him by your commendations.
+
+cts:urn:tlg0032.tlg004:4.63
+glaux1.0-sentence	446
+perseus-grc2	 καὶ χάριν μέντοι σοι ἔχω ·
+perseus-eng2	 For this I am indeed grateful to you;
+
+cts:urn:tlg0032.tlg004:4.63
+glaux1.0-sentence	447
+perseus-grc2	 πάνυ γὰρ καλὸς κ- ἀγαθὸς δοκεῖ μοι εἶναι .
+perseus-eng2	 for I look upon him as endowed with a truly noble nature.
+
+cts:urn:tlg0032.tlg004:4.63
+glaux1.0-sentence	448
+perseus-grc2	 Αἰσχύλον δὲ τὸν Φλειάσιον πρὸς ἐμὲ ἐπαινῶν καὶ ἐμὲ πρὸς ἐκεῖνον οὐχ οὕτω διέθηκας ὥστε διὰ τοὺς σοὺς λόγους ἐρῶντες ἐκυνοδρομοῦμεν ἀλλήλους ζητοῦντες ;
+perseus-eng2	 And did you not laud Aeschylus the Phleiasian to me and me to him until you brought us to such a pass that in mutual yearning, excited by your words, we went coursing like hounds to find each other?
+
+cts:urn:tlg0032.tlg004:4.64
+glaux1.0-sentence	449
+perseus-grc2	 ταῦτα οὖν ὁρῶν δυνάμενόν σε ποιεῖν ἀγαθὸν νομίζω προαγωγὸν εἶναι .
+perseus-eng2	 It is the witnessing of your talent at achieving such a result that makes me judge you an excellent go-between.
+
+cts:urn:tlg0032.tlg004:4.64
+glaux1.0-sentence	450
+perseus-grc2	 ὁ γὰρ οἷός τε ὢν γιγνώσκειν τε τοὺς ὠφελίμους αὑτοῖς καὶ τούτους δυνάμενος ποιεῖν ἐπιθυμεῖν ἀλλήλων , οὗτος ἄν μοι δοκεῖ καὶ πόλεις δύνασθαι φίλας ποιεῖν καὶ γάμους ἐπιτηδείους συνάγειν , καὶ πολλοῦ ἂν ἄξιος εἶναι καὶ πόλεσι καὶ φίλοις καὶ συμμάχοις κεκτῆσθαι .
+perseus-eng2	 For the man who can recognize those who are fitted to be mutually helpful and can make them desire one another’s acquaintance, that man, in my opinion, could also create friendship between cities and arrange suitable marriages, and would be a very valuable acquisition as friend or ally for both states and individuals.
+
+cts:urn:tlg0032.tlg004:4.64
+glaux1.0-sentence	451
+perseus-grc2	 σὺ δὲ ὡς κακῶς ἀκούσας ὅτι ἀγαθόν σε ἔφην προαγωγὸν εἶναι , ὠργίσθης .
+perseus-eng2	 But you got indignant, as if you had received an affront, when I said that you were a good go-between.
+
+cts:urn:tlg0032.tlg004:4.64
+glaux1.0-sentence	452
+perseus-grc2	 ἀλλὰ μὰ Δί’ , ἔφη , οὐ νῦν .
+perseus-eng2	 But, indeed, that is all over now, he replied;
+
+cts:urn:tlg0032.tlg004:4.64
+glaux1.0-sentence	453
+perseus-grc2	 ἐὰν γὰρ ταῦτα δύνωμαι , σεσαγμένος δὴ παντάπασι πλούτου τὴν ψυχὴν ἔσομαι .
+perseus-eng2	 for with this power mine I shall find my soul chock-full of riches.
+
+cts:urn:tlg0032.tlg004:4.64
+glaux1.0-sentence	454
+perseus-grc2	 καὶ αὕτη μὲν δὴ ἡ περίοδος τῶν λόγων ἀπετελέσθη .
+perseus-eng2	 And so this round of discourse was brought to a close.
+
+cts:urn:tlg0032.tlg004:5.1
+glaux1.0-sentence	455
+perseus-grc2	 ὁ δὲ Καλλίας ἔφη ·
+perseus-eng2	 Callias now said,
+
+cts:urn:tlg0032.tlg004:5.1
+glaux1.0-sentence	456
+perseus-grc2	 σὺ δὲ δή , ὦ Κριτόβουλε , εἰς τὸν περὶ τοῦ κάλλους ἀγῶνα πρὸς Σωκράτην οὐκ ἀνθίστασαι ;
+perseus-eng2	 Critobulus, are you going to refuse to enter the lists in the beauty contest with Socrates?
+
+cts:urn:tlg0032.tlg004:5.1
+glaux1.0-sentence	457
+perseus-grc2	 νὴ Δί’ , ἔφη ὁ Σωκράτης , ἴσως γὰρ εὐδοκιμοῦντα τὸν μαστροπὸν παρὰ τοῖς κριταῖς ὁρᾷ .
+perseus-eng2	 Undoubtedly! said Socrates; for probably he notices that the procurer stands high in the favour of the judges.
+
+cts:urn:tlg0032.tlg004:5.2
+glaux1.0-sentence	458
+perseus-grc2	 ἀλλ’ ὅμως , ἔφη ὁ Κριτόβουλος , οὐκ ἀναδύομαι ·
+perseus-eng2	 But yet in spite of that, retorted Critobulus, I do not shun the contest.
+
+cts:urn:tlg0032.tlg004:5.2
+glaux1.0-sentence	459
+perseus-grc2	 ἀλλὰ δίδασκε , εἴ τι ἔχεις σοφόν , ὡς καλλίων εἶ ἐμοῦ .
+perseus-eng2	 So make your plea, if you can produce any profound reason, and prove that you are more handsome than I.
+
+cts:urn:tlg0032.tlg004:5.2
+glaux1.0-sentence	460
+perseus-grc2	 μόνον , ἔφη , τὸν λαμπτῆρα ἐγγὺς προσενεγκάτω .
+perseus-eng2	 Only, he added, let some one bring the light close to him.
+
+cts:urn:tlg0032.tlg004:5.2
+glaux1.0-sentence	461
+perseus-grc2	 εἰς ἀνάκρισιν τοίνυν σε , ἔφη , πρῶτον τῆς δίκης καλοῦμαι ·
+perseus-eng2	 The first step, then, in my suit, said Socrates, is to summon you to the preliminary hearing;
+
+cts:urn:tlg0032.tlg004:5.2
+glaux1.0-sentence	462
+perseus-grc2	 ἀλλ’ ἀποκρίνου .
+perseus-eng2	 be so kind as to answer my questions.
+
+cts:urn:tlg0032.tlg004:5.3
+glaux1.0-sentence	463
+perseus-grc2	 σὺ δέ γε ἐρώτα .
+perseus-eng2	 And you proceed to put them.
+
+cts:urn:tlg0032.tlg004:5.3
+glaux1.0-sentence	464
+perseus-grc2	 πότερον οὖν ἐν ἀνθρώπῳ μόνον νομίζεις τὸ καλὸν εἶναι ἢ καὶ ἐν ἄλλῳ τινί ;
+perseus-eng2	 Critobulus: Do you hold, then, that beauty is to be found only in man, or is it also in other objects?
+
+cts:urn:tlg0032.tlg004:5.3
+glaux1.0-sentence	465
+perseus-grc2	 ἐγὼ μὲν ναὶ μὰ Δί’ , ἔφη , καὶ ἐν ἵππῳ καὶ βοῒ καὶ ἐν ἀψύχοις πολλοῖς .
+perseus-eng2	 Critobulus: In faith, my opinion is that beauty is to be found quite as well in a horse or an ox or in any number of inanimate things.
+
+cts:urn:tlg0032.tlg004:5.3
+glaux1.0-sentence	466
+perseus-grc2	 οἶδα γοῦν οὖσαν καὶ ἀσπίδα καλὴν καὶ ξίφος καὶ δόρυ .
+perseus-eng2	 Critobulus: I know, at any rate, that a shield may be beautiful, or a sword, or a spear.
+
+cts:urn:tlg0032.tlg004:5.4
+glaux1.0-sentence	467
+perseus-grc2	 καὶ πῶς , ἔφη , οἷόν τε ταῦτα μηδὲν ὅμοια ὄντα ἀλλήλοις πάντα καλὰ εἶναι ;
+perseus-eng2	 Socrates: How can it be that all these things are beautiful when they are entirely dissimilar?
+
+cts:urn:tlg0032.tlg004:5.4
+glaux1.0-sentence	468
+perseus-grc2	 ἂν νὴ Δί’ , ἔφη , πρὸς τὰ ἔργα ὧν ἕνεκα ἕκαστα κτώμεθα εὖ εἰργασμένα ᾖ ἢ εὖ πεφυκότα πρὸς ἃ ἂν δεώμεθα , καὶ ταῦτ’ , ἔφη ὁ Κριτόβουλος , καλά .
+perseus-eng2	 Critobulus: Why, they are beautiful and fine, if they are well made for the respective functions for which we obtain them, or if they are naturally well constituted to serve our needs.
+
+cts:urn:tlg0032.tlg004:5.5
+glaux1.0-sentence	469
+perseus-grc2	 οἶσθα οὖν , ἔφη , ὀφθαλμῶν τίνος ἕνεκα δεόμεθα ;
+perseus-eng2	 Socrates: Do you know the reason why we need eyes?
+
+cts:urn:tlg0032.tlg004:5.5
+glaux1.0-sentence	470
+perseus-grc2	 δῆλον , ἔφη , ὅτι τοῦ ὁρᾶν .
+perseus-eng2	 Critobulus: Obviously to see with.
+
+cts:urn:tlg0032.tlg004:5.5
+glaux1.0-sentence	471
+perseus-grc2	 οὕτω μὲν τοίνυν ἤδη οἱ ἐμοὶ ὀφθαλμοὶ καλλίονες ἂν τῶν σῶν εἴησαν .
+perseus-eng2	 Socrates: In that case, it would appear without further ado that my eyes are finer ones than yours.
+
+cts:urn:tlg0032.tlg004:5.5
+glaux1.0-sentence	472
+perseus-grc2	 πῶς δή ;
+perseus-eng2	 Critobulus: How so?
+
+cts:urn:tlg0032.tlg004:5.5
+glaux1.0-sentence	473
+perseus-grc2	 ὅτι οἱ μὲν σοὶ τὸ κατ’ εὐθὺ μόνον ὁρῶσιν , οἱ δὲ ἐμοὶ καὶ τὸ ἐκ πλαγίου διὰ τὸ ἐπιπόλαιοι εἶναι .
+perseus-eng2	 Socrates: Because, while yours see only straight ahead, mine, by bulging out as they do, see also to the sides.
+
+cts:urn:tlg0032.tlg004:5.5
+glaux1.0-sentence	474
+perseus-grc2	 λέγεις σύ , ἔφη , καρκίνον εὐοφθαλμότατον εἶναι τῶν ζῴων ;
+perseus-eng2	 Critobulus: Do you mean to say that a crab is better equipped visually than any other creature?
+
+cts:urn:tlg0032.tlg004:5.5
+glaux1.0-sentence	475
+perseus-grc2	 πάντως δήπου , ἔφη ·
+perseus-eng2	 Socrates: Absolutely;
+
+cts:urn:tlg0032.tlg004:5.5
+glaux1.0-sentence	476
+perseus-grc2	 ἐπεὶ καὶ πρὸς ἰσχὺν τοὺς ὀφθαλμοὺς ἄριστα πεφυκότας ἔχει .
+perseus-eng2	 for its eyes are also better set to insure strength.
+
+cts:urn:tlg0032.tlg004:5.6
+glaux1.0-sentence	477
+perseus-grc2	 εἶεν , ἔφη , τῶν δὲ ῥινῶν ποτέρα καλλίων , ἡ σὴ ἢ ἡ ἐμή ;
+perseus-eng2	 Critobulus: Well, let that pass; but whose nose is finer, yours or mine?
+
+cts:urn:tlg0032.tlg004:5.6
+glaux1.0-sentence	478
+perseus-grc2	 ἐγὼ μέν , ἔφη , οἶμαι τὴν ἐμήν , εἴπερ γε τοῦ ὀσφραίνεσθαι ἕνεκεν ἐποίησαν ἡμῖν ῥῖνας οἱ θεοί .
+perseus-eng2	 Socrates: Mine, I consider, granting that Providence made us noses to smell with.
+
+cts:urn:tlg0032.tlg004:5.6
+glaux1.0-sentence	479
+perseus-grc2	 οἱ μὲν γὰρ σοὶ μυκτῆρες εἰς γῆν ὁρῶσιν , οἱ δὲ ἐμοὶ ἀναπέπτανται , ὥστε τὰς πάντοθεν ὀσμὰς προσδέχεσθαι .
+perseus-eng2	 For your nostrils look down toward the ground, but mine are wide open and turned outward so that I can catch scents from all about.
+
+cts:urn:tlg0032.tlg004:5.6
+glaux1.0-sentence	480
+perseus-grc2	 τὸ δὲ δὴ σιμὸν τῆς ῥινὸς πῶς τοῦ ὀρθοῦ κάλλιον ;
+perseus-eng2	 Critobulus: But how do you make a snub nose handsomer than a straight one?
+
+cts:urn:tlg0032.tlg004:5.6
+glaux1.0-sentence	481
+perseus-grc2	 ὅτι , ἔφη , οὐκ ἀντιφράττει , ἀλλ’ ἐᾷ εὐθὺς τὰς ὄψεις ὁρᾶν ἃ ἂν βούλωνται ·
+perseus-eng2	 Socrates: For the reason that it does not put a barricade between the eyes but allows them unobstructed vision of whatever they desire to see;
+
+cts:urn:tlg0032.tlg004:5.6
+glaux1.0-sentence	482
+perseus-grc2	 ἡ δὲ ὑψηλὴ ῥὶς ὥσπερ ἐπηρεάζουσα διατετείχικε τὰ ὄμματα .
+perseus-eng2	 Socrates: whereas a high nose, as if in despite, has walled the eyes off one from the other.
+
+cts:urn:tlg0032.tlg004:5.7
+glaux1.0-sentence	483
+perseus-grc2	 τοῦ γε μὴν στόματος , ἔφη ὁ Κριτόβουλος , ὑφίεμαι .
+perseus-eng2	 Critobulus: As for the mouth, I concede that point.
+
+cts:urn:tlg0032.tlg004:5.7
+glaux1.0-sentence	484
+perseus-grc2	 εἰ γὰρ τοῦ ἀποδάκνειν ἕνεκα πεποίηται , πολὺ ἂν σὺ μεῖζον ἢ ἐγὼ ἀποδάκοις .
+perseus-eng2	 Critobulus: For if it is created for the purpose of biting off food, you could bite off a far bigger mouthful than I could.
+
+cts:urn:tlg0032.tlg004:5.7
+glaux1.0-sentence	485
+perseus-grc2	 διὰ δὲ τὸ παχέα ἔχειν τὰ χείλη οὐκ οἴει καὶ μαλακώτερόν σου ἔχειν τὸ φίλημα ;
+perseus-eng2	 Socrates: And don’t you think that your kiss is also the more tender because you have thick lips?
+
+cts:urn:tlg0032.tlg004:5.7
+glaux1.0-sentence	486
+perseus-grc2	 ἔοικα , ἔφη , ἐγὼ κατὰ τὸν σὸν λόγον καὶ τῶν ὄνων αἴσχιον τὸ στόμα ἔχειν .
+perseus-eng2	 Socrates: According to your argument, it would seem that I have a mouth more ugly even than an ass’s.
+
+cts:urn:tlg0032.tlg004:5.7
+glaux1.0-sentence	487
+perseus-grc2	 ἐκεῖνο δὲ οὐδὲν τεκμήριον λογίζῃ , ὡς ἐγὼ σοῦ καλλίων εἰμί , ὅτι καὶ Ναΐδες θεοὶ οὖσαι τοὺς Σειληνοὺς ἐμοὶ ὁμοιοτέρους τίκτουσιν ἢ σοί ;
+perseus-eng2	 Socrates: But do you not reckon it a proof of my superior beauty that the River Nymphs, goddesses as they are, bear as their offspring the Seileni, who resemble me more closely than they do you?
+
+cts:urn:tlg0032.tlg004:5.8
+glaux1.0-sentence	488
+perseus-grc2	 καὶ ὁ Κριτόβουλος , οὐκέτι , ἔφη , ἔχω πρὸς σὲ ἀντιλέγειν , ἀλλὰ διαφερόντων , ἔφη , τὰς ψήφους , ἵνα ὡς τάχιστα εἰδῶ ὅ τι με χρὴ παθεῖν ἢ ἀποτεῖσαι .
+perseus-eng2	 I cannot argue any longer with you, answered Critobulus; let them distribute the ballots, so that I may know without suspense what fine or punishment I must undergo.
+
+cts:urn:tlg0032.tlg004:5.8
+glaux1.0-sentence	489
+perseus-grc2	 μόνον , ἔφη , κρυφῇ φερόντων ·
+perseus-eng2	 Only, he continued, let the balloting be secret,
+
+cts:urn:tlg0032.tlg004:5.8
+glaux1.0-sentence	490
+perseus-grc2	 δέδοικα γὰρ τὸν σὸν καὶ Ἀντισθένους πλοῦτον μή με καταδυναστεύσῃ .
+perseus-eng2	 for I am afraid that the wealth you and Antisthenes possess will overmaster me.
+
+cts:urn:tlg0032.tlg004:5.9
+glaux1.0-sentence	491
+perseus-grc2	 ἡ μὲν δὴ παῖς καὶ ὁ παῖς κρύφα ἀνέφερον .
+perseus-eng2	 So the maiden and the lad turned in the ballots secretly.
+
+cts:urn:tlg0032.tlg004:5.9
+glaux1.0-sentence	492
+perseus-grc2	 ὁ δὲ Σωκράτης ἐν τούτῳ διέπραττε τόν τε λύχνον ἀντιπροσενεγκεῖν τῷ Κριτοβούλῳ , ὡς μὴ ἐξαπατηθείησαν οἱ κριταί , καὶ τῷ νικήσαντι μὴ ταινίας ἀλλὰ φιλήματα ἀναδήματα παρὰ τῶν κριτῶν γενέσθαι .
+perseus-eng2	 While this was going on, Socrates saw to it that the light should be brought in front of Critobulus, so that the judges might not be misled, and stipulated that the prize given by the judges to crown the victor should be kisses and not ribbons.
+
+cts:urn:tlg0032.tlg004:5.10
+glaux1.0-sentence	493
+perseus-grc2	 ἐπεὶ δὲ ἐξέπεσον αἱ ψῆφοι καὶ ἐγένοντο πᾶσαι σὺν Κριτοβούλῳ , παπαῖ , ἔφη ὁ Σωκράτης , οὐχ ὅμοιον ἔοικε τὸ σὸν ἀργύριον , ὦ Κριτόβουλε , τῷ Καλλίου εἶναι .
+perseus-eng2	 When the ballots were turned out of the urn and proved to be a unanimous verdict in favour of Critobulus, Faugh! exclaimed Socrates; your money, Critobulus, does not appear to resemble Callias’s.
+
+cts:urn:tlg0032.tlg004:5.10
+glaux1.0-sentence	494
+perseus-grc2	 τὸ μὲν γὰρ τούτου δικαιοτέρους ποιεῖ , τὸ δὲ σὸν ὥσπερ τὸ πλεῖστον διαφθείρειν ἱκανόν ἐστι καὶ δικαστὰς καὶ κριτάς .
+perseus-eng2	 For his makes people more honest, while yours is about the most potent to corrupt men, whether members of a jury or judges of a contest.
+
+cts:urn:tlg0032.tlg004:6.1
+glaux1.0-sentence	495
+perseus-grc2	 ἐκ δὲ τούτου οἱ μὲν τὰ νικητήρια φιλήματα ἀπολαμβάνειν τὸν Κριτόβουλον ἐκέλευον , οἱ δὲ τὸν κύριον πείθειν , οἱ δὲ καὶ ἄλλα ἔσκωπτον .
+perseus-eng2	 At this some of the company urged Critobulus to take his kisses, the need of victory; others advised him to get the consent of the young people’s legal guardian; and others indulged in other badinage.
+
+cts:urn:tlg0032.tlg004:6.1
+glaux1.0-sentence	496
+perseus-grc2	 ὁ δὲ Ἑρμογένης κ- ἐνταῦθα ἐσιώπα .
+perseus-eng2	 But even then Hermogenes kept silent.
+
+cts:urn:tlg0032.tlg004:6.1
+glaux1.0-sentence	497
+perseus-grc2	 καὶ ὁ Σωκράτης ὀνομάσας αὐτόν , ἔχοις ἄν , ἔφη , ὦ Ἑρμόγενες , εἰπεῖν ἡμῖν τί ἐστὶ παροινία ;
+perseus-eng2	 And Socrates, calling him by name, inquired, Hermogenes, could you define convivial unpleasantness for us?
+
+cts:urn:tlg0032.tlg004:6.1
+glaux1.0-sentence	498
+perseus-grc2	 καὶ ὃς ἀπεκρίνατο ·
+perseus-eng2	 If you ask me what it actually is, he answered, I do not know;
+
+cts:urn:tlg0032.tlg004:6.1
+glaux1.0-sentence	499
+perseus-grc2	 εἰ μὲν ὅ τι ἐστὶν ἐρωτᾷς , οὐκ οἶδα ·
+perseus-eng2	 but I am willing to tell you what I think it is.
+
+cts:urn:tlg0032.tlg004:6.1
+glaux1.0-sentence	500
+perseus-grc2	 τὸ μέντοι μοι δοκοῦν εἴποιμ’ ἄν .
+perseus-eng2	 Very well, tell us that.
+
+cts:urn:tlg0032.tlg004:6.2
+glaux1.0-sentence	501
+perseus-grc2	 ἀλλ’ , ὃ δοκεῖ , τοῦτ’ , ἔφη .
+perseus-eng2	 My definition is this, he said.
+
+cts:urn:tlg0032.tlg004:6.2
+glaux1.0-sentence	502
+perseus-grc2	 τὸ τοίνυν παρ’ οἶνον λυπεῖν τοὺς συνόντας , τοῦτ’ ἐγὼ κρίνω παροινίαν .
+perseus-eng2	 Convivial unpleasantness is the annoying of one’s companions at their drink.
+
+cts:urn:tlg0032.tlg004:6.2
+glaux1.0-sentence	503
+perseus-grc2	 οἶσθ’ οὖν , ἔφη , ὅτι καὶ σὺ νῦν ἡμᾶς λυπεῖς σιωπῶν ;
+perseus-eng2	 Well, do you realize that at the present moment you conform to the definition by annoying us with your taciturnity?
+
+cts:urn:tlg0032.tlg004:6.2
+glaux1.0-sentence	504
+perseus-grc2	 ἦ καὶ ὅταν λέγητ’ ;
+perseus-eng2	 What! while you are talking?
+
+cts:urn:tlg0032.tlg004:6.2
+glaux1.0-sentence	505
+perseus-grc2	 ἔφη .
+perseus-eng2	 he said.
+
+cts:urn:tlg0032.tlg004:6.2
+glaux1.0-sentence	506
+perseus-grc2	 οὐκ ἀλλ’ ὅταν διαλίπωμεν .
+perseus-eng2	 No, but in the intervals,
+
+cts:urn:tlg0032.tlg004:6.2
+glaux1.0-sentence	507
+perseus-grc2	 ἦ οὖν λέληθέ σε ὅτι μεταξὺ τοῦ ὑμᾶς λέγειν οὐδ’ ἂν τρίχα , μὴ ὅτι λόγον ἄν τις παρείρειε ;
+perseus-eng2	 Why, don’t you see that a person could not insert even a hair in the interstices of your talk, much less a word?
+
+cts:urn:tlg0032.tlg004:6.3
+glaux1.0-sentence	508
+perseus-grc2	 καὶ ὁ Σωκράτης , ὦ Καλλία , ἔχοις ἄν τι , ἔφη , ἀνδρὶ ἐλεγχομένῳ βοηθῆσαι ;
+perseus-eng2	 Callias, said Socrates, appealing to him, could you come to the rescue of a man hard put to it for an answer?
+
+cts:urn:tlg0032.tlg004:6.3
+glaux1.0-sentence	509
+perseus-grc2	 ἔγωγ’ , ἔφη .
+perseus-eng2	 Yes, indeed, said he:
+
+cts:urn:tlg0032.tlg004:6.3
+glaux1.0-sentence	510
+perseus-grc2	 ὅταν γὰρ ὁ αὐλὸς φθέγγηται , παντάπασι σιωπῶμεν .
+perseus-eng2	 we are absolutely quiet every time the flute is played.
+
+cts:urn:tlg0032.tlg004:6.3
+glaux1.0-sentence	511
+perseus-grc2	 καὶ ὁ Ἑρμογένης , ἦ οὖν βούλεσθε , ἔφη , ὥσπερ Νικόστρατος ὁ ὑποκριτὴς τετράμετρα πρὸς τὸν αὐλὸν κατέλεγεν , οὕτω καὶ ὑπὸ τοῦ αὐλοῦ ὑμῖν διαλέγωμαι ;
+perseus-eng2	 Hermogenes retorted, Is it your wish that I should converse with you to the accompaniment of a flute, the way the actor Nicostratus used to recite tetrameter verses?
+
+cts:urn:tlg0032.tlg004:6.4
+glaux1.0-sentence	512
+perseus-grc2	 καὶ ὁ Σωκράτης , πρὸς τῶν θεῶν , ἔφη , Ἑρμόγενες , οὕτω ποίει .
+perseus-eng2	 In Heaven’s name, do so, Hermogenes, urged Socrates.
+
+cts:urn:tlg0032.tlg004:6.4
+glaux1.0-sentence	513
+perseus-grc2	 οἶμαι γάρ , ὥσπερ ἡ ᾠδὴ ἡδίων πρὸς τὸν αὐλόν , οὕτω καὶ τοὺς σοὺς λόγους ἡδύνεσθαι ἄν τι ὑπὸ τῶν φθόγγων , ἄλλως τε καὶ εἰ μορφάζοις , ὥσπερ ἡ αὐλητρίς , καὶ σὺ πρὸς τὰ λεγόμενα .
+perseus-eng2	 For I believe that precisely as a song is more agreeable when accompanied on the flute, so your discourse would be embellished somewhat by the music, especially if you were to gesticulate and pose, like the flute-girl, to point your words.
+
+cts:urn:tlg0032.tlg004:6.5
+glaux1.0-sentence	514
+perseus-grc2	 καὶ ὁ Καλλίας ἔφη ·
+perseus-eng2	 Callias asked:
+
+cts:urn:tlg0032.tlg004:6.5
+glaux1.0-sentence	515
+perseus-grc2	 ὅταν οὖν ὁ Ἀντισθένης ὅδ’ ἐλέγχῃ τινὰ ἐν τῷ συμποσίῳ , τί ἔσται τὸ αὔλημα ;
+perseus-eng2	 What is the tune to be,  when Antisthenes here gets some one at the banquet cornered in an argument?
+
+cts:urn:tlg0032.tlg004:6.5
+glaux1.0-sentence	516
+perseus-grc2	 καὶ ὁ Ἀντισθένης εἶπε ·
+perseus-eng2	  Antisthenes said:
+
+cts:urn:tlg0032.tlg004:6.5
+glaux1.0-sentence	517
+perseus-grc2	 τῷ μὲν ἐλεγχομένῳ οἶμαι ἄν , ἔφη , πρέπειν συριγμόν .
+perseus-eng2	 For the discomfited disputant,  I think the appropriate music would be a hissing.
+
+cts:urn:tlg0032.tlg004:6.6
+glaux1.0-sentence	518
+perseus-grc2	 τοιούτων δὲ λόγων ὄντων ὡς ἑώρα ὁ Συρακόσιος τῶν μὲν αὑτοῦ ἐπιδειγμάτων ἀμελοῦντας , ἀλλήλοις δὲ ἡδομένους , φθονῶν τῷ Σωκράτει εἶπεν ·
+perseus-eng2	 The Syracusan, seeing that with such conversation going on the banqueters were paying no attention to his show, but were enjoying one another’s company, said spitefully to Socrates,
+
+cts:urn:tlg0032.tlg004:6.6
+glaux1.0-sentence	519
+perseus-grc2	 ἆρα σύ , ὦ Σώκρατες , ὁ φροντιστὴς ἐπικαλούμενος ;
+perseus-eng2	 Socrates, are you the one nick-named the Thinker?
+
+cts:urn:tlg0032.tlg004:6.6
+glaux1.0-sentence	520
+perseus-grc2	 οὐκοῦν κάλλιον , ἔφη , ἢ εἰ ἀφρόντιστος ἐκαλούμην .
+perseus-eng2	 Well, isn’t that preferable, he rejoined, to being called the Thoughtless?
+
+cts:urn:tlg0032.tlg004:6.6
+glaux1.0-sentence	521
+perseus-grc2	 εἰ μή γε ἐδόκεις τῶν μετεώρων φροντιστὴς εἶναι .
+perseus-eng2	 Yes, if it were not that you are supposed to be a thinker on celestial subjects.
+
+cts:urn:tlg0032.tlg004:6.7
+glaux1.0-sentence	522
+perseus-grc2	 οἶσθα οὖν , ἔφη ὁ Σωκράτης , μετεωρότερόν τι τῶν θεῶν ;
+perseus-eng2	 Do you know, asked Socrates, anything more celestial than the gods?
+
+cts:urn:tlg0032.tlg004:6.7
+glaux1.0-sentence	523
+perseus-grc2	 ἀλλ’ οὐ μὰ Δί’ , ἔφη , οὐ τούτων σε λέγουσιν ἐπιμελεῖσθαι , ἀλλὰ τῶν ἀνωφελεστάτων .
+perseus-eng2	 No; but that is not what people say you are concerned with, but rather with the most unbeneficial things.
+
+cts:urn:tlg0032.tlg004:6.7
+glaux1.0-sentence	524
+perseus-grc2	 οὐκοῦν καὶ οὕτως ἄν , ἔφη , θεῶν ἐπιμελοίμην ·
+perseus-eng2	 Even granting the expression, it would still be the gods that are my concern; for (1) they cause rain under the heavens and so are beneficial,
+
+cts:urn:tlg0032.tlg004:6.7
+glaux1.0-sentence	525
+perseus-grc2	 ἄνωθεν μέν γε ὕοντες ὠφελοῦσιν , ἄνωθεν δὲ φῶς παρέχουσιν .
+perseus-eng2	 and (2) they produce light, also under the heavens, and are thus again beneficial.
+
+cts:urn:tlg0032.tlg004:6.7
+glaux1.0-sentence	526
+perseus-grc2	 εἰ δὲ ψυχρὰ λέγω , σὺ αἴτιος , ἔφη , πράγματά μοι παρέχων .
+perseus-eng2	 If the pun is strained, he added, you have only yourself to blame for it, for annoying me.
+
+cts:urn:tlg0032.tlg004:6.8
+glaux1.0-sentence	527
+perseus-grc2	 ταῦτα μέν , ἔφη , ἔα ·
+perseus-eng2	 Well, let that pass. But tell me the distance between us in flea’s feet; for people say that your geometry includes such measurements as that.
+
+cts:urn:tlg0032.tlg004:6.8
+glaux1.0-sentence	528
+perseus-grc2	 ἀλλ’ εἰπέ μοι πόσους ψύλλα πόδας ἐμοῦ ἀπέχει .
+perseus-eng2	 At this Antisthenes said to Philip:
+
+cts:urn:tlg0032.tlg004:6.8
+glaux1.0-sentence	529
+perseus-grc2	 ταῦτα γάρ σέ φασι γεωμετρεῖν .
+perseus-eng2	 You are clever at hitting off a person’s likeness; wouldn’t you say that our friend here resembles one with a penchant for abuse?
+
+cts:urn:tlg0032.tlg004:6.8
+glaux1.0-sentence	530
+perseus-grc2	 καὶ ὁ Ἀντισθένης εἶπε ·
+perseus-eng2	 Yes, indeed, came the answer;
+
+cts:urn:tlg0032.tlg004:6.8
+glaux1.0-sentence	531
+perseus-grc2	 σὺ μέντοι δεινὸς εἶ , ὦ Φίλιππε , εἰκάζειν ·
+perseus-eng2	 and I see a resemblance in him to many another kind of person, too.
+
+cts:urn:tlg0032.tlg004:6.8
+glaux1.0-sentence	532
+perseus-grc2	 οὐ δοκεῖ σοι ὁ ἀνὴρ οὗτος λοιδορεῖσθαι βουλομένῳ ἐοικέναι ;
+perseus-eng2	 Nevertheless, interposed Socrates, do not draw the comparison, lest you take on a similar likeness to one stooping to abuse.
+
+cts:urn:tlg0032.tlg004:6.8
+glaux1.0-sentence	533
+perseus-grc2	 ναὶ μὰ τὸν Δί’ , ἔφη , καὶ ἄλλοις γε πολλοῖς .
+perseus-eng2	 But suppose I am likening him to all the upright, the very elite; then I should deserve to be compared to a eulogist, rather than to a detractor.
+
+cts:urn:tlg0032.tlg004:6.9
+glaux1.0-sentence	534
+perseus-grc2	 ἀλλ’ ὅμως , ἔφη ὁ Σωκράτης , σὺ αὐτὸν μὴ εἴκαζε , ἵνα μὴ καὶ σὺ λοιδορουμένῳ ἐοίκῃς .
+perseus-eng2	 Ah, you resemble the latter right now, for you are asserting that every one is better than he.
+
+cts:urn:tlg0032.tlg004:6.9
+glaux1.0-sentence	535
+perseus-grc2	 ἀλλ’ εἴπερ γε τοῖς πᾶσι καλοῖς καὶ τοῖς βελτίστοις εἰκάζω αὐτόν , ἐπαινοῦντι μᾶλλον ἢ λοιδορουμένῳ δικαίως ἂν εἰκάζοι μέ τις .
+perseus-eng2	 Would you have me compare him to those who excel him in villainy?
+
+cts:urn:tlg0032.tlg004:6.9
+glaux1.0-sentence	536
+perseus-grc2	 καὶ νῦν σύγε λοιδορουμένῳ ἔοικας , εἰ πάντ’ αὐτοῦ βελτίων φῂς εἶναι .
+perseus-eng2	 No, not those, either.
+
+cts:urn:tlg0032.tlg004:6.10
+glaux1.0-sentence	537
+perseus-grc2	 ἀλλὰ βούλει πονηροτέροις εἰκάζω αὐτόν ;
+perseus-eng2	 What, to no one?
+
+cts:urn:tlg0032.tlg004:6.10
+glaux1.0-sentence	538
+perseus-grc2	 μηδὲ πονηροτέροις .
+perseus-eng2	 No; don’t compare him to any one in any particular.
+
+cts:urn:tlg0032.tlg004:6.10
+glaux1.0-sentence	539
+perseus-grc2	 ἀλλὰ μηδενί ;
+perseus-eng2	 But if I hold my peace, I do not understand how I am going to render services suitable to such a fine dinner.
+
+cts:urn:tlg0032.tlg004:6.10
+glaux1.0-sentence	540
+perseus-grc2	 μηδενὶ μηδὲ τούτων εἴκαζε .
+perseus-eng2	 That is easily effected, said Socrates, if you will be reticent on matters that should not be talked about.
+
+cts:urn:tlg0032.tlg004:6.10
+glaux1.0-sentence	541
+perseus-grc2	 ἀλλ’ οὐ μέντοι γε σιωπῶν οἶδα ὅπως ἄξια τοῦ δείπνου ἐργάσομαι .
+perseus-eng2	 Thus was quenched this bit of convivial unpleasantness.
+
+cts:urn:tlg0032.tlg004:6.10
+glaux1.0-sentence	542
+perseus-grc2	 καὶ ῥᾳδίως γ’ , ἂν ἃ μὴ δεῖ λέγειν , ἔφη , σιωπᾷς .
+perseus-eng2	 Then some among the rest of the banqueters kept urging Philip to go on with his comparisons, while others opposed.
+
+cts:urn:tlg0032.tlg004:6.10
+glaux1.0-sentence	543
+perseus-grc2	 αὕτη μὲν δὴ ἡ παροινία οὕτω κατεσβέσθη .
+perseus-eng2	 As the clamour rose to some height, Socrates once more interposed, saying:
+
+cts:urn:tlg0032.tlg004:7.1
+glaux1.0-sentence	544
+perseus-grc2	 ἐκ τούτου δὲ τῶν ἄλλων οἱ μὲν ἐκέλευον εἰκάζειν , οἱ δὲ ἐκώλυον .
+perseus-eng2	 Since we all want to talk, would this not be a fine time to join in singing?
+
+cts:urn:tlg0032.tlg004:7.1
+glaux1.0-sentence	545
+perseus-grc2	 θορύβου δὲ ὄντος ὁ Σωκράτης αὖ πάλιν εἶπεν ·
+perseus-eng2	 And with the words he began a song.
+
+cts:urn:tlg0032.tlg004:7.1
+glaux1.0-sentence	546
+perseus-grc2	 ἆρα ἐπειδὴ πάντες ἐπιθυμοῦμεν λέγειν , νῦν ἂν μάλιστα καὶ ἅμα ᾁσαιμεν ;
+perseus-eng2	 When they had finished, a potter’s wheel was brought in for the dancing girl on which she intended performing some feats of jugglery.
+
+cts:urn:tlg0032.tlg004:7.1
+glaux1.0-sentence	547
+perseus-grc2	 καὶ εὐθὺς τοῦτ’ εἰπὼν ἦρχεν ᾠδῆς .
+perseus-eng2	 This prompted Socrates to observe to the Syracusan:
+
+cts:urn:tlg0032.tlg004:7.2
+glaux1.0-sentence	548
+perseus-grc2	 ἐπεὶ δ’ ᾖσεν , εἰσεφέρετο τῇ ὀρχηστρίδι τροχὸς τῶν κεραμεικῶν , ἐφ’ οὗ ἔμελλε θαυματουργήσειν .
+perseus-eng2	 Sir, it is quite probable that, to use your words, I am indeed a thinker; at any rate, I am now considering how it might be possible for this lad of yours and this maid to exert as little effort as may be,
+
+cts:urn:tlg0032.tlg004:7.2
+glaux1.0-sentence	549
+perseus-grc2	 ἔνθα δὴ εἶπεν ὁ Σωκράτης ·
+perseus-eng2	 and at the same time give us the greatest possible amount of pleasure in watching them, — this being your purpose, also, I am sure.
+
+cts:urn:tlg0032.tlg004:7.2
+glaux1.0-sentence	550
+perseus-grc2	 ὦ Συρακόσιε , κινδυνεύω ἐγώ , ὥσπερ σὺ λέγεις , τῷ ὄντι φροντιστὴς εἶναι ·
+perseus-eng2	 Now, turning somersaults in among knives seems to me to be a dangerous exhibition, which is utterly out of place at a banquet.
+
+cts:urn:tlg0032.tlg004:7.2
+glaux1.0-sentence	551
+perseus-grc2	 νῦν γοῦν σκοπῶ ὅπως ἂν ὁ μὲν παῖς ὅδε ὁ σὸς καὶ ἡ παῖς ἥδε ὡς ῥᾷστα διάγοιεν , ἡμεῖς δ’ ἂν μάλιστα εὐφραινοίμεθα θεώμενοι αὐτούς ·
+perseus-eng2	 Also, to write or read aloud on a whirling potter’s wheel may perhaps be something of a feat; yet I cannot conceive what pleasure even this can afford.
+
+cts:urn:tlg0032.tlg004:7.2
+glaux1.0-sentence	552
+perseus-grc2	 ὅπερ εὖ οἶδα ὅτι καὶ σὺ βούλει .
+perseus-eng2	 Nor is it any more diverting to watch the young and beautiful going through bodily contortions and imitating hoops than to contemplate them in repose.
+
+cts:urn:tlg0032.tlg004:7.3
+glaux1.0-sentence	553
+perseus-grc2	 δοκεῖ οὖν μοι τὸ μὲν εἰς μαχαίρας κυβιστᾶν κινδύνου ἐπίδειγμα εἶναι , ὃ συμποσίῳ οὐδὲν προσήκει .
+perseus-eng2	 Now, turning somersaults in among knives seems to me to be a dangerous exhibition, which is utterly out of place at a banquet.
+
+cts:urn:tlg0032.tlg004:7.3
+glaux1.0-sentence	554
+perseus-grc2	 καὶ μὴν τό γε ἐπὶ τοῦ τροχοῦ ἅμα περιδινουμένου γράφειν τε καὶ ἀναγιγνώσκειν θαῦμα μὲν ἴσως τί ἐστιν , ἡδονὴν δὲ οὐδὲ ταῦτα δύναμαι γνῶναι τίν’ ἂν παράσχοι .
+perseus-eng2	 Also, to write or read aloud on a whirling potter’s wheel may perhaps be something of a feat; yet I cannot conceive what pleasure even this can afford.
+
+cts:urn:tlg0032.tlg004:7.3
+glaux1.0-sentence	555
+perseus-grc2	 οὐδὲ μὴν τό γε διαστρέφοντας τὰ σώματα καὶ τροχοὺς μιμουμένους ἥδιον ἢ ἡσυχίαν ἔχοντας τοὺς καλοὺς καὶ ὡραίους θεωρεῖν .
+perseus-eng2	 Nor is it any more diverting to watch the young and beautiful going through bodily contortions and imitating hoops than to contemplate them in repose.
+
+cts:urn:tlg0032.tlg004:7.4
+glaux1.0-sentence	556
+perseus-grc2	 καὶ γὰρ δὴ οὐδὲ πάνυ τι σπάνιον τό γε θαυμασίοις ἐντυχεῖν , εἴ τις τούτου δεῖται , ἀλλ’ ἔξεστιν αὐτίκα μάλα τὰ παρόντα θαυμάζειν , τί ποτε ὁ μὲν λύχνος διὰ τὸ λαμπρὰν φλόγα ἔχειν φῶς παρέχει , τὸ δὲ χαλκεῖον λαμπρὸν ὂν φῶς μὲν οὐ ποιεῖ , ἐν αὑτῷ δὲ ἄλλα ἐμφαινόμενα παρέχεται ·
+perseus-eng2	 For it is of course no rare event to meet with marvels, if that is what one’s mind is set on. He may marvel at what he finds immediately at hand, — for instance, why the lamp gives light owing to its having a bright flame, while a bronze mirror, likewise bright, does not produce light but instead reflects other things that appear in it;
+
+cts:urn:tlg0032.tlg004:7.4
+glaux1.0-sentence	557
+perseus-grc2	 καὶ πῶς τὸ μὲν ἔλαιον ὑγρὸν ὂν αὔξει τὴν φλόγα , τὸ δὲ ὕδωρ , ὅτι ὑγρόν ἐστι , κατασβέννυσι τὸ πῦρ .
+perseus-eng2	 or how it comes about that olive oil, though wet, makes the flame higher, while water, because it is wet, puts the fire out.
+
+cts:urn:tlg0032.tlg004:7.4
+glaux1.0-sentence	558
+perseus-grc2	 ἀλλὰ γὰρ καὶ ταῦτα μὲν οὐκ εἰς τ- αὐτὸν τῷ οἴνῳ ἐπισπεύδει ·
+perseus-eng2	 However, these questions also fail to promote the same object that wine does;
+
+cts:urn:tlg0032.tlg004:7.5
+glaux1.0-sentence	559
+perseus-grc2	 εἰ δὲ ὀρχοῖντο πρὸς τὸν αὐλὸν σχήματα ἐν οἷς Χάριτές τε καὶ Ὧραι καὶ Νύμφαι γράφονται , πολὺ ἂν οἶμαι αὐτούς γε ῥᾷον διάγειν καὶ τὸ συμπόσιον πολὺ ἐπιχαριτώτερον εἶναι .
+perseus-eng2	 but if the young people were to have a flute accompaniment and dance figures depicting the Graces, the Horae, and the Nymphs, I believe that they would be far less wearied themselves and that the charms of the banquet would be greatly enhanced.
+
+cts:urn:tlg0032.tlg004:7.5
+glaux1.0-sentence	560
+perseus-grc2	 ὁ οὖν Συρακόσιος , ἀλλὰ ναὶ μὰ τὸν Δί’ , ἔφη , ὦ Σώκρατες , καλῶς τε λέγεις καὶ ἐγὼ εἰσάξω θεάματα ἐφ’ οἷς ὑμεῖς εὐφρανεῖσθε .
+perseus-eng2	 Upon my word, Socrates, replied the Syracusan, you are quite right; and I will bring in a spectacle that will delight you.
+
+cts:urn:tlg0032.tlg004:8.1
+glaux1.0-sentence	561
+perseus-grc2	 ὁ μὲν δὴ Συρακόσιος ἐξελθὼν συνεκροτεῖτο ·
+perseus-eng2	 So the Syracusan withdrew amid applause.
+
+cts:urn:tlg0032.tlg004:8.1
+glaux1.0-sentence	562
+perseus-grc2	 ὁ δὲ Σωκράτης πάλιν αὖ καινοῦ λόγου κατῆρχεν .
+perseus-eng2	 Socrates now opened up another new topic for discussion.
+
+cts:urn:tlg0032.tlg004:8.1
+glaux1.0-sentence	563
+perseus-grc2	 ἆρ’ , ἔφη , ὦ ἄνδρες , εἰκὸς ἡμᾶς παρόντος δαίμονος μεγάλου καὶ τῷ μὲν χρόνῳ ἰσήλικος τοῖς ἀειγενέσι θεοῖς , τῇ δὲ μορφῇ νεωτάτου , καὶ μεγέθει πάντα ἐπέχοντος , ψυχῇ δὲ ἀνθρώπου ἱδρυμένου , Ἔρωτος , μὴ ἂν ἀμνημονῆσαι , ἄλλως τε καὶ ἐπειδὴ πάντες ἐσμὲν τοῦ θεοῦ τούτου θιασῶται ;
+perseus-eng2	 Gentlemen, said he, it is to be expected of us, is it not, when in the presence of a mighty deity that is coeval with the eternal gods, yet youngest of them all in appearance, in magnitude encompassing the universe, but enthroned in the heart of man, — I mean Love, — that we should not be unmindful of him, particularly in view of the fact that we are all of his following?
+
+cts:urn:tlg0032.tlg004:8.2
+glaux1.0-sentence	564
+perseus-grc2	 ἐγώ τε γὰρ οὐκ ἔχω χρόνον εἰπεῖν ἐν ᾧ οὐκ ἐρῶν τινος διατελῶ , Χαρμίδην δὲ τόνδε οἶδα πολλοὺς μὲν ἐραστὰς κτησάμενον , ἔστι δὲ ὧν καὶ αὐτὸν ἐπιθυμήσαντα ·
+perseus-eng2	 For I cannot name a time when I was not in love with some one, and I know that Charmides here has gained many lovers and has in some instances felt the passion himself;
+
+cts:urn:tlg0032.tlg004:8.2
+glaux1.0-sentence	565
+perseus-grc2	 Κριτόβουλός γε μὴν ἔτι καὶ νῦν ἐρώμενος ὢν ἤδη ἄλλων ἐπιθυμεῖ .
+perseus-eng2	 and Critobulus, though even yet the object of love, is already beginning to feel this passion for others.
+
+cts:urn:tlg0032.tlg004:8.3
+glaux1.0-sentence	566
+perseus-grc2	 ἀλλὰ μὴν καὶ ὁ Νικήρατος , ὡς ἐγὼ ἀκούω , ἐρῶν τῆς γυναικὸς ἀντερᾶται .
+perseus-eng2	 Nay, Niceratus too, so I am told, is in love with his wife and finds his love reciprocated.
+
+cts:urn:tlg0032.tlg004:8.3
+glaux1.0-sentence	567
+perseus-grc2	 Ἑρμογένη γε μὴν τίς ἡμῶν οὐκ οἶδεν ὡς , ὅ τι ποτ’ ἐστὶν ἡ καλοκἀγαθία , τῷ ταύτης ἔρωτι κατατήκεται ;
+perseus-eng2	 And as for Hermogenes, who of us does not know that he is pining away with love for nobility of character, whatever that may be?
+
+cts:urn:tlg0032.tlg004:8.3
+glaux1.0-sentence	568
+perseus-grc2	 οὐχ ὁρᾶτε ὡς σπουδαῖαι μὲν αὐτοῦ αἱ ὀφρύες , ἀτρεμὲς δὲ τὸ ὄμμα , μέτριοι δὲ οἱ λόγοι , πραεῖα δὲ ἡ φωνή , ἱλαρὸν δὲ τὸ ἦθος ;
+perseus-eng2	 Do you not observe how serious his brows are, how calm his gaze, how modest his words, how gentle his voice, how genial his demeanour?
+
+cts:urn:tlg0032.tlg004:8.3
+glaux1.0-sentence	569
+perseus-grc2	 τοῖς δὲ σεμνοτάτοις θεοῖς φίλοις χρώμενος οὐδὲν ἡμᾶς τοὺς ἀνθρώπους ὑπερορᾷ ;
+perseus-eng2	 That though he enjoys the friendship of the most august gods, yet he does not disdain us mortals?
+
+cts:urn:tlg0032.tlg004:8.4
+glaux1.0-sentence	570
+perseus-grc2	 σὺ δὲ μόνος , ὦ Ἀντίσθενες , οὐδενὸς ἐρᾷς ;
+perseus-eng2	 Are you the only person, Antisthenes, in love with no one?
+
+cts:urn:tlg0032.tlg004:8.4
+glaux1.0-sentence	571
+perseus-grc2	 ναὶ μὰ τοὺς θεούς , εἶπεν ἐκεῖνος , καὶ σφόδρα γε σοῦ .
+perseus-eng2	 No, by Heaven! replied he; I am madly in love — with you.
+
+cts:urn:tlg0032.tlg004:8.4
+glaux1.0-sentence	572
+perseus-grc2	 καὶ ὁ Σωκράτης ἐπισκώψας ὡς δὴ θρυπτόμενος εἶπε ·
+perseus-eng2	 And Socrates, banteringly, pretending to be coquettish, said:
+
+cts:urn:tlg0032.tlg004:8.4
+glaux1.0-sentence	573
+perseus-grc2	 μὴ νῦν μοι ἐν τῷ παρόντι ὄχλον πάρεχε ·
+perseus-eng2	 Don’t pester me just now;
+
+cts:urn:tlg0032.tlg004:8.5
+glaux1.0-sentence	574
+perseus-grc2	 ὡς γὰρ ὁρᾷς , ἄλλα πράττω .
+perseus-eng2	 I am engaged in other business, as you see.
+
+cts:urn:tlg0032.tlg004:8.5
+glaux1.0-sentence	575
+perseus-grc2	 καὶ ὁ Ἀντισθένης ἔλεξεν ·
+perseus-eng2	 Antisthenes rejoined:
+
+cts:urn:tlg0032.tlg004:8.5
+glaux1.0-sentence	576
+perseus-grc2	 ὡς σαφῶς μέντοι σὺ μαστροπὲ σαυτοῦ ἀεὶ τοιαῦτα ποιεῖς ·
+perseus-eng2	 How transparent you are, sir procurer of your own charms,  in always doing something like this;
+
+cts:urn:tlg0032.tlg004:8.5
+glaux1.0-sentence	577
+perseus-grc2	 τοτὲ μὲν τὸ δαιμόνιον προφασιζόμενος οὐ διαλέγῃ μοι , τοτὲ δ’ ἄλλου του ἐφιέμενος .
+perseus-eng2	 at one time you refuse me audience on the pretext of your divine sign, at another time because you have some other purpose in mind.
+
+cts:urn:tlg0032.tlg004:8.6
+glaux1.0-sentence	578
+perseus-grc2	 καὶ ὁ Σωκράτης ἔφη ·
+perseus-eng2	 Socrates said:
+
+cts:urn:tlg0032.tlg004:8.6
+glaux1.0-sentence	579
+perseus-grc2	 πρὸς τῶν θεῶν , ὦ Ἀντίσθενες , μόνον μὴ συγκόψῃς με ·
+perseus-eng2	 In Heaven’s name, Antisthenes, implored Socrates, only refrain from beating me;
+
+cts:urn:tlg0032.tlg004:8.6
+glaux1.0-sentence	580
+perseus-grc2	 τὴν δ’ ἄλλην χαλεπότητα ἐγώ σου καὶ φέρω καὶ οἴσω φιλικῶς .
+perseus-eng2	 any other manifestation of your bad temper I am wont to endure, and shall continue to do so, in a friendly spirit.
+
+cts:urn:tlg0032.tlg004:8.6
+glaux1.0-sentence	581
+perseus-grc2	 ἀλλὰ γάρ , ἔφη , τὸν μὲν σὸν ἔρωτα κρύπτωμεν , ἐπειδὴ καὶ ἔστιν οὐ ψυχῆς ἀλλ’ εὐμορφίας τῆς ἐμῆς .
+perseus-eng2	 But, he went on, let us keep your love a secret, because it is founded not on my spirit but on my physical beauty.
+
+cts:urn:tlg0032.tlg004:8.7
+glaux1.0-sentence	582
+perseus-grc2	 ὅτι γε μὴν σύ , ὦ Καλλία , ἐρᾷς Αὐτολύκου πᾶσα μὲν ἡ πόλις οἶδε , πολλοὺς δ’ οἶμαι καὶ τῶν ξένων .
+perseus-eng2	 But as for you, Callias, all the city knows that you are in love with Autolycus, and so, I think, do a great many men from abroad.
+
+cts:urn:tlg0032.tlg004:8.7
+glaux1.0-sentence	583
+perseus-grc2	 τούτου δ’ αἴτιον τὸ πατέρων τε ὀνομαστῶν ἀμφοτέρους ὑμᾶς εἶναι καὶ αὐτοὺς ἐπιφανεῖς .
+perseus-eng2	 The reason for this is the fact that you are both sons of distinguished fathers and are yourselves in the public eye.
+
+cts:urn:tlg0032.tlg004:8.8
+glaux1.0-sentence	584
+perseus-grc2	 ἀεὶ μὲν οὖν ἔγωγε ἠγάμην τὴν σὴν φύσιν , νῦν δὲ καὶ πολὺ μᾶλλον , ἐπεὶ ὁρῶ σε ἐρῶντα οὐχ ἁβρότητι χλιδαινομένου οὐδὲ μαλακίᾳ θρυπτομένου , ἀλλὰ πᾶσιν ἐπιδεικνυμένου ῥώμην τε καὶ καρτερίαν καὶ ἀνδρείαν καὶ σωφροσύνην .
+perseus-eng2	 Now, I have always felt an admiration for your character, but at the present time I feel a much keener one, for I see that you are in love with a person who is not marked by dainty elegance nor wanton effeminacy, but shows to the world physical strength and stamina, virile courage and sobriety.
+
+cts:urn:tlg0032.tlg004:8.8
+glaux1.0-sentence	585
+perseus-grc2	 τὸ δὲ τοιούτων ἐπιθυμεῖν τεκμήριόν ἐστι τῆς τοῦ ἐραστοῦ φύσεως .
+perseus-eng2	 Setting one’s heart on such traits gives an insight into the lover’s character.
+
+cts:urn:tlg0032.tlg004:8.9
+glaux1.0-sentence	586
+perseus-grc2	 εἰ μὲν οὖν μία ἐστὶν Ἀφροδίτη ἢ διτταί , Οὐρανία τε καὶ Πάνδημος , οὐκ οἶδα ·
+perseus-eng2	 Now, whether there is one Aphrodite or two, Heavenly and Vulgar, I do not know;
+
+cts:urn:tlg0032.tlg004:8.9
+glaux1.0-sentence	587
+perseus-grc2	 καὶ γὰρ Ζεὺς ὁ αὐτὸς δοκῶν εἶναι πολλὰς ἐπωνυμίας ἔχει ·
+perseus-eng2	 for even Zeus, though considered one and the same, yet has many by-names.
+
+cts:urn:tlg0032.tlg004:8.9
+glaux1.0-sentence	588
+perseus-grc2	 ὅτι γε μέντοι χωρὶς ἑκατέρᾳ βωμοί τε καὶ ναοί εἰσι καὶ θυσίαι τῇ μὲν Πανδήμῳ ῥᾳδιουργότεραι , τῇ δὲ Οὐρανίᾳ ἁγνότεραι , οἶδα .
+perseus-eng2	 I do know, however, that in the case of Aphrodite there are separate altars and temples for the two, and also rituals, those of the Vulgar Aphrodite excelling in looseness, those of the Heavenly in chastity.
+
+cts:urn:tlg0032.tlg004:8.10
+glaux1.0-sentence	589
+perseus-grc2	 εἰκάσαις δ’ ἂν καὶ τοὺς ἔρωτας τὴν μὲν Πάνδημον τῶν σωμάτων ἐπιπέμπειν , τὴν δ’ Οὐρανίαν τῆς ψυχῆς τε καὶ τῆς φιλίας καὶ τῶν καλῶν ἔργων .
+perseus-eng2	 One might conjecture, also, that different types of love come from the different sources, carnal love from the Vulgar Aphrodite, and from the Heavenly spiritual love, love of friendship and of noble conduct.
+
+cts:urn:tlg0032.tlg004:8.10
+glaux1.0-sentence	590
+perseus-grc2	 ὑφ’ οὗ δὴ καὶ σύ , ὦ Καλλία , κατέχεσθαι μοι δοκεῖς ἔρωτος .
+perseus-eng2	 That is the sort of love, Callias, that seems to have you in its grip.
+
+cts:urn:tlg0032.tlg004:8.11
+glaux1.0-sentence	591
+perseus-grc2	 τεκμαίρομαι δὲ τῇ τοῦ ἐρωμένου καλοκἀγαθίᾳ καὶ ὅτι σε ὁρῶ τὸν πατέρα αὐτοῦ παραλαμβάνοντα εἰς τὰς πρὸς τοῦτον συνουσίας .
+perseus-eng2	 I infer this from the noble nature of the one you love and because I see that you include his father in your meetings with him.
+
+cts:urn:tlg0032.tlg004:8.11
+glaux1.0-sentence	592
+perseus-grc2	 οὐδὲν γὰρ τούτων ἐστὶν ἀπόκρυφον πατρὸς τῷ καλῷ τε κ- ἀγαθῷ ἐραστῇ .
+perseus-eng2	 For the virtuous lover does not make any of these matters a secret from the father of his beloved.
+
+cts:urn:tlg0032.tlg004:8.12
+glaux1.0-sentence	593
+perseus-grc2	 καὶ ὁ Ἑρμογένης εἶπε ·
+perseus-eng2	 Marry, quoth Hermogenes, you arouse my admiration in numerous ways, Socrates,
+
+cts:urn:tlg0032.tlg004:8.12
+glaux1.0-sentence	594
+perseus-grc2	 νὴ τὴν Ἥραν , ἔφη , ὦ Σώκρατες , ἄλλα τέ σου πολλὰ ἄγαμαι καὶ ὅτι νῦν ἅμα χαριζόμενος Καλλίᾳ καὶ παιδεύεις αὐτὸν οἷόνπερ χρὴ εἶναι .
+perseus-eng2	 but now more than ever, because in the very act of flattering Callias you are in fact educating him to conform to the ideal.
+
+cts:urn:tlg0032.tlg004:8.12
+glaux1.0-sentence	595
+perseus-grc2	 νὴ Δί’ , ἔφη , ὅπως δὲ καὶ ἔτι μᾶλλον εὐφραίνηται , βούλομαι αὐτῷ μαρτυρῆσαι ὡς καὶ πολὺ κρείττων ἐστὶν ὁ τῆς ψυχῆς ἢ ὁ τοῦ σώματος ἔρως .
+perseus-eng2	 True, he replied; and to add to his pleasure, I wish to bear testimony to him that spiritual love is far superior to carnal.
+
+cts:urn:tlg0032.tlg004:8.13
+glaux1.0-sentence	596
+perseus-grc2	 ὅτι μὲν γὰρ δὴ ἄνευ φιλίας συνουσία οὐδεμία ἀξιόλογος πάντες ἐπιστάμεθα .
+perseus-eng2	 For we all know that there is no converse worth the mention that does not comprise affection.
+
+cts:urn:tlg0032.tlg004:8.13
+glaux1.0-sentence	597
+perseus-grc2	 φιλεῖν γε μὴν τῶν μὲν τὸ ἦθος ἀγαμένων ἀνάγκη ἡδεῖα καὶ ἐθελουσία καλεῖται ·
+perseus-eng2	 Now affection on the part of those who feel admiration for character is commonly termed a pleasant and willing constraint;
+
+cts:urn:tlg0032.tlg004:8.13
+glaux1.0-sentence	598
+perseus-grc2	 τῶν δὲ τοῦ σώματος ἐπιθυμούντων πολλοὶ μὲν τοὺς τρόπους μέμφονται καὶ μισοῦσι τῶν ἐρωμένων ·
+perseus-eng2	 whereas many of those who have a merely physical concupiscence reprehend and detest the ways of those they love.
+
+cts:urn:tlg0032.tlg004:8.14
+glaux1.0-sentence	599
+perseus-grc2	 ἂν δὲ καὶ ἀμφότερα στέρξωσι , τὸ μὲν τῆς ὥρας ἄνθος ταχὺ δήπου παρακμάζει , ἀπολείποντος δὲ τούτου ἀνάγκη καὶ τὴν φιλίαν συναπομαραίνεσθαι , ἡ δὲ ψυχὴ ὅσονπερ ἂν χρόνον ἴῃ ἐπὶ τὸ φρονιμώτερον καὶ ἀξιεραστοτέρα γίγνεται .
+perseus-eng2	 But suppose they are satisfied on both scores; yet the bloom of youth soon passes its prime, and as this disappears, affection also inevitably fades away as fast; but the soul becomes more and more lovable the longer it progresses toward wisdom.
+
+cts:urn:tlg0032.tlg004:8.15
+glaux1.0-sentence	600
+perseus-grc2	 καὶ μὴν ἐν μὲν τῇ τῆς μορφῆς χρήσει ἔνεστί τις καὶ κόρος , ὥστε ἅπερ καὶ πρὸς τὰ σιτία διὰ πλησμονήν , ταῦτα ἀνάγκη καὶ πρὸς τὰ παιδικὰ πάσχειν ·
+perseus-eng2	 Besides, in the enjoyment of physical beauty there is a point of surfeit, so that one cannot help feeling toward his favourite the same effect that he gets toward food by gratification of the appetite.
+
+cts:urn:tlg0032.tlg004:8.15
+glaux1.0-sentence	601
+perseus-grc2	 ἡ δὲ τῆς ψυχῆς φιλία διὰ τὸ ἁγνὴ εἶναι καὶ ἀκορεστοτέρα ἐστίν , οὐ μέντοι , ὥς γ’ ἄν τις οἰηθείη , διὰ τοῦτο καὶ ἀνεπαφροδιτοτέρα , ἀλλὰ σαφῶς καὶ ἀποτελεῖται ἡ εὐχὴ ἐν ᾗ αἰτούμεθα τὴν θεὸν ἐπαφρόδιτα καὶ ἔπη καὶ ἔργα διδόναι .
+perseus-eng2	 But affection for the soul, being pure, is also less liable to satiety, though it does not follow, as one might suppose, that it is also less rich in the graces of Aphrodite; on the contrary, our prayer that the goddess will bestow her grace on our words and deeds is manifestly answered.
+
+cts:urn:tlg0032.tlg004:8.16
+glaux1.0-sentence	602
+perseus-grc2	 ὡς μὲν γὰρ ἄγαταί τε καὶ φιλεῖ τὸν ἐρώμενον θάλλουσα μορφῇ τε ἐλευθερίᾳ καὶ ἤθει αἰδήμονί τε καὶ γενναίῳ ψυχὴ εὐθὺς ἐν τοῖς ἥλιξιν ἡγεμονική τε ἅμα καὶ φιλόφρων οὖσα οὐδὲν ἐπιδεῖται λόγου ·
+perseus-eng2	 Now, no further argument is necessary to show that a soul verdant with the beauty of freeborn men and with a disposition that is reverent and noble, a soul that from the very first displays its leadership among its own fellows and is kindly withal, feels an admiration and an affection for the object of its love;
+
+cts:urn:tlg0032.tlg004:8.16
+glaux1.0-sentence	603
+perseus-grc2	 ὅτι δὲ εἰκὸς καὶ ὑπὸ τῶν παιδικῶν τὸν τοιοῦτον ἐραστὴν ἀντιφιλεῖσθαι , καὶ τοῦτο διδάξω .
+perseus-eng2	 but I will go on to prove the reasonableness of the position that such a lover will have his affection returned.
+
+cts:urn:tlg0032.tlg004:8.17
+glaux1.0-sentence	604
+perseus-grc2	 πρῶτον μὲν γὰρ τίς μισεῖν δύναιτ’ ἂν ὑφ’ οὗ εἰδείη καλός τε καὶ ἀγαθὸς νομιζόμενος ;
+perseus-eng2	 First, who could feel dislike for one by whom he knew himself to be regarded as the pattern of nobleness,
+
+cts:urn:tlg0032.tlg004:8.17
+glaux1.0-sentence	605
+perseus-grc2	 ἔπειτα δὲ ὁρῴη αὐτὸν τὰ τοῦ παιδὸς καλὰ μᾶλλον ἢ τὰ ἑαυτοῦ ἡδέα σπουδάζοντα ;
+perseus-eng2	 and, in the next place, saw that he made his favourite’s honour of more account than his own pleasure,
+
+cts:urn:tlg0032.tlg004:8.17
+glaux1.0-sentence	606
+perseus-grc2	 πρὸς δὲ τούτοις πιστεύοι μήτ’ ἂν παρά τι ποιήσῃ μήτ’ ἂν καμὼν ἀμορφότερος γένηται , μειωθῆναι ἂν τὴν φιλίαν ;
+perseus-eng2	 and beside this felt assured that this affection would not be lessened under any circumstances, no matter whether he suffered some reverse or lost his comeliness through the ravages of illness?
+
+cts:urn:tlg0032.tlg004:8.18
+glaux1.0-sentence	607
+perseus-grc2	 οἷς γε μὴν κοινὸν τὸ φιλεῖσθαι , πῶς οὐκ ἀνάγκη τούτους ἡδέως μὲν προσορᾶν ἀλλήλους , εὐνοϊκῶς δὲ διαλέγεσθαι , πιστεύειν δὲ καὶ πιστεύεσθαι , καὶ προνοεῖν μὲν ἀλλήλων , συνήδεσθαι δ’ ἐπὶ ταῖς καλαῖς πράξεσι , συνάχθεσθαι δὲ ἄν τι σφάλμα προσπίπτῃ , τότε δ’ εὐφραινομένους διατελεῖν , ὅταν ὑγιαίνοντες συνῶσιν , ἂν δὲ κάμῃ ὁπότερος οὖν , πολὺ συνεχεστέραν τὴν συνουσίαν ἔχειν , καὶ ἀπόντων ἔτι μᾶλλον ἢ παρόντων ἐπιμελεῖσθαι ;
+perseus-eng2	 Moreover, must not those who enjoy a mutual affection unavoidably take pleasure in looking into each other’s faces, converse in amity, and trust and be trusted, and not only take thought each for the other but also take a common joy in prosperity and feel a common distress if some ill fortune befall,
+
+cts:urn:tlg0032.tlg004:8.18
+glaux1.0-sentence	608
+perseus-grc2	 οὐ ταῦτα πάντα ἐπαφρόδιτα ;
+perseus-eng2	 and live in happiness when their society is attended by sound health, but be much more constantly together if one or the other become ill, and be even more solicitous, each for the other, when absent than when present?
+
+cts:urn:tlg0032.tlg004:8.18
+glaux1.0-sentence	609
+perseus-grc2	 διά γέ τοι τὰ τοιαῦτα ἔργα ἅμα ἐρῶντες τῆς φιλίας καὶ χρώμενοι αὐτῇ εἰς γῆρας διατελοῦσι .
+perseus-eng2	 Are not all these things marked by Aphrodite’s grace? It is by conducting themselves thus that men continue mutually to love friendship and enjoy it clear down to old age.
+
+cts:urn:tlg0032.tlg004:8.19
+glaux1.0-sentence	610
+perseus-grc2	 τὸν δὲ ἐκ τοῦ σώματος κρεμάμενον διὰ τί ἀντιφιλήσειεν ἂν ὁ παῖς ;
+perseus-eng2	 But what is there to induce a favourite to make a return of affection to a lover who bases his feeling solely on the flesh?
+
+cts:urn:tlg0032.tlg004:8.19
+glaux1.0-sentence	611
+perseus-grc2	 πότερον ὅτι ἑαυτῷ μὲν νέμει ὧν ἐπιθυμεῖ , τῷ δὲ παιδὶ τὰ ἐπονειδιστότατα ;
+perseus-eng2	 Would it be the consideration that the lover allots to himself the joys he desires but gives the favourite only what excites the deepest contempt?
+
+cts:urn:tlg0032.tlg004:8.19
+glaux1.0-sentence	612
+perseus-grc2	 ἢ διότι ἃ σπεύδει πράττειν παρὰ τῶν παιδικῶν , εἴργει μάλιστα τοὺς οἰκείους ἀπὸ τούτων ;
+perseus-eng2	 Or that he conceals, as best he can, from the favourite’s relatives the ends that he is bent on attaining?
+
+cts:urn:tlg0032.tlg004:8.20
+glaux1.0-sentence	613
+perseus-grc2	 καὶ μὴν ὅτι γε οὐ βιάζεται , ἀλλὰ πείθει , διὰ τοῦτο μᾶλλον μισητέος .
+perseus-eng2	 As for his using entreaty rather than coercion, that is all the stronger reason for detestation.
+
+cts:urn:tlg0032.tlg004:8.20
+glaux1.0-sentence	614
+perseus-grc2	 ὁ μὲν γὰρ βιαζόμενος ἑαυτὸν πονηρὸν ἀποδεικνύει , ὁ δὲ πείθων τὴν τοῦ ἀναπειθομένου ψυχὴν διαφθείρει .
+perseus-eng2	 For any one who applies force merely discovers his rascality, but he who uses persuasion corrupts the soul of the one upon whom he prevails.
+
+cts:urn:tlg0032.tlg004:8.21
+glaux1.0-sentence	615
+perseus-grc2	 ἀλλὰ μὴν καὶ ὁ χρημάτων γε ἀπεμπολῶν τὴν ὥραν τί μᾶλλον στέρξει τὸν πριάμενον ἢ ὁ ἐν ἀγορᾷ πωλῶν καὶ ἀποδιδόμενος ;
+perseus-eng2	 Once more, how will he who traffics in his beauty feel greater affection toward the buyer than he who puts his produce up for sale and disposes of it in the open market?
+
+cts:urn:tlg0032.tlg004:8.21
+glaux1.0-sentence	616
+perseus-grc2	 οὐ μὴν ὅτι γε ὡραῖος ἀώρῳ , οὐδὲ ὅτι γε καλὸς οὐκέτι καλῷ καὶ ἐρῶντι οὐκ ἐρῶν ὁμιλεῖ , φιλήσει αὐτόν .
+perseus-eng2	 For assuredly he will not be moved to affection because he is a youthful companion to one who is not youthful, or because he is handsome when the other is no longer so, or because he is untouched by passion when the other is in its sway.
+
+cts:urn:tlg0032.tlg004:8.21
+glaux1.0-sentence	617
+perseus-grc2	 οὐδὲ γὰρ ὁ παῖς τῷ ἀνδρὶ ὥσπερ γυνὴ κοινωνεῖ τῶν ἐν τοῖς ἀφροδισίοις εὐφροσυνῶν , ἀλλὰ νήφων μεθύοντα ὑπὸ τῆς ἀφροδίτης θεᾶται .
+perseus-eng2	 For a youth does not share in the pleasure of the intercourse as a woman does, but looks on, sober, at another in love’s intoxication.
+
+cts:urn:tlg0032.tlg004:8.22
+glaux1.0-sentence	618
+perseus-grc2	 ἐξ ὧν οὐδὲν θαυμαστὸν εἰ καὶ τὸ ὑπερορᾶν ἐγγίγνεται αὐτῷ τοῦ ἐραστοῦ .
+perseus-eng2	 Consequently, it need not excite any surprise if contempt for the lover is engendered in him.
+
+cts:urn:tlg0032.tlg004:8.22
+glaux1.0-sentence	619
+perseus-grc2	 καὶ σκοπῶν δ’ ἄν τις εὕροι ἐκ μὲν τῶν διὰ τοὺς τρόπους φιλουμένων οὐδὲν χαλεπὸν γεγενημένον , ἐκ δὲ τῆς ἀναιδοῦς ὁμιλίας πολλὰ ἤδη καὶ ἀνόσια πεπραγμένα .
+perseus-eng2	 If one looked into the matter, also, he would descry no ill effect when people are loved for their personality, but that many shocking results have come from companionship lost to shame.
+
+cts:urn:tlg0032.tlg004:8.23
+glaux1.0-sentence	620
+perseus-grc2	 ὡς δὲ καὶ ἀνελεύθερος ἡ συνουσία τῷ τὸ σῶμα μᾶλλον ἢ τῷ τὴν ψυχὴν ἀγαπῶντι , νῦν τοῦτο δηλώσω .
+perseus-eng2	 I will now go on to show also that the union is servile when one’s regard is for the body rather than when it is for the soul.
+
+cts:urn:tlg0032.tlg004:8.23
+glaux1.0-sentence	621
+perseus-grc2	 ὁ μὲν γὰρ παιδεύων λέγειν τε ἃ δεῖ καὶ πράττειν δικαίως ἂν ὥσπερ Χείρων καὶ Φοῖνιξ ὑπ’ Ἀχιλλέως τιμῷτο , ὁ δὲ τοῦ σώματος ὀρεγόμενος εἰκότως ἂν ὥσπερ πτωχὸς περιέποιτο .
+perseus-eng2	 For he who inculcates right speech and conduct would merit the honour given by Achilles to Cheiron and Phoenix; but the man who lusts only after the flesh would with good reason be treated like a mendicant;
+
+cts:urn:tlg0032.tlg004:8.23
+glaux1.0-sentence	622
+perseus-grc2	 ἀεὶ γάρ τοι προσαιτῶν καὶ προσδεόμενος ἢ φιλήματος ἢ ἄλλου τινὸς ψηλαφήματος παρακολουθεῖ .
+perseus-eng2	 for he is always dogging the footsteps of his favourite, begging and beseeching the favour of one more kiss or some other caress.
+
+cts:urn:tlg0032.tlg004:8.24
+glaux1.0-sentence	623
+perseus-grc2	 εἰ δὲ λαμυρώτερον λέγω , μὴ θαυμάζετε ·
+perseus-eng2	 Do not be surprised at my plain speaking;
+
+cts:urn:tlg0032.tlg004:8.24
+glaux1.0-sentence	624
+perseus-grc2	 ὅ τε γὰρ οἶνος συνεπαίρει καὶ ὁ ἀεὶ σύνοικος ἐμοὶ ἔρως κεντρίζει εἰς τὸν ἀντίπαλον ἔρωτα αὐτῷ παρρησιάζεσθαι .
+perseus-eng2	 the wine helps to incite me, and the kind of love that ever dwells with me spurs me on to say what I think about its opposite.
+
+cts:urn:tlg0032.tlg004:8.25
+glaux1.0-sentence	625
+perseus-grc2	 καὶ γὰρ δὴ δοκεῖ μοι ὁ μὲν τῷ εἴδει τὸν νοῦν προσέχων μεμισθωμένῳ χῶρον ἐοικέναι .
+perseus-eng2	 For, to my way of thinking, the man whose attention is attracted only by his beloved’s appearance is like one who has rented a farm;
+
+cts:urn:tlg0032.tlg004:8.25
+glaux1.0-sentence	626
+perseus-grc2	 οὐ γὰρ ὅπως πλείονος ἄξιος γένηται ἐπιμελεῖται , ἀλλ’ ὅπως αὐτὸς ὅτι πλεῖστα ὡραῖα καρπώσεται .
+perseus-eng2	 his aim is not to increase its value but to gain from it as much of a harvest as he can for himself.
+
+cts:urn:tlg0032.tlg004:8.25
+glaux1.0-sentence	627
+perseus-grc2	 ὁ δὲ τῆς φιλίας ἐφιέμενος μᾶλλον ἔοικε τῷ τὸν οἰκεῖον ἀγρὸν κεκτημένῳ ·
+perseus-eng2	 On the other hand, the man whose goal is friendship is more like one possessing a farm of his own;
+
+cts:urn:tlg0032.tlg004:8.25
+glaux1.0-sentence	628
+perseus-grc2	 πάντοθεν γοῦν φέρων ὅ τι ἂν δύνηται πλείονος ἄξιον ποιεῖ τὸν ἐρώμενον .
+perseus-eng2	 at any rate he utilizes all sources to enhance his loved one’s worth.
+
+cts:urn:tlg0032.tlg004:8.26
+glaux1.0-sentence	629
+perseus-grc2	 καὶ μὴν καὶ τῶν παιδικῶν ὃς μὲν ἂν εἰδῇ ὅτι ὁ τοῦ εἴδους ἐπαρκῶν ἄρξει τοῦ ἐραστοῦ , εἰκὸς αὐτὸν τ- ἄλλα ῥᾳδιουργεῖν ·
+perseus-eng2	 Furthermore, the favourite who realizes that he who lavishes physical charms will be the lover’s sovereign will in all likelihood be loose in his general conduct;
+
+cts:urn:tlg0032.tlg004:8.26
+glaux1.0-sentence	630
+perseus-grc2	 ὃς δ’ ἂν γιγνώσκῃ ὅτι ἂν μὴ καλὸς κ- ἀγαθὸς ᾖ , οὐ καθέξει τὴν φιλίαν , τοῦτον προσήκει μᾶλλον ἀρετῆς ἐπιμελεῖσθαι .
+perseus-eng2	 but the one who feels that he cannot keep his lover faithful without nobility of character will more probably give heed to virtue.
+
+cts:urn:tlg0032.tlg004:8.27
+glaux1.0-sentence	631
+perseus-grc2	 μέγιστον δ’ ἀγαθὸν τῷ ὀρεγομένῳ ἐκ παιδικῶν φίλον ἀγαθὸν ποιήσασθαι ὅτι ἀνάγκη καὶ αὐτὸν ἀσκεῖν ἀρετήν .
+perseus-eng2	 But the greatest blessing that befalls the man who yearns to render his favourite a good friend is the necessity of himself making virtue his habitual practice.
+
+cts:urn:tlg0032.tlg004:8.27
+glaux1.0-sentence	632
+perseus-grc2	 οὐ γὰρ οἷόν τε πονηρὰ αὐτὸν ποιοῦντα ἀγαθὸν τὸν συνόντα ἀποδεῖξαι , οὐδέ γε ἀναισχυντίαν καὶ ἀκρασίαν παρεχόμενον ἐγκρατῆ καὶ αἰδούμενον τὸν ἐρώμενον ποιῆσαι .
+perseus-eng2	 For one cannot produce goodness in his companion while his own conduct is evil, nor can he himself exhibit shamelessness and incontinence and at the same time render his beloved self-controlled and reverent.
+
+cts:urn:tlg0032.tlg004:8.28
+glaux1.0-sentence	633
+perseus-grc2	 ἐπιθυμῶ δέ σοι , ἔφη , ὦ Καλλία , καὶ μυθολογῆσαι ὡς οὐ μόνον ἄνθρωποι ἀλλὰ καὶ θεοὶ καὶ ἥρωες τὴν τῆς ψυχῆς φιλίαν περὶ πλείονος ἢ τὴν τοῦ σώματος χρῆσιν ποιοῦνται .
+perseus-eng2	 My heart is set on showing you, Callias, on the basis of olden tales, also, that not only humankind but also gods and demi-gods set higher value on the friendship of the spirit than on the enjoyment of the body.
+
+cts:urn:tlg0032.tlg004:8.29
+glaux1.0-sentence	634
+perseus-grc2	 Ζεύς τε γὰρ ὅσων μὲν θνητῶν οὐσῶν μορφῆς ἠράσθη , συγγενόμενος εἴα αὐτὰς θνητὰς εἶναι ·
+perseus-eng2	 For in all cases where Zeus became enamoured of mortal women for their beauty, though he united with them he suffered them to remain mortal;
+
+cts:urn:tlg0032.tlg004:8.29
+glaux1.0-sentence	635
+perseus-grc2	 ὅσων δὲ ψυχαῖς ἀγαθαῖς ἀγασθείη , ἀθανάτους τούτους ἐποίει ·
+perseus-eng2	 but all those persons whom he delighted in for their souls’ sake he made immortal.
+
+cts:urn:tlg0032.tlg004:8.29
+glaux1.0-sentence	636
+perseus-grc2	 ὧν Ἡρακλῆς μὲν καὶ Διόσκουροί εἰσι , λέγονται δὲ καὶ ἄλλοι ·
+perseus-eng2	 Among the latter are Heracles and the Sons of Zeus; and tradition includes others also.
+
+cts:urn:tlg0032.tlg004:8.30
+glaux1.0-sentence	637
+perseus-grc2	 καὶ ἐγὼ δέ φημι καὶ Γανυμήδην οὐ σώματος ἀλλὰ ψυχῆς ἕνεκα ὑπὸ Διὸς εἰς Ὄλυμπον ἀνενεχθῆναι .
+perseus-eng2	 And I aver that even in the case of Ganymede, it was not his person but his spiritual character that influenced Zeus to carry him up to Olympus.
+
+cts:urn:tlg0032.tlg004:8.30
+glaux1.0-sentence	638
+perseus-grc2	 μαρτυρεῖ δὲ καὶ τ- ὄνομα αὐτοῦ ·
+perseus-eng2	 This is confirmed by his very name.
+
+cts:urn:tlg0032.tlg004:8.30
+glaux1.0-sentence	639
+perseus-grc2	 ἔστι μὲν γὰρ δήπου καὶ Ὁμήρῳγάνυται δέ τ’ ἀκούων .τοῦτο δὲ φράζει ὅτι ἥδεται δέ τ’ ἀκούων .
+perseus-eng2	 Homer, you remember, has the words,  "He joys to hear;"  that is to say, he rejoices to hear;
+
+cts:urn:tlg0032.tlg004:8.30
+glaux1.0-sentence	640
+perseus-grc2	 ἔστι δὲ καὶ ἄλλοθί πουπυκινὰ φρεσὶ μήδεα εἰδώς .τοῦτο δ’ αὖ λέγει σοφὰ φρεσὶ βουλεύματα εἰδώς .
+perseus-eng2	 and in another place, "harbouring shrewd devices in his heart."  This, again, means harbouring wise counsels in his heart.
+
+cts:urn:tlg0032.tlg004:8.30
+glaux1.0-sentence	641
+perseus-grc2	 ἐξ οὖν συναμφοτέρων τούτων οὐχ ἡδυσώματος ὀνομασθεὶς ὁ Γανυμήδης ἀλλ’ ἡδυγνώμων ἐν θεοῖς τετίμηται .
+perseus-eng2	 So the name given Ganymede, compounded of the two foregoing elements, signifies not  physically  but  mentally  attractive; hence his honour among the gods.
+
+cts:urn:tlg0032.tlg004:8.31
+glaux1.0-sentence	642
+perseus-grc2	 ἀλλὰ μήν , ὦ Νικήρατε , καὶ Ἀχιλλεὺς Ὁμήρῳ πεποίηται οὐχ ὡς παιδικοῖς Πατρόκλῳ ἀλλ’ ὡς ἑταίρῳ ἀποθανόντι ἐκπρεπέστατα τιμωρῆσαι .
+perseus-eng2	 Or again, Niceratus, Homer pictures us Achilles looking upon Patroclus not as the object of his passion but as a comrade, and in this spirit signally avenging his death.
+
+cts:urn:tlg0032.tlg004:8.31
+glaux1.0-sentence	643
+perseus-grc2	 καὶ Ὀρέστης δὲ καὶ Πυλάδης καὶ Θησεὺς καὶ Πειρίθους καὶ ἄλλοι δὲ πολλοὶ τῶν ἡμιθέων οἱ ἄριστοι ὑμνοῦνται οὐ διὰ τὸ συγκαθεύδειν ἀλλὰ διὰ τὸ ἄγασθαι ἀλλήλους τὰ μέγιστα καὶ κάλλιστα κοινῇ διαπεπρᾶχθαι .
+perseus-eng2	 So we have songs telling also how Orestes, Pylades, Theseus, Peirithous, and many other illustrious demi-gods wrought glorious deeds of valour side by side, not because they shared a common bed but because of mutual admiration and respect.
+
+cts:urn:tlg0032.tlg004:8.32
+glaux1.0-sentence	644
+perseus-grc2	 τί δέ , τὰ νῦν καλὰ ἔργα οὐ πάντ’ ἂν εὕροι τις ἕνεκα ἐπαίνου ὑπὸ τῶν καὶ πονεῖν καὶ κινδυνεύειν ἐθελόντων πραττόμενα μᾶλλον ἢ ὑπὸ τῶν ἐθιζομένων ἡδονὴν ἀντ’ εὐκλείας αἱρεῖσθαι ;
+perseus-eng2	 Moreover, take the splendid feats of the present day; would not a person discover that they are all done for glory’s sake by persons willing to endure hardship and jeopardy, rather than by those who are drifting into the habit of preferring pleasure to a good name?
+
+cts:urn:tlg0032.tlg004:8.32
+glaux1.0-sentence	645
+perseus-grc2	 καίτοι Παυσανίας γε ὁ Ἀγάθωνος τοῦ ποιητοῦ ἐραστὴς ἀπολογούμενος ὑπὲρ τῶν ἀκρασίᾳ ἐγκαλινδουμένων εἴρηκεν ὡς καὶ στράτευμα ἀλκιμώτατον ἂν γένοιτο ἐκ παιδικῶν τε καὶ ἐραστῶν .
+perseus-eng2	 Yet Pausanias, the lover of the poet Agathon, has said in his defence of those who wallow in lasciviousness that the most valiant army, even, would be one recruited of lovers and their favourites!
+
+cts:urn:tlg0032.tlg004:8.33
+glaux1.0-sentence	646
+perseus-grc2	 τούτους γὰρ ἂν ἔφη οἴεσθαι μάλιστα αἰδεῖσθαι ἀλλήλους ἀπολείπειν , θαυμαστὰ λέγων , εἴ γε οἱ ψόγου τε ἀφροντιστεῖν καὶ ἀναισχυντεῖν πρὸς ἀλλήλους ἐθιζόμενοι , οὗτοι μάλιστα αἰσχυνοῦνται αἰσχρόν τι ποιεῖν .
+perseus-eng2	 For these, he said, would in his opinion be most likely to be prevented by shame from deserting one another, — a strange assertion, indeed, that persons acquiring an habitual indifference to censure and to abandoned conduct toward one another will be most likely to be deterred by shame from any infamous act.
+
+cts:urn:tlg0032.tlg004:8.34
+glaux1.0-sentence	647
+perseus-grc2	 καὶ μαρτύρια δὲ ἐπήγετο ὡς ταῦτα ἐγνωκότες εἶεν καὶ Θηβαῖοι καὶ Ἠλεῖοι ·
+perseus-eng2	 But he went further and adduced as evidence in support of his position both the Thebans and the Eleans, alleging that this was their policy;
+
+cts:urn:tlg0032.tlg004:8.34
+glaux1.0-sentence	648
+perseus-grc2	 συγκαθεύδοντας γοῦν αὐτοῖς ὅμως παρατάττεσθαι ἔφη τὰ παιδικὰ εἰς τὸν ἀγῶνα , οὐδὲν τοῦτο σημεῖον λέγων ὅμοιον .
+perseus-eng2	 he stated, in fine, that though sharing common beds they nevertheless assigned to their favourites places alongside themselves in the battle-line.
+
+cts:urn:tlg0032.tlg004:8.34
+glaux1.0-sentence	649
+perseus-grc2	 ἐκείνοις μὲν γὰρ ταῦτα νόμιμα , ἡμῖν δ’ ἐπονείδιστα .
+perseus-eng2	 But this is a false analogy; for such practices, though normal among them, with us are banned by the severest reprobation.
+
+cts:urn:tlg0032.tlg004:8.34
+glaux1.0-sentence	650
+perseus-grc2	 δοκοῦσι δ’ ἔμοιγε οἱ μὲν παραταττόμενοι ἀπιστοῦσιν ἐοικέναι μὴ χωρὶς γενόμενοι οἱ ἐρώμενοι οὐκ ἀποτελῶσι τὰ τῶν ἀγαθῶν ἀνδρῶν ἔργα .
+perseus-eng2	 My own view is that those who assign these posts in battle suggest thereby that they are suspicious that the objects of their love, if left by themselves, will not perform the duties of brave men.
+
+cts:urn:tlg0032.tlg004:8.35
+glaux1.0-sentence	651
+perseus-grc2	 Λακεδαιμόνιοι δὲ οἱ νομίζοντες , ἐὰν καὶ ὀρεχθῇ τις σώματος , μηδενὸς ἂν ἔτι καλοῦ κ- ἀγαθοῦ τοῦτον τυχεῖν , οὕτω τελέως τοὺς ἐρωμένους ἀγαθοὺς ἀπεργάζονται ὡς καὶ μετὰ ξένων κἂν μὴ ἐν τῇ αὐτῇ πόλει ταχθῶσι τῷ ἐραστῇ , ὁμοίως αἰδοῦνται τοὺς παρόντας ἀπολείπειν .
+perseus-eng2	 In contrast to this, the Lacedaemonians, who hold that if a person so much as feels a carnal concupiscence he will never come to any good end, cause the objects of their love to be so consummately brave that even when arrayed with foreigners and even when not stationed in the same line with their lovers they just as surely feel ashamed to desert their comrades.
+
+cts:urn:tlg0032.tlg004:8.35
+glaux1.0-sentence	652
+perseus-grc2	 θεὰν γὰρ οὐ τὴν Ἀναίδειαν ἀλλὰ τὴν Αἰδῶ νομίζουσι .
+perseus-eng2	 For the goddess they worship is not Impudence but Modesty.
+
+cts:urn:tlg0032.tlg004:8.36
+glaux1.0-sentence	653
+perseus-grc2	 δοκοῦμεν δ’ ἄν μοι πάντες ὁμόλογοι γενέσθαι περὶ ὧν λέγω , εἰ ὧδε ἐπισκοποῖμεν , τῷ ποτέρως παιδὶ φιληθέντι μᾶλλον ἄν τις πιστεύσειεν ἢ χρήματα ἢ τέκνα ἢ χάριτας παρακατατίθεσθαι .
+perseus-eng2	 We could all come to one mind, I think, on the point I am trying to make, if we were to consider the question in this way: of two lads, the objects of the different types of love, which one would a person prefer to trust with his money, or his children, or to lay under the obligation of a favour?
+
+cts:urn:tlg0032.tlg004:8.36
+glaux1.0-sentence	654
+perseus-grc2	 ἐγὼ μὲν γὰρ οἶμαι καὶ αὐτὸν τὸν τῷ εἴδει τοῦ ἐρωμένου χρώμενον μᾶλλον ἂν ταῦτα πάντα τῷ τὴν ψυχὴν ἐρασμίῳ πιστεῦσαι .
+perseus-eng2	 My own belief is that even the person whose love is founded on the loved one’s physical beauty would in all these cases rather put his trust in him whose loveliness is of the spirit.
+
+cts:urn:tlg0032.tlg004:8.37
+glaux1.0-sentence	655
+perseus-grc2	 σοί γε μήν , ὦ Καλλία , δοκεῖ μοι ἄξιον εἶναι καὶ θεοῖς χάριν εἰδέναι ὅτι σοι Αὐτολύκου ἔρωτα ἐνέβαλον .
+perseus-eng2	 In your case, Callias, I deem it meet that you should thank Heaven for inspiring you with love for Autolycus.
+
+cts:urn:tlg0032.tlg004:8.37
+glaux1.0-sentence	656
+perseus-grc2	 ὡς μὲν γὰρ φιλότιμός ἐστιν εὔδηλον , ὃς τοῦ κηρυχθῆναι ἕνεκα νικῶν παγκράτιον πολλοὺς μὲν πόνους , πολλὰ δ’ ἄλγη ἀνέχεται .
+perseus-eng2	 For his ardour for glory is manifest, inasmuch as he undergoes many toils and many bodily discomforts to ensure his being proclaimed victor in the pancratium.
+
+cts:urn:tlg0032.tlg004:8.38
+glaux1.0-sentence	657
+perseus-grc2	 εἰ δὲ οἴοιτο μὴ μόνον ἑαυτὸν καὶ τὸν πατέρα κοσμήσειν , ἀλλ’ ἱκανὸς γενήσεσθαι δι’ ἀνδραγαθίαν καὶ φίλους εὖ ποιεῖν καὶ τὴν πατρίδα αὔξειν τροπαῖα τῶν πολεμίων ἱστάμενος , καὶ διὰ ταῦτα περίβλεπτός τε καὶ ὀνομαστὸς ἔσεσθαι καὶ ἐν Ἕλλησι καὶ ἐν βαρβάροις , πῶς οὐκ οἴει αὐτόν , ὅντιν’ ἡγοῖτο εἰς ταῦτα συνεργὸν εἶναι κράτιστον , τοῦτον ταῖς μεγίσταις ἂν τιμαῖς περιέπειν ;
+perseus-eng2	 Now if he were to believe that he is going not merely to shed lustre on himself and his father but also to acquire through his manly virtue the ability to serve his friends and to exalt his country by setting up trophies of victory over its enemies, and for these reasons draw the admiring glances of all and be famous among both Greeks and barbarians, do you not suppose that he would esteem and honour highly any one whom he looked upon as the best partner in furthering these designs?
+
+cts:urn:tlg0032.tlg004:8.39
+glaux1.0-sentence	658
+perseus-grc2	 εἰ οὖν βούλει τούτῳ ἀρέσκειν , σκεπτέον μέν σοι ποῖα ἐπιστάμενος Θεμιστοκλῆς ἱκανὸς ἐγένετο τὴν Ἑλλάδα ἐλευθεροῦν , σκεπτέον δὲ ποῖά ποτε εἰδὼς Περικλῆς κράτιστος ἐδόκει τῇ πατρίδι σύμβουλος εἶναι , ἀθρητέον δὲ καὶ πῶς ποτε Σόλων φιλοσοφήσας νόμους κρατίστους τῇ πόλει κατέθηκεν , ἐρευνητέον δὲ καὶ ποῖα Λακεδαιμόνιοι ἀσκοῦντες κράτιστοι δοκοῦσιν ἡγεμόνες εἶναι ·
+perseus-eng2	 If, then, you would be in his good graces, you must try to find out what sort of knowledge it was that made Themistocles able to give Greece liberty; you must try to find out what kind of knowledge it was that gave Pericles the name of being his country’s wisest counsellor;
+
+cts:urn:tlg0032.tlg004:8.39
+glaux1.0-sentence	659
+perseus-grc2	 προξενεῖς δὲ καὶ κατάγονται ἀεὶ παρὰ σοὶ οἱ κράτιστοι αὐτῶν .
+perseus-eng2	 you must reflect, further, how it was that Solon by deep meditation established in his city laws of surpassing worth; you must search and find out what kind of practices it is that gives the Lacedaemonians the reputation of being pre-eminent military commanders; for you are their proxenus, and their foremost citizens are always being entertained at your house.
+
+cts:urn:tlg0032.tlg004:8.40
+glaux1.0-sentence	660
+perseus-grc2	 ὡς μὲν οὖν σοι ἡ πόλις ταχὺ ἂν ἐπιτρέψειεν αὑτήν , εἰ βούλει , εὖ ἴσθι .
+perseus-eng2	 You may regard it as certain, therefore, that our city would be quick to entrust itself to your hands, if you so desire.
+
+cts:urn:tlg0032.tlg004:8.40
+glaux1.0-sentence	661
+perseus-grc2	 τὰ μέγιστα γάρ σοι ὑπάρχει ·
+perseus-eng2	 For you possess the highest qualifications for such a trust:
+
+cts:urn:tlg0032.tlg004:8.40
+glaux1.0-sentence	662
+perseus-grc2	 εὐπατρίδης εἶ , ἱερεὺς θεῶν τῶν ἀπ’ Ἐρεχθέως , οἳ καὶ ἐπὶ τὸν βάρβαρον σὺν Ἰάκχῳ ἐστράτευσαν , καὶ νῦν ἐν τῇ ἑορτῇ ἱεροπρεπέστατος δοκεῖς εἶναι τῶν προγεγενημένων , καὶ σῶμα ἀξιοπρεπέστατον μὲν ἰδεῖν τῆς πόλεως ἔχεις , ἱκανὸν δὲ μόχθους ὑποφέρειν .
+perseus-eng2	 you are of aristocratic birth, of Erechtheus’ line, a priest serving the gods who under the leadership of Iacchus took the field against the barbarian; and in our day you outshine your predecessors in the splendour of your priestly office in the festival; and you possess a person more goodly to the eye than any other in the city and one at the same time able to withstand effort and hardship.
+
+cts:urn:tlg0032.tlg004:8.41
+glaux1.0-sentence	663
+perseus-grc2	 εἰ δ’ ὑμῖν δοκῶ σπουδαιολογῆσαι μᾶλλον ἢ παρὰ πότον πρέπει , μηδὲ τοῦτο θαυμάζετε .
+perseus-eng2	 If what I say appears to you gentlemen to be too grave and earnest for a drinking party, I beg you again not to be surprised.
+
+cts:urn:tlg0032.tlg004:8.41
+glaux1.0-sentence	664
+perseus-grc2	 ἀγαθῶν γὰρ φύσει καὶ τῆς ἀρετῆς φιλοτίμως ἐφιεμένων ἀεί ποτε τῇ πόλει συνεραστὴς ὢν διατελῶ .
+perseus-eng2	 For during practically all my life I have been at one with the commonwealth in loving men who to a nature already good add a zealous desire for virtue.
+
+cts:urn:tlg0032.tlg004:8.42
+glaux1.0-sentence	665
+perseus-grc2	 οἱ μὲν δὴ ἄλλοι περὶ τῶν ῥηθέντων διελέγοντο , ὁ δ’ Αὐτόλυκος κατεθεᾶτο τὸν Καλλίαν .
+perseus-eng2	 The rest of the company now engaged in a discussion of the views propounded by Socrates; but Autolycus kept his eyes fixed on Callias.
+
+cts:urn:tlg0032.tlg004:8.42
+glaux1.0-sentence	666
+perseus-grc2	 καὶ ὁ Καλλίας δὲ παρορῶν εἰς ἐκεῖνον εἶπεν ·
+perseus-eng2	 And Callias, addressing Socrates, but looking beyond him and returning the gaze of Autolycus, said:
+
+cts:urn:tlg0032.tlg004:8.42
+glaux1.0-sentence	667
+perseus-grc2	 οὐκοῦν σύ με , ὦ Σώκρατες , μαστροπεύσεις πρὸς τὴν πόλιν , ὅπως πράττω τὰ πολιτικὰ καὶ ἀεὶ ἀρεστὸς ὦ αὐτῇ ;
+perseus-eng2	 So you intend acting the procurer, do you, Socrates, to bring me to the attention of the commonwealth, so that I may enter politics, and the state may always look upon me with favour?
+
+cts:urn:tlg0032.tlg004:8.43
+glaux1.0-sentence	668
+perseus-grc2	 ναὶ μὰ Δί’ , ἔφη , ἂν ὁρῶσί γέ σε μὴ τῷ δοκεῖν ἀλλὰ τῷ ὄντι ἀρετῆς ἐπιμελούμενον .
+perseus-eng2	 Assuredly, was the reply, that is, if people see that you set your heart on virtue, not in pretence, but in reality.
+
+cts:urn:tlg0032.tlg004:8.43
+glaux1.0-sentence	669
+perseus-grc2	 ἡ μὲν γὰρ ψευδὴς δόξα ταχὺ ἐλέγχεται ὑπὸ τῆς πείρας ·
+perseus-eng2	 For false reputation is soon exposed when tried by experience,
+
+cts:urn:tlg0032.tlg004:8.43
+glaux1.0-sentence	670
+perseus-grc2	 ἡ δ’ ἀληθὴς ἀνδραγαθία , ἂν μὴ θεὸς βλάπτῃ , ἀεὶ ἐν ταῖς πράξεσι λαμπροτέραν τὴν εὔκλειαν συμπαρέχεται .
+perseus-eng2	 whereas true manly virtue, — barring the interposition of Providence, — confers ever more and more brilliant glory when put to the test of actual deeds.
+
+cts:urn:tlg0032.tlg004:9.1
+glaux1.0-sentence	671
+perseus-grc2	 οὗτος μὲν δὴ ὁ λόγος ἐνταῦθα ἔληξεν .
+perseus-eng2	 Their conversation ended here.
+
+cts:urn:tlg0032.tlg004:9.1
+glaux1.0-sentence	672
+perseus-grc2	 Αὐτόλυκος δὲ ( ἤδη γὰρ ὥρα ἦν αὐτῷ ) ἐξανίστατο εἰς περίπατον ·
+perseus-eng2	 Autolycus got up to go out for a walk (it being now his usual time);
+
+cts:urn:tlg0032.tlg004:9.1
+glaux1.0-sentence	673
+perseus-grc2	 καὶ ὁ Λύκων ὁ πατὴρ αὐτῷ συνεξιὼν ἐπιστραφεὶς εἶπε ·
+perseus-eng2	 and his father Lycon, as he was departing to accompany him, turned back and said:
+
+cts:urn:tlg0032.tlg004:9.1
+glaux1.0-sentence	674
+perseus-grc2	 νὴ τὴν Ἥραν , ὦ Σώκρατες , καλός γε κ- ἀγαθὸς δοκεῖς μοι ἄνθρωπος εἶναι .
+perseus-eng2	 So help me Hera, Socrates, you seem to me to have a truly noble character.
+
+cts:urn:tlg0032.tlg004:9.2
+glaux1.0-sentence	675
+perseus-grc2	 ἐκ δὲ τούτου πρῶτον μὲν θρόνος τις ἔνδον κατετέθη , ἔπειτα δὲ ὁ Συρακόσιος εἰσελθὼν εἶπεν ·
+perseus-eng2	 After he had withdrawn, a chair of state, first of all, was set down in the room, and then the Syracusan came in with the announcement:
+
+cts:urn:tlg0032.tlg004:9.2
+glaux1.0-sentence	676
+perseus-grc2	 ὦ ἄνδρες , Ἀριάδνη εἴσεισιν εἰς τὸν ἑαυτῆς τε καὶ Διονύσου θάλαμον ·
+perseus-eng2	 Gentlemen, Ariadne will now enter the chamber set apart for her and Dionysus;
+
+cts:urn:tlg0032.tlg004:9.2
+glaux1.0-sentence	677
+perseus-grc2	 μετὰ δὲ τοῦθ’ ἥξει Διόνυσος ὑποπεπωκὼς παρὰ θεοῖς καὶ εἴσεισι πρὸς αὐτήν , ἔπειτα παιξοῦνται πρὸς ἀλλήλους .
+perseus-eng2	 after that, Dionysus, a little flushed with wine drunk at a banquet of the gods, will come to join her; and then they will disport themselves together.
+
+cts:urn:tlg0032.tlg004:9.3
+glaux1.0-sentence	678
+perseus-grc2	 ἐκ τούτου πρῶτον μὲν ἡ Ἀριάδνη ὡς νύμφη κεκοσμημένη παρῆλθε καὶ ἐκαθέζετο ἐπὶ τοῦ θρόνου .
+perseus-eng2	 Then, to start proceedings, in came Ariadne, apparelled as a bride, and took her seat in the chair.
+
+cts:urn:tlg0032.tlg004:9.3
+glaux1.0-sentence	679
+perseus-grc2	 οὔπω δὲ φαινομένου τοῦ Διονύσου ηὐλεῖτο ὁ βακχεῖος ῥυθμός .
+perseus-eng2	 Dionysus being still invisible, there was heard the Bacchic music played on a flute.
+
+cts:urn:tlg0032.tlg004:9.3
+glaux1.0-sentence	680
+perseus-grc2	 ἔνθα δὴ ἠγάσθησαν τὸν ὀρχηστοδιδάσκαλον .
+perseus-eng2	 Then it was that the assemblage was filled with admiration of the dancing master.
+
+cts:urn:tlg0032.tlg004:9.3
+glaux1.0-sentence	681
+perseus-grc2	 εὐθὺς μὲν γὰρ ἡ Ἀριάδνη ἀκούσασα τοιοῦτόν τι ἐποίησεν ὡς πᾶς ἂν ἔγνω ὅτι ἀσμένη ἤκουσε ·
+perseus-eng2	 For as soon as Ariadne heard the strain, her action was such that every one might have perceived her joy at the sound;
+
+cts:urn:tlg0032.tlg004:9.3
+glaux1.0-sentence	682
+perseus-grc2	 καὶ ὑπήντησε μὲν οὒ οὐδὲ ἀνέστη , δήλη δ’ ἦν μόλις ἠρεμοῦσα .
+perseus-eng2	 and although she did not go to meet Dionysus, nor even rise, yet it was clear that she kept her composure with difficulty.
+
+cts:urn:tlg0032.tlg004:9.4
+glaux1.0-sentence	683
+perseus-grc2	 ἐπεί γε μὴν κατεῖδεν αὐτὴν ὁ Διόνυσος , ἐπιχορεύσας ὥσπερ ἂν εἴ τις φιλικώτατα ἐκαθέζετο ἐπὶ τῶν γονάτων , καὶ περιλαβὼν ἐφίλησεν αὐτήν .
+perseus-eng2	 But when Dionysus caught sight of her, he came dancing toward her and in a most loving manner sat himself on her lap, and putting his arms about her gave her a kiss.
+
+cts:urn:tlg0032.tlg004:9.4
+glaux1.0-sentence	684
+perseus-grc2	 ἡ δ’ αἰδουμένῃ μὲν ἐῴκει , ὅμως δὲ φιλικῶς ἀντιπεριελάμβανεν .
+perseus-eng2	 Her demeanour was all modesty, and yet she returned his embrace with affection.
+
+cts:urn:tlg0032.tlg004:9.4
+glaux1.0-sentence	685
+perseus-grc2	 οἱ δὲ συμπόται ὁρῶντες ἅμα μὲν ἐκρότουν , ἅμα δὲ ἐβόων αὖθις .
+perseus-eng2	 As the banqueters beheld it, they kept clapping and crying "encore!"
+
+cts:urn:tlg0032.tlg004:9.5
+glaux1.0-sentence	686
+perseus-grc2	 ὡς δὲ ὁ Διόνυσος ἀνιστάμενος συνανέστησε μεθ’ ἑαυτοῦ τὴν Ἀριάδνην , ἐκ τούτου δὴ φιλούντων τε καὶ ἀσπαζομένων ἀλλήλους σχήματα παρῆν θεάσασθαι .
+perseus-eng2	 Then when Dionysus arose and gave his hand to Ariadne to rise also, there was presented the impersonation of lovers kissing and caressing each other.
+
+cts:urn:tlg0032.tlg004:9.5
+glaux1.0-sentence	687
+perseus-grc2	 οἱ δ’ ὁρῶντες ὄντως καλὸν μὲν τὸν Διόνυσον , ὡραίαν δὲ τὴν Ἀριάδνην , οὐ σκώπτοντας δὲ ἀλλ’ ἀληθινῶς τοῖς στόμασι φιλοῦντας , πάντες ἀνεπτερωμένοι ἐθεῶντο .
+perseus-eng2	 The onlookers viewed a Dionysus truly handsome, an Ariadne truly fair, not presenting a burlesque but offering genuine kisses with their lips; and they were all raised to a high pitch of enthusiasm as they looked on.
+
+cts:urn:tlg0032.tlg004:9.6
+glaux1.0-sentence	688
+perseus-grc2	 καὶ γὰρ ἤκουον τοῦ Διονύσου μὲν ἐπερωτῶντος αὐτὴν εἰ φιλεῖ αὐτόν , τῆς δὲ οὕτως ἐπομνυούσης ὥστε μὴ μόνον τὸν Διόνυσον ἀλλὰ καὶ τοὺς παρόντας ἅπαντας συνομόσαι ἂν ἦ μὴν τὸν παῖδα καὶ τὴν παῖδα ὑπ’ ἀλλήλων φιλεῖσθαι .
+perseus-eng2	 For they overheard Dionysus asking her if she loved him, and heard her vowing that she did, so earnestly that not only Dionysus but all the bystanders as well would have taken their oaths in confirmation that the youth and the maid surely felt a mutual affection.
+
+cts:urn:tlg0032.tlg004:9.6
+glaux1.0-sentence	689
+perseus-grc2	 ἐῴκεσαν γὰρ οὐ δεδιδαγμένοις τὰ σχήματα ἀλλ’ ἐφειμένοις πράττειν ἃ πάλαι ἐπεθύμουν .
+perseus-eng2	 For theirs was the appearance not of actors who had been taught their poses but of persons now permitted to satisfy their long-cherished desires.
+
+cts:urn:tlg0032.tlg004:9.7
+glaux1.0-sentence	690
+perseus-grc2	 τέλος δὲ οἱ συμπόται ἰδόντες περιβεβληκότας τε ἀλλήλους καὶ ὡς εἰς εὐνὴν ἀπιόντας , οἱ μὲν ἄγαμοι γαμεῖν ἐπώμνυσαν , οἱ δὲ γεγαμηκότες ἀναβάντες ἐπὶ τοὺς ἵππους ἀπήλαυνον πρὸς τὰς ἑαυτῶν γυναῖκας , ὅπως τούτων τύχοιεν .
+perseus-eng2	 At last, the banqueters, seeing them in each other’s embrace and obviously leaving for the bridal couch, those who were unwedded swore that they would take to themselves wives, and those who were already married mounted horse and rode off to their wives that they might enjoy them.
+
+cts:urn:tlg0032.tlg004:9.7
+glaux1.0-sentence	691
+perseus-grc2	 Σωκράτης δὲ καὶ τῶν ἄλλων οἱ ὑπομείναντες πρὸς Λύκωνα καὶ τὸν υἱὸν σὺν Καλλίᾳ περιπατήσοντες ἀπῆλθον .
+perseus-eng2	 As for Socrates and the others who had lingered behind, they went out with Callias to join Lycon and his son in their walk.
+
+cts:urn:tlg0032.tlg004:9.7
+glaux1.0-sentence	692
+perseus-grc2	 αὕτη τοῦ τότε συμποσίου κατάλυσις ἐγένετο .
+perseus-eng2	 So broke up the banquet held that evening.

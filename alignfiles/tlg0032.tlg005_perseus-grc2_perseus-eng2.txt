@@ -1,0 +1,585 @@
+
+cts:urn:tlg0032.tlg005:1
+glaux1.0-sentence	1
+perseus-grc2	 Σωκράτους δὲ ἄξιόν μοι δοκεῖ εἶναι μεμνῆσθαι καὶ ὡς ἐπειδὴ ἐκλήθη εἰς τὴν δίκην ἐβουλεύσατο περί τε τῆς ἀπολογίας καὶ τῆς τελευτῆς τοῦ βίου .
+perseus-eng2	 It seems to me fitting to hand down to memory, furthermore, how Socrates, on being indicted, deliberated on his defence and on his end.
+
+cts:urn:tlg0032.tlg005:1
+glaux1.0-sentence	2
+perseus-grc2	 γεγράφασι μὲν οὖν περὶ τούτου καὶ ἄλλοι καὶ πάντες ἔτυχον τῆς μεγαληγορίας αὐτοῦ ·
+perseus-eng2	 It is true that others have written about this, and that all of them have reproduced the loftiness of his words,
+
+cts:urn:tlg0032.tlg005:1
+glaux1.0-sentence	3
+perseus-grc2	 ᾧ καὶ δῆλον ὅτι τῷ ὄντι οὕτως ἐρρήθη ὑπὸ Σωκράτους .
+perseus-eng2	 —a fact which proves that his utterance really was of the character intimated;
+
+cts:urn:tlg0032.tlg005:1
+glaux1.0-sentence	4
+perseus-grc2	 ἀλλ’ ὅτι ἤδη ἑαυτῷ ἡγεῖτο αἱρετώτερον εἶναι τοῦ βίου θάνατον , τοῦτο οὐ διεσαφήνισαν ·
+perseus-eng2	 —but they have not shown clearly that he had now come to the conclusion that for him death was more to be desired than life;
+
+cts:urn:tlg0032.tlg005:1
+glaux1.0-sentence	5
+perseus-grc2	 ὥστε ἀφρονεστέρα αὐτοῦ φαίνεται εἶναι ἡ μεγαληγορία .
+perseus-eng2	 and hence his lofty utterance appears rather ill-considered.
+
+cts:urn:tlg0032.tlg005:2
+glaux1.0-sentence	6
+perseus-grc2	 Ἑρμογένης μέντοι ὁ Ἱππονίκου ἑταῖρός τε ἦν αὐτῷ καὶ ἐξήγγειλε περὶ αὐτοῦ τοιαῦτα ὥστε πρέπουσαν φαίνεσθαι τὴν μεγαληγορίαν αὐτοῦ τῇ διανοίᾳ .
+perseus-eng2	 Hermogenes, the son of Hipponicus, however, was a companion of his and has given us reports of such a nature as to show that the sublimity of his speech was appropriate to the resolve he had made.
+
+cts:urn:tlg0032.tlg005:2
+glaux1.0-sentence	7
+perseus-grc2	 ἐκεῖνος γὰρ ἔφη ὁρῶν αὐτὸν περὶ πάντων μᾶλλον διαλεγόμενον ἢ περὶ τῆς δίκης εἰπεῖν ·
+perseus-eng2	 For he stated that on seeing Socrates discussing any and every subject rather than the trial, he had said:
+
+cts:urn:tlg0032.tlg005:3
+glaux1.0-sentence	8
+perseus-grc2	 οὐκ ἐχρῆν μέντοι σκοπεῖν , ὦ Σώκρατες , καὶ ὅ τι ἀπολογήσῃ ;
+perseus-eng2	 Socrates, ought you not to be giving some thought to what defence you are going to make?
+
+cts:urn:tlg0032.tlg005:3
+glaux1.0-sentence	9
+perseus-grc2	 τὸν δὲ τὸ μὲν πρῶτον ἀποκρίνασθαι ·
+perseus-eng2	 That Socrates had at first replied,
+
+cts:urn:tlg0032.tlg005:3
+glaux1.0-sentence	10
+perseus-grc2	 οὐ γὰρ δοκῶ σοι ἀπολογεῖσθαι μελετῶν διαβεβιωκέναι ;
+perseus-eng2	 Why, do I not seem to you to have spent my whole life in preparing to defend myself?
+
+cts:urn:tlg0032.tlg005:3
+glaux1.0-sentence	11
+perseus-grc2	 ἐπεὶ δ’ αὐτὸν ἐρέσθαι ·
+perseus-eng2	 Then when he asked,
+
+cts:urn:tlg0032.tlg005:3
+glaux1.0-sentence	12
+perseus-grc2	 πῶς ;
+perseus-eng2	 How so?
+
+cts:urn:tlg0032.tlg005:3
+glaux1.0-sentence	13
+perseus-grc2	 ὅτι οὐδὲν ἄδικον διαγεγένημαι ποιῶν ·
+perseus-eng2	 he had said, Because all my life I have been guiltless of wrong-doing;
+
+cts:urn:tlg0032.tlg005:3
+glaux1.0-sentence	14
+perseus-grc2	 ἥνπερ νομίζω μελέτην εἶναι καλλίστην ἀπολογίας .
+perseus-eng2	 and that I consider the finest preparation for a defence.
+
+cts:urn:tlg0032.tlg005:4
+glaux1.0-sentence	15
+perseus-grc2	 ἐπεὶ δὲ αὐτὸν πάλιν λέγειν ·
+perseus-eng2	 Then when Hermogenes again asked,
+
+cts:urn:tlg0032.tlg005:4
+glaux1.0-sentence	16
+perseus-grc2	 οὐχ ὁρᾷς τὰ Ἀθηναίων δικαστήρια ὡς πολλάκις μὲν οὐδὲν ἀδικοῦντας λόγῳ παραχθέντες ἀπέκτειναν , πολλάκις δὲ ἀδικοῦντας ἢ ἐκ τοῦ λόγου οἰκτίσαντες ἢ ἐπιχαρίτως εἰπόντας ἀπέλυσαν ;
+perseus-eng2	 Do you not observe that the Athenian courts have often been carried away by an eloquent speech and have condemned innocent men to death, and often on the other hand the guilty have been acquitted either because their plea aroused compassion or because their speech was witty?
+
+cts:urn:tlg0032.tlg005:4
+glaux1.0-sentence	17
+perseus-grc2	 ἀλλὰ ναὶ μὰ Δία , φάναι αὐτόν , καὶ δὶς ἤδη ἐπιχειρήσαντός μου σκοπεῖν περὶ τῆς ἀπολογίας ἐναντιοῦταί μοι τὸ δαιμόνιον .
+perseus-eng2	 Yes, indeed! he had answered; and I have tried twice already to meditate on my defence, but my divine sign interposes.
+
+cts:urn:tlg0032.tlg005:5
+glaux1.0-sentence	18
+perseus-grc2	 ὡς δὲ αὐτὸν εἰπεῖν ·
+perseus-eng2	 And when Hermogenes observed,
+
+cts:urn:tlg0032.tlg005:5
+glaux1.0-sentence	19
+perseus-grc2	 θαυμαστὰ λέγεις , τὸν δ’ αὖ ἀποκρίνασθαι ·
+perseus-eng2	 That is a surprising statement,
+
+cts:urn:tlg0032.tlg005:5
+glaux1.0-sentence	20
+perseus-grc2	 ἦ θαυμαστὸν νομίζεις εἰ καὶ τῷ θεῷ δοκεῖ ἐμὲ βέλτιον εἶναι ἤδη τελευτᾶν ;
+perseus-eng2	 he had replied, Do you think it surprising that even God holds it better for me to die now? Do you not know that I would refuse to concede that any man has lived a better life than I have up to now?
+
+cts:urn:tlg0032.tlg005:5
+glaux1.0-sentence	21
+perseus-grc2	 οὐκ οἶσθα ὅτι μέχρι μὲν τοῦδε οὐδενὶ ἀνθρώπων ὑφείμην ἂν βέλτιον ἐμοῦ βεβιωκέναι ;
+perseus-eng2	 For I have realized that my whole life has been spent in righteousness toward God and man,
+
+cts:urn:tlg0032.tlg005:5
+glaux1.0-sentence	22
+perseus-grc2	 ὅπερ γὰρ ἥδιστόν ἐστιν , ᾔδειν ὁσίως μοι καὶ δικαίως ἅπαντα τὸν βίον βεβιωμένον ·
+perseus-eng2	 —a fact that affords the greatest satisfaction;
+
+cts:urn:tlg0032.tlg005:5
+glaux1.0-sentence	23
+perseus-grc2	 ὥστε ἰσχυρῶς ἀγάμενος ἐμαυτὸν τ- αὐτὰ ηὕρισκον καὶ τοὺς ἐμοὶ συγγιγνομένους γιγνώσκοντας περὶ ἐμοῦ .
+perseus-eng2	 and so I have felt a deep self-respect and have discovered that my associates hold corresponding sentiments toward me.
+
+cts:urn:tlg0032.tlg005:6
+glaux1.0-sentence	24
+perseus-grc2	 νῦν δὲ εἰ ἔτι προβήσεται ἡ ἡλικία , οἶδ’ ὅτι ἀνάγκη ἔσται τὰ τοῦ γήρως ἐπιτελεῖσθαι καὶ ὁρᾶν τε χεῖρον καὶ ἀκούειν ἧττον καὶ δυσμαθέστερον εἶναι καὶ ὧν ἔμαθον ἐπιλησμονέστερον .
+perseus-eng2	 But now, if my years are prolonged, I know that the frailties of old age will inevitably be realized,
+
+cts:urn:tlg0032.tlg005:6
+glaux1.0-sentence	25
+perseus-grc2	 ἂν δὲ αἰσθάνωμαι χείρων γιγνόμενος καὶ καταμέμφωμαι ἐμαυτόν , πῶς ἄν , εἰπεῖν , ἐγὼ ἔτι ἂν ἡδέως βιοτεύοιμι ;
+perseus-eng2	 that my vision must be less perfect and my hearing less keen, that I shall be slower to learn and more forgetful of what I have learned. If I perceive my decay and take to complaining, how, he had continued, could I any longer take pleasure in life?
+
+cts:urn:tlg0032.tlg005:7
+glaux1.0-sentence	26
+perseus-grc2	 ἴσως δέ τοι , φάναι αὐτόν , καὶ ὁ θεὸς δι’ εὐμένειαν προξενεῖ μοι οὐ μόνον τὸ ἐν καιρῷ τῆς ἡλικίας καταλῦσαι τὸν βίον , ἀλλὰ καὶ τὸ ᾗ ῥᾷστα .
+perseus-eng2	 Perhaps, he added, God in his kindness is taking my part and securing me the opportunity of ending my life not only in season but also in the way that is easiest.
+
+cts:urn:tlg0032.tlg005:7
+glaux1.0-sentence	27
+perseus-grc2	 ἂν γὰρ νῦν κατακριθῇ μου , δῆλον ὅτι ἐξέσται μοι τῇ τελευτῇ χρῆσθαι ἣ ῥᾴστη μὲν ὑπὸ τῶν τούτου ἐπιμεληθέντων κέκριται , ἀπραγμονεστάτη δὲ τοῖς φίλοις , πλεῖστον δὲ πόθον ἐμποιοῦσα τῶν τελευτώντων .
+perseus-eng2	 For if I am condemned now, it will clearly be my privilege to suffer a death that is adjudged by those who have superintended this matter to be not only the easiest but also the least irksome to one’s friends and one that implants in them the deepest feeling of loss for the dead.
+
+cts:urn:tlg0032.tlg005:7
+glaux1.0-sentence	28
+perseus-grc2	 ὅταν γὰρ ἄσχημον μὲν μηδὲν μηδὲ δυσχερὲς ἐν ταῖς γνώμαις τῶν παρόντων καταλείπηταί τις , ὑγιὲς δὲ τὸ σῶμα ἔχων καὶ τὴν ψυχὴν δυναμένην φιλοφρονεῖσθαι ἀπομαραίνηται , πῶς οὐκ ἀνάγκη τοῦτον ποθεινὸν εἶναι ;
+perseus-eng2	 For when a person leaves behind in the hearts of his companions no remembrance to cause a blush or a pang, but dissolution comes while he still possesses a sound body and a spirit capable of showing kindliness, how could such a one fail to be sorely missed?
+
+cts:urn:tlg0032.tlg005:8
+glaux1.0-sentence	29
+perseus-grc2	 ὀρθῶς δὲ οἱ θεοὶ τότε μου ἠναντιοῦντο , φάναι αὐτόν , τῇ τοῦ λόγου ἐπισκέψει ὅτε ἐδόκει ἡμῖν ζητητέα εἶναι ἐκ παντὸς τρόπου τὰ ἀποφευκτικά .
+perseus-eng2	 It was with good reason, Socrates had continued, that the gods opposed my studying up my speech at the time when we held that by fair means or foul we must find some plea that would effect my acquittal.
+
+cts:urn:tlg0032.tlg005:8
+glaux1.0-sentence	30
+perseus-grc2	 εἰ γὰρ τοῦτο διεπραξάμην , δῆλον ὅτι ἡτοιμασάμην ἂν ἀντὶ τοῦ ἤδη λῆξαι τοῦ βίου ἢ νόσοις ἀλγυνόμενος τελευτῆσαι ἢ γήρᾳ , εἰς ὃ πάντα τὰ χαλεπὰ συρρεῖ καὶ μάλα ἔρημα τῶν εὐφροσυνῶν .
+perseus-eng2	 For if I had achieved this end, it is clear that instead of now passing out of life, I should merely have provided for dying in the throes of illness or vexed by old age, the sink into which all distresses flow, unrelieved by any joy.
+
+cts:urn:tlg0032.tlg005:9
+glaux1.0-sentence	31
+perseus-grc2	 μὰ Δί’ , εἰπεῖν αὐτόν , ὦ Ἑρμόγενες , ἐγὼ ταῦτα οὐδὲ προθυμήσομαι , ἀλλ’ ὅσων νομίζω τετυχηκέναι καλῶν καὶ παρὰ θεῶν καὶ παρ’ ἀνθρώπων , καὶ ἣν ἐγὼ δόξαν ἔχω περὶ ἐμαυτοῦ , ταύτην ἀναφαίνων εἰ βαρυνῶ τοὺς δικαστάς , αἱρήσομαι τελευτᾶν μᾶλλον ἢ ἀνελευθέρως τὸ ζῆν ἔτι προσαιτῶν κερδᾶναι τὸν πολὺ χείρω βίον ἀντὶ θανάτου .
+perseus-eng2	 As Heaven is my witness, Hermogenes,  he had gone on,  I shall never court that fate; but if I am going to offend the jury by declaring all the blessings that I feel gods and men have bestowed on me, as well as my personal opinion of myself, I shall prefer death to begging meanly for longer life and thus gaining a life far less worthy in exchange for death.
+
+cts:urn:tlg0032.tlg005:10
+glaux1.0-sentence	32
+perseus-grc2	 οὕτως δὲ γνόντα αὐτὸν ἔφη εἰπεῖν , ἐπειδὴ κατηγόρησαν αὐτοῦ οἱ ἀντίδικοι ὡς οὓς μὲν ἡ πόλις νομίζει θεοὺς οὐ νομίζοι , ἕτερα δὲ καινὰ δαιμόνια εἰσφέροι καὶ τοὺς νέους διαφθείροι , παρελθόντα εἰπεῖν ·
+perseus-eng2	 Hermogenes stated that with this resolve Socrates came before the jury after his adversaries had charged him with not believing in the gods worshipped by the state and with the introduction of new deities in their stead and with corruption of the young, and replied:
+
+cts:urn:tlg0032.tlg005:11
+glaux1.0-sentence	33
+perseus-grc2	 ἀλλ’ ἐγώ , ὦ ἄνδρες , τοῦτο μὲν πρῶτον θαυμάζω Μελήτου , ὅτῳ ποτὲ γνοὺς λέγει ὡς ἐγὼ οὓς ἡ πόλις νομίζει θεοὺς οὐ νομίζω ·
+perseus-eng2	 One thing that I marvel at in Meletus, gentlemen, is what may be the basis of his assertion that I do not believe in the gods worshipped by the state;
+
+cts:urn:tlg0032.tlg005:11
+glaux1.0-sentence	34
+perseus-grc2	 ἐπεὶ θύοντά γέ με ἐν ταῖς κοιναῖς ἑορταῖς καὶ ἐπὶ τῶν δημοσίων βωμῶν καὶ οἱ ἄλλοι οἱ παρατυγχάνοντες ἑώρων καὶ αὐτὸς Μέλητος , εἰ ἐβούλετο .
+perseus-eng2	 for all who have happened to be near at the time, as well as Meletus himself, — if he so desired, — have seen me sacrificing at the communal festivals and on the public altars.
+
+cts:urn:tlg0032.tlg005:12
+glaux1.0-sentence	35
+perseus-grc2	 καινά γε μὴν δαιμόνια πῶς ἂν ἐγὼ εἰσφέροιμι λέγων ὅτι θεοῦ μοι φωνὴ φαίνεται σημαίνουσα ὅ τι χρὴ ποιεῖν ;
+perseus-eng2	 As for introducing new divinities, how could I be guilty of that merely in asserting that a voice of God is made manifest to me indicating my duty?
+
+cts:urn:tlg0032.tlg005:12
+glaux1.0-sentence	36
+perseus-grc2	 καὶ γὰρ οἱ φθόγγοις οἰωνῶν καὶ οἱ φήμαις ἀνθρώπων χρώμενοι φωναῖς δήπου τεκμαίρονται .
+perseus-eng2	 Surely those who take their omens from the cries of birds and the utterances of men form their judgments on voices.
+
+cts:urn:tlg0032.tlg005:12
+glaux1.0-sentence	37
+perseus-grc2	 βροντὰς δὲ ἀμφιλέξει τις ἢ μὴ φωνεῖν ἢ μὴ μέγιστον οἰωνιστήριον εἶναι ;
+perseus-eng2	 Will any one dispute either that thunder utters its voice, or that it is an omen of the greatest moment?
+
+cts:urn:tlg0032.tlg005:12
+glaux1.0-sentence	38
+perseus-grc2	 ἡ δὲ Πυθοῖ ἐν τῷ τρίποδι ἱέρεια οὐ καὶ αὐτὴ φωνῇ τὰ παρὰ τοῦ θεοῦ διαγγέλλει ;
+perseus-eng2	 Does not the very priestess who sits on the tripod at Delphi divulge the god’s will through a voice?
+
+cts:urn:tlg0032.tlg005:13
+glaux1.0-sentence	39
+perseus-grc2	 ἀλλὰ μέντοι καὶ τὸ προειδέναι γε τὸν θεὸν τὸ μέλλον καὶ τὸ προσημαίνειν ᾧ βούλεται , καὶ τοῦτο , ὥσπερ ἐγώ φημι , οὕτω πάντες καὶ λέγουσι καὶ νομίζουσιν .
+perseus-eng2	 But more than that, in regard to God’s foreknowledge of the future and his forewarning thereof to whomsoever he will, these are the same terms, I assert, that all men use, and this is their belief.
+
+cts:urn:tlg0032.tlg005:13
+glaux1.0-sentence	40
+perseus-grc2	 ἀλλ’ οἱ μὲν οἰωνούς τε καὶ φήμας καὶ συμβόλους τε καὶ μάντεις ὀνομάζουσι τοὺς προσημαίνοντας εἶναι , ἐγὼ δὲ τοῦτο δαιμόνιον καλῶ καὶ οἶμαι οὕτως ὀνομάζων καὶ ἀληθέστερα καὶ ὁσιώτερα λέγειν τῶν τοῖς ὄρνισιν ἀνατιθέντων τὴν τῶν θεῶν δύναμιν .
+perseus-eng2	 The only difference between them and me is that whereas they call the sources of their forewarning birds, utterances, chance meetings, prophets, I call mine a divine thing; and I think that in using such a term I am speaking with more truth and deeper religious feeling than do those who ascribe the gods’ power to birds.
+
+cts:urn:tlg0032.tlg005:13
+glaux1.0-sentence	41
+perseus-grc2	 ὥς γε μὴν οὐ ψεύδομαι κατὰ τοῦ θεοῦ καὶ τοῦτ’ ἔχω τεκμήριον ·
+perseus-eng2	 Now that I do not lie against God I have the following proof:
+
+cts:urn:tlg0032.tlg005:13
+glaux1.0-sentence	42
+perseus-grc2	 καὶ γὰρ τῶν φίλων πολλοῖς δὴ ἐξαγγείλας τὰ τοῦ θεοῦ συμβουλεύματα οὐδεπώποτε ψευσάμενος ἐφάνην .
+perseus-eng2	 I have revealed to many of my friends the counsels which God has given me, and in no instance has the event shown that I was mistaken.
+
+cts:urn:tlg0032.tlg005:14
+glaux1.0-sentence	43
+perseus-grc2	 ἐπεὶ δὲ ταῦτα ἀκούοντες οἱ δικασταὶ ἐθορύβουν , οἱ μὲν ἀπιστοῦντες τοῖς λεγομένοις , οἱ δὲ καὶ φθονοῦντες , εἰ καὶ παρὰ θεῶν μειζόνων ἢ αὐτοὶ τυγχάνοι , πάλιν εἰπεῖν τὸν Σωκράτην ·
+perseus-eng2	 Hermogenes further reported that when the jurors raised a clamour at hearing these words, some of them disbelieving his statements, others showing jealousy at his receiving greater favours even from the gods than they,
+
+cts:urn:tlg0032.tlg005:14
+glaux1.0-sentence	44
+perseus-grc2	 ἄγε δὴ ἀκούσατε καὶ ἄλλα , ἵνα ἔτι μᾶλλον οἱ βουλόμενοι ὑμῶν ἀπιστῶσι τῷ ἐμὲ τετιμῆσθαι ὑπὸ δαιμόνων .
+perseus-eng2	 Socrates resumed: Hark ye; let me tell you something more, so that those of you who feel so inclined may have still greater disbelief in my being honoured of Heaven.
+
+cts:urn:tlg0032.tlg005:14
+glaux1.0-sentence	45
+perseus-grc2	 Χαιρεφῶντος γάρ ποτε ἐπερωτῶντος ἐν Δελφοῖς περὶ ἐμοῦ πολλῶν παρόντων ἀνεῖλεν ὁ Ἀπόλλων μηδένα εἶναι ἀνθρώπων ἐμοῦ μήτε ἐλευθεριώτερον μήτε δικαιότερον μήτε σωφρονέστερον .
+perseus-eng2	 Once on a time when Chaerephon made inquiry at the Delphic oracle concerning me, in the presence of many people Apollo answered that no man was more free than I, or more just, or more prudent.
+
+cts:urn:tlg0032.tlg005:15
+glaux1.0-sentence	46
+perseus-grc2	 ὡς δ’ αὖ ταῦτ’ ἀκούσαντες οἱ δικασταὶ ἔτι μᾶλλον εἰκότως ἐθορύβουν , αὖθις εἰπεῖν τὸν Σωκράτην ·
+perseus-eng2	 When the jurors, naturally enough, made a still greater tumult on hearing this statement, he said that Socrates again went on:
+
+cts:urn:tlg0032.tlg005:15
+glaux1.0-sentence	47
+perseus-grc2	 ἀλλὰ μείζω μέν , ὦ ἄνδρες , εἶπεν ὁ θεὸς ἐν χρησμοῖς περὶ Λυκούργου τοῦ Λακεδαιμονίοις νομοθετήσαντος ἢ περὶ ἐμοῦ .
+perseus-eng2	 And yet, gentlemen, the god uttered in oracles greater things of Lycurgus, the Lacedaemonian law-giver, than he did of me.
+
+cts:urn:tlg0032.tlg005:15
+glaux1.0-sentence	48
+perseus-grc2	 λέγεται γὰρ εἰς τὸν ναὸν εἰσιόντα προσειπεῖν αὐτόν ·
+perseus-eng2	 For there is a legend that, as Lycurgus entered the temple, the god thus addressed him:
+
+cts:urn:tlg0032.tlg005:15
+glaux1.0-sentence	49
+perseus-grc2	 φροντίζω πότερα θεόν σε εἴπω ἢ ἄνθρωπον .
+perseus-eng2	 ‘I am pondering whether to call you god or man.’
+
+cts:urn:tlg0032.tlg005:15
+glaux1.0-sentence	50
+perseus-grc2	 ἐμὲ δὲ θεῷ μὲν οὐκ εἴκασεν , ἀνθρώπων δὲ πολλῷ προέκρινεν ὑπερφέρειν .
+perseus-eng2	 Now Apollo did not compare me to a god; he did, however, judge that I far excelled the rest of mankind.
+
+cts:urn:tlg0032.tlg005:15
+glaux1.0-sentence	51
+perseus-grc2	 ὅμως δὲ ὑμεῖς μηδὲ ταῦτ’ εἰκῇ πιστεύσητε τῷ θεῷ , ἀλλὰ καθ’ ἓν ἕκαστον ἐπισκοπεῖτε ὧν εἶπεν ὁ θεός .
+perseus-eng2	 However, do not believe the god even in this without due grounds, but examine the god’s utterance in detail.
+
+cts:urn:tlg0032.tlg005:16
+glaux1.0-sentence	52
+perseus-grc2	 τίνα μὲν γὰρ ἐπίστασθε ἧττον ἐμοῦ δουλεύοντα ταῖς τοῦ σώματος ἐπιθυμίαις ;
+perseus-eng2	 First, who is there in your knowledge that is less a slave to his bodily appetites than I am?
+
+cts:urn:tlg0032.tlg005:16
+glaux1.0-sentence	53
+perseus-grc2	 τίνα δὲ ἀνθρώπων ἐλευθεριώτερον , ὃς παρ’ οὐδενὸς οὔτε δῶρα οὔτε μισθὸν δέχομαι ;
+perseus-eng2	 Who in the world more free, — for I accept neither gifts nor pay from any one?
+
+cts:urn:tlg0032.tlg005:16
+glaux1.0-sentence	54
+perseus-grc2	 δικαιότερον δὲ τίνα ἂν εἰκότως νομίσαιτε τοῦ πρὸς τὰ παρόντα συνηρμοσμένου , ὡς τῶν ἀλλοτρίων μηδενὸς προσδεῖσθαι ;
+perseus-eng2	 Whom would you with reason regard as more just than the one so reconciled to his present possessions as to want nothing beside that belongs to another?
+
+cts:urn:tlg0032.tlg005:16
+glaux1.0-sentence	55
+perseus-grc2	 σοφὸν δὲ πῶς οὐκ ἄν τις εἰκότως ἄνδρα φήσειεν εἶναι ὃς ἐξ ὅτουπερ ξυνιέναι τὰ λεγόμενα ἠρξάμην οὐπώποτε διέλειπον καὶ ζητῶν καὶ μανθάνων ὅ τι ἐδυνάμην ἀγαθόν ;
+perseus-eng2	 And would not a person with good reason call me a wise man, who from the time when I began to understand spoken words have never left off seeking after and learning every good thing that I could?
+
+cts:urn:tlg0032.tlg005:17
+glaux1.0-sentence	56
+perseus-grc2	 ὡς δὲ οὐ μάτην ἐπόνουν οὐ δοκεῖ ὑμῖν καὶ τάδε τεκμήρια εἶναι , τὸ πολλοὺς μὲν πολίτας τῶν ἀρετῆς ἐφιεμένων , πολλοὺς δὲ ξένων , ἐκ πάντων προαιρεῖσθαι ἐμοὶ ξυνεῖναι ;
+perseus-eng2	 And that my labour has not been in vain do you not think is attested by this fact, that many of my fellow-citizens who strive for virtue and many from abroad choose to associate with me above all other men?
+
+cts:urn:tlg0032.tlg005:17
+glaux1.0-sentence	57
+perseus-grc2	 ἐκείνου δὲ τί φήσομεν αἴτιον εἶναι , τοῦ πάντας εἰδέναι ὅτι ἐγὼ ἥκιστ’ ἂν ἔχοιμι χρήματα ἀντιδιδόναι , ὅμως πολλοὺς ἐπιθυμεῖν ἐμοί τι δωρεῖσθαι ;
+perseus-eng2	 And what shall we say is accountable for this fact, that although everybody knows that it is quite impossible for me to repay with money, many people are eager to make me some gift?
+
+cts:urn:tlg0032.tlg005:17
+glaux1.0-sentence	58
+perseus-grc2	 τὸ δ’ ἐμὲ μὲν μηδ’ ὑφ’ ἑνὸς ἀπαιτεῖσθαι εὐεργεσίας , ἐμοὶ δὲ πολλοὺς ὁμολογεῖν χάριτας ὀφείλειν ;
+perseus-eng2	 Or for this, that no demands are made on me by a single person for the repayment of benefits, while many confess that they owe me a debt of gratitude?
+
+cts:urn:tlg0032.tlg005:18
+glaux1.0-sentence	59
+perseus-grc2	 τὸ δ’ ἐν τῇ πολιορκίᾳ τοὺς μὲν ἄλλους οἰκτίρειν ἑαυτούς , ἐμὲ δὲ μηδὲν ἀπορώτερον διάγειν ἢ ὅτε τὰ μάλιστα ἡ πόλις ηὐδαιμόνει ;
+perseus-eng2	 Or for this, that during the siege, while others were commiserating their lot, I got along without feeling the pinch of poverty any worse than when the city’s prosperity was at its height?
+
+cts:urn:tlg0032.tlg005:18
+glaux1.0-sentence	60
+perseus-grc2	 τὸ δὲ τοὺς ἄλλους μὲν τὰς εὐπαθείας ἐκ τῆς ἀγορᾶς πολυτελεῖς πορίζεσθαι , ἐμὲ δὲ ἐκ τῆς ψυχῆς ἄνευ δαπάνης ἡδίους ἐκείνων μηχανᾶσθαι ;
+perseus-eng2	 Or for this, that while other men get their delicacies in the markets and pay a high price for them, I devise more pleasurable ones from the resources of my soul, with no expenditure of money?
+
+cts:urn:tlg0032.tlg005:18
+glaux1.0-sentence	61
+perseus-grc2	 εἴ γε μὴν ὅσα εἴρηκα περὶ ἐμαυτοῦ μηδεὶς δύναιτ’ ἂν ἐξελέγξαι με ὡς ψεύδομαι , πῶς οὐκ ἂν ἤδη δικαίως καὶ ὑπὸ θεῶν καὶ ὑπ’ ἀνθρώπων ἐπαινοίμην ;
+perseus-eng2	 And now, if no one can convict me of misstatement in all that I have said of myself, do I not unquestionably merit praise from both gods and men?
+
+cts:urn:tlg0032.tlg005:19
+glaux1.0-sentence	62
+perseus-grc2	 ἀλλ’ ὅμως σύ με φῄς , ὦ Μέλητε , τοιαῦτα ἐπιτηδεύοντα τοὺς νέους διαφθείρειν ;
+perseus-eng2	 But in spite of all, Meletus, do you maintain that I corrupt the young by such practices?
+
+cts:urn:tlg0032.tlg005:19
+glaux1.0-sentence	63
+perseus-grc2	 καίτοι ἐπιστάμεθα μὲν δήπου τίνες εἰσὶ νέων διαφθοραί ·
+perseus-eng2	 And yet surely we know what kinds of corruption affect the young;
+
+cts:urn:tlg0032.tlg005:19
+glaux1.0-sentence	64
+perseus-grc2	 σὺ δὲ εἰπὲ εἴ τινα οἶσθα ὑπ’ ἐμοῦ γεγενημένον ἢ ἐξ εὐσεβοῦς ἀνόσιον ἢ ἐκ σώφρονος ὑβριστὴν ἢ ἐξ εὐδιαίτου πολυδάπανον ἢ ὡς ἐκ μετριοπότου οἰνόφλυγα ἢ ἐκ φιλοπόνου μαλακὸν ἢ ἄλλης πονηρᾶς ἡδονῆς ἡττημένον .
+perseus-eng2	 so you tell us whether you know of any one who under my influence has fallen from piety into impiety, or from sober into wanton conduct, or from moderation in living into extravagance, or from temperate drinking into sottishness, or from strenuousness into effeminacy, or has been overcome of any other base pleasure.”
+
+cts:urn:tlg0032.tlg005:20
+glaux1.0-sentence	65
+perseus-grc2	 ἀλλὰ ναὶ μὰ Δί’ , ἔφη ὁ Μέλητος , ἐκείνους οἶδα οὓς σὺ πέπεικας σοὶ πείθεσθαι μᾶλλον ἢ τοῖς γειναμένοις .
+perseus-eng2	 But, by Heaven! said Meletus: there is one set of men I know, — those whom you have persuaded to obey you rather than their parents.
+
+cts:urn:tlg0032.tlg005:20
+glaux1.0-sentence	66
+perseus-grc2	 ὁμολογῶ , φάναι τὸν Σωκράτην , περί γε παιδείας ·
+perseus-eng2	 I admit it, he reports Socrates as replying, at least so far as education is concerned;
+
+cts:urn:tlg0032.tlg005:20
+glaux1.0-sentence	67
+perseus-grc2	 τοῦτο γὰρ ἴσασιν ἐμοὶ μεμεληκός .
+perseus-eng2	 for people know that I have taken an interest in that.
+
+cts:urn:tlg0032.tlg005:20
+glaux1.0-sentence	68
+perseus-grc2	 περὶ δὲ ὑγιείας τοῖς ἰατροῖς μᾶλλον οἱ ἄνθρωποι πείθονται ἢ τοῖς γονεῦσι ·
+perseus-eng2	 But in a question of health, men take the advice of physicians rather than that of their parents;
+
+cts:urn:tlg0032.tlg005:20
+glaux1.0-sentence	69
+perseus-grc2	 καὶ ἐν ταῖς ἐκκλησίαις γε πάντες δήπου οἱ Ἀθηναῖοι τοῖς φρονιμώτατα λέγουσι πείθονται μᾶλλον ἢ τοῖς προσήκουσιν .
+perseus-eng2	 and moreover, in the meetings of the legislative assembly all the people of Athens, without question, follow the advice of those whose words are wisest rather than that of their own relatives.
+
+cts:urn:tlg0032.tlg005:20
+glaux1.0-sentence	70
+perseus-grc2	 οὐ γὰρ δὴ καὶ στρατηγοὺς αἱρεῖσθε καὶ πρὸ πατέρων καὶ πρὸ ἀδελφῶν , καὶ ναὶ μὰ Δία γε ὑμεῖς πρὸ ὑμῶν αὐτῶν , οὓς ἂν ἡγῆσθε περὶ τῶν πολεμικῶν φρονιμωτάτους εἶναι ;
+perseus-eng2	 Do you not also elect for your generals, in preference to fathers and brothers, — yes, by Heaven! in preference to your very selves, — those whom you regard as having the greatest wisdom in military affairs?
+
+cts:urn:tlg0032.tlg005:20
+glaux1.0-sentence	71
+perseus-grc2	 οὕτω γάρ , φάναι τὸν Μέλητον , ὦ Σώκρατες , καὶ συμφέρει καὶ νομίζεται .
+perseus-eng2	 Yes, Meletus had said; for that is both expedient and conventional.
+
+cts:urn:tlg0032.tlg005:21
+glaux1.0-sentence	72
+perseus-grc2	 οὐκοῦν , εἰπεῖν τὸν Σωκράτην , θαυμαστὸν καὶ τοῦτό σοι δοκεῖ εἶναι , τὸ ἐν μὲν ταῖς ἄλλαις πράξεσι μὴ μόνον ἰσομοιρίας τυγχάνειν τοὺς κρατίστους , ἀλλὰ καὶ προτετιμῆσθαι , ἐμὲ δέ , ὅτι περὶ τοῦ μεγίστου ἀγαθοῦ ἀνθρώποις περὶ παιδείας , βέλτιστος εἶναι ὑπό τινων προκρίνομαι , τούτου ἕνεκα θανάτου ὑπὸ σοῦ διώκεσθαι ;
+perseus-eng2	 Well, then,   Socrates   had rejoined,  does it not seem to you an amazing thing that while in other activities those who excel receive honours not merely on a parity with their fellows but even more marked ones, yet I, because I am adjudged by some people supreme in what is man’s greatest blessing, — education, — am being prosecuted by you on a capital charge?
+
+cts:urn:tlg0032.tlg005:22
+glaux1.0-sentence	73
+perseus-grc2	 ἐρρήθη μὲν δῆλον ὅτι τούτων πλείω ὑπό τε αὐτοῦ καὶ τῶν συναγορευόντων φίλων αὐτῷ .
+perseus-eng2	 More than this of course was said both by Socrates himself and by the friends who joined in his defence.
+
+cts:urn:tlg0032.tlg005:22
+glaux1.0-sentence	74
+perseus-grc2	 ἀλλ’ ἐγὼ οὐ τὰ πάντα εἰπεῖν τὰ ἐκ τῆς δίκης ἐσπούδασα , ἀλλ’ ἤρκεσέ μοι δηλῶσαι ὅτι Σωκράτης τὸ μὲν μήτε περὶ θεοὺς ἀσεβῆσαι μήτε περὶ ἀνθρώπους ἄδικος φανῆναι περὶ παντὸς ἐποιεῖτο ·
+perseus-eng2	 But I have not made it a point to report the whole trial; rather I am satisfied to make it clear that while Socrates’ whole concern was to keep free from any act of impiety toward the gods or any appearance of wrong-doing toward man, he did not think it meet to beseech the jury to let him escape death; instead, he believed that the time had now come for him to die.
+
+cts:urn:tlg0032.tlg005:23
+glaux1.0-sentence	75
+perseus-grc2	 τὸ δὲ μὴ ἀποθανεῖν οὐκ ᾤετο λιπαρητέον εἶναι , ἀλλὰ καὶ καιρὸν ἤδη ἐνόμιζεν ἑαυτῷ τελευτᾶν .
+perseus-eng2	 For Socrates, the thing to do was not to beseech for life;
+
+cts:urn:tlg0032.tlg005:23
+glaux1.0-sentence	76
+perseus-grc2	 ὅτι δὲ οὕτως ἐγίγνωσκε καταδηλότερον ἐγένετο , ἐπειδὴ καὶ ἡ δίκη κατεψηφίσθη .
+perseus-eng2	 since he had come to believe that it was already his time to die.
+
+cts:urn:tlg0032.tlg005:23
+glaux1.0-sentence	77
+perseus-grc2	 πρῶτον μὲν γὰρ κελευόμενος ὑποτιμᾶσθαι οὔτε αὐτὸς ὑπετιμήσατο οὔτε τοὺς φίλους εἴασεν , ἀλλὰ καὶ ἔλεγεν ὅτι τὸ ὑποτιμᾶσθαι ὁμολογοῦντος εἴη ἀδικεῖν .
+perseus-eng2	 This conviction of his became more evident than ever after the adverse issue of the trial. For, first of all, when he was bidden to name his penalty, he refused personally and forbade his friends to name one, but said that naming the penalty in itself implied an acknowledgment of guilt.
+
+cts:urn:tlg0032.tlg005:23
+glaux1.0-sentence	78
+perseus-grc2	 ἔπειτα τῶν ἑταίρων ἐκκλέψαι βουλομένων αὐτὸν οὐκ ἐφείπετο , ἀλλὰ καὶ ἐπισκῶψαι ἐδόκει ἐρόμενος εἴ που εἰδεῖέν τι χωρίον ἔξω τῆς Ἀττικῆς ἔνθα οὐ προσβατὸν θανάτῳ .
+perseus-eng2	 Then, when his companions wished to remove him clandestinely from prison, he would not accompany them, but seemed actually to banter them, asking them whether they knew of any spot outside of Attica that was inaccessible to death.
+
+cts:urn:tlg0032.tlg005:24
+glaux1.0-sentence	79
+perseus-grc2	 ὡς δὲ τέλος εἶχεν ἡ δίκη , εἰπεῖν αὐτόν ·
+perseus-eng2	 When the trial was over, Socrates (according to Hermogenes) remarked:
+
+cts:urn:tlg0032.tlg005:24
+glaux1.0-sentence	80
+perseus-grc2	 ἀλλ’ , ὦ ἄνδρες , τοὺς μὲν διδάσκοντας τοὺς μάρτυρας ὡς χρὴ ἐπιορκοῦντας καταψευδομαρτυρεῖν ἐμοῦ καὶ τοὺς πειθομένους τούτοις ἀνάγκη ἐστὶ πολλὴν ἑαυτοῖς συνειδέναι ἀσέβειαν καὶ ἀδικίαν ·
+perseus-eng2	 Well, gentlemen, those who instructed the witnesses that they must bear false witness against me, perjuring themselves to do so, and those who were won over to do this must feel in their hearts a guilty consciousness of great impiety and iniquity;
+
+cts:urn:tlg0032.tlg005:24
+glaux1.0-sentence	81
+perseus-grc2	 ἐμοὶ δὲ τί προσήκει νῦν μεῖον φρονεῖν ἢ πρὶν κατακριθῆναι , μηδὲν ἐλεγχθέντι ὡς πεποίηκά τι ὧν ἐγράψαντό με ;
+perseus-eng2	 but as for me, why should my spirit be any less exalted now than before my condemnation, since I have not been proved guilty of having done any of the acts mentioned in the indictment?
+
+cts:urn:tlg0032.tlg005:24
+glaux1.0-sentence	82
+perseus-grc2	 οὐδὲ γὰρ ἔγωγε ἀντὶ Διὸς καὶ Ἥρας καὶ τῶν σὺν τούτοις θεῶν οὔτε θύων τισὶ καινοῖς δαίμοσιν οὔτε ὀμνὺς οὔτε νομίζων ἄλλους θεοὺς ἀναπέφηνα .
+perseus-eng2	 For it has not been shown that I have sacrificed to new deities in the stead of Zeus and Hera and the gods of their company, or that I have invoked ill oaths or mentioned other gods.
+
+cts:urn:tlg0032.tlg005:25
+glaux1.0-sentence	83
+perseus-grc2	 τούς γε μὴν νέους πῶς ἂν διαφθείροιμι καρτερίαν καὶ εὐτέλειαν προσεθίζων ;
+perseus-eng2	 And how could I be corrupting the young by habituating them to fortitude and frugality?
+
+cts:urn:tlg0032.tlg005:25
+glaux1.0-sentence	84
+perseus-grc2	 ἐφ’ οἷς γε μὴν ἔργοις κεῖται θάνατος ἡ ζημία , ἱεροσυλίᾳ , τοιχωρυχίᾳ , ἀνδραποδίσει , πόλεως προδοσίᾳ , οὐδ’ αὐτοὶ οἱ ἀντίδικοι τούτων πρᾶξαί τι κατ’ ἐμοῦ φασιν .
+perseus-eng2	 Now of all the acts for which the laws have prescribed the death-penalty — temple robbery, burglary, enslavement, treason to the state — not even my adversaries themselves charge me with having committed any of these.
+
+cts:urn:tlg0032.tlg005:25
+glaux1.0-sentence	85
+perseus-grc2	 ὥστε θαυμαστὸν ἔμοιγε δοκεῖ εἶναι ὅπως ποτὲ ἐφάνη ὑμῖν τοῦ θανάτου ἔργον ἄξιον ἐμοὶ εἰργασμένον .
+perseus-eng2	 And so it seems astonishing to me how you could ever have been convinced that I had committed an act meriting death.
+
+cts:urn:tlg0032.tlg005:26
+glaux1.0-sentence	86
+perseus-grc2	 ἀλλ’ οὐδὲ μέντοι ὅτι ἀδίκως ἀποθνῄσκω , διὰ τοῦτο μεῖον φρονητέον ·
+perseus-eng2	 But further, my spirit need not be less exalted because l am to be executed unjustly;
+
+cts:urn:tlg0032.tlg005:26
+glaux1.0-sentence	87
+perseus-grc2	 οὐ γὰρ ἐμοὶ ἀλλὰ τοῖς καταγνοῦσι τοῦτο αἰσχρόν γάρ ἐστι .
+perseus-eng2	 for the ignominy of that attaches not to me but to those who condemned me.
+
+cts:urn:tlg0032.tlg005:26
+glaux1.0-sentence	88
+perseus-grc2	 παραμυθεῖται δ’ ἔτι με καὶ Παλαμήδης ὁ παραπλησίως ἐμοὶ τελευτήσας ·
+perseus-eng2	 And I get comfort from the case of Palamedes also, who died in circumstances similar to mine;
+
+cts:urn:tlg0032.tlg005:26
+glaux1.0-sentence	89
+perseus-grc2	 ἔτι γὰρ καὶ νῦν πολὺ καλλίους ὕμνους παρέχεται Ὀδυσσέως τοῦ ἀδίκως ἀποκτείναντος αὐτόν ·
+perseus-eng2	 for even yet he affords us far more noble themes for song than does Odysseus, the man who unjustly put him to death.
+
+cts:urn:tlg0032.tlg005:26
+glaux1.0-sentence	90
+perseus-grc2	 οἶδ’ ὅτι καὶ ἐμοὶ μαρτυρήσεται ὑπό τε τοῦ ἐπιόντος καὶ ὑπὸ τοῦ παρεληλυθότος χρόνου ὅτι ἠδίκησα μὲν οὐδένα πώποτε οὐδὲ πονηρότερον ἐποίησα , εὐηργέτουν δὲ τοὺς ἐμοὶ διαλεγομένους προῖκα διδάσκων ὅ τι ἐδυνάμην ἀγαθόν .
+perseus-eng2	 And I know that time to come as well as time past will attest that I, too, far from ever doing any man a wrong or rendering him more wicked, have rather profited those who conversed with me by teaching them, without reward, every good thing that lay in my power.
+
+cts:urn:tlg0032.tlg005:27
+glaux1.0-sentence	91
+perseus-grc2	 εἰπὼν δὲ ταῦτα μάλα ὁμολογουμένως δὴ τοῖς εἰρημένοις ἀπῄει καὶ ὄμμασι καὶ σχήματι καὶ βαδίσματι φαιδρός .
+perseus-eng2	 With these words he departed, blithe in glance, in mien, in gait, as comported well indeed with the words he had just uttered.
+
+cts:urn:tlg0032.tlg005:27
+glaux1.0-sentence	92
+perseus-grc2	 ὡς δὲ ᾔσθετο ἄρα τοὺς παρεπομένους δακρύοντας , τί τοῦτο ;
+perseus-eng2	 When he noticed that those who accompanied him were in tears, What is this?
+
+cts:urn:tlg0032.tlg005:27
+glaux1.0-sentence	93
+perseus-grc2	 εἰπεῖν αὐτόν , ἦ ἄρτι δακρύετε ;
+perseus-eng2	 Hermogenes reports him as asking. Are you just now beginning to weep?
+
+cts:urn:tlg0032.tlg005:27
+glaux1.0-sentence	94
+perseus-grc2	 οὐ γὰρ πάλαι ἴστε ὅτι ἐξ ὅτουπερ ἐγενόμην κατεψηφισμένος ἦν μου ὑπὸ τῆς φύσεως ὁ θάνατος ;
+perseus-eng2	 Have you not known all along that from the moment of my birth nature had condemned me to death?
+
+cts:urn:tlg0032.tlg005:27
+glaux1.0-sentence	95
+perseus-grc2	 ἀλλὰ μέντοι εἰ μὲν ἀγαθῶν ἐπιρρεόντων προαπόλλυμαι , δῆλον ὅτι ἐμοὶ καὶ τοῖς ἐμοῖς εὔνοις λυπητέον ·
+perseus-eng2	 Verily, if I am being destroyed before my time while blessings are still pouring in upon me, clearly that should bring grief to me and to my well-wishers;
+
+cts:urn:tlg0032.tlg005:27
+glaux1.0-sentence	96
+perseus-grc2	 εἰ δὲ χαλεπῶν προσδοκωμένων καταλύω τὸν βίον , ἐγὼ μὲν οἶμαι ὡς εὐπραγοῦντος ἐμοῦ πᾶσιν ὑμῖν εὐθυμητέον εἶναι .
+perseus-eng2	 but if I am ending my life when only troubles are in view, my own opinion is that you ought all to feel cheered, in the assurance that my state is happy.
+
+cts:urn:tlg0032.tlg005:28
+glaux1.0-sentence	97
+perseus-grc2	 παρὼν δέ τις Ἀπολλόδωρος , ἐπιθυμητὴς μὲν ὢν ἰσχυρῶς αὐτοῦ , ἄλλως δ’ εὐήθης , εἶπεν ἄρα ·
+perseus-eng2	 A man named Apollodorus, who was there with him, a very ardent disciple of Socrates, but otherwise simple, exclaimed,
+
+cts:urn:tlg0032.tlg005:28
+glaux1.0-sentence	98
+perseus-grc2	 ἀλλὰ τοῦτο ἔγωγε , ὦ Σώκρατες , χαλεπώτατα φέρω ὅτι ὁρῶ σε ἀδίκως ἀποθνῄσκοντα .
+perseus-eng2	 "But, Socrates, what I find it hardest to bear is that I see you being put to death unjustly!"
+
+cts:urn:tlg0032.tlg005:28
+glaux1.0-sentence	99
+perseus-grc2	 τὸν δὲ λέγεται καταψήσαντα αὐτοῦ τὴν κεφαλὴν εἰπεῖν ·
+perseus-eng2	 The other, stroking Apollodorus’ head, is said to have replied,
+
+cts:urn:tlg0032.tlg005:28
+glaux1.0-sentence	100
+perseus-grc2	 σὺ δέ , ὦ φίλτατε Ἀπολλόδωρε , μᾶλλον ἐβούλου με ὁρᾶν δικαίως ἢ ἀδίκως ἀποθνῄσκοντα ;
+perseus-eng2	 "My beloved Apollodorus, was it your preference to see me put to death justly?"
+
+cts:urn:tlg0032.tlg005:28
+glaux1.0-sentence	101
+perseus-grc2	 καὶ ἅμα ἐπιγελάσαι .
+perseus-eng2	 and smiled as he asked the question.
+
+cts:urn:tlg0032.tlg005:29
+glaux1.0-sentence	102
+perseus-grc2	 λέγεται δὲ καὶ Ἄνυτον παριόντα ἰδὼν εἰπεῖν ·
+perseus-eng2	 It is said also that he remarked as he saw Anytus passing by:
+
+cts:urn:tlg0032.tlg005:29
+glaux1.0-sentence	103
+perseus-grc2	 ἀλλ’ ὁ μὲν ἀνὴρ ὅδε κυδρός , ὡς μέγα τι καὶ καλὸν διαπεπραγμένος , εἰ ἀπέκτονέ με , ὅτι αὐτὸν τῶν μεγίστων ὑπὸ τῆς πόλεως ὁρῶν ἀξιούμενον οὐκ ἔφην χρῆναι τὸν υἱὸν περὶ βύρσας παιδεύειν .
+perseus-eng2	 "There goes a man who is filled with pride at the thought that he has accomplished some great and noble end in putting me to death, because, seeing him honored by the state with the highest offices, I said that he ought not to confine his son’s education to hides.
+
+cts:urn:tlg0032.tlg005:29
+glaux1.0-sentence	104
+perseus-grc2	 ὡς μοχθηρὸς οὗτος , ἔφη , ὃς οὐκ ἔοικεν εἰδέναι ὅτι ὁπότερος ἡμῶν καὶ συμφορώτερα καὶ καλλίω εἰς τὸν ἀεὶ χρόνον διαπέπρακται , οὗτός ἐστι καὶ ὁ νικῶν .
+perseus-eng2	 What a vicious fellow," he continued, "not to know, apparently, that whichever one of us has wrought the more beneficial and noble deeds for all time, he is the real victor."
+
+cts:urn:tlg0032.tlg005:30
+glaux1.0-sentence	105
+perseus-grc2	 ἀλλὰ μέντοι , φάναι αὐτόν , ἀνέθηκε μὲν καὶ Ὅμηρος ἔστιν οἷς τῶν ἐν καταλύσει τοῦ βίου προγιγνώσκειν τὰ μέλλοντα , βούλομαι δὲ καὶ ἐγὼ χρησμῳδῆσαί τι .
+perseus-eng2	 "But," he is reported to have added, "Homer has attributed to some of his heroes at the moment of dissolution the power to foresee the future; and so I too wish to utter a prophecy.
+
+cts:urn:tlg0032.tlg005:30
+glaux1.0-sentence	106
+perseus-grc2	 συνεγενόμην γάρ ποτε βραχέα τῷ Ἀνύτου υἱῷ , καὶ ἔδοξέ μοι οὐκ ἄρρωστος τὴν ψυχὴν εἶναι ·
+perseus-eng2	 At one time I had a brief association with the son of Anytus, and I thought him not lacking in firmness of spirit;
+
+cts:urn:tlg0032.tlg005:30
+glaux1.0-sentence	107
+perseus-grc2	 ὥστε φημὶ αὐτὸν ἐπὶ τῇ δουλοπρεπεῖ διατριβῇ ἣν ὁ πατὴρ αὐτῷ παρεσκεύακεν οὐ διαμενεῖν ·
+perseus-eng2	 and so I predict that he will not continue in the servile occupation that his father has provided for him;
+
+cts:urn:tlg0032.tlg005:30
+glaux1.0-sentence	108
+perseus-grc2	 διὰ δὲ τὸ μηδένα ἔχειν σπουδαῖον ἐπιμελητὴν προσπεσεῖσθαί τινι αἰσχρᾷ ἐπιθυμίᾳ , καὶ προβήσεσθαι μέντοι πόρρω μοχθηρίας .
+perseus-eng2	 but through want of a worthy adviser he will fall into some disgraceful propensity and will surely go far in the career of vice."
+
+cts:urn:tlg0032.tlg005:31
+glaux1.0-sentence	109
+perseus-grc2	 ταῦτα δ’ εἰπὼν οὐκ ἐψεύσατο , ἀλλ’ ὁ νεανίσκος ἡσθεὶς οἴνῳ οὔτε νυκτὸς οὔτε ἡμέρας ἐπαύετο πίνων , καὶ τέλος οὔτε τῇ ἑαυτοῦ πόλει οὔτε τοῖς φίλοις οὔτε αὑτῷ ἄξιος οὐδενὸς ἐγένετο .
+perseus-eng2	 In saying this he was not mistaken; the young man, delighting in wine, never left off drinking night or day, and at last turned out worth nothing to his city, his friends, or himself.
+
+cts:urn:tlg0032.tlg005:31
+glaux1.0-sentence	110
+perseus-grc2	 Ἄνυτος μὲν δὴ διὰ τὴν τοῦ υἱοῦ πονηρὰν παιδείαν καὶ διὰ τὴν αὑτοῦ ἀγνωμοσύνην ἔτι καὶ τετελευτηκὼς τυγχάνει κακοδοξίας .
+perseus-eng2	 So Anytus, even though dead, still enjoys an evil repute for his son’s mischievous education and for his own hard-heartedness.
+
+cts:urn:tlg0032.tlg005:32
+glaux1.0-sentence	111
+perseus-grc2	 Σωκράτης δὲ διὰ τὸ μεγαλύνειν ἑαυτὸν ἐν τῷ δικαστηρίῳ φθόνον ἐπαγόμενος μᾶλλον καταψηφίσασθαι ἑαυτοῦ ἐποίησε τοὺς δικαστάς .
+perseus-eng2	 And as for Socrates, by exalting himself before the court, he brought ill-will upon himself and made his conviction by the jury more certain.
+
+cts:urn:tlg0032.tlg005:32
+glaux1.0-sentence	112
+perseus-grc2	 ἐμοὶ μὲν οὖν δοκεῖ θεοφιλοῦς μοίρας τετυχηκέναι ·
+perseus-eng2	 Now to me he seems to have met a fate that the gods love;
+
+cts:urn:tlg0032.tlg005:32
+glaux1.0-sentence	113
+perseus-grc2	 τοῦ μὲν γὰρ βίου τὸ χαλεπώτατον ἀπέλιπε , τῶν δὲ θανάτων τοῦ ῥᾴστου ἔτυχεν .
+perseus-eng2	 for he escaped the hardest part of life and met the easiest sort of death.
+
+cts:urn:tlg0032.tlg005:33
+glaux1.0-sentence	114
+perseus-grc2	 ἐπεδείξατο δὲ τῆς ψυχῆς τὴν ῥώμην ·
+perseus-eng2	 And he displayed the stalwart nature of his heart;
+
+cts:urn:tlg0032.tlg005:33
+glaux1.0-sentence	115
+perseus-grc2	 ἐπεὶ γὰρ ἔγνω τοῦ ἔτι ζῆν τὸ τεθνάναι αὐτῷ κρεῖττον εἶναι , ὥσπερ οὐδὲ πρὸς τ- ἄλλα τ- ἀγαθὰ προσάντης ἦν , οὐδὲ πρὸς τὸν θάνατον ἐμαλακίσατο , ἀλλ’ ἱλαρῶς καὶ προσεδέχετο αὐτὸν καὶ ἐπετελέσατο .
+perseus-eng2	 for having once decided that to die was better for him than to live longer, he did not weaken in the presence of death (just as he had never set his face against any other thing, either, that was for his good), but was cheerful not only in the expectation of death but in meeting it.
+
+cts:urn:tlg0032.tlg005:34
+glaux1.0-sentence	116
+perseus-grc2	 ἐγὼ μὲν δὴ κατανοῶν τοῦ ἀνδρὸς τήν τε σοφίαν καὶ τὴν γενναιότητα οὔτε μὴ μεμνῆσθαι δύναμαι αὐτοῦ οὔτε μεμνημένος μὴ οὐκ ἐπαινεῖν .
+perseus-eng2	 And so, in contemplating the man’s wisdom and nobility of character, I find it beyond my power to forget him or, in remembering him, to refrain from praising him.
+
+cts:urn:tlg0032.tlg005:34
+glaux1.0-sentence	117
+perseus-grc2	 εἰ δέ τις τῶν ἀρετῆς ἐφιεμένων ὠφελιμωτέρῳ τινὶ Σωκράτους συνεγένετο , ἐκεῖνον ἐγὼ τὸν ἄνδρα ἀξιομακαριστότατον νομίζω .
+perseus-eng2	 And if among those who make virtue their aim any one has ever been brought into contact with a person more helpful than Socrates, I count that man worthy to be called most blessed.

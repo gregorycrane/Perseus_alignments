@@ -1,0 +1,1605 @@
+
+cts:urn:tlg0032.tlg008:1.1
+glaux1.0-sentence	1
+perseus-grc2	 Σιμωνίδης ὁ ποιητὴς ἀφίκετό ποτε πρὸς Ἱέρωνα τὸν τύραννον .
+perseus-eng2	 Simonides, the poet, once paid a visit to Hiero, the despot.
+
+cts:urn:tlg0032.tlg008:1.1
+glaux1.0-sentence	2
+perseus-grc2	 σχολῆς δὲ γενομένης ἀμφοῖν εἶπεν ὁ Σιμωνίδης ·
+perseus-eng2	 When both found time to spare, Simonides said:
+
+cts:urn:tlg0032.tlg008:1.1
+glaux1.0-sentence	3
+perseus-grc2	 ἆρ’ ἄν μοι ἐθελήσαις , ὦ Ἱέρων , διηγήσασθαι ἃ εἰκὸς εἰδέναι σε βέλτιον ἐμοῦ ;
+perseus-eng2	 "Hiero, will you please explain something to me that you probably know better than I?
+
+cts:urn:tlg0032.tlg008:1.1
+glaux1.0-sentence	4
+perseus-grc2	 καὶ ποῖα ταῦτ’ ἐστίν , ἔφη ὁ Ἱέρων , ὁποῖα δὴ ἐγὼ βέλτιον ἂν εἰδείην σοῦ οὕτως ὄντος σοφοῦ ἀνδρός ;
+perseus-eng2	 And pray what is it," said Hiero, "that I can know better than one so wise as yourself?"
+
+cts:urn:tlg0032.tlg008:1.2
+glaux1.0-sentence	5
+perseus-grc2	 οἶδά σε , ἔφη , ἐγὼ καὶ ἰδιώτην γεγενημένον καὶ νῦν τύραννον ὄντα ·
+perseus-eng2	 "I know you were born a private citizen," he answered, "and are now a despot.
+
+cts:urn:tlg0032.tlg008:1.2
+glaux1.0-sentence	6
+perseus-grc2	 εἰκὸς οὖν ἀμφοτέρων πεπειραμένον καὶ εἰδέναι σε μᾶλλον ἐμοῦ πῇ διαφέρει ὁ τυραννικός τε καὶ ὁ ἰδιωτικὸς βίος εἰς εὐφροσύνας τε καὶ λύπας ἀνθρώποις .
+perseus-eng2	 Therefore, as you have experienced both fortunes, you probably know better than I how the lives of the despot and the citizen differ as regards the joys and sorrows that fall to man’s lot."
+
+cts:urn:tlg0032.tlg008:1.3
+glaux1.0-sentence	7
+perseus-grc2	 τί οὖν , ἔφη ὁ Ἱέρων , οὐχὶ καὶ σύ , ἐπεὶ νῦν γε ἔτι ἰδιώτης εἶ , ὑπέμνησάς με τὰ ἐν τῷ ἰδιωτικῷ βίῳ ;
+perseus-eng2	 "Surely," said Hiero, "seeing that you are still a private citizen, it is for you to remind me of what happens in a citizen’s life;
+
+cts:urn:tlg0032.tlg008:1.3
+glaux1.0-sentence	8
+perseus-grc2	 οὕτως γὰρ ἄν σοι οἶμαι μάλιστα ἐγὼ δύνασθαι δηλοῦν τὰ διαφέροντα ἐν ἑκατέρῳ .
+perseus-eng2	 and then, I think, I could best show you the differences between the two."
+
+cts:urn:tlg0032.tlg008:1.4
+glaux1.0-sentence	9
+perseus-grc2	 οὕτω δὴ ὁ Σιμωνίδης εἶπεν ·
+perseus-eng2	 Well," said Simonides, taking the suggestion,
+
+cts:urn:tlg0032.tlg008:1.4
+glaux1.0-sentence	10
+perseus-grc2	 τοὺς μὲν δὴ ἰδιώτας ἔγωγε , ὦ Ἱέρων , δοκῶ μοι καταμεμαθηκέναι διὰ μὲν τῶν ὀφθαλμῶν ὁράμασιν ἡδομένους τε καὶ ἀχθομένους , διὰ δὲ τῶν ὤτων ἀκούσμασι , διὰ δὲ τῶν ῥινῶν ὀσμαῖς , διὰ δὲ τοῦ στόματος σίτοις τε καὶ ποτοῖς , τὰ δ’ ἀφροδίσια δι’ ὧν δὴ πάντες ἐπιστάμεθα ·
+perseus-eng2	 "I think I have observed that sights affect private citizens with pleasure and pain through the eyes, sounds through the ears, smells through the nostrils, meat and drink through the mouth, carnal appetites — of course we all know how.
+
+cts:urn:tlg0032.tlg008:1.5
+glaux1.0-sentence	11
+perseus-grc2	 τὰ δὲ ψύχη καὶ θάλπη καὶ σκληρὰ καὶ μαλακὰ καὶ κοῦφα καὶ βαρέα ὅλῳ τῷ σώματί μοι δοκοῦμεν , ἔφη , κρίνοντες ἥδεσθαί τε καὶ λυπεῖσθαι ἐπ’ αὐτοῖς ·
+perseus-eng2	 In the case of cold and heat, things hard and soft, light and heavy, our sensations of pleasure and pain depend on the whole body, I think.
+
+cts:urn:tlg0032.tlg008:1.5
+glaux1.0-sentence	12
+perseus-grc2	 ἀγαθοῖς δὲ καὶ κακοῖς ἔστι μὲν ὅτε δι’ αὐτῆς τῆς ψυχῆς μοι δοκοῦμεν ἥδεσθαι , ὁτὲ δ’ αὖ λυπεῖσθαι , ἔστι δ’ ὅτε κοινῇ καὶ διά τε τῆς ψυχῆς καὶ διὰ τοῦ σώματος .
+perseus-eng2	 In good and evil we seem to feel pleasure or pain, as the case may be — sometimes through the instrumentality of the moral being only, at other times through that of the moral and the physical being together.
+
+cts:urn:tlg0032.tlg008:1.6
+glaux1.0-sentence	13
+perseus-grc2	 τῷ δ’ ὕπνῳ ὅτι μὲν ἡδόμεθα δοκῶ μοι αἰσθάνεσθαι , ὅπως δὲ καὶ ᾧτινι καὶ ὁπότε , ταῦτα μᾶλλόν πως , ἔφη , δοκῶ μοι ἀγνοεῖν .
+perseus-eng2	 Sleep, it seems clear to me, affects us with pleasure; but how and by what means and when are puzzles that I feel less able to solve.
+
+cts:urn:tlg0032.tlg008:1.6
+glaux1.0-sentence	14
+perseus-grc2	 καὶ οὐδὲν ἴσως τοῦτο θαυμαστόν , εἰ τὰ ἐν τῷ ἐγρηγορέναι σαφεστέρας ἡμῖν τὰς αἰσθήσεις παρέχεται ἢ τὰ ἐν τῷ ὕπνῳ .
+perseus-eng2	 And perhaps it is no matter for surprise if our sensations are clearer when we are awake than when we are asleep.
+
+cts:urn:tlg0032.tlg008:1.7
+glaux1.0-sentence	15
+perseus-grc2	 πρὸς ταῦτα δὴ ὁ Ἱέρων ἀπεκρίνατο ·
+perseus-eng2	 For my part, Simonides," said Hiero in answer to this,
+
+cts:urn:tlg0032.tlg008:1.7
+glaux1.0-sentence	16
+perseus-grc2	 ἐγὼ μὲν τοίνυν , ἔφη , ὦ Σιμωνίδη , ἔξω τούτων ὧν εἴρηκας σύγε οὐδ’ ὅπως ἂν αἴσθοιτό τινος ἄλλου ὁ τύραννος ἔχοιμ’ ἂν εἰπεῖν , ὥστε μέχρι γε τούτου οὐκ οἶδ’ εἴ τινι διαφέρει ὁ τυραννικὸς βίος τοῦ ἰδιωτικοῦ βίου .
+perseus-eng2	 "I cannot say how a despot could have any sensations apart from those you have mentioned.
+
+cts:urn:tlg0032.tlg008:1.8
+glaux1.0-sentence	17
+perseus-grc2	 καὶ ὁ Σιμωνίδης εἶπεν ·
+perseus-eng2	 So far, therefore, I fail to see that the despot’s life differs in any respect from the citizen’s.
+
+cts:urn:tlg0032.tlg008:1.8
+glaux1.0-sentence	18
+perseus-grc2	 ἀλλ’ ἐν τοῖσδε , ἔφη , διαφέρει ·
+perseus-eng2	 In this respect it does differ," said Simonides:
+
+cts:urn:tlg0032.tlg008:1.8
+glaux1.0-sentence	19
+perseus-grc2	 πολλαπλάσια μὲν δι’ ἑκάστου τούτων εὐφραίνεται , πολὺ δὲ μείω τὰ λυπηρὰ ἔχει .
+perseus-eng2	 "the pleasures it experiences by means of these various organs are infinitely greater in number, and the pains it undergoes are far fewer."
+
+cts:urn:tlg0032.tlg008:1.8
+glaux1.0-sentence	20
+perseus-grc2	 καὶ ὁ Ἱέρων εἶπεν ·
+perseus-eng2	 "It is not so, Simonides," retorted Hiero;
+
+cts:urn:tlg0032.tlg008:1.8
+glaux1.0-sentence	21
+perseus-grc2	 οὐχ οὕτως ἔχει , ὦ Σιμωνίδη , ταῦτα , ἀλλ’ εὖ ἴσθ’ ὅτι μείω πολὺ εὐφραίνονται οἱ τύραννοι τῶν μετρίως διαγόντων ἰδιωτῶν , πολὺ δὲ πλείω καὶ μείζω λυποῦνται .
+perseus-eng2	 "I assure you far fewer pleasures fall to despots than to citizens of modest means, and many more and much greater pains."
+
+cts:urn:tlg0032.tlg008:1.9
+glaux1.0-sentence	22
+perseus-grc2	 ἄπιστα λέγεις , ἔφη ὁ Σιμωνίδης .
+perseus-eng2	 "Incredible!" exclaimed Simonides.
+
+cts:urn:tlg0032.tlg008:1.9
+glaux1.0-sentence	23
+perseus-grc2	 εἰ γὰρ οὕτως ταῦτ’ εἶχε , πῶς ἂν πολλοὶ μὲν ἐπεθύμουν τυραννεῖν , καὶ ταῦτα τῶν δοκούντων ἱκανωτάτων ἀνδρῶν εἶναι ;
+perseus-eng2	 "Were it so, how should a despot’s throne be an object of desire to many, even of those who are reputed to be men of ample means?
+
+cts:urn:tlg0032.tlg008:1.9
+glaux1.0-sentence	24
+perseus-grc2	 πῶς δὲ πάντες ἐζήλουν ἂν τοὺς τυράννους ;
+perseus-eng2	 And how should all the world envy despots?"
+
+cts:urn:tlg0032.tlg008:1.10
+glaux1.0-sentence	25
+perseus-grc2	 ὅτι ναὶ μὰ τὸν Δί’ , ἔφη ὁ Ἱέρων , ἄπειροι ὄντες ἀμφοτέρων τῶν ἔργων σκοποῦνται περὶ αὐτοῦ .
+perseus-eng2	 "For this reason of course," said Hiero, "that they speculate on the subject without experience of both estates.
+
+cts:urn:tlg0032.tlg008:1.10
+glaux1.0-sentence	26
+perseus-grc2	 ἐγὼ δὲ πειράσομαί σε διδάσκειν ὅτι ἀληθῆ λέγω , ἀρξάμενος ἀπὸ τῆς ὄψεως ·
+perseus-eng2	 But I will try to show you that I am speaking the truth, beginning with the sense of sight.
+
+cts:urn:tlg0032.tlg008:1.10
+glaux1.0-sentence	27
+perseus-grc2	 ἐντεῦθεν γὰρ καὶ σὲ δοκῶ μεμνῆσθαι ἀρξάμενον λέγειν .
+perseus-eng2	 That was your first point, if I am not mistaken.
+
+cts:urn:tlg0032.tlg008:1.11
+glaux1.0-sentence	28
+perseus-grc2	 πρῶτον μὲν γὰρ ἐν τοῖς διὰ τῆς ὄψεως θεάμασι λογιζόμενος εὑρίσκω μειονεκτοῦντας τοὺς τυράννους .
+perseus-eng2	 In the first place, then, taking the objects that we perceive by means of vision, I find by calculation that in regard to sight-seeing, despots are worse off.
+
+cts:urn:tlg0032.tlg008:1.11
+glaux1.0-sentence	29
+perseus-grc2	 ἄλλα μέν γε ἐν ἄλλῃ χώρᾳ ἐστὶν ἀξιοθέατα ·
+perseus-eng2	 In every land there are things worth seeing:
+
+cts:urn:tlg0032.tlg008:1.11
+glaux1.0-sentence	30
+perseus-grc2	 ἐπὶ δὲ τούτων ἕκαστα οἱ μὲν ἰδιῶται ἔρχονται καὶ εἰς πόλεις ἃς ἂν βούλωνται θεαμάτων ἕνεκα , καὶ εἰς τὰς κοινὰς πανηγύρεις , ἔνθα γ’ ἃ ἀξιοθεατότατα δοκεῖ εἶναι ἀνθρώποις συναγείρεται .
+perseus-eng2	 and in search of these private citizens visit any city they choose, and attend the national festivals, where all things reputed to be most worth seeing are assembled.
+
+cts:urn:tlg0032.tlg008:1.12
+glaux1.0-sentence	31
+perseus-grc2	 οἱ δὲ τύραννοι οὐ μάλα ἀμφὶ θεωρίας ἔχουσιν .
+perseus-eng2	 But despots are not at all concerned with missions to shows.
+
+cts:urn:tlg0032.tlg008:1.12
+glaux1.0-sentence	32
+perseus-grc2	 οὔτε γὰρ ἰέναι αὐτοῖς ἀσφαλὲς ὅπου μὴ κρείττονες τῶν παρόντων μέλλουσιν ἔσεσθαι , οὔτε τὰ οἴκοι κέκτηνται ἐχυρά , ὥστε ἄλλοις παρακαταθεμένους ἀποδημεῖν .
+perseus-eng2	 For it is risky for them to go where they will be no stronger than the crowd, and their property at home is too insecure to be left in charge of others while they are abroad.
+
+cts:urn:tlg0032.tlg008:1.12
+glaux1.0-sentence	33
+perseus-grc2	 φοβερὸν γὰρ μὴ ἅμα τε στερηθῶσι τῆς ἀρχῆς καὶ ἀδύνατοι γένωνται τιμωρήσασθαι τοὺς ἀδικήσαντας .
+perseus-eng2	 For they fear to lose their throne, and at the same time to be unable to take vengeance on the authors of the wrong.
+
+cts:urn:tlg0032.tlg008:1.13
+glaux1.0-sentence	34
+perseus-grc2	 εἴποις οὖν ἂν ἴσως σύ , ἀλλ’ ἄρα ἔρχεται αὐτοῖς τὰ τοιαῦτα καὶ οἴκοι μένουσι .
+perseus-eng2	 "But, after all, such spectacles come to them even if they stay at home."
+
+cts:urn:tlg0032.tlg008:1.13
+glaux1.0-sentence	35
+perseus-grc2	 ναὶ μὰ Δία , ὦ Σιμωνίδη , ὀλίγα γε τῶν πολλῶν καὶ ταῦτα τοιαῦτα ὄντα οὕτω τίμια πωλεῖται τοῖς τυράννοις ὥστε οἱ ἐπιδεικνύμενοι καὶ ὁτιοῦν ἀξιοῦσι πολλαπλάσια λαβόντες ἐν ὀλίγῳ χρόνῳ ἀπιέναι παρὰ τοῦ τυράννου ἢ ὅσα ἐν παντὶ τῷ βίῳ παρὰ πάντων τῶν ἄλλων ἀνθρώπων κτῶνται .
+perseus-eng2	 "No, no, Simonides, only one in a hundred such; and what there are of them are offered to despots at a price so exorbitant that showmen who exhibit some trifle expect to leave the court in an hour with far more money than they get from all the rest of the world in a lifetime."
+
+cts:urn:tlg0032.tlg008:1.14
+glaux1.0-sentence	36
+perseus-grc2	 καὶ ὁ Σιμωνίδης εἶπεν ·
+perseus-eng2	   Simonides said:
+
+cts:urn:tlg0032.tlg008:1.14
+glaux1.0-sentence	37
+perseus-grc2	 ἀλλ’ εἰ ἐν τοῖς θεάμασι μειονεκτεῖτε , διά γέ τοι τῆς ἀκοῆς πλεονεκτεῖτε .
+perseus-eng2	 "Ah, but if you are worse off in the matter of sight-seeing, the sense of hearing, you know, gives you the advantage.
+
+cts:urn:tlg0032.tlg008:1.14
+glaux1.0-sentence	38
+perseus-grc2	 ἐπεὶ τοῦ μὲν ἡδίστου ἀκροάματος , ἐπαίνου , οὔποτε σπανίζετε ·
+perseus-eng2	 Praise, the sweetest of all sounds, is never lacking,
+
+cts:urn:tlg0032.tlg008:1.14
+glaux1.0-sentence	39
+perseus-grc2	 πάντες γὰρ οἱ παρόντες ὑμῖν πάντα καὶ ὅσα ἂν λέγητε καὶ ὅσα ἂν ποιῆτε ἐπαινοῦσι .
+perseus-eng2	 for all your courtiers praise everything you do and every word you utter.
+
+cts:urn:tlg0032.tlg008:1.14
+glaux1.0-sentence	40
+perseus-grc2	 τοῦ δ’ αὖ χαλεπωτάτου ἀκροάματος , λοιδορίας , ἀνήκοοί ἐστε ·
+perseus-eng2	 Abuse, on the contrary, that most offensive of sounds, is never in your ears,
+
+cts:urn:tlg0032.tlg008:1.14
+glaux1.0-sentence	41
+perseus-grc2	 οὐδεὶς γὰρ ἐθέλει τυράννου κατ’ ὀφθαλμοὺς κατηγορεῖν .
+perseus-eng2	 for no one likes to speak evil of a despot in his presence."
+
+cts:urn:tlg0032.tlg008:1.15
+glaux1.0-sentence	42
+perseus-grc2	 καὶ ὁ Ἱέρων εἶπε ·
+perseus-eng2	  Hiero asked:
+
+cts:urn:tlg0032.tlg008:1.15
+glaux1.0-sentence	43
+perseus-grc2	 καὶ τί οἴει , ἔφη , τοὺς μὴ λέγοντας κακῶς εὐφραίνειν , ὅταν εἰδῇ τις σαφῶς ὅτι οἱ σιωπῶντες οὗτοι πάντες κακὰ νοοῦσι τῷ τυράννῳ ;
+perseus-eng2	 And what pleasure, comes, do you suppose, of this shrinking from evil words, when one knows well that all harbour evil thoughts against the despot, in spite of their silence?
+
+cts:urn:tlg0032.tlg008:1.15
+glaux1.0-sentence	44
+perseus-grc2	 ἢ τοὺς ἐπαινοῦντας τί δοκεῖς εὐφραίνειν , ὅταν ὕποπτοι ὦσιν ἕνεκα τοῦ κολακεύειν τοὺς ἐπαίνους ποιεῖσθαι ;
+perseus-eng2	 Or what pleasure comes of this praise, do you think, when the praises sound suspiciously like flattery?
+
+cts:urn:tlg0032.tlg008:1.16
+glaux1.0-sentence	45
+perseus-grc2	 καὶ ὁ Σιμωνίδης εἶπεν ·
+perseus-eng2	 Simonides replied:
+
+cts:urn:tlg0032.tlg008:1.16
+glaux1.0-sentence	46
+perseus-grc2	 τοῦτο μὲν δὴ ναὶ μὰ τὸν Δία ἔγωγέ σοι , Ἱέρων , πάνυ συγχωρῶ , τοὺς ἐπαίνους παρὰ τῶν ἐλευθερωτάτων ἡδίστους εἶναι , ἀλλ’ , ὁρᾷς ;
+perseus-eng2	 "Well yes,in this of course I agree with you entirely, Hiero, that praise from the freest is sweetest.
+
+cts:urn:tlg0032.tlg008:1.16
+glaux1.0-sentence	47
+perseus-grc2	 ἐκεῖνό γε οὐκ ἂν ἔτι πείσαις ἀνθρώπων οὐδένα ὡς οὐ δι’ ὧν τρεφόμεθα οἱ ἄνθρωποι , πολὺ πλείω ὑμεῖς ἐν αὐτοῖς εὐφραίνεσθε .
+perseus-eng2	 But this, now, you will not persuade anyone to believe, that the things which support human life do not yield you a far greater number of pleasures.
+
+cts:urn:tlg0032.tlg008:1.17
+glaux1.0-sentence	48
+perseus-grc2	 καὶ οἶδά γ’ , ἔφη , ὦ Σιμωνίδη , ὅτι τούτῳ κρίνουσιν οἱ πλεῖστοι ἥδιον ἡμᾶς καὶ πίνειν καὶ ἐσθίειν τῶν ἰδιωτῶν , ὅτι δοκοῦσι καὶ αὐτοὶ ἥδιον ἂν δειπνῆσαι τὸ ἡμῖν παρατιθέμενον δεῖπνον ἢ τὸ ἑαυτοῖς ·
+perseus-eng2	 Yes, Simonides, and I know that the reason why most men judge that we have more enjoyment in eating and drinking than private citizens is this; they think that they themselves would find the dinner served at our table better eating than what they get.
+
+cts:urn:tlg0032.tlg008:1.17
+glaux1.0-sentence	49
+perseus-grc2	 τὸ γὰρ τὰ εἰωθότα ὑπερβάλλον , τοῦτο παρέχει τὰς ἡδονάς .
+perseus-eng2	 Anything, in fact, that is better than what they are accustomed to gives them pleasure.
+
+cts:urn:tlg0032.tlg008:1.18
+glaux1.0-sentence	50
+perseus-grc2	 διὸ καὶ πάντες ἄνθρωποι ἡδέως προσδέχονται τὰς ἑορτὰς πλὴν οἱ τύραννοι ·
+perseus-eng2	 This is why all men look forward to the festivals, except the despots.
+
+cts:urn:tlg0032.tlg008:1.18
+glaux1.0-sentence	51
+perseus-grc2	 ἔκπλεῳ γὰρ αὐτοῖς ἀεὶ παρεσκευασμέναι οὐδεμίαν ἐν ταῖς ἑορταῖς ἔχουσιν αἱ τράπεζαι αὐτῶν ἐπίδοσιν ·
+perseus-eng2	 For their table is always laden with plenty, and admits of no extras on feast days.
+
+cts:urn:tlg0032.tlg008:1.18
+glaux1.0-sentence	52
+perseus-grc2	 ὥστε ταύτῃ πρῶτον τῇ εὐφροσύνῃ τῆς ἐλπίδος μειονεκτοῦσι τῶν ἰδιωτῶν .
+perseus-eng2	 Here then is one pleasure in respect of which they are worse off than the private citizen, the pleasure of anticipation.
+
+cts:urn:tlg0032.tlg008:1.19
+glaux1.0-sentence	53
+perseus-grc2	 ἔπειτα δ’ , ἔφη , ἐκεῖνο εὖ οἶδ’ ὅτι καὶ σὺ ἔμπειρος εἶ ὅτι ὅσῳ ἂν πλείω τις παραθῆται τὰ περιττὰ τῶν ἱκανῶν , τοσούτῳ καὶ θᾶττον κόρος ἐμπίπτει τῆς ἐδωδῆς ·
+perseus-eng2	 But further, your own experience tells you, I am sure, that the greater the number of superfluous dishes set before a man, the sooner a feeling of repletion comes over him;
+
+cts:urn:tlg0032.tlg008:1.19
+glaux1.0-sentence	54
+perseus-grc2	 ὥστε καὶ τῷ χρόνῳ τῆς ἡδονῆς μειονεκτεῖ ὁ παρατιθέμενος πολλὰ τῶν μετρίως διαιτωμένων .
+perseus-eng2	 and so, as regards the duration of his pleasure too, the man who has many courses put before him is worse off than the moderate liver.
+
+cts:urn:tlg0032.tlg008:1.20
+glaux1.0-sentence	55
+perseus-grc2	 ἀλλὰ ναὶ μὰ Δί’ , ἔφη ὁ Σιμωνίδης , ὅσον ἂν χρόνον ἡ ψυχὴ προσίηται , τοῦτον πολὺ μᾶλλον ἥδονται οἱ ταῖς πολυτελεστέραις παρασκευαῖς τρεφόμενοι τῶν τὰ εὐτελέστερα παρατιθεμένων .
+perseus-eng2	 But surely,  said Simonides,  so long as the appetite holds out, the man who dines at the costlier banquet has far more pleasure than he who is served with the cheaper meal.
+
+cts:urn:tlg0032.tlg008:1.21
+glaux1.0-sentence	56
+perseus-grc2	 οὐκοῦν , ἔφη ὁ Ἱέρων , ὦ Σιμωνίδη , τὸν ἑκάστῳ ἡδόμενον μάλιστα , τοῦτον οἴει καὶ ἐρωτικώτατα ἔχειν τοῦ ἔργου τούτου ;
+perseus-eng2	 Don’t you think, Simonides, that the greater a man’s pleasure in any occupation the stronger is his devotion to it?
+
+cts:urn:tlg0032.tlg008:1.21
+glaux1.0-sentence	57
+perseus-grc2	 πάνυ μὲν οὖν , ἔφη .
+perseus-eng2	 Certainly.
+
+cts:urn:tlg0032.tlg008:1.21
+glaux1.0-sentence	58
+perseus-grc2	 ἦ οὖν ὁρᾷς τι τοὺς τυράννους ἥδιον ἐπὶ τὴν ἑαυτῶν παρασκευὴν ἰόντας ἢ τοὺς ἰδιώτας ἐπὶ τὴν ἑαυτῶν ;
+perseus-eng2	 Then do you notice that despots fall to their meal with any more zest than private persons to theirs?
+
+cts:urn:tlg0032.tlg008:1.21
+glaux1.0-sentence	59
+perseus-grc2	 οὐ μὰ τὸν Δί’ , ἔφη , οὐ μὲν οὖν , ἀλλὰ καὶ ἀγλευκέστερον , ὡς πολλοῖς ἂν δόξειεν .
+perseus-eng2	 No, no, of course not; I should rather say with more disgust, according to the common opinion.
+
+cts:urn:tlg0032.tlg008:1.22
+glaux1.0-sentence	60
+perseus-grc2	 τί γάρ , ἔφη ὁ Ἱέρων , τὰ πολλὰ ταῦτα μηχανήματα κατανενόηκας ἃ παρατίθεται τοῖς τυράννοις , ὀξέα καὶ δριμέα καὶ στρυφνὰ καὶ τὰ τούτων ἀδελφά ;
+perseus-eng2	 Well now, said Hiero, have you observed all those pickles and sauces that are put before despots — acid, bitter, astringent and so forth?
+
+cts:urn:tlg0032.tlg008:1.22
+glaux1.0-sentence	61
+perseus-grc2	 πάνυ μὲν οὖν , ἔφη ὁ Σιμωνίδης , καὶ πάνυ γέ μοι δοκοῦντα παρὰ φύσιν εἶναι ταῦτα ἀνθρώποις .
+perseus-eng2	 Yes, certainly; and very unnatural cates I think them for human beings.
+
+cts:urn:tlg0032.tlg008:1.23
+glaux1.0-sentence	62
+perseus-grc2	 ἄλλο τι οὖν οἴει , ἔφη ὁ Ἱέρων , ταῦτα τὰ ἐδέσματα εἶναι ἢ μαλακῆς καὶ ἀσθενούσης ψυχῆς ἐπιθυμήματα ;
+perseus-eng2	 Don’t you look on these condiments, then, as mere fads of a jaded and pampered appetite?
+
+cts:urn:tlg0032.tlg008:1.23
+glaux1.0-sentence	63
+perseus-grc2	 ἐπεὶ εὖ οἶδ’ ἔγωγε ὅτι οἱ ἡδέως ἐσθίοντες καὶ σύ που οἶσθα ὅτι οὐδὲν προσδέονται τούτων τῶν σοφισμάτων .
+perseus-eng2	 I know well enough, and I expect you know too, that hearty eaters have no need of these concoctions.
+
+cts:urn:tlg0032.tlg008:1.24
+glaux1.0-sentence	64
+perseus-grc2	 ἀλλὰ μέντοι , ἔφη ὁ Σιμωνίδης , τῶν γε πολυτελῶν ὀσμῶν τούτων , αἷς χρίεσθε , τοὺς πλησιάζοντας οἶμαι μᾶλλον ἀπολαύειν ἢ αὐτοὺς ὑμᾶς , ὥσπερ γε καὶ τῶν ἀχαρίτων ὀσμῶν οὐκ αὐτὸς ὁ βεβρωκὼς αἰσθάνεται , ἀλλὰ μᾶλλον οἱ πλησιάζοντες .
+perseus-eng2	 Well, I certainly think that those costly unguents with which you anoint your bodies afford more satisfaction to those who are near you than to yourselves, just as the man who has eaten rank food is less conscious of the disagreeable smell than those who come near him.
+
+cts:urn:tlg0032.tlg008:1.25
+glaux1.0-sentence	65
+perseus-grc2	 οὕτω μέντοι , ἔφη ὁ Ἱέρων , καὶ τῶν σίτων ὁ μὲν ἔχων παντοδαπὰ ἀεὶ οὐδὲν μετὰ πόθου αὐτῶν λαμβάνει ·
+perseus-eng2	 Quite so, and we may add that he who has all sorts of food at all times has no stomach for any sort.
+
+cts:urn:tlg0032.tlg008:1.25
+glaux1.0-sentence	66
+perseus-grc2	 ὁ δὲ σπανίσας τινός , οὗτός ἐστιν ὁ μετὰ χαρᾶς πιμπλάμενος , ὅταν αὐτῷ προφανῇ τι .
+perseus-eng2	 Offer a man a dish that he seldom tastes, and he eats a bellyful with gusto.
+
+cts:urn:tlg0032.tlg008:1.26
+glaux1.0-sentence	67
+perseus-grc2	 κινδυνεύουσιν , ἔφη ὁ Σιμωνίδης , αἱ τῶν ἀφροδισίων μόνον ὑμῖν ἀπολαύσεις τοῦ τυραννεῖν τὰς ἐπιθυμίας παρέχειν ·
+perseus-eng2	 It seems, remarked Simonides, as if the satisfaction of the sexual appetites were the only motive that produces in you the craving for despotism.
+
+cts:urn:tlg0032.tlg008:1.26
+glaux1.0-sentence	68
+perseus-grc2	 ἐν γὰρ τούτῳ ἔξεστιν ὑμῖν ὅ τι ἂν κάλλιστον ἴδητε τούτῳ συνεῖναι .
+perseus-eng2	 For in this matter you are free to enjoy the fairest that meets your eye.
+
+cts:urn:tlg0032.tlg008:1.27
+glaux1.0-sentence	69
+perseus-grc2	 νῦν δή , ἔφη ὁ Ἱέρων , εἴρηκας ἐν ᾧ γε , σάφ’ ἴσθι , μειονεκτοῦμεν τῶν ἰδιωτῶν .
+perseus-eng2	 I assure you that we are worse off than private citizens in the matter to which you now refer.
+
+cts:urn:tlg0032.tlg008:1.27
+glaux1.0-sentence	70
+perseus-grc2	 πρῶτον μὲν γὰρ γάμος ὁ μὲν ἐκ μειζόνων δήπου καὶ πλούτῳ καὶ δυνάμει κάλλιστος δοκεῖ εἶναι καὶ παρέχειν τινὰ τῷ γήμαντι φιλοτιμίαν μεθ’ ἡδονῆς ·
+perseus-eng2	 First take marriage. It is commonly held that a marriage into a family of greater wealth and influence is most honourable, and is a source of pride and pleasure to the bridegroom.
+
+cts:urn:tlg0032.tlg008:1.27
+glaux1.0-sentence	71
+perseus-grc2	 δεύτερος δ’ ὁ ἐκ τῶν ὁμοίων ·
+perseus-eng2	 Next to that comes a marriage with equals.
+
+cts:urn:tlg0032.tlg008:1.27
+glaux1.0-sentence	72
+perseus-grc2	 ὁ δ’ ἐκ τῶν φαυλοτέρων πάνυ ἄτιμός τε καὶ ἄχρηστος νομίζεται .
+perseus-eng2	 A marriage with inferiors is considered positively degrading and useless.
+
+cts:urn:tlg0032.tlg008:1.28
+glaux1.0-sentence	73
+perseus-grc2	 τῷ τοίνυν τυράννῳ , ἂν μὴ ξένην γήμῃ , ἀνάγκη ἐκ μειόνων γαμεῖν , ὥστε τὸ ἀγαπητὸν οὐ πάνυ αὐτῷ παραγίγνεται .
+perseus-eng2	 Now unless a despot marries a foreign girl, he is bound to marry beneath him; and so the thing to be desired does not come his way.
+
+cts:urn:tlg0032.tlg008:1.28
+glaux1.0-sentence	74
+perseus-grc2	 πολὺ δὲ καὶ αἱ θεραπεῖαι αἱ ἀπὸ τῶν μέγιστον φρονουσῶν γυναικῶν εὐφραίνουσι μάλιστα , αἱ δ’ ὑπὸ δούλων παροῦσαι μὲν οὐδέν τι ἀγαπῶνται , ἐὰν δέ τι ἐλλείπωσι , δεινὰς ὀργὰς καὶ λύπας ἐμποιοῦσιν .
+perseus-eng2	 And whereas it is exceedingly pleasant to receive the attentions of the proudest of ladies, the attentions of slaves are quite unappreciated when shown, and any little shortcomings produce grievous outbursts of anger and annoyance.
+
+cts:urn:tlg0032.tlg008:1.29
+glaux1.0-sentence	75
+perseus-grc2	 ἐν δὲ τοῖς παιδικοῖς ἀφροδισίοις ἔτι αὖ πολὺ μᾶλλον ἢ ἐν τοῖς τεκνοποιοῖς μειονεκτεῖ τῶν εὐφροσυνῶν ὁ τύραννος .
+perseus-eng2	 In his relations with young boys, again, even much more than in his relations with women, the despot is at a disadvantage.
+
+cts:urn:tlg0032.tlg008:1.29
+glaux1.0-sentence	76
+perseus-grc2	 ὅτι μὲν γὰρ τὰ μετ’ ἔρωτος ἀφροδίσια πολὺ διαφερόντως εὐφραίνει πάντες δήπου ἐπιστάμεθα ·
+perseus-eng2	 We all know, I suppose, that passion increases the sweets of sex beyond measure.
+
+cts:urn:tlg0032.tlg008:1.30
+glaux1.0-sentence	77
+perseus-grc2	 ὁ δὲ ἔρως πολὺ αὖ ἐθέλει ἥκιστα τῷ τυράννῳ ἐγγίγνεσθαι .
+perseus-eng2	 Passion, however, is very shy of entering the heart of a despot,
+
+cts:urn:tlg0032.tlg008:1.30
+glaux1.0-sentence	78
+perseus-grc2	 οὐ γὰρ τῶν ἑτοίμων ἥδεται ὁ ἔρως ἐφιέμενος , ἀλλὰ τῶν ἐλπιζομένων .
+perseus-eng2	 for passion is fain to desire not the easy prize, but the hoped-for joy.
+
+cts:urn:tlg0032.tlg008:1.30
+glaux1.0-sentence	79
+perseus-grc2	 ὥσπερ οὖν εἴ τις ἄπειρος ὢν δίψους τοῦ πιεῖν οὐκ ἂν ἀπολαύοι , οὕτω καὶ ὁ ἄπειρος ὢν ἔρωτος ἄπειρός ἐστι τῶν ἡδίστων ἀφροδισίων .
+perseus-eng2	 Therefore, just as a man who is a stranger to thirst can get no satisfaction out of drinking, so he who is a stranger to passion is a stranger to the sweetest pleasures of sex.
+
+cts:urn:tlg0032.tlg008:1.31
+glaux1.0-sentence	80
+perseus-grc2	 ὁ μὲν οὖν Ἱέρων οὕτως εἶπεν .
+perseus-eng2	 To this speech of Hiero’s Simonides replied, laughing:
+
+cts:urn:tlg0032.tlg008:1.31
+glaux1.0-sentence	81
+perseus-grc2	 ὁ δὲ Σιμωνίδης ἐπιγελάσας , Πῶς λέγεις , ἔφη , ὦ Ἱέρων ;
+perseus-eng2	 How say you, Hiero?
+
+cts:urn:tlg0032.tlg008:1.31
+glaux1.0-sentence	82
+perseus-grc2	 τυράννῳ οὐ φῂς παιδικῶν ἔρωτας ἐμφύεσθαι ;
+perseus-eng2	 You deny that love for boys springs up in a despot’s heart?
+
+cts:urn:tlg0032.tlg008:1.31
+glaux1.0-sentence	83
+perseus-grc2	 πῶς μὴν σύ , ἔφη , ἐρᾷς Δαϊλόχου τοῦ καλλίστου ἐπικαλουμένου ;
+perseus-eng2	 Then how about your passion for Dailochus, whom they call most fair?
+
+cts:urn:tlg0032.tlg008:1.32
+glaux1.0-sentence	84
+perseus-grc2	 ὅτι μὰ τὸν Δί’ , ἔφη , ὦ Σιμωνίδη , οὐ τοῦ ἑτοίμου παρ’ αὐτοῦ δοκοῦντος εἶναι τυχεῖν τούτου μάλιστα ἐπιθυμῶ , ἀλλὰ τοῦ ἥκιστα τυράννῳ προσήκοντος κατεργάσασθαι .
+perseus-eng2	 Why, Simonides, the explanation, of course, is this: I desire to get from him not what I may have, apparently, for the asking, but that which a despot should be the last to take.
+
+cts:urn:tlg0032.tlg008:1.33
+glaux1.0-sentence	85
+perseus-grc2	 ἐγὼ γὰρ δὴ ἐρῶ μὲν Δαϊλόχου ὧνπερ ἴσως ἀναγκάζει ἡ φύσις ἀνθρώπου δεῖσθαι παρὰ τῶν καλῶν , τούτων δὲ ὧν ἐρῶ τυχεῖν , μετὰ μὲν φιλίας καὶ παρὰ βουλομένου πάνυ ἰσχυρῶς ἐπιθυμῶ τυγχάνειν , βίᾳ δὲ λαμβάνειν παρ’ αὐτοῦ ἧττον ἄν μοι δοκῶ ἐπιθυμεῖν ἢ ἐμαυτὸν κακόν τι ποιεῖν ·
+perseus-eng2	 The fact is, I desire of Dailochus just that which human nature, maybe, drives us to ask of the fair. But what I long to get, I very strongly desire to obtain by his goodwill, and with his consent; but I think I could sooner desire to do myself an injury than to take it from him by force.
+
+cts:urn:tlg0032.tlg008:1.34
+glaux1.0-sentence	86
+perseus-grc2	 παρὰ μὲν γὰρ πολεμίων ἀκόντων λαμβάνειν πάντων ἥδιστον ἔγωγε νομίζω εἶναι , παρὰ δὲ παιδικῶν βουλομένων ἥδισται οἶμαι αἱ χάριτές εἰσιν .
+perseus-eng2	 For to take from an enemy against his will is, I think, the greatest of all pleasures, but favours from a loved one are very pleasant, I fancy, only when he consents.
+
+cts:urn:tlg0032.tlg008:1.35
+glaux1.0-sentence	87
+perseus-grc2	 εὐθὺς γὰρ παρὰ τοῦ ἀντιφιλοῦντος ἡδεῖαι μὲν αἱ ἀντιβλέψεις , ἡδεῖαι δὲ αἱ ἐρωτήσεις , ἡδεῖαι δὲ αἱ ἀποκρίσεις , ἥδισται δὲ καὶ ἐπαφροδιτόταται αἱ μάχαι τε καὶ ἔριδες ·
+perseus-eng2	 For instance, if he is in sympathy with you, how pleasant are his looks, how pleasant his questions and his answers; how very pleasant and ravishing are the struggles and bickerings.
+
+cts:urn:tlg0032.tlg008:1.36
+glaux1.0-sentence	88
+perseus-grc2	 τὸ δὲ ἀκόντων παιδικῶν ἀπολαύειν λεηλασίᾳ , ἔφη , ἔμοιγε δοκεῖ ἐοικέναι μᾶλλον ἢ ἀφροδισίοις .
+perseus-eng2	 But to take advantage of a favourite against his will seems to me more like brigandage than love.
+
+cts:urn:tlg0032.tlg008:1.36
+glaux1.0-sentence	89
+perseus-grc2	 καίτοι τῷ μὲν λῃστῇ παρέχει τινὰς ὅμως ἡδονὰς τό τε κέρδος καὶ τὸ ἀνιᾶν τὸν ἐχθρόν ·
+perseus-eng2	 Nay, your brigand finds some pleasure in his gain and in hurting his foe;
+
+cts:urn:tlg0032.tlg008:1.36
+glaux1.0-sentence	90
+perseus-grc2	 τὸ δὲ οὗ ἂν ἐρᾷ τις τούτῳ ἥδεσθαι ἀνιωμένῳ καὶ φιλοῦντα μισεῖσθαι καὶ ἅπτεσθαι ἀχθομένου , πῶς οὐχὶ τοῦτο ἤδη δυσχερὲς τὸ πάθημα καὶ οἰκτρόν ;
+perseus-eng2	 but to feel pleasure in hurting one whom you love, to be hated for your affection, to disgust him by your touch, surely that is a mortifying experience and pitiful!
+
+cts:urn:tlg0032.tlg008:1.37
+glaux1.0-sentence	91
+perseus-grc2	 καὶ γὰρ δὴ τῷ μὲν ἰδιώτῃ εὐθὺς τεκμήριόν ἐστιν , ὅταν ὁ ἐρώμενός τι ὑπουργῇ , ὅτι ὡς φιλῶν χαρίζεται , διὰ τὸ εἰδέναι ὅτι οὐδεμιᾶς ἀνάγκης οὔσης ὑπηρετεῖ , τῷ δὲ τυράννῳ οὔποτ’ ἔστι πιστεῦσαι ὡς φιλεῖται .
+perseus-eng2	 The fact is, a private citizen has instant proof that any act of compliance on the part of his beloved is prompted by affection, since he knows that the service rendered is due to no compulsion; but the despot can never feel sure that he is loved.
+
+cts:urn:tlg0032.tlg008:1.38
+glaux1.0-sentence	92
+perseus-grc2	 ἐπιστάμεθα γὰρ δὴ τοὺς διὰ φόβον ὑπηρετοῦντας ὡς ᾗ μάλιστ’ ἂν δύνωνται ἐξεικάζουσιν αὑτοὺς ταῖς τῶν φιλούντων ὑπουργίαις .
+perseus-eng2	 For we know that acts of service prompted by fear copy as closely as possible the ministrations of affection.
+
+cts:urn:tlg0032.tlg008:1.38
+glaux1.0-sentence	93
+perseus-grc2	 καὶ τοίνυν αἱ ἐπιβουλαὶ ἐξ οὐδένων πλέονες τοῖς τυράννοις εἰσὶν ἢ ἀπὸ τῶν μάλιστα φιλεῖν αὐτοὺς προσποιησαμένων .
+perseus-eng2	 Indeed, even plots against despots as often as not are the work of those who profess the deepest affection for them.
+
+cts:urn:tlg0032.tlg008:2.1
+glaux1.0-sentence	94
+perseus-grc2	 πρὸς ταῦτα εἶπεν ὁ Σιμωνίδης ·
+perseus-eng2	 To this Simonides replied:
+
+cts:urn:tlg0032.tlg008:2.1
+glaux1.0-sentence	95
+perseus-grc2	 ἀλλὰ ταῦτα μὲν πάνυ ἔμοιγε μικρὰ δοκεῖ εἶναι ἃ σὺ λέγεις .
+perseus-eng2	 Well, the points that you raise seem to me mere trifles.
+
+cts:urn:tlg0032.tlg008:2.1
+glaux1.0-sentence	96
+perseus-grc2	 πολλοὺς γάρ , ἔφη , ἔγωγε ὁρῶ τῶν δοκούντων ἀνδρῶν εἶναι ἑκόντας μειονεκτοῦντας καὶ σίτων καὶ ποτῶν καὶ ὄψων καὶ ἀφροδισίων γε ἀπεχομένους .
+perseus-eng2	 For I notice that many respected men willingly go short in the matter of meat and drink and delicacies, and deliberately abstain from sexual indulgence.
+
+cts:urn:tlg0032.tlg008:2.2
+glaux1.0-sentence	97
+perseus-grc2	 ἀλλ’ ἐκείνῃ γε πολὺ διαφέρετε τῶν ἰδιωτῶν , ὅτι μεγάλα μὲν ἐπινοεῖτε , ταχὺ δὲ κατεργάζεσθε , πλεῖστα δὲ τὰ περιττὰ ἔχετε , κέκτησθε δὲ διαφέροντας μὲν ἀρετῇ ἵππους , διαφέροντα δὲ κάλλει ὅπλα , ὑπερέχοντα δὲ κόσμον γυναιξί , μεγαλοπρεπεστάτας δ’ οἰκίας , καὶ ταύτας κατεσκευασμένας τοῖς πλείστου ἀξίοις , ἔτι δὲ πλήθει καὶ ἐπιστήμαις θεράποντας ἀρίστους κέκτησθε , ἱκανώτατοι δ’ ἐστὲ κακῶσαι μὲν ἐχθρούς , ὀνῆσαι δὲ φίλους .
+perseus-eng2	 But I will show you where you have a great advantage over private citizens. Your objects are vast, your attainment swift: you have luxuries in abundance: you own horses unequalled in excellence, arms unmatched in beauty, superb jewelry for women, stately houses full of costly furniture: moreover you have servants many in number and excellent in accomplishments and you are rich in power to harm enemies and reward friends.    To this Hiero answered:
+
+cts:urn:tlg0032.tlg008:2.3
+glaux1.0-sentence	98
+perseus-grc2	 πρὸς ταῦτα δὲ ὁ Ἱέρων εἶπεν ·
+perseus-eng2	 In response to this Hiero said:
+
+cts:urn:tlg0032.tlg008:2.3
+glaux1.0-sentence	99
+perseus-grc2	 ἀλλὰ τὸ μὲν τὸ πλῆθος τῶν ἀνθρώπων , ὦ Σιμωνίδη , ἐξαπατᾶσθαι ὑπὸ τῆς τυραννίδος οὐδέν τι θαυμάζω ·
+perseus-eng2	 Well, Simonides, that the multitude should be deceived by despotic power surprises me not at all,
+
+cts:urn:tlg0032.tlg008:2.3
+glaux1.0-sentence	100
+perseus-grc2	 μάλα γὰρ ὁ ὄχλος μοι δοκεῖ δοξάζειν ὁρῶν καὶ εὐδαίμονάς τινας εἶναι καὶ ἀθλίους ·
+perseus-eng2	 since the mob seems to guess wholly by appearances that one man is happy, another miserable.
+
+cts:urn:tlg0032.tlg008:2.4
+glaux1.0-sentence	101
+perseus-grc2	 ἡ δὲ τυραννὶς τὰ μὲν δοκοῦντα πολλοῦ ἄξια κτήματα εἶναι ἀνεπτυγμένα θεᾶσθαι φανερὰ πᾶσι παρέχεται , τὰ δὲ χαλεπὰ ἐν ταῖς ψυχαῖς τῶν τυράννων κέκτηται ἀποκεκρυμμένα , ἔνθαπερ καὶ τὸ εὐδαιμονεῖν καὶ τὸ κακοδαιμονεῖν τοῖς ἀνθρώποις ἀπόκειται .
+perseus-eng2	 Despotism flaunts its seeming precious treasures outspread before the gaze of the world: but its troubles it keeps concealed in the heart of the despot, in the place where human happiness and unhappiness are stored away.
+
+cts:urn:tlg0032.tlg008:2.5
+glaux1.0-sentence	102
+perseus-grc2	 τὸ μὲν οὖν τὸ πλῆθος περὶ τούτου λεληθέναι , ὥσπερ εἶπον , οὐ θαυμάζω ·
+perseus-eng2	 That this escapes the observation of the multitude I say, I am not surprised.
+
+cts:urn:tlg0032.tlg008:2.5
+glaux1.0-sentence	103
+perseus-grc2	 τὸ δὲ καὶ ὑμᾶς ταῦτ’ ἀγνοεῖν , οἳ διὰ τῆς γνώμης δοκεῖτε θεᾶσθαι κάλλιον ἢ διὰ τῶν ὀφθαλμῶν τὰ πλεῖστα τῶν πραγμάτων , τοῦτό μοι δοκεῖ θαυμαστὸν εἶναι .
+perseus-eng2	 But what does seem surprising to me is that men like you, whose intelligence is supposed to give you a clearer view of most things than your eyes, should be equally blind to it.
+
+cts:urn:tlg0032.tlg008:2.6
+glaux1.0-sentence	104
+perseus-grc2	 ἐγὼ δὲ πεπειραμένος σαφῶς οἶδα , ὦ Σιμωνίδη , καὶ λέγω σοι ὅτι οἱ τύραννοι τῶν μεγίστων ἀγαθῶν ἐλάχιστα μετέχουσι , τῶν δὲ μεγίστων κακῶν πλεῖστα κέκτηνται .
+perseus-eng2	 But I know well enough by experience, Simonides, and I tell you that despots get the smallest share of the greatest blessings, and have most of the greatest evils.
+
+cts:urn:tlg0032.tlg008:2.7
+glaux1.0-sentence	105
+perseus-grc2	 αὐτίκα γὰρ εἰ μὲν εἰρήνη δοκεῖ μέγα ἀγαθὸν τοῖς ἀνθρώποις εἶναι , ταύτης ἐλάχιστον τοῖς τυράννοις μέτεστιν ·
+perseus-eng2	 Thus, for instance, if peace is held to be a greatest blessing to mankind, very little of it falls to the share of despots:
+
+cts:urn:tlg0032.tlg008:2.7
+glaux1.0-sentence	106
+perseus-grc2	 εἰ δὲ πόλεμος μέγα κακόν , τούτου πλεῖστον μέρος οἱ τύραννοι μετέχουσιν .
+perseus-eng2	 if war is a great evil, of that despots receive the largest share.
+
+cts:urn:tlg0032.tlg008:2.8
+glaux1.0-sentence	107
+perseus-grc2	 εὐθὺς γὰρ τοῖς μὲν ἰδιώταις , ἂν μὴ ἡ πόλις αὐτῶν κοινὸν πόλεμον πολεμῇ , ἔξεστιν ὅποι ἂν βούλωνται πορεύεσθαι μηδὲν φοβουμένους μή τις αὐτοὺς ἀποκτείνῃ , οἱ δὲ τύραννοι πάντες πανταχῇ ὡς διὰ πολεμίας πορεύονται .
+perseus-eng2	 To begin with, so long as their state is not engaged in a war in which all take part, private citizens are free to go wherever they choose without fear of being killed.
+
+cts:urn:tlg0032.tlg008:2.8
+glaux1.0-sentence	108
+perseus-grc2	 αὐτοί τε γοῦν ὡπλισμένοι οἴονται ἀνάγκην εἶναι διάγειν καὶ ἄλλους ὁπλοφόρους ἀεὶ συμπεριάγεσθαι .
+perseus-eng2	 But all despots move everywhere as in an enemy’s country; at any rate they think they are bound to wear arms continually themselves, and to take an armed escort about with them at all times.
+
+cts:urn:tlg0032.tlg008:2.9
+glaux1.0-sentence	109
+perseus-grc2	 ἔπειτα δὲ οἱ μὲν ἰδιῶται , ἐὰν καὶ στρατεύωνταί που εἰς πολεμίαν , ἀλλ’ οὖν ἐπειδάν γε ἔλθωσιν οἴκαδε , ἀσφάλειαν σφίσιν ἡγοῦνται εἶναι , οἱ δὲ τύραννοι ἐπειδὰν εἰς τὴν ἑαυτῶν πόλιν ἀφίκωνται , τότε ἐν πλείστοις πολεμίοις ἴσασιν ὄντες .
+perseus-eng2	 Secondly, in the event of an expedition against an enemy’s country, private citizens at least think themselves safe as soon as they have come home. But when despots reach their own city, they know that they are now among more enemies than ever.
+
+cts:urn:tlg0032.tlg008:2.10
+glaux1.0-sentence	110
+perseus-grc2	 ἐὰν δὲ δὴ καὶ ἄλλοι στρατεύωσιν εἰς τὴν πόλιν κρείττονες , ἐὰν ἔξω τοῦ τείχους ὄντες οἱ ἥττονες ἐν κινδύνῳ δοκῶσιν εἶναι , ἀλλ’ ἐπειδάν γε εἴσω τοῦ ἐρύματος ἔλθωσιν , ἐν ἀσφαλείᾳ πάντες νομίζουσι καθεστάναι , ὁ δὲ τύραννος οὐδ’ ἐπειδὰν εἴσω τῆς οἰκίας παρέλθῃ ἐν ἀκινδύνῳ ἐστίν , ἀλλ’ ἐνταῦθα δὴ καὶ μάλιστα φυλακτέον οἴεται εἶναι .
+perseus-eng2	 Again, suppose that strangers invade their city in superior force; true, the weaker are conscious of danger while they are outside the walls; yet once they are inside the fortress, all feel themselves bestowed in safety. But the despot is not out of danger even when he passes within the palace gates; nay, it is just there that he thinks he must walk most warily.
+
+cts:urn:tlg0032.tlg008:2.11
+glaux1.0-sentence	111
+perseus-grc2	 ἔπειτα τοῖς μὲν ἰδιώταις καὶ διὰ σπονδῶν καὶ δι’ εἰρήνης γίγνεται πολέμου ἀνάπαυσις , τοῖς δὲ τυράννοις οὔτε εἰρήνη ποτὲ πρὸς τοὺς τυραννευομένους γίγνεται οὔτε σπονδαῖς ἄν ποτε πιστεύσας ὁ τύραννος θαρρήσειε .
+perseus-eng2	 Once again, to private citizens a truce or peace brings rest from war; but despots are never at peace with the people subject to their despotism, and no truce can ever make a despot confident.
+
+cts:urn:tlg0032.tlg008:2.12
+glaux1.0-sentence	112
+perseus-grc2	 καὶ πόλεμοι μὲν δή εἰσιν οὕς τε αἱ πόλεις πολεμοῦσι καὶ οὓς οἱ τύραννοι πρὸς τοὺς βεβιασμένους ·
+perseus-eng2	 There are, of course, wars that are waged by states against one another, and wars waged by the despot against his oppressed subjects.
+
+cts:urn:tlg0032.tlg008:2.12
+glaux1.0-sentence	113
+perseus-grc2	 τούτων δὴ τῶν πολέμων ὅσα μὲν ἔχει χαλεπὰ ὁ ἐν ταῖς πόλεσι , ταῦτα καὶ ὁ τύραννος ἔχει ·
+perseus-eng2	 Now the hardships incidental to these wars that fall on the citizen fall also on the despot.
+
+cts:urn:tlg0032.tlg008:2.13
+glaux1.0-sentence	114
+perseus-grc2	 καὶ γὰρ ἐν ὅπλοις δεῖ εἶναι ἀμφοτέρους καὶ φυλάττεσθαι καὶ κινδυνεύειν , καὶ ἄν τι πάθωσι κακὸν ἡττηθέντες , λυποῦνται ἐπὶ τούτοις ἑκάτεροι .
+perseus-eng2	 For both must wear arms, be watchful, run risks; and the sting of a defeat is felt by both alike.
+
+cts:urn:tlg0032.tlg008:2.14
+glaux1.0-sentence	115
+perseus-grc2	 μέχρι μὲν δὴ τούτου ἴσοι οἱ πόλεμοι ·
+perseus-eng2	 So far, then, both are equally affected by wars.
+
+cts:urn:tlg0032.tlg008:2.14
+glaux1.0-sentence	116
+perseus-grc2	 ἃ δὲ ἔχουσιν ἡδέα οἱ συνόντες ταῖς πόλεσι πρὸς τὰς πόλεις , ταῦτα οὐκέτι ἔχουσιν οἱ τύραννοι .
+perseus-eng2	 But the joys that fall to the citizens of states at war are not experienced by despots.
+
+cts:urn:tlg0032.tlg008:2.15
+glaux1.0-sentence	117
+perseus-grc2	 αἱ μὲν γὰρ πόλεις δήπου ὅταν κρατήσωσι μάχῃ τῶν ἐναντίων , οὐ ῥᾴδιον εἰπεῖν ὅσην μὲν ἡδονὴν ἔχουσιν ἐν τῷ τρέψασθαι τοὺς πολεμίους , ὅσην δ’ ἐν τῷ διώκειν , ὅσην δ’ ἐν τῷ ἀποκτείνειν τοὺς πολεμίους , ὡς δὲ γαυροῦνται ἐπὶ τῷ ἔργῳ , ὡς δὲ δόξαν λαμπρὰν ἀναλαμβάνουσιν , ὡς δ’ εὐφραίνονται τὴν πόλιν νομίζοντες ηὐξηκέναι .
+perseus-eng2	 For, you know, when states defeat their foes in a battle, words fail one to describe the joy they feel in the rout of the enemy, in the pursuit, in the slaughter of the enemy. What transports of triumphant pride! What a halo of glory about them! What comfort to think that they have exalted their city!
+
+cts:urn:tlg0032.tlg008:2.16
+glaux1.0-sentence	118
+perseus-grc2	 ἕκαστος δέ τις προσποιεῖται καὶ τῆς βουλῆς μετεσχηκέναι καὶ πλείστους ἀπεκτονέναι , χαλεπὸν δὲ εὑρεῖν ὅπου οὐχὶ καὶ ἐπιψεύδονται , πλέονας φάσκοντες ἀπεκτονέναι ἢ ὅσοι ἂν τῷ ὄντι ἀποθάνωσιν ·
+perseus-eng2	 Everyone is crying: I had a share in the plan, I killed most; and it’s hard to find where they don’t revel in falsehood, claiming to have killed more than all that were really slain.
+
+cts:urn:tlg0032.tlg008:2.16
+glaux1.0-sentence	119
+perseus-grc2	 οὕτω καλόν τι αὐτοῖς δοκεῖ εἶναι τὸ πολὺ νικᾶν .
+perseus-eng2	 So glorious it seems to them to have won a great victory!
+
+cts:urn:tlg0032.tlg008:2.17
+glaux1.0-sentence	120
+perseus-grc2	 ὁ δὲ τύραννος ὅταν ὑποπτεύσῃ καὶ αἰσθανόμενος τῷ ὄντι ἀντιπραττομένους τινὰς ἀποκτείνῃ , οἶδεν ὅτι οὐκ αὔξει ὅλην τὴν πόλιν , ἐπίσταταί τε ὅτι μειόνων ἄρξει , φαιδρός τε οὐ δύναται εἶναι οὐδὲ μεγαλύνεται ἐπὶ τῷ ἔργῳ , ἀλλὰ καὶ μειοῖ καθ’ ὅσον ἂν δύνηται τὸ γεγενημένον , καὶ ἀπολογεῖται ἅμα πράττων ὡς οὐκ ἀδικῶν πεποίηκεν .
+perseus-eng2	 But when a despot harbours suspicion, and, well aware that opposition is on foot, puts the conspirators to death, he knows that he does not exalt the city as a whole; he understands that the number of his subjects will be less; he cannot look cheerful; nor does he boast himself of his achievement; nay, he belittles the occurrence as much as possible, and explains, while he is at the work, that there is nothing wrong in what he has done, so far are his deeds from seeming honourable even to himself.
+
+cts:urn:tlg0032.tlg008:2.17
+glaux1.0-sentence	121
+perseus-grc2	 οὕτως οὐδ’ αὐτῷ δοκεῖ καλὰ τὰ ποιούμενα εἶναι .
+perseus-eng2	 So far are his deeds from seeming honourable even to himself.
+
+cts:urn:tlg0032.tlg008:2.18
+glaux1.0-sentence	122
+perseus-grc2	 καὶ ὅταν ἀποθάνωσιν οὓς ἐφοβήθη , οὐδέν τι μᾶλλον τοῦτο θαρρεῖ , ἀλλὰ φυλάττεται ἔτι μᾶλλον ἢ τὸ πρόσθεν .
+perseus-eng2	 Even the death of those whom he feared does not restore him to confidence; he is yet more on his guard afterwards than before.
+
+cts:urn:tlg0032.tlg008:2.18
+glaux1.0-sentence	123
+perseus-grc2	 καὶ πόλεμον μὲν δὴ τοιοῦτον ἔχων διατελεῖ ὁ τύραννος ὃν ἐγὼ δηλῶ .
+perseus-eng2	 And now I have shown you the kind of war that a despot wages continually.
+
+cts:urn:tlg0032.tlg008:3.1
+glaux1.0-sentence	124
+perseus-grc2	 φιλίας δ’ αὖ καταθέασαι ὡς κοινωνοῦσιν οἱ τύραννοι .
+perseus-eng2	 Turn next to friendship, and behold how despots share in it.
+
+cts:urn:tlg0032.tlg008:3.1
+glaux1.0-sentence	125
+perseus-grc2	 πρῶτον μὲν εἰ μέγα ἀγαθὸν ἀνθρώποις ἡ φιλία , τοῦτο ἐπισκεψώμεθα .
+perseus-eng2	 First let us consider whether friendship is a great blessing to mankind.
+
+cts:urn:tlg0032.tlg008:3.2
+glaux1.0-sentence	126
+perseus-grc2	 ὃς γὰρ ἂν φιλῆται δήπου ὑπό τινων , ἡδέως μὲν τοῦτον οἱ φιλοῦντες παρόντα ὁρῶσιν , ἡδέως δ’ εὖ ποιοῦσι , ποθοῦσι δέ , ἤν που ἀπῇ , ἥδιστα δὲ πάλιν προσιόντα δέχονται , συνήδονται δ’ ἐπὶ τοῖς αὐτοῦ ἀγαθοῖς , συνεπικουροῦσι δέ , ἐάν τι σφαλλόμενον ὁρῶσιν .
+perseus-eng2	 When a man is loved by friends, I take it, they rejoice at his presence, delight to do him good, miss him when he is absent, greet him most joyfully on his return, rejoice with him in his good fortune, unite in aiding him when they see him tripping.
+
+cts:urn:tlg0032.tlg008:3.3
+glaux1.0-sentence	127
+perseus-grc2	 οὐ μὲν δὴ λέληθεν οὐδὲ τὰς πόλεις ὅτι ἡ φιλία μέγιστον ἀγαθὸν καὶ ἥδιστον ἀνθρώποις ἐστί ·
+perseus-eng2	 Even states are not blind to the fact that friendship is a very great blessing, and very delightful to men.
+
+cts:urn:tlg0032.tlg008:3.3
+glaux1.0-sentence	128
+perseus-grc2	 μόνους γοῦν τοὺς μοιχοὺς νομίζουσι πολλαὶ τῶν πόλεων νηποινεὶ ἀποκτείνειν , δῆλον ὅτι διὰ ταῦτα ὅτι λυμαντῆρας αὐτοὺς νομίζουσι τῆς τῶν γυναικῶν φιλίας πρὸς τοὺς ἄνδρας εἶναι .
+perseus-eng2	 At any rate, many states have a law that adulterers only may be put to death with impunity, obviously for this reason, because they believe them to be destroyers of the wife’s friendship with her husband;
+
+cts:urn:tlg0032.tlg008:3.4
+glaux1.0-sentence	129
+perseus-grc2	 ἐπεὶ ὅταν γε ἀφροδισιασθῇ κατὰ συμφοράν τινα γυνή , οὐδὲν ἧττον τούτου ἕνεκεν τιμῶσιν αὐτὰς οἱ ἄνδρες , ἐάνπερ ἡ φιλία δοκῇ αὐταῖς ἀκήρατος διαμένειν ·
+perseus-eng2	 although, when a woman’s lapse is the result of some accident, husbands do not honour their wives any less on that account, provided that wives seem to reserve their affection unblemished.
+
+cts:urn:tlg0032.tlg008:3.5
+glaux1.0-sentence	130
+perseus-grc2	 τοσοῦτον δέ τι ἀγαθὸν κρίνω ἔγωγε τὸ φιλεῖσθαι εἶναι ὥστε νομίζω τῷ ὄντι αὐτόματα τ- ἀγαθὰ τῷ φιλουμένῳ γίγνεσθαι καὶ παρὰ θεῶν καὶ παρὰ ἀνθρώπων ·
+perseus-eng2	 In my judgment, to be loved is a blessing so precious that I believe good things fall literally of themselves on him who is loved from gods and men alike.
+
+cts:urn:tlg0032.tlg008:3.6
+glaux1.0-sentence	131
+perseus-grc2	 καὶ τούτου τοίνυν τοῦ κτήματος τοιούτου ὄντος μειονεκτοῦσιν οἱ τύραννοι πάντων μάλιστα .
+perseus-eng2	 Such, then, is the nature of this possession — a possession wherein despots above all other men are stinted.
+
+cts:urn:tlg0032.tlg008:3.6
+glaux1.0-sentence	132
+perseus-grc2	 εἰ δὲ βούλει , ὦ Σιμωνίδη , εἰδέναι ὅτι ἀληθῆ λέγω , ὧδε ἐπίσκεψαι .
+perseus-eng2	 If you want to know that I am speaking the truth, Simonides, consider the question in this way.
+
+cts:urn:tlg0032.tlg008:3.7
+glaux1.0-sentence	133
+perseus-grc2	 βεβαιόταται μὲν γὰρ δήπου δοκοῦσι φιλίαι εἶναι γονεῦσι πρὸς παῖδας καὶ παισὶ πρὸς γονέας καὶ ἀδελφοῖς πρὸς ἀδελφοὺς καὶ γυναιξὶ πρὸς ἄνδρας καὶ ἑταίροις πρὸς ἑταίρους ·
+perseus-eng2	 The firmest friendships, I take it, are supposed to be those that unite parents to children, children to parents, wives to husbands, comrades to comrades.
+
+cts:urn:tlg0032.tlg008:3.8
+glaux1.0-sentence	134
+perseus-grc2	 εἰ τοίνυν ἐθέλεις κατανοεῖν , εὑρήσεις τοὺς μὲν ἰδιώτας ὑπὸ τούτων μάλιστα φιλουμένους , τοὺς δὲ τυράννους πολλοὺς μὲν παῖδας ἑαυτῶν ἀπεκτονότας , πολλοὺς δ’ ὑπὸ παίδων αὐτοὺς ἀπολωλότας , πολλοὺς δὲ ἀδελφοὺς ἐν τυραννίσιν ἀλληλοφόνους γεγενημένους , πολλοὺς δὲ καὶ ὑπὸ γυναικῶν τῶν ἑαυτῶν τυράννους διεφθαρμένους καὶ ὑπὸ ἑταίρων γε τῶν μάλιστα δοκούντων φίλων εἶναι .
+perseus-eng2	 Now you will find, if you will but observe, that private citizens are, in fact, loved most deeply by these. But what of despots? Many have slain their own children; many have themselves been murdered by their children; many brothers, partners in despotism, have perished by each other’s hand; many have been destroyed even by their own wives, aye, and by comrades whom they accounted their closest friends.
+
+cts:urn:tlg0032.tlg008:3.9
+glaux1.0-sentence	135
+perseus-grc2	 οἵτινες οὖν ὑπὸ τῶν φύσει πεφυκότων μάλιστα φιλεῖν καὶ νόμῳ συνηναγκασμένων οὕτω μισοῦνται , πῶς ὑπ’ ἄλλου γέ τινος οἴεσθαι χρὴ αὐτοὺς φιλεῖσθαι ;
+perseus-eng2	 Seeing, then, that they are so hated by those who are bound by natural ties and constrained by custom to love them most, how are we to suppose that they are loved by any other being?
+
+cts:urn:tlg0032.tlg008:4.1
+glaux1.0-sentence	136
+perseus-grc2	 ἀλλὰ μὴν καὶ πίστεως ὅστις ἐλάχιστον μετέχει , πῶς οὐχὶ μεγάλου ἀγαθοῦ μειονεκτεῖ ;
+perseus-eng2	 Next take confidence. Surely he who has very little of that is stinted in a great blessing?
+
+cts:urn:tlg0032.tlg008:4.1
+glaux1.0-sentence	137
+perseus-grc2	 ποία μὲν γὰρ ξυνουσία ἡδεῖα ἄνευ πίστεως τῆς πρὸς ἀλλήλους , ποία δ’ ἀνδρὶ καὶ γυναικὶ τερπνὴ ἄνευ πίστεως ὁμιλία , ποῖος δὲ θεράπων ἡδὺς ἀπιστούμενος ;
+perseus-eng2	 What companionship is pleasant without mutual trust? What intercourse between husband and wife is delightful without confidence? What squire is pleasant if he is not trusted?
+
+cts:urn:tlg0032.tlg008:4.2
+glaux1.0-sentence	138
+perseus-grc2	 καὶ τούτου τοίνυν τοῦ πιστῶς πρός τινας ἔχειν ἐλάχιστον μέτεστι τυράννῳ ·
+perseus-eng2	 Now of this confidence in others despots enjoy the smallest share.
+
+cts:urn:tlg0032.tlg008:4.2
+glaux1.0-sentence	139
+perseus-grc2	 ὁπότε γε οὐδὲ σιτίοις καὶ ποτοῖς πιστεύων διάγει , ἀλλὰ καὶ τούτων πρὶν ἀπάρχεσθαι τοῖς θεοῖς τοὺς διακόνους πρῶτον κελεύουσιν ἀπογεύεσθαι διὰ τὸ ἀπιστεῖν μὴ καὶ ἐν τούτοις κακόν τι φάγωσιν ἢ πίωσιν ·
+perseus-eng2	 They go in constant suspicion even of their meat and drink; they bid their servitors taste them first, before the libation is offered to the gods, because of their misgiving that they may sup poison in the dish or the bowl.
+
+cts:urn:tlg0032.tlg008:4.3
+glaux1.0-sentence	140
+perseus-grc2	 ἀλλὰ μὴν καὶ αἱ πατρίδες τοῖς μὲν ἄλλοις ἀνθρώποις πλείστου ἄξιαι .
+perseus-eng2	 Again, to all other men their fatherland is very precious.
+
+cts:urn:tlg0032.tlg008:4.3
+glaux1.0-sentence	141
+perseus-grc2	 πολῖται γὰρ δορυφοροῦσι μὲν ἀλλήλους ἄνευ μισθοῦ ἐπὶ τοὺς δούλους , δορυφοροῦσι δ’ ἐπὶ τοὺς κακούργους , ὑπὲρ τοῦ μηδένα τῶν πολιτῶν βιαίῳ θανάτῳ ἀποθνῄσκειν .
+perseus-eng2	 For citizens ward one another without pay from their slaves and from evildoers, to the end that none of the citizens may perish by a violent death.
+
+cts:urn:tlg0032.tlg008:4.4
+glaux1.0-sentence	142
+perseus-grc2	 οὕτω δὲ πόρρω προεληλύθασι φυλακῆς ὥστε πεποίηνται πολλοὶ νόμον τῷ μιαιφόνῳ μηδὲ τὸν συνόντα καθαρεύειν ·
+perseus-eng2	 They have gone so far in measures of precaution that many have made a law whereby even the companion of the bloodguilty is deemed impure;
+
+cts:urn:tlg0032.tlg008:4.4
+glaux1.0-sentence	143
+perseus-grc2	 ὥστε διὰ τὰς πατρίδας ἀσφαλῶς ἕκαστος βιοτεύει τῶν πολιτῶν .
+perseus-eng2	 and so — thanks to the fatherland — every citizen lives in security.
+
+cts:urn:tlg0032.tlg008:4.5
+glaux1.0-sentence	144
+perseus-grc2	 τοῖς δὲ τυράννοις καὶ τοῦτο ἔμπαλιν ἀνέστραπται .
+perseus-eng2	 But for despots the position is the reverse in this case too.
+
+cts:urn:tlg0032.tlg008:4.5
+glaux1.0-sentence	145
+perseus-grc2	 ἀντὶ γὰρ τοῦ τιμωρεῖν αἱ πόλεις αὐτοῖς μεγάλως τιμῶσι τὸν ἀποκτείναντα τὸν τύραννον , καὶ ἀντί γε τοῦ εἴργειν ἐκ τῶν ἱερῶν , ὥσπερ τοὺς τῶν ἰδιωτῶν φονέας , ἀντὶ τούτου καὶ εἰκόνας ἐν τοῖς ἱεροῖς ἱστᾶσιν αἱ πόλεις τῶν τοιοῦτόν τι ποιησάντων .
+perseus-eng2	 Instead of avenging them, the cities heap honours on the slayer of the despot; and, whereas they exclude the murderers of private persons from the temples, the cities, so far from treating assassins in the same manner, actually put up statues of them in the holy places.
+
+cts:urn:tlg0032.tlg008:4.6
+glaux1.0-sentence	146
+perseus-grc2	 εἰ δὲ σὺ οἴει ὡς πλείω ἔχων τῶν ἰδιωτῶν κτήματα ὁ τύραννος διὰ τοῦτο καὶ πλείω ἀπ’ αὐτῶν εὐφραίνεται , οὐδὲ τοῦτο οὕτως ἔχει , ὦ Σιμωνίδη , ἀλλ’ ὥσπερ οἱ ἀθληταὶ οὐχ ὅταν ἰδιωτῶν γένωνται κρείττονες , τοῦτ’ αὐτοὺς εὐφραίνει , ἀλλ’ ὅταν τῶν ἀνταγωνιστῶν ἥττους , τοῦτ’ αὐτοὺς ἀνιᾷ , οὕτω καὶ ὁ τύραννος οὐχ ὅταν τῶν ἰδιωτῶν πλείω φαίνηται ἔχων , τότ’ εὐφραίνεται , ἀλλ’ ὅταν ἑτέρων τυράννων ἐλάττω ἔχῃ , τούτῳ λυπεῖται ·
+perseus-eng2	 If you suppose that just because he has more possessions than the private citizen, the despot gets more enjoyment out of them, this is not so either, Simonides.
+
+cts:urn:tlg0032.tlg008:4.6
+glaux1.0-sentence	147
+perseus-grc2	 τούτους γὰρ ἀνταγωνιστὰς ἡγεῖται αὑτῷ τοῦ πλούτου εἶναι .
+perseus-eng2	 Trained athletes feel no pleasure when they prove superior to amateurs, but they are cut to the quick when they are beaten by a rival athlete; in like manner the despot feels no pleasure when he is seen to possess more than private citizens, but is vexed when he has less than other despots; for he regards them as his rivals in wealth.
+
+cts:urn:tlg0032.tlg008:4.7
+glaux1.0-sentence	148
+perseus-grc2	 οὐδέ γε θᾶττόν τι γίγνεται τῷ τυράννῳ ἢ τῷ ἰδιώτῃ ὧν ἐπιθυμεῖ .
+perseus-eng2	 Nor even does the despot gain the object of his desire any quicker than the private citizen.
+
+cts:urn:tlg0032.tlg008:4.7
+glaux1.0-sentence	149
+perseus-grc2	 ὁ μὲν γὰρ ἰδιώτης οἰκίας ἢ ἀγροῦ ἢ οἰκέτου ἐπιθυμεῖ , ὁ δὲ τύραννος ἢ πόλεων ἢ χώρας πολλῆς ἢ λιμένων ἢ ἀκροπόλεων ἰσχυρῶν , ἅ ἐστι πολὺ χαλεπώτερα καὶ ἐπικινδυνότερα κατεργάσασθαι τῶν ἰδιωτικῶν ἐπιθυμημάτων .
+perseus-eng2	 For the private citizen desires a house or a farm or a servant; but the despot covets cities or wide territory or harbours or strong citadels, and these are far more difficult and perilous to acquire than the objects that attract the citizen.
+
+cts:urn:tlg0032.tlg008:4.8
+glaux1.0-sentence	150
+perseus-grc2	 ἀλλὰ μέντοι καὶ πένητας ὄψει οὐχ οὕτως ὀλίγους τῶν ἰδιωτῶν ὡς πολλοὺς τῶν τυράννων .
+perseus-eng2	 And, moreover, you will find that even poverty is rarer among private citizens than among despots.
+
+cts:urn:tlg0032.tlg008:4.8
+glaux1.0-sentence	151
+perseus-grc2	 οὐ γὰρ τῷ ἀριθμῷ οὔτε τὰ πολλὰ κρίνεται οὔτε τὰ ὀλίγα , ἀλλὰ πρὸς τὰς χρήσεις ·
+perseus-eng2	 For much and little are to be measured not by number, but in relation to the owner’s needs;
+
+cts:urn:tlg0032.tlg008:4.8
+glaux1.0-sentence	152
+perseus-grc2	 ὥστε τὰ μὲν ὑπερβάλλοντα τὰ ἱκανὰ πολλά ἐστι , τὰ δὲ τῶν ἱκανῶν ἐλλείποντα ὀλίγα .
+perseus-eng2	 so that what is more than enough is much, and what is less than enough is little.
+
+cts:urn:tlg0032.tlg008:4.9
+glaux1.0-sentence	153
+perseus-grc2	 τῷ οὖν τυράννῳ τὰ πολλαπλάσια ἧττον ἱκανά ἐστιν εἰς τὰ ἀναγκαῖα δαπανήματα ἢ τῷ ἰδιώτῃ .
+perseus-eng2	 Therefore, the despot with his abundance of wealth has less to meet his necessary expenses than the private citizen.
+
+cts:urn:tlg0032.tlg008:4.9
+glaux1.0-sentence	154
+perseus-grc2	 τοῖς μὲν γὰρ ἰδιώταις ἔξεστι τὰς δαπάνας συντέμνειν εἰς τὰ καθ’ ἡμέραν ὅπῃ βούλονται , τοῖς δὲ τυράννοις οὐκ ἐνδέχεται .
+perseus-eng2	 For while private citizens can cut down the daily expenditure as they please, despots cannot,
+
+cts:urn:tlg0032.tlg008:4.9
+glaux1.0-sentence	155
+perseus-grc2	 αἱ γὰρ μέγισται αὐτοῖς δαπάναι καὶ ἀναγκαιόταται εἰς τὰς τῆς ψυχῆς φυλακάς εἰσι ·
+perseus-eng2	 since the largest items in their expenses and the most essential are the sums they spend on the life-guards,
+
+cts:urn:tlg0032.tlg008:4.9
+glaux1.0-sentence	156
+perseus-grc2	 τὸ δὲ τούτων τι συντέμνειν ὄλεθρος δοκεῖ εἶναι .
+perseus-eng2	 and to curtail any of these means ruin.
+
+cts:urn:tlg0032.tlg008:4.10
+glaux1.0-sentence	157
+perseus-grc2	 ἔπειτα δὲ ὅσοι μὲν δύνανται ἔχειν ἀπὸ τοῦ δικαίου ὅσων δέονται , τί ἂν τούτους οἰκτίροι τις ὡς πένητας ;
+perseus-eng2	 Besides, when men can have all they need by honest means, why pity them as though they were poor?
+
+cts:urn:tlg0032.tlg008:4.10
+glaux1.0-sentence	158
+perseus-grc2	 ὅσοι δ’ ἀναγκάζονται δι’ ἔνδειαν κακόν τι καὶ αἰσχρὸν μηχανώμενοι ζῆν , πῶς οὐ τούτους ἀθλίους ἄν τις καὶ πένητας δικαίως νομίζοι ;
+perseus-eng2	 May not those who through want of money are driven to evil and unseemly expedients in order to live, more justly be accounted wretched and poverty-stricken?
+
+cts:urn:tlg0032.tlg008:4.11
+glaux1.0-sentence	159
+perseus-grc2	 οἱ τύραννοι τοίνυν ἀναγκάζονται πλεῖστα συλᾶν ἀδίκως καὶ ἱερὰ καὶ ἀνθρώπους διὰ τὸ εἰς τὰς ἀναγκαίας δαπάνας ἀεὶ προσδεῖσθαι χρημάτων .
+perseus-eng2	 Now, despots are not seldom forced into the crime of robbing temples and their fellow men through chronic want of cash to meet their necessary expenses.
+
+cts:urn:tlg0032.tlg008:4.11
+glaux1.0-sentence	160
+perseus-grc2	 ὥσπερ γὰρ πολέμου ὄντος ἀεὶ ἀναγκάζονται στράτευμα τρέφειν ἢ ἀπολωλέναι .
+perseus-eng2	 Living, as it were, in a perpetual state of war, they are forced to maintain an army, or they perish.
+
+cts:urn:tlg0032.tlg008:5.1
+glaux1.0-sentence	161
+perseus-grc2	 χαλεπὸν δ’ ἐρῶ σοι καὶ ἄλλο πάθημα , ὦ Σιμωνίδη , τῶν τυράννων .
+perseus-eng2	 Despots are oppressed by yet another trouble, Simonides, which I will tell you of.
+
+cts:urn:tlg0032.tlg008:5.1
+glaux1.0-sentence	162
+perseus-grc2	 γιγνώσκουσι μὲν γὰρ οὐδὲν ἧττον τῶν ἰδιωτῶν τοὺς ἀλκίμους τε καὶ σοφοὺς καὶ δικαίους .
+perseus-eng2	 They recognize a stout-hearted, a wise or an upright man as easily as private citizens do.
+
+cts:urn:tlg0032.tlg008:5.1
+glaux1.0-sentence	163
+perseus-grc2	 τούτους δ’ ἀντὶ τοῦ ἄγασθαι φοβοῦνται , τοὺς μὲν ἀνδρείους , μή τι τολμήσωσι τῆς ἐλευθερίας ἕνεκεν , τοὺς δὲ σοφούς , μή τι μηχανήσωνται , τοὺς δὲ δικαίους , μὴ ἐπιθυμήσῃ τὸ πλῆθος ὑπ’ αὐτῶν προστατεῖσθαι .
+perseus-eng2	 But instead of admiring such men, they fear them, — the brave lest they strike a bold stroke for freedom, the wise lest they hatch a plot, the upright lest the people desire them for leaders.
+
+cts:urn:tlg0032.tlg008:5.2
+glaux1.0-sentence	164
+perseus-grc2	 ὅταν δὲ τοὺς τοιούτους διὰ τὸν φόβον ὑπεξαιρῶνται , τίνες ἄλλοι αὐτοῖς καταλείπονται χρῆσθαι ἀλλ’ ἢ οἱ ἄδικοί τε καὶ ἀκρατεῖς καὶ ἀνδραποδώδεις ;
+perseus-eng2	 When they get rid of such men through fear, who are left for their use, save only the unrighteous, the vicious and the servile,
+
+cts:urn:tlg0032.tlg008:5.2
+glaux1.0-sentence	165
+perseus-grc2	 οἱ μὲν ἄδικοι πιστευόμενοι , διότι φοβοῦνται ὥσπερ οἱ τύραννοι τὰς πόλεις μήποτε ἐλεύθεραι γενόμεναι ἐγκρατεῖς αὐτῶν γένωνται , οἱ δ’ ἀκρατεῖς τῆς εἰς τὸ παρὸν ἐξουσίας ἕνεκα , οἱ δ’ ἀνδραποδώδεις , διότι οὐδ’ αὐτοὶ ἀξιοῦσιν ἐλεύθεροι εἶναι .
+perseus-eng2	 the unrighteous being trusted because, like the despots, they fear that the cities may some day shake off the yoke and prove their masters, the vicious on account of the licence they enjoy as things are, the servile because even they themselves have no desire for freedom?
+
+cts:urn:tlg0032.tlg008:5.2
+glaux1.0-sentence	166
+perseus-grc2	 χαλεπὸν οὖν καὶ τοῦτο τὸ πάθημα ἔμοιγε δοκεῖ εἶναι , τὸ ἄλλους μὲν ἡγεῖσθαι ἀγαθοὺς ἄνδρας , ἄλλοις δὲ χρῆσθαι ἀναγκάζεσθαι .
+perseus-eng2	 This too, then, is a heavy trouble, in my opinion, to see the good in some men, and yet perforce to employ others.
+
+cts:urn:tlg0032.tlg008:5.3
+glaux1.0-sentence	167
+perseus-grc2	 ἔτι δὲ φιλόπολιν μὲν ἀνάγκη καὶ τὸν τύραννον εἶναι ·
+perseus-eng2	 Furthermore, even a despot must needs love his city,
+
+cts:urn:tlg0032.tlg008:5.3
+glaux1.0-sentence	168
+perseus-grc2	 ἄνευ γὰρ τῆς πόλεως οὔτ’ ἂν σῴζεσθαι δύναιτο οὔτ’ εὐδαιμονεῖν ·
+perseus-eng2	 for without the city he can enjoy neither safety nor happiness.
+
+cts:urn:tlg0032.tlg008:5.3
+glaux1.0-sentence	169
+perseus-grc2	 ἡ δὲ τυραννὶς ἀναγκάζει καὶ ταῖς ἑαυτῶν πατρίσιν ἐνοχλεῖν .
+perseus-eng2	 But despotism forces him to find fault even with his fatherland.
+
+cts:urn:tlg0032.tlg008:5.3
+glaux1.0-sentence	170
+perseus-grc2	 οὔτε γὰρ ἀλκίμους οὔτ’ εὐόπλους χαίρουσι τοὺς πολίτας παρασκευάζοντες , ἀλλὰ τοὺς ξένους δεινοτέρους τῶν πολιτῶν ποιοῦντες ἥδονται μᾶλλον καὶ τούτοις χρῶνται δορυφόροις .
+perseus-eng2	 For he has no pleasure in seeing that the citizens are stout-hearted and well armed; rather he delights to make the foreigners more formidable than the citizens, and these he employs as a body-guard.
+
+cts:urn:tlg0032.tlg008:5.4
+glaux1.0-sentence	171
+perseus-grc2	 ἀλλὰ μὴν οὐδ’ ἂν εὐετηριῶν γενομένων ἀφθονία τῶν ἀγαθῶν γίγνηται , οὐδὲ τότε συγχαίρει ὁ τύραννος .
+perseus-eng2	 Again, even when favourable seasons yield abundance of good things, the despot is a stranger to the general joy;
+
+cts:urn:tlg0032.tlg008:5.4
+glaux1.0-sentence	172
+perseus-grc2	 ἐνδεεστέροις γὰρ οὖσι ταπεινοτέροις αὐτοῖς οἴονται χρῆσθαι .
+perseus-eng2	 for the needier the people, the humbler he thinks to find them.
+
+cts:urn:tlg0032.tlg008:6.1
+glaux1.0-sentence	173
+perseus-grc2	 βούλομαι δέ σοι , ἔφη , ὦ Σιμωνίδη , κ- ἐκείνας τὰς εὐφροσύνας δηλῶσαι ὅσαις ἐγὼ χρώμενος ὅτ’ ἦν ἰδιώτης , νῦν ἐπειδὴ τύραννος ἐγενόμην , αἰσθάνομαι στερόμενος αὐτῶν .
+perseus-eng2	 But now, Simonides,  he continued,  I want to show you all those delights that were mine when I was a private citizen, but which I now find are withheld from me since the day I became a despot.
+
+cts:urn:tlg0032.tlg008:6.2
+glaux1.0-sentence	174
+perseus-grc2	 ἐγὼ γὰρ ξυνῆν μὲν ἡλικιώταις ἡδόμενος ἡδομένοις ἐμοί , συνῆν δὲ ἐμαυτῷ , ὁπότε ἡσυχίας ἐπιθυμήσαιμι , διῆγον δ’ ἐν συμποσίοις πολλάκις μὲν μέχρι τοῦ ἐπιλαθέσθαι πάντων εἴ τι χαλεπὸν ἐν ἀνθρωπίνῳ βίῳ ἦν , πολλάκις δὲ μέχρι τοῦ ᾠδαῖς τε καὶ θαλίαις καὶ χοροῖς τὴν ψυχὴν συγκαταμιγνύναι , πολλάκις δὲ μέχρι κοίτης ἐπιθυμίας ἐμῆς τε καὶ τῶν παρόντων .
+perseus-eng2	 I communed with my fellows then: they pleased me and I pleased them. I communed with myself whenever I desired rest. I passed the time in carousing, often till I forgot all the troubles of mortal life, often till my soul was absorbed in songs and revels and dances, often till the desire of sleep fell on me and all the company.
+
+cts:urn:tlg0032.tlg008:6.3
+glaux1.0-sentence	175
+perseus-grc2	 νῦν δὲ ἀπεστέρημαι μὲν τῶν ἡδομένων ἐμοὶ διὰ τὸ δούλους ἀντὶ φίλων ἔχειν τοὺς ἑταίρους , ἀπεστέρημαι δ’ αὖ τοῦ ἡδέως ἐκείνοις ὁμιλεῖν διὰ τὸ μηδεμίαν ἐνορᾶν εὔνοιαν ἐμοὶ παρ’ αὐτῶν ·
+perseus-eng2	 But now I am cut off from those who had pleasure in me, since slaves instead of friends are my comrades;
+
+cts:urn:tlg0032.tlg008:6.3
+glaux1.0-sentence	176
+perseus-grc2	 μέθην δὲ καὶ ὕπνον ὁμοίως ἐνέδρᾳ φυλάττομαι .
+perseus-eng2	 I am cut off from my pleasant intercourse with them, since I see in them no sign of good-will towards me. Drink and sleep I avoid as a snare.
+
+cts:urn:tlg0032.tlg008:6.4
+glaux1.0-sentence	177
+perseus-grc2	 τὸ δὲ φοβεῖσθαι μὲν ὄχλον , φοβεῖσθαι δ’ ἐρημίαν , φοβεῖσθαι δὲ ἀφυλαξίαν , φοβεῖσθαι δὲ καὶ αὐτοὺς τοὺς φυλάττοντας , καὶ μήτ’ ἀόπλους ἔχειν ἐθέλειν περὶ αὑτὸν μήθ’ ὡπλισμένους ἡδέως θεᾶσθαι , πῶς οὐκ ἀργαλέον ἐστὶ πρᾶγμα ;
+perseus-eng2	 To fear a crowd, and yet fear solitude, to fear to go unguarded, and yet fear the very men who guard you, to recoil from attendants unarmed and yet dislike to see them armed — surely that is a cruel predicament!
+
+cts:urn:tlg0032.tlg008:6.5
+glaux1.0-sentence	178
+perseus-grc2	 ἔτι δὲ ξένοις μὲν μᾶλλον ἢ πολίταις πιστεύειν , βαρβάροις δὲ μᾶλλον ἢ Ἕλλησιν , ἐπιθυμεῖν δὲ τοὺς μὲν ἐλευθέρους δούλους ἔχειν , τοὺς δὲ δούλους ἀναγκάζεσθαι ποιεῖν ἐλευθέρους , οὐ πάντα σοι ταῦτα δοκεῖ ψυχῆς ὑπὸ φόβων καταπεπληγμένης τεκμήρια εἶναι ;
+perseus-eng2	 And then, to trust foreigners more than citizens, strangers more than Greeks, to long to keep free men slaves, and yet be forced to make slaves free — do you not think that all these are sure tokens of a soul that is crushed with fear?
+
+cts:urn:tlg0032.tlg008:6.6
+glaux1.0-sentence	179
+perseus-grc2	 ὅ γέ τοι φόβος οὐ μόνον αὐτὸς ἐνὼν ταῖς ψυχαῖς λυπηρός ἐστιν , ἀλλὰ καὶ πάντων τῶν ἡδέων συμπαρακολουθῶν λυμεὼν γίγνεται .
+perseus-eng2	 Fear, you know, is not only painful in itself by reason of its presence in the soul, but by haunting us even in our pleasures it spoils them utterly.
+
+cts:urn:tlg0032.tlg008:6.7
+glaux1.0-sentence	180
+perseus-grc2	 εἰ δὲ καὶ σὺ πολεμικῶν ἔμπειρος εἶ , ὦ Σιμωνίδη , καὶ ἤδη ποτὲ πολεμίᾳ φάλαγγι πλησίον ἀντετάξω , ἀναμνήσθητι ποῖον μέν τινα σῖτον ᾑροῦ ἐν ἐκείνῳ τῷ χρόνῳ , ποῖον δέ τινα ὕπνον ἐκοιμῶ .
+perseus-eng2	 If, like me, you are acquainted with war, Simonides, and ever had the enemy’s battle-line close in front of you, call to mind what sort of food you ate at that time, and what sort of sleep you slept.
+
+cts:urn:tlg0032.tlg008:6.8
+glaux1.0-sentence	181
+perseus-grc2	 οἷα μέντοι σοὶ τότ’ ἦν τὰ λυπηρά , τοιαῦτά ἐστι τὰ τῶν τυράννων καὶ ἔτι δεινότερα ·
+perseus-eng2	 I tell you, the pains that despots suffer are such as you suffered then. Nay, they are still more terrible;
+
+cts:urn:tlg0032.tlg008:6.8
+glaux1.0-sentence	182
+perseus-grc2	 οὐ γὰρ ἐξ ἐναντίας μόνον , ἀλλὰ καὶ πάντοθεν πολεμίους ὁρᾶν νομίζουσιν οἱ τύραννοι .
+perseus-eng2	 for despots believe that they see enemies not in front alone, but all around them.    To this Simonides made answer:
+
+cts:urn:tlg0032.tlg008:6.9
+glaux1.0-sentence	183
+perseus-grc2	 ταῦτα δ’ ἀκούσας ὁ Σιμωνίδης ὑπολαβὼν εἶπεν ·
+perseus-eng2	 These statements drew from Simonides the following reply:
+
+cts:urn:tlg0032.tlg008:6.9
+glaux1.0-sentence	184
+perseus-grc2	 ὑπέρευ μοι δοκεῖς ἔνια λέγειν .
+perseus-eng2	 Excellent words in part, I grant!
+
+cts:urn:tlg0032.tlg008:6.9
+glaux1.0-sentence	185
+perseus-grc2	 ὁ γὰρ πόλεμος φοβερὸν μέν , ἀλλ’ ὅμως , ὦ Ἱέρων , ἡμεῖς γε ὅταν ὦμεν ἐν στρατείᾳ , φύλακας προκαθιστάμενοι θαρραλέως δείπνου τε καὶ ὕπνου λαγχάνομεν .
+perseus-eng2	 War is indeed a fearsome thing: nevertheless, Hiero, our way, when we are on active service, is this: we post sentries to guard us, and sup and sleep with a good courage.
+
+cts:urn:tlg0032.tlg008:6.10
+glaux1.0-sentence	186
+perseus-grc2	 καὶ ὁ Ἱέρων ἔφη ·
+perseus-eng2	 Then Hiero answered:
+
+cts:urn:tlg0032.tlg008:6.10
+glaux1.0-sentence	187
+perseus-grc2	 ναὶ μὰ Δία , ὦ Σιμωνίδη ·
+perseus-eng2	 No doubt you do, Simonides!
+
+cts:urn:tlg0032.tlg008:6.10
+glaux1.0-sentence	188
+perseus-grc2	 αὐτῶν μὲν γὰρ προφυλάττουσιν οἱ νόμοι , ὥστε περὶ ἑαυτῶν φοβοῦνται καὶ ὑπὲρ ὑμῶν ·
+perseus-eng2	 For your sentries have sentries in front of them — the laws, — and so they fear for their own skins and relieve you of fear.
+
+cts:urn:tlg0032.tlg008:6.10
+glaux1.0-sentence	189
+perseus-grc2	 οἱ δὲ τύραννοι μισθοῦ φύλακας ἔχουσιν ὥσπερ θεριστάς .
+perseus-eng2	 But despots hire their guards like harvesters.
+
+cts:urn:tlg0032.tlg008:6.11
+glaux1.0-sentence	190
+perseus-grc2	 καὶ δεῖ μὲν δήπου τοὺς φύλακας μηδὲν οὕτω ποιεῖν δύνασθαι ὡς πιστοὺς εἶναι ·
+perseus-eng2	 Now the chief qualification required in the guards, I presume, is faithfulness.
+
+cts:urn:tlg0032.tlg008:6.11
+glaux1.0-sentence	191
+perseus-grc2	 πιστὸν δὲ ἕνα πολὺ χαλεπώτερον εὑρεῖν ἢ πάνυ πολλοὺς ἐργάτας ὁποίου βούλει ἔργου , ἄλλως τε καὶ ὁπόταν χρημάτων μὲν ἕνεκα παρῶσιν οἱ φυλάττοντες , ἐξῇ δ’ αὐτοῖς ἐν ὀλίγῳ χρόνῳ πολὺ πλείω λαβεῖν ἀποκτείνασι τὸν τύραννον ἢ ὅσα πολὺν χρόνον φυλάττοντες παρὰ τοῦ τυράννου λαμβάνουσιν .
+perseus-eng2	 But it is far harder to find one faithful guard than hundreds of workmen for any kind of work, especially when money supplies the guards, and they have it in their power to get far more in a moment by assassinating the despot than they receive from him for years of service among his guards.
+
+cts:urn:tlg0032.tlg008:6.12
+glaux1.0-sentence	192
+perseus-grc2	 ὃ δ’ ἐζήλωσας ἡμᾶς ὡς τοὺς μὲν φίλους μάλιστα εὖ ποιεῖν δυνάμεθα , τοὺς δὲ ἐχθροὺς πάντων μάλιστα χειρούμεθα , οὐδὲ ταῦθ’ οὕτως ἔχει .
+perseus-eng2	 You said that you envy us our unrivalled power to confer benefits on our friends, and our unrivalled success in crushing our enemies. But that is another delusion.
+
+cts:urn:tlg0032.tlg008:6.13
+glaux1.0-sentence	193
+perseus-grc2	 φίλους μὲν γὰρ πῶς ἂν νομίσαις ποτὲ εὖ ποιεῖν , ὅταν εὖ εἰδῇς ὅτι ὁ τὰ πλεῖστα λαμβάνων παρὰ σοῦ ἥδιστ’ ἂν ὡς τάχιστα ἐξ ὀφθαλμῶν σου γένοιτο ;
+perseus-eng2	 For how can you possibly feel that you benefit friends when you know well that he who receives most from you would be delighted to get out of your sight as quickly as possible?
+
+cts:urn:tlg0032.tlg008:6.13
+glaux1.0-sentence	194
+perseus-grc2	 ὅ τι γὰρ ἄν τις λάβῃ παρὰ τυράννου , οὐδεὶς οὐδὲν ἑαυτοῦ νομίζει πρὶν ἂν ἔξω τῆς τούτου ἐπικρατείας γένηται .
+perseus-eng2	 For, no matter what a man has received from a despot, nobody regards it as his own, until he is outside the giver’s dominion.
+
+cts:urn:tlg0032.tlg008:6.14
+glaux1.0-sentence	195
+perseus-grc2	 ἐχθροὺς δ’ αὖ πῶς ἂν φαίης μάλιστα τοῖς τυράννοις ἐξεῖναι χειροῦσθαι , ὅταν εὖ εἰδῶσιν ὅτι ἐχθροὶ αὐτῶν εἰσι πάντες οἱ τυραννούμενοι , τούτους δὲ μήτε κατακαίνειν ἅπαντας μήτε δεσμεύειν οἷόν τε ᾖ ( τίνων γὰρ ἔτι ἄρξει ;
+perseus-eng2	 Or again, how can you say that despots more than others are able to crush enemies, when they know well that all who are subject to their despotism are their enemies and that it is impossible to put them all to death or imprison them — else who will be left for the despot to rule over? —
+
+cts:urn:tlg0032.tlg008:6.14
+glaux1.0-sentence	196
+perseus-grc2	 ) ἀλλ’ εἰδότα ὅτι ἐχθροί εἰσι , τούτους ἅμα μὲν φυλάττεσθαι δέῃ , καὶ χρῆσθαι δ’ αὐτοῖς ἀναγκάζηται ;
+perseus-eng2	 and, knowing them to be their enemies, they must beware of them, and, nevertheless, must needs make use of them?
+
+cts:urn:tlg0032.tlg008:6.15
+glaux1.0-sentence	197
+perseus-grc2	 εὖ δ’ ἴσθι καὶ τοῦτο , ὦ Σιμωνίδη , ὅτι καὶ οὓς τῶν πολιτῶν δεδίασι χαλεπῶς μὲν αὐτοὺς ζῶντας ὁρῶσι , χαλεπῶς δ’ ἀποκτείνουσιν ·
+perseus-eng2	 And I can assure you of this, Simonides: when a despot fears any citizen, he is reluctant to see him alive, and yet reluctant to put him to death.
+
+cts:urn:tlg0032.tlg008:6.15
+glaux1.0-sentence	198
+perseus-grc2	 ὥσπερ γε καὶ ἵππος εἰ ἀγαθὸς μὲν εἴη , φοβερὸς δὲ μὴ ἀνήκεστόν τι ποιήσῃ , χαλεπῶς μὲν ἄν τις αὐτὸν ἀποκτείναι διὰ τὴν ἀρετήν , χαλεπῶς δὲ ζῶντι χρῷτο , εὐλαβούμενος μή τι ἀνήκεστον ἐν τοῖς κινδύνοις ἐργάσηται , καὶ τ- ἄλλα γε κτήματα ὅσα χαλεπὰ μὲν χρήσιμα δ’ ἐστίν , ὁμοίως ἅπαντα λυπεῖ μὲν τοὺς κεκτημένους , λυπεῖ δὲ ἀπαλλαττομένους .
+perseus-eng2	 To illustrate my point, suppose that a good horse makes his master afraid that he will do him some fatal mischief: the man will feel reluctant to slaughter him on account of his good qualities, and yet his anxiety lest the animal may work some fatal mischief in a moment of danger will make him reluctant to keep him alive and use him.
+
+cts:urn:tlg0032.tlg008:7.1
+glaux1.0-sentence	199
+perseus-grc2	 ἐπεὶ δὲ ταῦτα αὐτοῦ ἤκουσεν ὁ Σιμωνίδης , εἶπεν ·
+perseus-eng2	 These statements drew from Simonides the following reply:
+
+cts:urn:tlg0032.tlg008:7.1
+glaux1.0-sentence	200
+perseus-grc2	 ἔοικεν , ἔφη , ὦ Ἱέρων , μέγα τι εἶναι ἡ τιμή , ἧς ὀρεγόμενοι οἱ ἄνθρωποι πάντα μὲν πόνον ὑποδύονται , πάντα δὲ κίνδυνον ὑπομένουσι .
+perseus-eng2	 A great thing, surely, Hiero, is the honour for which men strive so earnestly that they undergo any toil and endure any danger to win it!
+
+cts:urn:tlg0032.tlg008:7.2
+glaux1.0-sentence	201
+perseus-grc2	 καὶ ὑμεῖς , ὡς ἔοικε , τοσαῦτα πράγματα ἐχούσης ὁπόσα λέγεις τῆς τυραννίδος , ὅμως προπετῶς φέρεσθε εἰς αὐτήν , ὅπως τιμᾶσθε καὶ ὑπηρετῶσι μὲν ὑμῖν πάντες πάντα τὰ προσταττόμενα ἀπροφασίστως , περιβλέπωσι δὲ πάντες , ὑπανιστῶνται δ’ ἀπὸ τῶν θάκων ὁδῶν τε παραχωρῶσι , γεραίρωσι δὲ καὶ λόγοις καὶ ἔργοις πάντες οἱ παρόντες ἀεὶ ὑμᾶς ·
+perseus-eng2	 And what if despotism brings all those troubles that you tell of, yet such men as you, it seems, rush headlong into it that you may have honour, that all men may carry out your behests in all things without question, that the eyes of all may wait on you, that all may rise from their seats and make way for you, that all in your presence may glorify you by deed and word alike.
+
+cts:urn:tlg0032.tlg008:7.2
+glaux1.0-sentence	202
+perseus-grc2	 τοιαῦτα γὰρ δὴ ποιοῦσι τοῖς τυράννοις οἱ ἀρχόμενοι καὶ ἄλλον ὅντιν’ ἂν ἀεὶ τιμῶντες τυγχάνωσι .
+perseus-eng2	 Such, in fact, is the behaviour of subjects to despots and to anyone else who happens to be their hero at the moment.
+
+cts:urn:tlg0032.tlg008:7.3
+glaux1.0-sentence	203
+perseus-grc2	 καὶ γάρ μοι δοκεῖ , ὦ Ἱέρων , τούτῳ διαφέρειν ἀνὴρ τῶν ἄλλων ζῴων , τῷ τιμῆς ὀρέγεσθαι .
+perseus-eng2	 For indeed it seems to me, Hiero, that in this man differs from other animals — I mean, in this craving for honour.
+
+cts:urn:tlg0032.tlg008:7.3
+glaux1.0-sentence	204
+perseus-grc2	 ἐπεὶ σιτίοις γε καὶ ποτοῖς καὶ ὕπνοις καὶ ἀφροδισίοις πάντα ὁμοίως ἥδεσθαι ἔοικε τὰ ζῷα ·
+perseus-eng2	 In meat and drink and sleep and sex all creatures alike seem to take pleasure;
+
+cts:urn:tlg0032.tlg008:7.3
+glaux1.0-sentence	205
+perseus-grc2	 ἡ δὲ φιλοτιμία οὔτ’ ἐν τοῖς ἀλόγοις ζῴοις ἐμφύεται οὔτ’ ἐν ἅπασιν ἀνθρώποις ·
+perseus-eng2	 but love of honour is rooted neither in the brute beasts nor in every human being.
+
+cts:urn:tlg0032.tlg008:7.3
+glaux1.0-sentence	206
+perseus-grc2	 οἷς δ’ ἂν ἐμφύῃ τιμῆς τε καὶ ἐπαίνου ἔρως , οὗτοί εἰσιν ἤδη οἱ πλεῖστον μὲν τῶν βοσκημάτων διαφέροντες , ἄνδρες δὲ καὶ οὐκέτι ἄνθρωποι μόνον νομιζόμενοι .
+perseus-eng2	 But they in whom is implanted a passion for honour and praise, these are they who differ most from the beasts of the field, these are accounted men and not mere human beings.
+
+cts:urn:tlg0032.tlg008:7.4
+glaux1.0-sentence	207
+perseus-grc2	 ὥστε ἐμοὶ μὲν εἰκότως δοκεῖτε ταῦτα πάντα ὑπομένειν ἃ φέρετε ἐν τῇ τυραννίδι , ἐπείπερ τιμᾶσθε διαφερόντως τῶν ἄλλων ἀνθρώπων .
+perseus-eng2	 And so, in my opinion, you have good reason for bearing all those burdens that despotism lays on you, in that you are honoured above all other men.
+
+cts:urn:tlg0032.tlg008:7.4
+glaux1.0-sentence	208
+perseus-grc2	 καὶ γὰρ οὐδεμία ἀνθρωπίνη ἡδονὴ τοῦ θείου ἐγγυτέρω δοκεῖ εἶναι ἢ ἡ περὶ τὰς τιμὰς εὐφροσύνη .
+perseus-eng2	 For no human joy seems to be more nearly akin to that of heaven than the gladness which attends upon honours.
+
+cts:urn:tlg0032.tlg008:7.5
+glaux1.0-sentence	209
+perseus-grc2	 πρὸς ταῦτα δὴ εἶπεν ὁ Ἱέρων ·
+perseus-eng2	 Ah, Simonides, I think even the honours enjoyed by despots bear a close resemblance to their courtships, as I have described them to you.
+
+cts:urn:tlg0032.tlg008:7.5
+glaux1.0-sentence	210
+perseus-grc2	 ἀλλ’ , ὦ Σιμωνίδη , καὶ αἱ τιμαὶ τῶν τυράννων ὅμοιαι ἐμοὶ δοκοῦσιν εἶναι οἷάπερ ἐγώ σοι τὰ ἀφροδίσια ὄντα αὐτῶν ἀπέδειξα .
+perseus-eng2	 For neither do the services of the indifferent seem to us to be acts of grace, nor do the favours extorted appear to give us any pleasure.
+
+cts:urn:tlg0032.tlg008:7.6
+glaux1.0-sentence	211
+perseus-grc2	 οὔτε γὰρ αἱ μὴ ἐξ ἀντιφιλούντων ὑπουργίαι χάριτες ἡμῖν ἐδόκουν εἶναι οὔτε τὰ ἀφροδίσια τὰ βίαια ἡδέα ἐφαίνετο .
+perseus-eng2	 The services of the indifferent seemed to us not acts of grace, and favours extorted appeared to give no pleasure.
+
+cts:urn:tlg0032.tlg008:7.6
+glaux1.0-sentence	212
+perseus-grc2	 ὡσαύτως τοίνυν οὐδὲ αἱ ὑπουργίαι αἱ ὑπὸ τῶν φοβουμένων τιμαί εἰσι .
+perseus-eng2	 And so it is with the services proffered by men in fear: they are not honours.
+
+cts:urn:tlg0032.tlg008:7.7
+glaux1.0-sentence	213
+perseus-grc2	 πῶς γὰρ ἂν φαίημεν ἢ τοὺς βίᾳ ἐξανισταμένους θάκων διὰ τὸ τιμᾶν τοὺς ἀδικοῦντας ἐξανίστασθαι , ἢ τοὺς ὁδῶν παραχωροῦντας τοῖς κρείττοσι διὰ τὸ τιμᾶν τοὺς ἀδικοῦντας παραχωρεῖν ;
+perseus-eng2	 For how can we say that men who are forced to rise from their seats rise to honour their oppressors, or that men who make way for their superiors desire to honour their oppressors?
+
+cts:urn:tlg0032.tlg008:7.8
+glaux1.0-sentence	214
+perseus-grc2	 καὶ δῶρά γε διδόασιν οἱ πολλοὶ τούτοις οὓς μισοῦσι , καὶ ταῦτα ὅταν μάλιστα φοβῶνται μή τι κακὸν ὑπ’ αὐτῶν πάθωσιν .
+perseus-eng2	 And as for presents, most men offer them to one whom they hate, and that too at the moment when they have cause to fear some evil at his hands.
+
+cts:urn:tlg0032.tlg008:7.8
+glaux1.0-sentence	215
+perseus-grc2	 ἀλλὰ ταῦτα μὲν οἶμαι δουλείας ἔργα εἰκότως ἂν νομίζοιτο ·
+perseus-eng2	 These acts, I suppose, may not unfairly be taken for acts of servility;
+
+cts:urn:tlg0032.tlg008:7.8
+glaux1.0-sentence	216
+perseus-grc2	 αἱ δὲ τιμαὶ ἔμοιγε δοκοῦσιν ἐκ τῶν ἐναντίων τούτοις γίγνεσθαι .
+perseus-eng2	 but honours, I should say, express the very opposite feelings.
+
+cts:urn:tlg0032.tlg008:7.9
+glaux1.0-sentence	217
+perseus-grc2	 ὅταν γὰρ ἄνθρωποι ἄνδρα ἡγησάμενοι εὐεργετεῖν ἱκανὸν εἶναι , καὶ ἀπολαύειν αὐτοῦ ἀγαθὰ νομίσαντες , ἔπειτα τοῦτον ἀνὰ στόμα τε ἔχωσιν ἐπαινοῦντες , θεῶνταί τ’ αὐτὸν ὡς οἰκεῖον ἕκαστος ἀγαθόν , ἑκόντες τε παραχωρῶσι τούτῳ ὁδῶν καὶ θάκων ὑπανιστῶνται φιλοῦντές τε καὶ μὴ φοβούμενοι , καὶ στεφανῶσι κοινῆς ἀρετῆς καὶ εὐεργεσίας ἕνεκα , καὶ δωρεῖσθαι ἐθέλωσιν , οἱ αὐτοὶ οὗτοι ἔμοιγε δοκοῦσι τιμᾶν τε τοῦτον ἀληθῶς οἳ ἂν τοιαῦτα ὑπουργήσωσι καὶ ὁ τούτων ἀξιούμενος τιμᾶσθαι τῷ ὄντι .
+perseus-eng2	 For whenever men feel that some person is competent to be their benefactor, and come to regard him as the fountain of blessings, so that henceforward his praise is ever on their lips, everyone of them looks on him as his peculiar blessing, they make way for him spontaneously and rise from their seats, through love and not through fear, crown him for his generosity and beneficence, and bring him freewill offerings, these same men in my opinion, honour that person truly by such services, and he who is accounted worthy of them is honoured in very deed.
+
+cts:urn:tlg0032.tlg008:7.10
+glaux1.0-sentence	218
+perseus-grc2	 καὶ ἔγωγε τὸν μὲν οὕτω τιμώμενον μακαρίζω ·
+perseus-eng2	 And, for myself, I count him a happy man who is honoured thus;
+
+cts:urn:tlg0032.tlg008:7.10
+glaux1.0-sentence	219
+perseus-grc2	 αἰσθάνομαι γὰρ αὐτὸν οὐκ ἐπιβουλευόμενον ἀλλὰ φροντιζόμενον μή τι πάθῃ καὶ ἀφόβως καὶ ἀνεπιφθόνως καὶ ἀκινδύνως καὶ εὐδαιμόνως τὸν βίον διάγοντα ·
+perseus-eng2	 for I perceive that, instead of being exposed to treason, he is an object of solicitude, lest harm befall him, and he lives his life unassailed by fear and malice and danger, and enjoys unbroken happiness.
+
+cts:urn:tlg0032.tlg008:7.10
+glaux1.0-sentence	220
+perseus-grc2	 ὁ δὲ τύραννος ὡς ὑπὸ πάντων ἀνθρώπων κατακεκριμένος δι’ ἀδικίαν ἀποθνῄσκειν , οὕτως , ὦ Σιμωνίδη , εὖ ἴσθι , καὶ νύκτα καὶ ἡμέραν διάγει .
+perseus-eng2	 But what is the despot’s lot? I tell you, Simonides, he lives day and night like one condemned by the judgment of all men to die for his wickedness.
+
+cts:urn:tlg0032.tlg008:7.11
+glaux1.0-sentence	221
+perseus-grc2	 ἐπεὶ δὲ ταῦτα πάντα διήκουσεν ὁ Σιμωνίδης , Καὶ πῶς , ἔφη , ὦ Ἱέρων , εἰ οὕτως πονηρόν ἐστι τὸ τυραννεῖν καὶ τοῦτο σὺ ἔγνωκας , οὐκ ἀπαλλάττῃ οὕτω μεγάλου κακοῦ , ἀλλ’ οὔτε σὺ οὔτε ἄλλος μὲν δὴ οὐδεὶς πώποτε ἑκὼν εἶναι τυραννίδος ἀφεῖτο , ὅσπερ ἂν ἅπαξ κτήσαιτο ;
+perseus-eng2	 When Simonides had listened to all this he asked:  Pray, how comes it, Hiero, if despotism is a thing so vile, and this is your verdict, that you do not rid yourself of so great an evil, and that none other, for that matter, who has once acquired it, ever yet surrendered despotic power?
+
+cts:urn:tlg0032.tlg008:7.12
+glaux1.0-sentence	222
+perseus-grc2	 ὅτι , ἔφη , ὦ Σιμωνίδη , καὶ ταύτῃ ἀθλιώτατόν ἐστιν ἡ τυραννίς ·
+perseus-eng2	 Simonides, said he, this is the crowning misery of despotic power, that it cannot even be got rid of.
+
+cts:urn:tlg0032.tlg008:7.12
+glaux1.0-sentence	223
+perseus-grc2	 οὐδὲ γὰρ ἀπαλλαγῆναι δυνατὸν αὐτῆς ἐστι .
+perseus-eng2	 For how could any despot ever find means to repay in full all whom he has robbed, or himself serve all the terms of imprisonment that he has inflicted?
+
+cts:urn:tlg0032.tlg008:7.12
+glaux1.0-sentence	224
+perseus-grc2	 πῶς γὰρ ἄν τίς ποτε ἐξαρκέσειε τύραννος ἢ χρήματα ἐκτίνων ὅσους ἀφείλετο ἢ δεσμοὺς ἀντιπάσχων ὅσους δὴ ἐδέσμευσεν , ἢ ὅσους κατέκανε πῶς ἂν ἱκανὰς ψυχὰς ἀντιπαράσχοιτο ἀποθανουμένας ;
+perseus-eng2	 Or how could he forfeit a life for every man whom he has put to death?
+
+cts:urn:tlg0032.tlg008:7.13
+glaux1.0-sentence	225
+perseus-grc2	 ἀλλ’ εἴπερ τῳ ἄλλῳ , ὦ Σιμωνίδη , λυσιτελεῖ ἀπάγξασθαι , ἴσθι , ἔφη , ὅτι τυράννῳ ἔγωγε εὑρίσκω μάλιστα τοῦτο λυσιτελοῦν ποιῆσαι .
+perseus-eng2	 Ah, Simonides, he cried, if it profits any man to hang himself, know what my finding is: a despot has most to gain by it,
+
+cts:urn:tlg0032.tlg008:7.13
+glaux1.0-sentence	226
+perseus-grc2	 μόνῳ γὰρ αὐτῷ οὔτε ἔχειν οὔτε καταθέσθαι τὰ κακὰ λυσιτελεῖ .
+perseus-eng2	 since he alone can neither keep nor lay down his troubles with profit.
+
+cts:urn:tlg0032.tlg008:8.1
+glaux1.0-sentence	227
+perseus-grc2	 καὶ ὁ Σιμωνίδης ὑπολαβὼν εἶπεν ·
+perseus-eng2	 Well, Hiero, retorted Simonides, I am not surprised that you are out of heart with despotism for the moment,
+
+cts:urn:tlg0032.tlg008:8.1
+glaux1.0-sentence	228
+perseus-grc2	 ἀλλὰ τὸ μὲν νῦν , ὦ Ἱέρων , ἀθύμως ἔχειν σε πρὸς τὴν τυραννίδα οὐ θαυμάζω , ἐπείπερ ἐπιθυμῶν φιλεῖσθαι ὑπ’ ἀνθρώπων ἐμποδών σοι τούτου νομίζεις αὐτὴν εἶναι .
+perseus-eng2	 since you hold that it cuts you off from gaining the affection of mankind, which you covet.
+
+cts:urn:tlg0032.tlg008:8.1
+glaux1.0-sentence	229
+perseus-grc2	 ἐγὼ μέντοι ἔχειν μοι δοκῶ διδάξαι σε ὡς τὸ ἄρχειν οὐδὲν ἀποκωλύει τοῦ φιλεῖσθαι , ἀλλὰ καὶ πλεονεκτεῖ γε τῆς ἰδιωτείας .
+perseus-eng2	 Nevertheless, I think I can show you that rule so far from being a bar to popularity, actually has the advantage of a citizen’s life.
+
+cts:urn:tlg0032.tlg008:8.2
+glaux1.0-sentence	230
+perseus-grc2	 ἐπισκοποῦντες δὲ αὐτὸ εἰ οὕτως ἔχει μήπω ἐκεῖνο σκοπῶμεν , εἰ διὰ τὸ μεῖζον δύνασθαι ὁ ἄρχων καὶ χαρίζεσθαι πλείω δύναιτ’ ἄν , ἀλλ’ ἂν τὰ ὅμοια ποιῶσιν ὅ τε ἰδιώτης καὶ ὁ τύραννος , ἐννόει πότερος μείζω ἀπὸ τῶν ἴσων κτᾶται χάριν .
+perseus-eng2	 In trying to discover whether this is so, let us for the time being pass over the question whether the ruler, because of his greater power, is able to confer more favours.
+
+cts:urn:tlg0032.tlg008:8.2
+glaux1.0-sentence	231
+perseus-grc2	 ἄρξομαι δέ σοι ἀπὸ τῶν μικροτάτων παραδειγμάτων .
+perseus-eng2	 Assume that the citizen and the despot act alike, and consider which of the two wins the greater measure of gratitude from the same actions. You shall have the most trifling examples to begin with.
+
+cts:urn:tlg0032.tlg008:8.3
+glaux1.0-sentence	232
+perseus-grc2	 ἰδὼν γὰρ πρῶτον προσειπάτω τινὰ φιλικῶς ὅ τε ἄρχων καὶ ὁ ἰδιώτης ·
+perseus-eng2	 First, suppose that two men greet someone with a friendly remark on seeing him. One is a ruler, the other a citizen.
+
+cts:urn:tlg0032.tlg008:8.3
+glaux1.0-sentence	233
+perseus-grc2	 ἐν τούτῳ τὴν ποτέρου πρόσρησιν μᾶλλον εὐφραίνειν τὸν ἀκούσαντα νομίζεις ;
+perseus-eng2	 In this case which greeting, do you think, is the more delightful to the hearer?
+
+cts:urn:tlg0032.tlg008:8.3
+glaux1.0-sentence	234
+perseus-grc2	 ἴθι δὴ ἐπαινεσάντων ἀμφότεροι τὸν αὐτόν ·
+perseus-eng2	 Or again, both commend the same man.
+
+cts:urn:tlg0032.tlg008:8.3
+glaux1.0-sentence	235
+perseus-grc2	 τὸν ποτέρου δοκεῖς ἔπαινον ἐξικνεῖσθαι μᾶλλον εἰς εὐφροσύνην ;
+perseus-eng2	 Which commendation, do you think, is the more welcome?
+
+cts:urn:tlg0032.tlg008:8.3
+glaux1.0-sentence	236
+perseus-grc2	 θύσας δὲ τιμησάτω ἑκάτερος ·
+perseus-eng2	 Suppose that each does the honours when he offers sacrifice.
+
+cts:urn:tlg0032.tlg008:8.3
+glaux1.0-sentence	237
+perseus-grc2	 τὴν παρὰ ποτέρου τιμὴν μείζονος ἂν χάριτος δοκεῖς τυγχάνειν ;
+perseus-eng2	 Which invitation, think you, will be accepted with the more sincere thanks?
+
+cts:urn:tlg0032.tlg008:8.4
+glaux1.0-sentence	238
+perseus-grc2	 κάμνοντα θεραπευσάτωσαν ὁμοίως ·
+perseus-eng2	 Suppose they are equally attentive to a sick man.
+
+cts:urn:tlg0032.tlg008:8.4
+glaux1.0-sentence	239
+perseus-grc2	 οὐκοῦν τοῦτο σαφὲς ὅτι αἱ ἀπὸ τῶν δυνατωτάτων θεραπεῖαι καὶ χαρὰν ἐμποιοῦσι μεγίστην ;
+perseus-eng2	 Is it not obvious that the attentions of the mightiest bring most comfort to the patient?
+
+cts:urn:tlg0032.tlg008:8.4
+glaux1.0-sentence	240
+perseus-grc2	 δότωσαν δὴ τὰ ἴσα ·
+perseus-eng2	 Suppose they give presents of equal value.
+
+cts:urn:tlg0032.tlg008:8.4
+glaux1.0-sentence	241
+perseus-grc2	 οὐ καὶ ἐν τούτῳ σαφὲς ὅτι αἱ ἀπὸ τῶν δυνατωτάτων ἡμίσειαι χάριτες πλέον ἢ ὅλον τὸ παρὰ τοῦ ἰδιώτου δώρημα δύνανται ;
+perseus-eng2	 Is it not clear in this case too that half the number of favours bestowed by the mightiest count for more than the whole of the plain citizen’s gift?
+
+cts:urn:tlg0032.tlg008:8.5
+glaux1.0-sentence	242
+perseus-grc2	 ἀλλ’ ἔμοιγε δοκεῖ καὶ ἐκ θεῶν τιμή τις καὶ χάρις συμπαρέπεσθαι ἀνδρὶ ἄρχοντι .
+perseus-eng2	 Nay, to my way of thinking, even the gods cause a peculiar honour and favour to dance attendance on a great ruler.
+
+cts:urn:tlg0032.tlg008:8.5
+glaux1.0-sentence	243
+perseus-grc2	 μὴ γὰρ ὅτι καλλίονα ποιεῖ ἄνδρα , ἀλλὰ καὶ τὸν αὐτὸν τοῦτον ἥδιον θεώμεθά τε ὅταν ἄρχῃ ἢ ὅταν ἰδιωτεύῃ , διαλεγόμενοί τε ἀγαλλόμεθα τοῖς προτετιμημένοις μᾶλλον ἢ τοῖς ἐκ τοῦ ἴσου ἡμῖν οὖσι .
+perseus-eng2	 For not only does rule add dignity of presence to a man, but we find more pleasure in the sight of that man when he is a ruler than when he is a mere citizen, and we take more pride in the conversation of those who rank above us than in that of our equals.
+
+cts:urn:tlg0032.tlg008:8.6
+glaux1.0-sentence	244
+perseus-grc2	 καὶ μὴν παιδικά γε , ἐν οἷς δὴ καὶ σὺ μάλιστα κατεμέμψω τὴν τυραννίδα , ἥκιστα μὲν γῆρας ἄρχοντος δυσχεραίνει , ἥκιστα δ’ αἶσχος , πρὸς ὃν ἂν τυγχάνῃ ὁμιλῶν , τούτου ὑπολογίζεται .
+perseus-eng2	 And favourites, mark you, who were the subject of your bitterest complaint against despotism, are not offended by old age in a ruler, and take no account of ugliness in the patron with whom they happen to be associated.
+
+cts:urn:tlg0032.tlg008:8.6
+glaux1.0-sentence	245
+perseus-grc2	 αὐτὸ γὰρ τὸ τετιμῆσθαι μάλιστα συνεπικοσμεῖ , ὥστε τὰ μὲν δυσχερῆ ἀφανίζειν , τὰ δὲ καλὰ λαμπρότερα ἀναφαίνειν .
+perseus-eng2	 For high rank in itself is a most striking embellishment to the person: it casts a shade over anything repulsive in him and shows up his best features in a high light.
+
+cts:urn:tlg0032.tlg008:8.7
+glaux1.0-sentence	246
+perseus-grc2	 ὁπότε γε μὴν ἐκ τῶν ἴσων ὑπουργημάτων μειζόνων χαρίτων ὑμεῖς τυγχάνετε , πῶς οὐκ ἐπειδάν γε ὑμεῖς πολλαπλάσια μὲν διαπράττοντες ὠφελεῖν δύνησθε , πολλαπλάσια δὲ δωρεῖσθαι ἔχητε , ὑμᾶς καὶ πολὺ μᾶλλον φιλεῖσθαι τῶν ἰδιωτῶν προσήκει ;
+perseus-eng2	 Moreover, inasmuch as equal services rendered by you rulers are rewarded with deeper gratitude, surely, when you have the power of doing far more for others by your activities, and can lavish far more gifts on them, it is natural that you should be much more deeply loved than private citizens.    Hiero instantly rejoined:
+
+cts:urn:tlg0032.tlg008:8.8
+glaux1.0-sentence	247
+perseus-grc2	 καὶ ὁ Ἱέρων εὐθὺς ὑπολαβών , Ὅτι νὴ Δί’ , ἔφη , ὦ Σιμωνίδη , καὶ ἐξ ὧν ἀπεχθάνονται ἄνθρωποι , ἡμᾶς πολὺ πλείω τῶν ἰδιωτῶν ἀνάγκη ἐστὶ πραγματεύεσθαι .
+perseus-eng2	 Indeed it is not so, Simonides; for we are forced to engage far oftener than private citizens in transactions that make men hated.
+
+cts:urn:tlg0032.tlg008:8.9
+glaux1.0-sentence	248
+perseus-grc2	 πρακτέον μέν γε χρήματα , εἰ μέλλομεν ἕξειν δαπανᾶν εἰς τὰ δέοντα , ἀναγκαστέον δὲ φυλάττειν ὅσα δεῖται φυλακῆς , κολαστέον δὲ τοὺς ἀδίκους , κωλυτέον δὲ τοὺς ὑβρίζειν βουλομένους ·
+perseus-eng2	 Thus, we must extort money in order to find the cash to pay for what we want: we must compel men to guard whatever needs protection: we must punish wrongdoers; we must check those who would fain wax insolent;
+
+cts:urn:tlg0032.tlg008:8.9
+glaux1.0-sentence	249
+perseus-grc2	 καὶ ὅταν γε τάχους καιρὸς παραστῇ ἢ πεζῇ ἢ κατὰ θάλατταν ἐξορμᾶσθαι , οὐκ ἐπιτρεπτέον τοῖς ῥᾳδιουργοῦσιν .
+perseus-eng2	 and when a crisis arises that calls for the immediate despatch of forces by land and sea, we must see that there is no dilly-dallying.
+
+cts:urn:tlg0032.tlg008:8.10
+glaux1.0-sentence	250
+perseus-grc2	 ἔτι δὲ μισθοφόρων μὲν ἀνδρὶ τυράννῳ δεῖ ·
+perseus-eng2	 Further, a great despot must needs have mercenaries;
+
+cts:urn:tlg0032.tlg008:8.10
+glaux1.0-sentence	251
+perseus-grc2	 τούτου δὲ βαρύτερον φόρημα οὐδέν ἐστι τοῖς πολίταις .
+perseus-eng2	 and no burden presses more heavily on the citizens than that,
+
+cts:urn:tlg0032.tlg008:8.10
+glaux1.0-sentence	252
+perseus-grc2	 οὐ γὰρ τυράννοις ἰσοτιμίας , ἀλλὰ πλεονεξίας ἕνεκα νομίζουσι τούτους τρέφεσθαι .
+perseus-eng2	 since they believe that these troops are maintained not in the interests of equality, but for the despot’s personal ends.
+
+cts:urn:tlg0032.tlg008:9.1
+glaux1.0-sentence	253
+perseus-grc2	 πρὸς ταῦτα δὴ πάλιν εἶπεν ὁ Σιμωνίδης ·
+perseus-eng2	 In answer to this Simonides said:
+
+cts:urn:tlg0032.tlg008:9.1
+glaux1.0-sentence	254
+perseus-grc2	 ἀλλ’ ὅπως μὲν οὐ πάντων τούτων ἐπιμελητέον , ὦ Ἱέρων , οὐ λέγω .
+perseus-eng2	 Well, Hiero, I do not deny that all these matters must receive attention.
+
+cts:urn:tlg0032.tlg008:9.1
+glaux1.0-sentence	255
+perseus-grc2	 ἐπιμέλειαι μέντοι μοι δοκοῦσιν αἱ μὲν πάνυ πρὸς ἔχθραν ἄγειν , αἱ δὲ πάνυ διὰ χαρίτων εἶναι .
+perseus-eng2	 But I should divide a ruler’s activities into two classes, those that lead inevitably to unpopularity, and those that are greeted with thanks.
+
+cts:urn:tlg0032.tlg008:9.2
+glaux1.0-sentence	256
+perseus-grc2	 τὸ μὲν γὰρ διδάσκειν ἅ ἐστι βέλτιστα καὶ τὸν κάλλιστα ταῦτα ἐξεργαζόμενον ἐπαινεῖν καὶ τιμᾶν , αὕτη μὲν ἡ ἐπιμέλεια διὰ χαρίτων γίγνεται , τὸ δὲ τὸν ἐνδεῶς τι ποιοῦντα λοιδορεῖν τε καὶ ἀναγκάζειν καὶ ζημιοῦν καὶ κολάζειν , ταῦτα δὲ ἀνάγκη δι’ ἀπεχθείας μᾶλλον γίγνεσθαι .
+perseus-eng2	 The duty of teaching the people what things are best, and of dispensing praise and honour to those who accomplish the same most efficiently, is a form of activity that is greeted with thanks. The duty of pronouncing censure, using coercion, inflicting pains and penalties on those who come short in any respect, is one that must of necessity give rise to a certain amount of unpopularity.
+
+cts:urn:tlg0032.tlg008:9.3
+glaux1.0-sentence	257
+perseus-grc2	 ἐγὼ οὖν φημι ἀνδρὶ ἄρχοντι τὸν μὲν ἀνάγκης δεόμενον ἄλλοις προστακτέον εἶναι κολάζειν , τὸ δὲ τὰ ἆθλα ἀποδιδόναι δι’ αὑτοῦ ποιητέον .
+perseus-eng2	 Therefore my sentence is that a great ruler should delegate to others the task of punishing those who require to be coerced, and should reserve to himself the privilege of awarding the prizes.
+
+cts:urn:tlg0032.tlg008:9.3
+glaux1.0-sentence	258
+perseus-grc2	 ὡς δὲ ταῦτα καλῶς ἔχει μαρτυρεῖ τὰ γιγνόμενα .
+perseus-eng2	 The excellence of this arrangement is established by daily experience.
+
+cts:urn:tlg0032.tlg008:9.4
+glaux1.0-sentence	259
+perseus-grc2	 καὶ γὰρ ὅταν χοροὺς ἡμῖν βουλώμεθα ἀγωνίζεσθαι , ἆθλα μὲν ὁ ἄρχων προτίθησιν , ἁθροίζειν δὲ αὐτοὺς προστέτακται χορηγοῖς καὶ ἄλλοις διδάσκειν καὶ ἀνάγκην προστιθέναι τοῖς ἐνδεῶς τι ποιοῦσιν .
+perseus-eng2	 Thus, when we want to have a choral competition, the ruler offers prizes,
+
+cts:urn:tlg0032.tlg008:9.4
+glaux1.0-sentence	260
+perseus-grc2	 οὐκοῦν εὐθὺς ἐν τούτοις τὸ μὲν ἐπίχαρι διὰ τοῦ ἄρχοντος ἐγένετο , τὰ δ’ ἀντίτυπα δι’ ἄλλων .
+perseus-eng2	 but the task of assembling the choirs is delegated to choir-masters, and others have the task of training them and coercing those who come short in any respect.
+
+cts:urn:tlg0032.tlg008:9.5
+glaux1.0-sentence	261
+perseus-grc2	 τί οὖν κωλύει καὶ τ- ἄλλα τὰ πολιτικὰ οὕτως περαίνεσθαι ;
+perseus-eng2	 Why, then, should not all other public affairs be managed on this principle?
+
+cts:urn:tlg0032.tlg008:9.5
+glaux1.0-sentence	262
+perseus-grc2	 διῄρηνται μὲν γὰρ ἅπασαι αἱ πόλεις αἱ μὲν κατὰ φυλάς , αἱ δὲ κατὰ μόρας , αἱ δὲ κατὰ λόχους , καὶ ἄρχοντες ἐφ’ ἑκάστῳ μέρει ἐφεστήκασιν .
+perseus-eng2	 For all communities are divided into parts — tribes, wards, unions, as the case may be — and every one of these parts is subject to its appointed ruler.
+
+cts:urn:tlg0032.tlg008:9.6
+glaux1.0-sentence	263
+perseus-grc2	 οὐκοῦν εἴ τις καὶ τούτοις ὥσπερ τοῖς χοροῖς ἆθλα προτιθείη καὶ εὐοπλίας καὶ εὐταξίας καὶ ἱππικῆς καὶ ἀλκῆς τῆς ἐν πολέμῳ καὶ δικαιοσύνης τῆς ἐν συμβολαίοις , εἰκὸς καὶ ταῦτα πάντα διὰ φιλονικίαν ἐντόνως ἀσκεῖσθαι .
+perseus-eng2	 If, then, the analogy of the choruses were followed and prizes were offered to these parts for excellence of equipment, good discipline, horsemanship, courage in the field and fair dealing in business, the natural outcome would be competition, and consequently an earnest endeavour to improve in all these respects too.
+
+cts:urn:tlg0032.tlg008:9.7
+glaux1.0-sentence	264
+perseus-grc2	 καὶ ναὶ μὰ Δία ὁρμῷντό γ’ ἂν θᾶττον ὅποι δέοι , τιμῆς ὀρεγόμενοι , καὶ χρήματα θᾶττον ἂν εἰσφέροιεν , ὁπότε τούτου καιρὸς εἴη , καὶ τὸ πάντων γε χρησιμώτατον , ἥκιστα δὲ εἰθισμένον διὰ φιλονικίας πράττεσθαι , ἡ γεωργία αὐτὴ ἂν πολὺ ἐπιδοίη , εἴ τις ἆθλα προτιθείη κατ’ ἀγροὺς ἢ κατὰ κώμας τοῖς κάλλιστα τὴν γῆν ἐξεργαζομένοις , καὶ τοῖς εἰς τοῦτο τῶν πολιτῶν ἐρρωμένως τρεπομένοις πολλὰ ἂν ἀγαθὰ περαίνοιτο ·
+perseus-eng2	 And as a matter of course, with the prospect of reward there would be more despatch in starting for the appointed place, and greater promptitude in the payment of war taxes, whenever occasion required. Nay, agriculture itself, most useful of all occupations, but just the one in which the spirit of competition is conspicuous by its absence, would make great progress if prizes were offered for the farm or the village that can show the best cultivation, and many good results would follow for those citizens who threw themselves vigorously into this occupation.
+
+cts:urn:tlg0032.tlg008:9.8
+glaux1.0-sentence	265
+perseus-grc2	 καὶ γὰρ αἱ πρόσοδοι αὔξοιντ’ ἄν , καὶ ἡ σωφροσύνη πολὺ μᾶλλον σὺν τῇ ἀσχολίᾳ συμπαρομαρτεῖ .
+perseus-eng2	 For apart from the consequent increase in the revenues, sobriety far more commonly goes with industry;
+
+cts:urn:tlg0032.tlg008:9.8
+glaux1.0-sentence	266
+perseus-grc2	 καὶ μὴν κακουργίαι γε ἧττον τοῖς ἐνεργοῖς ἐμφύονται .
+perseus-eng2	 and remember, vices rarely flourish among the fully employed.
+
+cts:urn:tlg0032.tlg008:9.9
+glaux1.0-sentence	267
+perseus-grc2	 εἰ δὲ καὶ ἐμπορία ὠφελεῖ τι πόλιν , τιμώμενος ἂν ὁ πλεῖστα τοῦτο ποιῶν καὶ ἐμπόρους ἂν πλείους ἀγείροι .
+perseus-eng2	 If commerce also brings gain to a city, the award of honours for diligence in business would attract a larger number to a commercial career.
+
+cts:urn:tlg0032.tlg008:9.9
+glaux1.0-sentence	268
+perseus-grc2	 εἰ δὲ φανερὸν γένοιτο ὅτι καὶ ὁ πρόσοδόν τινα ἄλυπον ἐξευρίσκων τῇ πόλει τιμήσεται , οὐδ’ αὕτη ἂν ἡ σκέψις ἀργοῖτο .
+perseus-eng2	 And were it made clear that the discovery of some way of raising revenue without hurting anyone will also be rewarded, this field of research too would not be unoccupied.
+
+cts:urn:tlg0032.tlg008:9.10
+glaux1.0-sentence	269
+perseus-grc2	 ὡς δὲ συνελόντι εἰπεῖν , εἰ καὶ κατὰ πάντων ἐμφανὲς εἴη ὅτι ὁ ἀγαθόν τι εἰσηγούμενος οὐκ ἀτίμητος ἔσται , πολλοὺς ἂν καὶ τοῦτο ἐξορμήσειεν ἔργον ποιεῖσθαι τὸ σκοπεῖν τι ἀγαθόν .
+perseus-eng2	 In a word, once it becomes clear in every department that any good suggestion will not go unrewarded, many will be encouraged by that knowledge to apply themselves to some promising form of investigation.
+
+cts:urn:tlg0032.tlg008:9.10
+glaux1.0-sentence	270
+perseus-grc2	 καὶ ὅταν γε πολλοῖς περὶ τῶν ὠφελίμων μέλῃ , ἀνάγκη εὑρίσκεσθαί τε μᾶλλον καὶ ἐπιτελεῖσθαι .
+perseus-eng2	 And when there is a wide-spread interest in useful subjects, an increase of discovery and achievement is bound to come.
+
+cts:urn:tlg0032.tlg008:9.11
+glaux1.0-sentence	271
+perseus-grc2	 εἰ δὲ φοβῇ , ὦ Ἱέρων , μὴ ἐν πολλοῖς ἄθλων προτιθεμένων πολλαὶ δαπάναι γίγνωνται , ἐννόησον ὅτι οὐκ ἔστιν ἐμπορεύματα λυσιτελέστερα ἢ ὅσα ἄνθρωποι ἄθλων ὠνοῦνται .
+perseus-eng2	 In case you fear, Hiero, that the cost of offering prizes for many subjects may prove heavy, you should reflect that no commodities are cheaper than those that are bought for a prize.
+
+cts:urn:tlg0032.tlg008:9.11
+glaux1.0-sentence	272
+perseus-grc2	 ὁρᾷς ἐν ἱππικοῖς καὶ γυμνικοῖς καὶ χορηγικοῖς ἀγῶσιν ὡς μικρὰ ἆθλα μεγάλας δαπάνας καὶ πολλοὺς πόνους καὶ πολλὰς ἐπιμελείας ἐξάγεται ἀνθρώπων ;
+perseus-eng2	 Think of the large sums that men are induced to spend on horse-races, gymnastic and choral competitions, and the long course of training and practice they undergo for the sake of a paltry prize.
+
+cts:urn:tlg0032.tlg008:10.1
+glaux1.0-sentence	273
+perseus-grc2	 καὶ ὁ Ἱέρων εἶπεν ·
+perseus-eng2	 Well, Simonides, said Hiero,
+
+cts:urn:tlg0032.tlg008:10.1
+glaux1.0-sentence	274
+perseus-grc2	 ἀλλὰ ταῦτα μέν , ὦ Σιμωνίδη , καλῶς μοι δοκεῖς λέγειν ·
+perseus-eng2	 I think you are right in saying that.
+
+cts:urn:tlg0032.tlg008:10.1
+glaux1.0-sentence	275
+perseus-grc2	 περὶ δὲ τῶν μισθοφόρων ἔχεις τι εἰπεῖν ὡς μὴ μισεῖσθαι δι’ αὐτούς ;
+perseus-eng2	 But what about the mercenaries? Can you tell me how to employ them without incurring unpopularity?
+
+cts:urn:tlg0032.tlg008:10.1
+glaux1.0-sentence	276
+perseus-grc2	 ἢ λέγεις ὡς φιλίαν κτησάμενος ἄρχων οὐδὲν ἔτι δεήσεται δορυφόρων ;
+perseus-eng2	 Or do you say that a ruler, once he becomes popular, will have no further need of a bodyguard?
+
+cts:urn:tlg0032.tlg008:10.2
+glaux1.0-sentence	277
+perseus-grc2	 ναὶ μὰ Δία , εἶπεν ὁ Σιμωνίδης , δεήσεται μὲν οὖν .
+perseus-eng2	 No, no, he will need them, of course, said Simonides.
+
+cts:urn:tlg0032.tlg008:10.2
+glaux1.0-sentence	278
+perseus-grc2	 οἶδα γὰρ ὅτι ὥσπερ ἐν ἵπποις οὕτως καὶ ἐν ἀνθρώποις τισὶν ἐγγίγνεται , ὅσῳ ἂν ἔκπλεα τὰ δέοντα ἔχωσι , τοσούτῳ ὑβριστοτέροις εἶναι .
+perseus-eng2	 For I know that some human beings are like horses — the more they get what they want, the more unruly they are apt to become.
+
+cts:urn:tlg0032.tlg008:10.3
+glaux1.0-sentence	279
+perseus-grc2	 τοὺς μὲν οὖν τοιούτους μᾶλλον ἂν σωφρονίζοι ὁ ἀπὸ τῶν δορυφόρων φόβος .
+perseus-eng2	 The way to manage men like that is to put the fear of the bodyguard into them.
+
+cts:urn:tlg0032.tlg008:10.3
+glaux1.0-sentence	280
+perseus-grc2	 τοῖς δὲ καλοῖς κ- ἀγαθοῖς ἀπ’ οὐδενὸς ἄν μοι δοκεῖς τοσαῦτα ὠφελήματα παρασχεῖν ὅσα ἀπὸ τῶν μισθοφόρων .
+perseus-eng2	 And as for the gentlemen, you can probably confer greater benefits on them by employing mercenaries than by any other means.
+
+cts:urn:tlg0032.tlg008:10.4
+glaux1.0-sentence	281
+perseus-grc2	 τρέφεις μὲν γὰρ δήπου καὶ σὺ αὐτοὺς σαυτῷ φύλακας ·
+perseus-eng2	 For I presume that you maintain the force primarily to protect yourself.
+
+cts:urn:tlg0032.tlg008:10.4
+glaux1.0-sentence	282
+perseus-grc2	 ἤδη δὲ πολλοὶ καὶ δεσπόται βίᾳ ὑπὸ τῶν δούλων ἀπέθανον .
+perseus-eng2	 But masters have often been murdered by their slaves.
+
+cts:urn:tlg0032.tlg008:10.4
+glaux1.0-sentence	283
+perseus-grc2	 ἓν οὖν ἂν πρῶτον τοῦτ’ εἴη τῶν προστεταγμένων τοῖς μισθοφόροις , ὡς πάντων ὄντας δορυφόρους τῶν πολιτῶν βοηθεῖν πᾶσιν , ἄν τι τοιοῦτον αἰσθάνωνται .
+perseus-eng2	 If therefore the first duty enjoined on the mercenaries were to act as the bodyguard of the whole community and render help to all, in case they got wind of any such intention
+
+cts:urn:tlg0032.tlg008:10.4
+glaux1.0-sentence	284
+perseus-grc2	 γίγνονται δέ που , ὡς πάντες ἐπιστάμεθα , κακοῦργοι ἐν πόλεσιν ·
+perseus-eng2	 — there are black sheep in every fold, as we all know —
+
+cts:urn:tlg0032.tlg008:10.4
+glaux1.0-sentence	285
+perseus-grc2	 εἰ οὖν καὶ τούτους φυλάττειν εἶεν τεταγμένοι , καὶ τοῦτ’ ἂν εἰδεῖεν ὑπ’ αὐτῶν ὠφελούμενοι .
+perseus-eng2	 I say, if they were under orders to guard the citizens as well as the despot, the citizens would know that this is one service rendered to them by the mercenaries.
+
+cts:urn:tlg0032.tlg008:10.5
+glaux1.0-sentence	286
+perseus-grc2	 πρὸς δὲ τούτοις καὶ τοῖς ἐν τῇ χώρᾳ ἐργάταις καὶ κτήνεσιν οὗτοι ἂν εἰκότως καὶ θάρρος καὶ ἀσφάλειαν δύναιντο μάλιστα παρέχειν , ὁμοίως μὲν τοῖς σοῖς ἰδίοις , ὁμοίως δὲ τοῖς ἀνὰ τὴν χώραν .
+perseus-eng2	 Nor is this all: for naturally the mercenaries would also be able to give fearlessness and security in the fullest measure to the labourers and cattle in the country, and the benefit would not be confined to your own estates, but would be felt up and down the countryside.
+
+cts:urn:tlg0032.tlg008:10.5
+glaux1.0-sentence	287
+perseus-grc2	 ἱκανοί γε μήν εἰσι καὶ σχολὴν παρέχειν τοῖς πολίταις τῶν ἰδίων ἐπιμελεῖσθαι , τὰ ἐπίκαιρα φυλάττοντες .
+perseus-eng2	 Again, they are competent to afford the citizens leisure for attending to their private affairs by guarding the vital positions.
+
+cts:urn:tlg0032.tlg008:10.6
+glaux1.0-sentence	288
+perseus-grc2	 πρὸς δὲ τούτοις καὶ πολεμίων ἐφόδους κρυφαίας καὶ ἐξαπιναίας τίνες ἑτοιμότεροι ἢ προαισθέσθαι ἢ κωλῦσαι τῶν ἀεὶ ἐν ὅπλοις τε ὄντων καὶ συντεταγμένων ;
+perseus-eng2	 Besides, should an enemy plan a secret and sudden attack, what handier agents can be found for detecting or preventing their design than a standing force, armed and organized?
+
+cts:urn:tlg0032.tlg008:10.6
+glaux1.0-sentence	289
+perseus-grc2	 ἀλλὰ μὴν καὶ ἐν τῇ στρατιᾷ τί ἐστιν ὠφελιμώτερον πολίταις μισθοφόρων ;
+perseus-eng2	 Or once more, when the citizens go campaigning, what is more useful to them than mercenaries?
+
+cts:urn:tlg0032.tlg008:10.6
+glaux1.0-sentence	290
+perseus-grc2	 τούτους γὰρ προπονεῖν καὶ προκινδυνεύειν καὶ προφυλάττειν εἰκὸς ἑτοιμοτάτους εἶναι .
+perseus-eng2	 For these are, as a matter of course, the readiest to bear the brunt of toil and danger and watching.
+
+cts:urn:tlg0032.tlg008:10.7
+glaux1.0-sentence	291
+perseus-grc2	 τὰς δ’ ἀγχιτέρμονας πόλεις οὐκ ἀνάγκη διὰ τοὺς ἀεὶ ἐν ὅπλοις ὄντας καὶ εἰρήνης μάλιστα ἐπιθυμεῖν ;
+perseus-eng2	 And must not those who possess a standing force impose on border states a strong desire for peace?
+
+cts:urn:tlg0032.tlg008:10.7
+glaux1.0-sentence	292
+perseus-grc2	 οἱ γὰρ συντεταγμένοι καὶ σῴζειν τὰ τῶν φίλων μάλιστα καὶ σφάλλειν τὰ τῶν πολεμίων δύναιντ’ ἄν .
+perseus-eng2	 For nothing equals an organized body of men, whether for protecting the property of friends or for thwarting the plans of enemies.
+
+cts:urn:tlg0032.tlg008:10.8
+glaux1.0-sentence	293
+perseus-grc2	 ὅταν γε μὴν γνῶσιν οἱ πολῖται ὅτι οὗτοι κακὸν μὲν οὐδὲν ποιοῦσι τὸν μηδὲν ἀδικοῦντα , τοὺς δὲ κακουργεῖν βουλομένους κωλύουσι , βοηθοῦσι δὲ τοῖς ἀδικουμένοις , προνοοῦσι δὲ καὶ προκινδυνεύουσι τῶν πολιτῶν , πῶς οὐκ ἀνάγκη καὶ δαπανᾶν εἰς τούτους ἥδιστα ;
+perseus-eng2	 Further, when the citizens get it into their heads that these troops do no harm to the innocent and hold the would-be malefactor in check, come to the rescue of the wronged, care for the citizens and shield them from danger, surely they are bound to pay the cost of them with a right good-will.
+
+cts:urn:tlg0032.tlg008:10.8
+glaux1.0-sentence	294
+perseus-grc2	 τρέφουσι γοῦν καὶ ἰδίᾳ ἐπὶ μείοσι τούτων φύλακας .
+perseus-eng2	 At all events they keep guards in their homes for less important objects than these.
+
+cts:urn:tlg0032.tlg008:11.1
+glaux1.0-sentence	295
+perseus-grc2	 χρὴ δέ , ὦ Ἱέρων , οὐδ’ ἀπὸ τῶν ἰδίων κτημάτων ὀκνεῖν δαπανᾶν εἰς τὸ κοινὸν ἀγαθόν .
+perseus-eng2	 Nor should you hesitate to draw on your private property, Hiero, for the common good.
+
+cts:urn:tlg0032.tlg008:11.1
+glaux1.0-sentence	296
+perseus-grc2	 καὶ γὰρ ἔμοιγε δοκεῖ τὰ εἰς τὴν πόλιν ἀναλούμενα μᾶλλον εἰς τὸ δέον τελεῖσθαι ἢ τὰ εἰς τὸ ἴδιον ἀνδρὶ τυράννῳ .
+perseus-eng2	 For in my opinion the sums that a great despot spends on the city are more truly necessary expenses than the money he spends on himself.
+
+cts:urn:tlg0032.tlg008:11.1
+glaux1.0-sentence	297
+perseus-grc2	 καθ’ ἓν δ’ ἕκαστον σκοπῶμεν .
+perseus-eng2	 Let us examine each point in detail.
+
+cts:urn:tlg0032.tlg008:11.2
+glaux1.0-sentence	298
+perseus-grc2	 οἰκίαν πρῶτον ὑπερβαλλούσῃ δαπάνῃ κεκαλλωπισμένην μᾶλλον ἡγῇ κόσμου ἄν σοι παρέχειν ἢ πᾶσαν τὴν πόλιν τείχεσί τε καὶ ναοῖς καὶ παστάσι καὶ ἀγοραῖς καὶ λιμέσι κατεσκευασμένην ;
+perseus-eng2	 But let us go into details. First, which do you suppose is likely to bring you more credit, to own a palace adorned with priceless objects of art, or to have the whole city garnished with walls and temples and verandahs and market-places and harbours?
+
+cts:urn:tlg0032.tlg008:11.3
+glaux1.0-sentence	299
+perseus-grc2	 ὅπλοις δὲ πότερον τοῖς ἐκπαγλοτάτοις αὐτὸς κατακεκοσμημένος δεινότερος ἂν φαίνοιο τοῖς πολεμίοις ἢ τῆς πόλεως ὅλης εὐόπλου σοι οὔσης ;
+perseus-eng2	 Which will make you look more terrible to the enemy, to dazzle all beholders with your own glittering panoply, or to present the whole of your people in goodly armour?
+
+cts:urn:tlg0032.tlg008:11.4
+glaux1.0-sentence	300
+perseus-grc2	 προσόδους δὲ ποτέρως ἂν δοκεῖς πλείονας γίγνεσθαι , εἰ τὰ σὰ ἴδια μόνον ἐνεργὰ ἔχοις ἢ εἰ τὰ πάντων τῶν πολιτῶν μεμηχανημένος εἴης ἐνεργὰ εἶναι ;
+perseus-eng2	 Which plan, think you, will yield revenues more abounding, to keep only your own capital employed, or to contrive to bring the capital of all the citizens into employment?
+
+cts:urn:tlg0032.tlg008:11.5
+glaux1.0-sentence	301
+perseus-grc2	 τὸ δὲ πάντων κάλλιστον καὶ μεγαλοπρεπέστατον νομιζόμενον εἶναι ἐπιτήδευμα ἁρματοτροφίαν , ποτέρως ἂν δοκεῖς μᾶλλον κοσμεῖν , εἰ αὐτὸς πλεῖστα τῶν Ἑλλήνων ἅρματα τρέφοις τε καὶ πέμποις εἰς τὰς πανηγύρεις , ἢ εἰ ἐκ τῆς σῆς πόλεως πλεῖστοι μὲν ἱπποτρόφοι εἶεν , πλεῖστοι δ’ ἀγωνίζοιντο ;
+perseus-eng2	 And what about the breeding of chariot horses, commonly considered the noblest and grandest business in the world? By which method do you think you will gain most credit for that, if you out-do all other Greeks in the number of teams you breed and send to the festivals, or if the greatest number of breeders and the greatest number of competitors are drawn from your city?
+
+cts:urn:tlg0032.tlg008:11.5
+glaux1.0-sentence	302
+perseus-grc2	 νικᾶν δὲ πότερα δοκεῖς κάλλιον εἶναι ἅρματος ἀρετῇ ἢ πόλεως ἧς προστατεύεις εὐδαιμονίᾳ ;
+perseus-eng2	 And how is the nobler victory gained, by the excellence of your team, or by the prosperity of the city of which you are the head?
+
+cts:urn:tlg0032.tlg008:11.6
+glaux1.0-sentence	303
+perseus-grc2	 ἐγὼ μὲν γὰρ οὐδὲ προσήκειν φημὶ ἀνδρὶ τυράννῳ πρὸς ἰδιώτας ἀγωνίζεσθαι .
+perseus-eng2	 Indeed my own opinion is that it is not even seemly for a great despot to compete with private citizens.
+
+cts:urn:tlg0032.tlg008:11.6
+glaux1.0-sentence	304
+perseus-grc2	 νικῶν μὲν γὰρ οὐκ ἂν θαυμάζοιο ἀλλὰ φθονοῖο , ὡς ἀπὸ πολλῶν οἴκων τὰς δαπάνας ποιούμενος , νικώμενος δ’ ἂν πάντων μάλιστα καταγελῷο .
+perseus-eng2	 For your victory would excite envy rather than admiration, on the ground that many estates supply the money that you spend, and no defeat would be greeted with so much ridicule as yours.
+
+cts:urn:tlg0032.tlg008:11.7
+glaux1.0-sentence	305
+perseus-grc2	 ἀλλ’ ἐγώ σοί φημι , ὦ Ἱέρων , πρὸς ἄλλους προστάτας πόλεων τὸν ἀγῶνα εἶναι , ὧν ἐὰν σὺ εὐδαιμονεστάτην τὴν πόλιν ἧς προστατεύεις παρέχῃς , κηρυχθήσῃ νικῶν τῷ καλλίστῳ καὶ μεγαλοπρεπεστάτῳ ἐν ἀνθρώποις ἀγωνίσματι .
+perseus-eng2	 I tell you, Hiero, you have to compete with other heads of states, and if you cause your state to surpass theirs in prosperity, be well assured that you are the victor in the noblest and grandest competition in the world.
+
+cts:urn:tlg0032.tlg008:11.8
+glaux1.0-sentence	306
+perseus-grc2	 καὶ πρῶτον μὲν εὐθὺς κατειργασμένος ἂν εἴης τὸ φιλεῖσθαι ὑπὸ τῶν ἀρχομένων , οὗ δὴ σὺ ἐπιθυμῶν τυγχάνεις ·
+perseus-eng2	 And in the first place you will forthwith have secured just what you really want, the affection of your subjects.
+
+cts:urn:tlg0032.tlg008:11.8
+glaux1.0-sentence	307
+perseus-grc2	 ἔπειτα δὲ τὴν σὴν νίκην οὐκ ἂν εἷς εἴη ὁ ἀνακηρύττων , ἀλλὰ πάντες ἄνθρωποι ὑμνοῖεν ἂν τὴν σὴν ἀρετήν .
+perseus-eng2	 Secondly, your victory will not be proclaimed by one herald’s voice, but all the world will tell of your virtue.
+
+cts:urn:tlg0032.tlg008:11.9
+glaux1.0-sentence	308
+perseus-grc2	 περίβλεπτος δὲ ὢν οὐχ ὑπὸ ἰδιωτῶν μόνον ἀλλὰ καὶ ὑπὸ πολλῶν πόλεων ἀγαπῷο ἄν , καὶ θαυμαστὸς οὐκ ἰδίᾳ μόνον ἀλλὰ καὶ δημοσίᾳ παρὰ πᾶσιν ἂν εἴης , καὶ ἐξείη μὲν ἄν σοι ἕνεκεν ἀσφαλείας , εἴ ποι βούλοιο , θεωρήσοντι πορεύεσθαι , ἐξείη δ’ ἂν αὐτοῦ μένοντι τοῦτο πράττειν .
+perseus-eng2	 The observed of all observers’ eyes, you will be a hero, not only to private citizens, but to many states: you will be admired not only in your home, but in public among all men.
+
+cts:urn:tlg0032.tlg008:11.10
+glaux1.0-sentence	309
+perseus-grc2	 ἀεὶ γὰρ ἂν παρὰ σοὶ πανήγυρις εἴη τῶν βουλομένων ἐπιδεικνύναι εἴ τίς τι σοφὸν ἢ καλὸν ἢ ἀγαθὸν ἔχοι , τῶν δὲ καὶ ἐπιθυμούντων ὑπηρετεῖν .
+perseus-eng2	 And you will be free to go wherever you choose, so far as safety is concerned, to see the sights, and equally free to enjoy them in your home; for you will have a throng of aspirants before you, some eager to display something wise or beautiful or good, others longing to serve you.
+
+cts:urn:tlg0032.tlg008:11.11
+glaux1.0-sentence	310
+perseus-grc2	 πᾶς δὲ ὁ μὲν παρὼν σύμμαχος ἂν εἴη σοι , ὁ δὲ ἀπὼν ἐπιθυμοίη ἂν ἰδεῖν σε .
+perseus-eng2	 Everyone present will be an ally, everyone absent will long to see you.
+
+cts:urn:tlg0032.tlg008:11.11
+glaux1.0-sentence	311
+perseus-grc2	 ὥστε οὐ μόνον φιλοῖο ἄν , ἀλλὰ καὶ ἐρῷο ὑπ’ ἀνθρώπων , καὶ τοὺς καλοὺς οὐ πειρᾶν , ἀλλὰ πειρώμενον ὑπ’ αὐτῶν ἀνέχεσθαι ἄν σε δέοι , φόβον δ’ οὐκ ἂν ἔχοις ἀλλ’ ἄλλοις παρέχοις μή τι πάθῃς , ἑκόντας δὲ τοὺς πειθομένους ἔχοις ἂν καὶ ἐθελουσίως σου προνοοῦντας θεῷο ἄν , εἰ δέ τις κίνδυνος εἴη , οὐ συμμάχους μόνον ἀλλὰ καὶ προμάχους καὶ προθύμους ὁρῴης ἄν , πολλῶν μὲν δωρεῶν ἀξιούμενος , οὐκ ἀπορῶν δὲ ὅτῳ τούτων εὐμενεῖ μεταδώσεις , πάντας μὲν συγχαίροντας ἔχων ἐπὶ τοῖς σοῖς ἀγαθοῖς , πάντας δὲ πρὸ τῶν σῶν ἰδίων ὥσπερ τῶν ἰδίων μαχομένους .
+perseus-eng2	 Thus you will be not only the loved, but the adored of mankind. You will need not to court the fair, but to listen patiently to their suit. Anxiety for your welfare will fall not on yourself, but on others.
+
+cts:urn:tlg0032.tlg008:11.13
+glaux1.0-sentence	312
+perseus-grc2	 θησαυρούς γε μὴν ἔχοις ἂν πάντας τοὺς παρὰ τοῖς φίλοις πλούτους .
+perseus-eng2	 And all the riches in the houses of your friends will be yours in fee.
+
+cts:urn:tlg0032.tlg008:11.13
+glaux1.0-sentence	313
+perseus-grc2	 ἀλλὰ θαρρῶν , ὦ Ἱέρων , πλούτιζε μὲν τοὺς φίλους ·
+perseus-eng2	 Take heart then, Hiero; enrich your friends,
+
+cts:urn:tlg0032.tlg008:11.13
+glaux1.0-sentence	314
+perseus-grc2	 σαυτὸν γὰρ πλουτιεῖς ·
+perseus-eng2	 for so you will enrich yourself.
+
+cts:urn:tlg0032.tlg008:11.13
+glaux1.0-sentence	315
+perseus-grc2	 αὖξε δὲ τὴν πόλιν ·
+perseus-eng2	 Exalt the state,
+
+cts:urn:tlg0032.tlg008:11.13
+glaux1.0-sentence	316
+perseus-grc2	 σαυτῷ γὰρ δύναμιν περιάψεις ·
+perseus-eng2	 for so you will deck yourself with power.
+
+cts:urn:tlg0032.tlg008:11.13
+glaux1.0-sentence	317
+perseus-grc2	 κτῶ δὲ αὐτῇ συμμάχους ·
+perseus-eng2	 Gain allies for the state;
+
+cts:urn:tlg0032.tlg008:11.13
+glaux1.0-sentence	318
+perseus-grc2	 G? νόμιζε δὲ τὴν μὲν πατρίδα οἶκον , τοὺς δὲ πολίτας ἑταίρους , τοὺς δὲ φίλους τέκνα σεαυτοῦ , τοὺς δὲ παῖδας ὅτιπερ τὴν σὴν ψυχήν , καὶ τούτους πάντας πειρῶ νικᾶν εὖ ποιῶν .
+perseus-eng2	 and regard your country as your home, your fellow citizens as comrades, your friends as your own children, and your children as your very soul. Strive to outdo all these in doing good.
+
+cts:urn:tlg0032.tlg008:11.15
+glaux1.0-sentence	319
+perseus-grc2	 ἐὰν γὰρ τοὺς φίλους κρατῇς εὖ ποιῶν , οὐ μή σοι δύνωνται ἀντέχειν οἱ πολέμιοι .
+perseus-eng2	 For if you out-do your friends in kindness, it is certain that your enemies will not be able to resist you.
+
+cts:urn:tlg0032.tlg008:11.15
+glaux1.0-sentence	320
+perseus-grc2	 κἂν ταῦτα πάντα ποιῇς , εὖ ἴσθι , πάντων τῶν ἐν ἀνθρώποις κάλλιστον καὶ μακαριώτατον κτῆμα κεκτήσει ·
+perseus-eng2	 And if you do all these things, rest assured, you will be possessed of the fairest and most blessed possession in the world;
+
+cts:urn:tlg0032.tlg008:11.15
+glaux1.0-sentence	321
+perseus-grc2	 εὐδαιμονῶν γὰρ οὐ φθονηθήσῃ .
+perseus-eng2	 for none will be jealous of your happiness.
