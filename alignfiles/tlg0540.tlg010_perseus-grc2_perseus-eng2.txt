@@ -1,0 +1,455 @@
+
+cts:urn:tlg0540.tlg010:1
+glaux2.0-sentence	1
+perseus-grc2	 μαρτύρων μὲν οὐκ ἀπορίαν μοι ἔσεσθαι δοκῶ , ὦ ἄνδρες δικασταί ·
+perseus-eng2	 I believe that I shall not be at a loss for witnesses, gentlemen of the jury:
+
+cts:urn:tlg0540.tlg010:1
+glaux2.0-sentence	2
+perseus-grc2	 πολλοὺς γὰρ ὑμῶν ὁρῶ δικάζοντας τῶν τότε παρόντων , ὅτε Λυσίθεος Θεόμνηστον εἰσήγγελλε τὰ ὅπλα ἀποβεβληκότα , οὐκ ἐξὸν αὐτῷ , δημηγορεῖν ·
+perseus-eng2	 for I see many of you in this place of judgement who were present at the time when Lysitheus was prosecuting Theomnestus for speaking before the people, since he had lost the right to do so by having cast away his armour.
+
+cts:urn:tlg0540.tlg010:1
+glaux2.0-sentence	3
+perseus-grc2	 ἐν ἐκείνῳ γὰρ τῷ ἀγῶνι τὸν πατέρα μ’ ἔφασκεν ἀπεκτονέναι τὸν ἐμαυτοῦ .
+perseus-eng2	 Now it was during that trial that he asserted that I had killed my own father.
+
+cts:urn:tlg0540.tlg010:2
+glaux2.0-sentence	4
+perseus-grc2	 ἐγὼ δ’ , εἰ μὲν τὸν ἑαυτοῦ με ἀπεκτονέναι ᾐτιᾶτο , συγγνώμην ἂν εἶχον αὐτῷ τῶν εἰρημένων ( φαῦλον γὰρ αὐτὸν καὶ οὐδενὸς ἄξιον ἡγούμην ) ·
+perseus-eng2	 If he accused me of having killed his own, I should forgive him his statement, regarding him as an insignificant and worthless person;
+
+cts:urn:tlg0540.tlg010:2
+glaux2.0-sentence	5
+perseus-grc2	 οὐ -δ’ εἴ τι ἄλλο τῶν ἀπορρήτων ἤκουσα , οὐκ ἂν ἐπεξῆλθον αὐτῷ ( ἀνελευθέρου γὰρ καὶ λίαν φιλοδίκου εἶναι νομίζω κακηγορίας δικάζεσθαι ) ·
+perseus-eng2	 nor, if I had heard him apply any other forbidden term to me, should I have taken steps against him, since I consider it a mark of a mean and too litigious person to go to law for slander.
+
+cts:urn:tlg0540.tlg010:3
+glaux2.0-sentence	6
+perseus-grc2	 νυνὶ δὲ αἰσχρόν μοι εἶναι δοκεῖ τοῦ πατρός , οὕτω πολλοῦ ἀξίου γεγενημένου καὶ ὑμῖν καὶ τῇ πόλει , μὴ τιμωρήσασθαι τὸν ταῦτ’ εἰρηκότα , καὶ παρ’ ὑμῶν εἰδέναι βούλομαι πότερον δώσει δίκην , ἢ τούτῳ μόνῳ Ἀθηναίων ἐξαίρετόν ἐστι καὶ ποιεῖν καὶ λέγειν παρὰ τοὺς νόμους ὅ τι ἂν βούληται .
+perseus-eng2	 But in the present case I feel it would be disgraceful, as it concerns my father, who has deserved so highly both of you and of the State, — not to take vengeance on the man who has made that statement; and I wish to know from you whether he will be duly punished, or whether he alone of the Athenians has the privilege of doing and saying whatever he pleases in defiance of the laws.
+
+cts:urn:tlg0540.tlg010:4
+glaux2.0-sentence	7
+perseus-grc2	 ἐμοὶ γάρ , ὦ ἄνδρες δικασταί , ἔτη ἐστὶ δύο καὶ τριάκοντα , ἐξ ὅτου δ’ ὑμεῖς κατεληλύθατε , εἰκοστὸν τουτί .
+perseus-eng2	 My age, gentlemen, is thirty-two, and your return to the city was nineteen years ago.
+
+cts:urn:tlg0540.tlg010:4
+glaux2.0-sentence	8
+perseus-grc2	 φαίνομαι οὖν τρισκαιδεκέτης ὢν ὅτε ὁ πατὴρ ὑπὸ τῶν τριάκοντα ἀπέθνησκε .
+perseus-eng2	 It will be seen, therefore, that I was thirteen when my father was put to death by the Thirty.
+
+cts:urn:tlg0540.tlg010:4
+glaux2.0-sentence	9
+perseus-grc2	 ταύτην δὲ ἔχων τὴν ἡλικίαν οὔ -τε τί ἔστιν ὀλιγαρχία ἠπιστάμην , οὔ -τε ἂν ἐκείνῳ ἀδικουμένῳ ἐδυνάμην βοηθῆσαι .
+perseus-eng2	 At that age I neither knew what an oligarchy was, nor would have been able to rescue him from the wrong that he suffered.
+
+cts:urn:tlg0540.tlg010:5
+glaux2.0-sentence	10
+perseus-grc2	 καὶ μὲν δὴ οὐκ ὀρθῶς τῶν χρημάτων ἕνεκα ἐπεβούλευσα ἂν αὐτῷ ·
+perseus-eng2	 Besides, I could have had no true motive in the monetary way for making designs upon him:
+
+cts:urn:tlg0540.tlg010:5
+glaux2.0-sentence	11
+perseus-grc2	 ὁ γὰρ πρεσβύτερος ἀδελφὸς Πανταλέων ἅπαντα παρέλαβε , καὶ ἐπιτροπεύσας ἡμᾶς τῶν πατρῴων ἀπεστέρησεν , ὥστε πολλῶν ἕνεκα , ὦ ἄνδρες δικασταί , προσήκει μοι αὐτὸν βούλεσθαι ζῆν .
+perseus-eng2	 for my elder brother Pantaleon took over everything, and on becoming our guardian he deprived us of our patrimony; so that I have many good reasons, gentlemen, for wishing my father alive.
+
+cts:urn:tlg0540.tlg010:5
+glaux2.0-sentence	12
+perseus-grc2	 ἀνάγκη μὲν οὖν περὶ αὐτῶν μνησθῆναι , οὐδὲν δὲ δεῖ πολλῶν λόγων ·
+perseus-eng2	 Now, although it is necessary to mention those reasons, there is no need to dwell on them at length;
+
+cts:urn:tlg0540.tlg010:5
+glaux2.0-sentence	13
+perseus-grc2	 σχεδὸν γὰρ ἐπίστασθε ἅπαντες ὅτι ἀληθῆ λέγω .
+perseus-eng2	 for you all know well enough that I am speaking the truth.
+
+cts:urn:tlg0540.tlg010:5
+glaux2.0-sentence	14
+perseus-grc2	 ὅμως δὲ μάρτυρας αὐτῶν παρέξομαι .
+perseus-eng2	 Nevertheless I will produce witnesses to those facts.
+
+cts:urn:tlg0540.tlg010:6
+glaux2.0-sentence	15
+perseus-grc2	 ἴσως τοίνυν , ὦ ἄνδρες δικασταί , περὶ τούτων μὲν οὐδὲν ἀπολογήσεται , ἐρεῖ δὲ πρὸς ὑμᾶς ἅπερ ἐτόλμα λέγειν καὶ πρὸς τὸν διαιτητήν , ὡς οὐκ ἔστι τῶν ἀπορρήτων , ἐάν τις εἴπῃ τὸν πατέρα ἀπεκτονέναι ·
+perseus-eng2	 Well, it may be, gentlemen, that he will make no defence on these points, but will state again to you what he had the boldness to say before the arbitrator  — that it is not a use of a forbidden word to say that someone has killed his father,
+
+cts:urn:tlg0540.tlg010:6
+glaux2.0-sentence	16
+perseus-grc2	 τὸν γὰρ νόμον οὐ ταῦτ’ ἀπαγορεύειν , ἀλλ’ ἀνδροφόνον οὐκ ἐᾶν λέγειν .
+perseus-eng2	 since the law does not prohibit that, but does disallow the use of the word murderer.
+
+cts:urn:tlg0540.tlg010:7
+glaux2.0-sentence	17
+perseus-grc2	 ἐγὼ δὲ οἶμαι ὑμᾶς , ὦ ἄνδρες δικασταί , οὐ περὶ τῶν ὀνομάτων διαφέρεσθαι ἀλλὰ τῆς τούτων διανοίας , καὶ πάντας εἰδέναι , ὅτι ὅσοι ἀπεκτόνασί τινας , καὶ ἀνδροφόνοι εἰσί , καὶ ὅσοι ἀνδροφόνοι εἰσί , καὶ ἀπεκτόνασί τινας .
+perseus-eng2	 For my part, gentlemen, I hold that your concern is not with mere words but with their meaning, and that you are all aware that those who have killed someone are murderers, and that those who are murderers have killed someone.
+
+cts:urn:tlg0540.tlg010:7
+glaux2.0-sentence	18
+perseus-grc2	 πολὺ γὰρ ἔργον ἦν τῷ νομοθέτῃ ἅπαντα τὰ ὀνόματα γράφειν ὅσα τὴν αὐτὴν δύναμιν ἔχει ·
+perseus-eng2	 For it was too much of a task for the lawgiver to write all the words that have the same effect;
+
+cts:urn:tlg0540.tlg010:7
+glaux2.0-sentence	19
+perseus-grc2	 ἀλλὰ περὶ ἑνὸς εἰπὼν περὶ πάντων ἐδήλωσεν .
+perseus-eng2	 but by mentioning one he showed his meaning in regard to them all.
+
+cts:urn:tlg0540.tlg010:8
+glaux2.0-sentence	20
+perseus-grc2	 οὐ γὰρ δήπου , ὦ Θεόμνηστε , εἰ μέν τίς σε εἴποι πατραλοίαν ἢ μητραλοίαν , ἠξίους ἂν αὐτὸν ὀφλεῖν σοι δίκην , εἰ δέ τις εἴποι ὡς τὴν τεκοῦσαν ἢ τὸν φύσαντα ἔτυπτες , ᾤου ἂν αὐτὸν ἀζήμιον δεῖν εἶναι ὡς οὐδὲν τῶν ἀπορρήτων εἰρηκότα .
+perseus-eng2	 For I presume, Theomnestus, you would not go so far, while expecting to get satisfaction from a man who called you a father-beater or a mother-beater, as to consider that he should go unpunished for saying that you struck your male or your female parent because he had spoken no forbidden word!
+
+cts:urn:tlg0540.tlg010:9
+glaux2.0-sentence	21
+perseus-grc2	 ἡδέως γὰρ ἄν σου πυθοίμην ( περὶ τοῦτο γὰρ δεινὸς εἶ καὶ μεμελέτηκας καὶ ποιεῖν καὶ λέγειν ) ·
+perseus-eng2	 And I should be glad if you would tell me this, since of this affair you are a past master, both in action and in speech:
+
+cts:urn:tlg0540.tlg010:9
+glaux2.0-sentence	22
+perseus-grc2	 εἴ τίς σε εἴποι ῥῖψαι τὴν ἀσπίδα ( ἐν δὲ τῷ νόμῳ εἴρηται , " ἐάν τις φάσκῃ ἀποβεβληκέναι , ὑπόδικον εἶναι " ) , οὐκ ἂν ἐδικάζου αὐτῷ ἀλλ’ ἐξήρκει ἄν σοι ἐρριφέναι τὴν ἀσπίδα λέγοντι οὐδέν σοι μέλειν ;
+perseus-eng2	 if a man said that you had cast your shield (in the terms of the law it stands, —  "if anyone asserts that a man has thrown it away, he shall be liable to penalty" ), would you not prosecute him? Would you be content, if someone said you had cast your shield, to make nothing of it, because casting and throwing away are not the same thing?
+
+cts:urn:tlg0540.tlg010:10
+glaux2.0-sentence	23
+perseus-grc2	 οὐ -δὲ γὰρ τὸ αὐτό ἐστι ῥῖψαι καὶ ἀποβεβληκέναι ·
+perseus-eng2	 Nay, if you were one of the Eleven, you would refuse to accept a prisoner arrested on the charge of having pulled off the accuser’s cloak or stripped him of his shirt:
+
+cts:urn:tlg0540.tlg010:10
+glaux2.0-sentence	24
+perseus-grc2	 ἀλλ’ οὐ -δ’ ἂν τῶν ἕνδεκα γενόμενος ἀποδέξαιο , εἴ τις ἀπάγοι τινὰ φάσκων το- θοἰμάτιον ἀποδεδύσθαι ἢ τὸν χιτωνίσκον ἐκδεδύσθαι , ἀλλ’ ἀφείης ἂν τὸν αὐτὸν τρόπον , ὅτι οὐ λωποδύτης ὀνομάζεται .
+perseus-eng2	 by that same rule, you would rather let him go, because he was not called a clothes-stealer!
+
+cts:urn:tlg0540.tlg010:10
+glaux2.0-sentence	25
+perseus-grc2	 οὐ -δ’ εἴ τις παῖδα ἐξαγαγὼν ληφθείη , οὐκ ἂν φάσκοις αὐτὸν ἀνδραποδιστὴν εἶναι , εἴπερ μαχεῖ τοῖς ὀνόμασιν , ἀλλὰ μὴ τοῖς ἔργοις τὸν νοῦν προσέξεις , ὧν ἕνεκα τὰ ὀνόματα πάντες τίθενται .
+perseus-eng2	 Or if somebody were seized for the abduction of a child, you would declare him to be no kidnapper, since your contention will be about words, and you will have no thought to spare for deeds, — the objects for which words are everywhere made!
+
+cts:urn:tlg0540.tlg010:11
+glaux2.0-sentence	26
+perseus-grc2	 ἔτι τοίνυν σκέψασθε , ὦ ἄνδρες δικασταί ·
+perseus-eng2	 Then, again, consider this, gentlemen,
+
+cts:urn:tlg0540.tlg010:11
+glaux2.0-sentence	27
+perseus-grc2	 οὑτοσὶ γάρ μοι δοκεῖ ὑπὸ ῥᾳθυμίας καὶ μαλακίας οὐ -δ’ εἰς Ἄρειον πάγον ἀναβεβηκέναι .
+perseus-eng2	 — for I believe that this man, from indolence and enervation, has not even gone up to attend the Areopagus:
+
+cts:urn:tlg0540.tlg010:11
+glaux2.0-sentence	28
+perseus-grc2	 πάντες γὰρ ἐπίστασθε ὅτι ἐν ἐκείνῳ τῷ χωρίῳ , ὅταν τὰς τοῦ φόνου δίκας δικάζωνται , οὐ διὰ τούτου τοῦ ὀνόματος τὰς διωμοσίας ποιοῦνται , ἀλλὰ δι’ οὗπερ ἐγὼ κακῶς ἀκήκοα ·
+perseus-eng2	 you all know that in that place, when they try cases of murder, they do not use this term in making the sworn statements, but the one which was used for slandering me;
+
+cts:urn:tlg0540.tlg010:11
+glaux2.0-sentence	29
+perseus-grc2	 ὁ μὲν γὰρ διώκων ὡς ἔκτεινε διόμνυται , ὁ δὲ φεύγων ὡς οὐκ ἔκτεινεν .
+perseus-eng2	 the prosecutor swears that the other party has killed, and the defendant that he has not killed.
+
+cts:urn:tlg0540.tlg010:12
+glaux2.0-sentence	30
+perseus-grc2	 οὐκ οὖν ἄτοπον ἂν εἴη τὸν δράσαντ’ ἀφεῖναι φάσκοντα ἀνδροφόνον εἶναι , ὅτι ὁ διώκων , ὡς ἔκτεινε , τὸν φεύγοντα διωμόσατο ;
+perseus-eng2	 Well now, it would be absurd to acquit the doer of the deed when he declared he was a murderer, on the ground that the prosecutor deposed on oath that the defendant killed.
+
+cts:urn:tlg0540.tlg010:12
+glaux2.0-sentence	31
+perseus-grc2	 τί γὰρ ταῦτα , ὧν οὗτος ἐρεῖ , διαφέρει ;
+perseus-eng2	 And is not this the same thing as what this man’s plea will amount to?
+
+cts:urn:tlg0540.tlg010:12
+glaux2.0-sentence	32
+perseus-grc2	 καὶ αὐτὸς μὲν Λυσιθέῳ κακηγορίας ἐδικάσω εἰπόντι σε ἐρριφέναι τὴν ἀσπίδα .
+perseus-eng2	 Why, you have taken proceedings yourself against Lysitheus for slander, because he said that you had cast your shield:
+
+cts:urn:tlg0540.tlg010:12
+glaux2.0-sentence	33
+perseus-grc2	 καίτοι περὶ μὲν τοῦ ῥῖψαι οὐδὲν ἐν τῷ νόμῳ εἴρηται , ἐὰν δέ τις εἴπῃ ἀποβεβληκέναι τὴν ἀσπίδα , πεντακοσίας δραχμὰς ὀφείλειν κελεύει .
+perseus-eng2	 yet there is nothing in the terms of the law about casting, whereas, if anyone says, that a man has thrown away his shield, it imposes a penalty of five hundred drachmae.
+
+cts:urn:tlg0540.tlg010:13
+glaux2.0-sentence	34
+perseus-grc2	 οὐκ οὖν δεινόν , εἰ ὅταν μὲν δέῃ σὲ κακῶς ἀκούσαντα τοὺς ἐχθροὺς τιμωρεῖσθαι , οὕτω τοὺς νόμους ὥσπερ ἐγὼ νῦν λαμβάνεις , ὅταν δ’ ἕτερον παρὰ τοὺς νόμους εἴπῃς κακῶς , οὐκ ἀξιοῖς δοῦναι δίκην ;
+perseus-eng2	 How monstrous it is, then, that when you have to avenge yourself on your enemies for slander you take the laws in the sense that I do now, but when you slander another in defiance of the laws you claim to escape punishment!
+
+cts:urn:tlg0540.tlg010:13
+glaux2.0-sentence	35
+perseus-grc2	 πότερον οὕτως σὺ δεινὸς εἶ ὥστε , ὅπως ἂν βούλῃ , οἷός τ’ εἶ χρῆσθαι τοῖς νόμοις , ἢ τοσοῦτον δύνασαι ὥστε οὐδέποτε οἴει τοὺς ἀδικουμένους ὑπὸ σοῦ τιμωρίας τεύξεσθαι ;
+perseus-eng2	 Tell me, are you so clever that you are able to turn the laws about to suit your pleasure, or so powerful that you suppose that the people whom you have wronged will never get their revenge?
+
+cts:urn:tlg0540.tlg010:14
+glaux2.0-sentence	36
+perseus-grc2	 εἶτ’ οὐκ αἰσχύνῃ οὕτως ἀνοήτως διακείμενος , ὥστε οὐκ ἐξ ὧν εὖ πεποίηκας τὴν πόλιν , ἀλλ’ ἐξ ὧν ἀδικῶν οὐ δέδωκας δίκην , οἴει δεῖν πλεονεκτεῖν ;
+perseus-eng2	 And then, are you not ashamed of such a senseless vagary as to presume on advantages due to you, not for any services done to the State, but for your unpunished offences?
+
+cts:urn:tlg0540.tlg010:14
+glaux2.0-sentence	37
+perseus-grc2	 καί μοι ἀνάγνωθι τὸν νόμον .
+perseus-eng2	 Please read me the law.
+
+cts:urn:tlg0540.tlg010:15
+glaux2.0-sentence	38
+perseus-grc2	 ἐγὼ τοίνυν , ὦ ἄνδρες δικασταί , ὑμᾶς μὲν πάντας εἰδέναι ἡγοῦμαι ὅτι ἐγὼ μὲν ὀρθῶς λέγω , τοῦτον δὲ οὕτω σκαιὸν εἶναι ὥστε οὐ δύνασθαι μαθεῖν τὰ λεγόμενα .
+perseus-eng2	 Well, gentlemen, I think you have all perceived that my statement is correct, whereas this man is so stupid that he cannot understand a word that is said.
+
+cts:urn:tlg0540.tlg010:15
+glaux2.0-sentence	39
+perseus-grc2	 βούλομαι οὖν αὐτὸν καὶ ἐξ ἑτέρων νόμων περὶ τούτων διδάξαι , ἐάν πως ἀλλὰ νῦν ἐπὶ τοῦ βήματος παιδευθῇ καὶ τὸ λοιπὸν ἡμῖν μὴ παρέχῃ πράγματα .
+perseus-eng2	 So I would like to avail myself of some other laws for his instruction on these points, in the hope that even now, on the dais, he may learn a lesson, and may henceforward cease from his vexatious proceedings against us.
+
+cts:urn:tlg0540.tlg010:15
+glaux2.0-sentence	40
+perseus-grc2	 καί μοι ἀνάγνωθι τούτους τοὺς νόμους τοὺς Σόλωνος τοὺς παλαιούς .
+perseus-eng2	 Please read me those ancient laws of Solon.
+
+cts:urn:tlg0540.tlg010:16
+glaux2.0-sentence	41
+perseus-grc2	 " δεδέσθαι δ’ ἐν τῇ ποδοκάκκῃ ἡμέρας πέντε τὸν πόδα , ἐὰν " προστιμήσῃ ἡ ἡλιαία .
+perseus-eng2	 "He shall have his foot confined in the stocks for five days, if the court shall make such addition to the sentence."
+
+cts:urn:tlg0540.tlg010:16
+glaux2.0-sentence	42
+perseus-grc2	 ἡ ποδοκάκκη αὕτη ἐστίν , ὦ Θεόμνηστε , ὃ νῦν καλεῖται ἐν τῷ ξύλῳ δεδέσθαι .
+perseus-eng2	 The stocks there mentioned, Theomnestus, are what we now call confinement in the wood.
+
+cts:urn:tlg0540.tlg010:16
+glaux2.0-sentence	43
+perseus-grc2	 εἰ οὖν ὁ δεθεὶς ἐξελθὼν ἐν ταῖς εὐθύναις τῶν ἕνδεκα κατηγοροίη ὅτι οὐκ ἐν τῇ ποδοκάκκῃ ἐδέδετο ἀλλ’ ἐν τῷ ξύλῳ , οὐκ ἂν ἠλίθιον αὐτὸν νομίζοιεν ;
+perseus-eng2	 So if a person confined should on his release accuse the Eleven, at their public examination, of having him confined, not in the stocks, but in the wood, they would take him for an idiot, would they not?
+
+cts:urn:tlg0540.tlg010:16
+glaux2.0-sentence	44
+perseus-grc2	 λέγε ἕτερον νόμον .
+perseus-eng2	 Read another law.
+
+cts:urn:tlg0540.tlg010:17
+glaux2.0-sentence	45
+perseus-grc2	 " ἐπεγγυᾶν δ’ ἐπιορκήσαντα τὸν Ἀπόλλω .
+perseus-eng2	 "He shall vow by Apollo and give security.
+
+cts:urn:tlg0540.tlg010:17
+glaux2.0-sentence	46
+perseus-grc2	 δεδιότα δὲ δίκης ἕνεκα δρασκάζειν " .
+perseus-eng2	 If he dreads the course of justice, let him flee."
+
+cts:urn:tlg0540.tlg010:17
+glaux2.0-sentence	47
+perseus-grc2	 τοῦτο τὸ ἐπιορκήσαντα ὀμόσαντά ἐστι , τό τε δρασκάζειν , ὃ νῦν ἀποδιδράσκειν ὀνομάζομεν .
+perseus-eng2	 Here to vow is to swear, and flee is what we now call run away.
+
+cts:urn:tlg0540.tlg010:17
+glaux2.0-sentence	48
+perseus-grc2	 " ὅστις δὲ ἀπίλλει τῇ θύρᾳ , ἔνδον τοῦ κλέπτου ὄντος " .
+perseus-eng2	 "Whosoever debars with his door, when the thief is within,"
+
+cts:urn:tlg0540.tlg010:17
+glaux2.0-sentence	49
+perseus-grc2	 τὸ ἀπίλλειν τοῦτο ἀποκλείειν νομίζεται , καὶ μηδὲν διὰ τοῦτο διαφέρου .
+perseus-eng2	 — Here to debar is taken to be shut out; no dispute, now, on that score!
+
+cts:urn:tlg0540.tlg010:18
+glaux2.0-sentence	50
+perseus-grc2	 " τὸ ἀργύριον στάσιμον εἶναι ἐφ’ ὁπόσῳ ἂν βούληται ὁ δανείζων " .
+perseus-eng2	 "Money shall be placed out at whatever rate the lender may choose."
+
+cts:urn:tlg0540.tlg010:18
+glaux2.0-sentence	51
+perseus-grc2	 τὸ στάσιμον τοῦτό ἐστιν , ὦ βέλτιστε , οὐ ζυγῷ ἱστάναι ἀλλὰ τόκον πράττεσθαι ὁπόσον ἂν βούληται .
+perseus-eng2	 Placed out here, my fine fellow, is not a case of placing in the balance, but of drawing interest to such amount as one may choose.
+
+cts:urn:tlg0540.tlg010:18
+glaux2.0-sentence	52
+perseus-grc2	 ἔτι δ’ ἀνάγνωθι τουτουὶ τοῦ νόμου τὸ τελευταῖον .
+perseus-eng2	 Once more, read the final clause of this same law.
+
+cts:urn:tlg0540.tlg010:19
+glaux2.0-sentence	53
+perseus-grc2	 " ὅσαι δὲ πεφασμένως πολοῦνται , " καὶ " οἰκῆος βλάβης τὴν διπλὴν " εἶναι ὀφείλειν .
+perseus-eng2	 "All women who ply about overtly,"and "for hurt to a varlet the redress shall be double."
+
+cts:urn:tlg0540.tlg010:19
+glaux2.0-sentence	54
+perseus-grc2	 προσέχετε τὸν νοῦν .
+perseus-eng2	 Pay attention:
+
+cts:urn:tlg0540.tlg010:19
+glaux2.0-sentence	55
+perseus-grc2	 τὸ μὲν πεφασμένως ἐστὶ φανερῶς , πολεῖσθαι δὲ βαδίζειν , τὸ δὲ οἰκῆος θεράποντος .
+perseus-eng2	 overtly is openly, ply about is walk about, and a varlet is a servant.
+
+cts:urn:tlg0540.tlg010:20
+glaux2.0-sentence	56
+perseus-grc2	 πολλὰ δὲ τοιαῦτα καὶ ἄλλα ἐστίν , ὦ ἄνδρες δικασταί .
+perseus-eng2	 We have many other instances of the sort, gentlemen.
+
+cts:urn:tlg0540.tlg010:20
+glaux2.0-sentence	57
+perseus-grc2	 ἀλλ’ εἰ μὴ σιδηροῦς ἐστιν , οἴομαι αὐτὸν ἔννουν γεγονέναι ὅτι τὰ μὲν πράγματα τα- ταὐτά ἐστι νῦν τε καὶ πάλαι , τῶν δὲ ὀνομάτων ἐνίοις οὐ τοῖς αὐτοῖς χρώμεθα νῦν τε καὶ πρότερον .
+perseus-eng2	 But if he is not a numskull, I suppose he has realized that things are the same now as they were of old, but that in some cases we do not use the same terms now as we did formerly.
+
+cts:urn:tlg0540.tlg010:20
+glaux2.0-sentence	58
+perseus-grc2	 δηλώσει δέ ·
+perseus-eng2	 And he will show as much,
+
+cts:urn:tlg0540.tlg010:20
+glaux2.0-sentence	59
+perseus-grc2	 οἰχήσεται γὰρ ἀπιὼν ἀπὸ τοῦ βήματος σιωπῇ .
+perseus-eng2	 for he will leave the dais and depart in silence.
+
+cts:urn:tlg0540.tlg010:21
+glaux2.0-sentence	60
+perseus-grc2	 εἰ δὲ μή , δέομαι ὑμῶν , ὦ ἄνδρες δικασταί , τὰ δίκαια ψηφίσασθαι , ἐνθυμουμένους ὅτι πολὺ μεῖζον κακόν ἐστιν ἀκοῦσαί τινα τὸν πατέρα ἀπεκτονέναι ἢ τὴν ἀσπίδα ἀποβεβληκέναι .
+perseus-eng2	 If not, I beg you, gentlemen, to vote according to justice, reflecting that it is a far greater slur to be told that one has killed one’s father than that one has thrown away one’s shield.
+
+cts:urn:tlg0540.tlg010:21
+glaux2.0-sentence	61
+perseus-grc2	 ἐγὼ γοῦν δεξαίμην ἂν πάσας τὰς ἀσπίδας ἐρριφέναι ἢ τοιαύτην γνώμην ἔχειν περὶ τὸν πατέρα .
+perseus-eng2	 I, for one, would rather have cast any number of shields than entertain such thoughts regarding my father.
+
+cts:urn:tlg0540.tlg010:22
+glaux2.0-sentence	62
+perseus-grc2	 οὗτος οὖν ἔνοχος μὲν ὢν τῇ αἰτίᾳ , ἐλάττονος δὲ οὔσης αὐτῷ τῆς συμφορᾶς , οὐ μόνον ὑφ’ ὑμῶν ἠλεήθη , ἀλλὰ καὶ τὸν μαρτυρήσαντα ἠτίμωσεν .
+perseus-eng2	 Now this man, on a charge which was well-founded, but which involved less disaster to him, obtained not only your pity, but even the disfranchisement of the witness for the prosecution.
+
+cts:urn:tlg0540.tlg010:22
+glaux2.0-sentence	63
+perseus-grc2	 ἐγὼ δὲ ἑωρακὼς μὲν ἐκεῖνο τοῦτον ποιήσαντα ὃ καὶ ὑμεῖς ἴστε , αὐτὸς δὲ σώσας τὴν ἀσπίδα , ἀκηκοὼς δὲ οὕτως ἀνόσιον καὶ δεινὸν πρᾶγμα , μεγίστης δὲ οὔσης μοι τῆς συμφορᾶς , εἰ ἀποφεύξεται , τούτῳ δ’ οὐδενὸς ἀξίας , εἰ κακηγορίας ἁλώσεται , οὐκ ἄρα δίκην παρ’ αὐτοῦ λήψομαι ;
+perseus-eng2	 But I, who have seen him do that which you likewise know, who have saved my own shield, who have been accused of a proceeding thus unholy and monstrous, and whose disaster will be overwhelming if he is acquitted, while his will be inconsiderable if he is convicted of slander,
+
+cts:urn:tlg0540.tlg010:22
+glaux2.0-sentence	64
+perseus-grc2	 τίνος ὄντος ἐμοὶ πρὸς ὑμᾶς ἐγκλήματος ;
+perseus-eng2	 -am I not to obtain satisfaction from him? What imputation have you standing against me?
+
+cts:urn:tlg0540.tlg010:23
+glaux2.0-sentence	65
+perseus-grc2	 πότερον ὅτι δικαίως ἀκήκοα ;
+perseus-eng2	 Is it that I have been justly accused?
+
+cts:urn:tlg0540.tlg010:23
+glaux2.0-sentence	66
+perseus-grc2	 ἀλλ’ οὐ -δ’ ἂν αὐτοὶ φήσαιτε .
+perseus-eng2	 No, not even yourselves can say so.
+
+cts:urn:tlg0540.tlg010:23
+glaux2.0-sentence	67
+perseus-grc2	 ἀλλ’ ὅτι βελτίων καὶ ἐκ βελτιόνων ὁ φεύγων ἐμοῦ ;
+perseus-eng2	 That the defendant is a better man and of better birth than I?
+
+cts:urn:tlg0540.tlg010:23
+glaux2.0-sentence	68
+perseus-grc2	 ἀλλ’ οὐ -δ’ ἂν αὐτὸς ἀξιώσειεν .
+perseus-eng2	 No; not he himself can claim this.
+
+cts:urn:tlg0540.tlg010:23
+glaux2.0-sentence	69
+perseus-grc2	 ἀλλ’ ὅτι ἀποβεβληκὼς τὰ ὅπλα δικάζομαι κακηγορίας τῷ σώσαντι ;
+perseus-eng2	 That having thrown away my arms I am suing for slander a man who saved his?
+
+cts:urn:tlg0540.tlg010:23
+glaux2.0-sentence	70
+perseus-grc2	 ἀλλ’ οὐχ οὗτος ὁ λόγος ἐν τῇ πόλει κατεσκέδασται .
+perseus-eng2	 This is not the story that has been disseminated in the city.
+
+cts:urn:tlg0540.tlg010:24
+glaux2.0-sentence	71
+perseus-grc2	 ἀναμνήσθητε δὲ ὅτι μεγάλην καὶ καλὴν ἐκείνην δωρεὰν αὐτῷ δεδώκατε ·
+perseus-eng2	 Remember that there you have presented him with a rich and goodly gift in that respect,
+
+cts:urn:tlg0540.tlg010:24
+glaux2.0-sentence	72
+perseus-grc2	 ἐν ᾗ τίς οὐκ ἂν ἐλεήσειε Διονύσιον , τοιαύτῃ μὲν συμφορᾷ περιπεπτωκότα , ἄνδρα δὲ ἄριστον ἐν τοῖς κινδύνοις γεγενημένον ,
+perseus-eng2	 who would not pity Dionysius for the disaster that overtook him, after he had proved himself a man of the highest valor in times of danger,
+
+cts:urn:tlg0540.tlg010:25
+glaux2.0-sentence	72a
+perseus-grc2	 ἀπιόντα δὲ ἀπὸ τοῦ δικαστηρίου λέγοντα ὅτι δυστυχεστάτην ἐκείνην εἴημεν στρατείαν ἐστρατευμένοι , ἐν ᾗ πολλοὶ μὲν ἡμῶν ἀπέθανον , οἱ δὲ σώσαντες τὰ ὅπλα ὑπὸ τῶν ἀποβαλόντων ψευδομαρτυρίων ἑαλώκασι , κρεῖττον δὲ ἦν αὐτῷ τότε ἀποθανεῖν ἢ οἴκαδ’ ἐλθόντι τοιαύτῃ τύχῃ χρῆσθαι ;
+perseus-eng2	 who on leaving the court remarked that that was our most calamitous campaign, in which many of us were killed, and those who saved their arms had been condemned for false witness at the suit of those who threw theirs away; and that it had been better for him to be killed on that day than return home to meet with such a fate?
+
+cts:urn:tlg0540.tlg010:26
+glaux2.0-sentence	73
+perseus-grc2	 μὴ τοίνυν ἀκούσαντά τε Θεόμνηστον κακῶς τὰ προσήκοντα ἐλεεῖτε , καὶ ὑβρίζοντι καὶ λέγοντι παρὰ τοὺς νόμους συγγνώμην ἔχετε .
+perseus-eng2	 Do not, then, if you pity Theomnestus for the obloquy that he deserves, forgive him for outrages and expressions whereby he has broken the laws.
+
+cts:urn:tlg0540.tlg010:26
+glaux2.0-sentence	74
+perseus-grc2	 τίς γὰρ ἂν ἐμοὶ μείζων ταύτης γένοιτο συμφορά , περὶ τοιούτου πατρὸς οὕτως αἰσχρὰς αἰτίας ἀκηκοότι ;
+perseus-eng2	 For what greater misfortune could befall me, after I have had such shameful charges brought against me, and in relation to such a father?
+
+cts:urn:tlg0540.tlg010:27
+glaux2.0-sentence	75
+perseus-grc2	 ὃς πολλάκις μὲν ἐστρατήγησε , πολλοὺς δὲ καὶ ἄλλους κινδύνους μεθ’ ὑμῶν ἐκινδύνευσε ·
+perseus-eng2	 He was general many times, and shared your peril besides in many a conflict;
+
+cts:urn:tlg0540.tlg010:27
+glaux2.0-sentence	76
+perseus-grc2	 καὶ οὔ -τε τοῖς πολεμίοις τὸ ἐκείνου σῶμα ὑποχείριον ἐγένετο , οὔ -τε τοῖς πολίταις οὐδεμίαν πώποτε ὦφλεν εὐθύνην , ἔτη δὲ γεγονὼς ἑπτὰ καὶ ἑξήκοντα ἐν ὀλιγαρχίᾳ δι’ εὔνοιαν τοῦ ὑμετέρου πλήθους ἀπέθανεν .
+perseus-eng2	 neither did his person fall into the hands of the enemy, nor was he ever convicted by his fellow-citizens at any audit of his service, but at the age of sixty-seven he lost his life under the oligarchy for loyalty to your people.
+
+cts:urn:tlg0540.tlg010:28
+glaux2.0-sentence	77
+perseus-grc2	 ἆρ’ ἄξιον ὀργισθῆναι τῷ τοιαῦτ’ εἰρηκότι καὶ βοηθῆσαι τῷ πατρί , ὡς καὶ ἐκείνου κακῶς ἀκηκοότος ;
+perseus-eng2	 Is there not good cause to feel anger against the man who has made such statements, and to defend my father as included in this calumny?
+
+cts:urn:tlg0540.tlg010:28
+glaux2.0-sentence	78
+perseus-grc2	 τί γὰρ ἂν τούτου ἀνιαρότερον γένοιτο αὐτῷ , ἢ τεθνάναι μὲν ὑπὸ τῶν ἐχθρῶν , αἰτίαν δ’ ἔχειν ὑπὸ τῶν παίδων ἀνῃρῆσθαι ;
+perseus-eng2	 For what more distressing fate could overtake him than this, — after being slain by his enemies, to bear the reproach of having been destroyed by his children?
+
+cts:urn:tlg0540.tlg010:28
+glaux2.0-sentence	79
+perseus-grc2	 οὗ ἔτι καὶ νῦν , ὦ ἄνδρες δικασταί , τῆς ἀρετῆς τὰ μνημεῖα πρὸς τοῖς ὑμετέροις ἱεροῖς ἀνάκειται , τὰ δὲ τούτου καὶ τοῦ τούτου πατρὸς τῆς κακίας πρὸς τοῖς τῶν πολεμίων ·
+perseus-eng2	 Even now, gentlemen, the memorials of his valor are hanging in your temples, while those of this man’s and his father’s baseness are seen in the temples of the enemy,
+
+cts:urn:tlg0540.tlg010:28
+glaux2.0-sentence	80
+perseus-grc2	 οὕτω σύμφυτος αὐτοῖς ἡ δειλία .
+perseus-eng2	 so ingrained is cowardice in their nature.
+
+cts:urn:tlg0540.tlg010:29
+glaux2.0-sentence	81
+perseus-grc2	 καὶ μὲν δή , ὦ ἄνδρες δικασταί , ὅσῳ μείζους εἰσὶ καὶ νεανίαι τὰς ὄψεις , τοσούτῳ μᾶλλον ὀργῆς ἄξιοί εἰσι .
+perseus-eng2	 And indeed, gentlemen, the taller and more gallant they are in looks, the more they are deserving of anger.
+
+cts:urn:tlg0540.tlg010:29
+glaux2.0-sentence	82
+perseus-grc2	 δῆλον γὰρ ὅτι τοῖς μὲν σώμασι δύνανται , τὰς δὲ ψυχὰς οὐκ εὖ ἔχουσιν .
+perseus-eng2	 For it is clear that, though strong in their bodies, they are ill in their souls.
+
+cts:urn:tlg0540.tlg010:30
+glaux2.0-sentence	83
+perseus-grc2	 ἀκούω δ’ αὐτόν , ὦ ἄνδρες δικασταί , ἐπὶ τοῦτον τὸν λόγον τρέπεσθαι , ὡς ὀργισθεὶς εἴρηκε ταῦτα ἐμοῦ μαρτυρήσαντος τὴν αὐτὴν μαρτυρίαν Διονυσίῳ .
+perseus-eng2	 I hear, gentlemen, that he is resorting to the argument that he has made these statements in a fit of anger at my having borne witness to the same effect as Dionysius.
+
+cts:urn:tlg0540.tlg010:30
+glaux2.0-sentence	84
+perseus-grc2	 ὑμεῖς δ’ ἐνθυμεῖσθε , ὦ ἄνδρες δικασταί , ὅτι ὁ νομοθέτης οὐδεμίαν ὀργῇ συγγνώμην δίδωσιν , ἀλλὰ ζημιοῖ τὸν λέγοντα , ἐὰν μὴ ἀποφαίνῃ ὡς ἔστιν ἀληθῆ τὰ εἰρημένα .
+perseus-eng2	 But your reflection on this, gentlemen, must be that the lawgiver grants no indulgence to anger he punishes the speaker, unless he proves the truth of the statements that he has made.
+
+cts:urn:tlg0540.tlg010:30
+glaux2.0-sentence	85
+perseus-grc2	 ἐγὼ δὲ δὶς ἤδη περὶ τούτου μεμαρτύρηκα ·
+perseus-eng2	 I myself have now borne witness twice in regard to this man;
+
+cts:urn:tlg0540.tlg010:30
+glaux2.0-sentence	86
+perseus-grc2	 οὐ γὰρ πω ᾔδη ὅτι ὑμεῖς τοὺς μὲν ἰδόντας τιμωρεῖσθε , τοῖς δὲ ἀποβαλοῦσι συγγνώμην ἔχετε .
+perseus-eng2	 for I was not yet aware that you punished the persons who had seen the deed, but pardoned those who had done the throwing away.
+
+cts:urn:tlg0540.tlg010:31
+glaux2.0-sentence	87
+perseus-grc2	 περὶ μὲν οὖν τούτων οὐκ οἶδ’ ὅ τι δεῖ πλείω λέγειν ·
+perseus-eng2	 I doubt if on these points there is need to say any more.
+
+cts:urn:tlg0540.tlg010:31
+glaux2.0-sentence	88
+perseus-grc2	 ἐγὼ δ’ ὑμῶν δέομαι καταψηφίσασθαι Θεομνήστου , ἐνθυμουμένους ὅτι οὐκ ἂν γένοιτο τούτου μείζων ἀγών μοι .
+perseus-eng2	 I request you to condemn Theomnestus, reflecting that no trial could be more serious for me than the present.
+
+cts:urn:tlg0540.tlg010:31
+glaux2.0-sentence	89
+perseus-grc2	 νῦν γὰρ διώκω μὲν κακηγορίας , τῇ δ’ αὐτῇ ψήφῳ φόνου φεύγω τοῦ πατρός , ὃς μόνος , ἐπειδὴ τάχιστα ἐδοκιμάσθην , ἐπεξῆλθον τοῖς τριάκοντα ἐν Ἀρείῳ πάγῳ .
+perseus-eng2	 For although I am now prosecuting for slander, yet at the same casting of your vote I am prosecuted for murdering my father, — I who alone, as soon as I was certified to be of age, indicted the Thirty before the Areopagus.
+
+cts:urn:tlg0540.tlg010:32
+glaux2.0-sentence	90
+perseus-grc2	 ὧν μεμνημένοι καὶ ἐμοὶ καὶ τῷ πατρὶ βοηθήσατε καὶ τοῖς νόμοις τοῖς κειμένοις καὶ τοῖς ὅρκοις οἷς ὀμωμόκατε .
+perseus-eng2	 Remembering these reasons, vindicate me and my father, and also the established laws and the oaths that you have sworn.

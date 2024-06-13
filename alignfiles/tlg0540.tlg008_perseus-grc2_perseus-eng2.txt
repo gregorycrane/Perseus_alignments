@@ -1,0 +1,359 @@
+
+cts:urn:tlg0540.tlg008:1
+glaux2.0-sentence	1
+perseus-grc2	 ἐπιτήδειόν μοι δοκῶ καιρὸν εἰληφέναι περὶ ὧν εἰπεῖν ἐβουλόμην πάλαι ·
+perseus-eng2	 It is a suitable opportunity, I consider, that I have taken to deal with matters on which I had long been wishing to speak;
+
+cts:urn:tlg0540.tlg008:1
+glaux2.0-sentence	2
+perseus-grc2	 πάρεισι μὲν γὰρ οἷς ἐπεγκαλῶ , πάρεισι δὲ ὧν ἐναντίον ἐπιθυμῶ μέμψασθαι τοῖς ἀδικοῦσιν ἐμέ .
+perseus-eng2	 for we have here present the persons against whom I have to complain, and those present also before whom I am anxious to reprove the men who have done me wrong.
+
+cts:urn:tlg0540.tlg008:1
+glaux2.0-sentence	3
+perseus-grc2	 καίτοι πολλῷ πλείων ἐστὶ σπουδὴ πρὸς τοὺς παρόντας ·
+perseus-eng2	 To be sure, one is far more earnest towards men in their presence;
+
+cts:urn:tlg0540.tlg008:1
+glaux2.0-sentence	4
+perseus-grc2	 τοὺς μὲν γὰρ παρ’ οὐδὲν οἶμαι τιμήσειν , εἰ τοῖς ἐπιτηδείοις ἀνεπιτήδειοι δόξουσιν εἶναι ( τὴν γὰρ ἀρχὴν οὐ -δ’ ἂν ἐπεχείρουν ἐξαμαρτάνειν εἰς ἐμὲ ) ,
+perseus-eng2	 for although I suppose that my opponents will count it as nothing to be considered unfriendly by their friends (else they would never have made even a first attempt to offend against me),
+
+cts:urn:tlg0540.tlg008:2
+glaux2.0-sentence	4a
+perseus-grc2	 τοῖς δὲ βουλοίμην ἂν δόξαι μηδὲν ἀδικῶν τούτους ὑπὸ τούτων ἀδικεῖσθαι πρότερον .
+perseus-eng2	 to the rest I would like to show that I have done no wrong to these men, but that they were beforehand in wronging me.
+
+cts:urn:tlg0540.tlg008:2
+glaux2.0-sentence	5
+perseus-grc2	 ἀνιαρὸν μὲν οὖν ἀναγκάζεσθαι λέγειν περὶ τούτων , ἀδύνατον δὲ μὴ λέγειν , ὅταν ἐναντίον τῆς ἐλπίδος κακῶς πάσχω καὶ τοὺς δοκοῦντας εἶναι φίλους ἀδικοῦντας εὑρίσκω .
+perseus-eng2	 Now of course it is painful to be compelled to speak of these matters but it is impossible not to speak, when I meet with ill-treatment against my expectation, and find that I am wronged by those whom I took to be friends.
+
+cts:urn:tlg0540.tlg008:3
+glaux2.0-sentence	6
+perseus-grc2	 πρῶτον μὲν οὖν , ἵνα μή τις ὑμῶν τάχα δὴ βοηθῶν οἷς ἐξημάρτηκε πρόφασιν πορίσηται τῆς ἁμαρτίας , εἰπάτω οὖν τίς ὑμῶν ὑπ’ ἐμοῦ κακῶς ἀκήκοεν ἢ πέπονθεν , ἢ τίς ἐμοῦ δεηθεὶς οὐκ ἔτυχεν ὧν ἐγώ τε δυνατὸς ἦ κα- κἀκεῖνος ἐπήγγειλε .
+perseus-eng2	 Well then, first of all, so that none of you may perchance defend his faults by scraping up an excuse for his error, let him say who among you has been ill-treated by me in speech or in act, or who has made a request of me without getting what I was able to give as he proposed.
+
+cts:urn:tlg0540.tlg008:3
+glaux2.0-sentence	7
+perseus-grc2	 — τί δῆτά με κακῶς τὰ μὲν λέγειν τὰ δὲ ποιεῖν χειρεῖτε ,
+perseus-eng2	 Why, I ask, do you endeavor to do me harm, sometimes in word, and sometimes in deed;
+
+cts:urn:tlg0540.tlg008:4
+glaux2.0-sentence	7a
+perseus-grc2	 καὶ ταῦτα πρὸς τούτους ἡμᾶς διαβάλλειν , οὓς πρὸς ἡμᾶς αὐτοὺς διεβάλλετε ;
+perseus-eng2	 and, what is more, to traduce me to these men, whom you traduced to myself?
+
+cts:urn:tlg0540.tlg008:4
+glaux2.0-sentence	8
+perseus-grc2	 καίτοι οὕτως ἠνωχλεῖτε , ὥστε περὶ πλείονος ἐποιήσατό τις δοκεῖν ἐμοῦ κήδεσθαι , ἢ ἄλλον ἐμοὶ κατειπεῖν .
+perseus-eng2	 Nay, indeed, you were making so much mischief that one man preferred to appear to be concerned for me rather than have another give me information of it.
+
+cts:urn:tlg0540.tlg008:4
+glaux2.0-sentence	9
+perseus-grc2	 ἃ δ’ ἔλεγε , πάντα μὲν οὐκ ἂν εἴποιμι ( καὶ γὰρ ἀκούων ἠχθόμην ) οὐ -δ’ ἂν ὑμῖν ἐπικαλῶν , ὅτι ἐλέγετε κατ’ ἐμοῦ , τα- ταὐτὰ λέξαιμι .
+perseus-eng2	 I could not tell you the whole of what he said — the mere hearing of it was grievous to me — nor, for my protest against your aspersions on me, would I speak in the same terms;
+
+cts:urn:tlg0540.tlg008:4
+glaux2.0-sentence	10
+perseus-grc2	 καὶ γὰρ ἂν ἀπολύοιμι τῆς αἰτίας ὑμᾶς , εἴπερ ὑμῖν τα- ταὐτὰ λέγοιμι περὶ ἐμαυτοῦ ·
+perseus-eng2	 for I should be absolving you of my charge against you if I used the same language to you on my own behalf.
+
+cts:urn:tlg0540.tlg008:5
+glaux2.0-sentence	11
+perseus-grc2	 ἃ δὲ ὑβρίζειν οἰόμενοι ἐμὲ καταγελάστους ὑμᾶς αὐτοὺς ἐποιεῖτε , ταῦτα λέξω .
+perseus-eng2	 But I will tell you how, in thinking to do me an outrage, you made yourselves ridiculous.
+
+cts:urn:tlg0540.tlg008:5
+glaux2.0-sentence	12
+perseus-grc2	 βίᾳ γὰρ ὑμῖν ἐφάσκετέ με ξυνεῖναι καὶ διαλέγεσθαι , καὶ πάντα ποιοῦντες οὐκ ἔχειν ὅπως ἀπαλλαγῆτέ μου , καὶ τὸ τελευταῖον ἀκόντων ὑμῶν Ἐλευσῖνάδε ξυνθεωρεῖν .
+perseus-eng2	 You asserted that it was an intrusion when I associated and talked with you; that despite all your efforts you did not know how to get rid of me; and finally, that it was against your will that you went with me on a mission to Eleusis .
+
+cts:urn:tlg0540.tlg008:5
+glaux2.0-sentence	13
+perseus-grc2	 καὶ ταῦτα λέγοντες οἴεσθε μὲν ἐμὲ κακολογεῖν , ἀποφαίνετε δὲ σκαιοτάτους ἑαυτούς , οἵτινες ὑπὸ τὸν αὐτὸν χρόνον τὸν αὐτὸν ἄνδρα λάθρᾳ μὲν ἐλοιδορεῖτε , φανερῶς δὲ φίλον ἐνομίζετε .
+perseus-eng2	 In making these statements you think you are defaming me, but you only reveal yourselves as utter dunderheads; for you were covertly abusing the same man whom at the same moment you were openly treating as a friend!
+
+cts:urn:tlg0540.tlg008:6
+glaux2.0-sentence	14
+perseus-grc2	 χρῆν γὰρ ὑμᾶς ἢ μὴ κακῶς λέγειν ἢ μὴ ξυνεῖναι , καὶ ταῦτα φανερῶς ἀπειπόντας ὁμιλίαν .
+perseus-eng2	 You ought to have refrained either from defaming him or from associating with him, and that by an open renunciation of his company.
+
+cts:urn:tlg0540.tlg008:6
+glaux2.0-sentence	15
+perseus-grc2	 εἰ δὲ αἰσχρὸν ἡγεῖσθε τοῦτο , πῶς αἰσχρὸν ἦν ὑμῖν ξυνεῖναι , πρὸς οὓ οὐ -δὲ ἀπειπεῖν καλὸν ἡγεῖσθε ;
+perseus-eng2	 But if you felt that to be dishonorable, how was it dishonorable for you to associate with a man whom you did not even feel it honorable to renounce?
+
+cts:urn:tlg0540.tlg008:7
+glaux2.0-sentence	16
+perseus-grc2	 καὶ μὴν οὐδὲν αὐτὸς ἐξηῦρον ὁπόθεν ἂν εἰκότως ὑπερείδετε τὴν ἐμὴν ὁμιλίαν .
+perseus-eng2	 And, mark you, I for my part have discovered no ground on which you could reasonably have despised my company.
+
+cts:urn:tlg0540.tlg008:7
+glaux2.0-sentence	17
+perseus-grc2	 οὔ -τε γὰρ ὑμᾶς σοφωτάτους ἑώρων ὄντας , ἐμαυτὸν δ’ ἀμαθέστατον , οὐ μὴν οὐ -δὲ πολυφίλους ὑμᾶς , ἐμαυτὸν δ’ ἔρημον φίλων , οὐ -δ’ αὖ πλουτοῦντας , ἐμὲ δὲ πενόμενον , οὐ -δ’ αὖ ὑμᾶς μὲν ὑπερευδοκιμοῦντας , ἐμαυτὸν δὲ διαβεβλημένον , οὐ -δὲ τὰ μὲν ἐμὰ πράγματα κινδυνεύοντα , τὰ δ’ ὑμέτερα ἀσφαλῶς ἔχοντα .
+perseus-eng2	 For neither could I see that you were very clever and myself very stupid, nor indeed that you were surrounded with friends and myself destitute of them, nor again that you were wealthy and I poor, nor again that you were in particularly good repute and myself in ill odor, nor were my interests in danger and yours in safety.
+
+cts:urn:tlg0540.tlg008:7
+glaux2.0-sentence	18
+perseus-grc2	 πόθεν ἂν οὖν εἰκότως ὑπώπτευον ἄχθεσθαί μοι συνόντι ;
+perseus-eng2	 What reasonable ground, then, had I for suspecting that you were annoyed by my association with you?
+
+cts:urn:tlg0540.tlg008:8
+glaux2.0-sentence	19
+perseus-grc2	 καὶ ταῦτα δ’ ὅτε πρὸς τοὺς τελευταίους ἐλέγετ’ οὐκ ᾤεσθε ἀπαγγελεῖν ἡμῖν , κα- κἀνταῦθα σόφισμα καλὸν ἡγούμενοι περιήλθετε πάντας ὑμῶν αὐτῶν κατηγοροῦντες ὅτι πονηροῖς ἑκόντες ὁμιλεῖτε .
+perseus-eng2	 Moreover, when you made these statements to our newest members, you did not expect that they would report them to us, and there you were, supposing it a fine stroke of cleverness to go round accusing yourselves to everyone of consenting to be in the company of evil men!
+
+cts:urn:tlg0540.tlg008:8
+glaux2.0-sentence	20
+perseus-grc2	 περὶ μὲν οὖν τοῦ λέγοντος οὐδὲν ἂν περαίνοιτε πυνθανόμενοι .
+perseus-eng2	 As to my informant, it would be vain for you to inquire.
+
+cts:urn:tlg0540.tlg008:8
+glaux2.0-sentence	21
+perseus-grc2	 πρῶτον μὲν γὰρ εἰδότες ἐρήσεσθε τὸν εἰπόντα μοι ·
+perseus-eng2	 For, first of all, you know the person who told me, before you ask:
+
+cts:urn:tlg0540.tlg008:8
+glaux2.0-sentence	22
+perseus-grc2	 πῶς γὰρ οὐκ ἴστε πρὸς ὃν ἐλέγετε τὸν λόγον ;
+perseus-eng2	 how can you not know him, the man to whom you made your statement?
+
+cts:urn:tlg0540.tlg008:9
+glaux2.0-sentence	23
+perseus-grc2	 ἔπειτα κακὸς ἂν εἴην , εἰ τα- ταὐτὰ ποιήσαιμι αὐτὸν ἅπερ ἐκεῖνος ὑμᾶς .
+
+cts:urn:tlg0540.tlg008:9.23 In the second place, I should do wrong to deal with him as he did with you.
+glaux2.0-sentence	9
+
+cts:urn:tlg0540.tlg008:24
+perseus-grc2	 οὐ γὰρ ἐπὶ τοῖς αὐτοῖς ἐκεῖνος ἡμῖν ἀπήγγελλεν , ἐφ’ οἷπερ ὑμεῖς ἐλέγετε πρὸς ἐκεῖνον .
+glaux2.0-sentence	9.24 For he had not the same view in reporting it to me as you had in making it to him.
+
+cts:urn:tlg0540.tlg008:9
+glaux2.0-sentence	25
+perseus-grc2	 ἐκεῖνος μὲν γὰρ ἐμοὶ χαριζόμενος ἀπήγγειλε τοῖς ἐμοῖς ἀναγκαίοις , ὑμεῖς δὲ βλάπτειν ἐμὲ βουλόμενοι πρὸς ἐκεῖνον ἐλέγετε .
+
+cts:urn:tlg0540.tlg008:9.25 He reported it to my relatives out of kindness to me, but you made it to him with the intention of injuring me.
+glaux2.0-sentence	9
+
+cts:urn:tlg0540.tlg008:26
+perseus-grc2	 καὶ ταῦτα εἰ μὲν ἠπίστουν , ἐξελέγχειν ἂν ἐζήτουν ·
+glaux2.0-sentence	9.26 And if I disbelieved his words, I should seek to test them:
+
+cts:urn:tlg0540.tlg008:9
+glaux2.0-sentence	27
+perseus-grc2	 νῦν δὲ ( ξυμβαίνει γὰρ καὶ ταῦτα τοῖς πρὸ τοῦ , καὶ ἐμοὶ σημεῖα ταῦτα μὲν ἐκείνων ἐστίν , ἐκεῖνα δὲ τούτων ἱκανά )
+
+cts:urn:tlg0540.tlg008:9.27 as it is, they tally with the former reports, and I find in them corroboration of those, as those amply corroborated them.
+glaux2.0-sentence	10
+
+cts:urn:tlg0540.tlg008:27a
+perseus-grc2	 πρῶτον μὲν ἅπαντα δι’ ὑμῶν πράξαντά με περὶ τῆς θέσεως τοῦ ἵππου πρὸς Ἡγέμαχον , κάμνοντα τὸν ἵππον ἀνάγειν με βουλόμενον Διόδωρος οὑτοσὶ ἀποτρέπειν ἐπειρᾶτο , φάσκων οὐδὲν ἀντιλέξειν περὶ τῶν δώδεκα μνῶν Πολυκλέα , ἀλλ’ ἀποδώσειν .
+glaux2.0-sentence	10.27a So, first of all, dealing entirely through you with Hegemachus about the deposit of the horse, I wished to cancel the transaction as the horse was in a sickly state: Diodorus here tried to dissuade me, asserting that Polycles would make no objection to refunding the twelve minae.
+
+cts:urn:tlg0540.tlg008:10
+glaux2.0-sentence	28
+perseus-grc2	 τότε λέγων ταῦτα , μετὰ τὸν θάνατον τοῦ ἵππου κατέστη τελευτῶν ἀντίδικος μετὰ τούτων , λέγων ὡς οὐ δίκαιόν με εἴη κομίσασθαι τὸ ἀργύριον .
+
+cts:urn:tlg0540.tlg008:10.28 So he said at the time; but after the death of the horse he ranged himself in the end with these men as my opponent, saying that I had no right to recover the money.
+glaux2.0-sentence	11
+
+cts:urn:tlg0540.tlg008:29
+perseus-grc2	 καίτοιγε σφῶν γε αὐτῶν κατηγόρουν .
+perseus-eng2	 Yet in fact they were merely accusing themselves.
+glaux2.0-sentence	11
+
+cts:urn:tlg0540.tlg008:30
+perseus-grc2	 εἰ γὰρ ἃ μετὰ τούτων ἔπραττον ἀδικουμένῳ μοι μηδὲν ἦν δίκαιον εἰπεῖν , ἦ που κακῶς συνέπραττον .
+perseus-eng2	 For if I had no rightful claim in regard to a wrong suffered through an arrangement shared with them, surely they were wrong in so sharing it.
+glaux2.0-sentence	11
+
+cts:urn:tlg0540.tlg008:31
+perseus-grc2	 καὶ ἐγὼ μὲν ᾤμην φιλοσοφοῦντας αὐτοὺς περὶ τοῦ πράγματος ἀντιλέγειν τὸν ἐναντίον λόγον ·
+perseus-eng2	 And I also thought it was for the mere theory of the thing that they took up the argument in opposition;
+glaux2.0-sentence	11
+
+cts:urn:tlg0540.tlg008:32
+perseus-grc2	 οἱ δ’ ἄρα οὐκ ἀντέλεγον ἀλλ’ ἀντέπραττον ,
+perseus-eng2	 but I found they were not arguing but acting against me,
+glaux2.0-sentence	12
+
+cts:urn:tlg0540.tlg008:32a
+perseus-grc2	 καὶ διὰ τοῦτο ἀντέλεγον , ἵνα τὸν ἐμὸν λόγον εἰδείη Πολυκλῆς ·
+perseus-eng2	 and the purpose of their argument was to enable Polycles to know my argument.
+glaux2.0-sentence	12
+
+cts:urn:tlg0540.tlg008:33
+perseus-grc2	 ἐδηλώθη γὰρ ταῦτα .
+perseus-eng2	 This became evident:
+glaux2.0-sentence	12
+
+cts:urn:tlg0540.tlg008:34
+perseus-grc2	 παρόντων τῶν διαιτητῶν ὀργιζόμενος ὁ Πολυκλῆς εἶπεν ὅτι καὶ τοῖς ἐμοῖς ἐπιτηδείοις ἀδικεῖν δοκοίην , ὡς πρὸς ἐκεῖνον λέγοιεν .
+perseus-eng2	 in the presence of the arbitrators Polycles angrily said that even my friends considered that I was in the wrong, — so they told him.
+glaux2.0-sentence	12
+
+cts:urn:tlg0540.tlg008:35
+perseus-grc2	 ἆρά γε ταῦτα ξυμβαίνει τοῖς ἀπαγγελλομένοις ;
+perseus-eng2	 Now, does this tally with what was reported to me?
+glaux2.0-sentence	12
+
+cts:urn:tlg0540.tlg008:36
+perseus-grc2	 ὁ γὰρ αὐτὸς ἀπήγγειλεν ὡς τοὺς ὑπὲρ ἐμοῦ μέλλοντας λέγειν ἀποτρέψειν φάσκοιτε , τοὺς δέ τινας ἤδη κωλύσαιτε .
+perseus-eng2	 My informant himself reported that you declared you would hinder those who intended to speak on my behalf, and had prevented several others already.
+glaux2.0-sentence	12
+
+cts:urn:tlg0540.tlg008:37
+perseus-grc2	 καὶ ταῦτα τί με δεῖ φανερώτερον ἐξελέγχειν ἔτι ;
+perseus-eng2	 What need have I to set the proof of these facts in a yet clearer light?
+glaux2.0-sentence	12
+
+cts:urn:tlg0540.tlg008:38
+perseus-grc2	 φέρε γάρ , ᾔδει ποτ’ ἐκεῖνος ὅτι Κλειτοδίκου δεηθεὶς ἐπιλέγειν οὐκ ἔτυχον ;
+perseus-eng2	 I ask you, could that man know that, having asked Cleitodicus to speak next, I was refused?
+glaux2.0-sentence	13
+
+cts:urn:tlg0540.tlg008:39
+perseus-grc2	 οὐ γὰρ δὴ παρῆν τούτοις ·
+perseus-eng2	 I was told he was not present at the meeting.
+glaux2.0-sentence	13
+
+cts:urn:tlg0540.tlg008:40
+perseus-grc2	 ἢ τί κέρδος ἦν αὐτῷ διαβάλλειν ἐμὲ πρὸς ὑμᾶς οὕτω προθύμως , ὥστε σπουδάσαι πρὸς τοὺς ἐμοὺς ἀναγκαίους πλάσασθαι ταῦτα ;
+perseus-eng2	 Then what profit was he seeking, when he was so zealous in getting me into disgrace with you that he busied himself with fabricating such a story for my relatives?
+glaux2.0-sentence	14
+
+cts:urn:tlg0540.tlg008:41
+perseus-grc2	 γιγνώσκω δὲ νῦν ἤδη καὶ πάλαι ζητοῦντας πρόφασιν , ἡνίκα Θρασύμαχον ὑμᾶς ἐφάσκετε κακῶς λέγειν δι’ ἐμέ .
+perseus-eng2	 And I observe that not only now, but for a long time past, you have been seeking a pretext; as when you declared that Thrasymachus was defaming you because of me.
+glaux2.0-sentence	14
+
+cts:urn:tlg0540.tlg008:42
+perseus-grc2	 καὶ ἐγὼ μὲν ἠρώτων αὐτὸν εἰ δι’ ἐμὲ κακῶς λέγοι Διόδωρον ·
+perseus-eng2	 Well, I asked him if it was because of me that he was defaming Diodorus;
+glaux2.0-sentence	14
+
+cts:urn:tlg0540.tlg008:43
+perseus-grc2	 ὁ δὲ τοσοῦτον ὑπερεῖδε τὸ δι’ ἐμέ ·
+perseus-eng2	 and how he disdained that because of me!
+glaux2.0-sentence	14
+
+cts:urn:tlg0540.tlg008:44
+perseus-grc2	 πολλοῦ γὰρ δεῖν ἔφη δι’ ὁντινοῦν εἰρηκέναι Διόδωρον κακῶς .
+perseus-eng2	 For he said he was far from defaming Diodorus because of anybody.
+glaux2.0-sentence	14
+
+cts:urn:tlg0540.tlg008:45
+perseus-grc2	 καὶ ταῦτα προσάγοντος ἐμοῦ πρόθυμος ὁ Θρασύμαχος ἦν ἐξελέγχεσθαι , περὶ ὧν οὗτος ἔλεγεν ·
+perseus-eng2	 If I should prefer this charge, Thrasymachus was anxious to be put to the test in regard to this man’s statements;
+glaux2.0-sentence	15
+
+cts:urn:tlg0540.tlg008:46
+perseus-grc2	 οὗτος δὲ πάντ’ ἂν μᾶλλον διεπράττετο .
+perseus-eng2	 but to settle it thus was the last thing that the latter would have done.
+glaux2.0-sentence	15
+
+cts:urn:tlg0540.tlg008:47
+perseus-grc2	 μετὰ τοῦτο Αὐτοκράτης ἐμοῦ παρόντος Θρασυμάχω ἔλεγεν Εὐρυπτόλεμον αὐτῷ μέμφεσθαι , φάσκοντα κακῶς ἀκούειν ὑπ’ αὐτοῦ ·
+perseus-eng2	 After that Autocrates told Thrasymachus in my presence that Euryptolemus was complaining of him, with the assertion that he was being defamed by him, and that the reporter of this was Menophilus.
+glaux2.0-sentence	15
+
+cts:urn:tlg0540.tlg008:48
+perseus-grc2	 τὸν ἀπαγγέλλοντα δὲ εἶναι Μηνόφιλον .
+perseus-eng2	 Immediately Thrasymachus walked over with me to see Menophilus;
+glaux2.0-sentence	15
+
+cts:urn:tlg0540.tlg008:49
+perseus-grc2	 εὐθὺς δ’ ἐκεῖνος ἐπὶ τὸν Μηνόφιλον ἐβάδιξε μετ’ ἐμοῦ ·
+perseus-eng2	 who asserted that at no time had he either heard it or reported it to Euryptolemus,
+glaux2.0-sentence	15
+
+cts:urn:tlg0540.tlg008:50
+perseus-grc2	 κα- κἀκεῖνος οὔ -τε ἀκοῦσαι πώποτε ἔφασκεν οὔ -τε ἀπαγγεῖλαι πρὸς Εὐρυπτόλεμον , καὶ οὐ ταῦτα μόνον , ἀλλ’ οὐ -δὲ διειλέχθαι πολλοῦ χρόνου .
+perseus-eng2	 and what was more, that he had not even talked with him for a long time.
+glaux2.0-sentence	16
+
+cts:urn:tlg0540.tlg008:51
+perseus-grc2	 τοιαύτας προφάσεις προφασιζόμενοι τότε μὲν ἐκ τῆς ἐμῆς καὶ Θρασυμάχου συνουσίας ἐστὲ φανεροί , νῦν δὲ ἐπειδὴ ἐκλελοίπασιν ὑμᾶς αἱ προφάσεις , ἐλευθεριώτερόν με κακῶσαι λείπετε ἤδη οὐδέν .
+perseus-eng2	 Such were the pretexts that you clearly invented then from my association with Thrasymachus;
+glaux2.0-sentence	16
+
+cts:urn:tlg0540.tlg008:52
+perseus-grc2	 χρῆν μὲν οὖν τότε με γιγνώσκειν ὀφειλόμενόν μοι ταῦτα παθεῖν , ὅτε καὶ πρὸς ἐμὲ περὶ ὑμῶν αὐτῶν ἐλέγετε κακῶς ·
+perseus-eng2	 but now that pretexts have failed you, in more straightforward oppression you show that you stop at nothing.
+glaux2.0-sentence	16
+
+cts:urn:tlg0540.tlg008:53
+perseus-grc2	 ἔπειτα καὶ περὶ Πολυκλέους , ᾧ νυνὶ βοηθεῖτε , πάντ’ εἴρηκα πρὸς ὑμᾶς .
+perseus-eng2	 I ought indeed to have understood then that this fate was in store for me, when you were actually defaming to me your own members; and then I have told you my whole opinion of Polycles, whom you are now supporting.
+glaux2.0-sentence	17
+
+cts:urn:tlg0540.tlg008:54
+perseus-grc2	 κατὰ τί δὴ ταῦτα οὐκ ἐφυλαττόμην ;
+perseus-eng2	 What can have made me so incautious?
+glaux2.0-sentence	17
+
+cts:urn:tlg0540.tlg008:55
+perseus-grc2	 εὔηθές τι ἔπαθον .
+perseus-eng2	 It was a fatuous lapse in me.
+glaux2.0-sentence	17
+
+cts:urn:tlg0540.tlg008:56
+perseus-grc2	 ᾤμην γὰρ ἀπόθετος ὑμῖν εἶναι φίλος τοῦ μηδὲν ἀκοῦσαι κακὸν δι’ αὐτὸ τοῦτο , διότι πρὸς ἐμὲ τοὺς ἄλλους ἐλέγετε κακῶς , παρακαταθήκην ἔχων ὑμῶν παρ’ ἑκάστου λόγους πονηροὺς περὶ ἀλλήλων .
+perseus-eng2	 I thought I was a friend of yours who was exempt from all defamation for the very reason that you defamed the others to me, since I held a pledge from each of you, — your malicious statements about one another.
+glaux2.0-sentence	18
+
+cts:urn:tlg0540.tlg008:57
+perseus-grc2	 ἐγὼ τοίνυν ἑκὼν ὑμῖν ἐξίσταμαι τῆς φιλίας , ἐπεί τοι μὰ τοὺς θεοὺς οὐκ οἶδ’ ὅ τι ζημιωθήσομαι μὴ ξυνὼν ὑμῖν ·
+perseus-eng2	 I therefore willingly resign your friendship, since, by Heaven, I cannot see what penalty I shall suffer by not associating with you;
+glaux2.0-sentence	18
+
+cts:urn:tlg0540.tlg008:58
+perseus-grc2	 οὐ -δὲ γὰρ ὠφελούμην ξυνών .
+perseus-eng2	 for neither did my association with you bring me benefit.
+glaux2.0-sentence	18
+
+cts:urn:tlg0540.tlg008:59
+perseus-grc2	 πότερον γάρ , ὅταν ᾖ τί μοι πρᾶγμα , τότε ποθέσομαι τὸν ἐροῦντα καὶ τοὺς μαρτυρήσοντας ;
+perseus-eng2	 Shall I find, when I have some suit, that I feel the lack of a pleader and witnesses?
+glaux2.0-sentence	18
+
+cts:urn:tlg0540.tlg008:60
+perseus-grc2	 καὶ νῦν ἀντὶ μὲν τοῦ λέγειν ὑπὲρ ἐμοῦ τὸν λέγοντα πειρᾶσθε ἀντὶ δὲ τοῦ βοηθεῖν ἐμοὶ καὶ μαρτυρεῖν τὰ δίκαια ξύνεστε τοῖς ἐμοῖς ἀντιδίκοις καὶ μαρτυρεῖτε .
+perseus-eng2	 At present, instead of pleading in my defence, you try to prevent anyone from doing this, and instead of supporting me and bearing just witness, you associate with my opponents and bear witness for them.
+glaux2.0-sentence	19
+
+cts:urn:tlg0540.tlg008:61
+perseus-grc2	 ἀλλ’ ὡς εὖνοι ὄντες ἐμοὶ τὰ βέλτιστα ἐρεῖτε περὶ ἐμοῦ ;
+perseus-eng2	 Or, as my well-wishers, will you speak the best you can about me?
+glaux2.0-sentence	19
+
+cts:urn:tlg0540.tlg008:62
+perseus-grc2	 ἀλλὰ καὶ νῦν ὑμεῖς με μόνοι κακῶς λέγετε .
+perseus-eng2	 Why, today you are the only persons who speak ill of me!
+glaux2.0-sentence	19
+
+cts:urn:tlg0540.tlg008:63
+perseus-grc2	 τὸ μὲν οὖν ἐμὸν οὐκ ἐμποδὼν ὑμῖν ἔσται .
+perseus-eng2	 Well, for my part I shall not hinder you.
+glaux2.0-sentence	19
+
+cts:urn:tlg0540.tlg008:64
+perseus-grc2	 τοιοῦτον δ’ ἄρα πρὸς ὑμᾶς αὐτοὺς πείσεσθε , ἐπειδή περ ὑμῖν ἔθος ἐστὶν ἕνα τῶν ξυνόντων ἀεὶ κακῶς λέγειν καὶ ποιεῖν ·
+perseus-eng2	 And this is what will happen to you among yourselves, since it is your habit to be ever injuring one of your associates in speech and in act;
+glaux2.0-sentence	19
+
+cts:urn:tlg0540.tlg008:65
+perseus-grc2	 ἐπειδὰν ὑμῖν ἐγὼ μὴ ξυνῶ , πρὸς ὑμᾶς αὐτοὺς τρέψεσθε , κα- κἄπειτα καθ’ ἕνα ἕκαστον ὑμῖν αὐτοῖς ἀπεχθήσεσθε , τὸ δὲ τελευταῖον εἷς ὁ λειπόμενος αὐτὸς αὑτὸν κακῶς ἐρεῖ .
+perseus-eng2	 when I have left your association, you will turn against yourselves; then you will conceive a hatred of each one of your number in turn; and finally the last one left will defame himself.
+glaux2.0-sentence	20
+
+cts:urn:tlg0540.tlg008:66
+perseus-grc2	 κερδανῶ δὲ τοσοῦτον , ὅτι πρῶτος νῦν ὑμῶν ἀπαλλαγεὶς ἐλάχιστα κακῶς ὑφ’ ὑμῶν πείσομαι ·
+perseus-eng2	 And my advantage will be at least this, — that, by being the first to rid myself of you now, I shall suffer the least injury at your hands:
+glaux2.0-sentence	20
+
+cts:urn:tlg0540.tlg008:67
+perseus-grc2	 τοὺς μὲν γὰρ χρωμένους ὑμῖν κακῶς καὶ λέγετε καὶ ποιεῖτε , τῶν δὲ μὴ χρωμένων οὐδένα πώποτε .
+perseus-eng2	 for you injure both in speech and in act the people who have to do with you, but never a single one of those who have not.

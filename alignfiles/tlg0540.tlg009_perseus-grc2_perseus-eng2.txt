@@ -1,0 +1,278 @@
+
+cts:urn:tlg0540.tlg009:1
+glaux2.0-sentence	1
+perseus-grc2	 τί ποτε διανοηθέντες οἱ ἀντίδικοι τοῦ μὲν πράγματος παρημελήκασι , τὸν δὲ τρόπον μου ἐπεχείρησαν διαβάλλειν ;
+
+cts:urn:tlg0540.tlg009:1.1 What could have been the view of my opponents in disregarding the point at issue, and in seeking to traduce my character?
+glaux2.0-sentence	1
+
+cts:urn:tlg0540.tlg009:2
+perseus-grc2	 πότερον ἀγνοοῦντες ὅτι περὶ τοῦ πράγματος προσήκει λέγειν ;
+glaux2.0-sentence	1.2 Is it that they are unaware that their business is to speak on that point?
+
+cts:urn:tlg0540.tlg009:1
+glaux2.0-sentence	3
+perseus-grc2	 ἢ τόδε μὲν ἐπίστανται , ἡγούμενοι δὲ λήσειν περὶ παντὸς πλείω λόγον ἢ τοῦ προσήκοντος ποιοῦνται ;
+
+cts:urn:tlg0540.tlg009:1.3 Or, though well aware of this, do they consider it will pass unobserved that they have more to state on anything than on what is their business?
+glaux2.0-sentence	2
+
+cts:urn:tlg0540.tlg009:4
+perseus-grc2	 ὅτι μὲν οὐκ ἐμοῦ καταφρονήσαντες ἀλλὰ τοῦ πράγματος τοὺς λόγους ποιοῦνται , σαφῶς ἐπίσταμαι ·
+glaux2.0-sentence	2.4 That those statements are made in a spirit of contempt, not for me, but for the point at issue, I clearly understand.
+
+cts:urn:tlg0540.tlg009:2
+glaux2.0-sentence	5
+perseus-grc2	 εἰ μέντοι ὑμᾶς οἴονται δι’ ἄγνοιαν ὑπὸ τῶν διαβολῶν πεισθέντας καταψηφιεῖσθαί μου , τοῦτ’ ἂν θαυμάσαιμι .
+
+cts:urn:tlg0540.tlg009:2.5 If, however, they suppose that from mere ignorance you will be induced by their aspersions to condemn me, this to me would be a surprise.
+glaux2.0-sentence	3
+
+cts:urn:tlg0540.tlg009:6
+perseus-grc2	 ᾤμην μὲν οὖν , ὦ ἄνδρες δικασταί , περὶ τοῦ ἐγκλήματος , οὐ περὶ τοῦ τρόπου τὸν ἀγῶνά μοι προκεῖσθαι ·
+glaux2.0-sentence	3.6 I did indeed suppose, gentlemen of the jury, that I had to face my trial on the charge referred, not on my character;
+
+cts:urn:tlg0540.tlg009:3
+glaux2.0-sentence	7
+perseus-grc2	 διαβαλλόντων δέ με τῶν ἀντιδίκων ἀναγκαῖόν ἐστι περὶ πάντων τὴν ἀπολογίαν ποιήσασθαι .
+
+cts:urn:tlg0540.tlg009:3.7 But, as my opponents are traducing me, it is necessary to deal with all of their points in my defense.
+glaux2.0-sentence	3
+
+cts:urn:tlg0540.tlg009:8
+perseus-grc2	 πρῶτον μὲν οὖν περὶ τῆς ἀπογραφῆς ὑμᾶς διδάξω .
+glaux2.0-sentence	3.8 So then, to begin with, I will inform you as to the writ against me.
+
+cts:urn:tlg0540.tlg009:4
+glaux2.0-sentence	9
+perseus-grc2	 ἀφικόμενος προπέρυσιν εἰς τὴν πόλιν , οὔπω δύο μῆνας ἐπιδεδημηκὼς κατελέγην στρατιώτης .
+
+cts:urn:tlg0540.tlg009:4.9 The year before last, after I had arrived in the city, I had not yet been in residence for two months when I was enrolled as a soldier.
+glaux2.0-sentence	4
+
+cts:urn:tlg0540.tlg009:10
+perseus-grc2	 αἰσθόμενος δὲ τὸ πραχθὲν ὑπετοπούμην εὐθέως ἐπὶ μηδενὶ ὑγιεῖ κατειλέχθαι .
+glaux2.0-sentence	4.10 On learning what had been done, I at once suspected that I had been enrolled for some improper reason.
+
+cts:urn:tlg0540.tlg009:4
+glaux2.0-sentence	11
+perseus-grc2	 προσελθὼν οὖν τῷ στρατηγῷ ἐδήλωσα ὅτι ἐστρατευμένος εἴην , ἔτυχον δὲ οὐδενὸς τῶν μετρίων .
+
+cts:urn:tlg0540.tlg009:4.11 So I went to the general, and pointed out that I had already served in the army; but I met with most unfair treatment.
+glaux2.0-sentence	4
+
+cts:urn:tlg0540.tlg009:12
+perseus-grc2	 προπηλακιζόμενος δὲ ἠγανάκτουν μέν , ἡσυχίαν δ’ εἶχον .
+glaux2.0-sentence	4.12 I was grossly insulted but, although indignant, I kept quiet.
+
+cts:urn:tlg0540.tlg009:5
+glaux2.0-sentence	13
+perseus-grc2	 ἀπορούμενος δὲ καὶ συμβουλευόμενός τινι τῶν πολιτῶν τί χρήσωμαι τῷ πράγματι , ἐπυθόμην ὡς καὶ δήσειν με ἀπειλοῖεν , λέγοντες ὅτι οὐδὲν ἐλάττω χρόνον Καλλικράτους Πολύαινος ἐνδημοίη .
+perseus-eng2	 In my perplexity I consulted one of our citizens as to the measures that I should take: I was told that they even threatened to put me in prison, on the ground that Polyaenus had been as long a time in residence as Callicrates.
+
+cts:urn:tlg0540.tlg009:6
+glaux2.0-sentence	14
+perseus-grc2	 κα- κἀμοὶ μὲν τὰ προειρημένα διείλεκτο ἐπὶ τῇ Φιλίου τραπέζῃ ·
+
+cts:urn:tlg0540.tlg009:6.14 Now my conversation just mentioned had been held at Philius’s bank:
+glaux2.0-sentence	6
+
+cts:urn:tlg0540.tlg009:15
+perseus-grc2	 οἱ δὲ μετὰ Κτησικλέους τοῦ ἄρχοντος , ἀπαγγείλαντός τινος ὡς ἐγὼ λοιδοροῖμι , τοῦ νόμου ἀπαγορεύοντος ἐάν τις ἀρχὴν ἐν συνεδρίῳ λοιδορῇ , παρὰ τὸν νόμον ζημιῶσαι ἠξίωσαν .
+glaux2.0-sentence	6.15 Yet Ctesicles and his fellow-officers, on a report from somebody that I was abusing them, although the terms of the law only forbid the abuse of a magistrate at session of his court, — decided unlawfully to punish me.
+
+cts:urn:tlg0540.tlg009:6
+glaux2.0-sentence	16
+perseus-grc2	 ἐπιβαλόντες δὲ τὸ ἀργύριον πράξασθαι μὲν οὐκ ἐπεχείρησαν , ἐξιούσης δὲ τῆς ἀρχῆς γράψαντες εἰς λεύκωμα τοῖς ταμίαις παρέδοσαν .
+
+cts:urn:tlg0540.tlg009:6.16 They imposed the fine, but instead of attempting to exact it, at the expiration of their term of office they recorded it on a register which they handed over to the clerks of the Treasury.
+glaux2.0-sentence	7
+
+cts:urn:tlg0540.tlg009:17
+perseus-grc2	 οἵδε μὲν τάδε διεπράξαντο .
+glaux2.0-sentence	7.17 So much for their operations; but the clerks of the Treasury, taking a very different view from theirs, demanded an explanation from the persons who had handed over the record, and inquired into the grounds of the charge.
+
+cts:urn:tlg0540.tlg009:7
+glaux2.0-sentence	18
+perseus-grc2	 οἱ δὲ ταμίαι οὐδὲν ὅμοιον τοῖσδε διανοηθέντες , ἀνακαλεσάμενοι τοὺς παραδόντας τὴν γραφήν , ἐσκοποῦντο τῆς αἰτίας τὴν πρόφασιν .
+
+cts:urn:tlg0540.tlg009:7.18 Hearing what had occurred, and impressed by the strange treatment I had received, they at first urged them to let me off, pointing out that it was not reasonable that any of our citizens should be registered as public debtors out of personal enmity;
+glaux2.0-sentence	7
+
+cts:urn:tlg0540.tlg009:19
+perseus-grc2	 ἀκούσαντες δὲ τὸ γεγενημένον , ἐννοούμενοι οἷα πεπονθὼς ἦν , τὸ μὲν πρῶτον ἔπειθον αὐτοὺς ἀφεῖναι , διδάσκοντες ὡς οὐκ ἐπιεικὲς εἴη τῶν πολιτῶν τινας διὰ τὰς ἔχθρας ἀναγράφεσθαι , ἀποροῦντες δὲ μεταπεῖσαι αὐτούς , τὸν παρ’ ὑμῶν κίνδυνον ὑποστάντες ἄκυρον τὴν ζημίαν ἔκρινανG? ὅτι μὲν οὖν ἀφείθην ὑπὸ τῶν ταμιῶν , ἐπίστασθε ·
+glaux2.0-sentence	7.19 Then, failing to dissuade them, they took upon themselves the risk of a trial before you, and ruled that the penalty was null and void
+
+cts:urn:tlg0540.tlg009:8
+glaux2.0-sentence	20
+perseus-grc2	 προσήκειν δὲ ἡγούμενος καὶ διὰ ταύτην τὴν ἀπόδειξιν ἀπηλλάχθαι τοῦ ἐγκλήματος , ἔτι πλείονας καὶ νόμους καὶ ἄλλας δικαιώσεις παρασχήσομαι .
+
+cts:urn:tlg0540.tlg009:8.20 Well, that I was let off by the Treasury clerks, you now know.
+glaux2.0-sentence	8
+
+cts:urn:tlg0540.tlg009:21
+perseus-grc2	 καὶ μοι λαβὲ τὸν νόμον .
+glaux2.0-sentence	8.21 But although I consider that merely on the strength of this demonstration I ought to stand cleared of the impeachment, I will put in a yet stronger array both of laws and of other justifications. Now, please, take the law.
+
+cts:urn:tlg0540.tlg009:9
+glaux2.0-sentence	22
+perseus-grc2	 τοῦ μὲν νόμου διαρρήδην ἀγορεύοντος τοὺς ἐν τῷ συνεδρίω λοιδοροῦντας ζημιοῦν ἀκηκόατε ·
+
+cts:urn:tlg0540.tlg009:9.22 You have heard how the law expressly enjoins the punishment of those who utter abuse at a session of the court.
+glaux2.0-sentence	9
+
+cts:urn:tlg0540.tlg009:23
+perseus-grc2	 ἐγὼ δ’ ὅτι μὲν οὐκ εἰσῆλθον εἰς τὸ ἀρχεῖον , μάρτυρας παρεσχόμην , ἀδίκως δὲ ζημιωθεὶς οὔ -τ’ ὀφείλω οὔ -τ’ ἐκτεῖσαι δίκαιός εἰμι .
+glaux2.0-sentence	9.23 But I have produced witnesses to the fact that I did not enter the magistrates’ hall, and that, as the fine was unjustly imposed on me, I neither owe it nor in justice ought to pay it.
+
+cts:urn:tlg0540.tlg009:10
+glaux2.0-sentence	24
+perseus-grc2	 εἰ γὰρ φανερός εἰμι μὴ ἐλθὼν εἰς τὸ συνέδριον , ὁ δὲ νόμος τοὺς ἐντὸς πλημμελοῦντας ἀγορεύει τὴν ζημίαν ὀφείλειν , ἠδικηκὼς μὲν οὐδὲν φαίνομαι , ἔχθρᾳ δὲ ἄνευ τούτου παραλόγως ζημιωθείς .
+perseus-eng2	 For if it is evident that I did not go into the court, and the law enjoins that the fine is to be due from those who misbehave inside it, it is manifest that I have done no wrong, but because of enmity, and for no such act, have been fined against all reason. They knew in their own hearts that they had done wrong;
+
+cts:urn:tlg0540.tlg009:11
+glaux2.0-sentence	25
+perseus-grc2	 συνέγνωσαν δὲ καὶ αὐτοὶ σφίσιν ὡς ἠδικηκότες ·
+
+cts:urn:tlg0540.tlg009:11.25 For they neither submitted their act to investigation, nor went into a law-court to get their proceedings confirmed by a vote.
+glaux2.0-sentence	11
+
+cts:urn:tlg0540.tlg009:26
+perseus-grc2	 οὔ -τε γὰρ εὐθύνας ὑπέσχον , οὔ -τε εἰς δικαστήριον εἰσελθόντες τὰ πραχθέντα ψήφῳ κύρια κατέστησαν .
+glaux2.0-sentence	11.26 However, supposing they had been correct in imposing a fine on me, and had got the imposition confirmed in your court,
+
+cts:urn:tlg0540.tlg009:11
+glaux2.0-sentence	27
+perseus-grc2	 εἰ δ’ οὖν ἐζημίωσαν μὲν οἵδε προσηκόντως , ἐκύρωσαν δ’ ἐν ὑμῖν τὴν ἐπιβολήν , τῶν ταμιῶν ἀφέντων εἰκότως ἂν τοῦ ἐγκλήματος ἀπηλλαγμένος εἴην .
+
+cts:urn:tlg0540.tlg009:11.27 I should stand fairly cleared of the impeachment by the release of the Treasury clerks.
+glaux2.0-sentence	12
+
+cts:urn:tlg0540.tlg009:28
+perseus-grc2	 εἰ μὲν γὰρ μὴ κύριοι ἦσαν πράξασθαι ἢ ἀφεῖναι , ἐννόμως ζημιωθεὶς εὐλόγως ἂν ὤφειλον ·
+glaux2.0-sentence	12.28 For if they were not competent to exact or remit it, being lawfully fined I should reasonably owe the payment;
+
+cts:urn:tlg0540.tlg009:12
+glaux2.0-sentence	29
+perseus-grc2	 εἰ δ’ ἔξεστι μὲν αὐτοῖς ἀφεῖναι , διδόασι δὲ λόγους ὑπὲρ ὧν ἂν διαχειρίζωσιν , εἴ τι ἠδικήκασι , τῆς προσηκούσης ῥᾳδίως δίκης τεύξονται .
+
+cts:urn:tlg0540.tlg009:12.29 But if they have power to remit, subject to rendering an account of their proceedings, they will easily be visited with the proper penalty for any wrong they have done.
+glaux2.0-sentence	13
+
+cts:urn:tlg0540.tlg009:30
+perseus-grc2	 ᾧ μὲν τρόπῳ παρεδόθην καὶ ἐζημιώθην , ἐπίστασθε ·
+glaux2.0-sentence	13.30 Of the manner in which my name was handed over, and the fine imposed on me, you are now informed:
+
+cts:urn:tlg0540.tlg009:13
+glaux2.0-sentence	31
+perseus-grc2	 δεῖ δ’ ὑμᾶς μὴ μόνον τοῦ ἐγκλήματος τὴν αἰτίαν ἀλλὰ καὶ τῆς ἔχθρας τὴν πρόφασιν εἰδέναι .
+
+cts:urn:tlg0540.tlg009:13.31 But you must be apprised, not only of the charge referred, but also of the pretext for this enmity.
+glaux2.0-sentence	13
+
+cts:urn:tlg0540.tlg009:32
+perseus-grc2	 Σωστράτῳ γὰρ φίλος ἐγενόμην πρότερον μὲν τῆς τούτων ἔχθρας , εἰδὼς δὲ περὶ τὴν πόλιν ἄξιον λόγου γεγενημένον .
+glaux2.0-sentence	13.32 I had made friends with Sostratus before their enmity began, because I knew he had done remarkable service to the State.
+
+cts:urn:tlg0540.tlg009:14
+glaux2.0-sentence	33
+perseus-grc2	 γνώριμος δὲ γενόμενος διὰ τῆς ἐκείνου δυναστείας οὔ -τ’ ἐχθρὸν ἐτιμωρησάμην οὔ -τε φίλον ηὐεργέτησα ·
+
+cts:urn:tlg0540.tlg009:14.33 I became well-known through his personal influence, but did not make use of it either to avenge myself on an enemy or to serve a friend:
+glaux2.0-sentence	14
+
+cts:urn:tlg0540.tlg009:34
+perseus-grc2	 ζῶντος μὲν γὰρ ἀνάγκῃ διὰ τὴν ἡλικίαν ἐσχόλαζον , ἐκλιπόντος δὲ τὸν βίον οὔ -τε λόγῳ οὔ -τε ἔργῳ ἔβλαψα οὐδένα τῶν κατηγορούντων , ἔχω δὲ καὶ τοιαῦτα εἰπεῖν , ἐξ ὧν ὠφελοίμην ἂν πολὺ δικαιότερον ὑπὸ τῶν ἀντιδίκων ἢ κακῶς πάσχοιμι .
+glaux2.0-sentence	14.34 For while he lived I was necessarily inactive on account of my age and when he passed away I injured none of my accusers either in word or in deed, and I can give such an account of myself as will show that in justice ought much rather to receive benefits than ill-treatment from my opponents.
+
+cts:urn:tlg0540.tlg009:15
+glaux2.0-sentence	35
+perseus-grc2	 τὴν μὲν οὖν ὀργὴν διὰ τὰ προειρημένα συνεστήσαντο , προφάσεως οὐδεμιᾶς πρὸς ἔχθραν ὑπαρχούσης .
+
+cts:urn:tlg0540.tlg009:15.35 Well, the circumstances that I have mentioned had the effect of accumulating their anger, though they had no real excuse for enmity.
+glaux2.0-sentence	15
+
+cts:urn:tlg0540.tlg009:36
+perseus-grc2	 ὀμόσαντες μὲν οὖν τοὺς ἀστρατεύτους καταλέξειν παρέβησαν τοὺς ὅρκους , προὔθεσαν δὲ τῷ πλήθει βουλεύσασθαι περὶ τοῦ σώματος ,
+glaux2.0-sentence	15.36 And so, having taken their oaths to enroll only those who had not served in the field, they violated those oaths, and then brought my case before the people for decision on a capital charge,
+
+cts:urn:tlg0540.tlg009:16
+glaux2.0-sentence	36a
+perseus-grc2	 ζημιώσαντες μὲν ὡς τὴν ἀρχὴν λοιδοροῦντα , κατολιγωρήσαντες δὲ τοῦ δικαίου , βιαζόμενοι βλάπτειν ἐξ ἅπαντος λόγου ·
+
+cts:urn:tlg0540.tlg009:16.36a After having fined me for abusing the magistrates, and having utterly disregarded the claims of justice they were exerting themselves to injure me on any sort of plea,
+glaux2.0-sentence	16
+
+cts:urn:tlg0540.tlg009:37
+perseus-grc2	 πᾶν δ’ ἂν ἔπραξαν μέλλοντες μεγάλα μὲν ἐμὲ βλάψειν , πολλὰ δ’ ἑαυτοὺς ὠφελήσειν , οἵτινες οὐδετέρου τούτων ὑπάρχοντος πάντα περὶ ἐλάττονος ποιοῦνται τοῦ ἀδικεῖν .
+glaux2.0-sentence	16.37 And they would have stopped at nothing so long as they could do me grievous injury and also win great advantage for themselves, seeing that when they are sure of neither of these ends they make everything of less account than their injustice.
+
+cts:urn:tlg0540.tlg009:17
+glaux2.0-sentence	38
+perseus-grc2	 ἀλλὰ γὰρ οἳ κατεφρόνησαν τοῦ ὑμετέρου πλήθους , οὐ -δὲ φοβηθῆναι τοὺς θεοὺς ἠξίωσαν , ἀλλ’ οὕτως ὀλιγώρως καὶ παρανόμως προσηνέχθησαν , ὥστε ἀπολογήσασθαι μὲν περὶ τῶν πεπραγμένων οὐ -δ’ ἐπεχείρησαν , τὸ δὲ τελευταῖον , νομίζοντες οὐχ ἱκανῶς με τετιμωρῆσθαι , τὸ πέρας ἐκ τῆς πόλεως ἐξήλασαν .
+perseus-eng2	 Nay, the men who showed their contempt for the people of your city disdained also to show fear of the gods: so reckless and lawless were their proceedings that they did not even attempt to defend their actions; and finally, considering the revenge that they had taken on me insufficient, they took the last step of expelling me from the city.
+
+cts:urn:tlg0540.tlg009:18
+glaux2.0-sentence	39
+perseus-grc2	 διατεθέντες δὲ οὕτω παρανόμως καὶ βιαίως ἐπικρύψασθαι τὴν ἀδικίαν περὶ οὐδενὸς ἐποιήσαντο , παραγαγόντες δὲ πάλιν περὶ τῶν αὐτῶν ἠδικηκότα με οὐδὲν ἐπιδεικνύουσι καὶ λοιδοροῦσι , τοῖς μὲν ἐμοῖς ἐπιτηδεύμασιν οὐ προσηκούσας διαβολὰς ἐπιφέροντες , τοῖς δ’ αὑτῶν τρόποις τὰς οἰκείας καὶ συνήθεις .
+perseus-eng2	 In this mood of lawless violence they have not cared at all to conceal their injustice, but have summoned me here again on the same charge; and although I have done no wrong, they denounce me and abuse me with a shower of calumnies that have no connection with the tenor of my life, but are conformable and habitual to their own character.
+
+cts:urn:tlg0540.tlg009:19
+glaux2.0-sentence	40
+perseus-grc2	 οἵδε μὲν οὖν ἐκ παντὸς τρόπου προθυμοῦνταί με τῇ δίκῃ ἁλῶναι ·
+
+cts:urn:tlg0540.tlg009:19.40 These persons, then, are endeavoring on any sort of plea to get me cast in this suit.
+glaux2.0-sentence	19
+
+cts:urn:tlg0540.tlg009:41
+perseus-grc2	 ὑμεῖς δὲ μή -τε ταῖς τούτων διαβολαῖς ἐπαρθέντες ἐμοῦ καταψηφίσησθε , μή -τε τοὺς βέλτιον καὶ δικαίως βουλευσαμένους ἀκύρους καταστήσητε .
+glaux2.0-sentence	19.41 But you must neither be incited by their calumnies to condemn me, nor invalidate the decision of those who have acted on a better, and on a just, consideration.
+
+cts:urn:tlg0540.tlg009:19
+glaux2.0-sentence	42
+perseus-grc2	 οἵδε μὲν γὰρ ἅπαντα καὶ κατὰ τοὺς νόμους καὶ κατὰ τὸ εἰκὸς ἔπραξαν , καὶ ἠδικηκότες μὲν οὐδὲν φαίνονται , λόγον δὲ πλεῖστον τοῦ δικαίου ποιησάμενοι .
+
+cts:urn:tlg0540.tlg009:19.42 For their action was entirely in accordance with the laws and fair dealing, and it is plain that they have committed no injustice, but made most account of what is just.
+glaux2.0-sentence	20
+
+cts:urn:tlg0540.tlg009:43
+perseus-grc2	 τούτων μὲν οὖν ἀδικούντων μετρίως ἠγανάκτουν , ἡγούμενος τετάχθαι τοὺς μὲν ἐχθροὺς κακῶς ποιεῖν , τοὺς δὲ φίλους εὖ ·
+glaux2.0-sentence	20.43 The injustice of these men only caused me a moderate annoyance, as I considered it ordained that one should harm one’s enemies and serve one’s friends;
+
+cts:urn:tlg0540.tlg009:20
+glaux2.0-sentence	44
+perseus-grc2	 παρ’ ὑμῶν δὲ τοῦ δικαίου στερηθεὶς πολὺ ἂν μᾶλλον λυπηθείην .
+
+cts:urn:tlg0540.tlg009:20.44 but to be derived of justice at your hands would cause me a far deeper distress.
+glaux2.0-sentence	20
+
+cts:urn:tlg0540.tlg009:45
+perseus-grc2	 δι’ ἔχθραν μὲν γὰρ οὐ δόξω κακῶς πεπονθέναι , διὰ κακίαν δὲ τῆς πόλεως .
+glaux2.0-sentence	20.45 For it will be thought that my evil plight is due, not to enmity, but to an evil condition of the State.
+
+cts:urn:tlg0540.tlg009:21
+glaux2.0-sentence	46
+perseus-grc2	 λόγῳ μὲν οὖν περὶ τῆς ἀπογραφῆς ἀγωνίζομαι , ἔργῳ δὲ περὶ πολιτείας .
+
+cts:urn:tlg0540.tlg009:21.46 Professedly, indeed, I am on trial for the matter of this writ, but actually for my citizenship.
+glaux2.0-sentence	21
+
+cts:urn:tlg0540.tlg009:47
+perseus-grc2	 τυχὼν μὲν γὰρ τῶν δικαίων ( πιστεύω δὲ τῇ ὑμετέρα γνώμῃ ) μείναιμι ἂν ἐν τῇ πόλει ·
+glaux2.0-sentence	21.47 If I obtain justice — and I have confidence in your verdict — I may remain in this city;
+
+cts:urn:tlg0540.tlg009:21
+glaux2.0-sentence	48
+perseus-grc2	 παραχθεὶς δὲ ὑπὸ τῶνδε εἰ ἀδίκως ἁλοίην , ἀποδραίην ἄν .
+
+cts:urn:tlg0540.tlg009:21.48 but if the summons of these men should lead to my unjust conviction, I should run away.
+glaux2.0-sentence	21
+
+cts:urn:tlg0540.tlg009:49
+perseus-grc2	 τίνι γὰρ ἐπαρθέντα ἐλπίδι δεῖ με συμπολιτεύεσθαι , ἢ τί με χρὴ διανοηθέντα , εἰδότα μὲν τῶν ἀντιδίκων τὴν προθυμίαν , ἀποροῦντα δ’ ὅθεν χρὴ τῶν δικαίων τινὸς τυχεῖν ;
+glaux2.0-sentence	21.49 For with what hope to bear me up must I mingle with the citizens, or with what purpose in life, when I knew the zeal of my opponents, and could not tell where to look for any of my just rights?
+
+cts:urn:tlg0540.tlg009:22
+glaux2.0-sentence	50
+perseus-grc2	 περὶ πλείστου οὖν ποιησάμενοι τὸ δίκαιον , καὶ ἐνθυμηθέντες ὅτι καὶ ὑπὲρ τῶν περιφανῶν ἀδικημάτων συγγνώμην ποιεῖσθε , τοὺς μηδὲν ἀδικήσαντας διὰ τὰς ἔχθρας μὴ περιίδητε ἀδίκως τοῖς μεγίστοις ἀτυχήμασι περιπεσόντας .
+perseus-eng2	 Put justice, therefore, above everything else; reflect that you grant pardon even for glaring acts of injustice; and do not allow those who are guilty of no injustice to be unjustly entangled in the greatest misfortunes.

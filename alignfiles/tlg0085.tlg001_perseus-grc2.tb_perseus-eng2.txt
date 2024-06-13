@@ -72,62 +72,66 @@ perseus-eng2 and composes the tale of her own child’s doom—how he perished, 
 cts:urn:tlg0085.tlg001:68
 glaux1.0-sentence	15
 perseus-grc2.tb	τὼς καὶ ἐγὼ φιλόδυρτος Ἰαονίοισι νόμοισι δάπτω τὰν ἁπαλὰν Νειλοθερῆ παρειὰν ἀπειρόδακρύν τε καρδίαν.
-perseus-eng2 Even so I, indulging my grief in Ionian strains, pain my tender face summered by Nile’s sun and my heart unexercised in tears; and I gather the flowers of grief, anxious whether there is any friendly kinsman here to champion our band which has fled from the haze-shrouded land.
+perseus-eng2 Even so I, indulging my grief in Ionian strains, pain my tender face summered by Nile’s sun and my heart unexercised in tears; 
 
 cts:urn:tlg0085.tlg001:73
 glaux1.0-sentence	16
 perseus-grc2.tb	γοεδνὰ δ’ ἀνθεμίζομαι δειμαίνουσα φίλους, τᾶσδε φυγᾶς ἀερίας ἀπὸ γᾶς εἴ τις ἐστὶ κηδεμών.
-perseus-eng2 But, gods of our race, hear, and regard with favor the cause of righteousness; if you refuse youthful fulfillment of its arrogant desires, and readily abhor violence, you would be righteous toward marriage.
+perseus-eng2 and I gather the flowers of grief, anxious whether there is any friendly kinsman here to champion our band which has fled from the haze-shrouded land.
 
 cts:urn:tlg0085.tlg001:77
 glaux1.0-sentence	17
 perseus-grc2.tb	ἀλλά, θεοὶ γενέται κλύετ’ εὖ τὸ δίκαιον ἰδόντες ·
-perseus-eng2 Even for those who flee hard-pressed from war there is an altar, a shelter against harm through respect for the powers of heaven.
+perseus-eng2 But, gods of our race, hear, and regard with favor the cause of righteousness; 
+
 
 cts:urn:tlg0085.tlg001:79
 glaux1.0-sentence	18
 perseus-grc2.tb	ἥβᾳ μὴ τέλεον δόντες ἔχειν παρ’ αἶσαν, ὕβριν δ’ ἑτοίμως στυγοῦντες, πέλοιτ’ ἂν ἔνδικοι γάμοις.
-perseus-eng2 But may Zeus grant that it go well with us. For Zeus’ desire is hard to trace: it shines everywhere, even in gloom, together with fortune obscure to mortal men.
+perseus-eng2  if you refuse youth fulfillment of its arrogant desires, and readily abhor violence, you would be righteous toward marriage
 
 cts:urn:tlg0085.tlg001:83
 glaux1.0-sentence	19
 perseus-grc2.tb	ἔστι δὲ κ- ἐκ πολέμου τειρομένοις βωμὸς ἀρῆς φυγάσιν ῥῦμα, δαιμόνων σέβας.
-perseus-eng2 But may Zeus grant that it go well with us. For Zeus’ desire is hard to trace: it shines everywhere, even in gloom, together with fortune obscure to mortal men.
+
+perseus-eng2 Even for those who flee hard-pressed from war there is an altar, a shelter against harm through respect for the powers of heaven.
+
 
 cts:urn:tlg0085.tlg001:86
 glaux1.0-sentence	20
 perseus-grc2.tb	εὖ δ’ εἴη Διόθεν παναληθῶς.
-perseus-eng2 But may Zeus grant that it go well with us. For Zeus’ desire is hard to trace: it shines everywhere, even in gloom, together with fortune obscure to mortal men.
+perseus-eng2 But may Zeus grant that it go well with us. 
 
 cts:urn:tlg0085.tlg001:87
 glaux1.0-sentence	21
 perseus-grc2.tb	Διὸς ἵμερος οὐκ εὐθήρατος ἐτύχθη.
-perseus-eng2 For Zeus’ longing was not easily pursued.
+perseus-eng2 For Zeus’ desire is hard to trace:
 
 cts:urn:tlg0085.tlg001:88
 glaux1.0-sentence	22
 perseus-grc2.tb	παντᾷ τοι φλεγέθει κ- ἐν σκότῳ μελαίνᾳ ξὺν τύχᾳ μερόπεσσι λαοῖς.
-perseus-eng2 It burns bright in every way and together with fate, even in black darkness, among mortal men.
+perseus-eng2 : it shines everywhere, even in gloom, together with fortune
+obscure to mortal men.
 
 cts:urn:tlg0085.tlg001:91
 glaux1.0-sentence	23
 perseus-grc2.tb	πίπτει δ’ ἀσφαλὲς οὐδ’ ἐπὶ νώτῳ, κορυφᾷ Διὸς εἰ κρανθῇ, πρᾶγμα τέλειον.
-perseus-eng2 Safely it falls, and not upon its back, whatever deed comes to pass at Zeus’ nod; for the pathways of his understanding stretch dark and tangled, beyond comprehension.
+perseus-eng2 Safely it falls, and not upon its back, whatever deed comes to pass at Zeus’ nod; 
 
 cts:urn:tlg0085.tlg001:93
 glaux1.0-sentence	24
 perseus-grc2.tb	δαυλοὶ γὰρ πραπίδων δάσκιοί τε τείνουσιν πόροι κατιδεῖν ἄφραστοι.
-perseus-eng2 From their high-towering hopes he hurls mankind to utter destruction; yet he does not marshal any armed violence—
+perseus-eng2 for the pathways of his understanding stretch dark and tangled, beyond comprehension.
 
 cts:urn:tlg0085.tlg001:96
 glaux1.0-sentence	25
 perseus-grc2.tb	ἰάπτει δ’ ἐλπίδων ἀφ’ ὑψιπύργων πανώλεις βροτούς, βίαν δ’ οὔτιν’ ἐξοπλίζει ·
-perseus-eng2 all that is wrought by the powers divine is free from toil. Seated on his holy throne, unmoved, in mysterious ways he accomplishes his will.
+perseus-eng2 From their high-towering hopes he hurls mankind to utter destruction; yet he does not marshal any armed violence—  
 
 cts:urn:tlg0085.tlg001:100
 glaux1.0-sentence	26
 perseus-grc2.tb	πᾶν ἄπονον δαιμονίων.
-perseus-eng2 All the work of the divine is effortless.
+perseus-eng2 all that is wrought by the powers divine is free from toil. 
 
 cts:urn:tlg0085.tlg001:101
 glaux1.0-sentence	27
@@ -136,13 +140,13 @@ perseus-eng2 Seated on his holy throne, unmoved, in mysterious ways he accomplis
 
 cts:urn:tlg0085.tlg001:104
 glaux1.0-sentence	28
-perseus-grc2.tb	ἰδέσθω δ’ εἰς ὕβριν βρότειον, οἵα νεάζει πυθμὴν δι’ ἁμὸν γάμον τεθαλὼς δυσπαραβούλοισι φρεσίν, καὶ διάνοιαν μαινόλιν κέντρον ἔχων ἄφυκτον, ἄταν δ’ ἀπάτ
+perseus-grc2.tb	ἰδέσθω δ’ εἰς ὕβριν βρότειον, οἵα νεάζει πυθμὴν δι’ ἁμὸν γάμον τεθαλὼς δυσπαραβούλοισι φρεσίν, καὶ διάνοιαν μαινόλιν κέντρον ἔχων ἄφυκτον, ἄταν δʼ ἀπάτᾳ μεταγνούς.
 perseus-eng2 So let him look upon human outrageousness—in what way it shoots up men in their wooing of us, sprouted from thoughts of evil intent, having a frenzied purpose as its irresistible spur, and deluded, turning its thoughts to folly.
 
 cts:urn:tlg0085.tlg001:112
 glaux1.0-sentence	29
 perseus-grc2.tb	τοιαῦτα πάθεα μέλεα θρεομένα λέγω λιγέα βαρέα δακρυοπετῆ, ἰὴ ἰή, ἰηλέμοισιν ἐμπρεπῆ ·
-perseus-eng2 Such piteous strains of woe I utter in my pain, now shrill, now deep, blended with falling tears—Alas, alas! groans appropriate to funeral wails; though I live, I chant my own dirge.
+perseus-eng2 Such piteous strains of woe I utter in my pain, now shrill, now deep, blended with falling tears—Alas, alas! groans appropriate to funeral wails; 
 
 cts:urn:tlg0085.tlg001:115
 glaux1.0-sentence	30
@@ -227,12 +231,12 @@ perseus-eng2 Ah Zeus! On account of the poisonous hate of Io vengeance from the 
 cts:urn:tlg0085.tlg001:164
 glaux1.0-sentence	46
 perseus-grc2.tb	κοννῶ δ’ ἄγαν γαμετᾶς οὐρανόνι
-perseus-eng2 I know your consort’s sky-conquering spite; for a stormy sea follows a harsh wind.
+perseus-eng2 I know your consort’s sky-conquering spite.
 
 cts:urn:tlg0085.tlg001:166
 glaux1.0-sentence	47
 perseus-grc2.tb	χαλεποῦ γὰρ ἐκ πνεύματος εἶσι χειμών.
-perseus-eng2 For from a harsh spirit comes a stormy wind.
+perseus-eng2 for a stormy sea follows a harsh wind.
 
 cts:urn:tlg0085.tlg001:168
 glaux1.0-sentence	48
@@ -247,7 +251,7 @@ perseus-eng2 May he hear us well from on high, as we call upon him.
 cts:urn:tlg0085.tlg001:162a
 glaux1.0-sentence	50
 perseus-grc2.tb	ἆ Ζήν, Ἰοῦς ἰῶ, μῆνις μάστειρ’ ἐκ θεῶν ·
-perseus-eng2 Ah Zeus, alas, alas, the avenger of wrath from the gods;
+perseus-eng2 On account of the poisonous hate of Io vengeance from the gods pursues us.
 
 cts:urn:tlg0085.tlg001:164a
 glaux1.0-sentence	51
@@ -296,7 +300,7 @@ perseus-eng2 But whether a harmless man or one driven by savage wrath rouses thi
 
 cts:urn:tlg0085.tlg001:190
 glaux1.0-sentence	60
-perseus-grc2.tb	κρεῖσσον δὲ πύργου βωμός, ἄρρηκτον σάκος ἀλλ’ ὡς τάχιστα βᾶτε, καὶ λευκοστεφεῖς ἱκετηρίας, ἁγάλματ’ αἰδοίου Διός, σεμνῶς ἔχουσαι διὰ χερῶν εὐωνύμων, αἰδοῖα καὶ γοεδνὰ καὶ ζαχρε
+perseus-grc2.tb	κρεῖσσον δὲ πύργου βωμός, ἄρρηκτον σάκος ἀλλ’ ὡς τάχιστα βᾶτε, καὶ λευκοστεφεῖς ἱκετηρίας, ἁγάλματ’ αἰδοίου Διός, σεμνῶς ἔχουσαι διὰ χερῶν εὐωνύμων, αἰδοῖα καὶ γοεδνὰ καὶ ζαχρεῖʼ ἔπη ξένους ἀμείβεσθʼ, ὡς ἐπήλυδας πρέπει, τορῶς λέγουσαι τάσδʼ ἀναιμάκτους φυγάς.
 perseus-eng2 Stronger than a castle is an altar—an impenetrable shield. As quick as you can, gather in your left hands your white-wreathed suppliant boughs, sacred emblems of Zeus the merciful. Reply to the strangers, as is fitting for aliens, in piteous and plaintive language of necessity, telling them clearly of your flight, how it was unstained by deed of blood.
 
 cts:urn:tlg0085.tlg001:197

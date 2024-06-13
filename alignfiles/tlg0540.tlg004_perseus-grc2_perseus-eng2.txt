@@ -1,0 +1,265 @@
+
+cts:urn:tlg0540.tlg004:1
+glaux2.0-sentence	1
+perseus-grc2	 θαυμαστόν γε , ὦ βουλή , τὸ διαμάχεσθαι περὶ τούτου , ὡς οὐκ ἐγένοντο ἡμῖν διαλλαγαί , καὶ τὸ μὲν ζεῦγος καὶ τὰ ἀνδράποδα , καὶ ὅσα ἐξ ἀγροῦ κατὰ τὴν ἀντίδοσιν ἔλαβε , μὴ ἂν δύνασθαι ἀρνηθῆναι ὡς οὐκ ἀπέδωκε , φανερῶς δὲ περὶ πάντων διαλελυμένον ἀρνεῖσθαι τὰ περὶ τῆς ἀνθρώπου , μὴ κοινῇ ἡμᾶς χρῆσθαι συγχωρῆσαι .
+perseus-eng2	 It is surprising, gentlemen of the Council, that the fact of our reconcilement is so keenly disputed, and that, while he cannot deny his having restored the yoke of oxen, the slaves, amid all the goods on the estate that he received under the exchange, he denies, in face of the settlement clearly made on every point, that we agreed to share the woman between us.
+
+cts:urn:tlg0540.tlg004:2
+glaux2.0-sentence	2
+perseus-grc2	 καὶ τὴν μὲν ἀντίδοσιν δι’ ἐκείνην φανερός ἐστι ποιησάμενος , τὴν δ’ αἰτίαν δι’ ἣν ἀπέδωκεν ἃ ἔλαβεν , οὐκ ἂν ἄλλην ἔχοι εἰπεῖν ( βουλόμενος τα- τἀληθῆ λέγειν ) ἢ ὅτι οἱ φίλοι περὶ πάντων ἡμᾶς τούτων συνήλλαξαν .
+perseus-eng2	 It is plain that he made the exchange because of her; and the only reason he can give — if he wishes to speak the truth — for having restored what he received is that our friends reconciled us on all these matters.
+
+cts:urn:tlg0540.tlg004:3
+glaux2.0-sentence	3
+perseus-grc2	 ἐβουλόμην δ’ ἂν μὴ ἀπολαχεῖν αὐτὸν κριτὴν Διονυσίοις , ἵν’ ὑμῖν φανερὸς ἐγένετο ἐμοὶ διηλλαγμένος , κρίνας τὴν τιμὴν φυλὴν νικᾶν ·
+perseus-eng2	 I could wish that he had not been omitted by lot from the judges at the Dionysia, so that you might have seen clearly that he had been reconciled to me, from his decision that my tribe was the winner.
+
+cts:urn:tlg0540.tlg004:3
+glaux2.0-sentence	4
+perseus-grc2	 νῦν δὲ ἔγραψε μὲν ταῦτα εἰς τὸ γραμματεῖον , ἀπέλαχε δέ .
+perseus-eng2	 In fact he recorded it thus on his tablet, but he was omitted by lot.
+
+cts:urn:tlg0540.tlg004:4
+glaux2.0-sentence	5
+perseus-grc2	 καὶ ὅτι ἀληθῆ ταῦτα λέγω , Φιλῖνος καὶ Διοκλῆς ἴσασιν ·
+perseus-eng2	 My statement on this is true, as Philinus and Diocles know.
+
+cts:urn:tlg0540.tlg004:4
+glaux2.0-sentence	6
+perseus-grc2	 ἀλλ’ οὐκ ἔστ’ αὐτοῖς μαρτυρῆσαι μὴ διομοσαμένοις περὶ τῆς αἰτίας ἧς ἐγὼ φεύγω , ἐπεὶ σαφῶς ἔγνωτ’ ἂν ὅτι ἡμεῖς ἦμεν αὐτὸν οἱ κριτὴν ἐμβαλόντες καὶ ἡμῶν ἕνεκα ἐκαθίζετο .
+perseus-eng2	 It is not possible for them to testify when they have not taken oath upon the charge laid against me, since you would then have perceived clearly that it was we who proposed him as judge, and that it was on account of us that he went on the bench.
+
+cts:urn:tlg0540.tlg004:4
+glaux2.0-sentence	7
+perseus-grc2	 ἀλλ’ ἦν , εἰ βούλεται , ἐχθρός ·
+perseus-eng2	 But — if he will have it so — he was our enemy:
+
+cts:urn:tlg0540.tlg004:5
+glaux2.0-sentence	8
+perseus-grc2	 δίδωμι γὰρ αὐτῷ τοῦτο ·
+perseus-eng2	 I grant him that,
+
+cts:urn:tlg0540.tlg004:5
+glaux2.0-sentence	9
+perseus-grc2	 οὐδὲν γὰρ διαφέρει .
+perseus-eng2	 for it makes no difference.
+
+cts:urn:tlg0540.tlg004:5
+glaux2.0-sentence	10
+perseus-grc2	 οὐκοῦν ἦλθον αὐτὸς αὐτὸν ἀποκτενῶν , ὡς οὗτός φησι , καὶ βία εἰς τὴν οἰκίαν εἰσῆλθον .
+perseus-eng2	 So then I went myself to kill him, as he says, and forced my way into his house.
+
+cts:urn:tlg0540.tlg004:5
+glaux2.0-sentence	11
+perseus-grc2	 δὶα τί οὖν οὐκ ἀπέκτεινα , ὑποχείριον λαβὼν τὸ σῶμα , καὶ τοσοῦτον κρατήσας ὥστε καὶ τὴν ἄνθρωπον λαβεῖν ;
+perseus-eng2	 Why, then, did I not kill him, having his person in my power, and having got the upper hand to the extent of taking the woman?
+
+cts:urn:tlg0540.tlg004:5
+glaux2.0-sentence	12
+perseus-grc2	 φρασάτω πρὸς ὑμᾶς .
+perseus-eng2	 Let him explain it to you:
+
+cts:urn:tlg0540.tlg004:5
+glaux2.0-sentence	13
+perseus-grc2	 ἀλλ’ οὐκ ἔχει εἰπεῖν .
+perseus-eng2	 but he cannot tell you.
+
+cts:urn:tlg0540.tlg004:6
+glaux2.0-sentence	14
+perseus-grc2	 καὶ μὴν οὐδείς γε ὑμῶν ἀγνοεῖ ὅτι θᾶττον ἂν ἐγχειριδίῳ πληγεὶς ἀπέθανεν ἢ πὺξ παιόμενος .
+perseus-eng2	 Furthermore, everyone of you is aware that he would have been killed more quickly by the stroke of a dagger than by the blow of a fist.
+
+cts:urn:tlg0540.tlg004:6
+glaux2.0-sentence	15
+perseus-grc2	 φαίνεται τοίνυν οὐ -δ’ αὐτὸς αἰτιώμενος τοιοῦτόν τι ἔχοντας ἡμᾶς ἐλθεῖν , ἀλλ’ ὀστράκῳ φησὶ πληγῆναι .
+perseus-eng2	 Now, you find that not even he accuses us of having come with anything like that in our hands; he only says he was struck by a potsherd.
+
+cts:urn:tlg0540.tlg004:6
+glaux2.0-sentence	16
+perseus-grc2	 καίτοι φανερὸν ἤδη ἐξ ὧν εἴρηκεν , ὅτι οὐ πρόνοια γεγένηται .
+perseus-eng2	 Why, it is evident already from what he has said that there has been no premeditation.
+
+cts:urn:tlg0540.tlg004:7
+glaux2.0-sentence	17
+perseus-grc2	 οὐ γὰρ ἂν οὕτως ἤλθομεν , ἀδήλου ὄντος εἰ παρὰ τούτῳ εὑρήσομεν ὄστρακον ἢ ὅτῳ αὐτὸν ἀποκτενοῦμεν , ἀλλ’ οἴκοθεν ἔχοντες ἂν ἐβαδίζομεν .
+perseus-eng2	 For we should not have gone in that way, when it was uncertain whether we should find in his house a potsherd or something to serve for killing him, but should have brought it from home as we set out.
+
+cts:urn:tlg0540.tlg004:7
+glaux2.0-sentence	18
+perseus-grc2	 νῦν δὲ ὁμολογούμεθα πρὸς παῖδας καὶ αὐλητρίδας καὶ μετ’ οἴνου ἐλθόντες .
+perseus-eng2	 In point of fact, we admit that we went to see boys and flute-girls and were in liquor:
+
+cts:urn:tlg0540.tlg004:7
+glaux2.0-sentence	19
+perseus-grc2	 ὥστε πῶς ταῦτ’ ἐστὶ πρόνοια ;
+perseus-eng2	 so how is that premeditation?
+
+cts:urn:tlg0540.tlg004:7
+glaux2.0-sentence	20
+perseus-grc2	 ἐγὼ μὲν γὰρ οἶμαι οὐδαμῶς .
+perseus-eng2	 In no wise, to my thinking.
+
+cts:urn:tlg0540.tlg004:8
+glaux2.0-sentence	21
+perseus-grc2	 ἀλλ’ οὗτος ἐναντίως τοῖς ἄλλοις δύσερώς ἐστι , καὶ ἀμφότερα βούλεται , τό τε ἀργύριον μὴ ἀποδοῦναι καὶ τὴν ἄνθρωπον ἔχειν .
+perseus-eng2	 But this man takes his love-sickness in an opposite fashion to the rest of us: he wants to have it both ways — to avoid paying up the money and to have the woman as well.
+
+cts:urn:tlg0540.tlg004:8
+glaux2.0-sentence	22
+perseus-grc2	 εἶτα ὑπὸ τῆς ἀνθρώπου παρωξυμμένος ὀξύχειρ λίαν καὶ πάροινός ἐστιν , ἀνάγκη δὲ ἀμύνασθαι .
+perseus-eng2	 And then, with his passion inflamed by the woman, he is excessively hasty of hand and the worse for liquor, and one is forced to defend oneself.
+
+cts:urn:tlg0540.tlg004:8
+glaux2.0-sentence	23
+perseus-grc2	 ἡ δὲ τοτὲ μὲν ἐμὲ περὶ πολλοῦ τοτὲ δὲ τοῦτόν φησι ποιεῖσθαι , βουλομένη ὑπ’ ἀμφοτέρων ἐρᾶσθαι .
+perseus-eng2	 As to her, sometimes it is I, and sometimes he, for whom she professes affection, wishing to be loved by both.
+
+cts:urn:tlg0540.tlg004:9
+glaux2.0-sentence	24
+perseus-grc2	 καὶ ἐγὼ μὲν καὶ ἐξ ἀρχῆς εὐκόλως εἶχον καὶ νῦν ἔτι ἔχω ·
+perseus-eng2	 Now I have shown an easy temper from the beginning, as I still do to-day;
+
+cts:urn:tlg0540.tlg004:9
+glaux2.0-sentence	25
+perseus-grc2	 ὁ δ’ εἰς τοῦτο βαρυδαιμονίας ἥκει , ὥστε οὐκ αἰσχύνεται τραύματ’ ὀνομάζων τὰ ὑπώπια καὶ ἐν κλίνῃ περιφερόμενος καὶ δεινῶς προσποιούμενος διακεῖσθαι ἕνεκα πόρνης ἀνθρώπου , ἣν ἔξεστιν αὐτῷ ἀναμφισβητήτως ἔχειν ἐμοὶ ἀποδόντι τα- τἀργύριον .
+perseus-eng2	 but he has got into such an irritable state that he is not ashamed to call a black eye a wound, and to be carried about in a litter and pretend to be in a dreadful condition, for the sake of a harlot wench whom he is free to leave uncontested on restoring the money to me.
+
+cts:urn:tlg0540.tlg004:10
+glaux2.0-sentence	26
+perseus-grc2	 καὶ φησὶ μὲν δεινῶς ἐπιβουλευθῆναι καὶ πρὸς ἅπανθ’ ἡμῖν ἀμφισβητεῖ , ἐξὸν δ’ ἐκ τῆς ἀνθρώπου βασανισθείσης τὸν ἔλεγχον ποιήσασθαι οὐκ ἠθέλησεν ·
+perseus-eng2	 And he says that he has been plotted against in a monstrous way, and contests every point with us; yet although it was open to him to procure his proof by having the woman tortured, he refused.
+
+cts:urn:tlg0540.tlg004:10
+glaux2.0-sentence	27
+perseus-grc2	 ἣ πρῶτον μὲν τοῦτ’ ἂν κατεῖπεν , πότερα κοινὴ ἡμῖν ἦν ἢ ἰδία τούτου , καὶ πότερα τὸ ἥμισυ τοῦ ἀργυρίου ἐγὼ συνεβαλόμην ἢ οὗτος ἅπαν ἔδωκε , καὶ εἰ διηλλαγμένοι ἢ ἔτι ἐχθροὶ ἦμεν ,
+perseus-eng2	 She would first have informed you whether she was shared by us or belonged only to him, whether I contributed half the money or he gave it all, and whether we had been reconciled or were still enemies;
+
+cts:urn:tlg0540.tlg004:11
+glaux2.0-sentence	27a
+perseus-grc2	 ἔτι δὲ εἰ μεταπεμφθέντες ἤλθομεν ἢ οὐδενὸς καλέσαντος , καὶ εἰ οὗτος ἦρχε χειρῶν ἀδίκων ἢ ἐγὼ πρότερος τοῦτον ἐπάταξα .
+perseus-eng2	 also whether we went on receipt of a summons, or without invitation from anyone, and whether this man struck the first blow by assault, or I first hit him.
+
+cts:urn:tlg0540.tlg004:11
+glaux2.0-sentence	28
+perseus-grc2	 τούτων καθ’ ἓν ἕκαστον καὶ τῶν ἄλλων οὐδὲν ἦν ὅ τι οὐ ῥᾴδιον τοῖς τε ἄλλοις ἐμφανὲς καὶ τούτοις ποιῆσαι .
+perseus-eng2	 Each of these points in turn, as of the rest, could have been cleared up with ease in every ease both for the public and for this court.
+
+cts:urn:tlg0540.tlg004:12
+glaux2.0-sentence	29
+perseus-grc2	 ὅτι μὲν οὖν οὔ -τε πρόνοια ἐγένετο οὔ -τε ἀδικῶ τοῦτον , ὦ βουλή , ἐκ τοσούτων τεκμηρίων καὶ μαρτυριῶν ὑμῖν ἐπιδέδεικται ·
+perseus-eng2	 Thus there has been neither premeditation nor wrongdoing on my part, gentlemen: this has been made clear to you by an abundance of evidences and testimonies.
+
+cts:urn:tlg0540.tlg004:12
+glaux2.0-sentence	30
+perseus-grc2	 ἀξιῶ δ’ ὅσον ἂν ἐγένετο σημεῖον τούτῳ πρὸς τὸ δοκεῖν ἀληθῆ λέγειν φυγόντος ἐμοῦ τὴν βάσανον , τοσοῦτον ἐμοὶ τεκμήριον γενέσθαι ὅτι οὐ ψεύδομαι , διότι οὗτος οὐκ ἠθέλησεν ἐκ τῆς ἀνθρώπου ποιήσασθαι τὸν ἔλεγχον , καὶ μὴ τοσοῦτον ἰσχῦσαι τοὺς τούτου λόγους , ὅτι φησὶν αὐτὴν ἐλευθέραν εἶναι .
+perseus-eng2	 And I think it fair that, inasmuch as this man could have found an indication in favour of his speaking the truth in my evasion of the test of torture, I should equally find a proof that I am not lying in the fact that he refused to settle the question by means of the woman; and I claim that the less weight should be given to his words, when he says that she is free.
+
+cts:urn:tlg0540.tlg004:12
+glaux2.0-sentence	31
+perseus-grc2	 ὁμοίως γὰρ προσήκει κα- κἀμοὶ τῆς ἐλευθερίας , τὸ ἴσον καταθέντι ἀργύριον .
+perseus-eng2	 For I am alike concerned in her freedom, since I have put down an equal sum of money.
+
+cts:urn:tlg0540.tlg004:13
+glaux2.0-sentence	32
+perseus-grc2	 ἀλλὰ ψεύδεται καὶ οὐκ ἀληθῆ λέγει .
+perseus-eng2	 But he lies, and does not speak the truth.
+
+cts:urn:tlg0540.tlg004:13
+glaux2.0-sentence	33
+perseus-grc2	 ἢ δεινόν γε , εἰ εἰς μὲν λύσιν τοῦ σώματος ἐκ τῶν πολεμίων ἐξῆν ἄν μοι χρῆσθαι αὐτῇ ὅ τι ἐβουλόμην , κινδυνεύοντι δέ μοι περὶ τῆς πατρίδος οὐ -δὲ πυθέσθαι παρ’ αὐτῆς τα- τἀληθῆ ἐκγενήσεται περὶ ὧν εἰς τὴν κρίσιν καθέστηκα ·
+perseus-eng2	 What a monstrous position it would be!  To ransom my person from the enemy, I could make what use of her I pleased;  but when I am in danger of losing my native land, I am not to be permitted even to ask her for a true statement on the matters for which I have been brought to this trial.
+
+cts:urn:tlg0540.tlg004:13
+glaux2.0-sentence	34
+perseus-grc2	 καὶ μὲν δὴ πολὺ ἂν δικαιότερον ἐπὶ ταύτῃ τῇ αἰτίᾳ βασανισθείη ἢ ἐπὶ τῇ ἐκ τῶν πολεμίων λύσει πραθείη , ὅσῳ παρὰ μὲν ἐκείνων βουλομένων ἀπολῦσαι ἔστι καὶ ἄλλοθεν εὐπορήσαντι κομισθῆναι , ἐπὶ δὲ τοῖς ἐχθροῖς γενόμενον οὐ δυνατόν ·
+perseus-eng2	 Nay, it would be far more just to have her tortured for the purpose of this charge than to have her sold for my ransom from the enemy, inasmuch as, if they are willing to take a ransom, one can get plenty of means elsewhere for obtaining one’s return; but if one is in the power of one’s adversaries, it is impossible.
+
+cts:urn:tlg0540.tlg004:13
+glaux2.0-sentence	35
+perseus-grc2	 οὐ γὰρ ἀργύριον λαβεῖν προθυμοῦνται , ἀλλ’ ἐκ τῆς πατρίδος ἐκβαλεῖν ἔργον ποιοῦνται .
+perseus-eng2	 For they are not set on gaining money, but make it their business to expel one from one’s native land.
+
+cts:urn:tlg0540.tlg004:14
+glaux2.0-sentence	36
+perseus-grc2	 ὥσθ’ ὑμῖν προσήκει μὴ ἀποδέχεσθαι αὐτοῦ διὰ τοῦτο οὐκ ἀξιοῦντος βασανισθῆναι τὴν ἄνθρωπον , ὅτι αὐτὴν ἐλευθέραν ἐσκήπτετο εἶναι , ἀλλὰ πολὺ μᾶλλον συκοφαντίαν καταγιγνώσκειν , ὅτι παραλιπὼν ἔλεγχον οὕτως ἀκριβῆ ἐξαπατήσειν ὑμᾶς ῥᾳδίως ᾠήθη .
+perseus-eng2	 It is your duty, therefore, to reject his claim that the woman should not be tortured, which he made on the pretended ground of her freedom; you ought much rather to condemn him for slander, on the ground that he put aside so decisive a test in the expectation that he would easily deceive you.
+
+cts:urn:tlg0540.tlg004:15
+glaux2.0-sentence	37
+perseus-grc2	 οὐ γὰρ δήπου τήν γε τούτου πρόκλησιν πιστοτέραν ὑμᾶς νομίζειν δεῖ τῆς ἡμετέρας , ἐφ’ οἷς αὑτοῦ οἰκέτας ἠξίου βασανίζεσθαι .
+perseus-eng2	 For surely you should not regard his challenge as more convincing than ours, in regard to the points on which he claimed to have his own servants put to the torture.
+
+cts:urn:tlg0540.tlg004:15
+glaux2.0-sentence	38
+perseus-grc2	 ἃ μὲν γὰρ ἐκεῖνοι ᾔδεσαν , ἐλθόντας ἡμᾶς ὡς τοῦτον , καὶ ἡμεῖς ὁμολογοῦμεν .
+perseus-eng2	 For as to their knowledge of our having gone to his house, we likewise admit that;
+
+cts:urn:tlg0540.tlg004:15
+glaux2.0-sentence	39
+perseus-grc2	 εἰ δὲ μεταπεμφθέντες ἢ μή , καὶ πότερον πρότερος ἐπλήγην ἢ ἐπάταξα , ἐκείνη μᾶλλον ἂν ᾔδει .
+perseus-eng2	 but whether we were sent for or not, and whether I received the first blow or gave it, are things that she would be better able to know.
+
+cts:urn:tlg0540.tlg004:16
+glaux2.0-sentence	40
+perseus-grc2	 ἔτι δὲ τοὺς μὲν τούτου οἰκέτας ἰδίους ὄντας τούτου εἰ ἐβασανίζομεν , ἀνοήτως ἄν τι τούτῳ χαριζόμενοι καὶ παρὰ τὴν ἀλήθειαν ἐμοῦ κατεψεύσαντο ·
+perseus-eng2	 And then, had we put his servants, who were wholly his property, to that torture, they would have been led by a foolish complaisance to him into denying the truth and falsely accusing me.
+
+cts:urn:tlg0540.tlg004:16
+glaux2.0-sentence	41
+perseus-grc2	 αὕτη δὲ ὑπῆρχε κοινή , ὁμοίως ἀμφοτέρων ἀργύριον κατατεθηκότων , καὶ μάλιστα ᾔδει ·
+perseus-eng2	 But this woman was our common possession, both alike having put down money, as she knew very well:
+
+cts:urn:tlg0540.tlg004:16
+glaux2.0-sentence	42
+perseus-grc2	 διὰ ταύτην ἅπαντα τὰ πραχθέντα ἡμῖν γεγένηται ·
+perseus-eng2	 it is on her account that all this business has come upon us.
+
+cts:urn:tlg0540.tlg004:17
+glaux2.0-sentence	43
+perseus-grc2	 καὶ οὐ λήσει οὐδέν’ ὅτι ταύτης ἔγωγ’ ἄνισον εἶχον βασανισθείσης , ἀλλ’ ἀπεκινδύνευον τοῦτο ·
+perseus-eng2	 And it will be observed by all that in having her put to the torture I must be at a disadvantage, and yet I ran this grave risk;
+
+cts:urn:tlg0540.tlg004:17
+glaux2.0-sentence	44
+perseus-grc2	 πολὺ γὰρ περὶ πλείονος τοῦτον ἢ ἐμὲ φαίνεται ποιησαμένη , καὶ μετὰ μὲν τούτου ἐμὲ ἠδικηκυῖα , μετ’ ἐμοῦ δ’ οὐδεπώποτε εἰς τοῦτον ἐξαμαρτοῦσα .
+perseus-eng2	 for clearly she was much more attached to him than to me, and has joined him in wronging me, but has never joined me in offending against him.
+
+cts:urn:tlg0540.tlg004:17
+glaux2.0-sentence	45
+perseus-grc2	 ἀλλ’ ὅμως ἐγὼ μὲν εἰς ταύτην κατέφυγον , οὗτος δὲ οὐκ ἐπίστευσεν αὐτῇ .
+perseus-eng2	 Nevertheless, while I sought her as my refuge, he put no confidence in her.
+
+cts:urn:tlg0540.tlg004:18
+glaux2.0-sentence	46
+perseus-grc2	 οὔκουν δεῖ ὑμᾶς , ὦ βουλή , τηλικούτου ὄντος τοῦ κινδύνου , ῥᾳδίως ἀποδέχεσθαι τοὺς τούτου λόγους , ἀλλ’ ἐνθυμουμένους ὅτι περὶ τῆς πατρίδος μοι καὶ τοῦ βίου ὁ ἀγών ἐστιν , ἐν ὑπολόγῳ ταύτας τὰς προκλήσεις ποιεῖσθαι .
+perseus-eng2	 You should therefore decline, gentlemen, when my danger is so great, to accept offhand the statements of this man:
+
+cts:urn:tlg0540.tlg004:18
+glaux2.0-sentence	47
+perseus-grc2	 καὶ μὴ ζητεῖτε τούτων ἔτι μείζους πίστεις ·
+perseus-eng2	 you should rather reflect that I have my native land and my livelihood at stake, and so should take these challenges into your reckoning.
+
+cts:urn:tlg0540.tlg004:18
+glaux2.0-sentence	48
+perseus-grc2	 οὐ γὰρ ἂν ἔχοιμι εἰπεῖν ἀλλ’ ἢ ταύτας , ὡς οὐδὲν εἰς τοῦτον προὐνοήθην .
+perseus-eng2	 Do not look for still stronger pledges than these: I could not instance others to show that I did not premeditate anything against this man.
+
+cts:urn:tlg0540.tlg004:19
+glaux2.0-sentence	49
+perseus-grc2	 ἀγανακτῶ δ’ , ὦ βουλή , εἰ διὰ πόρνην καὶ δούλην ἄνθρωπον περὶ τῶν μεγίστων εἰς κίνδυνον καθέστηκα , τί κακὸν πώποτε τὴν πόλιν ἢ αὐτὸν τοῦτον εἰργασμένος , ἢ εἰς τίνα τῶν πολιτῶν ὁτιοῦν ἐξαμαρτών ;
+perseus-eng2	 I am vexed, gentlemen, at finding myself in danger of losing what I value most on account of a harlot and a slave: for what harm have I ever done to the city, or to this man himself, or against what citizen have I committed any sort of offence?
+
+cts:urn:tlg0540.tlg004:19
+glaux2.0-sentence	50
+perseus-grc2	 οὐδὲν γὰρ ἔμοιγέ ἐστι τοιοῦτον πεπραγμένον , ἀλλ’ ἀλογώτατον πάντων κινδυνεύω πολὺ μείζω συμφορὰν ἐμαυτῷ διὰ τούτους ἐπαγαγέσθαι .
+perseus-eng2	 Nothing of the kind have I ever done, yet with the least show of reason in the world I am in danger of bringing upon myself a much more serious disaster on account of these men.
+
+cts:urn:tlg0540.tlg004:20
+glaux2.0-sentence	51
+perseus-grc2	 πρὸς οὖν παίδων καὶ γυναικῶν καὶ θεῶν τῶν τόδε τὸ χωρίον ἐχόντων ἱκετεύω ὑμᾶς καὶ ἀντιβολῶ , ἐλεήσατέ με , καὶ μὴ περιίδητε ἐπὶ τούτῷ γενόμενον , μη -δὲ ἀνηκέστῳ συμφορᾷ περιβάλητε ·
+perseus-eng2	 So I pray and beseech you, by your children, your wives, and the gods who keep this place, have pity on me, and do not suffer me to fall into the hand of this man, nor involve me in an irremediable calamity.
+
+cts:urn:tlg0540.tlg004:20
+glaux2.0-sentence	52
+perseus-grc2	 οὐ γὰρ ἄξιος οὔ -τ’ ἐγὼ φεύγειν τὴν ἐμαυτοῦ , οὔ -τε οὗτος τοσαύτην δίκην παρ’ ἐμοῦ λαβεῖν ὑπὲρ ὧν φησιν ἠδικῆσθαι , οὐκ ἠδικημένος .
+perseus-eng2	 For it is equally unfair that I should be banished from my own country, and that he should exact so heavy a penalty from me for wrongs which, though he says that he has received them, he has never received.

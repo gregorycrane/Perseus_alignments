@@ -1,0 +1,445 @@
+
+cts:urn:tlg0540.tlg001:1
+glaux2.0-sentence	1
+perseus-grc2	 περὶ πολλοῦ ἂν ποιησαίμην , ὦ ἄνδρες , τὸ τοιούτους ὑμᾶς ἐμοὶ δικαστὰς περὶ τούτου τοῦ πράγματος γενέσθαι , οἷοίπερ ἂν ὑμῖν αὐτοῖς εἴητε τοιαῦτα πεπονθότες ·
+perseus-eng2	 I should be only too pleased, sirs, to have you so disposed towards me in judging this case as you would be to yourselves, if you found yourselves in my plight.
+
+cts:urn:tlg0540.tlg001:1
+glaux2.0-sentence	2
+perseus-grc2	 εὖ γὰρ οἶδ’ ὅτι , εἰ τὴν αὐτὴν γνώμην περὶ τῶν ἄλλων ἔχοιτε , ἥνπερ περὶ ὑμῶν αὐτῶν , οὐκ ἂν εἴη ·
+perseus-eng2	 For I am sure that, if you had the same feelings about others as about yourselves, not one of you but would be indignant at what has been done;
+
+cts:urn:tlg0540.tlg001:1
+glaux2.0-sentence	3
+perseus-grc2	 ὅστις οὐκ ἐπὶ τοῖς γεγενημένοις ἀγανακτοίη , ἀλλὰ πάντες ἂν περὶ τῶν τὰ τοιαῦτα ἐπιτηδευόντων τὰς ζημίας μικρὰς ἡγοῖσθε .
+perseus-eng2	 you would all regard the penalties appointed for those who resort to such practices as too mild.
+
+cts:urn:tlg0540.tlg001:2
+glaux2.0-sentence	4
+perseus-grc2	 καὶ ταῦτα οὐκ ἂν εἴη μόνον παρ’ ὑμῖν οὕτως ἐγνωσμένα , ἀλλ’ ἐν ἁπάσῃ τῇ Ἑλλάδι ·
+perseus-eng2	 And these feelings would be found, not only among you, but in the whole of Greece:
+
+cts:urn:tlg0540.tlg001:2
+glaux2.0-sentence	5
+perseus-grc2	 περὶ τούτου γὰρ μόνου τοῦ ἀδικήματος καὶ ἐν δημοκρατίᾳ καὶ ὀλιγαρχίᾳ ἡ αὐτὴ τιμωρία τοῖς ἀσθενεστάτοις πρὸς τοὺς τὰ μέγιστα δυναμένους ἀποδέδοται , ὥστε τὸν χείριστον τῶν αὐτῶν τυγχάνειν τῷ βελτίστῳ ·
+perseus-eng2	 for in the case of this crime alone, under both democracy and oligarchy, the same requital is accorded to the weakest against the strongest, so that the lowest gets the same treatment as the highest.
+
+cts:urn:tlg0540.tlg001:2
+glaux2.0-sentence	6
+perseus-grc2	 οὕτως , ὦ ἄνδρες , ταύτην τὴν ὕβριν ἅπαντες ἄνθρωποι δεινοτάτην ἡγοῦνται .
+perseus-eng2	 Thus you see, sirs, how all men abominate this outrage.
+
+cts:urn:tlg0540.tlg001:3
+glaux2.0-sentence	7
+perseus-grc2	 περὶ μὲν οὖν τοῦ μεγέθους τῆς ζημίας ἅπαντας ὑμᾶς νομίζω τὴν αὐτὴν διάνοιαν ἔχειν , καὶ οὐδένα οὕτως ὀλιγώρως διακεῖσθαι , ὅστις οἴεται δεῖν συγγνώμης τυγχάνειν ἢ μικρᾶς ζημίας ἀξίους ἡγεῖται τοὺς τῶν τοιούτων ἔργων αἰτίους ·
+perseus-eng2	 Well, I conceive that, in regard to the severity of the penalty, you are all of the same mind, and that not one of you is so easygoing as to think it right that men who are guilty of such acts should obtain pardon, or to presume that slight penalties suffice for their deserts.
+
+cts:urn:tlg0540.tlg001:4
+glaux2.0-sentence	8
+perseus-grc2	 ἡγοῦμαι δέ , ὦ ἄνδρες , τοῦτό με δεῖν ἐπιδεῖξαι , ὡς ἐμοίχευεν Ἐρατοσθένης τὴν γυναῖκα τὴν ἐμὴν καὶ ἐκείνην τε διέφθειρε καὶ τοὺς παῖδας τοὺς ἐμοὺς ᾔσχυνε καὶ ἐμὲ αὐτὸν ὕβρισεν εἰς τὴν οἰκίαν τὴν ἐμὴν εἰσιών , καὶ οὔ -τε ἔχθρα ἐμοὶ καὶ ἐκείνῳ οὐδεμία ἦν πλὴν ταύτης , οὔ -τε χρημάτων ἕνεκα ἔπραξα ταῦτα , ἵνα πλούσιος ἐκ πένητος γένωμαι , οὔ -τε ἄλλου κέρδους οὐδενὸς πλὴν τῆς κατὰ τοὺς νόμους τιμωρίας .
+perseus-eng2	 But I take it, sirs, that what I have to show is that Eratosthenes had an intrigue with my wife, and not only corrupted her but inflicted disgrace upon my children and an outrage on myself by entering my house; that this was the one and only enmity between him and me; that I have not acted thus for the sake of money, so as to raise myself from poverty to wealth; and that all I seek to gain is the requital accorded by our laws.
+
+cts:urn:tlg0540.tlg001:5
+glaux2.0-sentence	9
+perseus-grc2	 ἐγὼ τοίνυν ἐξ ἀρχῆς ὑμῖν ἅπαντα ἐπιδείξω τὰ ἐμαυτοῦ πράγματα , οὐδὲν παραλείπων , ἀλλὰ λέγων τα- τἀληθῆ ·
+perseus-eng2	 I shall therefore set forth to you the whole of my story from the beginning;
+
+cts:urn:tlg0540.tlg001:5
+glaux2.0-sentence	10
+perseus-grc2	 ταύτην γὰρ ἐμαυτῷ μόνην ἡγοῦμαι σωτηρίαν , ἐὰν ὑμῖν εἰπεῖν ἅπαντα δυνηθῶ τὰ πεπραγμένα .
+perseus-eng2	 I shall omit nothing, but will tell the truth.
+
+cts:urn:tlg0540.tlg001:6
+glaux2.0-sentence	11
+perseus-grc2	 ἐγὼ γάρ , ὦ Ἀθηναῖοι , ἐπειδὴ ἔδοξέ μοι γῆμαι καὶ γυναῖκα ἠγαγόμην εἰς τὴν οἰκίαν , τὸν μὲν ἄλλον χρόνον οὕτω διεκείμην ὥστε μή -τε λυπεῖν μή -τε λίαν ἐπ’ ἐκείνῃ εἶναι ὅ τι ἂν ἐθέλῃ ποιεῖν , ἐφύλαττόν τε ὡς οἷόν τε ἦν , καὶ προσεῖχον τὸν νοῦν ὥσπερ εἰκὸς ἦν .
+perseus-eng2	 When I, Athenians, decided to marry, and brought a wife into my house, for some time I was disposed neither to vex her nor to leave her too free to do just as she pleased; I kept a watch on her as far as possible, with such observation of her as was reasonable.
+
+cts:urn:tlg0540.tlg001:6
+glaux2.0-sentence	12
+perseus-grc2	 ἐπειδὴ δέ μοι παιδίον γίγνεται , ἐπίστευον ἤδη καὶ πάντα τὰ ἐμαυτοῦ ἐκείνῃ παρέδωκα , ἡγούμενος ταύτην οἰκειότητα μεγίστην εἶναι ·
+perseus-eng2	 But when a child was born to me, thenceforward I began to trust her, and placed all my affairs in her hands, presuming that we were now in perfect intimacy.
+
+cts:urn:tlg0540.tlg001:7
+glaux2.0-sentence	13
+perseus-grc2	 ἐν μὲν οὖν τῷ πρώτῳ χρόνῳ , ὦ Ἀθηναῖοι , πασῶν ἦν βελτίστη ·
+perseus-eng2	 It is true that in the early days, Athenians, she was the most excellent of wives;
+
+cts:urn:tlg0540.tlg001:7
+glaux2.0-sentence	14
+perseus-grc2	 καὶ γὰρ οἰκονόμος δεινὴ καὶ φειδωλὸς ἀγαθὴ καὶ ἀκριβῶς πάντα διοικοῦσα ·
+perseus-eng2	 she was a clever, frugal housekeeper, and kept everything in the nicest order.
+
+cts:urn:tlg0540.tlg001:7
+glaux2.0-sentence	15
+perseus-grc2	 ἐπειδὴ δέ μοι ἡ μήτηρ ἐτελεύτησε , πάντων τῶν κακῶν ἀποθανοῦσα αἰτία μοι γεγένηται .
+perseus-eng2	 But as soon as I lost my mother, her death became the cause of all my troubles.
+
+cts:urn:tlg0540.tlg001:8
+glaux2.0-sentence	16
+perseus-grc2	 ἐπ’ ἐκφορὰν γὰρ αὐτῇ ἀκολουθήσασα ἡ ἐμὴ γυνὴ ὑπὸ τούτου τοῦ ἀνθρώπου ὀφθεῖσα , χρόνῳ διαφθείρεται ·
+perseus-eng2	 For it was in attending her funeral that my wife was seen by this man, who in time corrupted her.
+
+cts:urn:tlg0540.tlg001:8
+glaux2.0-sentence	17
+perseus-grc2	 ἐπιτηρῶν γὰρ τὴν θεράπαιναν τὴν εἰς τὴν ἀγορὰν βαδίζουσαν καὶ λόγους προσφέρων ἀπώλεσεν αὐτήν .
+perseus-eng2	 He looked out for the servant-girl who went to market, and so paid addresses to her mistress by which he wrought her ruin.
+
+cts:urn:tlg0540.tlg001:9
+glaux2.0-sentence	18
+perseus-grc2	 πρῶτον μὲν οὖν , ὦ ἄνδρες , ( δεῖ γὰρ καὶ ταῦθ’ ὑμῖν διηγήσασθαι ) οἰκίδιον ἔστι μοι διπλοῦν , ἴσα ἔχον τὰ ἄνω τοῖς κάτω κατὰ τὴν γυναικωνῖτιν καὶ κατὰ τὴν ἀνδρωνῖτιν .
+perseus-eng2	 Now in the first place I must tell you, sirs (for I am obliged to give you these particulars), my dwelling is on two floors, the upper being equal in space to the lower, with the women’s quarters above and the men’s below.
+
+cts:urn:tlg0540.tlg001:9
+glaux2.0-sentence	19
+perseus-grc2	 ἐπειδὴ δὲ τὸ παιδίον ἐγένετο ἡμῖν , ἡ μήτηρ αὐτὸ ἐθήλαζεν ·
+perseus-eng2	 When the child was born to us, its mother suckled it;
+
+cts:urn:tlg0540.tlg001:9
+glaux2.0-sentence	20
+perseus-grc2	 ἵνα δὲ μή , ὁπότε λοῦσθαι δέοι , κινδυνεύῃ κατὰ τῆς κλίμακος καταβαίνουσα , ἐγὼ μὲν ἄνω διῃτώμην , αἱ δὲ γυναῖκες κάτω .
+perseus-eng2	 and in order that, each time that it had to be washed, she might avoid the risk of descending by the stairs, I used to live above, and the women below.
+
+cts:urn:tlg0540.tlg001:10
+glaux2.0-sentence	21
+perseus-grc2	 καὶ οὕτως ἤδη συνειθισμένον ἦν , ὥστε πολλάκις ἡ γυνὴ ἀπῄει κάτω καθευδήσουσα ὡς τὸ παιδίον , ἵνα τὸν τιτθὸν αὐτῷ διδῷ καὶ μὴ βοᾷ .
+perseus-eng2	 By this time it had become such an habitual thing that my wife would often leave me and go down to sleep with the child, so as to be able to give it the breast and stop its crying.
+
+cts:urn:tlg0540.tlg001:10
+glaux2.0-sentence	22
+perseus-grc2	 καὶ ταῦτα πολὺν χρόνον οὕτως ἐγίγνετο , καὶ ἐγὼ οὐδέποτε ὑπώπτευσα , ἀλλ’ οὕτως ἠλιθίως διεκείμην , ὥστε ᾤμην τὴν ἐμαυτοῦ γυναῖκα πασῶν σωφρονεστάτην εἶναι τῶν ἐν τῇ πόλει .
+perseus-eng2	 Things went on in this way for a long time, and I never suspected, but was simple-minded enough to suppose that my own was the chastest wife in the city.
+
+cts:urn:tlg0540.tlg001:11
+glaux2.0-sentence	23
+perseus-grc2	 προϊόντος δὲ τοῦ χρόνου , ὦ ἄνδρες , ἧκον μὲν ἀπροσδοκήτως ἐξ ἀγροῦ , μετὰ δὲ τὸ δεῖπνον τὸ παιδίον ἐβόα καὶ ἐδυσκόλαινεν ὑπὸ τῆς θεραπαίνης ἐπίτηδες λυπούμενον , ἵνα ταῦτα ποιῇ ·
+perseus-eng2	 Time went on, sirs; I came home unexpectedly from the country, and after dinner the child started crying in a peevish way, as the servant-girl was annoying it on purpose to make it so behave;
+
+cts:urn:tlg0540.tlg001:11
+glaux2.0-sentence	24
+perseus-grc2	 ὁ γὰρ ἄνθρωπος ἔνδον ἦν ·
+perseus-eng2	 for the man was in the house —
+
+cts:urn:tlg0540.tlg001:12
+glaux2.0-sentence	25
+perseus-grc2	 ὕστερον γὰρ ἅπαντα ἐπυθόμην .
+perseus-eng2	 I learnt it all later.
+
+cts:urn:tlg0540.tlg001:12
+glaux2.0-sentence	26
+perseus-grc2	 καὶ ἐγὼ τὴν γυναῖκα ἀπιέναι ἐκέλευον καὶ δοῦναι τῷ παιδίῳ τὸν τιτθόν , ἵνα παύσηται κλᾶον .
+perseus-eng2	 So I bade my wife go and give the child her breast, to stop its howling.
+
+cts:urn:tlg0540.tlg001:12
+glaux2.0-sentence	27
+perseus-grc2	 ἡ δὲ τὸ μὲν πρῶτον οὐκ ἤθελεν , ὡς ἂν ἀσμένη με ἑωρακυῖα ἥκοντα διὰ χρόνου ·
+perseus-eng2	 At first she refused, as though delighted to see me home again after so long;
+
+cts:urn:tlg0540.tlg001:12
+glaux2.0-sentence	28
+perseus-grc2	 ἐπειδὴ δὲ ἐγὼ ὠργιζόμην καὶ ἐκέλευον αὐτὴν ἀπιέναι , " ἵνα σύ γε " ἔφη " πειρᾷς ἐνταῦθα τὴν παιδίσκην ·
+perseus-eng2	 but when I began to be angry and bade her go, — Yes, so that you, she said, may have a try here at the little maid.
+
+cts:urn:tlg0540.tlg001:12
+glaux2.0-sentence	29
+perseus-grc2	 καὶ πρότερον δὲ μεθύων εἷλκες αὐτήν " .
+perseus-eng2	 Once before, too, when you were drunk, you pulled her about.
+
+cts:urn:tlg0540.tlg001:13
+glaux2.0-sentence	30
+perseus-grc2	 κα- κἀγὼ μὲν ἐγέλων , ἐκείνη δὲ ἀναστᾶσα καὶ ἀπιοῦσα προστίθησι τὴν θύραν , προσποιουμένη παίζειν , καὶ τὴν κλεῖν ἐφέλκεται .
+perseus-eng2	 At that I laughed, while she got up, went out of the room, and closed the door, feigning to make fun, and she took the key away with her.
+
+cts:urn:tlg0540.tlg001:13
+glaux2.0-sentence	31
+perseus-grc2	 κα- κἀγὼ τούτων οὐδὲν ἐνθυμούμενος οὐ -δ’ ὑπονοῶν ἐκάθευδον ἄσμενος , ἥκων ἐξ ἀγροῦ .
+perseus-eng2	 I, without giving a thought to the matter, or having any suspicion, went to sleep in all content after my return from the country.
+
+cts:urn:tlg0540.tlg001:14
+glaux2.0-sentence	32
+perseus-grc2	 ἐπειδὴ δὲ ἦν πρὸς ἡμέραν , ἧκεν ἐκείνη καὶ τὴν θύραν ἀνέῳξεν .
+perseus-eng2	 Towards daytime she came and opened the door.
+
+cts:urn:tlg0540.tlg001:14
+glaux2.0-sentence	33
+perseus-grc2	 ἐρομένου δέ μου τί αἱ θύραι νύκτωρ ψοφοῖεν , ἔφασκε τὸν λύχνον ἀποσβεσθῆναι τὸν παρὰ τῷ παιδίῳ , εἶτα ἐκ τῶν γειτόνων ἐνάψασθαι .
+perseus-eng2	 I asked why the doors made a noise in the night; she told me that the child’s lamp had gone out, and she had lit it again at our neighbor’s.
+
+cts:urn:tlg0540.tlg001:14
+glaux2.0-sentence	34
+perseus-grc2	 ἐσιώπων ἐγὼ καὶ ταῦτα οὕτως ἔχειν ἡγούμην .
+perseus-eng2	 I was silent and believed it was so.
+
+cts:urn:tlg0540.tlg001:14
+glaux2.0-sentence	35
+perseus-grc2	 ἔδοξε δέ μοι , ὦ ἄνδρες , τὸ πρόσωπον ἐψιμυθιῶσθαι , τοῦ ἀδελφοῦ τεθνεῶτος οὔπω τριάκονθ’ ἡμέρας ·
+perseus-eng2	 But it struck me, sirs, that she had powdered her face, though her brother had died not thirty days before;
+
+cts:urn:tlg0540.tlg001:14
+glaux2.0-sentence	36
+perseus-grc2	 ὅμως δ’ οὐ -δ’ οὕτως οὐδὲν εἰπὼν περὶ τοῦ πράγματος ἐξελθὼν ᾠχόμην ἔξω σιωπῇ .
+perseus-eng2	 even so, however, I made no remark on the fact, but left the house in silence.
+
+cts:urn:tlg0540.tlg001:15
+glaux2.0-sentence	37
+perseus-grc2	 μετὰ δὲ ταῦτα , ὦ ἄνδρες , χρόνου μεταξὺ διαγενομένου καὶ ἐμοῦ πολὺ ἀπολελειμμένου τῶν ἐμαυτοῦ κακῶν , προσέρχεταί μοί τις πρεσβῦτις ἄνθρωπος , ὑπὸ γυναικὸς ὑποπεμφθεῖσα ἣν ἐκεῖνος ἐμοίχευεν , ὡς ἐγὼ ὕστερον ἤκουον ·
+perseus-eng2	 After this, sirs, an interval occurred in which I was left quite unaware of my own injuries; I was then accosted by a certain old female, who was secretly sent by a woman with whom that man was having an intrigue, as I heard later.
+
+cts:urn:tlg0540.tlg001:15
+glaux2.0-sentence	38
+perseus-grc2	 αὕτη δὲ ὀργιζομένη καὶ ἀδικεῖσθαι νομίζουσα , ὅτι οὐκέτι ὁμοίως ἐφοίτα παρ’ αὐτήν , ἐφύλαττεν ἕως ἐξηῦρεν ὅ τι εἴη τὸ αἴτιον .
+perseus-eng2	 This woman was angry with him and felt herself wronged, because he no longer visited her so regularly, and she was keeping a watch on him until she should discover what was the cause.
+
+cts:urn:tlg0540.tlg001:15
+glaux2.0-sentence	39
+perseus-grc2	 προσελθοῦσα οὖν μοι ἐγγὺς ἡ ἄνθρωπος τῆς οἰκίας τῆς ἐμῆς ἐπιτηροῦσα , " εὐφίλητε " ἔφη " μηδεμιᾷ πολυπραγμοσύνῃ προσεληλυθέναι με νόμιζε πρὸς σέ " ·
+perseus-eng2	 So the old creature accosted me where she was on the look-out, near my house, and said, — Euphiletus, do not think it is from any meddlesomeness that I have approached you;
+
+cts:urn:tlg0540.tlg001:16
+glaux2.0-sentence	40
+perseus-grc2	 " ὁ γὰρ ἀνὴρ ὁ ὑβρίζων εἰς σὲ καὶ τὴν σὴν γυναῖκα ἐχθρὸς ὢν ἡμῖν τυγχάνει .
+perseus-eng2	 for the man who is working both your and your wife’s dishonor happens to be our enemy.
+
+cts:urn:tlg0540.tlg001:16
+glaux2.0-sentence	41
+perseus-grc2	 ἐὰν οὖν λάβῃς τὴν θεράπαιναν τὴν εἰς ἀγορὰν βαδίζουσαν καὶ διακονοῦσαν ὑμῖν καὶ βασανίσῃς , ἅπαντα πεύσῃ .
+perseus-eng2	 If, therefore, you take the servant-girl who goes to market and waits on you, and torture her, you will learn all.
+
+cts:urn:tlg0540.tlg001:16
+glaux2.0-sentence	42
+perseus-grc2	 ἔστι δ’ " ἔφη " Ἐρατοσθένης Ὀῆθεν ὁ ταῦτα πράττων , ὃς οὐ μόνον τὴν σὴν γυναῖκα διέφθαρκεν ἀλλὰ καὶ ἄλλας πολλάς ·
+perseus-eng2	 It is, she said, Eratosthenes of Oë who is doing this; he has debauched not only your wife, but many others besides;
+
+cts:urn:tlg0540.tlg001:16
+glaux2.0-sentence	43
+perseus-grc2	 ταύτην γὰρ τὴν τέχνην ἔχει " .
+perseus-eng2	 he makes an art of it.
+
+cts:urn:tlg0540.tlg001:17
+glaux2.0-sentence	44
+perseus-grc2	 ταῦτα εἰποῦσα , ὦ ἄνδρες , ἐκείνη μὲν ἀπηλλάγη , ἐγὼ δ’ εὐθέως ἐταραττόμην , καὶ πάντα μου εἰς τὴν γνώμην εἰσῄει , καὶ μεστὸς ἦ ὑποψίας , ἐνθυμούμενος μὲν ὡς ἀπεκλῄσθην ἐν τῷ δωματίῳ , ἀναμιμνῃσκόμενος δὲ ὅτι ἐν ἐκείνῃ τῇ νυκτὶ ἐψόφει ἡ μέταυλος θύρα καὶ ἡ αὔλειος , ὃ οὐδέποτε ἐγένετο , ἔδοξέ τέ μοι ἡ γυνὴ ἐψιμυθιῶσθαι .
+perseus-eng2	 With these words, sirs, she took herself off; I was at once perturbed; all that had happened came into my mind, and I was filled with suspicion,
+
+cts:urn:tlg0540.tlg001:17
+glaux2.0-sentence	45
+perseus-grc2	 ταῦτά μου πάντα εἰς τὴν γνώμην εἰσῄει , καὶ μεστὸς ἦ ὑποψίας .
+perseus-eng2	 reflecting first how I was shut up in my chamber, and then remembering how on that night the inner and outer doors made a noise, which had never occurred before, and how it struck me that my wife had put on powder. All these things came into my mind, and I was filled with suspicion.
+
+cts:urn:tlg0540.tlg001:18
+glaux2.0-sentence	46
+perseus-grc2	 ἐλθὼν δὲ οἴκαδε ἐκέλευον ἀκολουθεῖν μοι τὴν θεράπαιναν εἰς τὴν ἀγοράν , ἀγαγὼν δ’ αὐτὴν ὡς τῶν ἐπιτηδείων τινὰ ἔλεγον ὅτι ἐγὼ πάντα εἴην πεπυσμένος τὰ γιγνόμενα ἐν τῇ οἰκίᾳ ·
+perseus-eng2	 Returning home, I bade the servant-girl follow me to the market, and taking her to the house of an intimate friend, I told her I was fully informed of what was going on in my house:
+
+cts:urn:tlg0540.tlg001:18
+glaux2.0-sentence	47
+perseus-grc2	 " σοὶ οὖν " ἔφην " ἔξεστι δυοῖν ὁπότερον βούλει ἑλέσθαι , ἢ μαστιγωθεῖσαν εἰς μύλωνα ἐμπεσεῖν καὶ μηδέποτε παύσασθαι κακοῖς τοιούτοις συνεχομένην , ἢ κατειποῦσαν ἅπαντα τα- τἀληθῆ μηδὲν παθεῖν κακόν , ἀλλὰ συγγνώμης παρ’ ἐμοῦ τυχεῖν τῶν ἡμαρτημένων .
+perseus-eng2	 So it is open to you, I said, to choose as you please between two things, — either to be whipped and thrown into a mill, and to be irrevocably immersed in that sort of misery, or else to speak out the whole truth and, instead of suffering any harm, obtain my pardon for your transgressions.
+
+cts:urn:tlg0540.tlg001:18
+glaux2.0-sentence	48
+perseus-grc2	 ψεύσῃ δὲ μηδέν , ἀλλὰ πάντα τα- τἀληθῆ λέγε " .
+perseus-eng2	 Tell no lies, but speak the whole truth.
+
+cts:urn:tlg0540.tlg001:19
+glaux2.0-sentence	49
+perseus-grc2	 κα- κἀκείνη τὸ μὲν πρῶτον ἔξαρνος ἦν , καὶ ποιεῖν ἐκέλευεν ὅ τι βούλομαι ·
+perseus-eng2	 The girl at first denied it, and bade me do what I pleased, for she knew nothing;
+
+cts:urn:tlg0540.tlg001:19
+glaux2.0-sentence	50
+perseus-grc2	 οὐδὲν γὰρ εἰδέναι ·
+perseus-eng2	 but when I mentioned Eratosthenes to her, and said that he was the man who visited my wife, she was dismayed, supposing that I had exact knowledge of everything.
+
+cts:urn:tlg0540.tlg001:19
+glaux2.0-sentence	51
+perseus-grc2	 ἐπειδὴ δὲ ἐγὼ ἐμνήσθην Ἐρατοσθένους πρὸς αὐτήν , καὶ εἶπον ὅτι οὗτος ὁ φοιτῶν εἴη πρὸς τὴν γυναῖκα , ἐξεπλάγη ἡγησαμένη με πάντα ἀκριβῶς ἐγνωκέναι .
+perseus-eng2	 At once she threw herself down at my knees, and having got my pledge that she should suffer no harm,
+
+cts:urn:tlg0540.tlg001:20
+glaux2.0-sentence	52
+perseus-grc2	 καὶ τότε ἤδη πρὸς τὰ γόνατά μου πεσοῦσα , καὶ πίστιν παρ’ ἐμοῦ λαβοῦσα μηδὲν πείσεσθαι κακόν , κατηγόρει πρῶτον μὲν ὡς μετὰ τὴν ἐκφορὰν αὐτῇ προσίοι , ἔπειτα ὡς αὐτὴ τελευτῶσα εἰσαγγείλειε καὶ ὡς ἐκείνη τῷ χρόνῳ πεισθείη , καὶ τὰς εἰσόδους οἷς τρόποις προσίοιτο , καὶ ὡς Θεσμοφορίοις ἐμοῦ ἐν ἀγρῷ ὄντος ᾤχετο εἰς τὸ ἱερὸν μετὰ τῆς μητρὸς τῆς ἐκείνου ·
+perseus-eng2	 she accused him, first, of approaching her after the funeral, and then told how at last she became his messenger; how my wife in time was persuaded, and by what means she procured his entrances, and how at the Thesmophoria, while I was in the country, she went off to the temple with his mother.
+
+cts:urn:tlg0540.tlg001:20
+glaux2.0-sentence	53
+perseus-grc2	 καὶ τα- τἆλλα τὰ γενόμενα πάντα ἀκριβῶς διηγήσατο .
+perseus-eng2	 And the girl gave an exact account of everything else that had occurred.
+
+cts:urn:tlg0540.tlg001:21
+glaux2.0-sentence	54
+perseus-grc2	 ἐπειδὴ δὲ πάντα εἴρητο αὐτῇ , εἶπον ἐγώ , " ὅπως τοίνυν ταῦτα μηδεὶς ἀνθρώπων πεύσεται ·
+perseus-eng2	 When her tale was all told, I said, — Well now, see that nobody in the world gets knowledge of this;
+
+cts:urn:tlg0540.tlg001:21
+glaux2.0-sentence	55
+perseus-grc2	 εἰ δέ μή , οὐδέν σοι κύριον ἔσται τῶν πρὸς ἔμ’ ὡμολογημένων .
+perseus-eng2	 otherwise, nothing in your arrangement with me will hold good.
+
+cts:urn:tlg0540.tlg001:21
+glaux2.0-sentence	56
+perseus-grc2	 ἀξιῶ δέ σε ἐπ’ αὐτοφώρῳ ταῦτά μοι ἐπιδεῖξαι ·
+perseus-eng2	 And I require that you show me their guilt in the very act;
+
+cts:urn:tlg0540.tlg001:21
+glaux2.0-sentence	57
+perseus-grc2	 ἐγὼ γὰρ οὐδὲν δέομαι λόγων , ἀλλὰ τὸ ἔργον φανερὸν γενέσθαι , εἴπερ οὕτως ἔχει " .
+perseus-eng2	 I want no words, but manifestation of the fact, if it really is so. She agreed to do this.
+
+cts:urn:tlg0540.tlg001:22
+glaux2.0-sentence	58
+perseus-grc2	 ὡμολόγει ταῦτα ποιήσειν .
+perseus-eng2	 Then came an interval of four or five days
+
+cts:urn:tlg0540.tlg001:22
+glaux2.0-sentence	59
+perseus-grc2	 καὶ μετὰ ταῦτα διεγένοντο ἡμέραι τέσσαρες ἢ πέντε , ὡς ἐγὼ μεγάλοις ὑμῖν τεκμηρίοις ἐπιδείξω .
+perseus-eng2	 as I shall bring strong evidence to show.
+
+cts:urn:tlg0540.tlg001:22
+glaux2.0-sentence	60
+perseus-grc2	 πρῶτον δὲ διηγήσασθαι βούλομαι τὰ πραχθέντα τῇ τελευταίᾳ ἡμέρᾳ .
+perseus-eng2	 But first I wish to relate what took place on the last day.
+
+cts:urn:tlg0540.tlg001:22
+glaux2.0-sentence	61
+perseus-grc2	 Σώστρατος ἦν μοι ἐπιτήδειος καὶ φίλος .
+perseus-eng2	 I had an intimate friend named Sostratus.
+
+cts:urn:tlg0540.tlg001:22
+glaux2.0-sentence	62
+perseus-grc2	 τούτῳ ἡλίου δεδυκότος ἰόντι ἐξ ἀγροῦ ἀπήντησα .
+perseus-eng2	 After sunset I met him coming from the country.
+
+cts:urn:tlg0540.tlg001:23
+glaux2.0-sentence	63
+perseus-grc2	 εἰδὼς δ’ ἐγὼ ὅτι τηνικαῦτα ἀφιγμένος οὐδένα καταλήψοιτο οἴκοι τῶν ἐπιτηδείων , ἐκέλευον , συνδειπνεῖν ·
+perseus-eng2	 As I knew that, arriving at that hour, he would find none of his circle at home, I invited him to dine with me;
+
+cts:urn:tlg0540.tlg001:23
+glaux2.0-sentence	64
+perseus-grc2	 καὶ ἐλθόντες οἴκαδε ὡς ἐμέ , ἀναβάντες εἰς τὸ ὑπερῷον ἐδειπνοῦμεν .
+perseus-eng2	 we came to my house, mounted to the upper room, and had dinner.
+
+cts:urn:tlg0540.tlg001:23
+glaux2.0-sentence	65
+perseus-grc2	 ἐπειδὴ δὲ καλῶς αὐτῷ εἶχεν , ἐκεῖνος μὲν ἀπιὼν ᾤχετο , ἐγὼ δ’ ἐκάθευδον .
+perseus-eng2	 When he had made a good meal, he left me and departed;
+
+cts:urn:tlg0540.tlg001:23
+glaux2.0-sentence	66
+perseus-grc2	 ὁ δ’ Ἐρατοσθένης , ὦ ἄνδρες , εἰσέρχεται , καὶ ἡ θεράπαινα ἐπεγείρασά με εὐθὺς φράζει ὅτι ἔνδον ἐστί .
+perseus-eng2	 then I went to bed. Eratosthenes, sirs, entered, and the maid-servant roused me at once, and told me that he was in the house.
+
+cts:urn:tlg0540.tlg001:23
+glaux2.0-sentence	67
+perseus-grc2	 κα- κἀγὼ εἰπὼν ἐκείνῃ ἐπιμελεῖσθαι τῆς θύρας , καταβὰς σιωπῇ ἐξέρχομαι , καὶ ἀφικνοῦμαι ὡς τὸν καὶ τόν , καὶ τοὺς μὲν ἔνδον κατέλαβον , τοὺς δὲ οὐκ ἐπιδημοῦντας ηὗρον .
+perseus-eng2	 Bidding her look after the door, I descended and went out in silence; I called on one friend and another, and found some of them at home, while others were out of town.
+
+cts:urn:tlg0540.tlg001:24
+glaux2.0-sentence	68
+perseus-grc2	 παραλαβὼν δ’ ὡς οἷόν τε ἦν πλείστους ἐκ τῶν παρόντων ἐβάδιζον .
+perseus-eng2	 I took with me as many as I could among those who were there, and so came along.
+
+cts:urn:tlg0540.tlg001:24
+glaux2.0-sentence	69
+perseus-grc2	 καὶ δᾷδας λαβόντες ἐκ τοῦ ἐγγύτατα καπηλείου εἰσερχόμεθα , ἀνεῳγμένης τῆς θύρας καὶ ὑπὸ τῆς ἀνθρώπου παρεσκευασμένης .
+perseus-eng2	 Then we got torches from the nearest shop, and went in; the door was open, as the girl had it in readiness.
+
+cts:urn:tlg0540.tlg001:24
+glaux2.0-sentence	70
+perseus-grc2	 ὤσαντες δὲ τὴν θύραν τοῦ δωματίου οἱ μὲν πρῶτοι εἰσιόντες ἔτι εἴδομεν αὐτὸν κατακείμενον παρὰ τῇ γυναικί , οἱ δ’ ὕστερον ἐν τῇ κλίνῃ γυμνὸν ἑστηκότα .
+perseus-eng2	 We pushed open the door of the bedroom, and the first of us to enter were in time to see him lying down by my wife; those who followed saw him standing naked on the bed.
+
+cts:urn:tlg0540.tlg001:25
+glaux2.0-sentence	71
+perseus-grc2	 ἐγὼ δ’ , ὦ ἄνδρες , πατάξας καταβάλλω αὐτόν , καὶ τὼ χεῖρε περιαγαγὼν εἰς το- τοὔπισθεν καὶ δήσας ἠρώτων διὰ τί ὑβρίζει εἰς τὴν οἰκίαν τὴν ἐμὴν εἰσιών .
+perseus-eng2	 I gave him a blow, sirs, which knocked him down, and pulling round his two hands behind his back, and tying them, I asked him why he had the insolence to enter my house.
+
+cts:urn:tlg0540.tlg001:25
+glaux2.0-sentence	72
+perseus-grc2	 κα- κἀκεῖνος ἀδικεῖν μὲν ὡμολόγει , ἠντεβόλει δὲ καὶ ἱκέτευε μὴ ἀποκτεῖναι ἀλλ’ ἀργύριον πράξασθαι .
+perseus-eng2	 He admitted his guilt; then he besought and implored me not to kill him, but to exact a sum of money.
+
+cts:urn:tlg0540.tlg001:26
+glaux2.0-sentence	73
+perseus-grc2	 ἐγὼ δ’ εἶπον ὅτι " οὐκ ἐγώ σε ἀποκτενῶ , " " ἀλλ’ ὁ τῆς πόλεως νόμος , ὃν σὺ παραβαίνων περὶ ἐλάττονος τῶν ἡδονῶν ἐποιήσω , καὶ μᾶλλον εἵλου τοιοῦτον ἁμάρτημα ἐξαμαρτάνειν εἰς τὴν γυναῖκα τὴν ἐμὴν καὶ εἰς τοὺς παῖδας τοὺς ἐμοὺς ἢ τοῖς νόμοις πείθεσθαι καὶ κόσμιος εἶναι " .
+perseus-eng2	 To this I replied, It is not I who am going to kill you, but our city’s law, which you have transgressed and regarded as of less account than your pleasures, choosing rather to commit this foul offence against my wife and my children than to obey the laws like a decent person.
+
+cts:urn:tlg0540.tlg001:27
+glaux2.0-sentence	74
+perseus-grc2	 οὕτως , ὦ ἄνδρες , ἐκεῖνος τούτων ἔτυχεν ὧνπερ οἱ νόμοι κελεύουσι τοὺς τὰ τοιαῦτα πράττοντας , οὐκ εἰσαρπασθεὶς ἐκ τῆς ὁδοῦ , οὐ -δ’ ἐπὶ τὴν ἑστίαν καταφυγών , ὥσπερ οὗτοι λέγουσι ·
+perseus-eng2	 Thus it was, sirs, that this man incurred the fate that the laws ordain for those who do such things; he had not been dragged in there from the street, nor had he taken refuge at my hearth, as these people say.
+
+cts:urn:tlg0540.tlg001:27
+glaux2.0-sentence	75
+perseus-grc2	 πῶς γὰρ ἄν , ὅστις ἐν τῷ δωματίῳ πληγεὶς κατέπεσεν εὐθύς , περιέστρεψα δ’ αὐτοῦ τὼ χεῖρε , ἔνδον δὲ ἦσαν ἄνθρωποι τοσοῦτοι , οὓς διαφυγεῖν οὐκ ἐδύνατο , οὔ -τε σίδηρον οὔ -τε ξύλον οὔ -τε ἄλλο οὐδὲν ἔχων , ᾧ τοὺς εἰσελθόντας ἂν ἠμύνατο .
+perseus-eng2	 For how could it be so, when it was in the bedroom that he was struck and fell down then and there, and I pinioned his arms, and so many persons were in the house that he could not make his escape, as he had neither steel nor wood nor anything else with which he might have beaten off those who had entered?
+
+cts:urn:tlg0540.tlg001:28
+glaux2.0-sentence	76
+perseus-grc2	 ἀλλ’ , ὦ ἄνδρες , οἶμαι καὶ ὑμᾶς εἰδέναι ὅτι οἱ μὴ τὰ δίκαια πράττοντες οὐχ ὁμολογοῦσι τοὺς ἐχθροὺς λέγειν ἀληθῆ , ἀλλ’ αὐτοὶ ψευδόμενοι καὶ τὰ τοιαῦτα μηχανώμενοι ὀργὰς τοῖς ἀκούουσι κατὰ τῶν τὰ δίκαια πραττόντων παρασκευάζουσι .
+perseus-eng2	 But, sirs, I think you know as well as I that those whose acts are against justice do not acknowledge that their enemies speak the truth, but lie themselves and use other such devices to foment anger in their hearers against those whose acts are just.
+
+cts:urn:tlg0540.tlg001:28
+glaux2.0-sentence	77
+perseus-grc2	 πρῶτον μὲν οὖν ἀνάγνωθι τὸν νόμον .
+perseus-eng2	 So, first read the law.
+
+cts:urn:tlg0540.tlg001:29
+glaux2.0-sentence	78
+perseus-grc2	 οὐκ ἠμφεσβήτει , ὦ ἄνδρες , ἀλλ’ ὡμολόγει ἀδικεῖν , καὶ ὅπως μὲν μὴ ἀποθάνῃ ἠντεβόλει καὶ ἱκέτευεν , ἀποτίνειν δ’ ἕτοιμος ἦν χρήματα .
+perseus-eng2	 He did not dispute it, sirs: he acknowledged his guilt, and besought and implored that he might not be killed, and was ready to pay compensation in money.
+
+cts:urn:tlg0540.tlg001:29
+glaux2.0-sentence	79
+perseus-grc2	 ἐγὼ δὲ τῷ μὲν ἐκείνου τιμήματι οὐ συνεχώρουν , τὸν δὲ τῆς πόλεως νόμον ἠξίουν εἶναι κυριώτερον , καὶ ταύτην ἔλαβον τὴν δίκην , ἣν ὑμεῖς δικαιοτάτην εἶναι ἡγησάμενοι τοῖς τὰ τοιαῦτα ἐπιτηδεύουσιν ἐτάξατε .
+perseus-eng2	 But I would not agree to his estimate, as I held that our city’s law should have higher authority; and I obtained that satisfaction which you deemed most just when you imposed it on those who adopt such courses.
+
+cts:urn:tlg0540.tlg001:29
+glaux2.0-sentence	80
+perseus-grc2	 καί μοι ἀνάβητε τούτων μάρτυρες .
+perseus-eng2	 Now, let my witnesses come forward in support of these statements.
+
+cts:urn:tlg0540.tlg001:30
+glaux2.0-sentence	81
+perseus-grc2	 ἀνάγνωθι δέ μοι καὶ τοῦτον τὸν νόμον τὸν ἐκ τῆς στήλης τῆς ἐξ Ἀρείου πάγου .
+perseus-eng2	 Read out also, please, that law from the pillar in the Areopagus.
+
+cts:urn:tlg0540.tlg001:30
+glaux2.0-sentence	82
+perseus-grc2	 ἀκούετε , ὦ ἄνδρες , ὅτι αὐτῷ τῷ δικαστηρίῳ τῷ ἐξ Ἀρείου πάγου , ᾧ καὶ πάτριόν ἐστι καὶ ἐφ’ ἡμῶν ἀποδέδοται τοῦ φόνου τὰς δίκας δικάζειν , διαρρήδην εἴρηται τούτου μὴ καταγιγνώσκειν φόνον , ὃς ἂν ἐπὶ δάμαρτι τῇ ἑαυτοῦ μοιχὸν λαβὼν ταύτην τὴν τιμωρίαν ποιήσηται .
+perseus-eng2	 You hear, sirs, how the Court of the Areopagus itself, to which has been assigned, in our own as in our fathers’ time, the trial of suits for murder, has expressly stated that whoever takes this vengeance on an adulterer caught in the act with his spouse shall not be convicted of murder.
+
+cts:urn:tlg0540.tlg001:31
+glaux2.0-sentence	83
+perseus-grc2	 καὶ οὕτω σφόδρα ὁ νομοθέτης ἐπὶ ταῖς γαμεταῖς γυναιξὶ δίκαια ταῦτα ἡγήσατο εἶναι , ὥστε καὶ ἐπὶ ταῖς παλλακαῖς ταῖς ἐλάττονος ἀξίαις τὴν αὐτὴν δίκην ἐπέθηκε .
+perseus-eng2	 And so strongly was the lawgiver convinced of the justice of this in the case of wedded wives, that he even applied the same penalty in the case of mistresses, who are of less account.
+
+cts:urn:tlg0540.tlg001:31
+glaux2.0-sentence	84
+perseus-grc2	 καίτοι δῆλον ὅτι , εἴ τινα εἶχε ταύτης μείζω τιμωρίαν ἐπὶ ταῖς γαμεταῖς , ἐποίησεν ἄν .
+perseus-eng2	 Now surely it is clear that, if he had had any heavier punishment than this for the case of married women, he would have imposed it.
+
+cts:urn:tlg0540.tlg001:31
+glaux2.0-sentence	85
+perseus-grc2	 νῦν δὲ οὐχ οἷός τε ὢν ταύτης ἰσχυροτέραν ἐπ’ ἐκείναις ἐξευρεῖν , τὴν αὐτὴν καὶ ἐπὶ ταῖς παλλακαῖς ἠξίωσε γίγνεσθαι .
+perseus-eng2	 But in fact, as he was unable to devise a severer one for this case, he ordained that it should be the same for that of mistresses also.
+
+cts:urn:tlg0540.tlg001:31
+glaux2.0-sentence	86
+perseus-grc2	 ἀνάγνωθι δέ μοι καὶ τοῦτον τὸν νόμον .
+perseus-eng2	 Please read this law besides.
+
+cts:urn:tlg0540.tlg001:32
+glaux2.0-sentence	87
+perseus-grc2	 ἀκούετε , ἄνδρες , ὅτι κελεύει , ἐάν τις ἄνθρωπον ἐλεύθερον ἢ παῖδα αἰσχύνῃ βίᾳ , διπλῆν τὴν βλάβην ὀφείλειν ·
+perseus-eng2	 [Law]  You hear, sirs, how it directs that, if anyone forcibly debauches a free adult or child, he shall be liable to double damages;
+
+cts:urn:tlg0540.tlg001:32
+glaux2.0-sentence	88
+perseus-grc2	 ἐὰν δὲ γυναῖκα , ἐφ’ αἷσπερ ἀποκτείνειν ἔξεστιν , ἐν τοῖς αὐτοῖς ἐνέχεσθαι ·
+perseus-eng2	 while if he so debauches a woman, in one of the cases where it is permitted to kill him, he is subject to the same rule.
+
+cts:urn:tlg0540.tlg001:32
+glaux2.0-sentence	89
+perseus-grc2	 οὕτως , ὦ ἄνδρες , τοὺς βιαζομένους ἐλάττονος ζημίας ἀξίους ἡγήσατο εἶναι ἢ τοὺς πείθοντας ·
+perseus-eng2	 Thus the lawgiver, sirs, considered that those who use force deserve a less penalty than those who use persuasion;
