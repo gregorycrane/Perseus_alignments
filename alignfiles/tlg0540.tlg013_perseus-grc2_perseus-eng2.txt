@@ -1,0 +1,1254 @@
+
+cts:urn:tlg0540.tlg013:1
+glaux2.0-sentence	1
+perseus-grc2	 προσήκει μέν , ὦ ἄνδρες δικασταί , πᾶσιν ὑμῖν τιμωρεῖν ὑπὲρ τῶν ἀνδρῶν οἳ ἀπέθανον εὖνοι ὄντες τῷ πλήθει τῷ ὑμετέρῳ , προσήκει δὲ κα- κἀμοὶ οὐχ ἥκιστα ·
+perseus-eng2	 It is the duty of you all, gentlemen of the jury, to avenge the men who were put to death as supporters of your democracy, and it is also my duty in particular;
+
+cts:urn:tlg0540.tlg013:1
+glaux2.0-sentence	2
+perseus-grc2	 κηδεστὴς γάρ μοι ἦν Διονυσόδωρος καὶ ἀνεψιός .
+perseus-eng2	 for Dionysodorus was my brother-in-law and cousin.
+
+cts:urn:tlg0540.tlg013:1
+glaux2.0-sentence	3
+perseus-grc2	 τυγχάνει οὖν ἐμοὶ ἡ αὐτὴ ἔχθρα πρὸς Ἀγόρατον τουτονὶ καὶ τῷ πλήθει τῷ ὑμετέρῳ ὑπάρχουσα ·
+perseus-eng2	 It happens, therefore, that I share with your democracy the same settled animosity against the defendant, Agoratus;
+
+cts:urn:tlg0540.tlg013:1
+glaux2.0-sentence	4
+perseus-grc2	 ἔπραξε γὰρ οὗτος τοιαῦτα , δι’ ἃ ὑπ’ ἐμοῦ νυνὶ εἰκότως μισεῖται , ὑπό τε ὑμῶν , ἐὰν θεὸς θέλῃ , δικαίως τιμωρηθήσεται .
+perseus-eng2	 the acts that he has committed are of a kind to give me good reason to hate him today, and justification to you for the penalty which, by Heaven’s will, you are to impose on him.
+
+cts:urn:tlg0540.tlg013:2
+glaux2.0-sentence	5
+perseus-grc2	 Διονυσόδωρον γὰρ τὸν κηδεστὴν τὸν ἐμὸν καὶ ἑτέρους πολλούς , ὧν δὴ τὰ ὀνόματα ἀκούσεσθε , ἄνδρας ὄντας ἀγαθοὺς περὶ τὸ πλῆθος τὸ ὑμέτερον , ἐπὶ τῶν τριάκοντα ἀπέκτεινε , μηνυτὴς κατ’ ἐκείνων γενόμενος .
+perseus-eng2	 For Dionysodorus, my brother-in-law, and many others whose names you shall be duly told, — all loyal friends of your democracy, — were done to death by him in the time of the Thirty, through his act in informing against them.
+
+cts:urn:tlg0540.tlg013:2
+glaux2.0-sentence	6
+perseus-grc2	 ποιήσας δὲ ταῦτα ἐμὲ μὲν ἰδίᾳ καὶ ἕκαστον τῶν προσηκόντων μεγάλα ἐζημίωσε , τὴν δὲ πόλιν κοινῇ πᾶσαν τοιούτων ἀνδρῶν ἀποστερήσας οὐ μικρά , ὡς ἐγὼ νομίζω , ἔβλαψεν .
+perseus-eng2	 By this conduct he inflicted not only grievous losses on me and each of their relatives as individuals, but serious injuries — so I consider — on the whole city at large, by depriving it of men of that character.
+
+cts:urn:tlg0540.tlg013:3
+glaux2.0-sentence	7
+perseus-grc2	 ἐγὼ οὖν , ὦ ἄνδρες δικασταί , δίκαιον καὶ ὅσιον ἡγοῦμαι εἶναι καὶ ἐμοὶ καὶ ὑμῖν ἅπασι τιμωρεῖσθαι καθ’ ὅσον ἕκαστος δύναται ·
+perseus-eng2	 I therefore, gentlemen, consider it an act of justice and piety in all of you as well as myself to take vengeance as far as each of us is able;
+
+cts:urn:tlg0540.tlg013:3
+glaux2.0-sentence	8
+perseus-grc2	 καὶ ποιοῦσι ταῦτα νομίζω ἡμῖν καὶ παρὰ θεῶν καὶ παρ’ ἀνθρώπων ἄμεινον ἂν γίγνεσθαι .
+perseus-eng2	 and I think we should stand better both with the gods and with mankind if we did so.
+
+cts:urn:tlg0540.tlg013:4
+glaux2.0-sentence	9
+perseus-grc2	 δεῖ δ’ ὑμᾶς , ὦ ἄνδρες Ἀθηναῖοι , ἐξ ἀρχῆς τῶν πραγμάτων ἁπάντων ἀκοῦσαι , ἵν’ εἰδῆτε πρῶτον μὲν ᾧ τρόπῳ ὑμῖν ἡ δημοκρατία κατελύθη καὶ ὑφ’ ὅτου , ἔπειτα ᾧ τρόπῳ οἱ ἄνδρες ὑπ’ Ἀγοράτου ἀπέθανον , καὶ δὴ ὅ τι ἀποθνῄσκειν μέλλοντες ἐπέσκηψαν ·
+perseus-eng2	 You must hear the whole of the circumstances, gentlemen, from the beginning,
+
+cts:urn:tlg0540.tlg013:4
+glaux2.0-sentence	10
+perseus-grc2	 ἅπαντα γὰρ ταῦτα ἀκριβῶς ἂν μαθόντες ἥδιον καὶ ὁσιώτερον Ἀγοράτου τουτουὶ καταψηφίζοισθε .
+perseus-eng2	 in order that you may know, first, in what manner your democracy was dissolved, and by whom; second, in what manner those men were done to death by Agoratus; and further, what injunction they gave when they were about to die.
+
+cts:urn:tlg0540.tlg013:4
+glaux2.0-sentence	11
+perseus-grc2	 ὅθεν οὖν ἡμεῖς τε ῥᾷστα διδάξομεν καὶ ὑμεῖς μαθήσεσθε , ἐντεῦθεν ὑμῖν ἄρξομαι διηγεῖσθαι .
+perseus-eng2	 For when you have been accurately informed of all these things you will with the more pleasure and piety condemn this man Agoratus. I shall therefore start my relation at a point from which it will be easiest both for me to explain and for you to understand.
+
+cts:urn:tlg0540.tlg013:5
+glaux2.0-sentence	12
+perseus-grc2	 ἐπειδὴ γὰρ αἱ νῆες αἱ ὑμέτεραι διεφθάρησαν καὶ τὰ πράγματα τὰ ἐν τῇ πόλει ἀσθενέστερα ἐγεγένητο , οὐ πολλῷ χρόνῳ ὕστερον αἵ τε νῆες αἱ Λακεδαιμονίων ἐπὶ τὸν Πειραιᾶ ἀφικνοῦνται , καὶ ἅμα λόγοι πρὸς Λακεδαιμονίους περὶ τῆς εἰρήνης ἐγίγνοντο .
+perseus-eng2	 When your ships had been destroyed and the resources of the city had been enfeebled, the ships of the Lacedaemonians arrived soon after at the Peiraeus, and negotiations for peace were made at once with the Lacedaemonians.
+
+cts:urn:tlg0540.tlg013:6
+glaux2.0-sentence	13
+perseus-grc2	 ἐν δὲ τῷ χρόνῳ τούτῳ οἱ βουλόμενοι νεώτερα πράγματα ἐν τῇ πόλει γίγνεσθαι ἐπεβούλευον , νομίζοντες κάλλιστον καιρὸν εἰληφέναι καὶ μάλιστ’ ἂν ἐν τῷ τότε χρόνῳ τὰ πράγματα , ὡς αὐτοὶ ἐβούλοντο , καταστήσασθαι .
+perseus-eng2	 At this moment those who desired to have a revolution in the State were busy with their plots, conceiving that they had found an excellent opportunity, and that this was the very moment for them to arrange the government according to their own desire.
+
+cts:urn:tlg0540.tlg013:7
+glaux2.0-sentence	14
+perseus-grc2	 ἡγοῦντο δὲ οὐδὲν ἄλλο σφίσιν ἐμποδὼν εἶναι ἢ τοὺς τοῦ δήμου προεστηκότας καὶ τοὺς στρατηγοῦντας καὶ ταξιαρχοῦντας .
+perseus-eng2	 The only obstacles that they saw in their path were the leaders of the popular party and the generals and commanders.
+
+cts:urn:tlg0540.tlg013:7
+glaux2.0-sentence	15
+perseus-grc2	 τούτους οὖν ἐβούλοντο ἁμῶς γέ πως ἐκποδὼν ποιήσασθαι , ἵνα ῥᾳδίως ἃ βούλοιντο διαπράττοιντο .
+perseus-eng2	 These they consequently sought to clear out of their way by fair means or foul, in order that they might achieve their ends with ease.
+
+cts:urn:tlg0540.tlg013:7
+glaux2.0-sentence	16
+perseus-grc2	 πρῶτον μὲν οὖν Κλεοφῶντι ἐπέθεντο ἐκ τρόπου τοιούτου .
+perseus-eng2	 So they began with an attack on Cleophon in the following manner.
+
+cts:urn:tlg0540.tlg013:8
+glaux2.0-sentence	17
+perseus-grc2	 ὅτε γὰρ ἡ πρώτη ἐκκλησία περὶ τῆς εἰρήνης ἐγίγνετο καὶ οἱ παρὰ Λακεδαιμονίων ἥκοντες ἔλεγον ἐφ’ οἷς ἕτοιμοι εἶεν τὴν εἰρήνην ποιεῖσθαι Λακεδαιμόνιοι , εἰ κατασκαφείη τῶν τειχῶν τῶν μακρῶν ἐπὶ δέκα στάδια ἑκατέρου , τότε ὑμεῖς τε , ὦ ἄνδρες Ἀθηναῖοι , οὐκ ἠνέσχεσθε ἀκούσαντες περὶ τῶν τειχῶν τῆς κατασκαφῆς , Κλεοφῶν τε ὑπὲρ ὑμῶν πάντων ἀναστὰς ἀντεῖπεν ὡς οὐδενὶ τρόπῳ οἷόν τε εἴη ποιεῖν ταῦτα .
+perseus-eng2	 When the first Assembly was held on the question of peace, and the emissaries of the Lacedaemonians stated the terms on which the Lacedaemonians were prepared to make peace, — on condition that the Long Walls were demolished, each to the extent of ten stades, — you then refused, men of Athens , to stomach what you had heard as to the demolition of the walls, and Cleophon arose and protested on behalf of you all that by no means could the thing be done.
+
+cts:urn:tlg0540.tlg013:9
+glaux2.0-sentence	18
+perseus-grc2	 μετὰ δὲ ταῦτα Θηραμένης , ἐπιβουλεύων τῷ πλήθει τῷ ὑμετέρῳ , ἀναστὰς λέγει ὅτι , ἐὰν αὐτὸν ἕλησθε περὶ τῆς εἰρήνης πρεσβευτὴν αὐτοκράτορα , ποιήσει ὥστε μή -τε τῶν τειχῶν διελεῖν μή -τε ἄλλο τὴν πόλιν ἐλαττῶσαι μηδέν ·
+perseus-eng2	 After that Theramenes, who was plotting against your democracy, arose and said that, if you would appoint him an ambassador to treat for peace with a free hand, he would arrange that there should be neither a breach made in the walls nor any other abasement of the city;
+
+cts:urn:tlg0540.tlg013:9
+glaux2.0-sentence	19
+perseus-grc2	 οἴοιτο δὲ καὶ ἄλλο τι ἀγαθὸν παρὰ Λακεδαιμονίων τῇ πόλει εὑρήσεσθαι .
+perseus-eng2	 and that he thought he would contrive even to get from the Lacedaemonians some additional boon for the city.
+
+cts:urn:tlg0540.tlg013:10
+glaux2.0-sentence	20
+perseus-grc2	 πεισθέντες δὲ ὑμεῖς εἵλεσθε ἐκεῖνον πρεσβευτὴν αὐτοκράτορα , ὃν τῷ προτέρῳ ἔτει στρατηγὸν χειροτονηθέντα ἀπεδοκιμάσατε , οὐ νομίζοντες εὔνουν εἶναι τῷ πλήθει τῷ ὑμετέρῳ .
+perseus-eng2	 You were persuaded, and appointed as an ambassador with a free hand the man whom in the previous year, after his election to the generalship, you had rejected on his scrutiny, because you judged him disloyal to your democracy.
+
+cts:urn:tlg0540.tlg013:11
+glaux2.0-sentence	21
+perseus-grc2	 ἐκεῖνος μὲν οὖν ἐλθὼν εἰς Λακεδαίμονα ἔμενεν ἐκεῖ πολὺν χρόνον , καταλιπὼν ὑμᾶς πολιορκουμένους , εἰδὼς τὸ ὑμέτερον πλῆθος ἐν ἀπορίᾳ ἐχόμενον καὶ διὰ τὸν πόλεμον καὶ τὰ κακὰ τοὺς πολλοὺς τῶν ἐπιτηδείων ἐνδεεῖς ὄντας , νομίζων , εἰ διαθείη ὑμᾶς ἀπόρως ὥσπερ διέθηκεν , ἀσμένως ὁποιαντινοῦν ἐθελῆσαι ἂν εἰρήνην ποιήσασθαι .
+perseus-eng2	 Well, he went to Lacedaemon  and stayed there a long time, though he had left you here in a state of siege, and knew that your population was in desperate straits, as owing to the war and its distresses the majority must be in want of the necessaries of life. But he thought that, if he should reduce you to the condition to which he in fact reduced you, you would be only too glad to make peace on any sort of terms.
+
+cts:urn:tlg0540.tlg013:12
+glaux2.0-sentence	22
+perseus-grc2	 οἱ δ’ ἐνθάδε ὑπομένοντες καὶ ἐπιβουλεύοντες καταλῦσαι τὴν δημοκρατίαν εἰς ἀγῶνα Κλεοφῶντα καθιστᾶσι , πρόφασιν μὲν ὅτι οὐκ ἦλθεν εἰς τὰ ὅπλα ἀναπαυσόμενος , τὸ δ’ ἀληθὲς ὅτι ἀντεῖπεν ὑπὲρ ὑμῶν μὴ καθαιρεῖν τὰ τείχη .
+perseus-eng2	 The others remained here, with the design of subverting the democracy: they brought Cleophon to trial, on the pretext that he did not go to the camp for his night’s rest, but really because he had spoken on your behalf against the destruction of the walls.
+
+cts:urn:tlg0540.tlg013:12
+glaux2.0-sentence	23
+perseus-grc2	 ἐκείνῳ μὲν οὖν δικαστήριον παρασκευάσαντες καὶ εἰσελθόντες οἱ βουλόμενοι ὀλιγαρχίαν καταστήσασθαι ἀπέκτειναν ἐν τῇ προφάσει ταύτῃ .
+perseus-eng2	 So they packed a jury for his trial, and these promoters of oligarchy appeared before the court and had him put to death on that pretext.
+
+cts:urn:tlg0540.tlg013:13
+glaux2.0-sentence	24
+perseus-grc2	 Θηραμένης δὲ ὕστερον ἀφικνεῖται ἐκ Λακεδαίμονος .
+perseus-eng2	 Theramenes arrived later from Lacedaemon.
+
+cts:urn:tlg0540.tlg013:13
+glaux2.0-sentence	25
+perseus-grc2	 προσιόντες δ’ αὐτῷ τῶν τε στρατηγῶν τινες καὶ τῶν ταξιάρχων , ὧν ἦν Στρομβιχίδης καὶ Διονυσόδωρος , καὶ ἄλλοι τινὲς τῶν πολιτῶν εὐνοοῦντες ὑμῖν , ὥς γ’ ἐδήλωσαν ὕστερον , ἠγανάκτουν σφόδρα .
+perseus-eng2	 Then some of the generals and commanders — among them Strombichides and Dionysodorus, and some other citizens, who were loyal to you, as indeed they showed later — went to him and protested strongly.
+
+cts:urn:tlg0540.tlg013:13
+glaux2.0-sentence	26
+perseus-grc2	 ἦλθε γὰρ φέρων εἰρήνην τοιαύτην , ἣν ἡμεῖς ἔργῳ μαθόντες ἔγνωμεν ·
+perseus-eng2	 For he had brought to us a peace whose nature we had learnt through the lessons of experience, since we had lost a great number of worthy citizens, and had ourselves been banished by the Thirty.
+
+cts:urn:tlg0540.tlg013:14
+glaux2.0-sentence	27
+perseus-grc2	 πολλοὺς γὰρ τῶν πολιτῶν καὶ ἀγαθοὺς ἀπωλέσαμεν , καὶ αὐτοὶ ὑπὸ τῶν τριάκοντα ἐξηλάθημεν .
+perseus-eng2	 Instead of a breach of ten stades’ length in the Long Walls, its terms required the razing of the Long Walls in their entirety;
+
+cts:urn:tlg0540.tlg013:14
+glaux2.0-sentence	28
+perseus-grc2	 ἐνῆν γὰρ ἀντὶ μὲν τοῦ ἐπὶ δέκα στάδια τῶν μακρῶν τειχῶν διελεῖν ὅλα τὰ μακρὰ τείχη διασκάψαι , ἀντὶ δὲ τοῦ ἄλλο τι ἀγαθὸν τῇ πόλει εὑρέσθαι τάς τε ναῦς παραδοῦναι τοῖς Λακεδαιμονίοις καὶ τὸ περὶ τὸν Πειραιᾶ τεῖχος περιελεῖν .
+perseus-eng2	 and instead of his contriving to get some additional boon for the city, we were to surrender our ships and dismantle the wall around the Peiraeus.
+
+cts:urn:tlg0540.tlg013:15
+glaux2.0-sentence	29
+perseus-grc2	 ὁρῶντες δὲ οὗτοι οἱ ἄνδρες ὀνόματι μὲν εἰρήνην λεγομένην , τῷ δ’ ἔργῳ τὴν δημοκρατίαν καταλυομένην , οὐκ ἔφασαν ἐπιτρέψειν ταῦτα γενέσθαι , οὐκ ἐλεοῦντες , ὦ ἄνδρες Ἀθηναῖοι , τὰ τείχη , εἰ πεσεῖται , οὐ -δὲ κηδόμενοι τῶν νεῶν , εἰ Λακεδαιμονίοις παραδοθήσονται ( οὐδὲν γὰρ αὐτοῖς τούτων πλέον ἤ ὑμῶν ἑκάστῳ προσῆκεν ) ,
+perseus-eng2	 These men perceived that, although nominally we had the promise of peace, in actual fact it was the dissolution of the democracy, and they refused to authorize such a proceeding: their motive was not pity, men of Athens , for the walls that were to come down, or regret for the fleet that was to be surrendered to the Lacedaemonians, — for they had no closer concern in these than each one of you, —
+
+cts:urn:tlg0540.tlg013:16
+glaux2.0-sentence	29a
+perseus-grc2	 ἀλλ’ αἰσθόμενοι ἐκ τοῦ τρόπου τούτου τὸ ὑμέτερον πλῆθος καταλυθησόμενον , οὐ -δ’ , ὥς φασί τινες , οὐκ ἐπιθυμοῦντες εἰρήνην γίγνεσθαι , ἀλλὰ βουλόμενοι βελτίω ταύτης εἰρήνην τῷ δήμῳ τῷ Ἀθηναίων ποιήσασθαι .
+perseus-eng2	 but they could see that this would be the means of subverting your democracy;
+
+cts:urn:tlg0540.tlg013:16
+glaux2.0-sentence	30
+perseus-grc2	 ἐνόμιζον δὲ δυνήσεσθαι , καὶ ἔπραξαν ἂν ταῦτα , εἰ μὴ ὑπ’ Ἀγοράτου τουτουὶ ἀπώλοντο .
+perseus-eng2	 nor were they lacking, as some declare, in eagerness for the conclusion of peace, but they desired to arrange a better peace than this for the Athenian people. They believed that they would be able to do it, and they would have succeeded, had they not been destroyed by this man Agoratus.
+
+cts:urn:tlg0540.tlg013:17
+glaux2.0-sentence	31
+perseus-grc2	 γνοὺς δὲ ταῦτα Θηραμένης καὶ οἱ ἄλλοι οἱ ἐπιβουλεύοντες ὑμῖν , ὅτι εἰσί τινες οἳ κωλύσουσι τὸν δῆμον καταλυθῆναι καὶ ἐναντιώσονται περὶ τῆς ἐλευθερίας , εἵλοντο , πρὶν τὴν ἐκκλησίαν τὴν περὶ τῆς εἰρήνης γενέσθαι , τούτους πρῶτον εἰς διαβολὰς καὶ κινδύνους καταστῆσαι , ἵνα μηδεὶς ἐκεῖ ὑπὲρ τοῦ ὑμετέρου πλήθους ἀντιλέγοι .
+perseus-eng2	 Theramenes and the others who were intriguing against you took note of the fact that there were some men proposing to prevent the subversion of the democracy and to make a stand for the defence of freedom;
+
+cts:urn:tlg0540.tlg013:17
+glaux2.0-sentence	32
+perseus-grc2	 ἐπιβουλὴν οὖν τοιαύτην ἐπιβουλεύουσι .
+perseus-eng2	 so they resolved, before the Assembly met to consider the peace, to involve these men first in calumnious prosecutions, in order that there should be none to take up the defence of your people at the meeting.
+
+cts:urn:tlg0540.tlg013:18
+glaux2.0-sentence	33
+perseus-grc2	 πείθουσι γὰρ Ἀγόρατον τουτονὶ μηνυτὴν κατὰ τῶν στρατηγῶν καὶ τῶν ταξιάρχων γενέσθαι , οὐ συνειδότα ἐκείνοις , ὦ ἄνδρες Ἀθηναῖοι , οὐδέν ( οὐ γὰρ δήπου ἐκεῖνοι οὕτως ἀνόητοι ἦσαν καὶ ἄφιλοι , ὥστε περὶ τηλικούτων ἂν πραγμάτων πράττοντες Ἀγόρατον ὡς πιστὸν καὶ εὔνουν , δοῦλον καὶ ἐκ δούλων ὄντα , παρεκάλεσαν ) , ἀλλ’ ἐδόκει αὐτοῖς οὗτος ἐπιτήδειος εἶναι μηνυτής .
+perseus-eng2	 They persuaded Agoratus here to act as informer against the generals and commanders; not that he was their accomplice, men of Athens , in anyway, — for I presume they were not so foolish and friendless that for such important business they would have called in Agoratus, born and bred a slave, as their trusty ally; they rather regarded him as a serviceable informer. Their desire was that he could seem to inform unwillingly, instead of willingly, so that the information should appear more trustworthy.
+
+cts:urn:tlg0540.tlg013:19
+glaux2.0-sentence	34
+perseus-grc2	 ἐβούλοντο οὖν ἄκοντα δοκεῖν αὐτὸν καὶ μὴ ἑκόντα μηνύειν , ὅπως πιστοτέρα ἡ μήνυσις φαίνοιτο .
+perseus-eng2	 But he gave it willingly, as I think you will perceive for yourselves from what has since occurred.
+
+cts:urn:tlg0540.tlg013:19
+glaux2.0-sentence	35
+perseus-grc2	 ὡς δὲ ἑκὼν ἐμήνυσε , καὶ ὑμᾶς οἶμαι ἐκ τῶν πεπραγμένων αἰσθήσεσθαι .
+perseus-eng2	 For they sent into the Council Theocritus, the man called the son of Elaphostictus;
+
+cts:urn:tlg0540.tlg013:19
+glaux2.0-sentence	36
+perseus-grc2	 εἰσπέμπουσι γὰρ εἰς τὴν βουλὴν τὴν πρὸ τῶν τριάκοντα βουλεύουσαν Θεόκριτον τὸν τοῦ Ἐλαφοστίκτου καλούμενον ·
+perseus-eng2	 this Theocritus was a comrade and intimate of Agoratus.
+
+cts:urn:tlg0540.tlg013:19
+glaux2.0-sentence	37
+perseus-grc2	 ὁ δὲ Θεόκριτος οὗτος ἑταῖρος ἦν τῷ Ἀγοράτῳ καὶ ἐπιτήδειος .
+perseus-eng2	 The Council which held session before the time of the Thirty had been corrupted, and its appetite for oligarchy, as you know, was very keen.
+
+cts:urn:tlg0540.tlg013:20
+glaux2.0-sentence	38
+perseus-grc2	 ἡ δὲ βουλὴ ἡ πρὸ τῶν τριάκοντα βουλεύουσα διέφθαρτο καὶ ὀλιγαρχίας ἐπεθύμει , ὡς ἴστε , μάλιστα .
+perseus-eng2	 The Council which held session before the time of the Thirty had been corrupted, and its appetite for oligarchy, as you know, was very keen.
+
+cts:urn:tlg0540.tlg013:20
+glaux2.0-sentence	39
+perseus-grc2	 τεκμήριον δέ ·
+perseus-eng2	 For proof of it you have the fact that the majority of that Council had seats in the subsequent Council under the Thirty.
+
+cts:urn:tlg0540.tlg013:20
+glaux2.0-sentence	40
+perseus-grc2	 οἱ γὰρ πολλοὶ οἱ ἐξ ἐκείνης τῆς βουλῆς τὴν ὑστέραν βουλὴν τὴν ἐπὶ τῶν τριάκοντα ἐβούλευον .
+perseus-eng2	 And what is my reason for making these remarks to you?
+
+cts:urn:tlg0540.tlg013:20
+glaux2.0-sentence	41
+perseus-grc2	 τοῦ δ’ ἕνεκα ταῦτα λέγω ὑμῖν ;
+perseus-eng2	 That you may know that the decrees issued by that Council were all designed, not in loyalty to you, but for the subversion of your democracy,
+
+cts:urn:tlg0540.tlg013:20
+glaux2.0-sentence	42
+perseus-grc2	 ἵν’ εἰδῆτε , ὅτι τὰ ψηφίσματα τὰ ἐξ ἐκείνης τῆς βουλῆς οὐκ ἐπ’ εὐνοίᾳ τῇ ὑμετέρᾳ ἀλλ’ ἐπὶ καταλύσει τοῦ δήμου τοῦ ὑμετέρου ἅπαντα ἐγένετο , καὶ ὡς τοιούτοις οὖσιν αὐτοῖς τὸν νοῦν προσέχητε .
+perseus-eng2	 and that you may study them as thus exposed.
+
+cts:urn:tlg0540.tlg013:21
+glaux2.0-sentence	43
+perseus-grc2	 εἰσελθὼν δὲ εἰς ταύτην τὴν βουλὴν ἐν ἀπορρήτῳ Θεόκριτος μηνύει ὅτι συλλέγονταί τινες ἐναντιωσόμενοι τοῖς τότε καθισταμένοις πράγμασι .
+perseus-eng2	 Theocritus entered this Council, and behind closed doors he informed them that certain persons were combining to oppose the system then being instituted.
+
+cts:urn:tlg0540.tlg013:21
+glaux2.0-sentence	44
+perseus-grc2	 τὰ μὲν οὖν ὀνόματα οὐκ ἔφη αὐτῶν ἐρεῖν καθ’ ἕκαστον ·
+perseus-eng2	 He declined, however, to give their several names,
+
+cts:urn:tlg0540.tlg013:21
+glaux2.0-sentence	45
+perseus-grc2	 ὅρκους τε γὰρ ὀμωμοκέναι τοὺς αὐτοὺς ἐκείνοις , καὶ εἶναι ἑτέρους οἳ ἐροῦσι τὰ ὀνόματα , αὐτὸς δὲ οὐκ ἄν ποτε ποιῆσαι ταῦτα .
+perseus-eng2	 as he was bound by the same oaths as they were, and there were others who would give the names: he would never do it himself.
+
+cts:urn:tlg0540.tlg013:22
+glaux2.0-sentence	46
+perseus-grc2	 καίτοι εἰ μὴ ἐκ παρασκευῆς ἐμηνύετο , πῶς οὐκ ἂν ἠνάγκασεν ἡ βουλὴ εἰπεῖν τὰ ὀνόματα Θεόκριτον καὶ μὴ ἀνώνυμον τὴν μήνυσιν ποιήσασθαι ;
+perseus-eng2	 Yet, if his information was not laid by arrangement, surely the Council could have compelled Theocritus to give the names, instead of laying the information with no names given.
+
+cts:urn:tlg0540.tlg013:22
+glaux2.0-sentence	47
+perseus-grc2	 νυνὶ δὲ τοῦτο τὸ ψήφισμα ψηφίζεται .
+perseus-eng2	 But in fact, here is the decree that they voted: —
+
+cts:urn:tlg0540.tlg013:23
+glaux2.0-sentence	48
+perseus-grc2	 ἐπειδὴ τοίνυν τοῦτο τὸ ψήφισμα ἐψηφίσθη , κατέρχονται ἐπὶ τὸν Ἀγόρατον εἰς τὸν Πειραιᾶ οἱ αἱρεθέντες τῶν βουλευτῶν , καὶ περιτυχόντες αὐτῷ ἐν ἀγορᾷ ἐζήτουν ἄγειν .
+perseus-eng2	 Now when this decree had been passed, the councillors appointed for the purpose went down to the Peiraeus to find Agoratus: they lighted on him in the market, and sought to take him off.
+
+cts:urn:tlg0540.tlg013:23
+glaux2.0-sentence	49
+perseus-grc2	 παραγενόμενος δὲ Νικίας καὶ Νικομένης καὶ ἄλλοι τινές , ὁρῶντες τὰ πράγματα οὐχ οἷα βέλτιστα ἐν τῇ πόλει ὄντα , ἄγειν μὲν τὸν Ἀγόρατον οὐκ ἔφασαν προήσεσθαι , ἀφῃροῦντο δὲ καὶ ἠγγυῶντο καὶ ὡμολόγουν παρέξειν εἰς τὴν βουλήν .
+perseus-eng2	 On the spot were Nicias, Nicomenes and some others, who, seeing that the business was not going very successfully in the city, refused to allow Agoratus to be taken: they were for releasing him and giving bail, and undertook to produce him before the Council.
+
+cts:urn:tlg0540.tlg013:24
+glaux2.0-sentence	50
+perseus-grc2	 γραψάμενοι δὲ οἱ βουλευταὶ τὰ ὀνόματα τῶν ἐγγυωμένων καὶ κωλυόντων , ἀπιόντες ᾤχοντο εἰς ἄστυ .
+perseus-eng2	 The councillors, having duly noted the names of those who tendered bail and stopped the arrest, went off to town.
+
+cts:urn:tlg0540.tlg013:24
+glaux2.0-sentence	51
+perseus-grc2	 ὁ δὲ Ἀγόρατος καὶ οἱ ἐγγυηταὶ καθίζουσιν ἐπὶ τὸν βωμὸν Μουνιχίασιν ·
+perseus-eng2	 Then Agoratus and his sureties seated themselves at the altar on Munichia.
+
+cts:urn:tlg0540.tlg013:24
+glaux2.0-sentence	52
+perseus-grc2	 ἐπειδὴ δὲ ἐκάθισαν , ἐβουλεύοντο τί χρὴ ποιεῖν .
+perseus-eng2	 Seated there, they debated the question of what should be done.
+
+cts:urn:tlg0540.tlg013:24
+glaux2.0-sentence	53
+perseus-grc2	 ἐδόκει οὖν τοῖς ἐγγυηταῖς καὶ τοῖς ἄλλοις ἅπασιν ἐκποδὼν ποιήσασθαι τὸν Ἀγόρατον ὡς τάχιστα ,
+perseus-eng2	 The sureties and everyone else were of opinion that they should get Agoratus out of the way as quickly as possible,
+
+cts:urn:tlg0540.tlg013:25
+glaux2.0-sentence	53a
+perseus-grc2	 καὶ παρορμίσαντες δύο πλοῖα Μουνιχίασιν ἐδέοντο αὐτοῦ παντὶ τρόπῳ ἀπελθεῖν Ἀθήνηθεν , καὶ αὐτοὶ ἔφασαν συνεκπλευσεῖσθαι , ἕως τὰ πράγματα κατασταίη , λέγοντες ὅτι , εἰ κομισθείη εἰς τὴν βουλήν , βασανιζόμενος ἴσως ἀναγκασθήσεται ὀνόματα εἰπεῖν Ἀθηναίων ὧν ἂν ὑποβάλωσιν οἱ βουλόμενοι κακόν τι ἐν τῇ πόλει ἐργάζεσθαι .
+perseus-eng2	 and said that they would themselves accompany him on the voyage until affairs should get settled; they argued that if he were brought up before the Council he would be put to the torture, and would perhaps be compelled to give the names of such Athenians as might be suggested by those who were bent on working some mischief in the city.
+
+cts:urn:tlg0540.tlg013:26
+glaux2.0-sentence	54
+perseus-grc2	 ταῦτα ἐκείνων δεομένων καὶ παρασκευασάντων πλοῖα καὶ αὐτῶν ἑτοίμων ὄντων συνεκπλεῖν , οὐκ ἠθέλησε πείθεσθαι αὐτοῖς Ἀγόρατος οὑτοσί .
+perseus-eng2	 Although they thus entreated him, and had provided vessels, and were ready themselves to accompany him on the voyage, this man Agoratus refused to take their advice.
+
+cts:urn:tlg0540.tlg013:26
+glaux2.0-sentence	55
+perseus-grc2	 καίτοι , ὦ Ἀγόρατε , εἰ μή τί σοι ἦν παρεσκευασμένον καὶ ἐπίστευες μηδὲν κακὸν πείσεσθαι , πῶς οὐκ ἂν ᾤχου καὶ πλοίων παρεσκευασμένων καὶ τῶν ἐγγυητῶν ἑτοίμων ὄντων σοι συνεκπλεῖν ;
+perseus-eng2	 And yet, Agoratus, unless there had been some prearrangement with you, such as to assure you that you would come to no harm, how could you have failed to make off, when there were vessels provided, and your sureties were ready to accompany you on the voyage?
+
+cts:urn:tlg0540.tlg013:26
+glaux2.0-sentence	56
+perseus-grc2	 ἔτι γὰρ οἷόν τέ σοι ἦν , καὶ οὔπω ἡ βουλή σου ἐκράτει .
+perseus-eng2	 It was still possible for you: the Council had not yet got you in their hands.
+
+cts:urn:tlg0540.tlg013:27
+glaux2.0-sentence	57
+perseus-grc2	 ἀλλὰ μὲν δὴ οὐχ ὅμοιά γε σοὶ καὶ ἐκείνοις ὑπῆρχε .
+perseus-eng2	 Nay, indeed, you were not in nearly so good a case as your friends:
+
+cts:urn:tlg0540.tlg013:27
+glaux2.0-sentence	58
+perseus-grc2	 πρῶτον μὲν γὰρ Ἀθηναῖοι ἦσαν ὥστε οὐκ ἐδέδισαν βασανισθῆναι ·
+perseus-eng2	 in the first place, they were Athenians, and so were not in fear of being tortured;
+
+cts:urn:tlg0540.tlg013:27
+glaux2.0-sentence	59
+perseus-grc2	 ἔπειτα πατρίδα σφετέραν αὐτῶν καταλιπόντες ἕτοιμοι ἦσαν συνεκπλεῖν μετὰ σοῦ , ἡγησάμενοι ταῦτα μᾶλλον λυσιτελεῖν ἢ τῶν πολιτῶν πολλοὺς καὶ ἀγαθοὺς ὑπὸ σοῦ ἀδίκως ἀπολέσθαι .
+perseus-eng2	 and in the second, they were ready to resign their own native land and go on the voyage with you, because they felt that there was more to be gained by this than by your unjust destruction of a large number of good citizens.
+
+cts:urn:tlg0540.tlg013:27
+glaux2.0-sentence	60
+perseus-grc2	 σοὶ δὲ πρῶτον μὲν κίνδυνος ἦν βασανισθῆναι ὑπομείναντι , ἔπειτα οὐ πατρίδα ἂν σαυτοῦ ἀπέλιπες ·
+perseus-eng2	 But you, first of all, were in danger of being tortured if you stayed where you were; and secondly, you would not have been parting from your own native land.
+
+cts:urn:tlg0540.tlg013:28
+glaux2.0-sentence	61
+perseus-grc2	 ὥστ’ ἐκ παντὸς τρόπου σοὶ μᾶλλον ἢ ἐκείνοις ἐκπλεῦσαι συνέφερεν , εἰ μή τι ἦν ᾧ ἐπίστευες .
+perseus-eng2	 So in every view it was more to your interest to go on a voyage than it was to theirs, unless you had something to give you assurance.
+
+cts:urn:tlg0540.tlg013:28
+glaux2.0-sentence	62
+perseus-grc2	 νῦν δὲ ἄκων μὲν προσποιεῖ , ἑκὼν δὲ πολλοὺς καὶ ἀγαθοὺς Ἀθηναίων ἀπέκτεινας .
+perseus-eng2	 But now you pretend that you acted unwillingly, though you willingly put to death a large number of good Athenians.
+
+cts:urn:tlg0540.tlg013:28
+glaux2.0-sentence	63
+perseus-grc2	 ὡς δὲ παρεσκευάσθη ἅπαντα ἃ ἐγὼ λέγω , καὶ μάρτυρές εἰσι καὶ αὐτὸ τὸ ψήφισμά σου τὸ τῆς βουλῆς καταμαρτυρήσει .
+perseus-eng2	 To show how all that I have recounted was done by prearrangement I have witnesses; and the very decree of the Council will testify against you.
+
+cts:urn:tlg0540.tlg013:29
+glaux2.0-sentence	64
+perseus-grc2	 ἐπειδὴ τοίνυν τοῦτο τὸ ψήφισμα ἐψηφίσθη καὶ ἦλθον οἱ ἐκ τῆς βουλῆς Μουνιχίαζε , ἑκὼν ἀνέστη Ἀγόρατος ἀπὸ τοῦ βωμοῦ ·
+perseus-eng2	 Now when this decree had been passed, and the councillors had arrived at Munichia, Agoratus of his own free will arose from the altar:
+
+cts:urn:tlg0540.tlg013:29
+glaux2.0-sentence	65
+perseus-grc2	 καίτοι νῦν γε βίᾳ φησὶν ἀφαιρεθῆναι .
+perseus-eng2	 yet he now says that he was taken away by force.
+
+cts:urn:tlg0540.tlg013:30
+glaux2.0-sentence	66
+perseus-grc2	 ἐπειδὴ δὲ εἰς τὴν βουλὴν ἐκομίσθησαν , ἀπογράφει Ἀγόρατος πρῶτον μὲν τῶν αὑτοῦ ἐγγυητῶν τὰ ὀνόματα , ἔπειτα τῶν στρατηγῶν καὶ τῶν ταξιάρχων , ἔπειτα δὲ καὶ ἄλλων τινῶν πολιτῶν .
+perseus-eng2	 When they were brought up before the Council, Agoratus deposed first the names of his sureties, then those of the generals and commanders, and then those of some other citizens.
+
+cts:urn:tlg0540.tlg013:30
+glaux2.0-sentence	67
+perseus-grc2	 ἡ δὲ ἀρχὴ αὕτη τοῦ παντὸς κακοῦ ἐγένετο .
+perseus-eng2	 This was the beginning of the whole trouble.
+
+cts:urn:tlg0540.tlg013:30
+glaux2.0-sentence	68
+perseus-grc2	 ὡς δὲ ἀπέγραψε τὰ ὀνόματα , οἶμαι μὲν καὶ αὐτὸν ὁμολογήσειν ·
+perseus-eng2	 That he deposed the names, I think he himself will admit:
+
+cts:urn:tlg0540.tlg013:30
+glaux2.0-sentence	69
+perseus-grc2	 εἰ δὲ μή , ἐπ’ αὐτοφώρῳ ἐγὼ αὐτὸν ἐξελέγξω .
+perseus-eng2	 failing that, I shall convict him as taken in the act.
+
+cts:urn:tlg0540.tlg013:30
+glaux2.0-sentence	70
+perseus-grc2	 ἀπόκριναι δή μοι .
+perseus-eng2	 So answer me.
+
+cts:urn:tlg0540.tlg013:31
+glaux2.0-sentence	71
+perseus-grc2	 ἐβούλοντο τοίνυν , ὦ ἄνδρες δικασταί , ἔτι πλειόνων αὐτὸν τὰ ὀνόματα ἀπογράψαι ·
+perseus-eng2	 Now, they wanted him, gentlemen of the jury, to depose the names of yet more people;
+
+cts:urn:tlg0540.tlg013:31
+glaux2.0-sentence	72
+perseus-grc2	 οὕτω ἔρρωτο ἡ βουλὴ κακόν τι ἐργάζεσθαι αὐτὸν ὥστ’ οὐκ ἐδόκει αὐτοῖς ἅπαντα τα- τἀληθῆ πω κατηγορηκέναι .
+perseus-eng2	 so firmly determined were the Council to work some mischief that they would not believe that he had yet given them the whole truth in his accusation.
+
+cts:urn:tlg0540.tlg013:31
+glaux2.0-sentence	73
+perseus-grc2	 τούτους μὲν οὖν ἅπαντας ἑκὼν ἀπογράφει , οὐδεμιᾶς αὐτῷ ἀνάγκης οὔσης .
+perseus-eng2	 Well, he willingly deposed against all those men, with no compulsion upon him.
+
+cts:urn:tlg0540.tlg013:31
+glaux2.0-sentence	74
+perseus-grc2	 μετὰ τοῦτο προσαπογράφει ἑτέρους τῶν πολιτῶν .
+perseus-eng2	 And having brought two vessels alongside they begged him at all costs to quit Athens,
+
+cts:urn:tlg0540.tlg013:32
+glaux2.0-sentence	75
+perseus-grc2	 ἐπειδὴ δὲ ἡ ἐκκλησία Μουνιχίασιν ἐν τῷ θεάτρῳ ἐγίγνετο , οὕτω σφόδρα τινὲς ἐπεμελοῦντο ὅπως καὶ ἐν τῷ δήμῳ περὶ τῶν στρατηγῶν καὶ τῶν ταξιάρχων μήνυσις γένοιτο ( περὶ δὲ τῶν ἄλλων ἀπέχρη ἐν τῇ βουλῇ μήνυσις μόνῃ γεγενημένη ) , ὥστε καὶ ἐκεῖ παράγουσιν αὐτὸν εἰς τὸν δῆμον .
+perseus-eng2	 When the Assembly met in the theater at Munichia, some were so extremely anxious to have information laid before the people also in regard to the generals and commanders — as to the others, it was enough to have had it laid before the Council only — that they brought him up there also, before the people.
+
+cts:urn:tlg0540.tlg013:32
+glaux2.0-sentence	76
+perseus-grc2	 καί μοι ἀπόκριναι , ὦ Ἀγόρατε ·
+perseus-eng2	 Now answer me, Agoratus:
+
+cts:urn:tlg0540.tlg013:32
+glaux2.0-sentence	77
+perseus-grc2	 οὐ γὰρ οἶμαί σε ἔξαρνον γενήσεσθαι ἃ ἐναντίον Ἀθηναίων ἁπάντων ἐποίησας .
+perseus-eng2	 you will not, I suppose, deny what you did in the presence of all the Athenians.
+
+cts:urn:tlg0540.tlg013:33
+glaux2.0-sentence	78
+perseus-grc2	 ὁμολογεῖ μὲν καὶ αὐτός , ὅμως δὲ καὶ τὰ ψηφίσματα ὑμῖν τοῦ δήμου ἀναγνώσεται .
+perseus-eng2	 He admits it himself; but however, the decrees of the people shall be read to you.
+
+cts:urn:tlg0540.tlg013:33
+glaux2.0-sentence	79
+perseus-grc2	 ὅτι μὲν ἀπέγραψεν Ἀγόρατος οὑτοσὶ τῶν ἀνδρῶν ἐκείνων τὰ ὀνόματα , καὶ τὰ ἐν τῇ βουλῇ καὶ τὰ ἐν τῷ δήμῳ , καὶ ἔστι φονεὺς ἐκείνων , σχεδόν τι οἶμαι ὑμᾶς ἐπίστασθαι ·
+perseus-eng2	 That this man Agoratus deposed the names of those men, both before the Council and before the people, and that he is their murderer, I believe you understand well enough.
+
+cts:urn:tlg0540.tlg013:33
+glaux2.0-sentence	80
+perseus-grc2	 ὡς τοίνυν ἁπάντων τῶν κακῶν αἴτιος τῇ πόλει ἐγένετο καὶ οὐ -δ’ ὑφ’ ἑνὸς αὐτὸν προσήκει ἐλεεῖσθαι , ἐγὼ οἶμαι ὑμῖν ἐν κεφαλαίοις ἀποδείξειν .
+perseus-eng2	 My further point, that he was the author of all the city’s troubles, and does not deserve to be pitied by anybody, I think I can make plain to you in summary fashion.
+
+cts:urn:tlg0540.tlg013:34
+glaux2.0-sentence	81
+perseus-grc2	 ἐπειδὴ γὰρ ἐκεῖνοι συλληφθέντες ἐδέθησαν , τότε καὶ ὁ Λύσανδρος εἰς τοὺς λιμένας τοὺς ὑμετέρους εἰσέπλευσε , καὶ αἱ νῆες αἱ ὑμέτεραι Λακεδαιμονίοις παρεδόθησαν , καὶ τὰ τείχη κατεσκάφη , καὶ οἱ τριάκοντα κατέστησαν , καὶ τί οὐ τῶν δεινῶν τῇ πόλει ἐγένετο .
+perseus-eng2	 For it was just when those persons had been arrested and imprisoned that Lysander sailed into your harbors, that your ships were surrendered to the Lacedaemonians, that the walls were demolished, that the Thirty were established, and that every conceivable misery befell the city.
+
+cts:urn:tlg0540.tlg013:35
+glaux2.0-sentence	82
+perseus-grc2	 ἐπειδὴ τοίνυν οἱ τριάκοντα κατεστάθησαν εὐθέως κρίσιν τοῖς ἀνδράσι τούτοις ἐποίουν ἐν τῇ βουλῇ , ὁ δὲ δῆμος " ἐν τῷ δικαστηρίῳ ἐν δισχιλίοις " ἐψήφιστο .
+perseus-eng2	 And then, as soon as the Thirty were established, they promptly brought these men to trial before the Council; whereas the people had decreed that it should be "before the court of two thousand."
+
+cts:urn:tlg0540.tlg013:35
+glaux2.0-sentence	83
+perseus-grc2	 καί μοι ἀνάγνωθι τὸ ψήφισμα .
+perseus-eng2	 Please read the decree.
+
+cts:urn:tlg0540.tlg013:36
+glaux2.0-sentence	84
+perseus-grc2	 εἰ μὲν οὖν ἐν τῷ δικαστηρίῳ ἐκρίνοντο , ῥαδίως ἂν ἐσῴζοντο ·
+perseus-eng2	 Now if they had been tried before the proper court, they would have easily escaped harm;
+
+cts:urn:tlg0540.tlg013:36
+glaux2.0-sentence	85
+perseus-grc2	 ἅπαντες γὰρ ἤδη ἐγνωκότες ἦτε οὗ ἦν κακοῦ ἡ πόλις , ἐν ᾧ οὐδὲν ἔτι ὠφελεῖν ἐδύνασθε νῦν δ’ εἰς τὴν βουλὴν αὐτοὺς τὴν ἐπὶ τῶν τριάκοντα εἰσάγουσιν .
+perseus-eng2	 for by that time you were all apprised of the evil plight of the city, though you were unable at that stage to be of further service to her. But as it was, they were brought before the Council which sat under the Thirty.
+
+cts:urn:tlg0540.tlg013:36
+glaux2.0-sentence	86
+perseus-grc2	 ἡ δὲ κρίσις τοιαύτη ἐγίγνετο , οἵαν καὶ ὑμεῖς αὐτοὶ ἐπίστασθε .
+perseus-eng2	 And the trial was conducted in a manner that you yourselves well know:
+
+cts:urn:tlg0540.tlg013:37
+glaux2.0-sentence	87
+perseus-grc2	 οἱ μὲν γὰρ τριάκοντα ἐκάθηντο ἐπὶ τῶν βάθρων , οὗ νῦν οἱ πρυτάνεις καθέζονται ·
+perseus-eng2	 the Thirty were seated on the benches which are now the seats of the presiding magistrates;
+
+cts:urn:tlg0540.tlg013:37
+glaux2.0-sentence	88
+perseus-grc2	 δύο δὲ τράπεζαι ἐν τῷ πρόσθεν τῶν τριάκοντα ἐκείσθην ·
+perseus-eng2	 two tables were set before the Thirty, and the vote had to be deposited, not in urns, but openly on these tables,
+
+cts:urn:tlg0540.tlg013:37
+glaux2.0-sentence	89
+perseus-grc2	 τὴν δὲ ψῆφον οὐκ εἰς καδίσκους ἀλλὰ φανερὰν ἐπὶ τὰς τραπέζας ταύτας ἔδει τίθεσθαι , τὴν μὲν καθαιροῦσαν ἐπὶ τὴν ὑστέραν G? , ὥστε ἐκ τίνος τρόπου ἔμελλέ τις αὐτῶν σωθήσεσθαι ;
+perseus-eng2	 the condemning vote on the further one — so what possible chance of escape had any of them?
+
+cts:urn:tlg0540.tlg013:38
+glaux2.0-sentence	90
+perseus-grc2	 ἑνὶ δὲ λόγῳ , ὅσοι εἰς τὸ βουλευτήριον ἐπὶ τῶν τριάκοντα εἰσῆλθον κριθησόμενοι , ἁπάντων θάνατος κατεγιγνώσκετο καὶ οὐδενὸς ἀπεψηφίσαντο , πλὴν Ἀγοράτου τουτουί ·
+perseus-eng2	 In a word, all those who had entered that Council chamber for their trial were condemned to death: not one was acquitted, except this man Agoratus;
+
+cts:urn:tlg0540.tlg013:38
+glaux2.0-sentence	91
+perseus-grc2	 τοῦτον δὲ ἀφεῖσαν ὡς εὐεργέτην ὄντα ·
+perseus-eng2	 him they let off, as being a benefactor.
+
+cts:urn:tlg0540.tlg013:38
+glaux2.0-sentence	92
+perseus-grc2	 ἵνα δὲ εἰδῆτε ὡς πολλοὶ ὑπὸ τούτου τεθνᾶσι , βούλομαι ὑμῖν τὰ ὀνόματα αὐτῶν ἀναγνῶναι .
+perseus-eng2	 And in order that you may know of the large number done to death by this man, I propose to read you their names.
+
+cts:urn:tlg0540.tlg013:39
+glaux2.0-sentence	93
+perseus-grc2	 ἐπειδὴ τοίνυν , ὦ ἄνδρες δικασταί , θάνατος αὐτῶν κατεγνώσθη καὶ ἔδει αὐτοὺς ἀποθνήσκειν , μεταπέμπονται εἰς τὸ δεσμωτήριον ὁ μὲν ἀδελφήν , ὁ δὲ μητέρα , ὁ δὲ γυναῖκα , ὁ δ’ ἥ τις ἦν ἑκάστῳ αὐτῶν προσήκουσα , ἵνα τὰ ὕστατα ἀσπασάμενοι τοὺς αὑτῶν οὕτω τὸν βίον τελευτήσειαν .
+perseus-eng2	 Names  Now, when sentence of death, gentlemen, had been passed on them, and they had to die, each of them sent for his sister, or his mother, or his wife, or any female relative that he had, to see them in the prison, in order that they might take the last farewell of their people before they should end their days.
+
+cts:urn:tlg0540.tlg013:40
+glaux2.0-sentence	94
+perseus-grc2	 καὶ δὴ καὶ Διονυσόδωρος μεταπέμπεται τὴν ἀδελφὴν τὴν ἐμὴν εἰς τὸ δεσμωτήριον , γυναῖκα ἑαυτοῦ οὖσαν .
+perseus-eng2	 In particular, Dionysodorus sent for my sister — she was his wife — to see him in the prison. On receiving the message she came, dressed in a black cloak
+
+cts:urn:tlg0540.tlg013:41
+glaux2.0-sentence	95
+perseus-grc2	 πυθομένη δ’ ἐκείνη ἀφικνεῖται , μέλαν τε ἱμάτιον ἠμφιεσμένη G? , ὡς εἰκὸς ἦν ἐπὶ τῷ ἀνδρὶ αὐτῆς τοιαύτῃ συμφορᾷ κεχρημένῳ .
+perseus-eng2	 as was natural in view of the sad fate that had befallen her husband.
+
+cts:urn:tlg0540.tlg013:41
+glaux2.0-sentence	96
+perseus-grc2	 ἐναντίον δὲ τῆς ἀδελφῆς τῆς ἐμῆς Διονυσόδωρος τά τε οἰκεῖα τὰ αὑτοῦ διέθετο ὅπως αὐτῷ ἐδόκει , καὶ περὶ Ἀγοράτου τουτουὶ ἔλεγεν ὅτι οἱ αἴτιος ἦν τοῦ θανάτου , καὶ ἐπέσκηπτεν ἐμοὶ καὶ Διονυσίῳ τουτῳί , τῷ ἀδελφῷ τῷ αὑτοῦ , καὶ τοῖς φίλοις πᾶσι τιμωρεῖν ὑπὲρ αὑτοῦ Ἀγόρατον ·
+perseus-eng2	 In the presence of my sister, Dionysodorus, after disposing of his personal property as he thought fit, referred to this man Agoratus as responsible for his death, and charged me and Dionysius his brother here,
+
+cts:urn:tlg0540.tlg013:42
+glaux2.0-sentence	97
+perseus-grc2	 καὶ τῇ γυναικὶ τῇ αὑτοῦ ἐπέσκηπτε , νομίζων αὐτὴν κυεῖν ἐξ αὑτοῦ , ἐὰν γένηται αὐτῇ παιδίον , φράζειν τῷ γενομένῳ ὅτι τὸν πατέρα αὐτοῦ Ἀγόρατος ἀπέκτεινε , καὶ κελεύειν τιμωρεῖν ὑπὲρ αὑτοῦ ὡς φονέα ὄντα .
+perseus-eng2	 and all his friends to execute his vengeance upon Agoratus; and he charged his wife, believing her to be with child by him, that if she should bear a son she should tell the child that Agoratus had taken his father’s life, and should bid him execute his father’s vengeance on the man for his murder.
+
+cts:urn:tlg0540.tlg013:42
+glaux2.0-sentence	98
+perseus-grc2	 ὡς οὖν ἀληθῆ λέγω , μάρτυρας τούτων παρέξομαι .
+perseus-eng2	 To show the truth of what I state, I will produce witnesses to these facts.
+
+cts:urn:tlg0540.tlg013:43
+glaux2.0-sentence	99
+perseus-grc2	 οὗτοι μὲν τοίνυν , ὦ ἄνδρες Ἀθηναῖοι , ὑπ’ Ἀγοράτου ἀπογραφέντες ἀπέθανον ·
+perseus-eng2	 So then these persons, men of Athens, lost their lives through the depositions of Agoratus.
+
+cts:urn:tlg0540.tlg013:43
+glaux2.0-sentence	100
+perseus-grc2	 ἐπειδὴ δὲ τούτους ἐκποδὼν ἐποιήσαντο οἱ τριάκοντα , σχεδὸν οἶμαι ὑμᾶς ἐπίστασθαι ὡς πολλὰ καὶ δεινὰ μετὰ ταῦτα τῇ πόλει ἐγένετο ·
+perseus-eng2	 But after the Thirty had cleared them out of their way, you know well enough, I imagine, what a multitude of miseries next befell the city;
+
+cts:urn:tlg0540.tlg013:43
+glaux2.0-sentence	101
+perseus-grc2	 ὧν οὗτος ἁπάντων αἴτιός ἐστιν ἀποκτείνας ἐκείνους .
+perseus-eng2	 and for all of them this man, by taking those people’s lives, was responsible.
+
+cts:urn:tlg0540.tlg013:44
+glaux2.0-sentence	102
+perseus-grc2	 ἀνιῶμαι μὲν οὖν ὑπομιμνῄσκων τὰς γεγενημένας συμφορὰς τῇ πόλει , ἀνάγκη δ’ ἐστίν , ὦ ἄνδρες δικασταί , ἐν τῷ παρόντι καιρῷ , ἵν’ εἰδῆτε ὡς σφόδρα ὑμῖν ἐλεεῖν προσήκει Ἀγόρατον .
+perseus-eng2	 It gives me pain, indeed, to recall the calamities that have befallen the city, but it is a necessity, gentlemen of the jury, at the present moment, so that you may know how richly Agoratus deserves your pity!
+
+cts:urn:tlg0540.tlg013:44
+glaux2.0-sentence	103
+perseus-grc2	 ἴστε μὲν γὰρ τοὺς ἐκ Σαλαμῖνος τῶν πολιτῶν κομισθέντας , οἷοι ἦσαν καὶ ὅσοι , καὶ οἵῳ ὀλέθρῳ ὑπὸ τῶν τριάκοντα ἀπώλοντο ·
+perseus-eng2	 For you know the character and number of the citizens who were brought away from Salamis, and the way in which they were destroyed by the Thirty.
+
+cts:urn:tlg0540.tlg013:44
+glaux2.0-sentence	104
+perseus-grc2	 ἴστε δὲ τοὺς ἐξ Ἐλευσῖνος , ὡς πολλοὶ ταύτῃ τῇ συμφορᾷ ἐχρήσαντο ·
+perseus-eng2	 You know what a great number of the people of Eleusis shared that calamity.
+
+cts:urn:tlg0540.tlg013:44
+glaux2.0-sentence	105
+perseus-grc2	 μέμνησθε δὲ καὶ τοὺς ἐνθάδε διὰ τὰς ἰδίας ἔχθρας ἀπαγομένους εἰς τὸ δεσμωτήριον ·
+perseus-eng2	 You recollect, again, how the walls were demolished, the ships surrendered to the enemy, the arsenals destroyed, our Acropolis occupied by the Lacedaemonians, and the whole strength of the city crippled, so that our city was sunk to a level with the smallest in the world!
+
+cts:urn:tlg0540.tlg013:45
+glaux2.0-sentence	106
+perseus-grc2	 οἵ οὐδὲν κακὸν τὴν πόλιν ποιήσαντες ἠναγκάζοντο αἰσχίστῳ καὶ ἀκλεεστάτῳ ὀλέθρῳ ἀπόλλυσθαι , οἱ μὲν γονέας σφετέρους αὐτῶν πρεσβύτας καταλιπόντες , οἳ ἤλπιζον ὑπὸ τῶν σφετέρων αὐτῶν παίδων γηροτροφηθέντες , ἐπειδὴ τελευτήσειαν τὸν βίον , ταφήσεσθαι , οἱ δὲ ἀδελφὰς ἀνεκδότους , οἱ δὲ παῖδας μικροὺς πολλῆς ἔτι θεραπείας δεομένους ·
+perseus-eng2	 You remember also our people here who were haled to prison on account of private enmities; and who, having done no harm to the city, were compelled to perish by the most shameful, the most infamous, of deaths. Some left elderly parents behind them, who were expecting to be supported in their old age by their own children and, when they should end their days, to be laid by them in the grave; others left sisters unwedded, and others little children who still required much tendance.
+
+cts:urn:tlg0540.tlg013:46
+glaux2.0-sentence	107
+perseus-grc2	 οὕς , ὦ ἄνδρες δικασταί , ποίαν τινὰ οἴεσθε γνώμην περὶ τούτου ἔχειν , ἢ ποίαν τινὰ ἂν ψῆφον θέσθαι , εἰ ἐπ’ ἐκείνοις γένοιτο , ἀποστερηθέντας διὰ τοῦτον τῶν ἡδίστων ;
+perseus-eng2	 What sort of feelings, gentlemen, do you think are theirs towards this man, or what kind of vote would they give, if it rested with them, when by his act they have been deprived of their best comforts?
+
+cts:urn:tlg0540.tlg013:46
+glaux2.0-sentence	108
+perseus-grc2	 ἔτι δὲ τὰ τείχη ὡς κατεσκάφη καὶ αἱ νῆες τοῖς πολεμίοις παρεδόθησαν καὶ τὰ νεώρια καθῃρέθη καὶ Λακεδαιμόνιοι τὴν ἀκρόπολιν ἡμῶν εἶχον καὶ ἡ δύναμις ἅπασα τῆς πόλεως παρελύθη , ὥστε μηδὲν διαφέρειν τῆς ἐλαχίστης πόλεως τὴν πόλιν .
+perseus-eng2	 You recollect, again, how the walls were demolished, the ships surrendered to the enemy, the arsenals destroyed, our Acropolis occupied by the Lacedaemonians, and the whole strength of the city crippled, so that our city was sunk to a level with the smallest in the world!
+
+cts:urn:tlg0540.tlg013:47
+glaux2.0-sentence	109
+perseus-grc2	 πρὸς δὲ τούτοις τὰς ἰδίας οὐσίας ἀπωλέσατε , καὶ τὸ τελευταῖον συλλήβδην ἅπαντες ὑπὸ τῶν τριάκοντα ἐκ τῆς πατρίδος ἐξηλάθητε .
+perseus-eng2	 And besides all this, you lost your private possessions and finally, at one swoop, you were all expelled by the Thirty from your native land.
+
+cts:urn:tlg0540.tlg013:47
+glaux2.0-sentence	110
+perseus-grc2	 ταῦτα ἐκεῖνοι οἱ ἀγαθοὶ ἄνδρες αἰσθόμενοι οὐκ ἔφασαν ἐπιτρέψειν τὴν εἰρήνην , ὦ ἄνδρες δικασταί , ποιήσασθαι ·
+perseus-eng2	 Impressed with these perils, those loyal citizens, gentlemen, refused their assent to the conditions of peace,
+
+cts:urn:tlg0540.tlg013:48
+glaux2.0-sentence	111
+perseus-grc2	 οὓς σύ , Ἀγόρατε , βουλομένους ἀγαθόν τι πρᾶξαι τῇ πόλει ἀπέκτεινας , μηνύσας αὐτοὺς τῇ πόλει ἐπιβουλεύειν τῷ πλήθει τῷ ὑμετέρῳ , καὶ αἴτιος εἶ ἁπάντων τῇ πόλει τῶν κακῶν τῶν γεγενημένων .
+perseus-eng2	 and you, Agoratus, because they sought to do the State some service, brought about their death by laying information that they were intriguing against our democracy; and you are responsible for all the troubles that have befallen the city.
+
+cts:urn:tlg0540.tlg013:48
+glaux2.0-sentence	112
+perseus-grc2	 νῦν οὖν μνησθέντες καὶ τῶν ἰδίων ἕκαστος δυστυχημάτων καὶ τῶν κοινῶν τῆς πόλεως τιμωρεῖσθε τὸν αἴτιον τούτων .
+perseus-eng2	 So now let each of you remember the misfortunes caused both to individuals and to the common weal of the city, and take vengeance on their author.
+
+cts:urn:tlg0540.tlg013:49
+glaux2.0-sentence	113
+perseus-grc2	 θαυμάζω δ’ ἔγωγε , ὦ ἄνδρες δικασταί , ὅ τί ποτε τολμήσει πρὸς ὑμᾶς ἀπολογεῖσθαι ·
+perseus-eng2	 I am wondering myself, gentlemen, what he will be bold enough to say to you in his defence.
+
+cts:urn:tlg0540.tlg013:49
+glaux2.0-sentence	114
+perseus-grc2	 δεῖ γὰρ αὐτὸν ἀποδεῖξαι ὡς οὐ κατεμήνυσε τῶν ἀνδρῶν τούτων οὐ -δ’ αἴτιος αὐτοῖς ἐστι τοῦ θανάτου , ὃ οὐκ ἂν δύναιτο οὐδέποτε ἀποδεῖξαι .
+perseus-eng2	 For he must show that he did not lay information against these men, and so is not responsible for their death; but this he could never contrive to show.
+
+cts:urn:tlg0540.tlg013:50
+glaux2.0-sentence	115
+perseus-grc2	 πρῶτον μὲν γὰρ τὰ ψηφίσματα αὐτοῦ τὰ ἐκ τῆς βουλῆς καὶ τὸ τοῦ δήμου καταμαρτυρεῖ , διαρρήδην ἀγορεύοντα " περὶ ὧν Ἀγόρατος κατείρηκεν " .
+perseus-eng2	 In the first place, we have as witnesses against him the decrees issued by the Council, and that of the people, stating expressly — "in regard to those whom Agoratus has denounced."
+
+cts:urn:tlg0540.tlg013:50
+glaux2.0-sentence	116
+perseus-grc2	 ἔπειτα ἡ κρίσις , ἣν ἐκρίθη ἐπὶ τῶν τριάκοντα καὶ ἀφείθη , διαρρήδην λέγει , " διότι " φησίν " ἔδοξε τα- τἀληθῆ εἰσαγγεῖλαι " .
+perseus-eng2	 In the second place, the judgement passed on him when he was acquitted under the Thirty says expressly — "inasmuch as his report has been approved as true."
+
+cts:urn:tlg0540.tlg013:50
+glaux2.0-sentence	117
+perseus-grc2	 καί μοι ἀνάγνωθι .
+perseus-eng2	 Read them, please.
+
+cts:urn:tlg0540.tlg013:51
+glaux2.0-sentence	118
+perseus-grc2	 ὡς μὲν οὖν οὐκ ἀπέγραψεν , οὐδενὶ τρόπῳ δύναιτ’ ἂν ἀποδεῖξαι ·
+perseus-eng2	 Well then, that he did not make the deposition, he can find no means of showing;
+
+cts:urn:tlg0540.tlg013:51
+glaux2.0-sentence	119
+perseus-grc2	 δεῖ τοίνυν αὐτὸν ὡς δικαίως ἐμήνυσε ταῦτα ἀποφαίνειν , ὁρῶν αὐτοὺς πονηρὰ καὶ οὐκ ἐπιτήδεια τῷ δήμῳ τῷ ὑμετέρῳ πράττοντας .
+perseus-eng2	 he must therefore prove that he was justified in giving that information, because he saw them criminally working against the interest of your people.
+
+cts:urn:tlg0540.tlg013:51
+glaux2.0-sentence	120
+perseus-grc2	 οἴομαι δ’ οὐ -δ’ ἂν τοῦτο αὐτὸν ἐπιχειρῆσαι ἀποδεικνύναι .
+perseus-eng2	 But he will not attempt to show this either, I believe.
+
+cts:urn:tlg0540.tlg013:51
+glaux2.0-sentence	121
+perseus-grc2	 οὐ γὰρ δήπου , εἴ τι κακὸν τὸν δῆμον τὸν Ἀθηναίων εἰργάσαντο , οἱ τριάκοντα , δεδιότες μὴ καταλυθείη ἂν ὁ δῆμος , τιμωροῦντες ὑπὲρ τοῦ δήμου ἂν αὐτοὺς ἀπέκτειναν , ἀλλ’ οἶμαι πολὺ το- τοὐναντίον τούτου .
+perseus-eng2	 For, I presume, if it had been the people of Athens on whom they had inflicted some injury, the Thirty would never, in fear of the people’s rule being subverted, have put them to death to vindicate the cause of the people; no, I conceive they would have done very much the opposite.
+
+cts:urn:tlg0540.tlg013:52
+glaux2.0-sentence	122
+perseus-grc2	 ἀλλ’ ἴσως φήσει ἄκων τοσαῦτα κακὰ ἐργάσασθαι .
+perseus-eng2	 But perhaps he will say that he committed all these wrongful acts against his will.
+
+cts:urn:tlg0540.tlg013:52
+glaux2.0-sentence	123
+perseus-grc2	 ἐγὼ δ’ οὐκ οἶμαι , ὦ ἄνδρες δικασταί , οὐ -δ’ ἐάν τις ὑμᾶς ὡς μάλιστα ἄκων μεγάλα κακὰ ἐργάσηται , ὧν μὴ οἷόν τε γενέσθαι ἐστὶν ὑπερβολήν , οὐ τούτου ἕνεκα οὐ δεῖν ὑμᾶς ἀμύνεσθαι .
+perseus-eng2	 My own opinion, gentlemen, is that, however much against his will a man may have done you a wrong so great that it cannot be exceeded, this is no reason why you should not protect yourselves.
+
+cts:urn:tlg0540.tlg013:52
+glaux2.0-sentence	124
+perseus-grc2	 εἶτα δὲ καὶ ἐκείνων μέμνησθε , ὅτι ἐξῆν Ἀγοράτῳ τουτῳί , πρὶν εἰς τὴν βουλὴν κομισθῆναι , ὅτ’ ἐπὶ τοῦ βωμοῦ ἐκάθητο Μουνιχίασι , σωθῆναι ·
+perseus-eng2	 And then, there are some further facts that you must remember: it was open to this man Agoratus, before he was brought up at the Council, and while he was seated at the altar in Munichia, to escape in safety;
+
+cts:urn:tlg0540.tlg013:52
+glaux2.0-sentence	125
+perseus-grc2	 καὶ γὰρ πλοῖα παρεσκεύαστο καὶ οἱ ἐγγυηταὶ ἕτοιμοι ἦσαν συναπιέναι .
+perseus-eng2	 for vessels had been provided, and his sureties were ready to depart with him.
+
+cts:urn:tlg0540.tlg013:53
+glaux2.0-sentence	126
+perseus-grc2	 καίτοι εἰ ἐκείνοις ἐπίθου καὶ ἠθέλησας ἐκπλεῦσαι μετ’ ἐκείνων , οὔ -τ’ ἂν ἑκὼν οὔ -τε ἄκων τοσούτους Ἀθηναίων ἀπέκτεινας ·
+perseus-eng2	 And indeed, sir, had you taken their advice and consented to sail away with your friends, neither willingly nor unwillingly would you have taken the lives of so many Athenians.
+
+cts:urn:tlg0540.tlg013:53
+glaux2.0-sentence	127
+perseus-grc2	 νῦν δὲ πεισθεὶς ὑφ’ ὧν τότε ἐπείσθης , εἰ τῶν στρατηγῶν καὶ τῶν ταξιάρχων τὰ ὀνόματα μόνον εἴποις , μέγα τι ᾤου παρ’ αὐτῶν διαπράξεσθαι .
+perseus-eng2	 But the fact is that, seduced by certain persons who then made it worth your while, you had only to mention the names of the generals and commanders, and you could count on obtaining a handsome reward from them.
+
+cts:urn:tlg0540.tlg013:53
+glaux2.0-sentence	128
+perseus-grc2	 οὔκουν τούτου ἕνεκα δεῖ σε παρ’ ἡμῶν συγγνώμης τινὸς τυχεῖν , ἐπεὶ οὐ -δὲ ἐκεῖνοι παρὰ σοῦ οὐδεμιᾶς ἔτυχον , οὓς σὺ ἀπέκτεινας .
+perseus-eng2	 So I see no reason there for your receiving any indulgence from us, since those men received none either from you, when you took their lives.
+
+cts:urn:tlg0540.tlg013:54
+glaux2.0-sentence	129
+perseus-grc2	 καὶ Ἱππίας μὲν ὁ Θάσιος καὶ Ξενοφῶν ὁ Κουριεύς , οἳ ἐπὶ τῇ αὐτῇ αἰτίᾳ τούτῳ ὑπὸ τῆς βουλῆς μετεπέμφθησαν , οὗτοι μὲν ἀπέθανον , ὁ μὲν στρεβλωθείς , Ξενοφῶν , ὁ δὲ Ἱππίας οὕτω G? , διότι οὐκ ἄξιοι ἐδόκουν τοῖς τριάκοντα σωτηρίας εἶναι ( οὐδένα γὰρ Ἀθηναίων ἀπώλλυσαν ) ·
+perseus-eng2	 And Hippias of Thasos, and Xenophon of Curium, who were summoned by the Council on the same charge as this man, were put to death, — the one, Xenophon, after suffering on the rack, the other, Hippias, in the manner ;
+
+cts:urn:tlg0540.tlg013:54
+glaux2.0-sentence	130
+perseus-grc2	 Ἀγόρατος δὲ ἀφείθη , διότι ἐδόκει ἐκείνοις τὰ ἥδιστα πεποιηκέναι .
+perseus-eng2	 because in the eyes of the Thirty they did not deserve to be saved, — they had not destroyed one Athenian! But Agoratus was let off, because in their eyes he had done what was most agreeable to them.
+
+cts:urn:tlg0540.tlg013:55
+glaux2.0-sentence	131
+perseus-grc2	 ἀκούω δ’ αὐτὸν καὶ εἰς Μενέστρατον ἀναφέρειν τι περὶ τῶν ἀπογραφῶν τούτων .
+perseus-eng2	 I am told that he attributes these depositions in part to Menestratus.
+
+cts:urn:tlg0540.tlg013:55
+glaux2.0-sentence	132
+perseus-grc2	 τὸ δὲ τοῦ Μενεστράτου πρᾶγμα τοιοῦτον ἐγένετο .
+perseus-eng2	 But the affair of Menestratus was like this:
+
+cts:urn:tlg0540.tlg013:55
+glaux2.0-sentence	133
+perseus-grc2	 ὁ Μενέστρατος οὗτος ἀπεγράφη ὑπὸ τοῦ Ἀγοράτου καὶ συλληφθεὶς ἐδέδετο ·
+perseus-eng2	 Menestratus was informed against by Agoratus, and was arrested and put in prison.
+
+cts:urn:tlg0540.tlg013:55
+glaux2.0-sentence	134
+perseus-grc2	 Ἁγνόδωρος δ’ ἦν Ἀμφιτροπαιεύς , δημότης τοῦ Μενεστράτου , Κριτίου κηδεστὴς τοῦ τῶν τριάκοντα .
+perseus-eng2	 Hagnodorus of Amphitrope, a fellow townsman of Menestratus, was a kinsman of Critias, one of the Thirty.
+
+cts:urn:tlg0540.tlg013:55
+glaux2.0-sentence	135
+perseus-grc2	 οὗτος οὖν , ὅτε ἡ ἐκκλησία Μουνιχίασιν ἐν τῷ θεάτρῳ ἐγίγνετο , ἅμα μὲν βουλόμενος τὸν Μενέστρατον σωθῆναι , ἅμα δὲ ὡς πλείστους ἀπογραφέντας ἀπολέσθαι , παράγει αὐτὸν εἰς τὸν δῆμον , καὶ εὑρίσκονται αὐτῷ κατὰ τὸ ψήφισμα τουτὶ ἄδειαν .
+perseus-eng2	 Well, when the Assembly was being held in the theater at Munichia, this man, with the double aim of saving the life of Menestratus and of causing, by means of depositions, the destruction of as many people as possible, brought him before the people, when they contrived to give him impunity under the following decree.
+
+cts:urn:tlg0540.tlg013:56
+glaux2.0-sentence	136
+perseus-grc2	 ἐπειδὴ δὲ τοῦτο τὸ ψήφισμα ἐγένετο , μηνύει ὁ Μενέστρατος καὶ προσαπογράφει ἑτέρους τῶν πολιτῶν .
+perseus-eng2	 As soon as this decree had been passed, Menestratus turned informer, and added some more names of citizens to those already deposed.
+
+cts:urn:tlg0540.tlg013:56
+glaux2.0-sentence	137
+perseus-grc2	 τοῦτον μέντοι οἱ μὲν τριάκοντα ἀφεῖσαν ὥσπερ Ἀγόρατον τουτονί , δόξαντα τα- τἀληθῆ εἰσαγγεῖλαι , ὑμεῖς δὲ πολλῷ χρόνῳ ὕστερον λαβόντες ἐν δικαστηρίῳ ὡς ἀνδροφόνον ὄντα , θάνατον δικαίως καταψηφισάμενοι τῷ δημίῳ παρέδοτε καὶ ἀπετυμπανίσθη .
+perseus-eng2	 The Thirty, of course, let him off as they did Agoratus here, accepting his report as true: but you long afterwards had him before you in court as an actual murderer, and justly condemned him to death; you handed him over to the executioner, and he suffered death on the plank.
+
+cts:urn:tlg0540.tlg013:57
+glaux2.0-sentence	138
+perseus-grc2	 καίτοι εἰ ἐκεῖνος ἀπέθανεν , ἦ που Ἀγόρατός γε δικαίως ἀποθανεῖται , ὅς γε τόν τε Μενέστρατον ἀπογράψας αἴτιος ἐκείνῳ ἐστὶ τοῦ θανάτου , καὶ τοῖς ὑπὸ Μενεστράτου ἀπογραφεῖσι τίς αἰτιώτερος ἢ ὁ εἰς τοιαύτην ἀνάγκην ἐκεῖνον καταστήσας ;
+perseus-eng2	 Yet, if that man was put to death, surely Agoratus will be put to death with justice; for since he deposed against Menestratus he is responsible for his death, while, as to those who were deposed against by Menestratus, who is more responsible than the man who placed him under the necessity of such a step?
+
+cts:urn:tlg0540.tlg013:58
+glaux2.0-sentence	139
+perseus-grc2	 ἀνόμοιος δέ μοι δοκεῖ Ἀριστοφάνει γενέσθαι τῷ Χολλείδῃ , ὃς ἐγγυητὴς τότε τούτου ἐγένετο καὶ τὰ πλοῖα παρασκευάσας Μουνιχίασιν ἕτοιμος ἦν συνεκπλεῖν μετὰ τούτου .
+perseus-eng2	 And his behavior was, I consider, quite unlike that of Aristophanes of Cholleis, who went surety for him at that time, provided the vessels at Munichia, and was ready to accompany him on the voyage.
+
+cts:urn:tlg0540.tlg013:58
+glaux2.0-sentence	140
+perseus-grc2	 καὶ τό γε ἐπ’ ἐκεῖνον εἶναι ἐσώθης , καὶ οὔ -τ’ ἂν Ἀθηναίων οὐδένα ἀπώλεσας οὔ -τ’ ἂν αὐτὸς σὺ εἰς τοιούτους κινδύνους κατέστης ·
+perseus-eng2	 Thus, so far as it lay with him, you were saved, and then you would neither have destroyed any Athenian nor have brought your own self into such serious dangers.
+
+cts:urn:tlg0540.tlg013:59
+glaux2.0-sentence	141
+perseus-grc2	 νῦν δὲ καὶ τὸν σωτῆρα τὸν σαυτοῦ ἐτόλμησας ἀπογράψαι , καὶ ἀπογράψας ἀπέκτεινας καὶ ἐκεῖνον καὶ τοὺς ἄλλους ἐγγυητάς .
+perseus-eng2	 But no: you not only had the face to depose against your own deliverer, but by making your deposition you sent both him and your other sureties to their death.
+
+cts:urn:tlg0540.tlg013:59
+glaux2.0-sentence	142
+perseus-grc2	 τοῦτον μέντοι ὡς οὐ καθαρῶς Ἀθηναῖον ὄντα ἐβούλοντό τινες βασανισθῆναι , καὶ τουτὶ τὸ ψήφισμα τὸν δῆμον ἀναπείθουσι ψηφίζεσθαι .
+perseus-eng2	 Some, indeed, desired that Aristophanes should be put to the torture, as one who was not of pure Athenian stock, and they prevailed on the people to pass the following decree.
+
+cts:urn:tlg0540.tlg013:60
+glaux2.0-sentence	143
+perseus-grc2	 μετὰ τοῦτο τοίνυν προσιόντες τῷ Ἀριστοφάνει οἱ πράττοντες τότε τὰ πράγματα ἐδέοντο αὐτοῦ κατειπεῖν καὶ σῴζεσθαι , καὶ μὴ κινδυνεύειν ἀγωνισάμενον τῆς ξενίας τὰ ἔσχατα παθεῖν .
+perseus-eng2	 Well, after that the persons who then had control of affairs came to Aristophanes and appealed to him to save himself by a denunciation, and not to run the risk of the extreme penalty by standing his trial on the count of alien birth.
+
+cts:urn:tlg0540.tlg013:60
+glaux2.0-sentence	144
+perseus-grc2	 ὁ δὲ οὐκ ἔφη οὐδέποτε ·
+perseus-eng2	 But he said — Never!
+
+cts:urn:tlg0540.tlg013:60
+glaux2.0-sentence	145
+perseus-grc2	 οὕτω χρηστὸς ἦν καὶ περὶ τοὺς δεδεμένους καὶ περὶ τὸν δῆμον τὸν Ἀθηναίων , ὥστε εἵλετο μᾶλλον ἀποθανεῖν ἢ κατειπεῖν καὶ ἀδίκως τινὰς ἀπολέσαι .
+perseus-eng2	 Such was his loyalty both to the men who had been imprisoned and to the Athenian people that he chose to suffer death rather than denounce and destroy anyone unjustly.
+
+cts:urn:tlg0540.tlg013:61
+glaux2.0-sentence	146
+perseus-grc2	 ἐκεῖνος μὲν τοίνυν καὶ ὑπὸ σοῦ ἀπολλύμενος τοιουτοσὶ ἐγένετο καὶ Ξενοφῶν ὁ στρεβλωθεὶς καὶ Ἱππίας ὁ Θάσιος .
+perseus-eng2	 So this was the character shown by that man, even when you were bringing him to destruction;
+
+cts:urn:tlg0540.tlg013:61
+glaux2.0-sentence	147
+perseus-grc2	 σὺ δ’ οὐδὲν τοῖς ἀνδράσιν ἐκείνοις συνειδώς , πεισθεὶς δὲ ὡς σύ γε , ἐὰν ἐκεῖνοι ἀπόλωνται , μεθέξεις τῆς τότε πολιτείας καθισταμένης , ἀπέγραψας καὶ ἀπέκτεινας Ἀθηναίων πολλοὺς καὶ ἀγαθούς .
+perseus-eng2	 and you, when you knew nothing against those persons, but had been seduced with the promise to you of a share in the government then being established if they should be destroyed, made your deposition and sent to their death a large number of good Athenians.
+
+cts:urn:tlg0540.tlg013:62
+glaux2.0-sentence	148
+perseus-grc2	 βούλομαι δ’ ὑμῖν , ὦ ἄνδρες δικασταί , ἐπιδεῖξαι οἵων ἀνδρῶν ὑπ’ Ἀγοράτου ἀπεστέρησθε .
+perseus-eng2	 But I wish now, gentlemen of the jury, to represent to you the character of the men of whom Agoratus has bereft you.
+
+cts:urn:tlg0540.tlg013:62
+glaux2.0-sentence	149
+perseus-grc2	 εἰ μὲν οὖν οὐ πολλοὶ ἦσαν , καθ’ ἕκαστον ἂν περὶ αὐτῶν ἠκούετε , νῦν δὲ συλλήβδην περὶ πάντων .
+perseus-eng2	 Had they been merely a few, one might mention them to you separately; but, as it is, I must cover them all in one brief account.
+
+cts:urn:tlg0540.tlg013:62
+glaux2.0-sentence	150
+perseus-grc2	 οἱ μὲν γὰρ στρατηγήσαντες ὑμῖν πολλάκις μείζω τὴν πόλιν τοῖς διαδεχομένοις στρατηγοῖς παρεδίδοσαν ·
+perseus-eng2	 Some had served you several times as generals, and then had handed on the city with added greatness to their successors in authority;
+
+cts:urn:tlg0540.tlg013:63
+glaux2.0-sentence	151
+perseus-grc2	 οἱ δ’ ἑτέρας μεγάλας ἀρχὰς ἄρξαντες καὶ τριηραρχίας πολλὰς τριηραρχήσαντες οὐδεπώποτε ὑφ’ ὑμῶν οὐδεμίαν αἰτίαν αἰσχρὰν ἔσχον .
+perseus-eng2	 some had held other high offices, and had borne the expense of many naval equipments: never before had they met with any disgraceful censure from you.
+
+cts:urn:tlg0540.tlg013:63
+glaux2.0-sentence	152
+perseus-grc2	 οἱ δ’ αὐτῶν περιγενόμενοι καὶ σωθέντες , οὓς οὗτος μὲν ἀπέκτεινεν ὁμοίως καὶ θάνατος αὐτῶν κατεγνώσθη , ἡ δὲ τύχη καὶ ὁ δαίμων περιεποίησε , φυγόντες γὰρ ἐνθένδε καὶ οὐ συλληφθέντες οὐ -δὲ ὑπομείναντες μείναντες τὴν κρίσιν , κατελθόντες ἀπὸ Φυλῆς τιμῶνται ὑφ’ ὑμῶν ὡς ἄνδρες ἀγαθοὶ ὄντες .
+perseus-eng2	 Some of them survived, by having got away in safety; though this man sent them to their death none the less, and they were condemned to die: but fortune and providence delivered them. They fled the city, instead of being arrested and awaiting their trial; they have returned from the exile of Phyle, and are honored by you as worthy men.
+
+cts:urn:tlg0540.tlg013:64
+glaux2.0-sentence	153
+perseus-grc2	 τούτους μέντοι τοιούτους ὄντας Ἀγόρατος τοὺς μὲν ἀπέκτεινε , τοὺς δὲ φυγάδας ἐντεῦθεν ἐποίησε , τίς ὢν αὐτός ;
+perseus-eng2	 Such, you see, was the character of these men whom Agoratus either did to death or sent into exile from the city. And who, then, is he?
+
+cts:urn:tlg0540.tlg013:64
+glaux2.0-sentence	154
+perseus-grc2	 δεῖ γὰρ ὑμᾶς εἰδέναι ὅτι δοῦλος καὶ ἐκ δούλων ἐστίν , ἵν’ εἰδῆτε οἷος ὢν ὑμᾶς ἐλυμαίνετο .
+perseus-eng2	 You must know that he is a slave born and bred, so that you may know what manner of man it was that grossly maltreated you.
+
+cts:urn:tlg0540.tlg013:64
+glaux2.0-sentence	155
+perseus-grc2	 τουτῳὶ μὲν γὰρ πατὴρ ἦν Εὐμάρης , ἐγένετο δὲ ὁ Εὐμάρης οὗτος Νικοκλέους καὶ Ἀντικλέους .
+perseus-eng2	 For the defendant’s father was Eumares, and this Eumares was the property of Nicocles and Anticles.
+
+cts:urn:tlg0540.tlg013:64
+glaux2.0-sentence	156
+perseus-grc2	 καί μοι ἀνάβητε μάρτυρες .
+perseus-eng2	 Come forward, please, witnesses.
+
+cts:urn:tlg0540.tlg013:65
+glaux2.0-sentence	157
+perseus-grc2	 ἦσαν τοίνυν οὗτοι , ὦ ἄνδρες δικασταί , τέτταρες ἀδελφοί .
+perseus-eng2	 Now Agoratus, gentlemen, had three brothers.
+
+cts:urn:tlg0540.tlg013:65
+glaux2.0-sentence	158
+perseus-grc2	 τούτων εἷς μὲν ὁ πρεσβύτατος ἐν Σικελίᾳ παραφρυκτωρευόμενος τοῖς πολεμίοις ληφθεὶς ὑπὸ Λαμάχου ἀπετυμπανίσθη ·
+perseus-eng2	 One of them, the eldest, was caught in Sicily making traitorous signals to the enemy, and by Lamachus’s order he was executed on the plank.
+
+cts:urn:tlg0540.tlg013:65
+glaux2.0-sentence	159
+perseus-grc2	 ὁ δὲ ἕτερος εἰς Κόρινθον μὲν ἐντευθενὶ ἀνδράποδον ἐξήγαγεν , ἐκεῖθεν δὲ παιδίσκην αὖθις ἐξάγων ἁλίσκεται , καὶ ἐν τῷ δεσμωτηρίῳ δεδεμένος ἀπέθανε ·
+perseus-eng2	 The second abducted a slave from our city to Corinth, and was taken in the act of abducting a girl from a household there: he was cast into prison and put to death.
+
+cts:urn:tlg0540.tlg013:66
+glaux2.0-sentence	160
+perseus-grc2	 τὸν δὲ τρίτον Φαινιππίδης ἐνθάδε λωποδύτην ἀπήγαγε , καὶ ὑμεῖς κρίναντες αὐτὸν ἐν τῷ δικαστηρίῳ καὶ καταγνόντες αὐτοῦ θάνατον ἀποτυμπανίσαι παρέδοτε .
+perseus-eng2	 The third was arrested here by Phaenippides as a clothes stealer, and you tried him in your court: you condemned him to death, and consigned him to execution on the plank.
+
+cts:urn:tlg0540.tlg013:66
+glaux2.0-sentence	161
+perseus-grc2	 ὡς δὲ ἀληθῆ λέγω , καὶ αὐτὸν οἶμαι ὁμολογήσειν τοῦτον καὶ μάρτυρας παρεξόμεθα .
+perseus-eng2	 The truth of my statements will, I think, be admitted even by this man himself, and we shall produce witnesses to support them.
+
+cts:urn:tlg0540.tlg013:67
+glaux2.0-sentence	162
+perseus-grc2	 τα- τἆλλα τοίνυν , ὦ ἄνδρες δικασταί , ὅσα κακὰ καὶ αἰσχρὰ καὶ τούτῳ καὶ τοῖς τούτου ἀδελφοῖς ἐπιτετήδευται , πολὺ ἂν εἴη ἔργον λέγειν .
+perseus-eng2	 Now, to tell of all the other injuries and infamies, gentlemen, which have been the practice of this man and his brothers would be a lengthy task.
+
+cts:urn:tlg0540.tlg013:67
+glaux2.0-sentence	163
+perseus-grc2	 περὶ δὲ συκοφαντίας , ὅσας οὗτος ἢ δίκας ἰδίας συκοφαντῶν ἐδικάζετο ἢ γραφὰς ὅσας ἐγράφετο ἢ ἀπογραφὰς ἀπέγραφεν , οὐδὲν με δεῖ καθ’ ἕκαστον λέγειν ·
+perseus-eng2	 As to his trade of slander in all the private suits that he brought, or in the various impeachments and depositions that he made, there is no need for me to speak in detail.
+
+cts:urn:tlg0540.tlg013:67
+glaux2.0-sentence	164
+perseus-grc2	 συλλήβδην γὰρ ὑμεῖς ἅπαντες καὶ ἐν τῷ δήμῳ καὶ ἐν τῷ δικαστηρίῳ συκοφαντίας αὐτοῦ κατέγνωτε καὶ ὦφλεν ὑμῖν μυρίας δραχμάς , ὥστε τοῦτο μὲν ἱκανῶς ὑπὸ ὑμῶν ἁπάντων μεμαρτύρηται .
+perseus-eng2	 To sum the whole, you all in the Assembly, and likewise in the law-court, convicted him of venal slander and made him pay a fine of ten thousand drachmae; so that this point has been sufficiently attested by your whole body.
+
+cts:urn:tlg0540.tlg013:68
+glaux2.0-sentence	165
+perseus-grc2	 γυναῖκας τοίνυν τῶν πολιτῶν τοιοῦτος ὢν μοιχεύειν καὶ διαφθείρειν ἐλευθέρας ἐπεχείρησε , καὶ ἐλήφθη μοιχός ·
+perseus-eng2	 Then again, he attempted, with a character like that, to debauch and defile free-born wives of our citizens, and was taken in adultery;
+
+cts:urn:tlg0540.tlg013:68
+glaux2.0-sentence	166
+perseus-grc2	 καὶ τούτου θάνατος ἡ ζημία ἐστίν .
+perseus-eng2	 and for that the penalty is death.
+
+cts:urn:tlg0540.tlg013:68
+glaux2.0-sentence	167
+perseus-grc2	 ὡς δὲ ἀληθῆ λέγω , μάρτυρας κάλει .
+perseus-eng2	 Call witnesses to the truth of my words.
+
+cts:urn:tlg0540.tlg013:69
+glaux2.0-sentence	168
+perseus-grc2	 πῶς οὖν οὐχ ἅπασι προσήκει ὑμῖν τούτου καταψηφίζεσθαι ;
+perseus-eng2	 Then is it not clearly a duty upon you all to convict this man?
+
+cts:urn:tlg0540.tlg013:69
+glaux2.0-sentence	169
+perseus-grc2	 εἰ γὰρ τούτων ἕκαστος δι’ ἓν ἁμάρτημα θανάτου ἠξιώθη , ἦ που τοῦ γε πολλὰ ἐξημαρτηκότος καὶ δημοσίᾳ εἰς τὴν πόλιν καὶ ἰδίᾳ εἰς ἕκαστον ὑμῶν , ὧν ἑκάστου ἁμαρτήματος ἐν τοῖς νόμοις θάνατος ἡ ζημία ἐστί , δεῖ ὑμᾶς σφόδρα θάνατον αὐτοῦ καταψηφίσασθαι .
+perseus-eng2	 For if each of the brothers was thought deserving of death for a single offence, surely the man who, both publicly against the city and privately against each of you, has committed many offences, for each of which the penalty under our laws is death, must by all means be condemned to death by you.
+
+cts:urn:tlg0540.tlg013:70
+glaux2.0-sentence	170
+perseus-grc2	 λέξει δέ , ὦ ἄνδρες δικασταί , καὶ ἐξαπατῆσαι ὑμᾶς πειράσεται , ὡς ἐπὶ τῶν τετρακοσίων Φρύνιχον ἀπέκτεινε , καὶ ἀντὶ τούτου φησιν αὐτὸν Ἀθηναῖον τὸν δῆμον ποιήσασθαι , ψευδόμενος , ὦ ἄνδρες δικασταί ·
+perseus-eng2	 He will say, gentlemen, attempting to deceive you, that in the time of the Four Hundred he killed Phrynichus, and in reward for this, he asserts, the people made him an Athenian citizen.
+
+cts:urn:tlg0540.tlg013:70
+glaux2.0-sentence	171
+perseus-grc2	 οὔ -τε γὰρ Φρύνιχον ἀπέκτεινεν οὔ -τε Ἀθηναῖον αὐτὸν ὁ δῆμος ἐποιήσατο .
+perseus-eng2	 But he lies, gentlemen. For neither did he kill Phrynichus, nor did the people make him an Athenian citizen.
+
+cts:urn:tlg0540.tlg013:71
+glaux2.0-sentence	172
+perseus-grc2	 Φρυνίχῳ γάρ , ὦ ἄνδρες δικασταί , κοινῇ Θρασύβουλός τε ὁ Καλυδώνιος καὶ Ἀπολλόδωρος ὁ Μεγαρεὺς ἐπεβούλευσαν ·
+perseus-eng2	 It was Thrasybulus of Calydon and Apollodorus of Megara, gentlemen, who combined in a plot against Phrynichus:
+
+cts:urn:tlg0540.tlg013:71
+glaux2.0-sentence	173
+perseus-grc2	 ἐπειδὴ δὲ ἐπετυχέτην αὐτῷ βαδίζοντι , ὁ μὲν Θρασύβουλος τύπτει τὸν Φρύνιχον καὶ καταβάλλει πατάξας , ὁ δὲ Ἀπολλόδωρος οὐχ ἥψατο ·
+perseus-eng2	 they lighted on him as he was out walking, and Thrasybulus struck Phrynichus, knocking him down with the blow; but Apollodorus did not touch him.
+
+cts:urn:tlg0540.tlg013:71
+glaux2.0-sentence	174
+perseus-grc2	 ἀλλ’ ἐν τούτῳ κραυγὴ γίγνεται καὶ ᾤχοντο φεύγοντες .
+perseus-eng2	 Meanwhile an outcry arose, and they ran off and disappeared.
+
+cts:urn:tlg0540.tlg013:71
+glaux2.0-sentence	175
+perseus-grc2	 Ἀγόρατος δὲ οὑτοσὶ οὔ -τε παρεκλήθη οὔ -τε παρεγένετο οὔ -τε οἶδε τοῦ πράγματος οὐδέν .
+perseus-eng2	 But Agoratus here was neither invited to join them nor was present at the deed, nor does he know anything of the matter.
+
+cts:urn:tlg0540.tlg013:71
+glaux2.0-sentence	176
+perseus-grc2	 ὡς δὲ ἀληθῆ λέγω , αὐτὸ ὑμῖν τὸ ψήφισμα δηλώσει .
+perseus-eng2	 The truth of my statement will be shown you by the decree itself.
+
+cts:urn:tlg0540.tlg013:72
+glaux2.0-sentence	177
+perseus-grc2	 ὅτι μὲν οὐκ ἀπέκτεινε Φρύνιχον , ἐξ αὐτοῦ τοῦ ψηφίσματος δῆλον ·
+perseus-eng2	 That he did not kill Phrynichus is clear from the decree itself:
+
+cts:urn:tlg0540.tlg013:72
+glaux2.0-sentence	178
+perseus-grc2	 οὐδαμοῦ γάρ ἐστιν " Ἀγόρατον Ἀθηναῖον εἶναι " ὥσπερ Θρασύβουλον καὶ Ἀπολλόδωρον .
+perseus-eng2	 for nowhere do we find that Agoratus be an Athenian, as in the case of Thrasybulus.
+
+cts:urn:tlg0540.tlg013:72
+glaux2.0-sentence	179
+perseus-grc2	 καίτοι εἴπερ ἀπέκτεινε Φρύνιχον , ἔδει αὐτὸν ἐν τῇ αὐτῇ στήλῃ , ἵνα περ Θρασύβουλον καὶ Ἀπολλόδωρον , Ἀθηναῖον πεποιημένον ἐγγεγράφθαι ·
+perseus-eng2	 If, however, he had killed Phrynichus, he ought to appear as having been made an Athenian in the inscription on the same tablet as Thrasybulus does;
+
+cts:urn:tlg0540.tlg013:72
+glaux2.0-sentence	180
+perseus-grc2	 τὰ μέντοι ὀνόματα διαπράττονται σφῶν αὐτῶν , δόντες ἀργύριον τῷ ῥήτορι , προσγραφῆναι εἰς τὴν στήλην ὡς εὐεργέτας ὄντας .
+perseus-eng2	 though some do contrive, by bribing the proposer, to have their own names added to the tablet as benefactors.
+
+cts:urn:tlg0540.tlg013:72
+glaux2.0-sentence	181
+perseus-grc2	 καὶ ὡς ἀληθῆ λέγω , τοῦτο τὸ ψήφισμα ἐλέγξει .
+perseus-eng2	 The truth of my words will be proved by this decree.
+
+cts:urn:tlg0540.tlg013:73
+glaux2.0-sentence	182
+perseus-grc2	 οὕτω μέντοι οὑτοσὶ πολὺ ὑμῶν κατεφρόνει , ὥστε οὐκ ὢν Ἀθηναῖος καὶ ἐδίκαζε καὶ ἠκκλησίαζε καὶ γραφὰς τὰς ἐξ ἀνθρώπων ἐγράφετο , ἐπιγραφόμενος Ἀναγυράσιος , εἶναι .
+perseus-eng2	 But yet, this man had so much contempt for you that although he was not an Athenian he took his seat in the law-court, and in the Assembly, and made impeachments of every conceivable kind, giving in his name with the addition — of Anagyra.
+
+cts:urn:tlg0540.tlg013:73
+glaux2.0-sentence	183
+perseus-grc2	 ἔπειτα δὲ καὶ ἕτερον μέγα τεκμήριον ὡς οὐκ ἂν ἀπέκτεινε Φρύνιχον , δι’ ὃ Ἀθηναῖός φησι γεγενῆσθαι .
+perseus-eng2	 And besides, I have further good evidence against his having killed Phrynichus, — an act for which he claims to have been made an Athenian:
+
+cts:urn:tlg0540.tlg013:73
+glaux2.0-sentence	184
+perseus-grc2	 ὁ Φρύνιχος γὰρ οὗτος τοὺς τετρακοσίους κατέστησεν ·
+perseus-eng2	 this Phrynichus established the Four Hundred;
+
+cts:urn:tlg0540.tlg013:73
+glaux2.0-sentence	185
+perseus-grc2	 ἐπειδὴ δ’ ἐκεῖνος ἀπέθανεν , οἱ πολλοὶ τῶν τετρακοσίων ἔφυγον .
+perseus-eng2	 after his death, most of the Four Hundred fled.
+
+cts:urn:tlg0540.tlg013:74
+glaux2.0-sentence	186
+perseus-grc2	 πότερον οὖν δοκοῦσιν ὑμῖν οἱ τριάκοντα καὶ ἡ βουλὴ ἡ τότε βουλεύουσα , οἳ αὐτοὶ ἦσαν ἅπαντες τῶν τετρακοσίων τῶν φυγόντων , ἀφεῖναι ἂν λαβόντες τὸν Φρύνιχον ἀποκτείναντα , ἢ τιμωρήσασθαι ὑπὲρ Φρυνίχου καὶ τῆς φυγῆς ἧς αὐτοὶ ἔφυγον ;
+perseus-eng2	 Do you then believe that the Thirty and the Council in session at that time, who were themselves all members of the Four Hundred who had fled, would have let off the slayer of Phrynichus when they had hold of him, instead of taking vengeance on him for Phrynichus and the exile they had suffered?
+
+cts:urn:tlg0540.tlg013:75
+glaux2.0-sentence	187
+perseus-grc2	 ἐγὼ μὲν οἶμαι τιμωρεῖσθαι ἄν .
+perseus-eng2	 In my opinion, they would have taken vengeance on him.
+
+cts:urn:tlg0540.tlg013:75
+glaux2.0-sentence	188
+perseus-grc2	 εἰ μὲν οὖν μὴ ἀποκτείνας προσποιεῖται , ὡς ἐγώ φημι , ἀδικεῖ ·
+perseus-eng2	 Now, if he is pretending, as I assert, to be the slayer of Phrynichus when he is not, he is guilty there;
+
+cts:urn:tlg0540.tlg013:75
+glaux2.0-sentence	189
+perseus-grc2	 εἰ δὲ ἀμφισβητεῖς καὶ φῂς Φρύνιχον ἀποκτεῖναι , δῆλον ὅτι μείζω τὸν δῆμον τὸν Ἀθηναίων κακὰ ποιήσας τὴν ὑπὲρ Φρυνίχου αἰτίαν πρὸς τοὺς τριάκοντα ἀπελύσω ·
+perseus-eng2	 while if you, sir, dispute this, and declare that you did kill Phrynichus, it is evident that you must have done yet greater injuries to the Athenian people so as to redeem, in the eyes of the Thirty, the blame for Phrynichus’s death.
+
+cts:urn:tlg0540.tlg013:75
+glaux2.0-sentence	190
+perseus-grc2	 οὐδέποτε γὰρ πείσεις οὐδένα ἀνθρώπων ὡς Φρύνιχον ἀποκτείνας ἀφείθης ἂν ὑπὸ τῶν τριάκοντα , εἰ μὴ μεγάλα τὸν δῆμον τὸν Ἀθηναίων καὶ ἀνήκεστα κακὰ εἰργάσω .
+perseus-eng2	 For you will never persuade anyone at all that after killing Phrynichus you would have been let off by the Thirty, unless you had inflicted great and irremediable injuries upon the Athenian people.
+
+cts:urn:tlg0540.tlg013:76
+glaux2.0-sentence	191
+perseus-grc2	 ἐὰν μὲν οὖν φάσκῃ Φρύνιχον ἀποκτεῖναι , τούτων μέμνησθε καὶ τοῦτον τιμωρεῖσθε ἀνθ’ ὧν ἐποίησεν ·
+perseus-eng2	 Hence, if he asserts that he killed Phrynichus, remember my words and take vengeance on this man for what he has done:
+
+cts:urn:tlg0540.tlg013:76
+glaux2.0-sentence	192
+perseus-grc2	 ἐὰν δ’ οὐ φάσκῃ , ἔρεσθε αὐτὸν δι’ ὅ τι φησὶν Ἀθηναῖος ποιηθῆναι .
+perseus-eng2	 if he disclaims it, ask him on what grounds he alleges that he was made an Athenian.
+
+cts:urn:tlg0540.tlg013:76
+glaux2.0-sentence	193
+perseus-grc2	 ἐὰν δὲ μὴ ἔχῃ ἀποδεῖξαι , τιμωρεῖσθε αὐτὸν ὅτι καὶ ἐδίκαζε καὶ ἠκκλησίαζε καὶ ἐσυκοφάντει πολλοὺς ὡς Ἀθηναῖος το- τοὔνομα ἐπιγραφόμενος .
+perseus-eng2	 If he fails to prove it, punish him for making use of his assumed title of Athenian to sit in both law-court and Assembly, and to bring slanderous charges against so many persons.
+
+cts:urn:tlg0540.tlg013:77
+glaux2.0-sentence	194
+perseus-grc2	 ἀκούω δὲ αὐτὸν παρασκευάζεσθαι ἀπολογεῖσθαι , ὡς ἐπὶ Φυλήν τε ᾤχετο καὶ συγκατῆλφεν ἀπὸ Φυλῆς , καὶ τοῦτο μέγιστον ἀγώνισμα εἶναι .
+perseus-eng2	 I am told that he is concocting for his defence the plea that he went off to Phyle, and was in the party that returned from Phyle, and that this is the mainstay of his case.
+
+cts:urn:tlg0540.tlg013:77
+glaux2.0-sentence	195
+perseus-grc2	 ἐγένετο δὲ τοιοῦτον ·
+perseus-eng2	 But the facts were as I shall relate.
+
+cts:urn:tlg0540.tlg013:77
+glaux2.0-sentence	196
+perseus-grc2	 ἦλθεν οὗτος ἐπὶ Φυλήν ·
+perseus-eng2	 This man did go to Phyle;
+
+cts:urn:tlg0540.tlg013:77
+glaux2.0-sentence	197
+perseus-grc2	 καίτοι πῶς ἂν γένοιτο ἄνθρωπος μιαρώτερος ;
+perseus-eng2	 yet, could there be an example of more abject vileness?
+
+cts:urn:tlg0540.tlg013:77
+glaux2.0-sentence	198
+perseus-grc2	 ὅστις εἰδὼς ὅτι εἰσί τινες ἐπὶ Φυλῇ τῶν ὑπὸ τούτου ἐκπεπτωκότων ἐτόλμησεν ἐλθεῖν ὡς τούτους .
+perseus-eng2	 For he knew that at Phyle there were some of those who had been banished by him, and he had the face to approach them!
+
+cts:urn:tlg0540.tlg013:78
+glaux2.0-sentence	199
+perseus-grc2	 ἐπειδὴ δὲ εἶδον αὐτὸν τάχιστα , συλλαβόντες ἄγουσιν ἄντικρυς ὡς ἀποκτενοῦντες , οὗπερ καὶ τοὺς ἄλλους ἀπέσφαττον , εἴ τινα λῃστὴν ἢ κακοῦργον συλλάβοιεν .
+perseus-eng2	 As soon as they saw him they laid hold of him and dragged him straight away to be killed in the place where they executed ordinary pirates or robbers that fell into their hands.
+
+cts:urn:tlg0540.tlg013:78
+glaux2.0-sentence	200
+perseus-grc2	 στρατηγῶν δὲ Ἄνυτος ἐπὶ Φυλὴν οὐκ ἔφη χρῆναι ποιεῖν αὐτοὺς ταῦτα , λέγων ὅτι οὔπω οὕτω διακέοιντο , ὥστε τιμωρεῖσθαί τινας τῶν ἐχθρῶν , ἀλλὰ νῦν μὲν δεῖν αὐτοὺς ἡσυχίαν ἔχειν .
+perseus-eng2	 Anytus, who was the general, said that they ought not to do that, on the ground that they were not yet in a position to punish certain of their enemies: at that moment they should rather keep quiet.
+
+cts:urn:tlg0540.tlg013:78
+glaux2.0-sentence	201
+perseus-grc2	 εἰ δέ ποτε οἴκαδε κατέλθοιεν , τότε καὶ τιμωρήσοιντο τοὺς ἀδικοῦντας .
+perseus-eng2	 If ever they returned home, they would then proceed to punish the guilty.
+
+cts:urn:tlg0540.tlg013:79
+glaux2.0-sentence	202
+perseus-grc2	 ταῦτα λέγων αἴτιος ἐγένετο τοῦ ἀποφυγεῖν τοῦτον ἐπὶ Φυλῇ ·
+perseus-eng2	 By that speech he was the cause of this man’s escape at Phyle:
+
+cts:urn:tlg0540.tlg013:79
+glaux2.0-sentence	203
+perseus-grc2	 ἀνάγκη δὲ ἦν στρατηγοῦ ἀνδρὸς ἀκροᾶσθαι , εἴπερ ἔμελλον σωθήσεσθαι .
+perseus-eng2	 it was necessary to obey a man in the position of general, if they were to preserve themselves.
+
+cts:urn:tlg0540.tlg013:79
+glaux2.0-sentence	204
+perseus-grc2	 ἀλλ’ ἕτερον ·
+perseus-eng2	 Nay, further,
+
+cts:urn:tlg0540.tlg013:79
+glaux2.0-sentence	205
+perseus-grc2	 οὔ -τε γὰρ συσσιτήσας τούτῳ οὐδεὶς φανήσεται οὔ -τε σύσκηνος γενόμενος οὔ -τε ὁ ταξίαρχος εἰς τὴν φυλὴν κατατάξας , ἀλλ’ ὥσπερ ἀλιτηρίῳ οὐδεὶς ἀνθρώπων αὐτῷ διελέγετο .
+perseus-eng2	 you will find no one who has shared either this man’s table or his tent, nor did the commander assign him a place in his tribe; to all he was a polluted person with whom they would not talk.
+
+cts:urn:tlg0540.tlg013:79
+glaux2.0-sentence	206
+perseus-grc2	 καί μοι κάλει τὸν ταξίαρχον .
+perseus-eng2	 Please call the commander.
+
+cts:urn:tlg0540.tlg013:80
+glaux2.0-sentence	207
+perseus-grc2	 ἐπειδὴ δὲ αἱ διαλλαγαὶ πρὸς ἀλλήλους ἐγένοντο καὶ ἔπεμψαν οἱ πολῖται ἐκ Πειραιῶς τὴν πομπὴν εἰς πόλιν , ἡγεῖτο μὲν Αἴσιμος τῶν πολιτῶν , οὗτος δὲ οὕτω τολμηρὸς καὶ ἐκεῖ ἐγένετο ·
+perseus-eng2	 When they had reached their mutual agreement, and the Peiraeus party made their procession to the citadel, they were led by Aesimus; but there too this man showed similar audacity.
+
+cts:urn:tlg0540.tlg013:80
+glaux2.0-sentence	208
+perseus-grc2	 συνηκολούθει γὰρ λαβὼν τὰ ὅπλα καὶ συνέπεμπε τὴν πομπὴν μετὰ τῶν ὁπλιτῶν πρὸς τὸ ἄστυ .
+perseus-eng2	 For he followed along under arms, joining in the procession with the heavy-armed men to the city.
+
+cts:urn:tlg0540.tlg013:81
+glaux2.0-sentence	209
+perseus-grc2	 ἐπειδὴ δὲ πρὸς ταῖς πύλαις ἦσαν καὶ ἔθεντο τὰ ὅπλα , πρὶν εἰσιέναι εἰς τὸ ἄστυ , ὁ μὲν Αἴσιμος αἰσθάνεται καὶ προσελθὼν τήν τε ἀσπίδα αὐτοῦ λαβὼν ἔρριψε , καὶ ἀπιέναι ἐκέλευσεν ἐς κόρακας ἐκ τῶν πολιτῶν .
+perseus-eng2	 But when they were close to the gates, and grounded arms before entering the city, Aesimus perceived him and went up to him, seized his shield, and flung it away, with the order — Be off, crows’ meat!
+
+cts:urn:tlg0540.tlg013:81
+glaux2.0-sentence	210
+perseus-grc2	 οὐ γὰρ ἔφη δεῖν ἀνδροφόνον αὐτὸν ὄντα συμπέμπειν τὴν πομπὴν τῇ Ἀθηνᾷ .
+perseus-eng2	 A murderer like you must not join in the procession to Athene.
+
+cts:urn:tlg0540.tlg013:81
+glaux2.0-sentence	211
+perseus-grc2	 τούτῳ τῷ τρόπῳ ὑπὸ Αἰσίμου ἀπηλάθη .
+perseus-eng2	 This was the way in which he was driven off by Aesimus;
+
+cts:urn:tlg0540.tlg013:81
+glaux2.0-sentence	212
+perseus-grc2	 ὡς δ’ ἀληθῆ λέγω , μάρτυρας παρέξομαι .
+perseus-eng2	 and I will produce witnesses to the truth of my statement.
+
+cts:urn:tlg0540.tlg013:82
+glaux2.0-sentence	213
+perseus-grc2	 τούτῳ τῷ τρόπῳ , ὦ ἄνδρες δικασταί , καὶ ἐπὶ Φυλῇ καὶ ἐν Πειραιεῖ πρὸς τοὺς ὁπλίτας διέκειτο ·
+perseus-eng2	 These were the real relations, gentlemen, that he had with the heavy-armed troops, both at Phyle and in the Peiraeus.
+
+cts:urn:tlg0540.tlg013:82
+glaux2.0-sentence	214
+perseus-grc2	 οὐδεὶς γὰρ αὐτῷ διελέγετο ὡς ἀνδροφόνῳ ὄντι , τοῦ τε μὴ ἀποθανεῖν Ἄνυτος ἐγένετο αὐτῷ αἴτιος .
+perseus-eng2	 Nobody would speak to him, as a known murderer, and Anytus was the cause of his escape from death.
+
+cts:urn:tlg0540.tlg013:82
+glaux2.0-sentence	215
+perseus-grc2	 ἐὰν οὖν τῇ ἐπὶ Φυλὴν ὁδῷ ἀπολογίᾳ χρῆται , ὑπολαμβάνειν χρὴ εἰ Ἄνυτος αὐτῷ ἐγένετο αἴτιος μὴ ἀποθανεῖν ἑτοίμων ὄντων τιμωρεῖσθαι , καὶ ἔρριψεν αὐτοῦ Αἴσιμος τὴν ἀσπίδα καὶ οὐκ εἴα μετὰ τῶν πολιτῶν συμπέμπειν τὴν πομπήν , καὶ εἴ τις αὐτὸν ταξίαρχος εἰς τάξιν τινὰ κατέταξε .
+perseus-eng2	 If, therefore, he makes use of his journey to Phyle as a plea in his defence, you must retort with the question whether Anytus was the cause of his escape from death when they were ready to do justice upon him, and whether Aesimus flung away his shield and forbade him to join in the procession.
+
+cts:urn:tlg0540.tlg013:83
+glaux2.0-sentence	216
+perseus-grc2	 μή -τε οὖν ταῦτα αὐτοῦ ἀποδέχεσθε , μή -τ’ ἐὰν λέγῃ ὅτι πολλῷ χρόνῳ ὕστερον τιμωρούμεθα .
+perseus-eng2	 You must not accept that plea from him, nor this one either, if he should urge it, — that we are exacting the penalty a long time after the offence.
+
+cts:urn:tlg0540.tlg013:83
+glaux2.0-sentence	217
+perseus-grc2	 οὐ γὰρ οἶμαι οὐδεμίαν τῶν τοιούτων ἀδικημάτων προθεσμίαν εἶναι , ἀλλ’ ἐγὼ μὲν οἶμαι , εἴ -τ’ εὐθὺς εἴ -τε χρόνῳ τις τιμωρεῖται , τοῦτον δεῖν ἀποδεικνύναι ὡς οὐ πεποίηκε περὶ ὧν ἐστιν ἡ αἰτία .
+perseus-eng2	 For I do not think there is any statute of limitations for such crimes as his: my opinion rather is that, whether brought to his account immediately or after some time, this man must prove that he has not done the things that form the subject of the charge.
+
+cts:urn:tlg0540.tlg013:84
+glaux2.0-sentence	218
+perseus-grc2	 οὗτος τοίνυν τοῦτο ἀποφαινέτω , ἢ ὡς οὐκ ἀπέκτεινεν ἐκείνους ἢ ὡς δικαίως , κακόν τι ποιοῦντας τὸν δῆμον τὸν Ἀθηναίων .
+perseus-eng2	 Let him therefore satisfy us, either that he did not cause the death of those men, or that he did so with justice because they were doing a mischief to the Athenian people.
+
+cts:urn:tlg0540.tlg013:84
+glaux2.0-sentence	219
+perseus-grc2	 εἰ δὲ πάλαι δέον τιμωρεῖσθαι ὕστερον ἡμεῖς τιμωρούμεθα , τὸν χρόνον κερδαίνει ὃν ἔζη οὐ προσῆκον αὐτῷ , οἱ δὲ ἄνδρες ὑπὸ τούτου οὐδὲν ἧττον τεθνήκασιν .
+perseus-eng2	 But if we are late in punishing where we ought to have punished long ago, he is a gainer by the time in which he lived illicitly, while those men have none the less suffered death by his act.
+
+cts:urn:tlg0540.tlg013:85
+glaux2.0-sentence	220
+perseus-grc2	 ἀκούω δ’ αὐτὸν καὶ τούτῳ διισχυρίζεσθαι , ὅτι " ἐπ’ αὐτοφώρῳ " τῇ ἀπαγωγῇ ἐπιγέγραπται , ὃ πάντων ἐγὼ οἶμαι εὐηθέστατον ·
+perseus-eng2	 I am told that he also takes his stand on the plea that the words in the act appear in the warrant for arrest; but this, I consider, is utter imbecility.
+
+cts:urn:tlg0540.tlg013:85
+glaux2.0-sentence	221
+perseus-grc2	 ὡς εἰ μὲν τὸ ἐπ’ αὐτοφώρῳ μὴ προσεγέγραπτο , ἔνοχος ἂν ὢν τῇ ἀπαγωγῇ ·
+perseus-eng2	 So, without the addition of the words in the act, he would be liable to the arrest;
+
+cts:urn:tlg0540.tlg013:85
+glaux2.0-sentence	222
+perseus-grc2	 διότι δὲ τοῦτο προσγέγραπται , ἔνοχος ὢν ῥᾳστώνην τινὰ οἴεται αὑτῷ εἶναι .
+perseus-eng2	 but just because the words have been added, he thinks he can extricate himself!
+
+cts:urn:tlg0540.tlg013:85
+glaux2.0-sentence	223
+perseus-grc2	 τοῦτο δὲ οὐδὲν ἄλλο ἔοικεν ἢ ὁμολογεῖν ἀποκτεῖναι , μὴ ἐπ’ αὐτοφώρῳ δέ , καὶ περὶ τούτου διισχυρίζεσθαι , ὥσπερ , εἰ μὴ ἐπ’ αὐτοφώρῳ μέν , ἀπέκτεινε δέ , τούτου ἕνεκα δέον αὐτὸν σῴζεσθαι .
+perseus-eng2	 This simply amounts, it would seem, to an admission that he has killed, but has not been taken in the act; and to insist on that is to imply that, if he was not taken in the act, but did the killing, he ought therefore to escape.
+
+cts:urn:tlg0540.tlg013:86
+glaux2.0-sentence	224
+perseus-grc2	 δοκοῦσι δ’ ἔμοιγε οἱ ἕνδεκα οἱ παραδεξάμενοι τὴν ἀπαγωγὴν ταύτην , οὐκ οἰόμενοι Ἀγοράτῳ συμπράττειν καὶ τότε διισχυριζομένῳ , σφόδρα ὀρθῶς ποιῆσαι Διονύσιον τὴν ἀπαγωγὴν ἀπάγοντ’ ἀναγκάζοντες τό γε προσγράψασθαι ἐπ’ αὐτοφώρῳ ·
+perseus-eng2	 But, in my view, the Eleven who authorized this arrest, without a thought of supporting Agoratus’s plea, — on which he was even then insisting, — were quite correct in compelling Dionysius, who sought the warrant for arrest, to add the words in the act:
+
+cts:urn:tlg0540.tlg013:86
+glaux2.0-sentence	225
+perseus-grc2	 ἢ πῶς οὐκ ἂν εἴη ὃς πρῶτον μὲν ἐναντίον πεντακοσίων ἐν τῇ βουλῇ , εἶτα πάλιν ἐναντίον Ἀθηναίων ἁπάντων ἐν τῷ δήμῳ ἀπογράψας τινὰς ἀποκτείνειε καὶ αἴτιος γένοιτο τοῦ θανάτου ;
+perseus-eng2	 surely that must be so, in dealing with a man who, first before five hundred, and then again before the whole body of the Athenians, made depositions whereby he took the lives of some of them, and thus was responsible for their death.
+
+cts:urn:tlg0540.tlg013:87
+glaux2.0-sentence	226
+perseus-grc2	 οὐ γὰρ δήπου τοῦτο μόνον οἴει τὸ ἐπ’ αὐτοφώρῳ , ἐάν τις ξύλῳ ἢ μαχαίρᾳ πατάξας καταβάλῃ , ἐπεὶ ἔκ γε τοῦ σοῦ λόγου οὐδεὶς φανήσεται ἀποκτείνας τοὺς ἄνδρας οὓς σὺ ἀπέγραψας ·
+perseus-eng2	 For you cannot of course suppose that in the act only applies to a man felled with the stroke of a club or a dagger; since, by your argument, nobody will be found to have actually killed the men against whom you deposed.
+
+cts:urn:tlg0540.tlg013:87
+glaux2.0-sentence	227
+perseus-grc2	 οὔ -τε γὰρ ἐπάταξεν αὐτοὺς οὐδεὶς οὔ -τ’ ἀπέσφαξεν , ἀλλ’ ἀναγκασθέντες ὑπὸ τῆς σῆς ἀπογραφῆς ἀπέθανον .
+perseus-eng2	 For no one either struck them or assassinated them, but your deposition had the effect of compelling them to die.
+
+cts:urn:tlg0540.tlg013:87
+glaux2.0-sentence	228
+perseus-grc2	 οὐκ οὖν ὁ αἴτιος τοῦ θανάτου , οὗτος ἐπ’ αὐτοφώρῳ ἐστί ;
+perseus-eng2	 Then is not the author of their death a person caught in the act?
+
+cts:urn:tlg0540.tlg013:87
+glaux2.0-sentence	229
+perseus-grc2	 τίς οὖν ἄλλος αἴτιος ἢ σὺ ἀπογράψας ;
+perseus-eng2	 Now, who can be that author but you, who made the depositions?
+
+cts:urn:tlg0540.tlg013:87
+glaux2.0-sentence	230
+perseus-grc2	 ὥστε πῶς οὐκ ἐπ’ αὐτοφώρῳ σὺ εἶ ὁ ἀποκτείνας ;
+perseus-eng2	 So clearly you, who killed them, have been caught in the act.
+
+cts:urn:tlg0540.tlg013:88
+glaux2.0-sentence	231
+perseus-grc2	 πυνθάνομαι δ’ αὐτὸν καὶ περὶ τῶν ὅρκων καὶ περὶ τῶν συνθηκῶν μέλλειν λέγειν , ὡς παρὰ τοὺς ὅρκους καὶ τὰς συνθήκας ἀγωνίζεται ἃς συνεθέμεθα πρὸς τοὺς ἐν ἄστει οἱ ἐν τῷ Πειραιεῖ .
+perseus-eng2	 I understand that he intends to refer to the oaths and agreements, and will tell us that his prosecution is a violation of the oaths and agreements that we of the Peiraeus contracted with the party of the town.
+
+cts:urn:tlg0540.tlg013:88
+glaux2.0-sentence	232
+perseus-grc2	 σχεδὸν μὲν οὖν τούτοις ἰσχυριζόμενος ὁμολογεῖ ἀνδροφόνος εἶναι ·
+perseus-eng2	 Well, if he takes his stand on these, he practically admits that he is a murderer:
+
+cts:urn:tlg0540.tlg013:88
+glaux2.0-sentence	233
+perseus-grc2	 ἐμποδὼν γοῦν ἢ ὅρκους ἢ συνθήκας ἢ χρόνον ἢ τὸ ἐπ’ αὐτοφώρῳ τι ποιεῖται , αὐτῷ δὲ τῷ πράγματι οὔ τι πιστεύει καλῶς ἀγωνιεῖσθαι .
+perseus-eng2	 at least, he makes an objection of oaths, or agreements, or lapse of time, or the words in the act; but in itself the case affords him no confidence of success in his trial.
+
+cts:urn:tlg0540.tlg013:89
+glaux2.0-sentence	234
+perseus-grc2	 ὑμῖν δέ , ὦ ἄνδρες δικασταί , οὐ προσήκει περὶ τούτων ἀποδέχεσθαι ·
+perseus-eng2	 Your duty, gentlemen of the jury, is to reject these arguments:
+
+cts:urn:tlg0540.tlg013:89
+glaux2.0-sentence	235
+perseus-grc2	 ἀλλ’ ὡς οὐκ ἀπέγραψεν οὐ -δὲ οἱ ἄνδρες τεθνᾶσι , περὶ τούτων κελεύετε αὐτὸν ἀπολογεῖσθαι .
+perseus-eng2	 you must bid him direct his defence to these questions — Did he make no depositions? Are those men not dead?
+
+cts:urn:tlg0540.tlg013:89
+glaux2.0-sentence	236
+perseus-grc2	 ἔπειτα τοὺς ὅρκους καὶ τὰς συνθήκας οὐδὲν ἡγοῦμαι προσήκειν ἡμῖν πρὸς τοῦτον .
+perseus-eng2	 Besides, I consider that the oaths and agreements in no way affect our position regarding this man.
+
+cts:urn:tlg0540.tlg013:89
+glaux2.0-sentence	237
+perseus-grc2	 οἱ γὰρ ὅρκοι τοῖς ἐν ἄστει πρὸς τοὺς ἐν Πειραιεῖ γεγένηνται .
+perseus-eng2	 For the oaths have been taken between the parties of the town and of the Peiraeus.
+
+cts:urn:tlg0540.tlg013:90
+glaux2.0-sentence	238
+perseus-grc2	 εἰ μὲν οὖν οὗτος μὲν ἐν ἄστει ἡμεῖς δ’ ἐν Πειραιεῖ ἦμεν , εἶχον ἄν τινα λόγον αὐτῷ αἱ συνθῆκαι ·
+perseus-eng2	 If indeed, he was in the town while we were in the Peiraeus, the agreements would have been something for him to count upon;
+
+cts:urn:tlg0540.tlg013:90
+glaux2.0-sentence	239
+perseus-grc2	 νῦν δὲ καὶ οὗτος ἐν Πειραιεῖ ἦν καὶ ἐγὼ καὶ Διονύσιος καὶ οὗτοι ἅπαντες οἱ τοῦτον τιμωρούμενοι , ὥστε οὔκ εἰσιν ἡμῖν ἐμποδὼν οὐδέν ·
+perseus-eng2	 but the truth is that he was in the Peiraeus, like me and Dionysius and all these persons who are for punishing the man, so that we are faced with no objection there.
+
+cts:urn:tlg0540.tlg013:90
+glaux2.0-sentence	240
+perseus-grc2	 οὐδένα γὰρ ὅρκον οἱ ἐν Πειραιεῖ τοῖς ἐν Πειραιεῖ ὤμοσαν .
+perseus-eng2	 For there was no oath taken between the men of the Peiraeus and the men of the Peiraeus.
+
+cts:urn:tlg0540.tlg013:91
+glaux2.0-sentence	241
+perseus-grc2	 ἐκ παντὸς δὲ τρόπου ἔμοιγε δοκεῖ οὐχ ἑνὸς θανάτου ἄξιος εἶναι , ὅστις φησὶ μὲν ὑπὸ τοῦ δήμου πεποιῆσθαι , τὸν δὲ δῆμον , ὃν αὐτός φησι πατέρα αὑτοῦ εἶναι , φαίνεται κακώσας , καθυφεὶς καὶ προδοὺς ἐξ ὧν ἐκεῖνος μείζων καὶ ἰσχυρότερος ἐγίγνετο .
+perseus-eng2	 In every view, I consider, he deserves more deaths than one; for the same man who says that the people have made him one of them is found to have injured the people whom he himself calls his father, by treacherously sapping the resources that they had for advancing their greatness and strength.
+
+cts:urn:tlg0540.tlg013:91
+glaux2.0-sentence	242
+perseus-grc2	 ὅστις οὖν τόν τε γόνῳ πατέρα τὸν αὑτοῦ ἔτυπτε καὶ οὐδὲν παρεῖχε τῶν ἐπιτηδείων , τόν τε ποιητὸν πατέρα ἀφείλετο ἃ ἦν ὑπάρχοντα ἐκείνῳ ἀγαθά , πῶς οὐ καὶ διὰ τοῦτο κατὰ τὸν τῆς κακώσεως νόμον ἄξιός ἐστι θανάτῳ ζημιωθῆναι ;
+perseus-eng2	 Therefore, just as much as the man who struck his own natural father and denied him all necessaries of life, he who robbed his adoptive father of the means that he possessed is certainly, on this one score, as provided by the law of such maltreatment, deserving of the penalty of death.
+
+cts:urn:tlg0540.tlg013:92
+glaux2.0-sentence	243
+perseus-grc2	 προσήκει δ’ ὑμῖν , ὦ ἄνδρες δικασταί , ἅπασι τιμωρεῖν ὑπὲρ ἐκείνων τῶν ἀνδρῶν ὁμοίως ὥσπερ ἡμῶν ἑνὶ ἑκάστῳ .
+perseus-eng2	 It is the duty of you all, gentlemen, as it is of each one of us, to avenge those men.
+
+cts:urn:tlg0540.tlg013:92
+glaux2.0-sentence	244
+perseus-grc2	 ἀποθνῄσκοντες γὰρ ὑμῖν ἐπέσκηψαν καὶ ἡμῖν καὶ τοῖς φίλοις ἅπασι τιμωρεῖν ὑπὲρ σφῶν αὐτῶν Ἀγόρατον τουτονὶ ὡς φονέα ὄντα , καὶ κακῶς ποιεῖν καθ’ ὅσον ἂν ἔμβραχυ ἕκαστος δύνηται .
+perseus-eng2	 For it was their dying injunction both to us and to all their friends, that we should avenge them on this man Agoratus as their murderer, and do him, in a word, all the injury of which each of us is capable.
+
+cts:urn:tlg0540.tlg013:92
+glaux2.0-sentence	245
+perseus-grc2	 εἰ τοίνυν τι ἐκεῖνοι ἀγαθὸν τὴν πόλιν ἢ τὸ πλῆθος τὸ ὑμέτερον φανεροί εἰσι πεποιηκότες , ὃ καὶ αὐτοὶ ὑμεῖς ὁμολογεῖτε , ἀνάγκη ὑμᾶς ἐστι πάντας ἐκείνοις φίλους καὶ ἐπιτηδείους εἶναι , ὥστε οὐδὲν μᾶλλον ἡμῖν ἢ καὶ ὑμῶν ἑνὶ ἑκάστῳ ἐπέσκηψαν .
+perseus-eng2	 Now, if they have manifestly done some good service to the city or your democracy, as you yourselves acknowledge, it must follow that you all are friends and intimates of theirs, so that they enjoined this on each of you no less than on us.
+
+cts:urn:tlg0540.tlg013:93
+glaux2.0-sentence	246
+perseus-grc2	 οὔκουν οὔ -τε ὅσιον οὔ -τε νόμιμον ὑμῖν ἐστιν ἀνεῖναι Ἀγόρατον τουτονί .
+perseus-eng2	 Hence it would be impious as well as illegal for you to absolve this man Agoratus.
+
+cts:urn:tlg0540.tlg013:93
+glaux2.0-sentence	247
+perseus-grc2	 ὑμεῖς τοίνυν , ὦ ἄνδρες Ἀθηναῖοι , νυνὶ δή , ἐπεὶ ἐν τῷ τότε χρόνῳ , ἐν ᾧ ἐκεῖνοι ἀπέθνῃσκον , οὐχ οἷοί τε ἦστε ἐπαρκέσαι διὰ τὰ πράγματα τὰ περιεστηκότα , νυνί , ἐν ᾧ δύνασθε , τιμωρήσατε τὸν ἐκείνων φονέα .
+perseus-eng2	 And now it is for you, men of Athens, today, — since at that moment when they were to die you were unable to come to their aid because of the embarrassments of your situation, — today, when you are able, to punish their murderer.
+
+cts:urn:tlg0540.tlg013:93
+glaux2.0-sentence	248
+perseus-grc2	 ἐνθυμεῖσθε δ’ , ὦ ἄνδρες Ἀθηναῖοι , ὅπως μὴ πάντων ἔργον σχετλιώτατον ἐργάσησθε .
+perseus-eng2	 And take heed, men of Athens, lest you commit the most abominable act of all.
+
+cts:urn:tlg0540.tlg013:93
+glaux2.0-sentence	249
+perseus-grc2	 εἰ γὰρ ἀποψηφιεῖσθε Ἀγοράτου τουτουί , οὐ μόνον τοῦτο διαπράττεσθε , ἀλλὰ καὶ ἐκείνων τῶν ἀνδρῶν , οὓς ὁμολογεῖτε ὑμῖν εὔνους εἶναι , τῇ αὐτῇ ψήφῳ ταύτῃ θάνατον καταψηφίζεσθε ·
