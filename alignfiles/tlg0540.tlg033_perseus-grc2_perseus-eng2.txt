@@ -58,3 +58,28 @@ cts:urn:tlg0540.tlg033:7
 glaux2.0-sentence	12
 perseus-grc2	 θαυμάζω δὲ Λακεδαιμονίους πάντων μάλιστα , τίνι ποτὲ γνώμῃ χρώμενοι καομένην τὴν Ἑλλάδα περιορῶσιν , ἡγεμόνες ὄντες τῶν Ἑλλήνων οὐκ ἀδίκως , καὶ διὰ τὴν ἔμφυτον ἀρετὴν καὶ διὰ τὴν πρὸς τὸν πόλεμον ἐπιστήμην , μόνοι δὲ οἰκοῦντες ἀπόρθητοι καὶ ἀτείχιστοι καὶ ἀστασίαστοι καὶ ἀήττητοι καὶ τρόποις ἀεὶ τοῖς αὐτοῖς χρώμενοι ·
 perseus-eng2	 But I wonder at the Lacedaemonians most of all: what can be their policy in tolerating the devastation of Greece, when they are leaders of the Greeks by the just claims alike of their inborn valor and their martial science, and when they alone have their dwelling-places unravaged though unwalled and, strangers to faction and defeat, observe always the same rules of life?
+
+cts:urn:tlg0540.tlg033:7
+glaux2.0-sentence	13
+perseus-grc2	 ὧν ἕνεκα ἐλπὶς ἀθάνατον τὴν ἐλευθερίαν αὐτοὺς κεκτῆσθαι , καὶ ἐν τοῖς παρεληλυθόσι κινδύνοις σωτῆρας γενομένους τῆς Ἑλλάδος περὶ τῶν μελλόντων προορᾶσθαι .
+perseus-eng2	 Wherefore it may be expected that the liberty they possess will never die, and that having achieved the salvation of Greece in her past dangers they are providing against those that are to come.
+
+cts:urn:tlg0540.tlg033:8
+glaux2.0-sentence	14
+perseus-grc2	 οὐ τοίνυν ὁ ἐπιὼν καιρὸς τοῦ παρόντος βελτίων ·
+perseus-eng2	 Now the future will bring no better opportunity than the present.
+
+cts:urn:tlg0540.tlg033:8
+glaux2.0-sentence	15
+perseus-grc2	 οὐ γὰρ ἀλλοτρίας δεῖ τὰς τῶν ἀπολωλότων συμφορὰς νομίζειν ἀλλ’ οἰκείας , οὐ -δ’ ἀναμεῖναι , ἕως ἂν ἐπ’ αὐτοὺς ἡμᾶς αἱ δυνάμεις ἀμφοτέρων ἔλθωσιν , ἀλλ’ ἕως ἔτι ἔξεστι , τὴν τούτων τούτων ὕβριν κωλῦσαι .
+perseus-eng2	 We ought to view the disasters of those who have been crushed, not as the concern of others, but as our own: let us not wait for the forces of both our foes to advance upon ourselves, but while there is yet time let us arrest their outrage.
+
+cts:urn:tlg0540.tlg033:9
+glaux2.0-sentence	16
+perseus-grc2	 τίς γὰρ οὐκ ἂν ἀγανακτήσειεν ὁρῶν ἐν τῷ πρὸς ἀλλήλους πολέμῳ μεγάλους αὐτοὺς γεγενημένους ;
+perseus-eng2	 For who would not be mortified to see how they have grown strong through our mutual warfare?
+
+cts:urn:tlg0540.tlg033:9
+glaux2.0-sentence	17
+perseus-grc2	 ὧν οὐ μόνον αἰσχρῶν ὄντων ἀλλὰ καὶ δεινῶν , τοῖς μὲν μεγάλα ἡμαρτηκόσιν ἐξουσία γεγένηται τῶν πεπραγμένων , τοῖς δὲ Ἕλλησιν οὐδεμία αὐτῶν τιμωρία G?
+perseus-eng2	 Those incidents, no less awful than disgraceful, have empowered our dire oppressors to do what they have done, and have hindered the Greeks from taking vengeance for their wrongs.

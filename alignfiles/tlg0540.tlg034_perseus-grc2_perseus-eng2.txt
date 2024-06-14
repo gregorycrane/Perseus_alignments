@@ -1,0 +1,64 @@
+
+cts:urn:tlg0540.tlg034:1
+glaux2.0-sentence	1
+perseus-grc2	 ὅτε ἐνομίζομεν , ὦ Ἀθηναῖοι , τὰς γεγενημένας συμφορὰς ἱκανὰ μνημεῖα τῇ πόλει καταλελεῖφθαι , ὥστε μη -δ’ ἂν τοὺς ἐπιγιγνομένους ἑτέρας πολιτείας ἐπιθυμεῖν , τότε δὴ οὗτοι τοὺς κακῶς πεπονθότας καὶ ἀμφοτέρων πεπειραμένους ἐξαπατῆσαι ζητοῦσι τοῖς αὐτοῖς ψηφίσμασιν , οἷσπερ καὶ πρότερον δὶς ἤδη .
+perseus-eng2	 At the very moment when we were supposing, men of Athens , that the disasters that have befallen her have left behind them sufficient reminders to the city to prevent even our descendants from desiring a change of constitution, these men are seeking to deceive us, after our grievous sufferings and our experience of both systems, with the selfsame decrees with which they have tricked us twice before.
+
+cts:urn:tlg0540.tlg034:2
+glaux2.0-sentence	2
+perseus-grc2	 καὶ τούτων μὲν οὐ θαυμάζω , ὑμῶν δὲ τῶν ἀκροωμένων , ὅτι πάντων ἐστὲ ἐπιλησμονέστατοι ἢ πάσχειν ἑτοιμότατοι κακῶς ὑπὸ τοιούτων ἀνδρῶν , οἳ τῇ μὲν τύχῃ τῶν Πειραιοῖ πραγμάτων μετέσχον , τῇ δὲ γνώμῃ τῶν ἐξ ἄστεως .
+perseus-eng2	 It is not at them that I wonder, but at you who listen to them, for being the most forgetful of mankind, or the readiest to suffer injury from such men as these; who shared by mere chance in the operations at the Peiraeus, but whose feelings were with the party of the town.
+
+cts:urn:tlg0540.tlg034:2
+glaux2.0-sentence	3
+perseus-grc2	 καίτοι τί ἔδει φεύγοντας κατελθεῖν , εἰ χειροτονοῦντες ὑμᾶς αὐτοὺς καταδουλώσεσθε ;
+perseus-eng2	 What, I ask, was the object of returning from your exile, if by your votes you are to enslave yourselves?
+
+cts:urn:tlg0540.tlg034:3
+glaux2.0-sentence	4
+perseus-grc2	 ἐγὼ μὲν οὖν , ὦ Ἀθηναῖοι , οὔ -τε οὐσίᾳ οὔ -τε γένει ἀπελαυνόμενος , ἀλλ’ ἀμφότερα τῶν ἀντιλεγόντων πρότερος ὤν , ἡγοῦμαι ταύτην μόνην σωτηρίαν εἶναι τῇ πόλει , ἅπασιν Ἀθηναίοις τῆς πολιτείας μετεῖναι , ἐπεὶ καὶ ὅτε τὰ τείχη καὶ τὰς ναῦς καὶ χρήματα καὶ συμμάχους ἐκτησάμεθα , οὐχ ὅπως τινὰ Ἀθηναῖον ἀπώσομεν διενοούμεθα , ἀλλὰ καὶ Εὐβοεῦσιν ἐπιγαμίαν ἐποιούμεθα ·
+perseus-eng2	 Now I, men of Athens, am not debarred on account either of means or of birth, but in both respects have the advantage of my opponents; and I consider that the only deliverance for the city is to let all Athenians share the citizenship. For when we possessed our walls, our ships, and money and allies, far from proposing to exclude any Athenian, we actually granted the right of marriage to the Euboeans.
+
+cts:urn:tlg0540.tlg034:3
+glaux2.0-sentence	5
+perseus-grc2	 νῦν δὲ καὶ τοὺς ὑπάρχοντας πολίτας ἀπελῶμεν ;
+perseus-eng2	 Shall we debar today even our existing citizens?
+
+cts:urn:tlg0540.tlg034:4
+glaux2.0-sentence	6
+perseus-grc2	 οὔκ , ἐὰν ἔμοιγε πείθησθε , οὐ -δὲ μετὰ τῶν τειχῶν καὶ ταῦτα ἡμῶν αὐτῶν περιαιρησόμεθα , ὁπλίτας πολλοὺς καὶ ἱππέας καὶ τοξότας , ὧν ὑμεῖς ἀντεχόμενοι βεβαίως δημοκρατήσεσθε , τῶν δὲ ἐχθρῶν πλέον ἐπικρατήσετε , ὠφελιμώτεροι δὲ τοῖς συμμάχοις ἔσεσθε ·
+perseus-eng2	 No, if you will be advised by me; nor, after losing our walls, shall we denude ourselves of our forces, — large numbers of our infantry, our cavalry and our archers:
+
+cts:urn:tlg0540.tlg034:4
+glaux2.0-sentence	7
+perseus-grc2	 ἐπίστασθε γὰρ ἐν ταῖς ἐφ’ ἡμῶν ὀλιγαρχίαις γεγενημέναις οὐ τοὺς γῆν κεκτημένους ἔχοντας τὴν πόλιν , ἀλλὰ πολλοὺς μὲν αὐτῶν ἀποθανόντας , πολλοὺς δ’ ἐκ τῆς πόλεως ἐκπεσόντας ,
+perseus-eng2	 for, if you hold fast to these, you will make your democracy secure, will be more victorious over your enemies, and will be more useful to your allies.
+
+cts:urn:tlg0540.tlg034:5
+glaux2.0-sentence	7a
+perseus-grc2	 οὓς ὁ δῆμος καταγαγὼν ὑμῖν μὲν τὴν ὑμετέραν ἀπέδωκεν , αὐτὸς δὲ ταύτης οὐκ ἐτόλμησε μετασχεῖν .
+perseus-eng2	 You are well aware that in the previous oligarchies of our time it was not the possessors of land who controlled the city: many of them were put to death, and many were expelled from the city;
+
+cts:urn:tlg0540.tlg034:5
+glaux2.0-sentence	8
+perseus-grc2	 ὥστ’ , ἐὰν ἔμοιγε πείθησθε , οὐ τοὺς εὐεργέτας , καθὸ δύνασθε , τῆς πατρίδος ἀποστερήσετε , οὐ -δὲ τοὺς λόγους πιστοτέρους τῶν ἔργων οὐ -δὲ τὰ μέλλοντα τῶν γεγενημένων νομιεῖτε , ἄλλως τε καὶ μεμνημένοι τῶν περὶ τῆς ὀλιγαρχίας μαχομένων , οἳ τῷ μὲν λόγῳ τῷ δήμῳ πολεμοῦσι , τῷ δὲ ἔργῳ τῶν ὑμετέρων ἐπιθυμοῦσιν ·
+perseus-eng2	 and the people, after recalling them, restored your city to you, but did not venture to participate in it themselves.
+
+cts:urn:tlg0540.tlg034:5
+glaux2.0-sentence	9
+perseus-grc2	 ἅπερ κτήσονται , ὅταν ὑμᾶς ἐρήμους συμμάχων λάβωσιν .
+perseus-eng2	 Thus, if you take my advice, you will not be depriving your benefactors, so far as you may, of their native land, nor be placing more confidence in words than in deeds, in the future than in the past, especially if you remember the champions of oligarchy, who in speech make war on the people, but in fact are aiming at your property; and this they will acquire when they find you destitute of allies.
+
+cts:urn:tlg0540.tlg034:6
+glaux2.0-sentence	10
+perseus-grc2	 εἶτα τοιούτων ἡμῖν ὑπαρχόντων ἐρωτῶσι τίς ἔσται σωτηρία τῇ πόλει , εἰ μὴ ποιήσομεν ἃ Λακεδαιμόνιοι κελεύουσιν ;
+perseus-eng2	 And then they ask us, when such is our plight, what deliverance there can be for the city, unless we do as the Lacedaemonians demand.
+
+cts:urn:tlg0540.tlg034:6
+glaux2.0-sentence	11
+perseus-grc2	 ἐγὼ δὲ τούτους εἰπεῖν ἀξιῶ , τίς τῷ πλήθει περιγενήσεται , εἰ ποιήσομεν ἃ ἐκεῖνοι προστάττουσιν ;
+perseus-eng2	 But I call upon them to tell us what profit will accrue to the people if we obey their orders.
+
+cts:urn:tlg0540.tlg034:6
+glaux2.0-sentence	12
+perseus-grc2	 εἰ δὲ μή , πολὺ κάλλιον μαχομένοις ἀποθνῄσκειν ἢ φανερῶς ἡμῶν αὐτῶν θάνατον καταψηφίσασθαι .
