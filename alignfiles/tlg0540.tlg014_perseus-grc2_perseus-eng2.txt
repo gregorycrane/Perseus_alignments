@@ -1,0 +1,510 @@
+
+cts:urn:tlg0540.tlg014:1
+glaux2.0-sentence	1
+perseus-grc2	 ἡγοῦμαι μέν , ὦ ἄνδρες δικασταί , οὐδεμίαν ὑμᾶς ποθεῖν ἀκοῦσαι πρόφασιν παρὰ τῶν βουλομένων Ἀλκιβιάδου κατηγορεῖν ·
+perseus-eng2	 I do not believe, gentlemen of the jury, that you desire to hear any excuse for the action of those who have resolved to accuse Alcibiades:
+
+cts:urn:tlg0540.tlg014:1
+glaux2.0-sentence	2
+perseus-grc2	 τοιοῦτον γὰρ πολίτην ἑαυτὸν ἐξ ἀρχῆς παρέσχεν , ὥστε καὶ εἰ μή τις ἰδία ἀδικούμενος ὑπ’ αὐτοῦ τυγχάνει , οὐδὲν ἧττον προσήκει ἐκ τῶν ἄλλων ἐπιτηδευμάτων ἐχθρὸν αὐτὸν ἡγεῖσθαι .
+perseus-eng2	 for from the outset he has shown himself so unworthy of the citizenship that it is the duty of anyone, even in the absence of a personal wrong suffered at his hands, to regard him none the less as an enemy because of the general tenor of his life.
+
+cts:urn:tlg0540.tlg014:2
+glaux2.0-sentence	3
+perseus-grc2	 οὐ γὰρ μικρὰ τὰ ἁμαρτήματα οὐ -δὲ συγγνώμης ἄξια , οὐ -δ’ ἐλπίδα παρέχοντα ὡς ἔσται τοῦ λοιποῦ βελτίων , ἀλλ’ οὕτω πεπραγμένα καὶ εἰς τοσοῦτον κακίας ἀφιγμένα , ὥστ’ ἐπ’ ἐνίοις ὧν οὗτος φιλοτιμεῖται καὶ τοὺς ἐχθροὺς αἰσχύνεσθαι .
+perseus-eng2	 His offences are not slight or entitled to indulgence, nor do they offer a hope of his reform in the future:
+
+cts:urn:tlg0540.tlg014:2
+glaux2.0-sentence	4
+perseus-grc2	 ἐγὼ μέντοι , ὦ ἄνδρες δικασταί , καὶ πρότερον πρὸς τοὺς πατέρας ἡμῖν διαφορᾶς ὑπαρχούσης , καὶ πάλαι τοῦτον πονηρὸν ἡγούμενος , καὶ νῦν ὑπ’ αὐτοῦ πεπονθὼς κακῶς , πειράσομαι ὑπὲρ πάντων τῶν πεπραγμένων μεθ’ ὑμῶν αὐτὸν τιμωρήσασθαι .
+perseus-eng2	 they have been committed in such a manner, and have carried villainy to such lengths, that even his enemies feel ashamed for some of the things on which he prides himself. Yet I, gentlemen, since our fathers were previously at feud, and since my long-standing sense of his rascally character has now been increased by maltreatment at his hands, will try with your aid to make him pay the penalty for all that he has done.
+
+cts:urn:tlg0540.tlg014:3
+glaux2.0-sentence	5
+perseus-grc2	 περὶ μὲν οὖν τῶν ἄλλων Ἀρχεστρατίδης ἱκανῶς κατηγόρησε ·
+perseus-eng2	 The main indictment has been sufficiently delivered by Archestratides;
+
+cts:urn:tlg0540.tlg014:3
+glaux2.0-sentence	6
+perseus-grc2	 καὶ γὰρ τοὺς νόμους ἐπέδειξε καὶ μάρτυρας πάντων παρέσχετο ·
+perseus-eng2	 for he has exhibited the laws and produced witnesses to everything.
+
+cts:urn:tlg0540.tlg014:3
+glaux2.0-sentence	7
+perseus-grc2	 ὅσα δ’ οὗτος παραλέλοιπεν , ἐγὼ καθ’ ἕκαστον ὑμᾶς διδάξω .
+perseus-eng2	 But on certain points that he has omitted I will give you particular information.
+
+cts:urn:tlg0540.tlg014:3
+glaux2.0-sentence	8
+perseus-grc2	 ἀνάγνωθι δέ μοι τὸν νόμον .
+perseus-eng2	 Now, please read the law.
+
+cts:urn:tlg0540.tlg014:4
+glaux2.0-sentence	9
+perseus-grc2	 εἰκὸς τοίνυν ἐστίν , ὦ ἄνδρες δικασταί , ἐξ οὗ τὴν εἰρήνην ἐποιησάμεθα , πρῶτον περὶ τούτων νυνὶ δικάζοντας μὴ μόνον δικαστὰς ἀλλὰ καὶ νομοθέτας αὐτοὺς γενέσθαι , εὖ εἰδότας ὅτι , ὅπως ἂν ὑμεῖς νυνὶ περὶ αὐτῶν γνῶτε , οὕτω καὶ τὸν ἄλλον χρόνον ἡ πόλις αὐτοῖς χρήσεται .
+perseus-eng2	 Now it is reasonable, gentlemen of the jury, that men who are now trying such a case for the first time since we settled the peace should act not merely as jurors, but in fact as law-makers.
+
+cts:urn:tlg0540.tlg014:4
+glaux2.0-sentence	10
+perseus-grc2	 δοκεῖ δέ μοι καὶ πολίτου χρηστοῦ καὶ δικαστοῦ δικαίου ἔργον εἶναι ταύτῃ τοὺς νόμους διαλαμβάνειν , ὅπῃ εἰς τὸν λοιπὸν χρόνον μέλλει συνοίσειν τῇ πόλει .
+perseus-eng2	 For you know well that your decision upon these cases will determine the attitude of the city towards them for all time. And it is the duty, in my opinion, alike of a loyal citizen and of a just juror to put such constructions on the laws as are likely to be of benefit to the city in the future.
+
+cts:urn:tlg0540.tlg014:5
+glaux2.0-sentence	11
+perseus-grc2	 τολμῶσι γάρ τινες λέγειν ὡς οὐδεὶς ἔνοχός ἐστι λιποταξίου οὐ -δὲ δειλίας ·
+perseus-eng2	 For some are bold enough to assert that nobody can be chargeable with desertion or cowardice, since no battle has taken place;
+
+cts:urn:tlg0540.tlg014:5
+glaux2.0-sentence	12
+perseus-grc2	 μάχην γὰρ οὐδεμίαν γεγονέναι , τὸν δὲ νόμον κελεύειν , ἐάν τις λίπῃ τὴν τάξιν εἰς το- τοὐπίσω δειλίας ἕνεκα , μαχομένων τῶν ἄλλων , περὶ τούτου τοὺς στρατιώτας δικάζειν .
+perseus-eng2	 that the law merely provides for a court-martial on anyone who, from cowardice, has deserted the ranks and retreated while the rest were fighting.
+
+cts:urn:tlg0540.tlg014:5
+glaux2.0-sentence	13
+perseus-grc2	 ὁ δὲ νόμος οὐ περὶ τούτων κελεύει μόνον , ἀλλὰ καὶ ὁπόσοι ἂν μὴ παρῶσιν ἐν τῇ πεζῇ στρατιᾷ .
+perseus-eng2	 But the provisions of the law apply not only to such a case, but also to that of anyone who fails to appear in the infantry lines.
+
+cts:urn:tlg0540.tlg014:5
+glaux2.0-sentence	14
+perseus-grc2	 ἀνάγνωθί μοι τὸν νόμον .
+perseus-eng2	 Please read the law.
+
+cts:urn:tlg0540.tlg014:6
+glaux2.0-sentence	15
+perseus-grc2	 ἀκούετε , ὦ ἄνδρες δικασταί , ὅτι περὶ ἀμφοτέρων κεῖται , καὶ ὅσοι ἂν μάχης οὔσης εἰς το- τοὐπίσω ἀναχωρήσωσι , καὶ ὅσοι ἂν ἐν τῇ πεζῇ στρατιᾷ μὴ παρῶσι .
+perseus-eng2	 You hear, gentlemen, how it covers both alike, — those who retreat to the rear during battle, and those who do not appear in the infantry lines.
+
+cts:urn:tlg0540.tlg014:6
+glaux2.0-sentence	16
+perseus-grc2	 σκέψασθε δὲ τίνες εἰσὶν οὓς δεῖ παρεῖναι .
+perseus-eng2	 And consider who they are that are bound to appear.
+
+cts:urn:tlg0540.tlg014:6
+glaux2.0-sentence	17
+perseus-grc2	 οὐχ οἵτινες ἂν τὴν ἡλικίαν ταύτην ἔχωσιν ;
+perseus-eng2	 Are they not all persons who have reached the proper age?
+
+cts:urn:tlg0540.tlg014:6
+glaux2.0-sentence	18
+perseus-grc2	 οὐχ οὓς ἂν οἱ στρατηγοὶ καταλέξωσιν ;
+perseus-eng2	 Are they not those whom the generals have enrolled?
+
+cts:urn:tlg0540.tlg014:7
+glaux2.0-sentence	19
+perseus-grc2	 ἡγοῦμαι δ’ , ὦ ἄνδρες δικασταί , ὅλῳ τῷ νόμῳ μόνον αὐτὸν τῶν πολιτῶν ἔνοχον εἶναι ·
+perseus-eng2	 I believe, gentlemen, that he is the one citizen who is liable to the full scope of the law:
+
+cts:urn:tlg0540.tlg014:7
+glaux2.0-sentence	20
+perseus-grc2	 ἀστρατείας μὲν γὰρ δικαίως ἂν αὐτὸν ἁλῶναι , ὅτι καταλεγεὶς ὁπλίτης οὐκ ἐξῆθε μεθ’ ὑμῶν , λιποταξίου δέ , ὅτι ἐν τῷ στρατοπέδῳ μόνος οὐ παρέσχε μετὰ τῶν ἄλλων ἑαυτὸν τάξαι , δειλίας δέ , ὅτι δεῖν αὐτὸν μετὰ τῶν ὁπλιτῶν κινδυνεύειν ἱππεύειν εἵλετο .
+perseus-eng2	 for he would with justice be convicted of refusing duty, because after being enrolled as a foot-soldier he did not march out with you; of desertion, because he alone of the whole force did not present himself for the formation of the ranks; and of cowardice, because, when it was his duty to share the danger with the infantry, he chose to serve in the cavalry.
+
+cts:urn:tlg0540.tlg014:8
+glaux2.0-sentence	21
+perseus-grc2	 καίτοι φασὶν αὐτὸν ταύτην τὴν ἀπολογίαν ποιήσεσθαι , ὡς ἐπειδήπερ ἵππευεν , οὐδὲν ἠδίκει τὴν πόλιν .
+perseus-eng2	 They say, indeed, that he will resort to the defence that, since he was in the cavalry, he was doing no wrong to the State.
+
+cts:urn:tlg0540.tlg014:8
+glaux2.0-sentence	22
+perseus-grc2	 ἐγὼ δ’ ἡγοῦμαι διὰ τοῦθ’ ὑμᾶς δικαίως ἂν αὐτῷ ὀργίζεσθαι , ὅτι τοῦ νόμου κελεύοντος , ἐάν τις ἀδοκίμαστος ἱππεύῃ , ἄτιμον εἶναι , ἐτόλμησεν ἀδοκίμαστος ἱππεύειν .
+perseus-eng2	 But in my opinion you would find just cause for indignation against him in the fact that, although the law provides that anyone who serves in the cavalry without having passed his scrutiny shall be disfranchised, he had the audacity to serve in the cavalry without having passed his scrutiny.
+
+cts:urn:tlg0540.tlg014:8
+glaux2.0-sentence	23
+perseus-grc2	 καί μοι ἀνάγνωθι τὸν νόμον .
+perseus-eng2	 Now, please, read the law.
+
+cts:urn:tlg0540.tlg014:9
+glaux2.0-sentence	24
+perseus-grc2	 οὗτος τοίνυν εἰς τοῦτ’ ἦλθε πονηρίας , καὶ οὕτως ὑμῶν κατεφρόνησε καὶ τοὺς πολεμίους ἔδεισε καὶ ἱππεύειν ἐπεθύμησε καὶ τῶν νόμων οὐκ ἐφρόντισεν , ὥστε οὐδὲν αὐτῷ τούτων τῶν κινδύνων ἐμέλησεν , ἀλλ’ ἐβουλήθη καὶ ἄτιμος εἶναι καὶ τὰ χρήματ’ αὐτοῦ δημευθῆναι καὶ πάσαις ταῖς κειμέναις ζημίαις ἔνοχος γενέσθαι μᾶλλον ἢ μετὰ τῶν πολιτῶν εἶναι καὶ ὁπλίτης γενέσθαι .
+perseus-eng2	 Law  This man, then, carried roguery to such a length, and was so contemptuous of you and so timorous of the enemy, so desirous of serving in the cavalry and so heedless of our laws, that he recked nought of the risks involved, and preferred the prospect of being disfranchised, having his property confiscated and being liable to all the statutory penalties, to that of taking his place with the citizens and serving as an infantryman.
+
+cts:urn:tlg0540.tlg014:10
+glaux2.0-sentence	25
+perseus-grc2	 καὶ ἕτεροι μὲν οὐδεπώποτε ὁπλιτεύσαντες , ἱππεύοντες δὲ τὸν ἄλλον χρόνον καὶ πολλὰ κακὰ τοὺς πολεμίους πεποιηκότες , οὐκ ἐτόλμησαν ἐπὶ τοὺς ἵππους ἀναβῆναι , δεδιότες ὑμᾶς καὶ τὸν νόμον ·
+perseus-eng2	 There were others who had never before served in the infantry, but had always been cavalrymen and had inflicted many losses on the enemy: yet they did not venture to mount their horses, from fear of you and of the law.
+
+cts:urn:tlg0540.tlg014:10
+glaux2.0-sentence	26
+perseus-grc2	 οὕτω γὰρ ἦσαν παρεσκευασμένοι , οὐχ ὡς ἀπολουμένης τῆς πόλεως , ἀλλ’ ὡς σωθησομένης καὶ μεγάλης ἐσομένης καὶ τιμωρησομένης τοὺς ἀδικοῦντας ·
+perseus-eng2	 For they had shaped their plans on the prospect, not of the city’s destruction, but of its deliverance, its ascendancy and its retaliation upon wrongdoers.
+
+cts:urn:tlg0540.tlg014:10
+glaux2.0-sentence	27
+perseus-grc2	 Ἀλκιβιάδης δ’ ἐτόλμησεν ἀναβῆναι , βῆναι , οὔ -τε εὔνους ὢν τῷ πλήθει οὔ -τε πρότερον ἱππεύσας οὔ -τε νῦν ἐπιστάμενος οὔ -τε ὑφ’ ὑμῶν δοκιμασθείς , ὡς οὐκ ἐξεσόμενον τῇ πόλει δίκην παρὰ τῶν ἀδικούντων λαμβάνειν .
+perseus-eng2	 But Alcibiades was rash enough to mount, though he is no supporter of the people, nor had seen service in the cavalry before, nor is qualified for it now, nor had passed your scrutiny: he presumed that the city would be without the power to do justice upon wrongdoers.
+
+cts:urn:tlg0540.tlg014:11
+glaux2.0-sentence	28
+perseus-grc2	 ἐνθυμηθῆναι δὲ χρὴ ὅτι , εἰ ἐξέσται ὅ τι ἄν τις βούληται ποιεῖν , οὐδὲν ὄφελος νόμους κεῖσθαι ἢ ὑμᾶς συλλέγεσθαι ἢ στρατηγοὺς αἱρεῖσθαι .
+perseus-eng2	 You must reflect that, if men are to be permitted to do whatever they please, it is useless to have your code of laws, your Assemblies, or your election of generals.
+
+cts:urn:tlg0540.tlg014:11
+glaux2.0-sentence	29
+perseus-grc2	 θαυμάζω δέ , ὦ ἄνδρες δικασταί , εἴ τις ἀξιοῖ , ἐὰν μέν τις προσιόντων τῶν πολεμίων τῆς πρώτης τάξεως τεταγμένος τῆς δευτέρας γένηται , τούτου μὲν δειλίαν καταψηφίζεσθαι , ἐὰν δέ τις ἐν τοῖς ὁπλίταις τεταγμένος ἐν τοῖς ἱππεῦσιν ἀναφανῇ , τούτῳ συγγνώμην ἔχειν .
+perseus-eng2	 And I wonder, gentlemen, at anyone considering it right, when a man has retired, at the approach of the enemy, from his post in the first rank to a place in the second, to convict him of cowardice, and then, if a man has appeared in the cavalry when his post was in the infantry, to grant him a pardon!
+
+cts:urn:tlg0540.tlg014:12
+glaux2.0-sentence	30
+perseus-grc2	 καὶ μὲν δή , ὦ ἄνδρες δικασταί , ἡγοῦμαι δικάζειν ὑμᾶς οὐ μόνον τῶν ἐξαμαρτανόντων ἕνεκα , ἀλλ’ ἵνα καὶ τοὺς ἄλλους τῶν ἀκοσμούντων σωφρονεστέρους ποιῆτε .
+perseus-eng2	 And besides, gentlemen, I conceive that your judgement is given, not merely with a view to the offenders, but also for the reformation of all other insubordinate persons.
+
+cts:urn:tlg0540.tlg014:12
+glaux2.0-sentence	31
+perseus-grc2	 ἐὰν μὲν τοίνυν τοὺς ἀγνῶτας κολάζητε , οὐδεὶς ἔσται τῶν ἄλλων βελτίων ·
+perseus-eng2	 Now, if you punish men who are unknown, not one among the rest will be improved;
+
+cts:urn:tlg0540.tlg014:12
+glaux2.0-sentence	32
+perseus-grc2	 οὐδεὶς γὰρ εἴσεται τὰ ὑφ’ ὑμῶν καταψηφισθέντα ·
+perseus-eng2	 for nobody will know the sentences that you have passed:
+
+cts:urn:tlg0540.tlg014:12
+glaux2.0-sentence	33
+perseus-grc2	 ἐὰν δὲ τοὺς ἐπιφανεστάτους τῶν ἐξαμαρτανόντων τιμωρῆσθε , πάντες πεύσονται , ὥστε τούτῳ παραδείγματι χρώμενοι βελτίους ἔσονται οἱ πολῖται .
+perseus-eng2	 but if you inflict the penalty on the most conspicuous offenders, everyone will be apprised, and so the citizens, with this example before them, will be improved.
+
+cts:urn:tlg0540.tlg014:13
+glaux2.0-sentence	34
+perseus-grc2	 ἐὰν τοίνυν τούτου καταψηφίσησθε , οὐ μόνον οἱ ἐν τῇ πόλει εἴσονται , ἀλλὰ καὶ οἱ σύμμαχοι αἰσθήσονται καὶ οἱ πολέμιοι πεύσονται , καὶ ἡγήσονται πολὺ πλείονος ἀξίαν εἶναι τὴν πόλιν , ἐὰν ὁρῶσιν ἐπὶ τοῖς τοιούτοις τῶν ἁμαρτημάτων μάλισθ’ ὑμᾶς ὀργιζομένους καὶ μηδεμιᾶς συγγνώμης τοὺς ἀκοσμοῦντας ἐν τῷ πολέμῳ τυγχάνοντας .
+perseus-eng2	 Again, if you condemn this man, not only will the people of our city know, but our allies also will take notice and our enemies will be informed; and they will hold our city in much higher regard if they see that you are especially indignant at this kind of offence, and that those who are insubordinate in war obtain no pardon.
+
+cts:urn:tlg0540.tlg014:14
+glaux2.0-sentence	35
+perseus-grc2	 ἐνθυμεῖσθε δ’ , ὦ ἄνδρες δικασταί , ὅτι τῶν στρατιωτῶν οἱ μὲν κάμνοντες ἐτύγχανον , οἱ δὲ ἐνδεεῖς ὄντες τῶν ἐπιτηδείων , καὶ ἡδέως ἂν οἱ μὲν ταῖς πόλεσι καταμείναντες ἐθεραπεύοντο , οἱ δὲ οἴκαδ’ ἀπελθόντες τῶν οἰκείων ἐπεμέλοντο , οἱ δὲ ψιλοὶ ἐστρατεύοντο , οἱ δ’ ἐν τοῖς ἱππεῦσιν ἐκινδύνευον ·
+perseus-eng2	 And reflect, gentlemen, that some of the soldiers were sick, while others lacked the necessaries of life, and that the former would have been glad to remain for treatment in their cities, and the latter to retire home and attend to their own affairs; others would have liked to serve as light-armed troops, or else to take their risk with the cavalry.
+
+cts:urn:tlg0540.tlg014:15
+glaux2.0-sentence	36
+perseus-grc2	 ἀλλ’ ὅμως οὐκ ἐτολμᾶτε ἀπολιπεῖν τὰς τάξεις οὐ -δὲ τα- τἀρεστὰ ὑμῖν αὐτοῖς αἱρεῖσθαι ἀλλὰ πολὺ μᾶλλον ἐφοβεῖσθε τοὺς τῆς πόλεως νόμους ἢ τὸν πρὸς τοὺς πολεμίους κίνδυνον .
+perseus-eng2	 But still, you did not venture to desert your ranks or choose what was most agreeable to yourselves, but were far more afraid of the city’s laws than of the danger of meeting the foe.
+
+cts:urn:tlg0540.tlg014:15
+glaux2.0-sentence	37
+perseus-grc2	 ὧν χρὴ μεμνημένους ὑμᾶς νυνὶ τὴν ψῆφον φέρειν , καὶ πᾶσι φανερὸν ποιεῖν ὅτι Ἀθηναίων οἱ μὴ βουλόμενοι τοῖς πολεμίοις μάχεσθαι ὑφ’ ὑμῶν κακῶς πείσονται .
+perseus-eng2	 All this you should remember when you give your vote today, and so make evident to all that any Athenians who do not wish to do battle with the enemy will suffer sorely at your hands.
+
+cts:urn:tlg0540.tlg014:16
+glaux2.0-sentence	38
+perseus-grc2	 ἡγοῦμαι δέ , ὦ ἄνδρες δικασταί , περὶ μὲν τοῦ νόμου καὶ αὐτοῦ τοῦ πράγματος οὐχ ἕξειν αὐτοὺς ὅ τι λέξουσιν ·
+perseus-eng2	 I believe, gentlemen, that on the point of law and on the actual fact they will have nothing to say;
+
+cts:urn:tlg0540.tlg014:16
+glaux2.0-sentence	39
+perseus-grc2	 ἀναβαίνοντες δ’ ὑμᾶς ἐξαιτήσονται καὶ ἀντιβολήσουσιν , οὐκ ἀξιοῦντες τοῦ Ἀλκιβιάδου ὑέος τοσαύτην δειλίαν καταγνῶναι , ὡς ἐκεῖνον πολλῶν ἀγαθῶν ἀλλ’ οὐχὶ πολλῶν κακῶν αἴτιον γεγενημένον ·
+perseus-eng2	 but they will stand up here to beg him off and plead with you, claiming that you ought not to convict of such utter cowardice the son of Alcibiades, since that person has been the source of so many benefits, — instead of so much harm!
+
+cts:urn:tlg0540.tlg014:16
+glaux2.0-sentence	40
+perseus-grc2	 ὃν εἰ τηλικοῦτον ὄντα ἀπεκτείνατε , ὅτε πρῶτον εἰς ὑμᾶς ἐλάβετε ἐξαμαρτάνοντα , οὐκ ἂν ἐγένοντο συμφοραὶ τοσαῦται τῇ πόλει .
+perseus-eng2	 Nay, if you had put that man to death at this man’s age, the first time that you caught him offending against you, the city would have escaped her great disasters.
+
+cts:urn:tlg0540.tlg014:17
+glaux2.0-sentence	41
+perseus-grc2	 δεινὸν δέ μοι δοκεῖ , ὦ ἄνδρες δικασταί , εἶναι , εἰ αὐτοῦ μὲν ἐκείνου θάνατον κατέγνωτε , τοῦ δὲ ὑοῦ ἀδικοῦντος δι’ ἐκεῖνον ἀποψηφιεῖσθε , ὃς αὐτὸς μὲν οὐκ ἐτόλμα μεθ’ ὑμῶν μάχεσθαι , ὁ δὲ πατὴρ αὐτοῦ μετὰ τῶν πολεμίων ἠξίου στρατεύεσθαι .
+perseus-eng2	 And I feel it will be extraordinary, gentlemen, if, after condemning that person himself to death, you acquit on his account the son with guilt upon him, — this son who had not the courage himself to fight in your ranks, and whose father thought fit to march in those of the enemy.
+
+cts:urn:tlg0540.tlg014:17
+glaux2.0-sentence	42
+perseus-grc2	 καὶ ὅτε μὲν παῖς ὢν οὔπω δῆλος ἦν ὁποῖός τις ἔσται , διὰ τὰ τοῦ πατρὸς ἁμαρτήματα ὀλίγου τοῖς ἕνδεκα παρεδόθη ·
+perseus-eng2	 When this person, as a child, had not yet shown what kind of man he would be, he came near being handed over to the Eleven on account of his father’s offences;
+
+cts:urn:tlg0540.tlg014:17
+glaux2.0-sentence	43
+perseus-grc2	 ἐπειδὴ δὲ πρὸς τοῖς ἐκείνῳ πεπραγμένοις ἐπίστασθε καὶ τὴν τούτου πονηρίαν , διὰ τὸν πατέρα ἐλεεῖν αὐτὸν ἀξιώσετε ;
+perseus-eng2	 and now that you are acquainted with the roguery which this man has added to his father’s exploits, will you think proper to pity him on his father’s account?
+
+cts:urn:tlg0540.tlg014:18
+glaux2.0-sentence	44
+perseus-grc2	 οὐκ οὖν δεινόν , ὦ ἄνδρες δικασταί , τούτους μὲν οὕτως εὐτυχεῖς εἶναι ὥστ’ , ἐπειδὰν ἐξαμαρτάνοντες ληφθῶσι , διὰ τὸ αὑτῶν γένος σῴζεσθαι , ἡμᾶς δέ , εἰ ἐδυστυχήσαμεν διὰ τοὺς οὕτως ἀτακτοῦντας , μηδένα ἂν δύνασθαι παρὰ τῶν πολεμίων ἐξαιτήσασθαι μη -δὲ διὰ τὰς τῶν προγόνων ἀρετάς ;
+perseus-eng2	 Is it not monstrous, gentlemen, that these people should be so fortunate, when taken in transgression, as to come off safe on account of their birth, while we, if we had met with the misfortune as a result of their insubordination, would be unable to retrieve a single man from the enemy even on the plea of your ancestors’ high achievements?
+
+cts:urn:tlg0540.tlg014:19
+glaux2.0-sentence	45
+perseus-grc2	 καίτοι πολλαὶ καὶ μεγάλαι καὶ ὑπὲρ ἁπάντων τῶν Ἑλλήνων γεγόνασι , καὶ οὐδὲν ὅμοιαι τοῖς ὑπὸ τούτων περὶ τὴν πόλιν πεπραγμένοις , ὦ ἄνδρες δικασταί .
+perseus-eng2	 And yet these have been numerous, important and advantageous to all the Greeks, and utterly unlike the conduct of these men towards the city, gentlemen of the jury.
+
+cts:urn:tlg0540.tlg014:19
+glaux2.0-sentence	46
+perseus-grc2	 εἰ δ’ ἐκεῖνοι δοκοῦσι βελτίους εἶναι σῴζοντες τοὺς φίλους , δῆλον ὅτι καὶ ὑμεῖς ἀμείνους δόξετε εἶναι τιμωρούμενοι τοὺς ἐχθρούς .
+perseus-eng2	 If they are more valued for trying to save their friends, clearly you on your part will be more honored for seeking to punish your enemies.
+
+cts:urn:tlg0540.tlg014:20
+glaux2.0-sentence	47
+perseus-grc2	 ἀξιῶ δ’ , ὦ ἄνδρες δικασταί , ἐὰν μέν τινες τῶν συγγενῶν αὐτὸν ἐξαιτῶνται , ὀργίζεσθαι ὅτι τούτου μὲν οὐκ ἐπεχείρησαν δεηθῆναι ( ἢ δεηθέντες οὐκ ἐδύναντο εὑρέσθαι ) ποιεῖν τὰ ὑπὸ τῆς πόλεως προσταττόμενα , ὑμᾶς δὲ πείθειν πειρῶνται ὡς οὐ χρὴ παρὰ τῶν ἀδικούντων δίκην λαμβάνειν ·
+perseus-eng2	 And I expect you, gentlemen, if some of his relatives attempt to beg him off, to be indignant that they were not at pains to entreat him — or, having entreated, were unable to prevail on him — to do what the city enjoined, but are endeavoring to persuade you that you should not punish wrongdoers.
+
+cts:urn:tlg0540.tlg014:21
+glaux2.0-sentence	48
+perseus-grc2	 ἐὰν δέ τινες τῶν ἀρχόντων βοηθῶσιν αὐτῷ ἐπίδειξιν μὲν τῆς ἑαυτῶν δυνάμεως ποιούμενοι , φιλοτιμούμενοι δὲ ὅτι καὶ τοὺς φανερῶς ἡμαρτηκότας σῴζειν δύνανται , ὑμᾶς δὲ , χρὴ ὑπολαμβάνειν πρῶτον μὲν ὅτι , εἰ πάντες Ἀλκιβιάδῃ ὅμοιοι ἐγένοντο , οὐδὲν ἂν ἔδει τῶν στρατηγῶν ( οὐ -δὲ γὰρ ἂν εἶχον ὅτου ἡγοῦντο ) , ἔπειθ’ ὅτι πολὺ μᾶλλον αὐτοὺς προσήκει τῶν λιπόντων τὴν τάξιν κατηγορεῖν ἢ ὑπὲρ τῶν τοιούτων ἀπολογεῖσθαι .
+perseus-eng2	 If, again, some of the magistrates come to his support, so as to make a display of their own power, and to enjoy the glory of being able to save even obvious offenders,
+
+cts:urn:tlg0540.tlg014:21
+glaux2.0-sentence	49
+perseus-grc2	 τίς γὰρ ἔστιν ἐλπὶς τοὺς ἄλλους ἐθελήσειν ποιεῖν τὰ ὑπὸ τῶν στρατηγῶν προσταττόμενα , ὅταν αὐτοὶ οὗτοι τοὺς ἀκοσμοῦντας σῴζειν πειρῶνται ;
+perseus-eng2	 you ought to observe, in the first place, that if everyone had shown the same character as Alcibades there would have been no need of our generals, — for they would have had nobody to lead, — and secondly, that it is much more their duty to accuse deserters from the ranks than to speak in defense of such creatures. For what hope can we have that the others will comply with the orders issued by the generals, when these lend their authority to the attempt to save the insubordinate?
+
+cts:urn:tlg0540.tlg014:22
+glaux2.0-sentence	50
+perseus-grc2	 ἐγὼ τοίνυν ἀξιῶ , ἐὰν μὲν ἀποδείξωσιν οἱ λέγοντες καὶ αἰτούμενοι ὑπὲρ Ἀλκιβιάδου ὡς ἐστρατεύσατο ἐν τοῖς ὁπλίταις ἢ ὡς ἵππευε δεδοκιμασμένος , ἀποψηφίσασθαι ·
+perseus-eng2	 Now my claim is this: if those who speak as intercessors for Alcibiades can prove that he has been on service in the infantry, or was a cavalryman duly approved on scrutiny, he should be acquitted;
+
+cts:urn:tlg0540.tlg014:22
+glaux2.0-sentence	51
+perseus-grc2	 ἐὰν δὲ μηδὲν ἔχοντες δίκαιον κελεύωσιν αὑτοῖς χαρίζεσθαι , μεμνῆσθαι χρὴ ὅτι διδάσκουσιν ὑμᾶς ἐπιορκεῖν καὶ τοῖς νόμοις μὴ πείθεσθαι , καὶ ὅτι λίαν προθύμως τοῖς ἀδικοῦσι βοηθοῦντες πολλοὺς τῶν αὐτῶν ἔργων ἐπιθυμεῖν ποιήσουσι .
+perseus-eng2	 but if, for want of any justification, they demand a favor for themselves, you should remember that they are teaching you to break your oath and disobey the laws, and that their excessive zeal in the support of wrongdoers will make many people aspire to the same conduct.
+
+cts:urn:tlg0540.tlg014:23
+glaux2.0-sentence	52
+perseus-grc2	 θαυμάζω δὲ μάλιστα , ὦ ἄνδρες δικασταί , εἴ τις ὑμῶν τὸν Ἀλκιβιάδην ἀξιώσει διὰ μὲν τοὺς βοηθοῦντας σῴζεσθαι , διὰ δὲ τὴν αὐτοῦ πονηρίαν μὴ ἀπολέσθαι .
+perseus-eng2	 What surprises me most of all, gentlemen, is that any of you can think it right that Alcibiades should be saved on account of his supporters, instead of perishing on account of his villainy.
+
+cts:urn:tlg0540.tlg014:23
+glaux2.0-sentence	53
+perseus-grc2	 ἧς ἄξιον ὑμᾶς ἀκοῦσαι , ἵν’ ἐπίστησθε ὅτι οὐκ ἂν εἰκότως αὐτοῦ ἀποψηφίζοισθε , ὡς ταῦτα μὲν ἡμαρτηκότος , τὰ δ’ ἄλλα πολίτου χρηστοῦ γεγενημένου ·
+perseus-eng2	 And of that you ought to be told, so that you may understand how unreasonable it would be for you to acquit him on the ground that, though guilty of these offences, in all else he had shown himself a loyal citizen.
+
+cts:urn:tlg0540.tlg014:23
+glaux2.0-sentence	54
+perseus-grc2	 ἐκ γὰρ τῶν ἄλλων τῶν τούτῳ πεπραγμένων δικαίως ἂν αὐτοῦ θάνατον καταψηφίζοισθε .
+perseus-eng2	 For the rest of his actions would justify you in condemning him to death.
+
+cts:urn:tlg0540.tlg014:24
+glaux2.0-sentence	55
+perseus-grc2	 προσήκει δ’ ὑμῖν περὶ αὐτῶν εἰδέναι ·
+perseus-eng2	 It is your duty to be informed of them;
+
+cts:urn:tlg0540.tlg014:24
+glaux2.0-sentence	56
+perseus-grc2	 ἐπειδὴ γὰρ καὶ τῶν ἀπολογουμένων ἀποδέχεσθε λεγόντων τὰς σφετέρας αὐτῶν ἀρετὰς καὶ τὰς τῶν προγόνων εὐεργεσίας , εἰκὸς ὑμᾶς καὶ τῶν κατηγόρων ἀκροᾶσθαι , ἐὰν ἀποφαίνωσι τοὺς φεύγοντας πολλὰ εἰς ὑμᾶς ἡμαρτηκότας καὶ τοὺς προγόνους αὐτῶν πολλῶν κακῶν αἰτίους γεγενημένους .
+perseus-eng2	 for you allow those speaking in defence to discourse on their own merits and on the services rendered by their ancestors, and therefore it is fair that you should listen also to accusers when they expose the many crimes that the defendants have committed against you, and the many evils that their ancestors have brought about.
+
+cts:urn:tlg0540.tlg014:25
+glaux2.0-sentence	57
+perseus-grc2	 οὗτος γὰρ παῖς μὲν ὢν παρ’ Ἀρχεδήμῳ τῷ γλάμωνι , τῷ οὐκ ὀλίγα τῶν ὑμετέρων ὑφῃρημένῳ , πολλῶν ὁρώντων ἔπινεν ὑπὸ τῷ αὐτῷ ἱματίῳ κατακείμενος , ἐκώμαζε δὲ μεθ’ ἡμέραν , ἄνηβος ἑταίραν ἔχων , μιμούμενος τοὺς ἑαυτοῦ προγόνους , καὶ ἡγούμενος οὐκ ἂν δύνασθαι πρεσβύτερος ὢν λαμπρὸς γενέσθαι , εἰ μὴ νέος ὢν πονηρότατος δόξει εἶναι .
+perseus-eng2	 When this man was a child, he was seen by a number of people at the house of Archedemus the Blear-eyed, who had embezzled not a little of your property, drinking the while he lay at length under the same cloak; he carried on his revels till daylight, keeping a mistress when he was under age, and imitating his ancestors, in the belief that he would not achieve distinction in his later years unless he could show himself an utter rascal in his youth.
+
+cts:urn:tlg0540.tlg014:26
+glaux2.0-sentence	58
+perseus-grc2	 μετεπέμφθη δ’ ὑπὸ Ἀλκιβιάδου , ἐπειδὴ φανερῶς ἐξημάρτανε .
+perseus-eng2	 He was sent for by Alcibiades, since his outrageous conduct was becoming notorious.
+
+cts:urn:tlg0540.tlg014:26
+glaux2.0-sentence	59
+perseus-grc2	 καίτοι ποῖόν τινα χρὴ αὐτὸν ὑφ’ ὑμῶν νομίζεσθαι εἶναι , ὅστις κα- κἀκείνῳ τοιαῦτ’ ἐπιτηδεύων διεβέβλητο ὃς τοὺς ἄλλους ταῦτ’ ἐδίδασκε ;
+perseus-eng2	 And indeed, what ought you to think of the character of the man whose practices were such as to discredit him even in the eyes of the great ringleader in those ways?
+
+cts:urn:tlg0540.tlg014:26
+glaux2.0-sentence	60
+perseus-grc2	 μετὰ Θεοτίμου δὲ ἐπιβουλεύσας τῷ πατρὶ Ὄρνους προὔδωκεν .
+perseus-eng2	 He conspired with Theotimus against his father, and betrayed Orni to him:
+
+cts:urn:tlg0540.tlg014:26
+glaux2.0-sentence	61
+perseus-grc2	 ὁ δὲ παραλαβὼν τὸ χωρίον πρότερον μὲν ὕβριζεν αὐτὸν ὡραῖον ὄντα , τελευτῶν δὲ δήσας ἀργύριον εἰσεπράττετο .
+perseus-eng2	 but he, when he had gained possession of the stronghold, after abusing him in the flower of youth, ended by imprisoning him and holding him to ransom.
+
+cts:urn:tlg0540.tlg014:27
+glaux2.0-sentence	62
+perseus-grc2	 ὁ δὲ πατὴρ αὐτὸν οὕτως ἐμίσει σφόδρα , ὥστ’ οὐ -δ’ ἂν ἀποθανόντος ἔφασκε τὰ ὀστᾶ κομίσασθαι .
+perseus-eng2	 But his father felt so deep a hatred of him that he declared that even though he should die he would not recover his bones.
+
+cts:urn:tlg0540.tlg014:27
+glaux2.0-sentence	63
+perseus-grc2	 τελευτήσαντος δ’ ἐκείνου ἐραστὴς γενόμενος Ἀρχεβιάδης αὐτὸν ἐλύσατο .
+perseus-eng2	 When his father was dead Archebiades, who had become his lover, obtained his release.
+
+cts:urn:tlg0540.tlg014:27
+glaux2.0-sentence	64
+perseus-grc2	 οὐ πολλῷ δὲ χρόνῳ ὕστερον κατακυβεύσας τὰ ὄντα , ἐκ Λευκῆς ἀκτῆς ὁρμώμενος τοὺς φίλους κατεπόντιζεν .
+perseus-eng2	 Not long afterwards, having diced away his fortune, he took ship at White Cliff, and attempted to drown his friends at sea.
+
+cts:urn:tlg0540.tlg014:28
+glaux2.0-sentence	65
+perseus-grc2	 ὅσα μὲν οὖν , ὦ ἄνδρες δικασταί , ἢ εἰς τοὺς πολίτας ἢ εἰς τοὺς ξένους ἢ περὶ τοὺς αὑτοῦ οἰκείους ἢ περὶ τοὺς ἄλλους ἡμάρτηκε , μακρὸν ἂν εἴη λέγειν ·
+perseus-eng2	 Well, to relate all the offences that he has committed, gentlemen, either against the citizens, or against foreigners, or in his dealings with his own relations or with ordinary people, would be a lengthy affair;
+
+cts:urn:tlg0540.tlg014:28
+glaux2.0-sentence	66
+perseus-grc2	 Ἱππόνικος δὲ πολλοὺς παρακαλέσας ἐξέπεμψε τὴν αὑτοῦ γυναῖκα , φάσκων τοῦτον οὐχ ὡς ἀδελφὸν αὐτῆς ἀλλ’ ὡς ἄνδρα ἐκείνης εἰς τὴν οἰκίαν εἰσιέναι τὴν αὑτοῦ .
+perseus-eng2	 but Hipponicus assembled a number of witnesses and put away his wife, stating that this man had been entering his house, not as her brother, but as her husband.
+
+cts:urn:tlg0540.tlg014:29
+glaux2.0-sentence	67
+perseus-grc2	 καὶ τοιαῦθ’ ἡμαρτηκότι καὶ οὕτω δεινὰ καὶ πολλὰ καὶ μεγάλα πεποιηκότι οὔ -τε τῶν γεγενημένων αὐτῷ μέλει οὔ -τε τῶν μελλόντων ἔσεσθαι , ἀλλ’ ὃν ἔδει κοσμιώτατον εἶναι τῶν πολιτῶν , ἀπολογίαν ποιούμενον τὸν ἑαυτοῦ βίον τῶν τοῦ πατρὸς ἁμαρτημάτων , οὗτος ἑτέρους ὑβρίζειν πειρᾶται , ὥσπερ δυνάμενος ἂν πολλοστὸν μέρος τῶν ὀνειδῶν τῶν ἑαυτῷ προσηκόντων τοῖς ἄλλοις μεταδοῦναι , καὶ ταῦθ’ ὑὸς ὢν Ἀλκιβιάδου ,
+perseus-eng2	 And after committing offences of this sort, and being guilty of such a number of monstrous and grievous crimes, he is heedless alike of the past and of the future; when he ought to have been the most orderly of citizens, so as to excuse by his own life the offences of his father, he attempts to outrage others, as though he might succeed in imparting to his neighbors some tiny share of his own store of infamies,  — and that, too, when he is the son of Alcibiades,
+
+cts:urn:tlg0540.tlg014:30
+glaux2.0-sentence	67a
+perseus-grc2	 ὃς ἔπεισε μὲν Δεκέλειαν Λακεδαιμονίους ἐπιτειχίσαι , ἐπὶ δὲ τὰς νήσους ἀποστήσων ἔπλευσε , διδάσκαλος δὲ τῶν τῆς πόλεως κακῶν ἐγένετο , πλεονάκις δὲ μετὰ τῶν ἐχθρῶν ἐπὶ τὴν πατρίδα ἐστρατεύσατο ἢ μετὰ τῶν πολιτῶν ἐπ’ ἐκείνους .
+perseus-eng2	 who induced the Lacedaemonians to fortify Decelea, who sailed to rouse the islands to revolt, who became a promoter of mischief to our city, and who marched more often in the ranks of the enemy against his native land than those of his fellow-citizens against them!
+
+cts:urn:tlg0540.tlg014:30
+glaux2.0-sentence	68
+perseus-grc2	 ἀνθ’ ὧν καὶ ὑμῖν καὶ τοῖς μέλλουσιν ἔσεσθαι τιμωρεῖσθαι προσήκει ὅντινα λαμβάνετε τούτων .
+perseus-eng2	 For those actions it is your duty, as it is also of those who are to come after you, to take vengeance on anyone of this family who falls into your hands.
+
+cts:urn:tlg0540.tlg014:31
+glaux2.0-sentence	69
+perseus-grc2	 καίτοι σφόδρα εἴθισται λέγειν ὡς οὐκ εἰκός ἐστι τὸν μὲν πατέρα αὐτοῦ κατελθόντα δωρεὰς παρὰ τοῦ δήμου λαβεῖν , τοῦτον δ’ ἀδίκως διὰ τὴν φυγὴν τὴν ἐκείνου διαβεβλῆσθαι .
+perseus-eng2	 Yet it is a constant habit of his to say that it is unfair, when his father on returning home received gifts from the people, that he should find himself unjustly discredited on account of his father’s exile.
+
+cts:urn:tlg0540.tlg014:31
+glaux2.0-sentence	70
+perseus-grc2	 ἐμοὶ δὲ δοκεῖ δεινὸν εἶναι , εἰ τὰς μὲν δωρεὰς αὐτοῦ ἀφείλεσθε ὡς οὐ δικαίως δεδωκότες , τούτου δὲ ἀδικοῦντος ἀποψηφιεῖσθε ὡς τοῦ πατρὸς χρηστοῦ περὶ τὴν πόλιν γεγενημένου .
+perseus-eng2	 But in my opinion it would be monstrous if, after depriving the father of those gifts as having been unjustly bestowed, you should acquit this man, though a wrongdoer, on the ground of good service done to the city by his father.
+
+cts:urn:tlg0540.tlg014:32
+glaux2.0-sentence	71
+perseus-grc2	 καὶ μὲν δή , ὦ ἄνδρες δικασταί , ἄλλων τε πολλῶν ἄξιον ἕνεκα αὐτοῦ καταψηφίσασθαι , καὶ ὅτι ταῖς ὑμετέραις ἀρεταῖς χρῆται παραδείγμασι περὶ τῆς ἑαυτοῦ πονηρίας .
+perseus-eng2	 And then, gentlemen of the jury, besides other abundant reasons for which he ought to be convicted, there is the fact that he takes your valorous conduct as a precedent to justify his own baseness.
+
+cts:urn:tlg0540.tlg014:32
+glaux2.0-sentence	72
+perseus-grc2	 τολμᾷ γὰρ λέγειν ὡς Ἀλκιβιάδης οὐδὲν δεινὸν εἴργασται ἐπὶ τὴν πατρίδα στρατεύσας ·
+perseus-eng2	 For he has the audacity to say that Alcibiades has done nothing outrageous in marching against his native land,
+
+cts:urn:tlg0540.tlg014:33
+glaux2.0-sentence	73
+perseus-grc2	 καὶ γὰρ ὑμᾶς φεύγοντας Φυλὴν καταλαβεῖν καὶ δένδρα τεμεῖν καὶ πρὸς τὰ τείχη προσβαλεῖν , καὶ ταῦτα ποιήσαντας οὐκ ὄνειδος τοῖς παισὶ καταλιπεῖν , ἀλλὰ τιμὴν παρὰ πᾶσιν ἀνθρώποις κτήσασθαι , ὡς τῶν αὐτῶν ὄντας ἀξίους ὅσοι φυγόντες μετὰ τῶν πολεμίων ἐπὶ τὴν χώραν ἐστράτευσαν , καὶ ὅσοι κατῄεσαν Λακεδαιμονίων ἐχόντων τὴν πόλιν .
+perseus-eng2	 since you in your exile occupied Phyle, cut down trees and assaulted the walls, and by these acts of yours, instead of bequeathing disgrace to your children, you won honor in the eyes of all the world; as though there were no difference in the deserts of men who used their exile to march in the ranks of the enemy against their country, and those who strove for their return while the Lacedaemonians held the city!
+
+cts:urn:tlg0540.tlg014:34
+glaux2.0-sentence	74
+perseus-grc2	 καὶ μὲν δὴ πᾶσιν ἡγοῦμαι δῆλον εἶναι ὅτι οὗτοι μὲν ἐζήτουν κατιέναι ὡς τὴν μὲν τῆς θαλάττης ἀρχὴν Λακεδαιμονίοις παραδώσοντες , αὐτοὶ δ’ ὑμῶν ἄρξοντες .
+perseus-eng2	 And again, I think it must be obvious to all that these others sought to return that they might surrender the command of the sea to the Lacedaemonians, and gain the command of you for themselves;
+
+cts:urn:tlg0540.tlg014:34
+glaux2.0-sentence	75
+perseus-grc2	 τὸ δ’ ὑμέτερον πλῆθος κατελθὸν τοὺς μὲν πολεμίους ἐξήλασε , τῶν δὲ πολιτῶν καὶ τοὺς βουλομένους δουλεύειν ἠλευθέρωσεν ·
+perseus-eng2	 whereas your democracy, on its return, expelled the enemy and liberated even those of our citizens who desired to be slaves.
+
+cts:urn:tlg0540.tlg014:34
+glaux2.0-sentence	76
+perseus-grc2	 ὥστ’ οὐχ ὁμοίων τῶν ἔργων ἀμφοτέροις γεγενημένων τοὺς λόγους ποιεῖται .
+perseus-eng2	 So that there is no such parallel between the actions of the two parties as he seeks to draw.
+
+cts:urn:tlg0540.tlg014:35
+glaux2.0-sentence	77
+perseus-grc2	 ἀλλ’ ὅμως τοσούτων συμφορῶν καὶ οὕτως αὐτῷ μεγάλων ὑπαρχουσῶν ἐπὶ τῇ τοῦ πατρὸς πονηρίᾳ φιλοτιμεῖται , καὶ λέγει ὡς οὕτως ἐκεῖνος μέγα ἐδύνατο , ὥστε τῇ πόλει πάντων τῶν κακῶν αἴτιος γεγένηται .
+perseus-eng2	 But despite the many grievous disasters that are upon his head he prides himself on his father’s villainy, and tells us that the man was so mighty that he has been the author of all the troubles that have befallen our city.
+
+cts:urn:tlg0540.tlg014:35
+glaux2.0-sentence	78
+perseus-grc2	 καίτοι τίς οὕτως ἄπειρος τῆς ἑαυτοῦ πατρίδος , ὃς οὐκ ἂν βουλόμενος εἶναι πονηρὸς εἰσηγήσαιτο μὲν τοῖς πολεμίοις ἃ χρὴ καταλαβεῖν τῶν χωρίων , δηλώσειε δ’ ἂν ἃ κακῶς φυλάττεται τῶν φρουρίων , διδάξειε δ’ ἂν ἃ πονηρῶς ἔχει τῶν πραγμάτων , μηνύσειε δ’ ἂν τοὺς βουλομένους ἀφίστασθαι τῶν συμμάχων ;
+perseus-eng2	 And yet, what man is there so ignorant of his own country’s affairs that cannot, if he chooses to be a villain, inform the enemy of the positions that ought to be occupied, point out the forts that are ill-guarded, instruct them in the weaknesses of the State, and indicate the allies who desire to secede?
+
+cts:urn:tlg0540.tlg014:36
+glaux2.0-sentence	79
+perseus-grc2	 οὐ γὰρ δήπου , ὅτε μὲν ἔφευγε , διὰ τὴν δύναμιν κακῶς οἷός τ’ ἦν ποιεῖν τὴν πόλιν , ἐπειδὴ δὲ ὑμᾶς ἐξαπατήσας κατῆλθε καὶ πολλῶν ἦρξε τριήρων , οὔ -τε τοὺς πολεμίους ἐδύνατο ἐκ τῆς χώρας ἐκβαλεῖν , οὔ -τε Χίους οὓς ἀπέστησε πάλιν φίλους ποιῆσαι , οὔ -τε ἄλλο οὐδὲν ἀγαθὸν ὑμᾶς ἐργάσασθαι .
+perseus-eng2	 For if during his exile it was his power that enabled him to injure the city, how was it that, having obtained his return by deceiving you and being in command of many ships of war, he had not power enough to expel the enemy from our land or to regain for you the friendship of the Chians whom he had alienated, or to do you any other useful service?
+
+cts:urn:tlg0540.tlg014:37
+glaux2.0-sentence	80
+perseus-grc2	 ὥστ’ οὐ χαλεπὸν γνῶναι ὅτι Ἀλκιβιάδης δυνάμει μὲν οὐδὲν τῶν ἄλλων διέφερε , πονηρίᾳ δὲ τῶν πολιτῶν πρῶτος ἦν .
+perseus-eng2	 Thus there is no difficulty in concluding that on the score of power he had no particular advantage, but that in foul play he stood first of his fellows.
+
+cts:urn:tlg0540.tlg014:37
+glaux2.0-sentence	81
+perseus-grc2	 ἃ μὲν γὰρ ᾔδει τῶν ὑμετέρων κακῶς ἔχοντα , μηνυτὴς αὐτῶν Λακεδαιμονίοις ἐγένετο ·
+perseus-eng2	 For he took upon him to indicate to the Lacedaemonians the points in your affairs which he knew to be in a bad way;
+
+cts:urn:tlg0540.tlg014:37
+glaux2.0-sentence	82
+perseus-grc2	 ἐπειδὴ δ’ ἔδει αὐτὸν στρατηγεῖν , οὐδὲν κακὸν ποιεῖν ἐκείνους ἐδύνατο , ἀλλ’ ὑποσχόμενος δι’ ἑαυτὸν παρέξειν βασιλέα χρήματα , πλεῖν ἢ διακόσια τάλαντα τῆς πόλεως ὑφείλετο .
+perseus-eng2	 but, when he had the duty of holding the command, he was powerless to do them any harm. After undertaking that, for his sake, the king would provide us with money, he embezzled more than two hundred talents of our city’s funds.
+
+cts:urn:tlg0540.tlg014:38
+glaux2.0-sentence	83
+perseus-grc2	 καὶ οὕτω πολλὰ ἐνόμιζεν εἰς ὑμᾶς ἡμαρτηκέναι , ὥστε λέγειν δυνάμενος καὶ φίλων ὄντων καὶ χρήματα κεκτημένος οὐδέποτ’ ἐλθὼν εὐθύνας ἐτόλμησε δοῦναι , ἀλλὰ φυγὴν αὑτοῦ καταγνοὺς καὶ Θράκης καὶ πάσης πόλεως ἐβούλετο πολίτης γενέσθαι μᾶλλον ἢ τῆς πατρίδος εἶναι τῆς ἑαυτοῦ .
+perseus-eng2	 So sensible was he of his numerous offences against you that, for all his power of speech, his friends, and his acquisition of wealth, he never once ventured to come under an inquiry, but condemned himself to exile, and preferred to become a citizen of Thrace and any sort of city rather than belong to his own native land.
+
+cts:urn:tlg0540.tlg014:38
+glaux2.0-sentence	84
+perseus-grc2	 καὶ τὸ τελευταῖον , ὦ ἄνδρες δικασταί , ὑπερβολὴν ποιησάμενος τῆς προτέρας πονηρίας ἐτόλμησε τὰς ναῦς Λυσάνδρῳ μετὰ Ἀδειμάντου προδοῦναι .
+perseus-eng2	 Finally, gentlemen, he outdid his former villainy by daring, with Adeimantus, to surrender the ships to Lysander.
+
+cts:urn:tlg0540.tlg014:39
+glaux2.0-sentence	85
+perseus-grc2	 ὥστε εἴ τις ὑμῶν ἢ τοὺς τεθνεῶτας ἐν τῇ ναυμαχίᾳ ἐλεεῖ , ἢ ὑπὲρ τῶν δουλευσάντων τοῖς πολεμίοις αἰσχύνεται , ἢ τῶν τειχῶν καθῃρημένων ἀγανακτεῖ , ἢ Λακεδαιμονίους μισεῖ , ἢ τοῖς τριάκοντα ὀργίζεται , τούτων ἁπάντων χρὴ τὸν τούτου πατέρα αἴτιον ἡγεῖσθαι , καὶ ἐνθυμηθῆναι ὅτι Ἀλκιβιάδην μὲν τὸν πρόπαππον αὐτοῦ καὶ τὸν πατρὸς πρὸς μητρὸς πάππον Μεγακλέα οἱ ὑμέτεροι πρόγονοι δὶς ἀμφοτέρους ἐξωστράκισαν , τοῦ δὲ πατρὸς αὐτοῦ οἱ πρεσβύτεροι ὑμῶν θάνατον κατέγνωσαν ,
+perseus-eng2	 So, if anyone among you feels pity for those who lost their lives in the sea-fight, or is ashamed for those who were enslaved by the enemy, or resents the destruction of the walls, or hates the Lacedaemonians, or feels anger against the Thirty, he should hold this man’s father responsible for all these things, and reflect that it was Alcibiades, his great-grand-father, and Megacles, his father’s grandfather on the mother’s side, whom your ancestors ostracized, both of them twice, and that the older among you have condemned his father to death.
+
+cts:urn:tlg0540.tlg014:40
+glaux2.0-sentence	85a
+perseus-grc2	 ὥστε νῦν χρὴ ἡγησαμένους πατρικὸν ἐχθρὸν τοῦτον εἶναι τῇ πόλει καταψηφίσασθαι , καὶ μή -τε ἔλεον μή -τε συγγνώμην μή -τε χάριν μηδεμίαν περὶ πλείονος ποιήσασθαι τῶν νόμων τῶν κειμένων καὶ τῶν ὅρκων οὓς ὠμόσατε .
+perseus-eng2	 Wherefore you ought now to condemn this man as one whom you have judged to be a hereditary enemy of the city, and to set neither pity nor forgiveness nor any favour above the established laws and the oaths that you have sworn.
+
+cts:urn:tlg0540.tlg014:41
+glaux2.0-sentence	86
+perseus-grc2	 σκέψασθαι δὲ χρή , ὦ ἄνδρες δικασταί , διὰ τί ἄν τις τοιούτων ἀνδρῶν φείσαιτο ;
+perseus-eng2	 And you should ask yourselves, gentlemen, what reason you could have for sparing such men as these.
+
+cts:urn:tlg0540.tlg014:41
+glaux2.0-sentence	87
+perseus-grc2	 πότερον ὡς πρὸς μὲν τὴν πόλιν δεδυστυχήκασιν , ἄλλως δὲ κόσμοί εἰσι καὶ σωφρόνως βεβιώκασιν ;
+perseus-eng2	 Is it because, unfortunate though their public career has been, they are otherwise orderly persons, who have lived sober lives?
+
+cts:urn:tlg0540.tlg014:41
+glaux2.0-sentence	88
+perseus-grc2	 οὐχ οἱ μὲν πολλοὶ αὐτῶν ἡταιρήκασιν , οἱ δ’ ἀδελφαῖς συγγεγόνασι , τοῖς δ’ ἐκ θυγατέρων παῖδες γεγόνασιν ,
+perseus-eng2	 Have not most of them been prostitutes, while some have lain with their sisters, and others have had children by their daughters;
+
+cts:urn:tlg0540.tlg014:42
+glaux2.0-sentence	88a
+perseus-grc2	 οἱ δὲ μυστήρια πεποιήκασι καὶ τοὺς Ἑρμᾶς περικεκόφασι καὶ περὶ πάντας τοὺς θεοὺς ἠσεβήκασι καὶ εἰς ἅπασαν τὴν πόλιν ἡμαρτήκασιν , ἀδίκως καὶ παρανόμως καὶ πρὸς τοὺς ἄλλους πολιτευόμενοι καὶ πρὸς σφᾶς αὐτοὺς διακείμενοι , οὐδεμιᾶς τόλμης ἀπεχόμενοι , οὐ -δὲ ἔργου δεινοῦ ἄπειροι γεγενημένοι ;
+perseus-eng2	 others, again, have performed Mysteries, mutilated the Hermae, and committed profanity against all the gods and offences against the whole city, showing injustice and illegality alike in their public treatment of their fellow-men and in their behavior to each other, refraining from no audacity, and unversed in no outrageous practice?
+
+cts:urn:tlg0540.tlg014:42
+glaux2.0-sentence	89
+perseus-grc2	 ἀλλὰ καὶ πεπόνθασιν καὶ πεποιήκασιν ἅπαντα .
+perseus-eng2	 Indeed, there is nothing that they have been spared, or have spared.
+
+cts:urn:tlg0540.tlg014:42
+glaux2.0-sentence	90
+perseus-grc2	 οὕτω γὰρ διάκεινται , ὥστ’ ἐπὶ μὲν τοῖς καλοῖς αἰσχύνεσθαι , ἐπὶ δὲ τοῖς κακοῖς φιλοτιμεῖσθαι .
+perseus-eng2	 For their propensity is to be ashamed of what is honorable, and to glory in what is base.
+
+cts:urn:tlg0540.tlg014:43
+glaux2.0-sentence	91
+perseus-grc2	 καὶ μὲν δή , ὦ ἄνδρες δικασταί , ἤδη τινῶν ἀπεψηφίσασθε ἀδικεῖν μὲν νομίσαντες , οἰόμενοι δ’ εἰς τὸ λοιπὸν χρησίμους ὑμῖν ἔσεσθαι .
+perseus-eng2	 It is true, gentlemen, you have acquitted ere now some persons though you held them guilty, because you supposed that they would be useful to you in the future.
+
+cts:urn:tlg0540.tlg014:43
+glaux2.0-sentence	92
+perseus-grc2	 τίς οὖν ἐλπὶς ὑπὸ τούτου τι ἀγαθὸν πείσεσθαι τὴν πόλιν , ὃν ὑμεῖς , ὅτι μὲν οὐδενὸς ἄξιός ἐστιν , ἐπειδὰν ἀπολογῆται , εἴσεσθε , ὅτι δὲ πονηρός ἐστιν ἐκ τῶν ἄλλων ἐπιτηδευμάτων ἤσθησθε ;
+perseus-eng2	 Well, what hope is there that the city will derive any benefit from this man, whom you will know for the worthless wretch he is, when he makes his defence, and whose villainy you have learnt from the general tenor of his life?
+
+cts:urn:tlg0540.tlg014:44
+glaux2.0-sentence	93
+perseus-grc2	 ἀλλὰ μὲν δὴ οὐ -δ’ ἂν ἐξελθὼν ἐκ τῆς πόλεως οὐδὲν δύναιτο κακὸν ὑμᾶς ἐργάσασθαι , δειλὸς ὢν καὶ πένης καὶ πράττειν ἀδύνατος καὶ τοῖς οἰκείοις διάφορος καὶ ὑπὸ τῶν ἄλλων μισούμενος .
+perseus-eng2	 But, what is more, even if he left the city he could do you no harm, craven and pauper that he is, with no ability for business, at feud with his own folk and hated by everyone else.
+
+cts:urn:tlg0540.tlg014:44
+glaux2.0-sentence	94
+perseus-grc2	 ὥστ’ οὐ -δὲ τούτων ἕνεκα αὐτὸν ἄξιον φυλάττεσθαι ,
+perseus-eng2	 Therefore, not even for these reasons is he worth sparing,
+
+cts:urn:tlg0540.tlg014:45
+glaux2.0-sentence	94a
+perseus-grc2	 ἀλλὰ πολὺ μᾶλλον παράδειγμα ποιῆσαι καὶ τοῖς ἄλλοις καὶ τοῖς τούτου φίλοις , οἳ τὰ μὲν προσταττόμενα ποιεῖν οὐκ ἐθέλουσι , τοιούτων δ’ ἔργων ἐπιθυμοῦσι , καὶ περὶ τῶν σφετέρων αὐτῶν κακῶς βουλευσάμενοι περὶ τῶν ὑμετέρων δημηγοροῦσιν .
+perseus-eng2	 So neither is there any reason here to be heedful of him: far rather should you make him serve as an example for all people, and particularly his friends, who refuse to do what is enjoined on them, who aspire to similar conduct, and who, misguided in their own concerns, harangue you upon yours.
+
+cts:urn:tlg0540.tlg014:46
+glaux2.0-sentence	95
+perseus-grc2	 ἐγὼ μὲν οὖν ὡς ἐδυνάμην ἄριστα κατηγόρηκα , ἐπίσταμαι δ’ ὅτι οἱ μὲν ἄλλοι τῶν ἀκροωμένων θαυμάζουσιν , ὅπως ποθ’ οὕτως ἀκριβῶς ἐδυνήθην ἐξευρεῖν τὰ τούτων ἁμαρτήματα , οὗτος δέ μου καταγελᾷ , ὅτι οὐ -δὲ πολλοστὸν μέρος εἴρηκα τῶν τούτοις ὑπαρχόντων κακῶν .
+perseus-eng2	 Now, I have made my accusation to the best of my ability. I am well aware that the rest of my hearers are wondering how I could have discovered the offences of these men with such precision, yet the accused is deriding me for having told but the smallest fraction of the crimes that lie at their door.
+
+cts:urn:tlg0540.tlg014:47
+glaux2.0-sentence	96
+perseus-grc2	 ὑμεῖς οὖν καὶ τὰ εἰρημένα καὶ τὰ παραλελειμμένα ἀναλογισάμενοι πολὺ μᾶλλον αὐτοῦ καταψηφίσασθε , ἐνθυμηθέντες ὅτι ἔνοχος μέν ἐστι τῇ γραφῇ , μεγάλη δ’ εὐτυχία τὸ τοιούτων πολιτῶν ἀπαλλαγῆναι τῇ πόλει .
+perseus-eng2	 You have therefore to reckon in with what has been told the tale of what has been omitted, and to be all the more for condemning him; you must reflect that he is liable to the charge preferred, and that it is a great blessing to the State that it should be relieved of this sort of citizen.
+
+cts:urn:tlg0540.tlg014:47
+glaux2.0-sentence	97
+perseus-grc2	 ἀνάγνωθι δ’ αὐτοῖς τοὺς νόμους καὶ τοὺς ὅρκους καὶ τὴν γραφήν ·
+perseus-eng2	 Read them the laws, the oaths and the charge preferred:
+
+cts:urn:tlg0540.tlg014:47
+glaux2.0-sentence	98
+perseus-grc2	 καὶ τούτων μεμνημένοι ψηφιοῦνται τὰ δίκαια .
+perseus-eng2	 bearing these in mind, they will vote what is just.

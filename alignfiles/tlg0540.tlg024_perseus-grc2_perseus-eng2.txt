@@ -1,0 +1,400 @@
+
+cts:urn:tlg0540.tlg024:1
+glaux2.0-sentence	1
+perseus-grc2	 οὐ πολλοῦ δέω χάριν ἔχειν , ὦ βουλή , τῷ κατηγόρῳ , ὅτι μοι παρεσκεύασε τὸν ἀγῶνα τουτονί .
+perseus-eng2	 I can almost find it in me to be grateful to my accuser, gentlemen of the Council, for having involved me in these proceedings.
+
+cts:urn:tlg0540.tlg024:1
+glaux2.0-sentence	2
+perseus-grc2	 πρότερον γὰρ οὐκ ἔχων πρόφασιν ἐφ’ ἧς τοῦ βίου λόγον δοίην , νυνὶ διὰ τοῦτον εἴληφα .
+perseus-eng2	 For previously I had no excuse for rendering an account of my life; but now, owing to this man, I have got one.
+
+cts:urn:tlg0540.tlg024:1
+glaux2.0-sentence	3
+perseus-grc2	 καὶ πειράσομαι τῷ λόγῳ τοῦτον μὲν ἐπιδεῖξαι ψευδόμενον , ἐμαυτὸν δὲ βεβιωκότα μέχρι τῆσδε τῆς ἡμέρας ἐπαίνου μᾶλλον ἄξιον ἤ φθόνου ·
+perseus-eng2	 So I will try to show you in my speech that this man is lying, and that my own life until this day has been deserving of praise rather than envy;
+
+cts:urn:tlg0540.tlg024:1
+glaux2.0-sentence	4
+perseus-grc2	 διὰ γὰρ οὐδὲν ἄλλο μοι δοκεῖ παρασκευάσαι τόνδε μοι τὸν κίνδυνον οὗτος ἢ διὰ φθόνον .
+perseus-eng2	 for it is merely from envy, in my opinion, that he has involved me in this ordeal.
+
+cts:urn:tlg0540.tlg024:2
+glaux2.0-sentence	5
+perseus-grc2	 καίτοι ὅστις τούτοις φθονεῖ οὓς οἱ ἄλλοι ἐλεοῦσι , τίνος ἂν ὑμῖν ὁ τοιοῦτος ἀποσχέσθαι δοκεῖ πονηρίας ;
+perseus-eng2	 But I ask you, if a man envies those whom other people pity, from what villainy do you think such a person would refrain?
+
+cts:urn:tlg0540.tlg024:2
+glaux2.0-sentence	6
+perseus-grc2	 εἰ μὲν γὰρ ἕνεκα χρημάτων με συκοφαντεῖ — ·
+perseus-eng2	 Is it possible that he hopes to get money by slandering me?
+
+cts:urn:tlg0540.tlg024:2
+glaux2.0-sentence	7
+perseus-grc2	 εἰ δ’ ὡς ἐχθρὸν ἑαυτοῦ με τιμωρεῖται , ψεύδεται ·
+perseus-eng2	 And if he makes me out an enemy on whom he seeks to be avenged, he lies;
+
+cts:urn:tlg0540.tlg024:2
+glaux2.0-sentence	8
+perseus-grc2	 διὰ γὰρ τὴν πονηρίαν αὐτοῦ οὔ -τε φίλῳ οὔ -τε ἐχθρῷ πώποτε ἐχρησάμην αὐτῷ .
+perseus-eng2	 for his villainy has always kept me from having any dealings with him either as a friend or as an enemy.
+
+cts:urn:tlg0540.tlg024:3
+glaux2.0-sentence	9
+perseus-grc2	 ἤδη τοίνυν , ὦ βουλή , δῆλός ἐστι φθονῶν , ὅτι τοιαύτῃ κεχρημένος συμφορᾷ τούτου βελτίων εἰμὶ πολίτης .
+perseus-eng2	 So now, gentlemen, it is clear that he envies me because, although I have to bear this sore misfortune, I am a better citizen than he is.
+
+cts:urn:tlg0540.tlg024:3
+glaux2.0-sentence	10
+perseus-grc2	 καὶ γὰρ οἶμαι δεῖν , ὦ βουλή , τὰ τοῦ σώματος δυστυχήματα τοῖς τῆς ψυχῆς ἐπιτηδεύμασιν ἰᾶσθαι , καλῶς .
+perseus-eng2	 For indeed I consider, gentlemen, that one ought to remedy the afflictions of the body with the activities of the spirit;
+
+cts:urn:tlg0540.tlg024:3
+glaux2.0-sentence	11
+perseus-grc2	 εἰ γὰρ ἐξ ἴσου τῇ συμφορᾷ καὶ τὴν διάνοιαν ἕξω καὶ τὸν ἄλλον βίον διάξω , τί τούτου διοίσω ;
+perseus-eng2	 for if I am to keep my thoughts and the general tenor of my life on the level of my misfortune, how shall I be distinguished from this man?
+
+cts:urn:tlg0540.tlg024:4
+glaux2.0-sentence	12
+perseus-grc2	 περὶ μὲν οὖν τούτων τοσαῦτά μοι εἰρήσθω ·
+perseus-eng2	 Well, in regard to those matters, let these few words of mine suffice:
+
+cts:urn:tlg0540.tlg024:4
+glaux2.0-sentence	13
+perseus-grc2	 ὑπὲρ ὧν δέ μοι προσήκει λέγειν , ὡς ἂν οἷόν τε διὰ βραχυτάτων ἐρῶ .
+perseus-eng2	 I will now speak as briefly as I can on the points with which I am here concerned.
+
+cts:urn:tlg0540.tlg024:4
+glaux2.0-sentence	14
+perseus-grc2	 φησὶ γὰρ ὁ κατήγορος οὐ δικαίως με λαμβάνειν τὸ παρὰ τῆς πόλεως ἀργύριον ·
+perseus-eng2	 My accuser says that I have no right to receive my civil pension,
+
+cts:urn:tlg0540.tlg024:4
+glaux2.0-sentence	15
+perseus-grc2	 καὶ γὰρ τῷ σώματι δύνασθαι καὶ οὐκ εἶναι τῶν ἀδυνάτων , καὶ τέχνην ἐπίστασθαι τοιαύτην ὥστε καὶ ἄνευ τοῦ διδομένου τούτου ζῆν .
+perseus-eng2	 because I am able-bodied and not classed as disabled, and because I am skilled in a trade which would enable me to live without this grant.
+
+cts:urn:tlg0540.tlg024:5
+glaux2.0-sentence	16
+perseus-grc2	 καὶ τεκμηρίοις χρῆται τῆς μὲν τοῦ σώματος ῥώμης , ὅτι ἐπὶ τοὺς ἵππους ἀναβαίνω , τῆς δ’ ἐν τῇ τέχνῃ εὐπορίας , ὅτι δύναμαι συνεῖναι δυναμένοις ἀνθρώποις ἀναλίσκειν .
+perseus-eng2	 In proof of my bodily strength, he instances that I mount on horseback; of the affluence arising from my trade, that I am able to associate with people who have means to spend.
+
+cts:urn:tlg0540.tlg024:5
+glaux2.0-sentence	17
+perseus-grc2	 τὴν μὲν οὖν ἐκ τῆς τέχνης εὐπορίαν καὶ τὸν ἄλλον τὸν ἐμὸν βίον , οἷος τυγχάνει , πάντας ὑμᾶς οἴομαι γιγνώσκειν ·
+perseus-eng2	 Now, as to the affluence from my trade and the nature of my livelihood in general, I think you are all acquainted with these:
+
+cts:urn:tlg0540.tlg024:5
+glaux2.0-sentence	18
+perseus-grc2	 ὅμως δὲ κα- κἀγὼ διὰ βραχέων ἐρῶ .
+perseus-eng2	 I will, however, make some brief remarks of my own.
+
+cts:urn:tlg0540.tlg024:6
+glaux2.0-sentence	19
+perseus-grc2	 ἐμοὶ γὰρ ὁ μὲν πατὴρ κατέλιπεν οὐδέν , τὴν δὲ μητέρα τελευτήσασαν πέπαυμαι τρέφων τρίτον ἔτος τουτί , παῖδες δέ μοι οὔπω εἰσὶν οἵ με θεραπεύσουσι .
+perseus-eng2	 My father left me nothing, and I have only ceased supporting my mother on her decease two years ago; while as yet I have no children to take care of me.
+
+cts:urn:tlg0540.tlg024:6
+glaux2.0-sentence	20
+perseus-grc2	 τέχνην δὲ κέκτημαι βραχέα δυναμένην ὠφελεῖν , ἣν αὐτὸς μὲν ἤδη χαλεπῶς ἐργάζομαι , τὸν διαδεξόμενον δ’ αὐτὴν οὔπω δύναμαι κτήσασθαι .
+perseus-eng2	 I possess a trade that can give me but slight assistance: I already find difficulty in carrying it on myself, and as yet I am unable to procure someone to relieve me of the work.
+
+cts:urn:tlg0540.tlg024:6
+glaux2.0-sentence	21
+perseus-grc2	 πρόσοδος δέ μοι οὐκ ἔστιν ἄλλη πλὴν ταύτης , ἣν ἂν ἀφέλησθέ με , κινδυνεύσαιμ’ ἂν ὑπὸ τῇ δυσχερεστάτῃ γενέσθαι τύχῃ .
+perseus-eng2	 I have no other income besides this dole, and if you deprive me of it I might be in danger of finding myself in the most grievous plight.
+
+cts:urn:tlg0540.tlg024:7
+glaux2.0-sentence	22
+perseus-grc2	 μὴ τοίνυν , ἐπειδή γε ἔστιν , ὦ βουλή , σῶσαί με δικαίως , ἀπολέσητε ἀδίκως ·
+perseus-eng2	 Do not, therefore, gentlemen, when you can save me justly, ruin me unjustly;
+
+cts:urn:tlg0540.tlg024:7
+glaux2.0-sentence	23
+perseus-grc2	 μη -δὲ ἃ νεωτέρῳ καὶ μᾶλλον ἐρρωμένῳ ὄντι ἔδοτε , πρεσβύτερον καὶ ἀσθενέστερον γιγνόμενον ἀφέλησθε ·
+perseus-eng2	 what you granted me when I was younger and stronger, do not take from me when I am growing older and weaker;
+
+cts:urn:tlg0540.tlg024:7
+glaux2.0-sentence	24
+perseus-grc2	 μη -δὲ πρότερον καὶ περὶ τοὺς οὐδὲν ἔχοντας κακὸν ἐλεημονέστατοι δοκοῦντες εἶναι νυνὶ διὰ τοῦτον τοὺς καὶ τοῖς ἐχθροῖς ἐλεινοὺς ὄντας ἀγρίως ἀποδέξησθε ·
+perseus-eng2	 nor, with your previous reputation for showing the utmost compassion even towards those who are in no trouble, be moved now by this man to deal harshly with those who are objects of pity even to their enemies;
+
+cts:urn:tlg0540.tlg024:7
+glaux2.0-sentence	25
+perseus-grc2	 μη -δ’ ἐμὲ τολμήσαντες ἀδικῆσαι καὶ τοὺς ἄλλους τοὺς ὁμοίως ἐμοὶ διακειμένους ἀθυμῆσαι ποιήσητε .
+perseus-eng2	 nor, by having the heart to wrong me, cause everyone else in my situation to despond.
+
+cts:urn:tlg0540.tlg024:8
+glaux2.0-sentence	26
+perseus-grc2	 καὶ γὰρ ἂν ἄτοπον εἴη , ὦ βουλή , εἰ ὅτε μὲν ἁπλῆ μοι ἦν ἡ συμφορά , τότε μὲν φαινοίμην λαμβάνων τὸ ἀργύριον τοῦτο , νῦν δ’ ἐπειδὴ καὶ γῆρας καὶ νόσοι καὶ τὰ τούτοις ἑπόμενα κακὰ προσγίγνεταί μοι , τότε ἀφαιρεθείην .
+perseus-eng2	 And indeed, how extraordinary the case would be, gentlemen! When my misfortune was but simple, I am found to have been receiving this pension; but now, when old age, diseases, and the ills that attend on them are added to my trouble, I am to be deprived of it!
+
+cts:urn:tlg0540.tlg024:9
+glaux2.0-sentence	27
+perseus-grc2	 δοκεῖ δέ μοι τῆς πενίας τῆς ἐμῆς τὸ μέγεθος ὁ κατήγορος ἂν ἐπιδεῖξαι σαφέστατα μόνος ἀνθρώπων .
+perseus-eng2	 The depth of my poverty, I believe, can be revealed more clearly by my accuser than by anyone else on earth.
+
+cts:urn:tlg0540.tlg024:9
+glaux2.0-sentence	28
+perseus-grc2	 εἰ γὰρ ἐγὼ κατασταθεὶς χορηγὸς τραγῳδοῖς προκαλεσαίμην αὐτὸν εἰς ἀντίδοσιν , δεκάκις ἂν ἕλοιτο χορηγῆσαι μᾶλλον ἢ ἀντιδοῦναι ἅπαξ .
+perseus-eng2	 For if I were charged with the duty of producing tragic drama, and should challenge him to an exchange of property, he would prefer being the producer ten times over to making the exchange once.
+
+cts:urn:tlg0540.tlg024:9
+glaux2.0-sentence	29
+perseus-grc2	 καὶ πῶς οὐ δεινόν ἐστι νῦν μὲν κατηγορεῖν ὡς διὰ πολλὴν εὐπορίαν ἐξ ἴσου δύναμαι συνεῖναι τοῖς πλουσιωτάτοις , εἰ δὲ ὧν ἐγὼ λέγω τύχοι τι γενόμενον , τοιοῦτον εἶναι ;
+perseus-eng2	 Surely it is monstrous that he should now accuse me of having such great affluence that I can consort on equal terms with the wealthiest people, while, in the event of such a thing as I have suggested, he should make that choice.
+
+cts:urn:tlg0540.tlg024:9
+glaux2.0-sentence	30
+perseus-grc2	 καὶ τί πονηρότερον ;
+perseus-eng2	 Why, what could be more villainous?
+
+cts:urn:tlg0540.tlg024:10
+glaux2.0-sentence	31
+perseus-grc2	 περὶ δὲ τῆς ἐμῆς ἱππικῆς , ἧς οὗτος ἐτόλμησε μνησθῆναι πρὸς ὑμᾶς , οὔ -τε τὴν τύχην δείσας οὔ -τε ὑμᾶς αἰσχυνθείς , οὐ πολὺς ὁ λόγος .
+perseus-eng2	 As to my horsemanship, which he has dared to mention to you, feeling neither awe of fortune nor shame before you, there is not much to tell.
+
+cts:urn:tlg0540.tlg024:10
+glaux2.0-sentence	32
+perseus-grc2	 ἐγὼ γὰρ , ὦ βουλή , πάντας οἶμαι τοὺς ἔχοντάς τι δυστύχημα τοῦτο ζητεῖν καὶ τοῦτο φιλοσοφεῖν , ὅπως ὡς ἀλυπότατα μεταχειριοῦνται τὸ συμβεβηκὸς πάθος .
+perseus-eng2	 For I, gentlemen, am of opinion that all who suffer from some affliction make it their single aim and constant study to manage the condition that has befallen them with the least amount of discomfort.
+
+cts:urn:tlg0540.tlg024:10
+glaux2.0-sentence	33
+perseus-grc2	 ὧν εἷς ἐγώ , καὶ περιπεπτωκὼς τοιαύτῃ συμφορᾷ ταύτην ἐμαυτῷ ῥᾳστώνην ἐξηῦρον εἰς τὰς ὁδοὺς τὰς μακροτέρας τῶν ἀναγκαίων .
+perseus-eng2	 I am such an one, and in the misfortune that has stricken me I have devised this facility for myself on the longer journeys that I find necessary.
+
+cts:urn:tlg0540.tlg024:11
+glaux2.0-sentence	34
+perseus-grc2	 ὃ δὲ μέγιστον , ὦ βουλή , τεκμήριον ὅτι διὰ τὴν συμφορὰν ἀλλ’ οὐ διὰ τὴν ὕβριν , ὡς οὗτός φησιν , ἐπὶ τοὺς ἵππους ἀναβαίνω ῥᾴδιόν ἐστι μαθεῖν ·
+perseus-eng2	 But the strongest proof, gentlemen, of the fact that I mount horses because of my misfortune, and not from insolence, as this man alleges, is this:
+
+cts:urn:tlg0540.tlg024:11
+glaux2.0-sentence	35
+perseus-grc2	 εἰ γὰρ ἐκεκτήμην οὐσίαν , ἐπ’ ἀστράβης ἂν ὠχούμην , ἀλλ’ οὐκ ἐπὶ τοὺς ἀλλοτρίους ἵππους ἀνέβαινον ·
+perseus-eng2	 if I were a man of means, I should ride on a saddled mule, and would not mount other men’s horses.
+
+cts:urn:tlg0540.tlg024:11
+glaux2.0-sentence	36
+perseus-grc2	 νυνὶ δ’ ἐπειδὴ τοιοῦτον οὐ δύναμαι κτήσασθαι , τοῖς ἀλλοτρίοις ἵπποις ἀναγκάζομαι χρῆσθαι πολλάκις .
+perseus-eng2	 But in fact, as I am unable to acquire anything of the sort, I am compelled, now and again, to use other men’s horses.
+
+cts:urn:tlg0540.tlg024:12
+glaux2.0-sentence	37
+perseus-grc2	 καίτοι πῶς οὐκ ἄτοπόν ἐστιν , ὦ βουλή , τοῦτον ἄν , εἰ μὲν ἐπ’ ἀστράβης ὀχούμενον ἑώρα με , σιωπᾶν ( τί γὰρ ἂν καὶ ἔλεγεν ; ) , ὅτι δ’ ἐπὶ τοὺς ᾐτημένους ἵππους ἀναβαίνω , πειρᾶσθαι πείθειν ὑμᾶς ὡς δυνατός εἰμι ;
+perseus-eng2	 Well, I ask you, gentlemen, is it not extraordinary that, if he saw me riding on a saddled mule, he would hold his peace, — for what could he say? — and then, because I mount borrowed horses, he should try to persuade you that I am able-bodied;
+
+cts:urn:tlg0540.tlg024:12
+glaux2.0-sentence	38
+perseus-grc2	 καὶ ὅτι μὲν δυοῖν βακτηρίαιν χρῶμαι , τῶν ἄλλων μιᾷ χρωμένων , μὴ κατηγορεῖν ὡς καὶ τοῦτο τῶν δυναμένων ἐστιν ·
+perseus-eng2	 and that my using two sticks, while others use one, should not be argued by him against me as a sign of being able-bodied,
+
+cts:urn:tlg0540.tlg024:12
+glaux2.0-sentence	39
+perseus-grc2	 ὅτι δ’ ἐπὶ τοὺς ἵππους ἀναβαίνω , τεκμηρίῳ χρῆσθαι πρὸς ὑμᾶς ὡς εἰμὶ τῶν δυναμένων ;
+perseus-eng2	 but my mounting horses should be advanced by him as a proof to you that I am able-bodied?
+
+cts:urn:tlg0540.tlg024:12
+glaux2.0-sentence	40
+perseus-grc2	 οἷς ἐγώ διὰ τὴν αὐτὴν αἰτίαν ἀμφοτέροις χρῶμαι .
+perseus-eng2	 For I use both aids for the same reason.
+
+cts:urn:tlg0540.tlg024:13
+glaux2.0-sentence	41
+perseus-grc2	 τοσοῦτον δὲ διενήνοχεν ἀναισχυντίᾳ τῶν ἁπάντων ἀνθρώπων , ὥστε ὑμᾶς πειρᾶται πείθειν , τοσούτους ὄντας εἷς ὤν , ὡς οὐκ εἰμὶ τῶν ἀδυνάτων ἐγώ .
+perseus-eng2	 So utterly has he surpassed the whole human race in impudence that he tries with his single voice to persuade you all that I am not classed as disabled.
+
+cts:urn:tlg0540.tlg024:13
+glaux2.0-sentence	42
+perseus-grc2	 καίτοι εἰ τοῦτο πείσει τινὰς ὑμῶν , ὦ βουλή , τί με κωλύει κληροῦσθαι τῶν ἐννέα ἀρχόντων , καὶ ὑμᾶς ἐμοῦ μὲν ἀφελέσθαι τὸν ὀβολὸν ὡς ὑγιαίνοντος , τούτῳ δὲ ψηφίσασθαι πάντας ὡς ἀναπήρῳ ;
+perseus-eng2	 Yet if he should persuade any of you on this point, gentlemen, what hinders me from drawing a lot for election as one of the nine archons, and you from depriving me of my obol as having sound health, and voting it unanimously to this man as being a cripple?
+
+cts:urn:tlg0540.tlg024:13
+glaux2.0-sentence	43
+perseus-grc2	 οὐ γὰρ δήπου τὸν αὐτὸν ὑμεῖς μὲν ὡς δυνάμενον ἀφαιρήσεσθε τὸ διδόμενον , οἱ δὲ θεσμοθέται ὡς ἀδύνατον ὄντα κληροῦσθαι κωλύσουσιν .
+perseus-eng2	 For surely, after you have deprived a man of the grant as being able-bodied, the law officers are not going to debar this same person, as being disabled, from drawing a lot!
+
+cts:urn:tlg0540.tlg024:14
+glaux2.0-sentence	44
+perseus-grc2	 ἀλλὰ γὰρ οὔ -τε ὑμεῖς τούτῳ τὴν αὐτὴν ἔχετε γνώμην , οὔ -θ’ οὗτος εὖ ποιῶν .
+perseus-eng2	 Nay, indeed, you are not of the same opinion as he is, nor is he either, and rightly so.
+
+cts:urn:tlg0540.tlg024:14
+glaux2.0-sentence	45
+perseus-grc2	 ὁ μὲν γὰρ ὥσπερ ἐπικλήρου τῆς συμφορᾶς οὔσης ἀμφισβητήσων ἥκει καὶ πειρᾶται πείθειν ὑμᾶς ὡς οὐκ εἰμὶ τοιοῦτος οἷον ὑμεῖς ὁρᾶτε πάντες ·
+perseus-eng2	 For he has come here to dispute over my misfortune as if over an heiress, and he tries to persuade you that I am not the sort of man that you all see me to be;
+
+cts:urn:tlg0540.tlg024:14
+glaux2.0-sentence	46
+perseus-grc2	 ὑμεῖς δὲ ( ὃ τῶν εὖ φρονούντων ἔργον ἐστί ) μᾶλλον πιστεύετε τοῖς ὑμετέροις αὐτῶν ὀφθαλμοῖς ἢ τοῖς τούτου λόγοις .
+perseus-eng2	 but you  — as is incumbent on men of good sense  — have rather to believe your own eyes than this person’s words.
+
+cts:urn:tlg0540.tlg024:15
+glaux2.0-sentence	47
+perseus-grc2	 λέγει δ’ ὡς ὑβριστής εἰμι καὶ βίαιος καὶ λίαν ἀσελγῶς διακείμενος , ὥσπερ εἰ φοβερῶς ὀνομάσειε , μέλλων ἀληθῆ λέγειν , ἀλλ’ οὐκ , ἐὰν πάνυ πραόνως μη -δὲ ψεύδηται , ταῦτα ποιήσων .
+perseus-eng2	 He says that I am insolent, savage, and utterly abandoned in my behavior, as though he needed the use of terrifying terms to speak the truth, and could not do it in quite gentle language.
+
+cts:urn:tlg0540.tlg024:15
+glaux2.0-sentence	48
+perseus-grc2	 ἐγὼ δ’ ὑμᾶς , ὦ βουλή , σαφῶς οἶμαι δεῖν διαγιγνώσκειν οἷς τ’ ἐγχωρεῖ τῶν ἀνθρώπων ὑβρισταῖς εἶναι καὶ οἷς οὐ προσήκει .
+perseus-eng2	 But I expect you, gentlemen, to distinguish clearly between those people who are at liberty to be insolent and those who are debarred from it.
+
+cts:urn:tlg0540.tlg024:16
+glaux2.0-sentence	49
+perseus-grc2	 οὐ γὰρ τοὺς πενομένους καὶ λίαν ἀπόρως διακειμένους ὑβρίζειν εἰκός , ἀλλὰ τοὺς πολλῷ πλείω τῶν ἀναγκαίων κεκτημένους ·
+perseus-eng2	 For insolence is not likely to be shown by poor men laboring in the utmost indigence, but by those who possess far more than the necessaries of life;
+
+cts:urn:tlg0540.tlg024:16
+glaux2.0-sentence	50
+perseus-grc2	 οὐ -δὲ τοὺς ἀδυνάτους τοῖς σώμασιν ὄντας , ἀλλὰ τοὺς μάλιστα πιστεύοντας ταῖς αὑτῶν ῥώμαις ·
+perseus-eng2	 nor by men disabled in body, but by those who have most reason to rely on their own strength;
+
+cts:urn:tlg0540.tlg024:16
+glaux2.0-sentence	51
+perseus-grc2	 οὐ -δὲ τοὺς ἤδη προβεβηκότας τῇ ἡλικίᾳ , ἀλλὰ τοὺς ἔτι νέους καὶ νέαις ταῖς διανοίαις χρωμένους .
+perseus-eng2	 nor by those already advanced in years, but by those who are still young and have a youthful turn of mind.
+
+cts:urn:tlg0540.tlg024:17
+glaux2.0-sentence	52
+perseus-grc2	 οἱ μὲν γὰρ πλούσιοι τοῖς χρήμασιν ἐξωνοῦνται τοὺς κινδύνους , οἱ δὲ πένητες ὑπὸ τῆς παρούσης ἀπορίας σωφρονεῖν ἀναγκάζονται ·
+perseus-eng2	 For the wealthy purchase with their money escape from the risks that they run, whereas the poor are compelled to moderation by the pressure of their want.
+
+cts:urn:tlg0540.tlg024:17
+glaux2.0-sentence	53
+perseus-grc2	 καὶ οἱ μὲν νέοι συγγνώμης ἀξιοῦνται τυγχάνειν παρὰ τῶν πρεσβυτέρων , τοῖς δὲ πρεσβυτέροις ἐξαμαρτάνουσιν ὁμοίως ἐπιτιμῶσιν ἀμφότεροι ·
+perseus-eng2	 The young are held to merit indulgence from their elders; but if their elders are guilty of offence, both ages unite in reproaching them.
+
+cts:urn:tlg0540.tlg024:18
+glaux2.0-sentence	54
+perseus-grc2	 καὶ τοῖς μὲν ἰσχυροῖς ἐγχωρεῖ μηδὲν αὐτοῖς πάσχουσιν , οὓς ἂν βουληθῶσιν , ὑβρίζειν , τοῖς δὲ ἀσθενέσιν οὐκ ἔστιν οὔ -τε ὑβριζομένοις ἀμύνεσθαι τοὺς ὑπάρξαντας οὔ -τε ὑβρίζειν βουλομένοις περιγίγνεσθαι τῶν ἀδικουμένων .
+perseus-eng2	 The strong are at liberty to insult whomsoever they will with impunity, but the weak are unable either to beat off their aggressors when insulted, or to get the better of their victims if they choose to insult.
+
+cts:urn:tlg0540.tlg024:18
+glaux2.0-sentence	55
+perseus-grc2	 ὥστε μοι δοκεῖ ὁ κατήγορος εἰπεῖν περὶ τῆς ἐμῆς ὕβρεως οὐ σπουδάζων , ἀλλὰ παίζων , οὐ -δ’ ὑμᾶς πεῖσαι βουλόμενος ὡς εἰμὶ τοιοῦτος , ἀλλ’ ἐμὲ κωμῳδεῖν βουλόμενος , ὥσπερ τι καλὸν ποιῶν .
+perseus-eng2	 Hence it seems to me that my accuser was not serious in speaking of my insolence, but was only jesting; his purpose was, not to persuade you that such is my nature, but to set me in a comic light, as a fine stroke of fancy.
+
+cts:urn:tlg0540.tlg024:19
+glaux2.0-sentence	56
+perseus-grc2	 ἔτι δὲ καὶ συλλέγεσθαί φησιν ἀνθρώπους ὡς ἐμὲ πονηροὺς καὶ πολλούς , οἳ τὰ μὲν ἑαυτῶν ἀνηλώκασι , τοῖς δὲ τὰ σφέτερα σῴζειν βουλομένοις ἐπιβουλεύουσιν .
+perseus-eng2	 He further asserts that my shop is the meeting place of a number of rogues who have spent their own money and hatch plots against those who wish to preserve theirs.
+
+cts:urn:tlg0540.tlg024:19
+glaux2.0-sentence	57
+perseus-grc2	 ὑμεῖς δὲ ἐνθυμήθητε πάντες ὅτι ταῦτα λέγων οὐδὲν ἐμοῦ κατηγορεῖ μᾶλλον ἢ τῶν ἄλλων ὅσοι τέχνας ἔχουσιν οὐ -δὲ τῶν ὡς ἐμὲ εἰσιόντων μᾶλλον ἢ τῶν ὡς τοὺς ἄλλους δημιουργούς .
+perseus-eng2	 But you must all take note that these statements of his are no more accusations against me than against anyone else who has a trade, nor against those who visit my shop any more than those who frequent other men of business.
+
+cts:urn:tlg0540.tlg024:20
+glaux2.0-sentence	58
+perseus-grc2	 ἕκαστος γὰρ ὑμῶν εἴθισται προσφοιτᾶν ὁ μὲν πρὸς μυροπώλιον , ὁ δὲ πρὸς κουρεῖον , ὁ δὲ πρὸς σκυτοτομεῖον , ὁ δ’ ὅποι ἂν τύχῃ , καὶ πλεῖστοι μὲν ὡς τοὺς ἐγγυτάτω τῆς ἀγορᾶς κατεσκευασμένους , ἐλάχιστοι δὲ ὡς τοὺς πλεῖστον ἀπέχοντας αὐτῆς ·
+perseus-eng2	 For each of you is in the habit of paying a call at either a perfumer’s or a barber’s or a shoemaker’s shop, or wherever he may chance to go,  — in most cases, it is to the tradesmen who have set up nearest the marketplace, and in fewest, to those who are farthest from it.
+
+cts:urn:tlg0540.tlg024:20
+glaux2.0-sentence	59
+perseus-grc2	 ὥστ’ εἴ τις ὑμῶν πονηρίαν καταγνώσεται τῶν ὡς ἐμὲ εἰσιόντων , δῆλον ὅτι καὶ τῶν παρὰ τοῖς ἄλλοις διατριβόντων ·
+perseus-eng2	 So if any of you should brand with roguery the men who visit my shop, clearly you must do the same to those who pass their time in the shops of others;
+
+cts:urn:tlg0540.tlg024:20
+glaux2.0-sentence	60
+perseus-grc2	 εἰ δὲ κα- κἀκείνων , ἁπάντων Ἀθηναίων ·
+perseus-eng2	 and if to them, to all the Athenians:
+
+cts:urn:tlg0540.tlg024:20
+glaux2.0-sentence	61
+perseus-grc2	 ἅπαντες γὰρ εἴθισθε προσφοιτᾶν καὶ διατρίβειν ἁμοῦ γέ που .
+perseus-eng2	 for you are all in the habit of paying a call and passing your time at some shop or other.
+
+cts:urn:tlg0540.tlg024:21
+glaux2.0-sentence	62
+perseus-grc2	 ἀλλὰ γὰρ οὐκ οἶδ’ ὅ τι δεῖ λίαν με ἀκριβῶς ἀπολογούμενον πρὸς ἓν ἕκαστον ὑμῖν τῶν εἰρημένων ἐνοχλεῖν πλείω χρόνον .
+perseus-eng2	 But really I see no need for me to be so very particular in rebutting each one of the statements that he has made, and to weary you any longer.
+
+cts:urn:tlg0540.tlg024:21
+glaux2.0-sentence	63
+perseus-grc2	 εἰ γὰρ ὑπὲρ τῶν μεγίστων εἴρηκα , τί δεῖ περὶ τῶν φαύλων ὁμοίως τούτῳ σπουδάζειν ;
+perseus-eng2	 For if I have argued the principal points, what need is there to dwell seriously on trifles in the same way as he does?
+
+cts:urn:tlg0540.tlg024:21
+glaux2.0-sentence	64
+perseus-grc2	 ἐγὼ δ’ ὑμῶν , ὦ βουλή , δέομαι πάντων τὴν αὐτὴν ἔχειν περὶ ἐμοῦ διάνοιαν , ἥνπερ καὶ πρότερον .
+perseus-eng2	 But I beg you all, gentlemen of the Council, to hold the same views concerning me as you have held till now.
+
+cts:urn:tlg0540.tlg024:22
+glaux2.0-sentence	65
+perseus-grc2	 μη -δ’ οὗ μόνου μεταλαβεῖν ἔδωκεν ἡ μοι τῶν ἐν τῇ πατρίδι , τούτου διὰ τουτονὶ ἀποστερήσητέ με ·
+perseus-eng2	 Do not be led by this man to deprive me of the sole benefit in my country of which fortune has granted me a share,
+
+cts:urn:tlg0540.tlg024:22
+glaux2.0-sentence	66
+perseus-grc2	 μη -δ’ ἃ πάλαι κοινῇ πάντες ἔδοτέ μοι , νῦν οὗτος εἷς ὢν πείσῃ πάλιν ὑμᾶς ἀφελέσθαι .
+perseus-eng2	 nor let this one person prevail on you to withdraw now what you all agreed to grant me in the past.
+
+cts:urn:tlg0540.tlg024:22
+glaux2.0-sentence	67
+perseus-grc2	 ἐπειδὴ γὰρ , ὦ βουλή , τῶν μεγίστων ἀρχῶν ὁ δαίμων ἀπεστέρησεν ἡμᾶς , ἡ πόλις ἡμῖν ἐψηφίσατο τοῦτο τὸ ἀργύριον , ἡγουμένη κοινὰς εἶναι τὰς τύχας τοῖς ἅπασι καὶ τῶν κακῶν καὶ τῶν ἀγαθῶν .
+perseus-eng2	 For, gentlemen, since Heaven had deprived us of the chiefest things, the city voted us this pension, regarding the chances of evil and of good as the same for all alike.
+
+cts:urn:tlg0540.tlg024:23
+glaux2.0-sentence	68
+perseus-grc2	 πῶς οὖν οὐκ ἂν δειλαιότατος εἴην , εἰ τῶν μὲν καλλίστων καὶ μεγίστων διὰ τὴν συμφορὰν ἀπεστερημένος εἴην , ἃ δ’ ἡ πόλις ἔδωκε προνοηθεῖσα τῶν οὕτως διακειμένων , διὰ τὸν κατήγορον ἀφαιρεθείην ;
+perseus-eng2	 Surely I should be the most miserable of creatures if, after being deprived by my misfortune of the fairest and greatest things, the accuser should cause me the loss of that which the city bestowed in her thoughtful care for men in my situation.
+
+cts:urn:tlg0540.tlg024:23
+glaux2.0-sentence	69
+perseus-grc2	 μηδαμῶς , ὦ βουλή , ταύτῃ θῆσθε τὴν ψῆφον .
+perseus-eng2	 No, no, gentlemen; you must not vote that way.
+
+cts:urn:tlg0540.tlg024:23
+glaux2.0-sentence	70
+perseus-grc2	 διὰ τί γὰρ ἂν καὶ τύχοιμι τοιούτων ὑμῶν ;
+perseus-eng2	 And why should I find you thus inclined?
+
+cts:urn:tlg0540.tlg024:24
+glaux2.0-sentence	71
+perseus-grc2	 πότερον ὅτι δι’ ἐμέ τις εἰς ἀγῶνα πώποτε καταστὰς ἀπώλεσε τὴν οὐσίαν ;
+perseus-eng2	 Because anyone has ever been brought to trial at my instance and lost his fortune?
+
+cts:urn:tlg0540.tlg024:24
+glaux2.0-sentence	72
+perseus-grc2	 ἀλλ’ οὐ -δ’ ἂν εἷς ἀποδείξειεν .
+perseus-eng2	 There is nobody who can prove it.
+
+cts:urn:tlg0540.tlg024:24
+glaux2.0-sentence	73
+perseus-grc2	 ἀλλ’ ὅτι πολυπράγμων εἰμὶ καὶ θρασὺς καὶ φιλαπεχθήμων ;
+perseus-eng2	 Well, is it that I am a busybody, a hot head, a seeker of quarrels?
+
+cts:urn:tlg0540.tlg024:25
+glaux2.0-sentence	74
+perseus-grc2	 ἀλλ’ οὐ τοιαύταις ἀφορμαῖς τοῦ βίου πρὸς τὰ τοιαῦτα τυγχάνω χρώμενος .
+perseus-eng2	 That is not the sort of use I happen to make of such means of subsistence as I have.
+
+cts:urn:tlg0540.tlg024:25
+glaux2.0-sentence	75
+perseus-grc2	 ἀλλ’ ὅτι λίαν ὑβριστὴς καὶ βίαιος ;
+perseus-eng2	 That I am grossly insolent and savage?
+
+cts:urn:tlg0540.tlg024:25
+glaux2.0-sentence	76
+perseus-grc2	 ἀλλ’ οὐ -δ’ ἂν αὐτὸς φήσειεν , εἰ μὴ βούλοιτο καὶ τοῦτο ψεύδεσθαι τοῖς ἄλλοις ὁμοίως .
+perseus-eng2	 Even he would not allege this himself, except he should wish to add one more to the series of his lies.
+
+cts:urn:tlg0540.tlg024:25
+glaux2.0-sentence	77
+perseus-grc2	 ἀλλ’ ὅτι ἐπὶ τῶν τριάκοντα γενόμενος ἐν δυνάμει κακῶς ἐποίησα πολλοὺς τῶν πολιτῶν ;
+perseus-eng2	 Or that I was in power at the time of the Thirty, and oppressed a great number of the citizens?
+
+cts:urn:tlg0540.tlg024:25
+glaux2.0-sentence	78
+perseus-grc2	 ἀλλὰ μετὰ τοῦ ὑμετέρου πλήθους ἔφυγον εἰς Χαλκίδα τὴν ἐπ’ Εὐρίπῳ , καὶ ἐξόν μοι μετ’ ἐκείνων ἀδεῶς πολιτεύεσθαι , μεθ’ ὑμῶν εἱλόμην κινδυνεύειν ἀπελθών .
+perseus-eng2	 But I went into exile with your people to Chalcis, and when I was free to live secure as a citizen with those persons I chose to depart and share your perils.
+
+cts:urn:tlg0540.tlg024:26
+glaux2.0-sentence	79
+perseus-grc2	 μὴ τοίνυν , ὦ βουλή , μηδὲν ἡμαρτηκὼς ὁμοίων ὑμῶν τύχοιμι τοῖς πολλὰ ἠδικηκόσιν , ἀλλὰ τὴν αὐτὴν ψῆφον θέσθε περὶ ἐμοῦ ταῖς ἄλλαις βουλαῖς , ἀναμνησθέντες ὅτι οὔ -τε χρήματα διαχειρίσας τῆς πόλεως δίδωμι λόγον αὐτῶν , οὔ -τε ἀρχὴν ἄρξας οὐδεμίαν εὐθύνας ὑπέχω νῦν αὐτῆς , ἀλλὰ περὶ ὀβολοῦ μόνον ποιοῦμαι τοὺς λόγους .
+perseus-eng2	 I therefore ask you, gentlemen of the Council, not to treat me, a man who has committed no offence, in the same way as those who are guilty of numerous wrongs, but to give the same vote as the other Councils did on my case, remembering that I am neither rendering an account of State moneys placed in my charge, nor undergoing now an inquiry into my past proceedings in any office, but that the subject of this speech of mine is merely an obol.
+
+cts:urn:tlg0540.tlg024:27
+glaux2.0-sentence	80
+perseus-grc2	 καὶ οὕτως ὑμεῖς μὲν τὰ δίκαια γνώσεσθε πάντες , ἐγὼ δὲ τούτων ὑμῖν τυχὼν ἕξω τὴν χάριν , οὗτος δὲ τοῦ λοιποῦ μαθήσεται μὴ τοῖς ἀσθενεστέροις ἐπιβουλεύειν ἀλλὰ τῶν ὁμοίων αὐτῷ περιγίγνεσθαι .
+perseus-eng2	 In this way you will all give the decision that is just, while I, in return for that, will feel duly grateful to you; and this man will learn in the future not to scheme against those who are weaker than himself, but only to overreach his equals.

@@ -1252,3 +1252,64 @@ perseus-eng2	 And take heed, men of Athens, lest you commit the most abominable 
 cts:urn:tlg0540.tlg013:93
 glaux2.0-sentence	249
 perseus-grc2	 εἰ γὰρ ἀποψηφιεῖσθε Ἀγοράτου τουτουί , οὐ μόνον τοῦτο διαπράττεσθε , ἀλλὰ καὶ ἐκείνων τῶν ἀνδρῶν , οὓς ὁμολογεῖτε ὑμῖν εὔνους εἶναι , τῇ αὐτῇ ψήφῳ ταύτῃ θάνατον καταψηφίζεσθε ·
+perseus-eng2	 For if you acquit this man Agoratus, your action does not stop there, but by that same vote you condemn to death those men whom you acknowledge as your supporters.
+
+cts:urn:tlg0540.tlg013:94
+glaux2.0-sentence	250
+perseus-grc2	 ἀπολύοντες γὰρ τὸν αἴτιον ὄντα ἐκείνοις τοῦ θανάτου οὐδὲν ἄλλο γιγνώσκετε ἢ ἐκείνους δικαίως ὑπὸ τούτου τεθνηκέναι .
+perseus-eng2	 By releasing the author of their death you simply decide that they have been justly put to death by him.
+
+cts:urn:tlg0540.tlg013:94
+glaux2.0-sentence	251
+perseus-grc2	 καὶ οὕτως ἂν δεινότατα πάντων πάθοιεν , εἰ οἷς ἐπέσκηπτον ἐκεῖνοι ὡς φίλοις οὖσι τιμωρεῖν ὑπὲρ αὑτῶν , οὗτοι ὁμόψηφοι κατ’ ἐκείνων τῶν ἀνδρῶν τοῖς τριάκοντα γενήσονται .
+perseus-eng2	 And thus the most awful of all fates would be theirs, if those whom they charged to avenge them as their friends should support with their votes the motion of the Thirty against those men.
+
+cts:urn:tlg0540.tlg013:95
+glaux2.0-sentence	252
+perseus-grc2	 μηδαμῶς , ὦ ἄνδρες δικασταί , πρὸς θεῶν Ὀλυμπίων , μή -τε τέχνῃ μή -τε μηχανῇ μηδεμιᾷ θάνατον ἐκείνων τῶν ἀνδρῶν καταψηφίσησθε , οἳ πολλὰ κα- κἀγαθὰ ὑμᾶς ποιήσαντες διὰ ταῦτα ὑπὸ τῶν τριάκοντα καὶ Ἀγοράτου τουτουὶ ἀπέθανον .
+perseus-eng2	 In the name of the Olympian gods, gentlemen of the jury, let neither art nor craft induce you to condemn those men to death who precisely for their many good services to you were put to death by the Thirty and by Agoratus here.
+
+cts:urn:tlg0540.tlg013:95
+glaux2.0-sentence	253
+perseus-grc2	 ἀναμνησθέντες οὖν ἁπάντων τῶν δεινῶν , καὶ τῶν κοινῶν τῇ πόλει καὶ τῶν ἰδίων , ὅσα ἑκάστῳ ἐγένετο ἐπειδὴ ἐκεῖνοι οἱ ἄνδρες ἐτελεύτησαν , τιμωρήσατε τὸν αἴτιον τούτων .
+perseus-eng2	 Remember all the horrors, both those that smote the State as a whole and those that each of us felt in private, when those men lost their lives, and punish the author of them all.
+
+cts:urn:tlg0540.tlg013:95
+glaux2.0-sentence	254
+perseus-grc2	 ἀποδέδεικται δ’ ὑμῖν ἅπαντα καὶ ἐκ τῶν ψηφισμάτων καὶ ἐκ τῶν ἀπογραφῶν καὶ ἐκ τῶν ἄλλων ἁπάντων Ἀγόρατος ὢν αὐτοῖς τοῦ θανάτου .
+perseus-eng2	 It has been made plain to you, alike from the decrees, the depositions and all the rest, that Agoratus is the author of their death.
+
+cts:urn:tlg0540.tlg013:96
+glaux2.0-sentence	255
+perseus-grc2	 ἔτι δὲ καὶ προσήκει ὑμῖν ἐναντία τοῖς τριάκοντα ψηφίζεσθαι ·
+perseus-eng2	 Furthermore, it behoves you to vote in opposition to the Thirty:
+
+cts:urn:tlg0540.tlg013:96
+glaux2.0-sentence	256
+perseus-grc2	 ὧν μὲν τοίνυν ἐκεῖνοι θάνατον κατέγνωσαν , ὑμεῖς ἀποψηφίσασθε ·
+perseus-eng2	 you must therefore acquit the men whom they condemned to death;
+
+cts:urn:tlg0540.tlg013:96
+glaux2.0-sentence	257
+perseus-grc2	 ὧν δ’ ἐκεῖνοι θάνατον οὐ κατέγνωσαν , ὑμεῖς καταψηφίσασθε .
+perseus-eng2	 and you must convict those whom they did not so condemn.
+
+cts:urn:tlg0540.tlg013:96
+glaux2.0-sentence	258
+perseus-grc2	 οἱ τριάκοντα τοίνυν τῶν μὲν ἀνδρῶν τούτων , οἳ ἦσαν ὑμέτεροι φίλοι , θάνατον κατέγνωσαν , ὧν δεῖ ὑμᾶς ἀποψηφίζεσθαι ·
+perseus-eng2	 Now, the Thirty condemned to death these men, who were your friends, and these you ought to acquit.
+
+cts:urn:tlg0540.tlg013:96
+glaux2.0-sentence	259
+perseus-grc2	 Ἀγοράτου δὲ ἀπεψηφίσαντο , διότι ἐδόκει προθύμως τούτους ἀπολλύναι ·
+perseus-eng2	 Agoratus they acquitted, because he was found zealous for their destruction:
+
+cts:urn:tlg0540.tlg013:96
+glaux2.0-sentence	260
+perseus-grc2	 οὗ προσήκει καταψηφίζεσθαι .
+perseus-eng2	 him you ought to convict.
+
+cts:urn:tlg0540.tlg013:97
+glaux2.0-sentence	261
+perseus-grc2	 ἐὰν οὖν τὰ ἐναντία τοῖς τριάκοντα ψηφίζησθε , πρῶτον μὲν οὐχ ὁμόψηφοι τοῖς ἐχθροῖς γίγνεσθε , ἔπειτα τοῖς ὑμετέροις αὐτῶν φίλοις τετιμωρηκότες ἔσεσθε , ἔπειτα τοῖς πᾶσιν ἀνθρώποις δόξετε δίκαια καὶ ὅσια ψηφίσασθαι .
+perseus-eng2	 If therefore, you vote in opposition to the Thirty, first of all, you are not supporting your enemies with your votes; next, you will have avenged your own friends; and last, you will he held by all the world to have given a just and a pious vote.

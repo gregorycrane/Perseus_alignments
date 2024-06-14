@@ -1,0 +1,220 @@
+
+cts:urn:tlg0540.tlg023:1
+glaux2.0-sentence	1
+perseus-grc2	 πολλὰ μὲν λέγειν , ὦ ἄνδρες δικασταί , περὶ τουτουὶ τοῦ πράγματος οὔ -τ’ ἂν δυναίμην οὔ -τε μοι δοκεῖ δεῖν ·
+perseus-eng2	 To speak at length upon this matter, gentlemen of the jury, is both beyond my powers and, to my mind, unnecessary;
+
+cts:urn:tlg0540.tlg023:1
+glaux2.0-sentence	2
+perseus-grc2	 ὡς δὲ ὀρθῶς τὴν δίκην ἔλαχον τουτῳὶ Παγκλέωνι οὐκ ὄντι Πλαταιεῖ , τοῦτο ὑμῖν πειράσομαι ἀποδεῖξαι .
+perseus-eng2	 but that I am correct in obtaining leave for my suit against this man Pancleon as being no Plataean, I will attempt to prove to you.
+
+cts:urn:tlg0540.tlg023:2
+glaux2.0-sentence	3
+perseus-grc2	 ὡς γὰρ ἀδικῶν με πολὺν χρόνον οὐκ ἐπαύετο , ἐλθὼν ἐπὶ τὸ γναφεῖον , ἐν ᾧ εἰργάζετο , προσεκαλεσάμην αὐτὸν πρὸς τὸν πολέμαρχον , νομίζων μέτοικον εἶναι .
+perseus-eng2	 As he continued to injure me for a long time, I went to the fuller’s where he was working and summoned him before the Polemarch, supposing him to be a resident alien.
+
+cts:urn:tlg0540.tlg023:2
+glaux2.0-sentence	4
+perseus-grc2	 εἰπόντος δὲ τούτου ὅτι Πλαταιεὺς εἴη , ἠρόμην ὁπόθεν δημοτεύοιτο , παραινέσαντός τινος τῶν παρόντων προσκαλέσασθαι καὶ πρὸς τὴν φυλήν , ἧστινος εἶναι σκήπτοιτο .
+perseus-eng2	 On his stating that he was a Plataean, I asked to what township he belonged, since one of my witnesses there advised me to summon him also before the court of the tribe of which he might pretend to be a member.
+
+cts:urn:tlg0540.tlg023:2
+glaux2.0-sentence	5
+perseus-grc2	 ἐπειδὴ δὲ ἀπεκρίνατο ὅτι Δεκελειόθεν , προσκαλεσάμενος αὐτὸν καὶ πρὸς τοὺς τῇ Ἱπποθωντίδι δικάζοντας ,
+perseus-eng2	 When he replied to Decelea, I summoned him before the court of tribe Hippothontis;
+
+cts:urn:tlg0540.tlg023:3
+glaux2.0-sentence	5a
+perseus-grc2	 ἐλθὼν ἐπὶ τὸ κουρεῖον τὸ παρὰ τοὺς Ἑρμᾶς , οἷ Δεκελειεῖς προσφοιτῶσιν , ἠρώτων , οὕς τε ἐξευρίσκοιμι Δεκελειέων ἐπυνθανόμην εἴ τινα γιγνώσκοιεν Δεκελειόθεν δημοτευόμενον Παγκλέωνα .
+perseus-eng2	 I then went and asked at barber’s in the street of the Hermae, where the Deceleans resort, and I inquired of such Deceleans as I could discover if they knew a certain Pancleon belonging to the township of Decelea.
+
+cts:urn:tlg0540.tlg023:3
+glaux2.0-sentence	6
+perseus-grc2	 ἐπειδὴ δὲ οὐδεὶς ἔφασκεν γιγνώσκειν αὐτόν , πυθόμενος ὅτι καὶ ἑτέρας δίκας τὰς μὲν φεύγοι τὰς δ’ ὠφλήκοι παρὰ τῷ πολεμάρχῳ ἔλαχον καὶ ἐγώ .
+perseus-eng2	 As nobody spoke to knowing him, and I learnt that he was then a defendant in some other suits before the Polemarch, and had been cast in some, I took proceedings on my own part.
+
+cts:urn:tlg0540.tlg023:4
+glaux2.0-sentence	7
+perseus-grc2	 πρῶτον μὲν οὖν ὑμῖν Δεκελειέων οὓς ἠρόμην μάρτυρας παρέξομαι , ἔπειτα δὲ καὶ τῶν ἄλλων τῶν λαχόντων τε δίκας αὐτῷ πρὸς τὸν πολέμαρχον καὶ καταδικασαμένων , ὅσοι τυγχάνουσι παρόντες .
+perseus-eng2	 So now, in the first place, I will produce to you as witnesses some Deceleans whom I questioned, and after them the other persons who have taken proceedings against him before the Polemarch and have obtained a conviction, — as many as chance to be present.
+
+cts:urn:tlg0540.tlg023:4
+glaux2.0-sentence	8
+perseus-grc2	 καί μοι ἐπίλαβε τὸ ὕδωρ .
+perseus-eng2	 Please stop the water.
+
+cts:urn:tlg0540.tlg023:5
+glaux2.0-sentence	9
+perseus-grc2	 ἐκ μὲν τούτων πεισθεὶς πρὸς τὸν πολέμαρχον αὐτῷ τὴν δίκην ἔλαχον ·
+perseus-eng2	 Relying on this evidence I took proceedings against him before the Polemarch:
+
+cts:urn:tlg0540.tlg023:5
+glaux2.0-sentence	10
+perseus-grc2	 ἐπειδὴ δέ μοι αὐτὴν ἀντεγράψατο μὴ εἰσαγώγιμον εἶναι , περὶ πολλοῦ ποιούμενος μηδενὶ δόξαι ὑβρίζειν βούλεσθαι μᾶλλον ἢ δίκην λαβεῖν ὧν ἠδικήθην , πρῶτον μὲν Εὐθύκριτον , ὃν πρεσβύτατόν τε Πλαταιέων ἐγίγνωσκον καὶ μάλιστα ὠόμην εἰδέναι , ἠρόμην εἴ τινα γιγνώσκοι Ἱππαρμοδώρου ὑὸν Παγκλέωνα Πλαταιέα ·
+perseus-eng2	 but he then put in a demurrer against the admissibility of my suit; and as I felt it important to avoid any imputation of oppressive aims, instead of a desire to get satisfaction for my wrongs, I first asked Euthycritus, whom I knew as the oldest citizen of Plataea and whom I supposed to be best informed, whether he knew a certain Pancleon, son of Hipparmodorus, a Plataean.
+
+cts:urn:tlg0540.tlg023:6
+glaux2.0-sentence	11
+perseus-grc2	 ἔπειτα δέ , ἐπειδὴ ἐκεῖνος ἀπεκρίνατό μοι ὅτι τὸν Ἱππαρμόδωρον μὲν γιγνώσκοι , ὑὸν δὲ ἐκείνῳ οὐδένα οὔ -τε Παγκλέωνα οὔ -τε ἄλλον οὐδένα εἰδείη ὄντα , ἠρώτων δὴ καὶ τῶν ἄλλων ὅσους ᾔδη Πλαταιέας ὄντας .
+perseus-eng2	 Then, on his answering me that he knew Hipparmodorus, but was not aware of his having any son, either Pancleon or any other, I went on to ask all the other persons whom I knew as Plataeans.
+
+cts:urn:tlg0540.tlg023:6
+glaux2.0-sentence	12
+perseus-grc2	 πάντες οὖν ἀγνοοῦντες τὸ ὄνομα αὐτοῦ , ἀκριβέστατα ἂν ἔφασάν με πυθέσθαι ἐλθόντα εἰς τὸν χλωρὸν τυρὸν τῇ ἕνῃ καὶ νέᾳ ·
+perseus-eng2	 Well, they were all ignorant of his name; but they told me that I should get the most definite information if I went to the fresh-cheese market on the last day of the month:
+
+cts:urn:tlg0540.tlg023:6
+glaux2.0-sentence	13
+perseus-grc2	 ταύτῃ γὰρ τῇ ἡμέρᾳ τοῦ μηνὸς ἑκάστου ἐκεῖσε συλλέγεσθαι τοὺς Πλαταιέας .
+perseus-eng2	 for on that day in each month the Plataeans collected there.
+
+cts:urn:tlg0540.tlg023:7
+glaux2.0-sentence	14
+perseus-grc2	 ἐλθὼν οὖν εἰς τὸν τυρὸν ταύτῃ τῇ ἡμέρᾳ ἐπυνθανόμην αὐτῶν , εἴ τινα γιγνώσκοιεν Παγκλέωνα πολίτην σφέτερον .
+perseus-eng2	 So I went on that day to the cheese market and inquired of the people if they knew a certain Pancleon, their fellow-citizen.
+
+cts:urn:tlg0540.tlg023:7
+glaux2.0-sentence	15
+perseus-grc2	 καὶ οἱ μὲν ἄλλοι οὐκ ἔφασαν γιγνώσκειν , εἷς δέ τις εἶπεν ὅτι τῶν μὲν πολιτῶν οὐδενὶ εἰδείη τοῦτο ὂν τὸ ὄνομα , δοῦλον μέντοι ἔφη ἑαυτοῦ ἀφεστῶτα εἶναι Παγκλέωνα ,
+perseus-eng2	 They all denied knowledge of him, except one who said that, although he knew no citizen of that name, there was a slave of his own called Pancleon, who had deserted,
+
+cts:urn:tlg0540.tlg023:8
+glaux2.0-sentence	15a
+perseus-grc2	 τήν τε ἡλικίαν λέγων τὴν τούτου καὶ τὴν τέχνην ᾗ οὗτος χρῆται .
+perseus-eng2	 and he told me his age and his business, which is that of this man.
+
+cts:urn:tlg0540.tlg023:8
+glaux2.0-sentence	16
+perseus-grc2	 ταῦτ’ οὖν ὡς ἀληθῆ ἐστι , τόν τε Εὐθύκριτον , ὃν πρῶτον ἠρόμην , καὶ τῶν ἄλλων Πλαταιέων ὅσοις προσῆλθον , καὶ τὸν ὃς ἔφη δεσπότης τούτου εἶναι , μάρτυρας παρέξομαι .
+perseus-eng2	 To show the truth of all this, I will produce as witnesses Euthycritus whom I questioned first, all the other Plataeans to whom I applied, and the man who said he was this person’s master.
+
+cts:urn:tlg0540.tlg023:8
+glaux2.0-sentence	17
+perseus-grc2	 καί μοι ἐπίλαβε τὸ ὕδωρ .
+perseus-eng2	 So please stop the water.
+
+cts:urn:tlg0540.tlg023:9
+glaux2.0-sentence	18
+perseus-grc2	 ἡμέραις τοίνυν μετὰ ταῦτα οὐ πολλαῖς ὕστερον ἰδὼν ἀγόμενον τουτονὶ Παγκλέωνα ὑπὸ Νικομήδους , ὃς ἐμαρτύρησεν αὐτοῦ δεσπότης εἶναι , προσῆλθον βουλόμενος εἰδέναι ὁποῖόν τι περὶ αὐτοῦ πραχθήσοιτο .
+perseus-eng2	 Well then, not many days later, I saw this man Pancleon being arrested by Nicomedes, who has testified to being his master; and I went up to them, desiring to know what it could be that was going to done with him.
+
+cts:urn:tlg0540.tlg023:9
+glaux2.0-sentence	19
+perseus-grc2	 τότε μὲν οὖν ἐπειδὴ ἐπαύσαντο μαχόμενοι , εἶπόν τινες τῶν τούτων παρόντων ὅτι εἴη αὐτῷ ἀδελφὸς ὃς ἐξαιρήσοιτο αὐτὸν εἰς ἐλευθερίαν ·
+perseus-eng2	 So, when they had ceased fighting some of his witnesses said that he had a brother who would vindicate him as a freeman:
+
+cts:urn:tlg0540.tlg023:10
+glaux2.0-sentence	20
+perseus-grc2	 ἐπὶ τούτοις ἐγγυησάμενοι παρέξειν εἰς αὔριον ᾤχοντο ἀπιόντες .
+perseus-eng2	 on this understanding they gave security for producing him the morrow, and departed and went their way.
+
+cts:urn:tlg0540.tlg023:10
+glaux2.0-sentence	21
+perseus-grc2	 τῇ δ’ ὑστεραίᾳ τῆς τε ἀντιγραφῆς ἕνεκα ταυτησὶ καὶ αὐτῆς τῆς δίκης ἔδοξέ μοι χρῆναι μάρτυρας λαβόντι παραγενέσθαι , ἵν’ εἰδείην τόν τ’ ἐξαιρησόμενον αὐτὸν καὶ ὅ τι λέγων ἀφαιρήσοιτο .
+perseus-eng2	 On the following day, in view of the present demurrer and the suit itself, I decided that I ought to appear there with witnesses, in order that I might know the man who was to vindicate him, and what plea he would urge for his discharge.
+
+cts:urn:tlg0540.tlg023:10
+glaux2.0-sentence	22
+perseus-grc2	 ἐφ’ οἷς μὲν οὖν ἐξηγγυήθη , οὔ -τε ἀδελφὸς οὔ -τε ἄλλος οὐδεὶς ἦλθε , γυνὴ δὲ φάσκουσα αὑτῆς αὐτὸν εἶναι δοῦλον , ἀμφισβητοῦσα τῷ Νικομήδει ,
+perseus-eng2	 Now, as regards the condition on which security was taken for his release, neither a brother nor anyone else appeared; but a woman asserted that he was her slave, in dispute of Nicomedes’ claim, and she said that she would not allow him to be arrested.
+
+cts:urn:tlg0540.tlg023:11
+glaux2.0-sentence	22a
+perseus-grc2	 καὶ οὐκ ἔφη ἐάσειν αὐτὸν ἄγειν .
+perseus-eng2	 and she said that she would not allow him to be arrested.
+
+cts:urn:tlg0540.tlg023:11
+glaux2.0-sentence	23
+perseus-grc2	 ὅσα μὲν οὖν αὐτόθι ἐρρήθη , πολὺς ἂν εἴη μοι λόγος διηγεῖσθαι ·
+perseus-eng2	 Well, to recount all that was spoken in that place would make this a long story;
+
+cts:urn:tlg0540.tlg023:11
+glaux2.0-sentence	24
+perseus-grc2	 εἰς τοῦτο δὲ βιαιότητος ἦλθον οἵ τε παρόντες τούτῳ καὶ αὐτὸς οὗτος , ὥστε ἐθέλοντος μὲν τοῦ Νικομήδους ἐθελούσης δὲ τῆς γυναικὸς ἀφιέναι , εἴ τις ἢ εἰς ἐλευθερίαν τοῦτον ἀφαιροῖτο ἢ ἄγοι φάσκων ἑαυτοῦ δοῦλον εἶναι , τούτων οὐδὲν ποιήσαντες ἀφελόμενοι ᾤχοντο .
+perseus-eng2	 but with such violence did his supporters and the man himself behave that, while Nicomedes on his part, and the woman on hers, were both willing to let him go if somebody should either vindicate him as a freeman or arrest him on the claim of owning him as a slave, they did nothing of the sort, but carried him off and departed.
+
+cts:urn:tlg0540.tlg023:11
+glaux2.0-sentence	25
+perseus-grc2	 ὡς οὖν τῇ τε προτεραίᾳ ἐπὶ τούτοις ἐξηγγυήθη καὶ τότε βίᾳ ᾤχοντο ἀφελόμενοι αὐτόν , μάρτυρας παρέξομαι ὑμῖν .
+perseus-eng2	 Now, to prove that security was taken for him on that condition the day before, and that they then carried him off with them by force, I will produce to you witnesses.
+
+cts:urn:tlg0540.tlg023:11
+glaux2.0-sentence	26
+perseus-grc2	 καί μοι ἐπίλαβε τὸ ὕδωρ .
+perseus-eng2	 So please stop the water.
+
+cts:urn:tlg0540.tlg023:12
+glaux2.0-sentence	27
+perseus-grc2	 ῥᾴδιον τοίνυν εἰδέναι ὅτι οὐ -δ’ αὐτὸς Παγκλέων νομίζει ἑαυτὸν μὴ ὅτι Πλαταιέα εἶναι , ἀλλ’ οὐ -δ’ ἐλεύθερον .
+perseus-eng2	 It is easy, then, to make sure that even Pancleon himself, far from regarding himself as a Plataean, does not suppose himself to be even a freeman.
+
+cts:urn:tlg0540.tlg023:12
+glaux2.0-sentence	28
+perseus-grc2	 ὅστις γὰρ ἐβουλήθη βίᾳ ἀφαιρεθεὶς ἐνόχους καταστῆσαι τοὺς ἑαυτοῦ ἐπιτηδείους τοῖς βιαίοις μᾶλλον ἢ κατὰ τοὺς νόμους εἰς τὴν ἐλευθερίαν ἐξαιρεθεὶς δίκην λαβεῖν παρὰ τῶν ἀγόντων αὐτόν , οὐδενὶ χαλεπὸν γνῶναι ὅτι εὖ εἰδὼς ἑαυτὸν ὄντα δοῦλον ἔδεισεν ἐγγυητὰς καταστήσας περὶ τοῦ σώματος ἀγωνίσασθαι .
+perseus-eng2	 For when a man has chosen, on being carried off by force, to make his own associates liable to action for assault rather than to be vindicated as a freeman by legal process and to get damages from those who were arresting him, nobody can have difficulty in perceiving that he was so conscious of his being a slave that he was afraid to provide guarantors and to face a trial concerning his civil status.
+
+cts:urn:tlg0540.tlg023:13
+glaux2.0-sentence	29
+perseus-grc2	 ὅτι μὲν οὖν Πλαταιεὺς εἶναι πολλοῦ δεῖ , οἶμαι ὑμᾶς ἐκ τούτων σχεδόν τι γιγνώσκειν ·
+perseus-eng2	 Now, that he is far from being a Plataean, I think you perceive pretty clearly from these statements;
+
+cts:urn:tlg0540.tlg023:13
+glaux2.0-sentence	30
+perseus-grc2	 ὅτι δὲ οὐ -δ’ αὐτὸς οὗτος , ὃς ἄριστα οἶδε τὰ αὑτοῦ , ἡγήσατο δόξαι ἂν ὑμῖν Πλαταιεὺς εἶναι , ἐξ ὧν ἔραξε ῥαδίως μαθήσεσθε .
+perseus-eng2	 and that even the man himself, who is most fully aware of his own position, did not expect you to believe that he was a Plataean, will be readily impressed on you by his own conduct.
+
+cts:urn:tlg0540.tlg023:14
+glaux2.0-sentence	31
+perseus-grc2	 ἐν τῇ ἀντωμοσίᾳ γὰρ τῆς δίκης ἣν αὐτῷ ἔλαχεν Ἀριστόδικος οὑτοσί , ἀμφισβητῶν μὴ πρὸς τὸν πολέμαρχον εἶναί οἱ τὰς δίκας διεμαρτυρήθη μὴ Πλαταιεὺς εἶναι .
+perseus-eng2	 For in his counter-deposition at the proceedings brought against him by Aristodicus, here present, when he contended that his case did not lie before the Polemarch, he was declared on evidence not to be a Plataean.
+
+cts:urn:tlg0540.tlg023:14
+glaux2.0-sentence	32
+perseus-grc2	 ἐπισκηψάμενος δὲ τῷ μάρτυρι οὐκ ἐπεξῆλθεν , ἀλλ’ εἴασε καταδικάσασθαι αὐτοῦ τὸν Ἀριστόδικον .
+perseus-eng2	 But although he denounced this witness, he did not pursue the matter, but allowed Aristodicus to obtain a verdict against him.
+
+cts:urn:tlg0540.tlg023:14
+glaux2.0-sentence	33
+perseus-grc2	 ἐπεὶ δὲ ὑπερήμερος ἐγένετο , ἐξέτισε τὴν δίκην , καθ’ ὅτι ἔπειθε .
+perseus-eng2	 And when he failed to pay on the appointed date, he discharged the debt on such terms as he could arrange.
+
+cts:urn:tlg0540.tlg023:14
+glaux2.0-sentence	34
+perseus-grc2	 καὶ τούτων , ὡς ἀληθῆ ἐστι , μάρτυρας ἐγὼ παρέξομαι ὑμῖν .
+perseus-eng2	 To prove the truth of all this, I will produce to you witnesses.
+
+cts:urn:tlg0540.tlg023:14
+glaux2.0-sentence	35
+perseus-grc2	 καί μοι ἐπίλαβε τὸ ὕδωρ .
+perseus-eng2	 So please stop the water.
+
+cts:urn:tlg0540.tlg023:15
+glaux2.0-sentence	36
+perseus-grc2	 πρὶν τοίνυν ταῦτα ὁμολογηθῆναι αὐτῶ , δεδιὼς τὸν Ἀριστόδικον μεταστὰς ἐντεῦθεν Θήβησι μετῴκει .
+perseus-eng2	 Now, before making this agreement with him, he had removed from the city through fear of Aristodicus, and was living as an alien in Thebes.
+
+cts:urn:tlg0540.tlg023:15
+glaux2.0-sentence	37
+perseus-grc2	 καίτοι οἶμαι εἰδέναι ὑμᾶς ὅτι εἴπερ ἦν Πλαταιεύς , πανταχοῦ μᾶλλον ἢ Θήβησιν εἰκὸς ἦν αὐτὸν μετοικῆσαι .
+perseus-eng2	 But I think you understand that, if he was a Plataean, he might be expected to live as an alien anywhere rather than in Thebes.
+
+cts:urn:tlg0540.tlg023:15
+glaux2.0-sentence	38
+perseus-grc2	 ὡς οὖν ᾤκει ἐκεῖ πολὺν χρόνον , τούτων ὑμῖν μάρτυρας παρέξομαι .
+perseus-eng2	 Well, to prove that he lived there a long time, I will produce to you witnesses.
+
+cts:urn:tlg0540.tlg023:15
+glaux2.0-sentence	39
+perseus-grc2	 καί μοι ἐπίλαβε τὸ ὕδωρ .
+perseus-eng2	 So please stop the water.
+
+cts:urn:tlg0540.tlg023:16
+glaux2.0-sentence	40
+perseus-grc2	 ἐξαρκεῖν μοι νομίζω τὰ εἰρημένα , ὦ ἄνδρες δικασταί ·
+perseus-eng2	 I consider, gentlemen of the jury, that the statements I have made are sufficient.
+
+cts:urn:tlg0540.tlg023:16
+glaux2.0-sentence	41
+perseus-grc2	 ἐὰν γὰρ διαμνημονεύητε , οἶδ’ ὅτι τά τε δίκαια καὶ τα- τἀληθῆ ψηφιεῖσθε , ἃ καὶ ἐγὼ ὑμῶν δέομαι .
+perseus-eng2	 For if you will bear the whole of them in mind, I know that you will give the just and true decision, which is all I ask of you.

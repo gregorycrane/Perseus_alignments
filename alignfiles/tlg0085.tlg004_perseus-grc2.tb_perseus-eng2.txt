@@ -1,2620 +1,2620 @@
 
 cts:urn:tlg0085.tlg004:1
-glaux1.0-sentence: 1
+glaux1.0-sentence	1
 perseus-grc2.tb	Κάδμου πολῖται, χρὴ λέγειν τὰ καίρια ὅστις φυλάσσει πρᾶγος ἐν πρύμνῃ πόλεως οἴακα νωμῶν, βλέφαρα μὴ κοιμῶν ὕπνῳ.
 perseus-eng2 Men of Cadmus’s city, he who guards from the stern the concerns of the State and guides its helm with eyes untouched by sleep must speak to the point.
 
 cts:urn:tlg0085.tlg004:4
-glaux1.0-sentence: 2
+glaux1.0-sentence	2
 perseus-grc2.tb	εἰ μὲν γὰρ εὖ πράξαιμεν, αἰτία θεοῦ;
 perseus-eng2 For if we succeed, the responsibility is heaven’s;
 
 cts:urn:tlg0085.tlg004:5
-glaux1.0-sentence: 3
+glaux1.0-sentence	3
 perseus-grc2.tb	εἰ δ’ αὖθ’, ὃ μὴ γένοιτο, συμφορὰ τύχοι, Ἐτεοκλέης ἂν εἷς πολὺς κατὰ πτόλιν ὑμνοῖθ’ ὑπ’ ἀστῶν φροιμίοις πολυρρόθοις οἰμώγμασίν θ’, ὧν Ζεὺς ἀλεξητήριος ἐπώνυμος γένοιτο Καδμείων πόλει.
 perseus-eng2 but if—may it not happen—disaster is our lot, Eteocles would be the one name shouted many times throughout the city in the citizens’ resounding uproars and laments. From these evils may Zeus the Defender, upholding his name, shield the city of the Cadmeans!
 
 cts:urn:tlg0085.tlg004:10
-glaux1.0-sentence: 4
+glaux1.0-sentence	4
 perseus-grc2.tb	ὑμᾶς δὲ χρὴ νῦν, καὶ τὸν ἐλλείποντ’ ἔτι ἥβης ἀκμαίας καὶ τὸν ἔξηβον χρόνῳ, βλαστημὸν ἀλδαίνοντα σώματος πολύν, ὥραν τ’ ἔχονθ’ ἕκαστον ὥστε συμπρεπές, πόλει τ’ ἀρήγειν καὶ θεῶν ἐγχωρίων βωμοῖσι, τιμὰς μὴ ’ξαλειφθῆναί ποτε;
 perseus-eng2 But now you—both he who is still short of his youthful prime, and he who, though past his prime, still strengthens the abundant growth of his body, and every man still in his prime, as is fitting—you must aid the State and the altars of your homeland’s
 perseus-eng2 gods so that their honors may never be obliterated.
 
 cts:urn:tlg0085.tlg004:16
-glaux1.0-sentence: 5
+glaux1.0-sentence	5
 perseus-grc2.tb	τέκνοις τε, Γῇ τε μητρί, φιλτάτῃ τροφῷ.
 perseus-eng2 You must aid, too, your children, and Mother Earth, your beloved nurse.
 
 cts:urn:tlg0085.tlg004:17
-glaux1.0-sentence: 6
+glaux1.0-sentence	6
 perseus-grc2.tb	ἡ γὰρ νέους ἕρποντας εὐμενεῖ πέδῳ, ἅπαντα πανδοκοῦσα παιδείας ὄτλον, ἐθρέψατ’ οἰκητῆρας ἀσπιδηφόρους πιστοὺς ὅπως γένοισθε πρὸς χρέος τόδε.
 perseus-eng2 For welcoming all the distress of your childhood, when you were young and crept upon her kind soil, she raised you to inhabit her and bear the shield, and to prove yourselves faithful in this time of need.
 
 cts:urn:tlg0085.tlg004:21
-glaux1.0-sentence: 7
+glaux1.0-sentence	7
 perseus-grc2.tb	καὶ νῦν μὲν ἐς τόδ’ ἦμαρ εὖ ῥέπει θεός.
 perseus-eng2 And so, until today, God has been favorably inclined,
 
 cts:urn:tlg0085.tlg004:22
-glaux1.0-sentence: 8
+glaux1.0-sentence	8
 perseus-grc2.tb	χρόνον γὰρ ἤδη τόνδε πυργηρουμένοις καλῶς τὰ πλείω πόλεμος ἐκ θεῶν κυρεῖ.
 perseus-eng2 for though we have long been under siege, the war has gone well for the most part through the gods’ will.
 
 cts:urn:tlg0085.tlg004:24
-glaux1.0-sentence: 9
+glaux1.0-sentence	9
 perseus-grc2.tb	νῦν δ’ ὡς ὁ μάντις φησίν, οἰωνῶν βοτήρ, ἐν ὠσὶ νωμῶν καὶ φρεσίν, πυρὸς δίχα, χρηστηρίους ὄρνιθας ἀψευδεῖ τέχνῃ.
 perseus-eng2 But now, as the seer, the herdsman of birds, informs us, using his ears and his mind to understand with unerring skill the prophetic birds unaided by sacrificial fire—
 
 cts:urn:tlg0085.tlg004:27
-glaux1.0-sentence: 10
+glaux1.0-sentence	10
 perseus-grc2.tb	οὗτος τοιῶνδε δεσπότης μαντευμάτων λέγει μεγίστην προσβολὴν Ἀχαιίδα νυκτηγορεῖσθαι κ- ἐπιβουλεύσειν πόλει.
 perseus-eng2 he, master of such prophecy, declares that the greatest Argive attack is being planned in night assembly and that they will make plans to capture our city.
 
 cts:urn:tlg0085.tlg004:30
-glaux1.0-sentence: 11
+glaux1.0-sentence	11
 perseus-grc2.tb	ἀλλ’ ἔς τ’ ἐπάλξεις καὶ πύλας πυργωμάτων ὁρμᾶσθε πάντες, σοῦσθε σὺν παντευχίᾳ, πληροῦτε θωρακεῖα, κ- ἐπὶ σέλμασιν πύργων στάθητε, καὶ πυλῶν ἐπ’ ἐξόδ
 perseus-eng2 Hurry each of you to the battlements and the gates of our towered walls! Rush with all your armor! Fill the parapets and take your positions on the platforms of the towers. Stand your ground bravely where the gates open out, and do not be afraid of this crowd of foreigners.
 
 cts:urn:tlg0085.tlg004:35
-glaux1.0-sentence: 12
+glaux1.0-sentence	12
 perseus-grc2.tb	εὖ τελεῖ θεός.
 perseus-eng2 God will bring it to a good end.
 
 cts:urn:tlg0085.tlg004:36
-glaux1.0-sentence: 13
+glaux1.0-sentence	13
 perseus-grc2.tb	σκοποὺς δὲ κ- ἐγὼ καὶ κατοπτῆρας στρατοῦ ἔπεμψα, τοὺς πέποιθα μὴ ματᾶν ὁδῷ.
 perseus-eng2 I myself have dispatched scouts and men to observe their army, and I am confident that their going is not in vain.
 
 cts:urn:tlg0085.tlg004:38
-glaux1.0-sentence: 14
+glaux1.0-sentence	14
 perseus-grc2.tb	καὶ τῶνδ’ ἀκούσας οὔ τι μὴ ληφθῶ δόλῳ.
 perseus-eng2 Once I have heard their report, I will not be taken by any trickery.
 
 cts:urn:tlg0085.tlg004:39
-glaux1.0-sentence: 15
+glaux1.0-sentence	15
 perseus-grc2.tb	Ἐτεόκλεες, φέριστε Καδμείων ἄναξ, ἥκω σαφῆ τ- ἐκεῖθεν ἐκ στρατοῦ φέρων, αὐτὸς κατόπτης δ’ εἴμ’ ἐγὼ τῶν πραγμάτων.
 perseus-eng2 Eteocles, mighty prince of the Cadmeans, I have returned with a sure report of the army outside the walls; I myself am an eyewitness of their actions.
 
 cts:urn:tlg0085.tlg004:42
-glaux1.0-sentence: 16
+glaux1.0-sentence	16
 perseus-grc2.tb	ἄνδρες γὰρ ἑπτά, θούριοι λοχαγέται, ταυροσφαγοῦντες ἐς μελάνδετον σάκος καὶ θιγγάνοντες χερσὶ ταυρείου φόνου, Ἄρη τ’, Ἐνυώ, καὶ φιλαίματον Φόβον ὡρκωμότησαν ἢ πόλει κατασκαφὰς θέντες λαπάξειν ἄστυ Καδμείων βίᾳ, ἢ γῆν θανόντες τήνδε φυράσειν φόνῳ.
 perseus-eng2 Seven warriors, fierce regiment-commanders, slaughtered a bull over a black shield, and then touching the bull’s gore with their hands they swore an oath by Ares, by Enyo,[*] and by Rout who delights in blood, that either they will level the city and sack the Cadmeans’ town by force, or will in death smear this soil with their blood.
 
 cts:urn:tlg0085.tlg004:49
-glaux1.0-sentence: 17
+glaux1.0-sentence	17
 perseus-grc2.tb	μνημεῖά θ’ αὑτῶν τοῖς τεκοῦσιν ἐς δόμους πρὸς ἅρμ’ Ἀδράστου χερσὶν ἔστεφον, δάκρυ λείβοντες.
 perseus-eng2 And on Adrastus’ chariot they were placing remembrances of themselves for their parents at home, and were shedding tears while so doing,
 
 cts:urn:tlg0085.tlg004:51
-glaux1.0-sentence: 18
+glaux1.0-sentence	18
 perseus-grc2.tb	οἶκτος δ’ οὔτις ἦν διὰ στόμα.
 perseus-eng2 but no piteous wailing escaped their lips.
 
 cts:urn:tlg0085.tlg004:52
-glaux1.0-sentence: 19
+glaux1.0-sentence	19
 perseus-grc2.tb	σιδηρόφρων γὰρ θυμὸς ἀνδρείᾳ φλέγων ἔπνει, λεόντων ὡς Ἄρη δεδορκότων.
 perseus-eng2 For their iron-hearted spirit heaved, blazing with courage, as of lions with war in their eyes.
 
 cts:urn:tlg0085.tlg004:54
-glaux1.0-sentence: 20
+glaux1.0-sentence	20
 perseus-grc2.tb	καὶ τῶνδε πύστις οὐκ ὄκνῳ χρονίζεται.
 perseus-eng2 Your knowledge of these things was not delayed by fearfulness;
 
 cts:urn:tlg0085.tlg004:55
-glaux1.0-sentence: 21
+glaux1.0-sentence	21
 perseus-grc2.tb	κληρουμένους δ’ ἔλειπον, ὡς πάλῳ λαχὼν ἕκαστος αὐτῶν πρὸς πύλας ἄγοι λόχον.
 perseus-eng2 for I left them casting lots to decide how each commander, his post assigned by chance, would lead his regiment against the gates.
 
 cts:urn:tlg0085.tlg004:57
-glaux1.0-sentence: 22
+glaux1.0-sentence	22
 perseus-grc2.tb	πρὸς ταῦτ’ ἀρίστους ἄνδρας ἐκκρίτους πόλεως πυλῶν ἐπ’ ἐξόδοισι τάγευσαι τάχος.
 perseus-eng2 Therefore, choose the bravest men of the city and station them quickly at the outlets of the gates.
 
 cts:urn:tlg0085.tlg004:59
-glaux1.0-sentence: 23
+glaux1.0-sentence	23
 perseus-grc2.tb	ἐγγὺς γὰρ ἤδη πάνοπλος Ἀργείων στρατὸς χωρεῖ, κονίει, πεδία δ’ ἀργηστὴς ἀφρὸς χραίνει σταλαγμοῖς ἱππικῶν ἐκ πλευμόνων.
 perseus-eng2 For nearby already the Argive army in full armor is advancing in a flurry of dust, and glistening foam splatters the plain in drops from the horses’ pantings.
 
 cts:urn:tlg0085.tlg004:62
-glaux1.0-sentence: 24
+glaux1.0-sentence	24
 perseus-grc2.tb	σὺ δ’ ὥστε ναὸς κεδνὸς οἰακοστρόφος φράξαι πόλισμα, πρὶν καταιγίσαι πνοὰς Ἄρεως.
 perseus-eng2 So you, like the careful helmsman of a ship, secure the city before Ares’ blasts storm down upon it;
 
 cts:urn:tlg0085.tlg004:64
-glaux1.0-sentence: 25
+glaux1.0-sentence	25
 perseus-grc2.tb	βοᾷ γὰρ κῦμα χερσαῖον στρατοῦ.
 perseus-eng2 for the wave of their army now crashes over the dry land.
 
 cts:urn:tlg0085.tlg004:65
-glaux1.0-sentence: 26
+glaux1.0-sentence	26
 perseus-grc2.tb	καὶ τῶνδε καιρὸν ὅστις ὤκιστος λαβέ.
 perseus-eng2 Seize the first opportune moment for doing this.
 
 cts:urn:tlg0085.tlg004:66
-glaux1.0-sentence: 27
+glaux1.0-sentence	27
 perseus-grc2.tb	κ- ἐγὼ τὰ λοιπὰ πιστὸν ἡμεροσκόπον ὀφθαλμὸν ἕξω, καὶ σαφηνείᾳ λόγου εἰδὼς τὰ τῶν θύραθεν ἀβλαβὴς ἔσῃ.
 perseus-eng2 For all else, I, on my part, will keep a reliable eye on the lookout, and you, by learning from my certain report what happens beyond the gates, shall remain unharmed. Exit.
 
 cts:urn:tlg0085.tlg004:69
-glaux1.0-sentence: 28
+glaux1.0-sentence	28
 perseus-grc2.tb	ὦ Ζεῦ τε καὶ Γῆ καὶ πολισσοῦχοι θεοί, Ἀράτ’ Ἐρινὺς πατρὸς ἡ μεγασθενής, μή μοι πόλιν γε πρυμνόθεν πανώλεθρον ἐκθαμνίσητε δῃάλωτον, Ἑλλάδος φθόγγον χέουσαν, καὶ δόμους ἐφεστίους.
 perseus-eng2 O Zeus and Earth, and gods that guard our city, and Curse,[*] potent agent of my father’s vengeance, do not destroy my city, ripping it up from its foundations, captive of the enemy, a city that speaks in Greece’s tongue, and do not destroy our hearths and homes.
 
 cts:urn:tlg0085.tlg004:74
-glaux1.0-sentence: 29
+glaux1.0-sentence	29
 perseus-grc2.tb	ἐλευθέραν δὲ γῆν τε καὶ Κάδμου πόλιν ζυγοῖσι δουλίοισι μήποτε σχεθεῖν.
 perseus-eng2 May they never hold the free land and city of Cadmus beneath the yoke of slavery!
 
 cts:urn:tlg0085.tlg004:76
-glaux1.0-sentence: 30
+glaux1.0-sentence	30
 perseus-grc2.tb	γένεσθε δ’ ἀλκή.
 perseus-eng2 Be our protection!
 
 cts:urn:tlg0085.tlg004:76
-glaux1.0-sentence: 31
+glaux1.0-sentence	31
 perseus-grc2.tb	ξυνὰ δ’ ἐλπίζω λέγειν.
 perseus-eng2 I am certain that what I ask is in our common interest;
 
 cts:urn:tlg0085.tlg004:77
-glaux1.0-sentence: 32
+glaux1.0-sentence	32
 perseus-grc2.tb	πόλις γὰρ εὖ πράσσουσα δαίμονας τίει.
 perseus-eng2 for a State that prospers pays honors to its gods.
 
 cts:urn:tlg0085.tlg004:78
-glaux1.0-sentence: 33
+glaux1.0-sentence	33
 perseus-grc2.tb	θρέομαι φοβερὰ μεγάλ’ ἄχη.
 perseus-eng2 In terror I wail loud cries of sorrow.
 
 cts:urn:tlg0085.tlg004:79
-glaux1.0-sentence: 34
+glaux1.0-sentence	34
 perseus-grc2.tb	μεθεῖται στρατός.
 perseus-eng2 Their army is let loose!
 
 cts:urn:tlg0085.tlg004:79
-glaux1.0-sentence: 35
+glaux1.0-sentence	35
 perseus-grc2.tb	στρατόπεδον λιπὼν ῥεῖ πολὺς ὅδε λεὼς πρόδρομος ἱππότας.
 perseus-eng2 Leaving camp, —look!—the mounted throng floods swiftly ahead.
 
 cts:urn:tlg0085.tlg004:81
-glaux1.0-sentence: 36
+glaux1.0-sentence	36
 perseus-grc2.tb	αἰθερία κόνις με πείθει φανεῖσ’, ἄναυδος σαφὴς ἔτυμος ἄγγελος.
 perseus-eng2 The dust whirling in the air tells me this is so—its message is speechless, yet clear and true.
 
 cts:urn:tlg0085.tlg004:83
-glaux1.0-sentence: 37
+glaux1.0-sentence	37
 perseus-grc2.tb	ἔτι δὲ γᾶς ἐμᾶς πεδί’ ὁπλόκτυπ’ ὠτὶ χρίμπτει βοάν.
 perseus-eng2 And now the plains of my native land under the blows of hooves send a roar to my ears; the sound flies
 
 cts:urn:tlg0085.tlg004:84
-glaux1.0-sentence: 38
+glaux1.0-sentence	38
 perseus-grc2.tb	ποτᾶται, βρέμει δ’ ἀμαχέτου δίκαν ὕδατος ὀροτύπου.
 perseus-eng2 and rumbles like a resistless torrent crashing down a mountainside.
 
 cts:urn:tlg0085.tlg004:86
-glaux1.0-sentence: 39
+glaux1.0-sentence	39
 perseus-grc2.tb	ἰὼ ἰὼ ἰὼ θεοὶ θεαί τ’ ὀρόμενον κακὸν βοᾷ τειχέων ὕπερ ἀλεύσατε.
 perseus-eng2 Ah, ah, you gods and goddesses, raise your war cry over our walls to drive away the onrushing evil!
 
 cts:urn:tlg0085.tlg004:89
-glaux1.0-sentence: 40
+glaux1.0-sentence	40
 perseus-grc2.tb	ὁ λεύκασπις ὄρνυται λαὸς εὐτρεπὴς ἐπὶ πόλιν διώκων πόδα.
 perseus-eng2 The army of the white shield, ready for battle, rushes at full speed against the city.
 
 cts:urn:tlg0085.tlg004:91
-glaux1.0-sentence: 41
+glaux1.0-sentence	41
 perseus-grc2.tb	τίς ἄρα ῥύσεται, τίς ἄρ’ ἐπαρκέσει θεῶν ἢ θεᾶν;
 perseus-eng2 Who then will rescue us, which of the gods or goddesses will help?
 
 cts:urn:tlg0085.tlg004:93
-glaux1.0-sentence: 42
+glaux1.0-sentence	42
 perseus-grc2.tb	πότερα δῆτ’ ἐγὼ πάτρια ποτιπέσω βρέτη δαιμόνων;
 perseus-eng2 Or shall I fall in supplication at the feet of our ancestral gods’ statues?
 
 cts:urn:tlg0085.tlg004:96
-glaux1.0-sentence: 43
+glaux1.0-sentence	43
 perseus-grc2.tb	ἰὼ μάκαρες εὔεδροι, ἀκμάζει βρετέων ἔχεσθαι.
 perseus-eng2 Ah, blessed gods, firmly enthroned, the time has come to hold fast to your statues.
 
 cts:urn:tlg0085.tlg004:97
-glaux1.0-sentence: 44
+glaux1.0-sentence	44
 perseus-grc2.tb	τί μέλλομεν ἀγάστονοι;
 perseus-eng2 Why do we delay, who are much to be lamented?
 
 cts:urn:tlg0085.tlg004:100
-glaux1.0-sentence: 45
+glaux1.0-sentence	45
 perseus-grc2.tb	ἀκούετ’ ἢ οὐκ ἀκούετ’ ἀσπίδων κτύπον;
 perseus-eng2 Do you hear the clash of shields, or does it escape you?
 
 cts:urn:tlg0085.tlg004:101
-glaux1.0-sentence: 46
+glaux1.0-sentence	46
 perseus-grc2.tb	πέπλων καὶ στεφέων πότ’ εἰ μὴ νῦν ἀμφὶ λιτάν’ ἕξομεν;
 perseus-eng2 When, if not now, shall we place sacred robes and wreaths on the statues to accompany our prayers?
 
 cts:urn:tlg0085.tlg004:103
-glaux1.0-sentence: 47
+glaux1.0-sentence	47
 perseus-grc2.tb	κτύπον δέδορκα.
 perseus-eng2 I see the clash—it is not the clatter of a single spear.
 
 cts:urn:tlg0085.tlg004:103
-glaux1.0-sentence: 48
+glaux1.0-sentence	48
 perseus-grc2.tb	πάταγος οὐχ ἑνὸς δορός.
 perseus-eng2 What will you do?
 
 cts:urn:tlg0085.tlg004:104
-glaux1.0-sentence: 49
+glaux1.0-sentence	49
 perseus-grc2.tb	τί ῥέξεις;
 perseus-eng2 Will you betray
 
 cts:urn:tlg0085.tlg004:104
-glaux1.0-sentence: 50
+glaux1.0-sentence	50
 perseus-grc2.tb	προδώσεις, παλαίχθων Ἄρης, τὰν τεάν;
 perseus-eng2 your own land, Ares, where you have dwelt since long ago?
 
 cts:urn:tlg0085.tlg004:106
-glaux1.0-sentence: 51
+glaux1.0-sentence	51
 perseus-grc2.tb	ἰὼ χρυσοπήληξ δαῖμον ἔπιδ’ ἔπιδε πόλιν ἅν ποτ’ εὐφιλήταν ἔθου.
 perseus-eng2 God of the golden helmet, look, look upon the city that you once cherished!
 
 cts:urn:tlg0085.tlg004:109
-glaux1.0-sentence: 52
+glaux1.0-sentence	52
 perseus-grc2.tb	θεοὶ πολιάοχοι πάντες ἴτε χθονὸς.
 perseus-eng2 Oh come all you gods who guard our city and its land!
 
 cts:urn:tlg0085.tlg004:110
-glaux1.0-sentence: 53
+glaux1.0-sentence	53
 perseus-grc2.tb	ἴδετε παρθένων ἱκέσιον λόχον δουλοσύνας ὕπερ.
 perseus-eng2 See this suppliant band of maidens praying to be saved from slavery.
 
 cts:urn:tlg0085.tlg004:112
-glaux1.0-sentence: 54
+glaux1.0-sentence	54
 perseus-grc2.tb	κῦμα γὰρ περὶ πτόλιν δοχμολόφων ἀνδρῶν καχλάζει πνοαῖς Ἄρεος ὀρόμενον.
 perseus-eng2 A torrent of men, their helmet plumes tossing, crashes around the city, sped on by the blasts of Ares.
 
 cts:urn:tlg0085.tlg004:116
-glaux1.0-sentence: 55
+glaux1.0-sentence	55
 perseus-grc2.tb	ἀλλ’, ὦ Ζεῦ πάτερ παντελές, πάντως ἄρηξον δαΐων ἅλωσιν.
 perseus-eng2 No! Father Zeus, all-accomplishing, fend from us altogether capture at the hands of the enemy.
 
 cts:urn:tlg0085.tlg004:120
-glaux1.0-sentence: 56
+glaux1.0-sentence	56
 perseus-grc2.tb	Ἀργέιοι δὲ πόλισμα Κάδμου κυκλοῦνται.
 perseus-eng2 The Argives encircle the citadel of Cadmus.
 
 cts:urn:tlg0085.tlg004:121
-glaux1.0-sentence: 57
+glaux1.0-sentence	57
 perseus-grc2.tb	φόβος δ’ ἀρῄων ὅπλων δονεῖ, διὰ δέ τοι γενύων ἱππίων κινύρονται φόνον χαλινοί.
 perseus-eng2 Terror of their weapons of war shakes us, as the bridles in the horse’s jaws rattle the sound of death.
 
 cts:urn:tlg0085.tlg004:124
-glaux1.0-sentence: 58
+glaux1.0-sentence	58
 perseus-grc2.tb	ἑπτὰ δ’ ἀγάνορες πρέποντες στρατοῦ δορυσσοῖς σαγαῖς πύλαις ἑβδόμαις προσίστανται πάλῳ λαχόντες.
 perseus-eng2 Seven bold captains, conspicuous among the army in spear-wielding harnesses, at the seven gates take their stand each according to his lot.
 
 cts:urn:tlg0085.tlg004:128
-glaux1.0-sentence: 59
+glaux1.0-sentence	59
 perseus-grc2.tb	σύ τ’, ὦ Διογενὲς φιλόμαχον κράτος, ῥυσίπολις γενοῦ, Παλλάς, ὅ θ’ ἵππιος ποντομέδων ἄναξ ἰχθυβόλῳ Ποσειδάων μαχανᾷ, ἐπίλυσιν φόβων, ἐπίλυσιν δίδου.
 perseus-eng2 Pallas, Zeus-born power delighting in battle, prove yourself the savior of the city! And you, lord of steeds, ruler of the deep, Poseidon, with your fish-striking weapon grant us release from our fears, grant us release!
 
 cts:urn:tlg0085.tlg004:135
-glaux1.0-sentence: 60
+glaux1.0-sentence	60
 perseus-grc2.tb	σύ τ’, Ἄρης, φεῦ, φεῦ, πόλιν ἐπώνυμον Κάδμου φύλαξον κήδεσαί τ’ ἐναργῶς.
 perseus-eng2 You too, Ares—pity us!—guard the city named for Cadmus and make evident your closeness[*] to us!
 
 cts:urn:tlg0085.tlg004:140
-glaux1.0-sentence: 61
+glaux1.0-sentence	61
 perseus-grc2.tb	καὶ Κύπρις, ἅτ’ εἶ γένους προμάτωρ, ἄλευσον.
 perseus-eng2 And Cypris, you who are the first mother of our race, defend us who are sprung from your blood.
 
 cts:urn:tlg0085.tlg004:141
-glaux1.0-sentence: 62
+glaux1.0-sentence	62
 perseus-grc2.tb	σέθεν γὰρ ἐξ αἵματος γεγόναμεν.
 perseus-eng2 We come to you, crying out in prayers for your divine ears.
 
 cts:urn:tlg0085.tlg004:142
-glaux1.0-sentence: 63
+glaux1.0-sentence	63
 perseus-grc2.tb	λιταῖσί σε θεοκλύτοις ἀυτοῦσαι πελαζόμεσθα.
 perseus-eng2 We come to you, crying out in prayers for your divine ears.
 
 cts:urn:tlg0085.tlg004:145
-glaux1.0-sentence: 64
+glaux1.0-sentence	64
 perseus-grc2.tb	καὶ σύ, Λύκει’ ἄναξ, Λύκειος γενοῦ στρατῷ δαΐῳ στόνων ἀντίτας.
 perseus-eng2 And you, Apollo, lord of the Wolf,[*] be a wolf to the enemy force and give them groan for groan!
 
 cts:urn:tlg0085.tlg004:147
-glaux1.0-sentence: 65
+glaux1.0-sentence	65
 perseus-grc2.tb	σύ τ’, ὦ Λατογένεια κούρα, τόξον εὐτυκάζου Ἄρτεμι φίλα.
 perseus-eng2 You too, maiden child of Leto, ready your bow!
 
 cts:urn:tlg0085.tlg004:149
-glaux1.0-sentence: 66
+glaux1.0-sentence	66
 perseus-grc2.tb	ἒ ἒ ἒ ἔ, ὄτοβον ἁρμάτων ἀμφὶ πόλιν κλύω.
 perseus-eng2 Ah! Ah! I hear the rattle of chariots encircling the town.
 
 cts:urn:tlg0085.tlg004:151
-glaux1.0-sentence: 67
+glaux1.0-sentence	67
 perseus-grc2.tb	ὦ πότνι’ Ἥρα.
 perseus-eng2 O lady Hera!
 
 cts:urn:tlg0085.tlg004:152
-glaux1.0-sentence: 68
+glaux1.0-sentence	68
 perseus-grc2.tb	ἔλακον ἀξόνων βριθομένων χνόαι.
 perseus-eng2 The hubs are creaking beneath the axles’ load.
 
 cts:urn:tlg0085.tlg004:153
-glaux1.0-sentence: 69
+glaux1.0-sentence	69
 perseus-grc2.tb	Ἄρτεμι φίλα, ἒ ἒ ἒ ἔ, δοριτίνακτος αἰθὴρ δ’ ἐπιμαίνεται.
 perseus-eng2 Beloved Artemis! The air rages at the shaking of spears!
 
 cts:urn:tlg0085.tlg004:156
-glaux1.0-sentence: 70
+glaux1.0-sentence	70
 perseus-grc2.tb	τί πόλις ἄμμι πάσχει, τί γενήσεται;
 perseus-eng2 What is happening to our city? What will the future bring?
 
 cts:urn:tlg0085.tlg004:157
-glaux1.0-sentence: 71
+glaux1.0-sentence	71
 perseus-grc2.tb	ποῖ δ’ ἔτι τέλος ἐπάγει θεός;
 perseus-eng2 And where does God finally lead us?
 
 cts:urn:tlg0085.tlg004:158
-glaux1.0-sentence: 72
+glaux1.0-sentence	72
 perseus-grc2.tb	ἒ ἒ ἒ ἔ, ἀκροβόλων δ’ ἐπάλξεων λιθὰς ἔρχεται.
 perseus-eng2 Ah! Ah! A hail of stones strikes our battlements from afar.
 
 cts:urn:tlg0085.tlg004:159
-glaux1.0-sentence: 73
+glaux1.0-sentence	73
 perseus-grc2.tb	ὦ φίλ’ Ἄπολλον.
 perseus-eng2 O beloved Apollo!
 
 cts:urn:tlg0085.tlg004:160
-glaux1.0-sentence: 74
+glaux1.0-sentence	74
 perseus-grc2.tb	κόναβος ἐν πύλαις χαλκοδέτων σακέων, παῖ Διός, ὅθεν πολεμόκραντον ἁγνὸν τέλος ἐν μάχᾳ.
 perseus-eng2 There is the clang of bronze-bound shields at the gates. O son of Zeus, in whom dwells the sacred power to decide in battle war’s outcome!
 
 cts:urn:tlg0085.tlg004:163
-glaux1.0-sentence: 75
+glaux1.0-sentence	75
 perseus-grc2.tb	σύ τε, μάκαιρ’ ἄνασσ’ Ὄγκα, πρὸ πόλεως ἑπτάπυλον ἕδος ἐπιρρύου.
 perseus-eng2 And you, blessed queen Onca,[*] on behalf of the city, defend your seven-gated home!
 
 cts:urn:tlg0085.tlg004:166
-glaux1.0-sentence: 76
+glaux1.0-sentence	76
 perseus-grc2.tb	ἰὼ παναρκεῖς θεοί, ἰὼ τέλειοι τέλειαί τε γᾶς τᾶσδε πυργοφύλακες, πόλιν δορίπονον μὴ προδῶθ’ ἑτεροφώνῳ στρατῷ.
 perseus-eng2 All-powerful divinities, you gods and goddesses who wield the power to guard the towers of our land, do not betray our city that now toils under the spear to an alien-tongued army.
 
 cts:urn:tlg0085.tlg004:171
-glaux1.0-sentence: 77
+glaux1.0-sentence	77
 perseus-grc2.tb	κλύετε παρθένων κλύετε πανδίκως χειροτόνους λιτάς.
 perseus-eng2 Hear us, hear, as is right, the prayers we maidens offer with outstretched hands.
 
 cts:urn:tlg0085.tlg004:174
-glaux1.0-sentence: 78
+glaux1.0-sentence	78
 perseus-grc2.tb	ἰὼ φίλοι δαίμονες, λυτήριοί τ’ ἀμφιβάντες πόλιν, δείξαθ’ ὡς φιλοπόλεις, μέλεσθέ θ’ ἱερῶν δημίων, μελόμενοι δ’ ἀρήξατε.
 perseus-eng2 Beloved spirits, encompass the city to deliver it from ruin and show that you love it. Consider the people's offerings, and as you consider, help us.
 
 cts:urn:tlg0085.tlg004:179
-glaux1.0-sentence: 79
+glaux1.0-sentence	79
 perseus-grc2.tb	φιλοθύτων δέ τοι πόλεος ὀργίων μνήστορες ἐστέ μοι.
 perseus-eng2 Remember, I beg, our city's worship, rich in sacrifice.
 
 cts:urn:tlg0085.tlg004:181
-glaux1.0-sentence: 80
+glaux1.0-sentence	80
 perseus-grc2.tb	ὑμᾶς ἐρωτῶ, θρέμματ’ οὐκ ἀνασχετά, ἦ ταῦτ’ ἄριστα καὶ πόλει σωτήρια, στρατῷ τε θάρσος τῷδε πυργηρουμένῳ, βρέτη πεσούσας πρὸς πολισσούχων θεῶν αὔειν, λακάζειν, σωφρόνων μισήματα;
 perseus-eng2 You intolerable things! I ask you, is this the best way to save the city? Does it hearten our army here besieged, when you fall before the images of the gods that guard the city and shout and shriek—behavior that moderate people despise?
 
 cts:urn:tlg0085.tlg004:187
-glaux1.0-sentence: 81
+glaux1.0-sentence	81
 perseus-grc2.tb	μήτ’ ἐν κακοῖσι μήτ’ ἐν εὐεστοῖ φίλῃ ξύνοικος εἴην τῷ γυναικείῳ γένει.
 perseus-eng2 May I never share my home with the female race, neither in time of evil nor in pleasant prosperity!
 
 cts:urn:tlg0085.tlg004:189
-glaux1.0-sentence: 82
+glaux1.0-sentence	82
 perseus-grc2.tb	κρατοῦσα μὲν γὰρ οὐχ ὁμιλητὸν θράσος, δείσασα δ’ οἴκῳ καὶ πόλει πλέον κακόν.
 perseus-eng2 When things go well for her, her boldness is unbearable, but when she is afraid, she is an even greater evil for home and city.
 
 cts:urn:tlg0085.tlg004:191
-glaux1.0-sentence: 83
+glaux1.0-sentence	83
 perseus-grc2.tb	καὶ νῦν πολίταις τάσδε διαδρόμους φυγὰς θεῖσαι διερροθήσατ’ ἄψυχον κάκην.
 perseus-eng2 So now your cries as you rushed here and there in panicked flight have rattled the citizens into dispirited cowardice.
 
 cts:urn:tlg0085.tlg004:193
-glaux1.0-sentence: 84
+glaux1.0-sentence	84
 perseus-grc2.tb	τὰ τῶν θύραθεν δ’ ὡς ἄριστ’ ὀφέλλεται, αὐτοὶ δ’ ὑπ’ αὐτῶν ἔνδοθεν πορθούμεθα.
 perseus-eng2 The cause of the enemy outside our gates is excellently strengthened by your behavior, while we inside are ruined by our own people.
 
 cts:urn:tlg0085.tlg004:195
-glaux1.0-sentence: 85
+glaux1.0-sentence	85
 perseus-grc2.tb	τοιαῦτά τ- ἂν γυναιξὶ συνναίων ἔχοις.
 perseus-eng2 This is the sort of trouble you will have if you dwell with women.
 
 cts:urn:tlg0085.tlg004:196
-glaux1.0-sentence: 86
+glaux1.0-sentence	86
 perseus-grc2.tb	κ- εἰ μή τις ἀρχῆς τῆς ἐμῆς ἀκούσεται, ἀνὴρ γυνή τε κ- ὅ τι τῶν μεταίχμιον, ψῆφος κατ’ αὐτῶν ὀλεθρία βουλεύσεται, λευστῆρα δήμου δ’ οὔ τι μὴ φύγῃ μόρον.
 perseus-eng2 Now if anyone fails to obey my authority—whether man or woman or something in between—a sentence of death will be decreed for him and by no means whatsoever will he escape destruction by stoning at the people’s hands.
 
 cts:urn:tlg0085.tlg004:200
-glaux1.0-sentence: 87
+glaux1.0-sentence	87
 perseus-grc2.tb	μέλει γὰρ ἀνδρί, μὴ γυνὴ βουλευέτω, τ- ἔξωθεν.
 perseus-eng2 It is for the man to take care of business outside the house; let no woman make decrees in those matters.
 
 cts:urn:tlg0085.tlg004:201
-glaux1.0-sentence: 88
+glaux1.0-sentence	88
 perseus-grc2.tb	ἔνδον δ’ οὖσα μὴ βλάβην τίθει.
 perseus-eng2 Keep inside and do no harm!
 
 cts:urn:tlg0085.tlg004:202
-glaux1.0-sentence: 89
+glaux1.0-sentence	89
 perseus-grc2.tb	ἤκουσας ἢ οὐκ ἤκουσας, ἢ κωφῇ λέγω;
 perseus-eng2 Do you hear me or not? Am I speaking to the deaf?
 
 cts:urn:tlg0085.tlg004:203
-glaux1.0-sentence: 90
+glaux1.0-sentence	90
 perseus-grc2.tb	ὦ φίλον Οἰδίπου τέκος, ἔδεισ’ ἀκούσασα τὸν ἁρματόκτυπον ὄτοβον ὄτοβον, ὅτε τε σύριγγες ἔκλαγξαν ἑλίτροχοι, ἱππικῶν τ’ ἀπύαν πηδαλίων διὰ στόμα πυριγενετᾶν χαλινῶν.
 perseus-eng2 Chorus: Dear son of Oedipus, I grew afraid when I heard the clatter of the crashing chariots, when the hubs screamed as they whirled around the wheel, and when I heard the sound of the steering gear, fire-forged bits, in the horses’ mouths.
 
 cts:urn:tlg0085.tlg004:208
-glaux1.0-sentence: 91
+glaux1.0-sentence	91
 perseus-grc2.tb	τί οὖν;
 perseus-eng2 Eteocles: Well, then,
 
 cts:urn:tlg0085.tlg004:208
-glaux1.0-sentence: 92
+glaux1.0-sentence	92
 perseus-grc2.tb	ὁ ναύτης ἆρα μὴ ’ς πρῷραν φυγὼν πρύμνηθεν ηὗρε μηχανὴν σωτηρίας, νεὼς καμούσης ποντίῳ πρὸς κύματι;
 perseus-eng2 has a helmsman ever found a way to safety by fleeing from stern to prow, when his ship is foundering in high seas?
 
 cts:urn:tlg0085.tlg004:211
-glaux1.0-sentence: 93
+glaux1.0-sentence	93
 perseus-grc2.tb	ἀλλ’ ἐπὶ δαιμόνων πρόδρομος ἦλθον ἀρχαῖα βρέτη, θεοῖσι πίσυνος, νιφάδος ὅτ’ ὀλοᾶς νειφομένας βρόμος ἐν πύλαις;
 perseus-eng2 Chorus: But trusting in the gods I came in haste to their ancient statues, when the deadly blizzard of falling stones thundered against the gates.
 
 cts:urn:tlg0085.tlg004:214
-glaux1.0-sentence: 94
+glaux1.0-sentence	94
 perseus-grc2.tb	δὴ τότ’ ἤρθην φόβῳ πρὸς μακάρων λιτάς, πόλεως ἵν’ ὑπερέχοιεν ἀλκάν.
 perseus-eng2 Just then I set out in fear to pray to the Blessed Ones that they spread their protection over the city.
 
 cts:urn:tlg0085.tlg004:216
-glaux1.0-sentence: 95
+glaux1.0-sentence	95
 perseus-grc2.tb	πύργον στέγειν εὔχεσθε πολέμιον δόρυ.
 perseus-eng2 Eteocles: Pray that the rampart withstand the enemy spear.
 
 cts:urn:tlg0085.tlg004:217
-glaux1.0-sentence: 96
+glaux1.0-sentence	96
 perseus-grc2.tb	οὐκοῦν τάδ’ ἔσται πρὸς θεῶν;
 perseus-eng2 Yes, the outcome is in the gods’ hands—
 
 cts:urn:tlg0085.tlg004:217
-glaux1.0-sentence: 97
+glaux1.0-sentence	97
 perseus-grc2.tb	ἀλλ’ οὖν θεοὺς τοὺς τῆς ἁλούσης πόλεος ἐκλείπειν λόγος.
 perseus-eng2 but then, it is said that the gods of a captured city abandon it.
 
 cts:urn:tlg0085.tlg004:219
-glaux1.0-sentence: 98
+glaux1.0-sentence	98
 perseus-grc2.tb	μήποτ’ ἐμὸν κατ’ αἰῶνα λίποι θεῶν ἅδε πανάγυρις, μηδ’ ἐπίδοιμι τάνδ’ ἀστυδρομουμέναν πόλιν καὶ στράτευμ’ ἁπτόμενον πυρὶ δαΐῳ.
 perseus-eng2 Chorus: Never so long as I live may this divine assembly abandon us, nor may I live to see the city overrun and the army seizing it with hostile fire!
 
 cts:urn:tlg0085.tlg004:223
-glaux1.0-sentence: 99
+glaux1.0-sentence	99
 perseus-grc2.tb	μή μοι θεοὺς καλοῦσα βουλεύου κακῶς;
 perseus-eng2 Eteocles: When you invoke the gods, do not be ill-advised.
 
 cts:urn:tlg0085.tlg004:224
-glaux1.0-sentence: 100
+glaux1.0-sentence	100
 perseus-grc2.tb	πειθαρχία γάρ ἐστι τῆς εὐπραξίας μήτηρ, γυνὴ σωτῆρος;
 perseus-eng2 For Obedience is the mother of Success, wife of Salvation—
 
 cts:urn:tlg0085.tlg004:225
-glaux1.0-sentence: 101
+glaux1.0-sentence	101
 perseus-grc2.tb	ὧδ’ ἔχει λόγος.
 perseus-eng2 as the saying goes.
 
 cts:urn:tlg0085.tlg004:226
-glaux1.0-sentence: 102
+glaux1.0-sentence	102
 perseus-grc2.tb	ἔστι.
 perseus-eng2 So she is,
 
 cts:urn:tlg0085.tlg004:226
-glaux1.0-sentence: 103
+glaux1.0-sentence	103
 perseus-grc2.tb	θεοῦ δ’ ἔτ’ ἰσχὺς καθυπερτέρα.
 perseus-eng2 but the power of god is supreme,
 
 cts:urn:tlg0085.tlg004:227
-glaux1.0-sentence: 104
+glaux1.0-sentence	104
 perseus-grc2.tb	πολλάκι δ’ ἐν κακοῖσι τὸν ἀμάχανον κ- ἐκ χαλεπᾶς δύας ὕπερθ’ ὀμμάτων κρημναμενᾶν νεφελᾶν ὀρθοῖ.
 perseus-eng2 and often in bad times it raises the helpless man out of harsh misery even when stormclouds are lowering over his eyes.
 
 cts:urn:tlg0085.tlg004:230
-glaux1.0-sentence: 105
+glaux1.0-sentence	105
 perseus-grc2.tb	ἀνδρῶν τάδ’ ἐστί, σφάγια καὶ χρηστήρια θεοῖσιν ἕρδειν πολεμίων πειρωμένους.
 perseus-eng2 Eteocles: It is the man’s duty to offer victims and sacrifices to the gods when they test their enemy;
 
 cts:urn:tlg0085.tlg004:232
-glaux1.0-sentence: 106
+glaux1.0-sentence	106
 perseus-grc2.tb	σὸν δ’ αὖ τὸ σιγᾶν καὶ μένειν εἴσω δόμων.
 perseus-eng2 your duty is to be silent and to remain inside the house.
 
 cts:urn:tlg0085.tlg004:233
-glaux1.0-sentence: 107
+glaux1.0-sentence	107
 perseus-grc2.tb	διὰ θεῶν πόλιν νεμόμεθ’ ἀδάματον, δυσμενέων δ’ ὄχλον πύργος ἀποστέγει.
 perseus-eng2 Chorus: By the will of the gods we inhabit an unconquered city, and the rampart withstands the enemy throng.
 
 cts:urn:tlg0085.tlg004:235
-glaux1.0-sentence: 108
+glaux1.0-sentence	108
 perseus-grc2.tb	τίς τάδε νέμεσις στυγεῖ;
 perseus-eng2 What indignation makes you resent this?
 
 cts:urn:tlg0085.tlg004:236
-glaux1.0-sentence: 109
+glaux1.0-sentence	109
 perseus-grc2.tb	οὔτοι φθονῶ σοι δαιμόνων τιμᾶν γένος.
 perseus-eng2 Eteocles: I do not begrudge your honor of the divine race;
 
 cts:urn:tlg0085.tlg004:237
-glaux1.0-sentence: 110
+glaux1.0-sentence	110
 perseus-grc2.tb	ἀλλ’ ὡς πολίτας μὴ κακοσπλάγχνους τιθῇς, εὔκηλος ἴσθι μηδ’ ἄγαν ὑπερφοβοῦ.
 perseus-eng2 but lest you make the citizens cowardly, be calm and do not be overly fearful.
 
 cts:urn:tlg0085.tlg004:239
-glaux1.0-sentence: 111
+glaux1.0-sentence	111
 perseus-grc2.tb	ποτίφατον κλύουσα πάταγον ἀνάμιγα ταρβοσύνῳ φόβῳ τάνδ’ ἐς ἀκρόπτολιν, τίμιον ἕδος, ἱκόμαν.
 perseus-eng2 Chorus: When I heard the strange and jumbled clashes, I came in trembling fear to this citadel, our seat of worship.
 
 cts:urn:tlg0085.tlg004:242
-glaux1.0-sentence: 112
+glaux1.0-sentence	112
 perseus-grc2.tb	μή νυν, ἐὰν θνῄσκ
 perseus-eng2 Eteocles: If, then, you hear that men are dying or wounded, do not seize on the news with loud wailing.
 
 cts:urn:tlg0085.tlg004:244
-glaux1.0-sentence: 113
+glaux1.0-sentence	113
 perseus-grc2.tb	τούτῳ γὰρ Ἄρης βόσκεται, φόνῳ βροτῶν.
 perseus-eng2 For this is the food of Ares, human blood.
 
 cts:urn:tlg0085.tlg004:245
-glaux1.0-sentence: 114
+glaux1.0-sentence	114
 perseus-grc2.tb	καὶ μὴν ἀκούω γ’ ἱππικῶν φρυαγμάτων.
 perseus-eng2 Chorus: Oh, but I hear horses snorting!
 
 cts:urn:tlg0085.tlg004:246
-glaux1.0-sentence: 115
+glaux1.0-sentence	115
 perseus-grc2.tb	μή νυν ἀκούουσ’ ἐμφανῶς ἄκου’ ἄγαν.
 perseus-eng2 Eteocles: Hear them, then, but not too clearly.
 
 cts:urn:tlg0085.tlg004:247
-glaux1.0-sentence: 116
+glaux1.0-sentence	116
 perseus-grc2.tb	στένει πόλισμα γῆθεν, ὡς κυκλουμένων.
 perseus-eng2 Chorus: The city groans from deep in the earth, as though we are surrounded.
 
 cts:urn:tlg0085.tlg004:248
-glaux1.0-sentence: 117
+glaux1.0-sentence	117
 perseus-grc2.tb	οὐκοῦν ἔμ’ ἀρκεῖ τῶνδε βουλεύειν πέρι.
 perseus-eng2 Eteocles: Surely it is enough that I am making plans for this?
 
 cts:urn:tlg0085.tlg004:249
-glaux1.0-sentence: 118
+glaux1.0-sentence	118
 perseus-grc2.tb	δέδοικ’, ἀραγμὸς δ’ ἐν πύλαις ὀφέλλεται.
 perseus-eng2 Chorus: I am terrified—the crashing at the gates is increasing.
 
 cts:urn:tlg0085.tlg004:250
-glaux1.0-sentence: 119
+glaux1.0-sentence	119
 perseus-grc2.tb	οὐ σῖγα μηδὲν τῶνδ’ ἐρεῖς κατὰ πτόλιν;
 perseus-eng2 Eteocles: Won’t you be silent, and speak none of this throughout the city?
 
 cts:urn:tlg0085.tlg004:251
-glaux1.0-sentence: 120
+glaux1.0-sentence	120
 perseus-grc2.tb	ὦ ξυντέλεια, μὴ προδῷς πυργώματα.
 perseus-eng2 Chorus: Divine company, do not betray our fortifications!
 
 cts:urn:tlg0085.tlg004:252
-glaux1.0-sentence: 121
+glaux1.0-sentence	121
 perseus-grc2.tb	οὐκ ἐς φθόρον σιγῶσ’ ἀνασχήσῃ τάδε;
 perseus-eng2 Eteocles: Damn you! Will you not endure these events in silence?
 
 cts:urn:tlg0085.tlg004:253
-glaux1.0-sentence: 122
+glaux1.0-sentence	122
 perseus-grc2.tb	θεοὶ πολῖται, μή με δουλείας τυχεῖν.
 perseus-eng2 Chorus: Gods of our city! Do not let my fate be slavery!
 
 cts:urn:tlg0085.tlg004:254
-glaux1.0-sentence: 123
+glaux1.0-sentence	123
 perseus-grc2.tb	αὐτὴ σὺ δουλοῖς κ- ἐμὲ καὶ πᾶσαν πόλιν.
 perseus-eng2 Eteocles: You would enslave both me and all the city.
 
 cts:urn:tlg0085.tlg004:255
-glaux1.0-sentence: 124
+glaux1.0-sentence	124
 perseus-grc2.tb	ὦ παγκρατὲς Ζεῦ, τρέψον εἰς ἐχθροὺς βέλος.
 perseus-eng2 Chorus: Almighty Zeus, turn your missile against the enemy!
 
 cts:urn:tlg0085.tlg004:256
-glaux1.0-sentence: 125
+glaux1.0-sentence	125
 perseus-grc2.tb	ὦ Ζεῦ, γυναικ
 perseus-eng2 Eteocles: O Zeus, what a breed you have made for us in women!
 
 cts:urn:tlg0085.tlg004:257
-glaux1.0-sentence: 126
+glaux1.0-sentence	126
 perseus-grc2.tb	μοχθηρόν, ὥσπερ ἄνδρας ὧν ἁλῷ πόλις.
 perseus-eng2 Chorus: A breed steeped in misery, just like men whose city is captured.
 
 cts:urn:tlg0085.tlg004:258
-glaux1.0-sentence: 127
+glaux1.0-sentence	127
 perseus-grc2.tb	παλινστομεῖς αὖ θιγγάνουσ’ ἀγαλμάτων;
 perseus-eng2 Eteocles: Why are your words ill-omened, when you still grasp the gods’ statues?
 
 cts:urn:tlg0085.tlg004:259
-glaux1.0-sentence: 128
+glaux1.0-sentence	128
 perseus-grc2.tb	ἀψυχίᾳ γὰρ γλῶσσαν ἁρπάζει φόβος.
 perseus-eng2 Chorus: In my weakness fear controls my tongue.
 
 cts:urn:tlg0085.tlg004:260
-glaux1.0-sentence: 129
+glaux1.0-sentence	129
 perseus-grc2.tb	αἰτουμένῳ μοι κοῦφον εἰ δοίης τέλος.
 perseus-eng2 Eteocles: If only you would grant my plea for a small service.
 
 cts:urn:tlg0085.tlg004:261
-glaux1.0-sentence: 130
+glaux1.0-sentence	130
 perseus-grc2.tb	λέγοις ἂν ὡς τάχιστα, καὶ τάχ’ εἴσομαι.
 perseus-eng2 Chorus: Please state it as quickly as possible, and I will quickly know what to do.
 
 cts:urn:tlg0085.tlg004:262
-glaux1.0-sentence: 131
+glaux1.0-sentence	131
 perseus-grc2.tb	σίγησον, ὦ τάλαινα, μὴ φίλους φόβει.
 perseus-eng2 Eteocles: Be silent, wretched woman; do not terrify your own men.
 
 cts:urn:tlg0085.tlg004:263
-glaux1.0-sentence: 132
+glaux1.0-sentence	132
 perseus-grc2.tb	σιγῶ.
 perseus-eng2 Chorus: I am silent.
 
 cts:urn:tlg0085.tlg004:263
-glaux1.0-sentence: 133
+glaux1.0-sentence	133
 perseus-grc2.tb	σὺν ἄλλοις πείσομαι τὸ μόρσιμον.
 perseus-eng2 Eteocles: I welcome this sentiment of yours over what you said before.
 
 cts:urn:tlg0085.tlg004:265
-glaux1.0-sentence: 135
+glaux1.0-sentence	135
 perseus-grc2.tb	καὶ πρός γε τούτοις, ἐκτὸς οὖσ’ ἀγαλμάτων, εὔχου τὰ κρείσσω, ξυμμάχους εἶναι θεούς.
 perseus-eng2 And in addition, keep your distance from the gods’ images and make a stronger prayer, that the gods fight on our side.
 
 cts:urn:tlg0085.tlg004:267
-glaux1.0-sentence: 136
+glaux1.0-sentence	136
 perseus-grc2.tb	κ- ἐμῶν ἀκούσασ’ εὐγμάτων, ἔπειτα σὺ ὀλολυγμὸν ἱερὸν εὐμενῆ παιώνισον, Ἑλληνικὸν νόμισμα θυστάδος βοῆς, θάρσος φίλοις, λύουσα πολέμιον φόβον.
 perseus-eng2 And once you have heard my prayers, then sing the victory song, the sacred cry of joy and goodwill, our Greek ritual of shouting in tribute, that brings courage to our friends and dissolves fear of the enemy.
 
 cts:urn:tlg0085.tlg004:271
-glaux1.0-sentence: 137
+glaux1.0-sentence	137
 perseus-grc2.tb	ἐγὼ δὲ χώρας τοῖς πολισσούχοις θεοῖς, πεδιονόμοις τε κ- ἀγορᾶς ἐπισκόποις, Δίρκης τε πηγαῖς, ὕδατί τ’ Ἰσμηνοῦ λέγω εὖ ξυντυχόντων καὶ πόλεως σεσωμένης, μήλοισιν αἱμάσσοντας ἑστίας θεῶν, ταυροκτονοῦντας θεοῖσιν, ὧδ’ ἐπεύχομαι θύσειν τροπαῖα, δαΐων δ’ ἐσθήματα, στέψω λάφυρα δουρίπληχθ’ ἁγνοῖς δόμοις.
 perseus-eng2 Eteocles: And now to the gods who guard our city’s land, both those who dwell in the plain and those who watch over its meeting-place, to Dirce’s springs and the waters of Ismenus, I vow that, if things go well and the city is saved, the citizens shall redden the gods’ altars with the blood of sheep and sacrifice bulls to the gods—this is my vow—and offer trophies, while I will crown their holy temples with the spoil of the enemy’s spear-pierced garments.
 
 cts:urn:tlg0085.tlg004:279
-glaux1.0-sentence: 138
+glaux1.0-sentence	138
 perseus-grc2.tb	στέψω πρὸ ναῶν, πολεμίων δ’ ἐσθήματα.
 perseus-eng2 Eteocles: I will crown them before the temples, with the garments of the enemies.
 
 cts:urn:tlg0085.tlg004:280
-glaux1.0-sentence: 139
+glaux1.0-sentence	139
 perseus-grc2.tb	τοιαῦτ’ ἐπεύχου μὴ φιλοστόνως θεοῖς, μηδ’ ἐν ματαίοις κ- ἀγρίοις ποιφύγμασιν.
 perseus-eng2 Make this kind of prayer to the gods, without your previous lamentation, nor with wild and useless panting;
 
 cts:urn:tlg0085.tlg004:282
-glaux1.0-sentence: 140
+glaux1.0-sentence	140
 perseus-grc2.tb	οὐ γάρ τι μᾶλλον μὴ φύγῃς τὸ μόρσιμον.
 perseus-eng2 for you will not escape your destiny any the more.
 
 cts:urn:tlg0085.tlg004:283
-glaux1.0-sentence: 141
+glaux1.0-sentence	141
 perseus-grc2.tb	ἐγὼ δέ γ’ ἄνδρας ἓξ ἐμοὶ σὺν ἑβδόμῳ ἀντηρέτας ἐχθροῖσι τὸν μέγαν τρόπον εἰς ἑπτατειχεῖς ἐξόδους τάξω μολών, πρὶν ἀγγέλους σπερχνούς τε καὶ ταχυρρόθους λόγους ἱκέσθαι καὶ φλέγειν χρείας ὕπο.
 perseus-eng2 As for me, I will go station six men, with me as the seventh, as champions to oppose the enemy in proud fashion at the seven exits in the wall, even before speedy messengers or swift-rushing reports arrive and inflame us with urgent need.
 
 cts:urn:tlg0085.tlg004:288
-glaux1.0-sentence: 142
+glaux1.0-sentence	142
 perseus-grc2.tb	μέλει, φόβῳ δ’ οὐχ ὑπνώσσει κέαρ.
 perseus-eng2 I heed him, but through terror my heart finds no repose.
 
 cts:urn:tlg0085.tlg004:289
-glaux1.0-sentence: 143
+glaux1.0-sentence	143
 perseus-grc2.tb	γείτονες δὲ καρδίας μέριμναι ζωπυροῦσι τάρβος τὸν ἀμφιτειχῆ λεών, δράκοντας ὥς τις τέκνων ὑπερδέδοικεν λεχαίων δυσευνάτορας πάντρομος πελειάς.
 perseus-eng2 Anxieties border upon my heart and kindle my fear of the army surrounding our walls, as a trembling dove fears for her children in the nest because of snakes that are dangerous bed-fellows.
 
 cts:urn:tlg0085.tlg004:295
-glaux1.0-sentence: 144
+glaux1.0-sentence	144
 perseus-grc2.tb	τοὶ μὲν γὰρ ποτὶ πύργους πανδαμεὶ πανομιλεὶ στείχουσιν.
 perseus-eng2 For against our fortifications some are advancing with all their men, all in formation.
 
 cts:urn:tlg0085.tlg004:297
-glaux1.0-sentence: 145
+glaux1.0-sentence	145
 perseus-grc2.tb	τί γένωμαι;
 perseus-eng2 Ah, what will become of me?
 
 cts:urn:tlg0085.tlg004:298
-glaux1.0-sentence: 146
+glaux1.0-sentence	146
 perseus-grc2.tb	τοὶ δ’ ἐπ’ ἀμφιβόλοισιν ἰάπτουσι πολίταις χερμάδ’ ὀκριόεσσαν.
 perseus-eng2 Others are hurling jagged boulders at the citizens on all sides.
 
 cts:urn:tlg0085.tlg004:301
-glaux1.0-sentence: 147
+glaux1.0-sentence	147
 perseus-grc2.tb	παντὶ τρόπῳ, Διογενεῖς θεοί, πόλιν καὶ στρατὸν Καδμογενῆ ῥύεσθε.
 perseus-eng2 O Gods born of Zeus, by every means rescue our city and people, sprung from Cadmus!
 
 cts:urn:tlg0085.tlg004:304
-glaux1.0-sentence: 148
+glaux1.0-sentence	148
 perseus-grc2.tb	ποῖον δ’ ἀμείψεσθε γαίας πέδον τᾶσδ’ ἄρειον , ἐχθροῖς ἀφέντες τὰν βαθύχθον’ αἶαν , ὕδωρ τε Διρκαῖον , εὐτραφέστατον πωμάτων ὅσων ἵησιν Ποσειδᾶν ὁ γαιάοχος Τηθύος τε παῖδες .
 perseus-eng2 What more fertile plain will you find in place of ours, if you abandon to the enemy this deep-soiled land and the water of Dirce which is the most nourishing of the streams that earth-encircling Poseidon and Tethys’ children pour forth?
 
 cts:urn:tlg0085.tlg004:312
-glaux1.0-sentence: 149
+glaux1.0-sentence	149
 perseus-grc2.tb	πρὸς τάδ’ , ὦ πολιοῦχοι θεοί , τοῖσι μὲν ἔξω πύργων ἀνδρολέτειραν κῆρα , ῥίψοπλον ἄταν , ἐμβαλόντες ἄροισθε κῦδος τοῖσδε πολίταις .
 perseus-eng2 Therefore, divine guardians of the city, hurl murderous destruction on the men outside our walls and panic that makes them throw away their weapons, and so win glory for these citizens.
 
 cts:urn:tlg0085.tlg004:318
-glaux1.0-sentence: 150
+glaux1.0-sentence	150
 perseus-grc2.tb	καὶ πόλεως ῥύτορες ἔστ’ εὔεδροί τε στάθητ’ ὀξυγόοις λιταῖσιν .
 perseus-eng2 Defend the city and remain in possession of your home and throne in answer to our shrill, wailing prayers!
 
 cts:urn:tlg0085.tlg004:321
-glaux1.0-sentence: 151
+glaux1.0-sentence	151
 perseus-grc2.tb	οἰκτρὸν γὰρ πόλιν ὧδ’ ὠγυγίαν Ἀίδᾳ προϊάψαι , δορὸς ἄγραν δουλίαν ψαφαρᾷ σποδῷ ὑπ’ ἀνδρὸς Ἀχαιοῦ θεόθεν περθομέναν ἀτίμως , τὰς δὲ κεχειρωμένας ἄγεσθαι , ἒ ἔ , νέας τε καὶ παλαιὰς ἱππηδὸν πλοκάμων , περιρρηγνυμένων φαρέων .
 perseus-eng2 It is a great cause for grief to hurl a primeval city to Hades in this way, quarry and slave of the spear, ravaged shamefully
 perseus-eng2 in the dusty ashes by an Argive man through divine will. And grief, too, to let the women be led away captive—ah me!—young and old, dragged by the hair, like horses, with their cloaks torn off them.
 
 cts:urn:tlg0085.tlg004:329
-glaux1.0-sentence: 152
+glaux1.0-sentence	152
 perseus-grc2.tb	βοᾷ δ’ ἐκκενουμένα πόλις , λαΐδος ὀλλυμένας μιξοθρόου ·
 perseus-eng2 A city, emptied, shouts out as the human booty perishes with mingled cries.
 
 cts:urn:tlg0085.tlg004:332
-glaux1.0-sentence: 153
+glaux1.0-sentence	153
 perseus-grc2.tb	βαρείας τοι τύχας προταρβῶ .
 perseus-eng2 A heavy fate, indeed, my fear anticipates.
 
 cts:urn:tlg0085.tlg004:333
-glaux1.0-sentence: 154
+glaux1.0-sentence	154
 perseus-grc2.tb	κλαυτὸν δ’ ἀρτιτρόποις ὠμοδρόποις νομίμων προπάροιθεν διαμεῖψαι δωμάτων στυγερὰν ὁδόν ·
 perseus-eng2 It is a lamentable thing that modest girls should be plucked unripe, before the customary rites, and should make a loathsome journey from their homes.
 
 cts:urn:tlg0085.tlg004:336
-glaux1.0-sentence: 155
+glaux1.0-sentence	155
 perseus-grc2.tb	τί ;
 perseus-eng2 What?
 
 cts:urn:tlg0085.tlg004:336
-glaux1.0-sentence: 156
+glaux1.0-sentence	156
 perseus-grc2.tb	τὸν φθίμενον γὰρ προλέγω βέλτερα τῶνδε πράσσειν ·
 perseus-eng2 I declare that the dead will do better than the captives;
 
 cts:urn:tlg0085.tlg004:338
-glaux1.0-sentence: 157
+glaux1.0-sentence	157
 perseus-grc2.tb	πολλὰ γάρ , εὖτε πτόλις δαμασθῇ , ἒ ἔ , δυστυχῆ τε πράσσει .
 perseus-eng2 for when a city is subdued—ah, ah!—many and miserable are its sufferings.
 
 cts:urn:tlg0085.tlg004:340
-glaux1.0-sentence: 158
+glaux1.0-sentence	158
 perseus-grc2.tb	ἄλλος δ’ ἄλλον ἄγει , φονεύει , τὰ δὲ πυρφορεῖ ·
 perseus-eng2 Man drags off man, or kills, or sets fires;
 
 cts:urn:tlg0085.tlg004:341
-glaux1.0-sentence: 159
+glaux1.0-sentence	159
 perseus-grc2.tb	καπνῷ δὲ χραίνεται πόλισμ’ ἅπαν ·
 perseus-eng2 the whole city is defiled with smoke.
 
 cts:urn:tlg0085.tlg004:343
-glaux1.0-sentence: 160
+glaux1.0-sentence	160
 perseus-grc2.tb	μαινόμενος δ’ ἐπιπνεῖ λαοδάμας μιαίνων εὐσέβειαν Ἄρης .
 perseus-eng2 Mad Ares storms, subduing the people and polluting reverence.
 
 cts:urn:tlg0085.tlg004:345
-glaux1.0-sentence: 161
+glaux1.0-sentence	161
 perseus-grc2.tb	κορκορυγαὶ δ’ ἀν’ ἄστυ , προτὶ πτόλιν δ’ ὁρκάνα πυργῶτις ·
 perseus-eng2 Tumults swell through the town, and against it a towering net is advancing.
 
 cts:urn:tlg0085.tlg004:346
-glaux1.0-sentence: 162
+glaux1.0-sentence	162
 perseus-grc2.tb	πρὸς ἀνδρὸς δ’ ἀνὴρ ἀμφὶ δορὶ κλίνεται ·
 perseus-eng2 Man falls before man beneath the spear.
 
 cts:urn:tlg0085.tlg004:348
-glaux1.0-sentence: 163
+glaux1.0-sentence	163
 perseus-grc2.tb	βλαχαὶ δ’ αἱματόεσσαι τῶν ἐπιμαστιδίων ἀρτιτρεφεῖς βρέμονται .
 perseus-eng2 Sobs and wails over gore-covered babes, just nursed at their mothers’ breasts, resound.
 
 cts:urn:tlg0085.tlg004:351
-glaux1.0-sentence: 164
+glaux1.0-sentence	164
 perseus-grc2.tb	ἁρπαγαὶ δὲ διαδρομᾶν ὁμαίμονες ·
 perseus-eng2 Rape and pillage of those fleeing through the city are the deeds of one’s own blood.
 
 cts:urn:tlg0085.tlg004:352
-glaux1.0-sentence: 165
+glaux1.0-sentence	165
 perseus-grc2.tb	ξυμβολεῖ φέρων φέροντι , καὶ κενὸς κενὸν καλεῖ , ξύννομον θέλων ἔχειν , οὔτε μεῖον οὔτ’ ἴσον λελιμμένοι .
 perseus-eng2 Plunderer joins up with plunderer; the empty-handed calls to the empty-handed, wishing to have a partner, each greedy for neither less nor equal share.
 
 cts:urn:tlg0085.tlg004:356
-glaux1.0-sentence: 166
+glaux1.0-sentence	166
 perseus-grc2.tb	τ- ἐκ τῶνδ’ εἰκάσαι λόγος πάρα .
 perseus-eng2 Reason exists for imagining what will come after this.
 
 cts:urn:tlg0085.tlg004:357
-glaux1.0-sentence: 167
+glaux1.0-sentence	167
 perseus-grc2.tb	παντοδαπὸς δὲ καρπὸς χαμάδις πεσὼν ἀλγύνει κυρήσας ·
 perseus-eng2 The earth’s varied fruits, fallen to the ground, give pain,
 
 cts:urn:tlg0085.tlg004:358
-glaux1.0-sentence: 168
+glaux1.0-sentence	168
 perseus-grc2.tb	πικρὸν δ’ ὄμμα θαλαμηπόλων ·
 perseus-eng2 a bitter sight for the maid-servants.
 
 cts:urn:tlg0085.tlg004:360
-glaux1.0-sentence: 169
+glaux1.0-sentence	169
 perseus-grc2.tb	πολλὰ δ’ ἀκριτόφυρτος γᾶς δόσις οὐτιδανοῖς ἐν ῥοθίοις φορεῖται .
 perseus-eng2 In jumbled confusion the abundant gifts of earth are carried away by reckless looting waves.
 
 cts:urn:tlg0085.tlg004:363
-glaux1.0-sentence: 170
+glaux1.0-sentence	170
 perseus-grc2.tb	δμωίδες δὲ καινοπήμονες νέαι ·
 perseus-eng2 Young women, enslaved, suffer a new evil:
 perseus-eng2 a bed of misery, prize of the conquering enemy’s spear, as though of a prospering husband—
 
 cts:urn:tlg0085.tlg004:364
-glaux1.0-sentence: 171
+glaux1.0-sentence	171
 perseus-grc2.tb	τλάμον’ εὐνὰν αἰχμάλωτον ἀνδρὸς εὐτυχοῦντος ὣς δυσμενοῦς ὑπερτέρου ἐλπίς ἐστι νύκτερον τέλος μολεῖν , παγκλαύτων ἀλγέων ἐπίρροθον .
 perseus-eng2 they can expect the coming of the nightly rite, which gives aid to tears and anguish!
 
 cts:urn:tlg0085.tlg004:369
-glaux1.0-sentence: 172
+glaux1.0-sentence	172
 perseus-grc2.tb	ὅ τοι κατόπτης , ὡς ἐμοὶ δοκεῖ , στρατοῦ πευθώ τιν’ ἡμῖν , ὦ φίλαι , νέαν φέρει , σπουδῇ διώκων πομπίμους χνόας ποδῶν .
 perseus-eng2 The scout, I believe, is bringing some fresh news of the army to us, my friends, since the joints of his legs are hastily speeding as they carry him on his mission.
 
 cts:urn:tlg0085.tlg004:372
-glaux1.0-sentence: 173
+glaux1.0-sentence	173
 perseus-grc2.tb	καὶ μὴν ἄναξ ὅδ’ αὐτὸς Οἰδίπου τόκος εἰς ἀρτίκολλον ἀγγέλου λόγον μαθεῖν ·
 perseus-eng2 And, indeed, here is our lord himself, the son of Oedipus, at the right moment to hear the messenger’s report.
 
 cts:urn:tlg0085.tlg004:374
-glaux1.0-sentence: 174
+glaux1.0-sentence	174
 perseus-grc2.tb	σπουδὴ δὲ καὶ τοῦδ’ οὐκ ἀπαρτίζει πόδα .
 perseus-eng2 Haste makes his stride uneven, too.
 
 cts:urn:tlg0085.tlg004:375
-glaux1.0-sentence: 175
+glaux1.0-sentence	175
 perseus-grc2.tb	λέγοιμ’ ἂν εἰδὼς εὖ τὰ τῶν ἐναντίων , ὥς τ’ ἐν πύλαις ἕκαστος εἴληχεν πάλον .
 perseus-eng2 It is with certain knowledge that I will give my account of the enemy's actions, how each man according to lot has been posted at the gates.
 
 cts:urn:tlg0085.tlg004:377
-glaux1.0-sentence: 176
+glaux1.0-sentence	176
 perseus-grc2.tb	Τυδεὺς μὲν ἤδη πρὸς πύλαισι Προιτίσιν βρέμει , πόρον δ’ Ἰσμηνὸν οὐκ ἐᾷ περᾶν ὁ μάντις ·
 perseus-eng2 Tydeus is already storming opposite the Proetid gates; but the seer will not allow him to ford the Ismenus
 
 cts:urn:tlg0085.tlg004:379
-glaux1.0-sentence: 177
+glaux1.0-sentence	177
 perseus-grc2.tb	οὐ γὰρ σφάγια γίγνεται καλά .
 perseus-eng2 because the omens from the sacrifices are not favorable.
 
 cts:urn:tlg0085.tlg004:380
-glaux1.0-sentence: 178
+glaux1.0-sentence	178
 perseus-grc2.tb	Τυδεὺς δὲ μαργῶν καὶ μάχης λελιμμένος μεσημβριναῖς κλαγγαῖσιν ὡς δράκων βοᾷ ·
 perseus-eng2 Yet Tydeus, raging and eager for battle, shouts like a serpent hissing at high noon.
 
 cts:urn:tlg0085.tlg004:382
-glaux1.0-sentence: 179
+glaux1.0-sentence	179
 perseus-grc2.tb	θείνει δ’ ὀνείδει μάντιν Οἰκλείδην σοφόν , σαίνειν μόρον τε καὶ μάχην ἀψυχίᾳ .
 perseus-eng2 He lashes skilled Oecles' son, with the taunt that he cringes in cowardice before death and battle.
 
 cts:urn:tlg0085.tlg004:384
-glaux1.0-sentence: 180
+glaux1.0-sentence	180
 perseus-grc2.tb	τοιαῦτ’ ἀυτῶν τρεῖς κατασκίους λόφους σείει , κράνους χαίτωμ’ , ὑπ’ ἀσπίδος δ’ ἔσω χαλκήλατοι κώδωνες φόβον ·
 perseus-eng2 With such cries he shakes three overshadowing plumes, his helmet's mane, while from under his shield, bells forged of bronze therein ring out a fearsome clang.
 
 cts:urn:tlg0085.tlg004:387
-glaux1.0-sentence: 181
+glaux1.0-sentence	181
 perseus-grc2.tb	ἔχει δ’ ὑπέρφρον σῆμ’ ἐπ’ ἀσπίδος τόδε , φλέγονθ’ ὑπ’ ἄστροις οὐρανὸν τετυγμένον ·
 perseus-eng2 He has this haughty symbol on his shield: a well-crafted sky, ablaze with stars, and the brightness of the full moon shining in the center of the shield,
 
 cts:urn:tlg0085.tlg004:389
-glaux1.0-sentence: 182
+glaux1.0-sentence	182
 perseus-grc2.tb	λαμπρὰ δὲ πανσέληνος ἐν μέσῳ σάκει , πρέσβιστον ἄστρων , νυκτὸς ὀφθαλμός , πρέπει .
 perseus-eng2 the moon that is the most revered of the stars, the eye of night.
 
 cts:urn:tlg0085.tlg004:391
-glaux1.0-sentence: 183
+glaux1.0-sentence	183
 perseus-grc2.tb	τοιαῦτ’ ἀλύων ταῖς ὑπερκόμποις σαγαῖς βοᾷ παρ’ ὄχθαις ποταμίαις , μάχης ἐρῶν , ἵππος χαλινῶν ὣς κατασθμαίνων μένει , ὅστις βοὴν σάλπιγγος ὁρμαίνει μένων .
 perseus-eng2 Raving so in his arrogant armor, he shouts beside the river-bank, craving battle, like some charger that fiercely champs at the bit as he waits in eagerness for the trumpet's war-cry.
 
 cts:urn:tlg0085.tlg004:395
-glaux1.0-sentence: 184
+glaux1.0-sentence	184
 perseus-grc2.tb	τίν’ ἀντιτάξεις τῷδε ;
 perseus-eng2 Whom will you send against him?
 
 cts:urn:tlg0085.tlg004:395
-glaux1.0-sentence: 185
+glaux1.0-sentence	185
 perseus-grc2.tb	τίς Προίτου πυλῶν κλῄθρων λυθέντων προστατεῖν φερέγγυος ;
 perseus-eng2 Who will be capable of standing as our champion at the Proetid gate when its bars are loosened?
 
 cts:urn:tlg0085.tlg004:397
-glaux1.0-sentence: 186
+glaux1.0-sentence	186
 perseus-grc2.tb	κόσμον μὲν ἀνδρὸς οὔτιν’ ἂν τρέσαιμ’ ἐγώ , οὐδ’ ἑλκοποιὰ γίγνεται τὰ σήματα ·
 perseus-eng2 I would not tremble before any mere ornaments on a man. Nor can crests and bells wound and kill without the spear.
 
 cts:urn:tlg0085.tlg004:399
-glaux1.0-sentence: 187
+glaux1.0-sentence	187
 perseus-grc2.tb	λόφοι δὲ κώδων τ’ οὐ δάκνουσ’ ἄνευ δορός .
 perseus-eng2 Crests and bells have no bite without the spear.
 
 cts:urn:tlg0085.tlg004:400
-glaux1.0-sentence: 188
+glaux1.0-sentence	188
 perseus-grc2.tb	καὶ νύκτα ταύτην ἣν λέγεις ἐπ’ ἀσπίδος ἄστροισι μαρμαίρουσαν οὐρανοῦ κυρεῖν , τάχ’ ἂν γένοιτο μάντις ἡ ἀνοία τινί .
 perseus-eng2 And regarding this "night" which you describe on his shield, sparkling with heaven’s stars—perhaps the folly of it might yield to one some prophetic understanding.
 
 cts:urn:tlg0085.tlg004:403
-glaux1.0-sentence: 189
+glaux1.0-sentence	189
 perseus-grc2.tb	εἰ γὰρ θανόντι νὺξ ἐπ’ ὀφθαλμοῖς πέσοι , τῷ τοι φέροντι σῆμ’ ὑπέρκομπον τόδε γένοιτ’ ἂν ὀρθῶς ἐνδίκως τ’ ἐπώνυμον , κ- αὐτὸς καθ’ αὑτοῦ τήνδ’ ὕβριν μαντεύσεται .
 perseus-eng2 For should night fall on this man’s eyes as he dies, then to its bearer this arrogant symbol would prove rightly and justly named; and it is against himself that he will have prophesied this outrageous violence.
 
 cts:urn:tlg0085.tlg004:407
-glaux1.0-sentence: 190
+glaux1.0-sentence	190
 perseus-grc2.tb	ἐγὼ δὲ Τυδεῖ κεδνὸν Ἀστακοῦ τόκον τῶνδ’ ἀντιτάξω προστάτην πυλωμάτων , μάλ’ εὐγενῆ τε καὶ τὸν Αἰσχύνης θρόνον τιμῶντα καὶ στυγοῦνθ’ ὑπέρφρονας λόγους .
 perseus-eng2 Now as for
 perseus-eng2 me, against Tydeus I will station the trusty son of Astacus as defender of this gate, since he is full noble and reveres the throne of Honor and detests proud speech.
 
 cts:urn:tlg0085.tlg004:411
-glaux1.0-sentence: 191
+glaux1.0-sentence	191
 perseus-grc2.tb	αἰσχρῶν γὰρ ἀργός , μὴ κακὸς δ’ εἶναι φιλεῖ .
 perseus-eng2 He is slow to act disgracefully, and he has no cowardly nature.
 
 cts:urn:tlg0085.tlg004:412
-glaux1.0-sentence: 192
+glaux1.0-sentence	192
 perseus-grc2.tb	σπαρτῶν δ’ ἀπ’ ἀνδρῶν , ὧν Ἄρης ἐφείσατο , ῥίζωμ’ ἀνεῖται , κάρτα δ’ ἔστ’ ἐγχώριος , Μελάνιππος ·
 perseus-eng2 His race springs from the men sown of the dragon’s teeth, from one of those whom Ares spared, and so Melanippus is truly born of our land.
 
 cts:urn:tlg0085.tlg004:414
-glaux1.0-sentence: 193
+glaux1.0-sentence	193
 perseus-grc2.tb	ἔργον δ’ ἐν κύβοις Ἄρης κρινεῖ ·
 perseus-eng2 Ares will decide the outcome with a throw of the dice;
 
 cts:urn:tlg0085.tlg004:415
-glaux1.0-sentence: 194
+glaux1.0-sentence	194
 perseus-grc2.tb	Δίκη δ’ ὁμαίμων κάρτα νιν προστέλλεται εἴργειν τεκούσῃ μητρὶ πολέμιον δόρυ .
 perseus-eng2 but Justice, his kin by blood, indeed sends this man forth to keep the enemy spear from the mother that gave him birth.
 
 cts:urn:tlg0085.tlg004:417
-glaux1.0-sentence: 195
+glaux1.0-sentence	195
 perseus-grc2.tb	τὸν ἁμόν νυν ἀντίπαλον εὐτυχεῖν θεοὶ δοῖεν , ὡς δικαίως πόλεως πρόμαχος ὄρνυται ·
 perseus-eng2 May the gods grant success to our champion, since he rises up in a just cause, to battle for his city!
 
 cts:urn:tlg0085.tlg004:419
-glaux1.0-sentence: 196
+glaux1.0-sentence	196
 perseus-grc2.tb	τρέμω δ’ αἱματηφόρους μόρους ὑπὲρ φίλων ὀλομένων ἰδέσθαι .
 perseus-eng2 But I shudder to watch the bloody deaths of men cut down for the sake of their own people.
 
 cts:urn:tlg0085.tlg004:422
-glaux1.0-sentence: 197
+glaux1.0-sentence	197
 perseus-grc2.tb	τούτῳ μὲν οὕτως εὐτυχεῖν δοῖεν θεοί ·
 perseus-eng2 Yes, may the gods so grant success to this man.
 
 cts:urn:tlg0085.tlg004:423
-glaux1.0-sentence: 198
+glaux1.0-sentence	198
 perseus-grc2.tb	Καπανεὺς δ’ ἐπ’ Ἠλέκτραισιν εἴληχεν πύλαις , γίγας ὅδ’ ἄλλος τοῦ πάρος λελεγμένου μείζων , ὁ κόμπος δ’ οὐ κατ’ ἄνθρωπον φρονεῖ , πύργο
 perseus-eng2 Capaneus is stationed at the Electran gates, another giant of a man, greater than the one described before. But his boast is too proud for a mere human, and he makes terrifying threats against our battlements—which, I hope, chance will not fulfill!
 
 cts:urn:tlg0085.tlg004:427
-glaux1.0-sentence: 199
+glaux1.0-sentence	199
 perseus-grc2.tb	θεοῦ τε γὰρ θέλοντος ἐκπέρσειν πόλιν καὶ μὴ θέλοντός φησιν , οὐδὲ τὴν Διὸς ἔριν πέδοι σκήψασαν ἐμποδὼν σχεθεῖν .
 perseus-eng2 For he says he will utterly destroy the city with god’s will or without it, and that not even conflict with Zeus, though it should fall before him in the plain, will stand in his way.
 
 cts:urn:tlg0085.tlg004:430
-glaux1.0-sentence: 200
+glaux1.0-sentence	200
 perseus-grc2.tb	τὰς δ’ ἀστραπάς τε καὶ κεραυνίους βολὰς μεσημβρινοῖσι θάλπεσιν προσῄκασεν ·
 perseus-eng2 The god’s lightning and thunderbolts he compares to midday heat.
 
 cts:urn:tlg0085.tlg004:432
-glaux1.0-sentence: 201
+glaux1.0-sentence	201
 perseus-grc2.tb	ἔχει δὲ σῆμα γυμνὸν ἄνδρα πυρφόρον , φλέγει δὲ λαμπὰς διὰ χερῶν ὡπλισμένη ·
 perseus-eng2 For his shield’s symbol he has a man without armor bearing fire, and the torch, his weapon, blazes in his hands;
 
 cts:urn:tlg0085.tlg004:434
-glaux1.0-sentence: 202
+glaux1.0-sentence	202
 perseus-grc2.tb	χρυσοῖς δὲ φωνεῖ γράμμασιν πρήσω πόλιν .
 perseus-eng2 and in golden letters he says "I will burn the city."
 
 cts:urn:tlg0085.tlg004:435
-glaux1.0-sentence: 203
+glaux1.0-sentence	203
 perseus-grc2.tb	τοιῷδε φωτὶ πέμπε — τίς ξυστήσεται , τίς ἄνδρα κομπάζοντα μὴ τρέσας μενεῖ ;
 perseus-eng2 Against such a man make your dispatch—who will meet him in combat, who will stand firm without trembling before his boasts?
 
 cts:urn:tlg0085.tlg004:437
-glaux1.0-sentence: 204
+glaux1.0-sentence	204
 perseus-grc2.tb	καὶ τῷδε κέρδει κέρδος ἄλλο τίκτεται .
 perseus-eng2 Here too gain follows with interest from gain.
 
 cts:urn:tlg0085.tlg004:438
-glaux1.0-sentence: 205
+glaux1.0-sentence	205
 perseus-grc2.tb	τῶν τοι ματαίων ἀνδράσιν φρονημάτων ἡ γλῶσσ’ ἀληθὴς γίγνεται κατήγορος ·
 perseus-eng2 The tongue proves in the end to be an unerring accuser of men’s wicked thoughts.
 
 cts:urn:tlg0085.tlg004:440
-glaux1.0-sentence: 206
+glaux1.0-sentence	206
 perseus-grc2.tb	Καπανεὺς δ’ ἀπειλεῖ , δρᾶν παρεσκευασμένος , θεοὺς ἀτίζων , κ- ἀπογυμνάζων στόμα χαρᾷ ματαίᾳ θνητὸς ὢν εἰς οὐρανὸν πέμπει γεγωνὰ Ζηνὶ κυμαίνοντ’ ἔπη ·
 perseus-eng2 Capaneus makes his threats, ready to act, irreverent toward the gods, and giving his tongue full exercise in wicked glee, he, though a mere mortal, sends a loud and swollen boast to Zeus in heaven.
 
 cts:urn:tlg0085.tlg004:444
-glaux1.0-sentence: 207
+glaux1.0-sentence	207
 perseus-grc2.tb	πέποιθα δ’ αὐτῷ ξὺν δίκῃ τὸν πυρφόρον ἥξειν κεραυνόν , οὐδὲν ἐξῃκασμένον μεσημβρινοῖσι θάλπεσιν τοῖς ἡλίου .
 perseus-eng2 But I trust that the fire-bearing thunderbolt will justly come to him, and when it comes it will not be anything like the sun’s mid-day heat.
 
 cts:urn:tlg0085.tlg004:447
-glaux1.0-sentence: 208
+glaux1.0-sentence	208
 perseus-grc2.tb	ἀνὴρ δ’ ἐπ’ αὐτῷ , κ- εἰ στόμαργός ἐστ’ ἄγαν , αἴθων τέτακται λῆμα , Πολυφόντου βία , φερέγγυον φρούρημα , προστατηρίας Ἀρτ
 perseus-eng2 And against him, even though he is a big talker, a man of fiery spirit, mighty Polyphontes, is stationed, a dependable sentinel with the good will of guardian Artemis and the other gods.
 
 cts:urn:tlg0085.tlg004:451
-glaux1.0-sentence: 209
+glaux1.0-sentence	209
 perseus-grc2.tb	λέγ’ ἄλλον ἄλλαις ἐν πύλαις εἰληχότα .
 perseus-eng2 Now tell me about another one allotted to other gates!
 
 cts:urn:tlg0085.tlg004:452
-glaux1.0-sentence: 210
+glaux1.0-sentence	210
 perseus-grc2.tb	ὄλοιθ’ ὃς πόλει μεγάλ’ ἐπεύχεται , κεραυνοῦ δέ νιν βέλος ἐπισχέθοι , πρὶν ἐμὸν ἐσθορεῖν δόμον , πωλικῶν θ’ ἑδωλίων ὑπερκόπῳ δορί ποτ’ ἐκλαπάξαι .
 perseus-eng2 Death to him who exults so arrogantly over the city! May the thunderbolt stop him before he leaps into my home and plunders me from my maiden chambers with his outrageous spear!
 
 cts:urn:tlg0085.tlg004:457
-glaux1.0-sentence: 211
+glaux1.0-sentence	211
 perseus-grc2.tb	καὶ μὴν τὸν ἐντεῦθεν λαχόντα πρὸς πύλαις λέξω ·
 perseus-eng2 Now I will tell you about the man who next drew station at the gates.
 
 cts:urn:tlg0085.tlg004:458
-glaux1.0-sentence: 212
+glaux1.0-sentence	212
 perseus-grc2.tb	τρίτῳ γὰρ Ἐτεόκλῳ τρίτος πάλος ἐξ ὑπτίου ’πήδησεν εὐχάλκου κράνους , πύλαισι Νηίστῃσι προσβαλεῖν λόχον .
 perseus-eng2 The third lot leaped out of the upturned bronze helmet for Eteoclus, to hurl his band against the Neistan gates.
 
 cts:urn:tlg0085.tlg004:461
-glaux1.0-sentence: 213
+glaux1.0-sentence	213
 perseus-grc2.tb	ἵππους δ’ ἐν ἀμπυκτῆρσιν ἐμβριμωμένας δινεῖ , θελούσας πρὸς πύλαις πεπτωκέναι .
 perseus-eng2 He whirls his horses as they snort through their bridles, eager to fall against the gate.
 
 cts:urn:tlg0085.tlg004:463
-glaux1.0-sentence: 214
+glaux1.0-sentence	214
 perseus-grc2.tb	φιμοὶ δὲ συρίζουσι βάρβαρον τρόπον , μυκτηροκόμποις πνεύμασιν πληρούμενοι .
 perseus-eng2 Their muzzles whistle in a barbarian way, filled with the breath of their haughty nostrils.
 
 cts:urn:tlg0085.tlg004:465
-glaux1.0-sentence: 215
+glaux1.0-sentence	215
 perseus-grc2.tb	ἐσχημάτισται δ’ ἀσπὶς οὐ σμικρὸν τρόπον ·
 perseus-eng2 His shield is decorated in great style:
 
 cts:urn:tlg0085.tlg004:466
-glaux1.0-sentence: 216
+glaux1.0-sentence	216
 perseus-grc2.tb	ἀνὴρ δ’ ·
 perseus-eng2 A man:
 
 cts:urn:tlg0085.tlg004:466
-glaux1.0-sentence: 217
+glaux1.0-sentence	217
 perseus-grc2.tb	ὁπλίτης κλίμακος προσαμβάσεις στείχει πρὸς ἐχθρῶν πύργον , ἐκπέρσαι θέλων .
 perseus-eng2 An armored man climbs a ladder’s rungs to mount an enemy tower that he wants to destroy.
 
 cts:urn:tlg0085.tlg004:468
-glaux1.0-sentence: 218
+glaux1.0-sentence	218
 perseus-grc2.tb	βοᾷ δὲ κ- οὗτος γραμμάτων ἐν ξυλλαβαῖς , ὡς οὐδ’ ἂν Ἄρης σφ’ ἐκβάλοι πυργωμάτων .
 perseus-eng2 This one, too, shouts in syllables of written letters that even Ares could not hurl him from the battlements.
 
 cts:urn:tlg0085.tlg004:470
-glaux1.0-sentence: 219
+glaux1.0-sentence	219
 perseus-grc2.tb	καὶ τῷδε φωτὶ πέμπε τὸν φερέγγυον πόλεως ἀπείργειν τῆσδε δούλιον ζυγόν .
 perseus-eng2 Send a dependable opponent against this man, too, to keep the yoke of slavery from our city.
 
 cts:urn:tlg0085.tlg004:472
-glaux1.0-sentence: 220
+glaux1.0-sentence	220
 perseus-grc2.tb	πέμποιμ’ ἂν ἤδη τόνδε , σὺν τύχῃ δέ τῳ ·
 perseus-eng2 I would send this man here, and with good fortune.
 
 cts:urn:tlg0085.tlg004:473
-glaux1.0-sentence: 221
+glaux1.0-sentence	221
 perseus-grc2.tb	καὶ δὴ πέπεμπται κόμπον ἐν χεροῖν ἔχων , Μεγαρεύς , Κρέοντος σπέρμα τοῦ σπαρτῶν γένους , ὃς οὔτι μάργων ἱππικῶν φρυαγμάτων βρόμον φοβηθεὶς ἐκ πυλῶν χωρήσεται , ἀλλ’ ἢ θανὼν τροφεῖα πληρώσει χθονί , ἢ καὶ δύ’ ἄνδρε καὶ πόλισμ’ ἐπ’ ἀσπίδος ἑλὼν λαφύροις δῶμα κοσμήσει πατρός .
 perseus-eng2 Indeed, he has already been sent, his only boast in his hands, Megareus, Creon’s seed, of the race of the sown-men. He will not withdraw from the gate in fear of the thunder of the horses’ furious snorting; but either he will die and pay the earth the full price of his nurture, or will capture two men and the city on the shield, and then adorn his father’s house with the spoils.
 
 cts:urn:tlg0085.tlg004:480
-glaux1.0-sentence: 222
+glaux1.0-sentence	222
 perseus-grc2.tb	κόμπαζ’ ἐπ’ ἄλλῳ , μηδέ μοι φθόνει λέγων .
 perseus-eng2 Tell me about another’s boasts and do not begrudge me the full tale!
 
 cts:urn:tlg0085.tlg004:481
-glaux1.0-sentence: 223
+glaux1.0-sentence	223
 perseus-grc2.tb	ἐπεύχομαι τῷδε μὲν εὐτυχεῖν , ἰὼ πρόμαχ’ ἐμῶν δόμων , τοῖσι δὲ δυστυχεῖν .
 perseus-eng2 O champion of my home, I pray that this man will have good fortune, and that there will be bad fortune for his enemies.
 
 cts:urn:tlg0085.tlg004:483
-glaux1.0-sentence: 224
+glaux1.0-sentence	224
 perseus-grc2.tb	ὡς δ’ ὑπέραυχα βάζουσιν ἐπὶ πτόλει μαινομένᾳ φρενί , τώς νιν Ζεὺς νεμέτωρ ἐπίδοι κοταίνων .
 perseus-eng2 As they boast too much against the city in their frenzied mind, so, too, may Zeus the Requiter look on them in anger!
 
 cts:urn:tlg0085.tlg004:486
-glaux1.0-sentence: 225
+glaux1.0-sentence	225
 perseus-grc2.tb	τέταρτος ἄλλος , γείτονας πύλας ἔχων Ὄγκας Ἀθάνας , ξὺν βοῇ παρίσταται , Ἱππομέδοντος σχῆμα καὶ μέγας τύπος ·
 perseus-eng2 Another, the fourth, has the gate near Onca Athena and takes his stand with a shout, Hippomedon, tremendous in form and figure.
 
 cts:urn:tlg0085.tlg004:489
-glaux1.0-sentence: 226
+glaux1.0-sentence	226
 perseus-grc2.tb	ἅλω δὲ πολλήν , ἀσπίδος κύκλον λέγω , ἔφριξα δινήσαντος ·
 perseus-eng2 I shuddered in fear as he spun a huge disk—the circle of his shield, I mean—
 
 cts:urn:tlg0085.tlg004:490
-glaux1.0-sentence: 227
+glaux1.0-sentence	227
 perseus-grc2.tb	οὐκ ἄλλως ἐρῶ .
 perseus-eng2 I cannot deny it.
 
 cts:urn:tlg0085.tlg004:491
-glaux1.0-sentence: 228
+glaux1.0-sentence	228
 perseus-grc2.tb	ὁ σηματουργὸς δ’ οὔ τις εὐτελὴς ἄρ’ ἦν ὅστις τόδ’ ἔργον ὤπασεν πρὸς ἀσπίδι , Τυφῶν’ ἱέντα πύρπνοον διὰ στόμα λιγνὺν μέλαιναν , αἰόλην πυρὸς κάσιν ·
 perseus-eng2 The symbol-maker who put the design on his shield was no lowly craftsman: he depicted Typhon, sending forth a fire-breathing stream from his mouth, a black, smoky flame, the swift sister of fire.
 
 cts:urn:tlg0085.tlg004:495
-glaux1.0-sentence: 229
+glaux1.0-sentence	229
 perseus-grc2.tb	ὄφεων δὲ πλεκτάναισι περίδρομον κύτος προσηδάφισται κοιλογάστορος κύκλου .
 perseus-eng2 And the rim of the hollow-bellied shield is fastened all around with snaky braids.
 
 cts:urn:tlg0085.tlg004:497
-glaux1.0-sentence: 230
+glaux1.0-sentence	230
 perseus-grc2.tb	αὐτὸς δ’ ἐπηλάλαξεν , ἔνθεος δ’ Ἄρει βακχᾷ πρὸς ἀλκὴν Θυιὰς ὣς φόβον βλέπων .
 perseus-eng2 The warrior himself has raised the war-cry and, inspired by Ares, he raves for battle like a maenad, with a look to inspire fear.
 
 cts:urn:tlg0085.tlg004:499
-glaux1.0-sentence: 231
+glaux1.0-sentence	231
 perseus-grc2.tb	τοιοῦδε φωτὸς πεῖραν εὖ φυλακτέον ·
 perseus-eng2 We must put up a good defense against the assault of such a man,
 
 cts:urn:tlg0085.tlg004:500
-glaux1.0-sentence: 232
+glaux1.0-sentence	232
 perseus-grc2.tb	Φόβος γὰρ ἤδη πρὸς πύλαις κομπάζεται .
 perseus-eng2 for already Rout is boasting of victory at the gate.
 
 cts:urn:tlg0085.tlg004:501
-glaux1.0-sentence: 233
+glaux1.0-sentence	233
 perseus-grc2.tb	πρῶτον μὲν Ὄγκα Παλλάς , ἥτ’ ἀγχίπτολις , πύλαισι γείτων , ἀνδρὸς ἐχθαίρουσ’ ὕβριν , εἴρξει νεοσσῶν ὣς δράκοντα δύσχιμον ·
 perseus-eng2 First Onca Pallas, who dwells near the city, close by the gate, and who loathes outrageousness in a man, will fend him off like a dangerous snake away from nestlings.
 
 cts:urn:tlg0085.tlg004:504
-glaux1.0-sentence: 234
+glaux1.0-sentence	234
 perseus-grc2.tb	Ὑπέρβιος δέ , κεδνὸς Οἴνοπος τόκος , ἀνὴρ κατ’ ἄνδρα τοῦτον ᾑρέθη , θέλων ἐξιστορῆσαι μοῖραν ἐν χρείᾳ τύχης , οὔτ’ εἶδος οὔτε θυμὸν οὐδ’ ὅπλων σχέσιν μωμητός , Ἑρμῆς δ’ εὐλόγως ξυνήγαγεν .
 perseus-eng2 Moreover, Hyperbius, Oenops’ trusty son, is chosen to match him, man to man, as he is eager to search out his fate in the crisis that chance has wrought—neither in form, nor spirit nor in the wielding of his arms does he bear reproach. Hermes has appropriately pitted them against each other.
 
 cts:urn:tlg0085.tlg004:509
-glaux1.0-sentence: 235
+glaux1.0-sentence	235
 perseus-grc2.tb	ἐχθρὸς γὰρ ἁνὴρ ἀνδρὶ τῷ ξυστήσεται , ξυνοίσετον δὲ πολεμίους ἐπ’ ἀσπίδων θεούς ·
 perseus-eng2 For the man is hostile to the man he faces in battle, and the gods on their shields also meet as enemies.
 
 cts:urn:tlg0085.tlg004:511
-glaux1.0-sentence: 236
+glaux1.0-sentence	236
 perseus-grc2.tb	ὁ μὲν γὰρ πύρπνοον Τυφῶν’ ἔχει , Ὑπερβίῳ δὲ Ζεὺς πατὴρ ἐπ’ ἀσπίδος σταδαῖος ἧσται , διὰ χερὸς βέλος φλέγων ·
 perseus-eng2 The one has fire-breathing Typhon, while father Zeus stands upright on Hyperbius’ shield, his lightning bolt aflame in his hand.
 
 cts:urn:tlg0085.tlg004:514
-glaux1.0-sentence: 237
+glaux1.0-sentence	237
 perseus-grc2.tb	κ- οὔπω τις εἶδε Ζῆνά που νικώμενον .
 perseus-eng2 And no one yet has seen Zeus conquered.
 
 cts:urn:tlg0085.tlg004:515
-glaux1.0-sentence: 238
+glaux1.0-sentence	238
 perseus-grc2.tb	τοιάδε μέντοι προσφίλεια δαιμόνων ·
 perseus-eng2 Such then is the favor of the divine powers.
 
 cts:urn:tlg0085.tlg004:516
-glaux1.0-sentence: 239
+glaux1.0-sentence	239
 perseus-grc2.tb	πρὸς τῶν κρατούντων δ’ ἐσμέν , οἱ δ’ ἡσσωμένων , εἰ Ζεύς γε Τυφῶ καρτερώτερος μάχῃ ·
 perseus-eng2 We are with the victors, they with the vanquished, if Zeus in fact proves stronger in battle than Typhon.
 
 cts:urn:tlg0085.tlg004:519
-glaux1.0-sentence: 240
+glaux1.0-sentence	240
 perseus-grc2.tb	εἰκὸς δὲ πράξειν ἄνδρας ὧδ’ ἀντιστάτας , Ὑπερβίῳ τε πρὸς λόγον τοῦ σήματος σωτὴρ γένοιτ’ ἂν Ζεὺς ἐπ’ ἀσπίδος τυχών .
 perseus-eng2 And it is likely that the mortal adversaries will fare as do their gods; and so, in accordance with the symbol, Zeus will be a savior for Hyperbius since he resides on his shield.
 
 cts:urn:tlg0085.tlg004:521
-glaux1.0-sentence: 241
+glaux1.0-sentence	241
 perseus-grc2.tb	πέποιθα δὴ τὸν Διὸς ἀντίτυπον ἔχοντ’ ἄφιλον ἐν σάκει τοῦ χθονίου δέμας δαίμονος , ἐχθρὸν εἴκασμα βροτοῖς τε καὶ δαροβίοισι θεοῖσιν , πρόσθε πυλᾶν κεφαλὰν ἰάψειν .
 perseus-eng2 I am sure that Zeus’ antagonist, since he has on his shield the unloved form of an earth-born deity, an image hated by both mortals and the long-lived gods, will drop his head in death before the gate.
 
 cts:urn:tlg0085.tlg004:526
-glaux1.0-sentence: 242
+glaux1.0-sentence	242
 perseus-grc2.tb	οὕτως γένοιτο .
 perseus-eng2 Let it be so!
 
 cts:urn:tlg0085.tlg004:526
-glaux1.0-sentence: 243
+glaux1.0-sentence	243
 perseus-grc2.tb	τὸν δὲ πέμπτον αὖ λέγω , πέμπταισι προσταχθέντα Βορραίαις πύλαις , τύμβον κατ’ αὐτὸν Διογενοῦς Ἀμφίονος ·
 perseus-eng2 Next I describe the fifth man who is stationed at the fifth, the Northern gate opposite the tomb of Amphion, Zeus’s son.
 
 cts:urn:tlg0085.tlg004:529
-glaux1.0-sentence: 244
+glaux1.0-sentence	244
 perseus-grc2.tb	ὄμνυσι δ’ αἰχμὴν ἣν ἔχει μᾶλλον θεοῦ σέβειν πεποιθὼς ὀμμάτων θ’ ὑπέρτερον , ἦ μὴν λαπάξειν ἄστυ Καδμείων βίᾳ Διός ·
 perseus-eng2 He swears by his spear which, in his confidence, he holds more to be revered than a god and more precious than his eyes, that he will sack the city of the Cadmeans in spite of Zeus.
 
 cts:urn:tlg0085.tlg004:532
-glaux1.0-sentence: 245
+glaux1.0-sentence	245
 perseus-grc2.tb	τόδ’ αὐδᾷ μητρὸς ἐξ ὀρεσκόου βλάστημα καλλίπρῳρον , ἀνδρόπαις ἀνήρ ·
 perseus-eng2 He says this, the beautiful child of a mountain-bred mother—a warrior, half man, half boy.
 
 cts:urn:tlg0085.tlg004:534
-glaux1.0-sentence: 246
+glaux1.0-sentence	246
 perseus-grc2.tb	στείχει δ’ ἴουλος ἄρτι διὰ παρηίδων , ὥρας φυούσης , ταρφὺς ἀντέλλουσα θρίξ ·
 perseus-eng2 and his beard’s first growth is just now advancing on his cheeks, his youth in first bloom, thick, upspringing hair.
 
 cts:urn:tlg0085.tlg004:536
-glaux1.0-sentence: 247
+glaux1.0-sentence	247
 perseus-grc2.tb	ὁ δ’ ὠμόν , οὔτι παρθένων ἐπώνυμον , φρόνημα , γοργὸν δ’ ὄμμ’ ἔχων , προσίσταται ·
 perseus-eng2 But now he makes his advance with a savage heart and a terrifying look, not at all like the maidens he’s named for.
 
 cts:urn:tlg0085.tlg004:538
-glaux1.0-sentence: 248
+glaux1.0-sentence	248
 perseus-grc2.tb	οὐ μὴν ἀκόμπαστός γ’ ἐφίσταται πύλαις ·
 perseus-eng2 Nor does he take his stand at the gate unboasting,
 
 cts:urn:tlg0085.tlg004:539
-glaux1.0-sentence: 249
+glaux1.0-sentence	249
 perseus-grc2.tb	τὸ γὰρ πόλεως ὄνειδος ἐν χαλκηλάτῳ σάκει , κυκλωτῷ σώματος προβλήματι , Σφίγγ’ ὠμόσιτον προσμεμηχανημένην γόμφοις ἐνώμα , λαμπρὸν ἔκκρουστον δέμας , φέρει δ’ ὑφ’ αὑτῇ φῶτα Καδμείων ἕνα , ὡς πλεῖστ’ ἐπ’ ἀνδρὶ τῷδ’ ἰάπτεσθαι βέλη .
 perseus-eng2 but wields our city’s shame on his bronze-forged shield, his body’s circular defense, on which the Sphinx who eats men raw is cleverly fastened with bolts, her body embossed and gleaming. She carries under her a single Cadmean, so that against this man chiefly our missiles will be hurled.
 
 cts:urn:tlg0085.tlg004:545
-glaux1.0-sentence: 250
+glaux1.0-sentence	250
 perseus-grc2.tb	ἐλθὼν δ’ ἔοικεν οὐ καπηλεύσειν μάχην , μακρᾶς κελεύθου δ’ οὐ καταισχυνεῖν πόρον , Παρθενοπαῖος Ἀρκάς ·
 perseus-eng2 He does not seem to have come to do any petty trading in the battle, nor to shame the making of his long journey— he is Parthenopaeus of Arcadia.
 
 cts:urn:tlg0085.tlg004:547
-glaux1.0-sentence: 251
+glaux1.0-sentence	251
 perseus-grc2.tb	ὁ δὲ τοιόσδ’ ἀνὴρ μέτοικος , Ἄργει δ’ ἐκτίνων καλὰς τροφάς , πύργοις ἀπειλεῖ τοῖσδ’ ἃ μὴ κραίνοι θεός ·
 perseus-eng2 Such is the man, and aiming to make full payment for the fine support given him in Argos, his adopted land, he now threatens our fortifications— may God not fulfil his threats!
 
 cts:urn:tlg0085.tlg004:550
-glaux1.0-sentence: 252
+glaux1.0-sentence	252
 perseus-grc2.tb	εἰ γὰρ τύχοιεν ὧν φρονοῦσι πρὸς θεῶν , αὐτοῖς ἐκείνοις ἀνοσίοις κομπάσμασιν ·
 perseus-eng2 If only they would get from the gods what they wish for, because of those unholy boasts of theirs,
 
 cts:urn:tlg0085.tlg004:552
-glaux1.0-sentence: 253
+glaux1.0-sentence	253
 perseus-grc2.tb	ἦ τ- ἂν πανώλεις παγκάκως τ’ ὀλοίατο .
 perseus-eng2 then surely they would perish in utter ruin and misery.
 
 cts:urn:tlg0085.tlg004:553
-glaux1.0-sentence: 254
+glaux1.0-sentence	254
 perseus-grc2.tb	ἔστιν δὲ καὶ τῷδ’ , ὃν λέγεις τὸν Ἀρκάδα , ἀνὴρ ἄκομπος , χεὶρ δ’ ὁρᾷ τὸ δράσιμον , Ἄκτωρ ἀδελφὸς τοῦ πάρος λελεγμένου ·
 perseus-eng2 There is a man for this one, too, whom you name an Arcadian, a man who does not boast, but who knows the thing to do—Actor, brother of him I named before.
 
 cts:urn:tlg0085.tlg004:556
-glaux1.0-sentence: 255
+glaux1.0-sentence	255
 perseus-grc2.tb	ὃς οὐκ ἐάσει γλῶσσαν ἐργμάτων ἄτερ ἔσω πυλῶν ῥέουσαν ἀλδαίνειν κακά , οὐδ’ εἰσαμεῖψαι θηρὸς ἐχθίστου δάκους εἰκὼ φέροντα πολεμίας ἐπ’ ἀσπίδος ·
 perseus-eng2 He will not allow words that lack deeds to overrun his gate and increase fear, nor will he let in a man who carries on his hostile shield the image of the ravenous, detested beast.
 
 cts:urn:tlg0085.tlg004:560
-glaux1.0-sentence: 256
+glaux1.0-sentence	256
 perseus-grc2.tb	ἣ ’ξωθεν εἴσω τῷ φέροντι μέμψεται , πυκνοῦ κροτησμοῦ τυγχάνουσ’ ὑπὸ πτόλιν ·
 perseus-eng2 That beast outside his shield will blame the man who carries her into the gate, when she has taken a heavy beating beneath the city’s walls.
 
 cts:urn:tlg0085.tlg004:562
-glaux1.0-sentence: 257
+glaux1.0-sentence	257
 perseus-grc2.tb	θεῶν θελόντων τ- ἂν ἀληθεύσαιμ’ ἐγώ ·
 perseus-eng2 If the gods are willing, what I speak may prove true!
 
 cts:urn:tlg0085.tlg004:563
-glaux1.0-sentence: 258
+glaux1.0-sentence	258
 perseus-grc2.tb	ἱκνεῖται λόγος διὰ στηθέων , τριχὸς δ’ ὀρθίας πλόκαμος ἵσταται , μεγάλα μεγαληγόρων κλυούσᾳ ἀνοσίων ἀνδρῶν .
 perseus-eng2 His words penetrate to my heart, my hair stands on end
 perseus-eng2 as I hear the loud threats of these loud-boasting, impious men.
 
 cts:urn:tlg0085.tlg004:566
-glaux1.0-sentence: 259
+glaux1.0-sentence	259
 perseus-grc2.tb	εἴθε γὰρ θεοὶ τοῦδ’ ὀλέσειαν ἐν γᾷ .
 perseus-eng2 May the gods destroy them here in our land!
 
 cts:urn:tlg0085.tlg004:568
-glaux1.0-sentence: 260
+glaux1.0-sentence	260
 perseus-grc2.tb	ἕκτον λέγοιμ’ ἂν ἄνδρα σωφρονέστατον , ἀλκήν τ’ ἄριστον μάντιν , Ἀμφιάρεω βίαν ·
 perseus-eng2 The sixth man I will name is of the highest moderation and a seer brave in combat, mighty Amphiaraus.
 
 cts:urn:tlg0085.tlg004:570
-glaux1.0-sentence: 261
+glaux1.0-sentence	261
 perseus-grc2.tb	Ὁμολωίσιν δὲ πρὸς πύλαις τεταγμένος κακοῖσι βάζει πολλὰ Τυδέως βίαν ·
 perseus-eng2 Stationed at the Homoloid gate, he repeatedly rebukes mighty Tydeus with evil names
 
 cts:urn:tlg0085.tlg004:572
-glaux1.0-sentence: 262
+glaux1.0-sentence	262
 perseus-grc2.tb	τὸν ἀνδροφόντην , τὸν πόλεως ταράκτορα , μέγιστον Ἄργει τῶν κακῶν διδάσκαλον , Ἐρινύος κλητῆρα , πρόσπολον φόνου , κακῶν τ’ Ἀδράστῳ τῶνδε βουλευτήριον .
 perseus-eng2 Murderer, maker of unrest in the city, principal teacher of evils to the Argives, summoner of vengeance’s Curse, servant of Slaughter, counselor to Adrastus in these evil plans.
 
 cts:urn:tlg0085.tlg004:576
-glaux1.0-sentence: 263
+glaux1.0-sentence	263
 perseus-grc2.tb	καὶ τὸν σὸν αὖθις προσθροῶν ὁμόσπορον , ἐξυπτιάζων ὄμμα , Πολυνείκους βίαν , δίς τ’ ἐν τελευτῇ τ- ὄνομʼ ἐνδατούμενος , καλεῖ .
 perseus-eng2 And next, with eyes looking upward, he addressed your own brother, mighty Polynices who shares your blood, and called him by name, dwelling twice upon its latter part.
 
 cts:urn:tlg0085.tlg004:579
-glaux1.0-sentence: 264
+glaux1.0-sentence	264
 perseus-grc2.tb	λέγει δὲ τοῦτ’ ἔπος διὰ στόμα ·
 perseus-eng2 These were his words:
 
 cts:urn:tlg0085.tlg004:580
-glaux1.0-sentence: 265
+glaux1.0-sentence	265
 perseus-grc2.tb	ἦ τοῖον ἔργον καὶ θεοῖσι προσφιλές , καλόν τ’ ἀκο
 perseus-eng2 Will such a deed as this be pleasing to the gods, fine to hear of and to relate to those in the future—that you sacked the city of your ancestors and your native gods and launched a foreign army against them?
 
 cts:urn:tlg0085.tlg004:584
-glaux1.0-sentence: 266
+glaux1.0-sentence	266
 perseus-grc2.tb	μητρός τε πηγὴν τίς κατασβέσει δίκη ;
 perseus-eng2 What justice is it to drain dry the font of your existence?
 
 cts:urn:tlg0085.tlg004:585
-glaux1.0-sentence: 267
+glaux1.0-sentence	267
 perseus-grc2.tb	πατρίς τε γαῖα σῆς ὑπὸ σπουδῆς δορὶ ἁλοῦσα πῶς σοι ξύμμαχος γενήσεται ;
 perseus-eng2 And how shall your fatherland, captured by the spear for the sake of your ambition, be won over to your cause?
 
 cts:urn:tlg0085.tlg004:587
-glaux1.0-sentence: 268
+glaux1.0-sentence	268
 perseus-grc2.tb	ἔγωγε μὲν δὴ τήνδε πιανῶ χθόνα , μάντις κεκευθὼς πολεμίας ὑπὸ χθονός .
 perseus-eng2 As for me, I will enrich this earth, a seer interred beneath enemy soil.
 
 cts:urn:tlg0085.tlg004:589
-glaux1.0-sentence: 269
+glaux1.0-sentence	269
 perseus-grc2.tb	μαχώμεθ’ , οὐκ ἄτιμον ἐλπίζω μόρον .
 perseus-eng2 Let us fight! I anticipate no dishonorable death.
 
 cts:urn:tlg0085.tlg004:590
-glaux1.0-sentence: 270
+glaux1.0-sentence	270
 perseus-grc2.tb	τοιαῦθ’ ὁ μάντις ἀσπίδ’ εὐκήλως ἔχων πάγχαλκον ηὔδα ·
 perseus-eng2 So the seer spoke as untroubled he held his all-bronze shield.
 
 cts:urn:tlg0085.tlg004:591
-glaux1.0-sentence: 271
+glaux1.0-sentence	271
 perseus-grc2.tb	σῆμα δ’ οὐκ ἐπῆν κύκλῳ .
 perseus-eng2 No symbol was fixed to his shield’s circle.
 
 cts:urn:tlg0085.tlg004:592
-glaux1.0-sentence: 272
+glaux1.0-sentence	272
 perseus-grc2.tb	οὐ γὰρ δοκεῖν ἄριστος , ἀλλ’ εἶναι θέλει , βαθεῖαν ἄλοκα διὰ φρενὸς καρπούμενος , ἐξ ἧς τὰ κεδνὰ βλαστάνει βουλεύματα .
 perseus-eng2 For he does not wish to appear the bravest, but to be the bravest, as he harvests the fruit of his mind’s deep furrow, where his careful resolutions grow.
 
 cts:urn:tlg0085.tlg004:595
-glaux1.0-sentence: 273
+glaux1.0-sentence	273
 perseus-grc2.tb	τούτῳ σοφούς τε κ- ἀγαθοὺς ἀντηρέτας πέμπειν ἐπαινῶ .
 perseus-eng2 I advise you to send wise and brave opponents against him.
 
 cts:urn:tlg0085.tlg004:596
-glaux1.0-sentence: 274
+glaux1.0-sentence	274
 perseus-grc2.tb	δεινὸς ὃς θεοὺς σέβει .
 perseus-eng2 He who reveres the gods is to be feared.
 
 cts:urn:tlg0085.tlg004:597
-glaux1.0-sentence: 275
+glaux1.0-sentence	275
 perseus-grc2.tb	φεῦ τοῦ ξυναλλάσσοντος ὄρνιθος βροτοῖς δίκαιον ἄνδρα τοῖσι δυσσεβεστέροις .
 perseus-eng2 Ah, the pity of fate’s omen when it makes a just man associate with the irreverent!
 
 cts:urn:tlg0085.tlg004:599
-glaux1.0-sentence: 276
+glaux1.0-sentence	276
 perseus-grc2.tb	ἐν παντὶ πράγει δ’ ἔσθ’ ὁμιλίας κακῆς κάκιον οὐδέν , καρπὸς οὐ κομιστέος ·
 perseus-eng2 In all things, nothing is more evil than evil partnership. Its fruit should not be gathered in:
 
 cts:urn:tlg0085.tlg004:601
-glaux1.0-sentence: 277
+glaux1.0-sentence	277
 perseus-grc2.tb	ἄτης ἄρουρα θάνατον ἐκκαρπίζεται .
 perseus-eng2 the field of recklessness yields a harvest of death.
 
 cts:urn:tlg0085.tlg004:602
-glaux1.0-sentence: 278
+glaux1.0-sentence	278
 perseus-grc2.tb	ἢ γὰρ ξυνεισβὰς πλοῖον εὐσεβὴς ἀνὴρ ναύταισι θερμοῖς καὶ πανουργίᾳ τινὶ ὄλωλεν ἀνδρῶν σὺν θεοπτύστῳ γένει , ἢ ξὺν πολίταις ἀνδράσιν δίκαιος ὢν ἐχθροξένοις τε καὶ θεῶν ἀμνήμοσιν , τ- αὐτοῦ κυρήσας ἐκδίκως ἀγρεύματος , πληγεὶς θεοῦ μάστιγι παγκοίνῳ ’δάμη .
 perseus-eng2 Or a pious man, embarked on a ship with sailors eager for some wrongdoing, perishes along with men detested by the gods; or, being just himself but among fellow citizens who hate foreigners and forget the gods, he, unfairly caught in the same snare as they, is overwhelmed, struck by a divine scourge that spares none.
 
 cts:urn:tlg0085.tlg004:609
-glaux1.0-sentence: 279
+glaux1.0-sentence	279
 perseus-grc2.tb	οὕτως δ’ ὁ μάντις , υἱὸν Οἰκλέους λέγω , σώφρων δίκαιος ἀγαθὸς εὐσεβὴς ἀνήρ , μέγας προφήτης , ἀνοσίοισι συμμιγεὶς θρασυστόμοισιν ἀνδράσιν βίᾳ φρενῶν , τείνουσι πομπὴν τὴν μακρὰν πάλιν μολεῖν , Διὸς θέλοντος ξυγκαθελκυσθήσεται .
 perseus-eng2 Thus the seer, the son of Oecles I speak of, a man temperate, just, good, and devout, a great prophet, mingled with impious, rash-talking men against his better judgment, men who, in a long and arduous return march, will be dragged down in their ruin by Zeus's will.
 
 cts:urn:tlg0085.tlg004:615
-glaux1.0-sentence: 280
+glaux1.0-sentence	280
 perseus-grc2.tb	δοκῶ μὲν οὖν σφε μηδὲ προσβαλεῖν πύλαις οὐχ ὡς ἄθυμος οὐδὲ λήματος κάκῇ , ἀλλ’ οἶδεν ὥς σφε χρὴ τελευτῆσαι μάχῃ , εἰ καρπὸς ἔσται θεσφάτοισι Λοξίου ·
 perseus-eng2 So then, I think that he will not even approach the gates, not out of cowardice or weakness, but because he knows that he must meet his end in battle, if the prophecies of Loxias are to bear fruit.
 
 cts:urn:tlg0085.tlg004:619
-glaux1.0-sentence: 281
+glaux1.0-sentence	281
 perseus-grc2.tb	φιλεῖ δὲ σιγᾶν ἢ λέγειν τὰ καίρια .
 perseus-eng2 He prefers to be silent or to speak only what is timely.
 
 cts:urn:tlg0085.tlg004:620
-glaux1.0-sentence: 282
+glaux1.0-sentence	282
 perseus-grc2.tb	ὅμως δ’ ἐπ’ αὐτῷ φῶτα , Λασθένους βίαν , ἐχθρόξενον πυλωρὸν ἀντιτάξομεν , γέροντα τὸν νοῦν , σάρκα δ’ ἡβῶσαν φύει , ποδῶκες ὄμμα , χεῖρα δ’ οὐ βραδύνεται παρ’ ἀσπίδος γυμνωθὲν ἁρπάσαι δόρυ .
 perseus-eng2 Nevertheless, against him I will station a man, mighty Lasthenes, a gatekeeper who hates foreigners, old in wisdom but in the prime of life, swift of eye, and his hand does not hesitate to snatch the spear left exposed by the shield.
 
 cts:urn:tlg0085.tlg004:625
-glaux1.0-sentence: 283
+glaux1.0-sentence	283
 perseus-grc2.tb	θεοῦ δὲ δῶρόν ἐστιν εὐτυχεῖν βροτούς .
 perseus-eng2 But it is a gift from the gods for mortals to be fortunate.
 
 cts:urn:tlg0085.tlg004:626
-glaux1.0-sentence: 284
+glaux1.0-sentence	284
 perseus-grc2.tb	κλύοντες θεοὶ δικαίας λιτὰς ἁμετέρας τελεῖθ’ , ὡς πόλις εὐτυχῇ , δορίπονα κάκ’ ἐκτρέποντες ἐς γᾶς ἐπιμόλους ·
 perseus-eng2 Gods, hear our just prayers and fulfill them, that the city may have good fortune, turning aside the spear-borne evils onto those who invade our land.
 
 cts:urn:tlg0085.tlg004:629
-glaux1.0-sentence: 285
+glaux1.0-sentence	285
 perseus-grc2.tb	πύργων δ’ ἔκτοθεν βαλὼν Ζεύς σφε κάνοι κεραυνῷ .
 perseus-eng2 May Zeus strike them with his thunderbolt outside the walls and slay them.
 
 cts:urn:tlg0085.tlg004:631
-glaux1.0-sentence: 286
+glaux1.0-sentence	286
 perseus-grc2.tb	τὸν ἕβδομον δὴ τόνδ’ ἐφ’ ἑβδόμαις πύλαις λέξω , τὸν αὐτοῦ σοῦ κασίγνητον , πόλει οἵας ἀρᾶται καὶ κατεύχεται τύχας ·
 perseus-eng2 I will now tell of the seventh, at the seventh gate, your own brother, and the fate he prays and wishes upon the city.
 
 cts:urn:tlg0085.tlg004:634
-glaux1.0-sentence: 287
+glaux1.0-sentence	287
 perseus-grc2.tb	πύργοις ἐπεμβὰς κ- ἐπικηρυχθεὶς χθονί , ἁλώσιμον παιᾶν’ ἐπεξιακχάσας , σοὶ ξυμφέρεσθαι καὶ κτανὼν θανεῖν πέλας , ἢ ζῶντ’ ἀτιμαστῆρα τὼς ἀνδρηλάτην φυγῇ τὸν αὐτὸν τόνδε τείσασθαι τρόπον .
 perseus-eng2 Mounting the battlements and proclaimed over the land, he boasts that he will triumphantly shout the war cry, confront you, and, after killing you, die near you, or survive and dishonor you as you once exiled him.
 
 cts:urn:tlg0085.tlg004:639
-glaux1.0-sentence: 288
+glaux1.0-sentence	288
 perseus-grc2.tb	τοιαῦτ’ ἀυτεῖ καὶ θεοὺς γενεθλίους καλεῖ πατρῴας γῆς ἐποπτῆρας λιτῶν τῶν ὧν γενέσθαι πάγχυ Πολυνείκους βία .
 perseus-eng2 He shouts such things and calls upon the gods, the guardians of his native land, to oversee his prayers for what should entirely come to pass.
 
 cts:urn:tlg0085.tlg004:642
-glaux1.0-sentence: 289
+glaux1.0-sentence	289
 perseus-grc2.tb	ἔχει δὲ καινοπηγὲς εὔκυκλον σάκος διπλοῦν τε σῆμα προσμεμηχανημένον .
 perseus-eng2 He carries a newly crafted, perfectly round shield with a cleverly devised double emblem.
 
 cts:urn:tlg0085.tlg004:644
-glaux1.0-sentence: 290
+glaux1.0-sentence	290
 perseus-grc2.tb	χρυσήλατον γὰρ ἄνδρα τευχηστὴν ἰδεῖν ἄγει γυνή τις σωφρόνως ἡγουμένη .
 perseus-eng2 On it, a woman leads a man wrought in hammered gold, appearing to guide him prudently.
 
 cts:urn:tlg0085.tlg004:646
-glaux1.0-sentence: 291
+glaux1.0-sentence	291
 perseus-grc2.tb	Δίκη δ’ ἄρ’ εἶναί φησιν , ὡς τὰ γράμματα λέγει κατάξω δ’ ἄνδρα τόνδε καὶ πόλιν ἕξει πατρῴων δωμάτων τ’ ἐπιστροφάς .
 perseus-eng2 The woman is said to be Justice, according to the inscriptions, declaring that she will bring this man back to the city and to the return of his ancestral home.
 
 cts:urn:tlg0085.tlg004:649
-glaux1.0-sentence: 292
+glaux1.0-sentence	292
 perseus-grc2.tb	τοιαῦτ’ ἐκείνων ἐστὶ τ- ἐξευρήματα .
 perseus-eng2 Such are their shield devices.
 
 cts:urn:tlg0085.tlg004:650
-glaux1.0-sentence: 293
+glaux1.0-sentence	293
 perseus-grc2.tb	σὺ δ’ αὐτὸς ἤδη γνῶθι τίνα πέμπειν δοκεῖ ·
 perseus-eng2 Now, you yourself must decide whom to send.
 
 cts:urn:tlg0085.tlg004:651
-glaux1.0-sentence: 294
+glaux1.0-sentence	294
 perseus-grc2.tb	ὡς οὔποτ’ ἀνδρὶ τῷδε κηρυκευμάτων μέμψῃ , σὺ δ’ αὐτὸς γνῶθι ναυκληρεῖν πόλιν .
 perseus-eng2 You will find no fault with my report, but you must decide how to steer the city yourself.
 
 cts:urn:tlg0085.tlg004:653
-glaux1.0-sentence: 295
+glaux1.0-sentence	295
 perseus-grc2.tb	ὦ θεομανές τε καὶ θεῶν μέγα στύγος , ὦ πανδάκρυτον ἁμὸν Οἰδίπου γένος ·
 perseus-eng2 Oh, our lineage of Oedipus, so madly driven by the gods and so deeply hated by them!
 
 cts:urn:tlg0085.tlg004:655
-glaux1.0-sentence: 296
+glaux1.0-sentence	296
 perseus-grc2.tb	ὤμοι , πατρὸς δὴ νῦν ἀραὶ τελεσφόροι .
 perseus-eng2 Alas, now indeed the curses of our father are being fulfilled.
 
 cts:urn:tlg0085.tlg004:656
-glaux1.0-sentence: 297
+glaux1.0-sentence	297
 perseus-grc2.tb	ἀλλ’ οὔτε κλαίειν οὔτ’ ὀδύρεσθαι πρέπει , μὴ καὶ τεκνωθῇ δυσφορώτερος γόος .
 perseus-eng2 But neither weeping nor lamenting is fitting, lest a more unbearable sorrow be borne.
 
 cts:urn:tlg0085.tlg004:658
-glaux1.0-sentence: 298
+glaux1.0-sentence	298
 perseus-grc2.tb	ἐπωνύμῳ δὲ κάρτα , Πολυνείκει λέγω , τάχ’ εἰσόμεσθα τ- ἐπίσημʼ ὅποι τελεῖ , εἴ νιν κατάξει χρυσότευκτα γράμματα ἐπ’ ἀσπίδος φλύοντα σὺν φοίτῳ φρενῶν .
 perseus-eng2 For him, aptly named Polynices, we shall soon see what his shield's gold-crafted symbols will achieve, whether they will guide him back in his folly.
 
 cts:urn:tlg0085.tlg004:662
-glaux1.0-sentence: 299
+glaux1.0-sentence	299
 perseus-grc2.tb	εἰ δ’ ἡ Διὸς παῖς παρθένος Δίκη παρῆν ἔργοις ἐκείνου καὶ φρεσίν , τάχ’ ἂν τόδ’ ἦν ·
 perseus-eng2 If Zeus's virgin daughter, Justice, were present in his deeds and thoughts, then perhaps it might be so.
 
 cts:urn:tlg0085.tlg004:664
-glaux1.0-sentence: 300
+glaux1.0-sentence	300
 perseus-grc2.tb	ἀλλ’ οὔτε νιν φυγόντα μητρόθεν σκότον , οὔτ’ ἐν τροφαῖσιν , οὔτ’ ἐφηβήσαντά πω , οὔτ’ ἐν γενείου ξυλλογῇ τριχώματος , Δίκη προσεῖδε καὶ κατηξιώσατο ·
 perseus-eng2 But Justice neither saw him nor deemed him worthy, neither when he fled the darkness of the womb, nor in his upbringing, nor yet in his adolescence, nor when he first grew a beard.
 
 cts:urn:tlg0085.tlg004:668
-glaux1.0-sentence: 301
+glaux1.0-sentence	301
 perseus-grc2.tb	οὐδ’ ἐν πατρῴας μὴν χθονὸς κακουχίᾳ οἶμαί νιν αὐτῷ νῦν παραστατεῖν πέλας .
 perseus-eng2 Nor do I think that in his fatherland's distress, Justice now stands by his side.
 
 cts:urn:tlg0085.tlg004:670
-glaux1.0-sentence: 302
+glaux1.0-sentence	302
 perseus-grc2.tb	ἦ δῆτ’ ἂν εἴη πανδίκως ψευδώνυμος Δίκη , ξυνοῦσα φωτὶ παντόλμῳ φρένας .
 perseus-eng2 Indeed, Justice would be wholly false in name, if she sided with a man so recklessly daring.
 
 cts:urn:tlg0085.tlg004:672
-glaux1.0-sentence: 303
+glaux1.0-sentence	303
 perseus-grc2.tb	τούτοις πεποιθὼς εἶμι καὶ ξυστήσομαι αὐτός ·
 perseus-eng2 Trusting in this, I will go and confront him myself;
 
 cts:urn:tlg0085.tlg004:673
-glaux1.0-sentence: 304
+glaux1.0-sentence	304
 perseus-grc2.tb	τίς ἄλλος μᾶλλον ἐνδικώτερος ;
 perseus-eng2 Who else is more justly entitled?
 
 cts:urn:tlg0085.tlg004:674
-glaux1.0-sentence: 305
+glaux1.0-sentence	305
 perseus-grc2.tb	ἄρχοντί τ’ ἄρχων καὶ κασιγνήτῳ κάσις , ἐχθρὸς σὺν ἐχθρῷ στήσομαι .
 perseus-eng2 As leader against leader, and as brother against brother, enemy against enemy, I will stand.
 
 cts:urn:tlg0085.tlg004:675
-glaux1.0-sentence: 306
+glaux1.0-sentence	306
 perseus-grc2.tb	φέρ’ ὡς τάχος κνημῖδας , αἰχμῆς καὶ πέτρων προβλήματα .
 perseus-eng2 Bring quickly the greaves, protection against spears and stones.
 
 cts:urn:tlg0085.tlg004:677
-glaux1.0-sentence: 307
+glaux1.0-sentence	307
 perseus-grc2.tb	μή , φίλτατ’ ἀνδρῶν , Οἰδίπου τέκος , γένῃ ὀργὴν ὁμοῖος τῷ κάκιστ’ αὐδωμένῳ ·
 perseus-eng2 Do not, most beloved of men, son of Oedipus, become as wrathful as the one who speaks the worst.
 
 cts:urn:tlg0085.tlg004:679
-glaux1.0-sentence: 308
+glaux1.0-sentence	308
 perseus-grc2.tb	ἀλλ’ ἄνδρας Ἀργείοισι Καδμείους ἅλις ἐς χεῖρας ἐλθεῖν ·
 perseus-eng2 But let it suffice for the Cadmeans to engage the Argives in combat;
 
 cts:urn:tlg0085.tlg004:680
-glaux1.0-sentence: 309
+glaux1.0-sentence	309
 perseus-grc2.tb	αἷμα γὰρ καθάρσιον .
 perseus-eng2 for that bloodshed can be purified.
 
 cts:urn:tlg0085.tlg004:681
-glaux1.0-sentence: 310
+glaux1.0-sentence	310
 perseus-grc2.tb	ἀνδροῖν δ’ ὁμαίμοιν θάνατος ὧδ’ αὐτοκτόνος , οὐκ ἔστι γῆρας τοῦδε τοῦ μιάσματος .
 perseus-eng2 But the self-inflicted death of men of the same blood carries a stain that does not age.
 
 cts:urn:tlg0085.tlg004:683
-glaux1.0-sentence: 311
+glaux1.0-sentence	311
 perseus-grc2.tb	εἴπερ κακὸν φέροι τις , αἰσχύνης ἄτερ ἔστω ·
 perseus-eng2 If one must suffer evil, let it be without disgrace;
 
 cts:urn:tlg0085.tlg004:684
-glaux1.0-sentence: 312
+glaux1.0-sentence	312
 perseus-grc2.tb	μόνον γὰρ κέρδος ἐν τεθνηκόσι ·
 perseus-eng2 for that is the only gain in death.
 
 cts:urn:tlg0085.tlg004:685
-glaux1.0-sentence: 313
+glaux1.0-sentence	313
 perseus-grc2.tb	κακῶν δὲ κ- αἰσχρῶν οὔτιν’ εὐκλείαν ἐρεῖς .
 perseus-eng2 But of evil and shameful acts, no one will speak well.
 
 cts:urn:tlg0085.tlg004:686
-glaux1.0-sentence: 314
+glaux1.0-sentence	314
 perseus-grc2.tb	τί μέμονας , τέκνον ;
 perseus-eng2 Why are you so eager, child?
 
 cts:urn:tlg0085.tlg004:686
-glaux1.0-sentence: 315
+glaux1.0-sentence	315
 perseus-grc2.tb	μή τί σε θυμοπληθὴς δορίμαργος ἄτα φερέτω ·
 perseus-eng2 Do not let a rage-filled, spear-mad disaster carry you away;
 
 cts:urn:tlg0085.tlg004:687
-glaux1.0-sentence: 316
+glaux1.0-sentence	316
 perseus-grc2.tb	κακοῦ δ’ ἔκβαλ’ ἔρωτος ἀρχάν .
 perseus-eng2 expel the beginnings of this evil passion
 
 cts:urn:tlg0085.tlg004:689
-glaux1.0-sentence: 317
+glaux1.0-sentence	317
 perseus-grc2.tb	ἐπεὶ τὸ πρᾶγμα κάρτ’ ἐπισπέρχει θεός , ἴτω κατ’ οὖρον κῦμα Κωκυτοῦ λαχὸν Φοίβῳ στυγηθὲν πᾶν τὸ Λαΐου γένος .
 perseus-eng2 Since the matter is much hastened by a god, let the whole race of Laius, loathed by Phoebus, go as a wave down to the lot of Cocytus.
 
 cts:urn:tlg0085.tlg004:692
-glaux1.0-sentence: 318
+glaux1.0-sentence	318
 perseus-grc2.tb	ὠμοδακής σ’ ἄγαν ἵμερος ἐξοτρύνει πικρόκαρπον ἀνδροκτασίαν τελεῖν αἵματος οὐ θεμιστοῦ .
 perseus-eng2 An excessively raw desire impels you to carry out a murder, a bitter fruit, not sanctioned by divine law.
 
 cts:urn:tlg0085.tlg004:695
-glaux1.0-sentence: 319
+glaux1.0-sentence	319
 perseus-grc2.tb	φίλου γὰρ ἐχθρά μοι πατρὸς τάλαιν’ ἀρὰ ξηροῖς ἀκλαύτοις ὄμμασιν προσιζάνει , λέγουσα κέρδος πρότερον ὑστέρου μόρου .
 perseus-eng2 For my beloved father's hateful curse approaches me with dry, unwept eyes, speaking of a gain before a later death.
 
 cts:urn:tlg0085.tlg004:698
-glaux1.0-sentence: 320
+glaux1.0-sentence	320
 perseus-grc2.tb	ἀλλὰ σὺ μὴ ’ποτρύνου ·
 perseus-eng2 But you, do not urge it on;
 
 cts:urn:tlg0085.tlg004:698
-glaux1.0-sentence: 321
+glaux1.0-sentence	321
 perseus-grc2.tb	κακὸς οὐ κεκλήσῃ βίον εὖ κυρήσας ·
 perseus-eng2 you will not be called a coward if you master life well;
 
 cts:urn:tlg0085.tlg004:699
-glaux1.0-sentence: 322
+glaux1.0-sentence	322
 perseus-grc2.tb	μελάναιγις δ’ ·
 perseus-eng2 and yet the dark-cloaked;
 
 cts:urn:tlg0085.tlg004:699
-glaux1.0-sentence: 323
+glaux1.0-sentence	323
 perseus-grc2.tb	οὐκ εἶσι δόμων Ἐρινύς , ὅταν ἐκ χερῶν θεοὶ θυσίαν δέχωνται ;
 perseus-eng2 is there not an Erinys of the house when gods receive a sacrifice from hands?
 
 cts:urn:tlg0085.tlg004:702
-glaux1.0-sentence: 324
+glaux1.0-sentence	324
 perseus-grc2.tb	θεοῖς μὲν ἤδη πως παρημελήμεθα , χάρις δ’ ἀφ’ ἡμῶν ὀλομένων θαυμάζεται ·
 perseus-eng2 We have already, in some way, neglected the gods, yet the grace from us perishing is admired;
 
 cts:urn:tlg0085.tlg004:704
-glaux1.0-sentence: 325
+glaux1.0-sentence	325
 perseus-grc2.tb	τί οὖν ἔτ’ ἂν σαίνοιμεν ὀλέθριον μόρον ;
 perseus-eng2 so then, why should we still flinch at a deadly fate?
 
 cts:urn:tlg0085.tlg004:705
-glaux1.0-sentence: 326
+glaux1.0-sentence	326
 perseus-grc2.tb	νῦν ὅτε σοι παρέστακεν ·
 perseus-eng2 especially now that it stands near you;
 
 cts:urn:tlg0085.tlg004:705
-glaux1.0-sentence: 327
+glaux1.0-sentence	327
 perseus-grc2.tb	ἐπεὶ δαίμων λήματος ἐν τροπαίᾳ χρονίᾳ μεταλλακτὸς ἴσως ἂν ἔλθοι θελεμωτέρῳ πνεύματι ·
 perseus-eng2 for the spirit of destiny, in its changing course over time, might come in a more favorable wind;
 
 cts:urn:tlg0085.tlg004:708
-glaux1.0-sentence: 328
+glaux1.0-sentence	328
 perseus-grc2.tb	νῦν δ’ ἔτι ζεῖ .
 perseus-eng2 but now it still lives.
 
 cts:urn:tlg0085.tlg004:709
-glaux1.0-sentence: 329
+glaux1.0-sentence	329
 perseus-grc2.tb	ἐξέζεσεν γὰρ Οἰδίπου κατεύγματα ·
 perseus-eng2 For the curses of Oedipus have boiled over;
 
 cts:urn:tlg0085.tlg004:710
-glaux1.0-sentence: 330
+glaux1.0-sentence	330
 perseus-grc2.tb	ἄγαν δ’ ἀληθεῖς ἐνυπνίων φαντασμάτων ὄψεις , πατρῴων χρημάτων δατήριοι .
 perseus-eng2 and all too true are the visions of dreams, distributing the paternal wealth.
 
 cts:urn:tlg0085.tlg004:712
-glaux1.0-sentence: 331
+glaux1.0-sentence	331
 perseus-grc2.tb	πιθοῦ γυναιξί , καίπερ οὐ στέργων ὅμως .
 perseus-eng2 Obey us women, although you do not like to.
 perseus-eng2 Eteocles
 
 cts:urn:tlg0085.tlg004:713
-glaux1.0-sentence: 332
+glaux1.0-sentence	332
 perseus-grc2.tb	λέγοιτ’ ἂν ὧν ἄνη τις ·
 perseus-eng2 Recommend something that can be accomplished;
 
 cts:urn:tlg0085.tlg004:713
-glaux1.0-sentence: 333
+glaux1.0-sentence	333
 perseus-grc2.tb	οὐδὲ χρὴ μακράν .
 perseus-eng2 your request need not be lengthy.
 
 cts:urn:tlg0085.tlg004:714
-glaux1.0-sentence: 334
+glaux1.0-sentence	334
 perseus-grc2.tb	μὴ ’λθῃς ὁδοὺς σὺ τάσδ’ ἐφ’ ἑβδόμαις πύλαις .
 perseus-eng2 Do not yourself take the road to the seventh gate!
 
 cts:urn:tlg0085.tlg004:715
-glaux1.0-sentence: 335
+glaux1.0-sentence	335
 perseus-grc2.tb	τεθηγμένον τοί μ’ οὐκ ἀπαμβλυνεῖς λόγῳ .
 perseus-eng2 Let me assure you, you will not blunt my sharpened purpose with words.
 
 cts:urn:tlg0085.tlg004:716
-glaux1.0-sentence: 336
+glaux1.0-sentence	336
 perseus-grc2.tb	νίκην γε μέντοι καὶ κακὴν τιμᾷ θεός .
 perseus-eng2 And yet any victory, even a cowardly one, is nonetheless held in honor by God.
 
 cts:urn:tlg0085.tlg004:717
-glaux1.0-sentence: 337
+glaux1.0-sentence	337
 perseus-grc2.tb	οὐκ ἄνδρ’ ὁπλίτην τοῦτο χρὴ στέργειν ἔπος .
 perseus-eng2 A soldier must not embrace that maxim.
 
 cts:urn:tlg0085.tlg004:718
-glaux1.0-sentence: 338
+glaux1.0-sentence	338
 perseus-grc2.tb	ἀλλ’ αὐτάδελφον αἷμα δρέψασθαι θέλεις ;
 perseus-eng2 But are you willing to harvest the blood of your own brother?
 
 cts:urn:tlg0085.tlg004:719
-glaux1.0-sentence: 339
+glaux1.0-sentence	339
 perseus-grc2.tb	θεῶν διδόντων οὐκ ἂν ἐκφύγοις κακά .
 perseus-eng2 When it is the gods who give you evils, you cannot flee them.
 
 cts:urn:tlg0085.tlg004:720
-glaux1.0-sentence: 340
+glaux1.0-sentence	340
 perseus-grc2.tb	πέφρικα τὰν ὠλεσίοικον θεόν , οὐ θεοῖς ὁμοίαν , παναλαθῆ κακόμαντιν πατρὸς εὐκταίαν Ἐρινὺν τελέσαι τὰς περιθύμους κατάρας Οἰδιπόδα βλαψίφρονος ·
 perseus-eng2 I shudder in terror at the goddess who lays ruin to homes, a goddess unlike other divinities, who is an unerring omen of evil to come. I shudder that the Erinys invoked by the father’s prayer will fulfil the over-wrathful curses that Oedipus spoke in madness.
 
 cts:urn:tlg0085.tlg004:726
-glaux1.0-sentence: 341
+glaux1.0-sentence	341
 perseus-grc2.tb	παιδολέτωρ δ’ ἔρις ἅδ’ ὀτρύνει .
 perseus-eng2 This strife that will destroy his sons drives the Erinys to fulfillment.
 
 cts:urn:tlg0085.tlg004:727
-glaux1.0-sentence: 342
+glaux1.0-sentence	342
 perseus-grc2.tb	ξένος δὲ κλήρους ἐπινωμᾷ , Χάλυβος Σκυθᾶν ἄποικος , κτεάνων χρηματοδαίτας πικρός , ὠμόφρων σίδαρος , χθόνα ναίειν διαπήλας , ὁπόσαν καὶ φθιμένοισιν κατέχειν , τῶν μεγάλων πεδίων ἀμοίρους .
 perseus-eng2 A stranger distributes their inheritance, a Chalybian immigrant from Scythia, a bitter divider of wealth, savage-hearted iron that apportions land for them to dwell in, as much as they can occupy in death when they have lost their share in these wide plains.
 
 cts:urn:tlg0085.tlg004:734
-glaux1.0-sentence: 343
+glaux1.0-sentence	343
 perseus-grc2.tb	ἐπεὶ δ’ ἂν αὐτοκτόνως αὐτοδάικτοι θάνωσι , καὶ γαΐα κόνις πίῃ μελαμπαγὲς αἷμα φοίνιον , τίς ἂν καθαρμοὺς πόροι , τίς ἄν σφε λούσειεν ;
 perseus-eng2 But when both have died, each killing the other in mutual slaughter, and the earth’s dust has swallowed the black streams of their blood, who could offer sacrifice that might make purification? Who could cleanse them of their pollution?
 
 cts:urn:tlg0085.tlg004:739
-glaux1.0-sentence: 344
+glaux1.0-sentence	344
 perseus-grc2.tb	ὦ πόνοι δόμων νέοι παλαιοῖσι συμμιγεῖς κακοῖς .
 perseus-eng2 O, the new troubles of this house mixed with its evils of before!
 
 cts:urn:tlg0085.tlg004:742
-glaux1.0-sentence: 345
+glaux1.0-sentence	345
 perseus-grc2.tb	παλαιγενῆ γὰρ λέγω παρβασίαν ὠκύποινον ·
 perseus-eng2 Indeed I speak of the ancient transgression, now swift in its retribution.
 
 cts:urn:tlg0085.tlg004:744
-glaux1.0-sentence: 346
+glaux1.0-sentence	346
 perseus-grc2.tb	αἰῶνα δ’ ἐς τρίτον μένει ·
 perseus-eng2 It remains even into the third generation,
 
 cts:urn:tlg0085.tlg004:745
-glaux1.0-sentence: 347
+glaux1.0-sentence	347
 perseus-grc2.tb	Ἀπόλλωνος εὖτε Λάιος βίᾳ , τρὶς εἰπόντος ἐν μεσομφάλοις Πυθικοῖς χρηστηρίοις θνᾴσκοντα γέννας ἄτερ σῴζειν πόλιν ,
 perseus-eng2 Ever since Laius— in defiance of Apollo who, at his Pythian oracle at the earth’s center, said three times that the king would save his city if he died without offspring—
 
 cts:urn:tlg0085.tlg004:750
-glaux1.0-sentence: 348
+glaux1.0-sentence	348
 perseus-grc2.tb	κρατηθεὶς δ’ ἐκ φίλων ἀβουλιᾶν ἐγείνατο μὲν μόρον αὑτῷ , πατροκτόνον Οἰδιπόδαν , ὅστε ματρὸς ἁγνὰν σπείρας ἄρουραν , ἵν’ ἐτράφη , ῥίζαν αἱματόεσσαν ἔτλα ·
 perseus-eng2 Ever since he, overcome by the thoughtlessness of his longing, fathered his own death, the parricide Oedipus, who sowed his mother’s sacred field, where he was nurtured, and endured a bloody crop.
 
 cts:urn:tlg0085.tlg004:756
-glaux1.0-sentence: 349
+glaux1.0-sentence	349
 perseus-grc2.tb	παράνοια συνᾶγε νυμφίους φρενώλεις .
 perseus-eng2  Madness united the frenzied bridal pair.
 
 cts:urn:tlg0085.tlg004:758
-glaux1.0-sentence: 350
+glaux1.0-sentence	350
 perseus-grc2.tb	κακῶν δ’ ὥσπερ θάλασσα κῦμ’ ἄγει ·
 perseus-eng2 Now it is as if a sea of evils pushes its swell onward.
 
 cts:urn:tlg0085.tlg004:759
-glaux1.0-sentence: 351
+glaux1.0-sentence	351
 perseus-grc2.tb	τὸ μὲν πίτνον , ἄλλο δ’ ἀείρει τρίχαλον , ὃ καὶ περὶ πρύμναν πόλεως καχλάζει .
 perseus-eng2 As one wave sinks, the sea raises up another, triple-crested, which crashes around the city’s stern.
 
 cts:urn:tlg0085.tlg004:762
-glaux1.0-sentence: 352
+glaux1.0-sentence	352
 perseus-grc2.tb	μεταξὺ δ’ ἀλκὰ δι’ ὀλίγου τείνει , πύργος ἐν εὔρει .
 perseus-eng2 In between a narrow defense stretches—no wider than a wall.
 
 cts:urn:tlg0085.tlg004:764
-glaux1.0-sentence: 353
+glaux1.0-sentence	353
 perseus-grc2.tb	δέδοικα δὲ σὺν βασιλεῦσι μὴ πόλις δαμασθῇ .
 perseus-eng2 I fear that the city will be overthrown along with its kings.
 
 cts:urn:tlg0085.tlg004:766
-glaux1.0-sentence: 354
+glaux1.0-sentence	354
 perseus-grc2.tb	τελειᾶν γὰρ παλαιφάτων ἀρᾶν βαρεῖαι καταλλαγαί ·
 perseus-eng2 For the compensation is heavy when curses uttered long ago are fulfilled,
 
 cts:urn:tlg0085.tlg004:767
-glaux1.0-sentence: 355
+glaux1.0-sentence	355
 perseus-grc2.tb	τὰ δ’ ὀλοὰ πελόμεν’ οὐ παρέρχεται .
 perseus-eng2 and once the deadly curse has come into existence, it does not pass away.
 
 cts:urn:tlg0085.tlg004:769
-glaux1.0-sentence: 356
+glaux1.0-sentence	356
 perseus-grc2.tb	πρόπρυμνα δ’ ἐκβολὰν φέρει ἀνδρῶν ἀλφηστᾶν ὄλβος ἄγαν παχυνθείς .
 perseus-eng2 When the fortune of seafaring merchants has grown too great, it must be thrown overboard.
 
 cts:urn:tlg0085.tlg004:772
-glaux1.0-sentence: 357
+glaux1.0-sentence	357
 perseus-grc2.tb	τίν’ ἀνδρῶν γὰρ τοσόνδ’ ἐθαύμασαν θεοὶ καὶ ξυνέστιοι πόλεος ὁ πολύβατός τ’ ἀγὼν βροτῶν , ὅσον τότ’ Οἰδίπουν τίον , τὰν ἁρπαξάνδραν κῆρ’ ἀφελόντα χώρας ;
 perseus-eng2 For whom have the gods and divinities that share their altar and the thronging assembly of men ever admired so much as they honored Oedipus then, when he removed that deadly, man-seizing plague from our land?
 
 cts:urn:tlg0085.tlg004:778
-glaux1.0-sentence: 358
+glaux1.0-sentence	358
 perseus-grc2.tb	ἐπεὶ δ’ ἀρτίφρων ἐγένετο μέλεος ἀθλίων γάμων , ἐπ’ ἄλγει δυσφορῶν μαινομένᾳ κραδίᾳ δίδυμα κάκ’ ἐτέλεσεν ·
 perseus-eng2 But when, his sanity regained, he grew miserable in his wretched marriage, then carried away by his grief and with maddened heart he accomplished a double evil.
 
 cts:urn:tlg0085.tlg004:783
-glaux1.0-sentence: 359
+glaux1.0-sentence	359
 perseus-grc2.tb	πατροφόνῳ χερὶ τῶν κρεισσοτέκνων ὀμμάτων ἐπλάγχθη ·
 perseus-eng2 With the hand that killed his father he struck out his eyes, which were dearer to him than his children.
 
 cts:urn:tlg0085.tlg004:785
-glaux1.0-sentence: 360
+glaux1.0-sentence	360
 perseus-grc2.tb	τέκνοις δ’ ἀγρίας ἐφῆκεν ἐπικότους τροφᾶς , αἰαῖ , πικρογλώσσους ἀράς , καί σφε σιδαρονόμῳ διὰ χερί ποτε λαχεῖν κτήματα ·
 perseus-eng2 He then turned on his children, unleashing fierce, vengeful nourishments—alas!—curses from a bitter tongue, predicting they would one day divide his possessions by the iron hand.
 
 cts:urn:tlg0085.tlg004:790
-glaux1.0-sentence: 361
+glaux1.0-sentence	361
 perseus-grc2.tb	νῦν δὲ τρέω μὴ τελέσῃ καμψίπους Ἐρινύς .
 perseus-eng2 Now I fear that the swift-running Erinys will fulfill these curses.
 
 cts:urn:tlg0085.tlg004:792
-glaux1.0-sentence: 362
+glaux1.0-sentence	362
 perseus-grc2.tb	θαρσεῖτε , παῖδες μητέρων τεθραμμέναι .
 perseus-eng2 Take heart, children nurtured by your mothers.
 
 cts:urn:tlg0085.tlg004:793
-glaux1.0-sentence: 363
+glaux1.0-sentence	363
 perseus-grc2.tb	πόλις πέφευγεν ἥδε δούλιον ζυγόν ·
 perseus-eng2 This city has escaped the yoke of slavery;
 
 cts:urn:tlg0085.tlg004:794
-glaux1.0-sentence: 364
+glaux1.0-sentence	364
 perseus-grc2.tb	πέπτωκεν ἀνδρῶν ὀβρίμων κομπάσματα ·
 perseus-eng2 the boasts of powerful men have fallen.
 
 cts:urn:tlg0085.tlg004:795
-glaux1.0-sentence: 365
+glaux1.0-sentence	365
 perseus-grc2.tb	πόλις δ’ ἐν εὐδίᾳ τε καὶ κλυδωνίου πολλαῖσι πληγαῖς ἄντλον οὐκ ἐδέξατο .
 perseus-eng2 The city, despite fair weather and many buffeting waves, has not taken on water.
 
 cts:urn:tlg0085.tlg004:797
-glaux1.0-sentence: 366
+glaux1.0-sentence	366
 perseus-grc2.tb	στέγει δὲ πύργος , καὶ πύλας φερεγγύοις ἐφραξάμεσθα μονομάχοισι προστάταις ·
 perseus-eng2 The tower stands, and we have fortified the gates with champions skilled in single combat;
 
 cts:urn:tlg0085.tlg004:799
-glaux1.0-sentence: 367
+glaux1.0-sentence	367
 perseus-grc2.tb	καλῶς ἔχει τὰ πλεῖστ’ , ἐν ἓξ πυλώμασι ·
 perseus-eng2 all is well at most of the gates, the six;
 
 cts:urn:tlg0085.tlg004:800
-glaux1.0-sentence: 368
+glaux1.0-sentence	368
 perseus-grc2.tb	τὰς δ’ ἑβδόμας ὁ σεμνὸς ἑβδομαγέτης ἄναξ Ἀπόλλων εἵλετ’ , Οἰδίπου γένει κραίνων παλαιὰς Λαΐου δυσβουλίας .
 perseus-eng2 But for the seventh, the revered leader Apollo, chose it for himself, guiding the fates of Oedipus' lineage according to the ancient follies of Laius.
 
 cts:urn:tlg0085.tlg004:803
-glaux1.0-sentence: 369
+glaux1.0-sentence	369
 perseus-grc2.tb	τί δ’ ἔστι πρᾶγμα νεόκοτον πόλει πλέον ;
 perseus-eng2 What novel happening will further affect the city?
 
 cts:urn:tlg0085.tlg004:804
-glaux1.0-sentence: 370
+glaux1.0-sentence	370
 perseus-grc2.tb	πόλις σέσωσται ·
 perseus-eng2 The city is saved,
 
 cts:urn:tlg0085.tlg004:804
-glaux1.0-sentence: 371
+glaux1.0-sentence	371
 perseus-grc2.tb	βασιλέες δ’ ὁμόσποροι — τίνες ;
 perseus-eng2 but the kings born of the same seed—Who?
 
 cts:urn:tlg0085.tlg004:805
-glaux1.0-sentence: 372
+glaux1.0-sentence	372
 perseus-grc2.tb	τί δ’ εἶπας ;
 perseus-eng2 What did you say?
 
 cts:urn:tlg0085.tlg004:805
-glaux1.0-sentence: 373
+glaux1.0-sentence	373
 perseus-grc2.tb	παραφρονῶ φόβῳ λόγου .
 perseus-eng2 I am out of my mind with fear of your report.
 
 cts:urn:tlg0085.tlg004:806
-glaux1.0-sentence: 374
+glaux1.0-sentence	374
 perseus-grc2.tb	φρονοῦσα νῦν ἄκουσον ·
 perseus-eng2 Control yourself now and listen.
 
 cts:urn:tlg0085.tlg004:806
-glaux1.0-sentence: 375
+glaux1.0-sentence	375
 perseus-grc2.tb	Οἰδίπου τόκοι — οἲ ’γὼ τάλαινα , μάντις εἰμὶ τῶν κακῶν .
 perseus-eng2 The sons of Oedipus—Ah, miserable me, I am prophet of these evils.
 
 cts:urn:tlg0085.tlg004:808
-glaux1.0-sentence: 376
+glaux1.0-sentence	376
 perseus-grc2.tb	οὐδ’ ἀμφιλέκτως μὴν κατεσποδημένοι — ἐκεῖθι κεῖσθον ;
 perseus-eng2 In truth, beyond all question, struck down in the dust—Are they lying out there?
 
 cts:urn:tlg0085.tlg004:809
-glaux1.0-sentence: 377
+glaux1.0-sentence	377
 perseus-grc2.tb	βαρέα δ’ οὖν ὅμως φράσον .
 perseus-eng2 This is hard to bear, but say it just the same.
 
 cts:urn:tlg0085.tlg004:810
-glaux1.0-sentence: 378
+glaux1.0-sentence	378
 perseus-grc2.tb	ἅνδρες τεθνᾶσιν ἐκ χερῶν αὐτοκτόνων .
 perseus-eng2 The men are dead, murdered by their very own hands.
 
 cts:urn:tlg0085.tlg004:811
-glaux1.0-sentence: 379
+glaux1.0-sentence	379
 perseus-grc2.tb	οὕτως ἀδελφαῖς χερσὶν ἠναίρονθ’ ἅμα ;
 perseus-eng2 Then with hands so fraternal did they each kill the other together?
 
 cts:urn:tlg0085.tlg004:812
-glaux1.0-sentence: 380
+glaux1.0-sentence	380
 perseus-grc2.tb	οὕτως ὁ δαίμων κοινὸς ἦν ἀμφοῖν ἄγαν .
 perseus-eng2 Yes, so all too equal was their destiny to them both.
 
 cts:urn:tlg0085.tlg004:813
-glaux1.0-sentence: 381
+glaux1.0-sentence	381
 perseus-grc2.tb	αὐτὸς δ’ ἀναλοῖ δῆτα δύσποτμον γένος .
 perseus-eng2 All alone, in truth, it consumes the ill-fated family.
 
 cts:urn:tlg0085.tlg004:814
-glaux1.0-sentence: 382
+glaux1.0-sentence	382
 perseus-grc2.tb	τοιαῦτα χαίρειν καὶ δακρύεσθαι πάρα ·
 perseus-eng2 We have cause in this for joy and tears—
 
 cts:urn:tlg0085.tlg004:815
-glaux1.0-sentence: 383
+glaux1.0-sentence	383
 perseus-grc2.tb	πόλιν μὲν εὖ πράσσουσαν , οἱ δ’ ἐπιστάται , δισσὼ στρατηγώ , διέλαχον σφυρηλάτῳ Σκύθῃ σιδήρῳ κτημάτων παμπησίαν .
 perseus-eng2 the one because the city fares well, the other because the leaders, the two generals, have divided the whole of their property with hammered Scythian steel.
 
 cts:urn:tlg0085.tlg004:818
-glaux1.0-sentence: 384
+glaux1.0-sentence	384
 perseus-grc2.tb	ἕξουσι δ’ ἣν λάβωσιν ἐν ταφῇ χθονός , πατρὸς κατ’ εὐχὰς δυσπότμως φορούμενοι .
 perseus-eng2 They will possess only that land they take in burial, swept away as they were in accordance with their father’s curses.
 
 cts:urn:tlg0085.tlg004:820
-glaux1.0-sentence: 385
+glaux1.0-sentence	385
 perseus-grc2.tb	πόλις σέσωσται ·
 perseus-eng2 The city is saved,
 
 cts:urn:tlg0085.tlg004:820
-glaux1.0-sentence: 386
+glaux1.0-sentence	386
 perseus-grc2.tb	βασιλέοιν δ’ ὁμοσπόροιν πέπωκεν αἷμά γαῖ’ ὑπ’ ἀλλήλων φόνῳ .
 perseus-eng2 but through their mutual murder the earth has drunk the blood of the two kings born of the same seed.
 
 cts:urn:tlg0085.tlg004:822
-glaux1.0-sentence: 387
+glaux1.0-sentence	387
 perseus-grc2.tb	ὦ μεγάλε Ζεῦ καὶ πολιοῦχοι δαίμονες , οἳ δὴ Κάδμου πύργους τούσδε ῥύεσθε , πότερον χαίρω κ- ἐπολολύξω πόλεως ἀσινεῖ σωτῆρι .
 perseus-eng2 O great Zeus and the divine powers that guard our city, you who indeed protect these walls of Cadmus,
 perseus-eng2 should I rejoice and shout in triumph for the unharmed safety of the city,
 
 cts:urn:tlg0085.tlg004:826
-glaux1.0-sentence: 389
+glaux1.0-sentence	389
 perseus-grc2.tb	, ἢ τοὺς μογεροὺς καὶ δυσδαίμονας ἀτέκνους κλαύσω πολεμάρχους ;
 perseus-eng2 or should I lament our leaders in war,
 perseus-eng2 now wretched, ill-fated and childless?
 
 cts:urn:tlg0085.tlg004:831
-glaux1.0-sentence: 390
+glaux1.0-sentence	390
 perseus-grc2.tb	οἳ δῆτ’ ὀρθῶς κατ’ ἐπωνυμίαν καὶ πολυνεικεῖς ὤλοντ’ ἀσεβεῖ διανοίᾳ .
 perseus-eng2 Indeed, in exact accordance with their name and as men of much strife, they have perished through their impious intent.
 
 cts:urn:tlg0085.tlg004:833
-glaux1.0-sentence: 391
+glaux1.0-sentence	391
 perseus-grc2.tb	ὦ μέλαινα καὶ τελεία γένεος Οἰδίπου τ’ ἀρά , κακόν με καρδίαν τι περιπίτνει κρύος .
 perseus-eng2 O black curse on the family, Oedipus’ curse, now brought to fulfillment! A chill of horror falls about my heart.
 
 cts:urn:tlg0085.tlg004:835
-glaux1.0-sentence: 392
+glaux1.0-sentence	392
 perseus-grc2.tb	ἔτευξα τύμβῳ μέλος Θυιὰς αἱματοσταγεῖς νεκροὺς κλύουσα δυσμόρως θανόντας ·
 perseus-eng2 In frenzy like a maenad I make my song for the grave as I hear of their corpses dripping with blood, how they died through the workings of cruel fate.
 
 cts:urn:tlg0085.tlg004:838
-glaux1.0-sentence: 393
+glaux1.0-sentence	393
 perseus-grc2.tb	ἦ δύσορνις ἅδε ξυναυλία δορός .
 perseus-eng2 This song of the spear, sung to the flute, is indeed born of an ill omen.
 
 cts:urn:tlg0085.tlg004:840
-glaux1.0-sentence: 394
+glaux1.0-sentence	394
 perseus-grc2.tb	ἐξέπραξεν , οὐδ’ ἀπεῖπεν πατρόθεν εὐκταία φάτις ·
 perseus-eng2 The curseful utterance of their father has done its work and not fallen short.
 
 cts:urn:tlg0085.tlg004:842
-glaux1.0-sentence: 395
+glaux1.0-sentence	395
 perseus-grc2.tb	βουλαὶ δ’ ἄπιστοι Λαΐου διήρκεσαν .
 perseus-eng2 Laius’ plans, made in disobedience, have kept their force.
 
 cts:urn:tlg0085.tlg004:843
-glaux1.0-sentence: 396
+glaux1.0-sentence	396
 perseus-grc2.tb	μέριμνα δ’ ἀμφὶ πτόλιν ·
 perseus-eng2 I am anxious for our city;
 
 cts:urn:tlg0085.tlg004:844
-glaux1.0-sentence: 397
+glaux1.0-sentence	397
 perseus-grc2.tb	θέσφατ’ οὐκ ἀμβλύνεται .
 perseus-eng2 divine decrees do not lose their edge.
 
 cts:urn:tlg0085.tlg004:845
-glaux1.0-sentence: 398
+glaux1.0-sentence	398
 perseus-grc2.tb	ἰὼ πολύστονοι , τόδ’ ἠργάσασθ’ ἄπιστον ·
 perseus-eng2 O bringers of immense grief, you have done in this a deed beyond belief,
 
 cts:urn:tlg0085.tlg004:846
-glaux1.0-sentence: 399
+glaux1.0-sentence	399
 perseus-grc2.tb	ἦλθε δ’ αἰακτὰ πήματ’ οὐ λόγῳ .
 perseus-eng2 yet lamentable troubles have indeed come.
 
 cts:urn:tlg0085.tlg004:848
-glaux1.0-sentence: 400
+glaux1.0-sentence	400
 perseus-grc2.tb	τάδ’ αὐτόδηλα , προῦπτος ἀγγέλου λόγος ·
 perseus-eng2 The events are self-evident; the messenger’s report is plain to see.
 
 cts:urn:tlg0085.tlg004:849
-glaux1.0-sentence: 401
+glaux1.0-sentence	401
 perseus-grc2.tb	διπλαῖ μέριμναι , διδυμάνορα κάκ’ αὐτοφόνα , δίμοιρα τέλεια τάδε πάθη .
 perseus-eng2 Twofold is our distress—double disaster of kindred murder, this double suffering has come to fulfillment.
 
 cts:urn:tlg0085.tlg004:851
-glaux1.0-sentence: 402
+glaux1.0-sentence	402
 perseus-grc2.tb	τί φῶ ;
 perseus-eng2 What shall I say?
 
 cts:urn:tlg0085.tlg004:852
-glaux1.0-sentence: 403
+glaux1.0-sentence	403
 perseus-grc2.tb	τί δ’ ἄλλο γ’ ἢ πόνοι πόνων δόμων ἐφέστιοι ;
 perseus-eng2 What else indeed than that sorrow born of sorrows surround this house’s hearth?
 
 cts:urn:tlg0085.tlg004:854
-glaux1.0-sentence: 404
+glaux1.0-sentence	404
 perseus-grc2.tb	ἀλλὰ γόων , ὦ φίλαι , κατ’ οὖρον ἐρέσσετ’ ἀμφὶ κρατὶ πόμπιμον χεροῖν πίτυλον , ὃς αἰὲν δι’ Ἀχέροντ’ ἀμείβεται τὰν ἄστολον μελάγκροκον ναύστολον θεωρίδα , τὰν ἀστιβῆ Ἀπόλλωνι , τὰν ἀνάλιον πάνδοκον εἰς ἀφανῆ τε χέρσον .
 perseus-eng2 But sail upon the wind of lamentation, my friends, and about your head row with your hands’ rapid stroke in conveyance of the dead, that stroke which always causes the sacred slack-sailed, black-clothed ship to pass over Acheron to the unseen land where Apollo does not walk, the sunless land that receives all men.
 
 cts:urn:tlg0085.tlg004:861
-glaux1.0-sentence: 405
+glaux1.0-sentence	405
 perseus-grc2.tb	ἀλλὰ γὰρ ἥκουσ’ αἵδ’ ἐπὶ πρᾶγος πικρὸν Ἀντιγόνη τ’ ἠδ’ Ἰσμήνη , θρῆνον ἀδελφοῖν ·
 perseus-eng2 But here come Antigone and Ismene to do their bitter duty, the dirge over their brothers both.
 
 cts:urn:tlg0085.tlg004:863
-glaux1.0-sentence: 406
+glaux1.0-sentence	406
 perseus-grc2.tb	οὐκ ἀμφιβόλως οἶμαί σφ’ ἐρατῶν ἐκ βαθυκόλπων στηθέων ἥσειν ἄλγος ἐπάξιον .
 perseus-eng2 With all sincerity, I think, will they pour forth their fitting grief from their lovely, deep-bosomed breasts.
 
 cts:urn:tlg0085.tlg004:866
-glaux1.0-sentence: 407
+glaux1.0-sentence	407
 perseus-grc2.tb	ἡμᾶς δὲ δίκη πρότερον φήμης τὸν δυσκέλαδόν θ’ ὕμνον Ἐρινύος ἰαχεῖν Ἀίδα τ’ ἐχθρὸν παιᾶν’ ἐπιμέλπειν .
 perseus-eng2 But it is right for us, before their singing, to cry out the awful hymn of the Erinys and thereafter sing the hated victory song of Hades.
 
 cts:urn:tlg0085.tlg004:871
-glaux1.0-sentence: 408
+glaux1.0-sentence	408
 perseus-grc2.tb	ἰώ , δυσαδελφόταται πασῶν ὁπόσαι στρόφον ἐσθῆσιν περιβάλλονται , κλαίω , στένομαι , καὶ δόλος οὐδεὶς μὴ ’κ φρενὸς ὀρθῶς με λιγαίνειν .
 perseus-eng2 Ah, sisters most unfortunate in your kin of all women who clasp their girdle about their robes, I weep, I groan, and there is no feigning in the shrill cries that come straight from my heart.
 
 cts:urn:tlg0085.tlg004:875
-glaux1.0-sentence: 409
+glaux1.0-sentence	409
 perseus-grc2.tb	ἰὼ ἰὼ δύσφρονες , φίλων ἄπιστοι καὶ κακῶν ἀτρύμονες , δόμους πατρῴους ἑλόντες μέλεοι σὺν αἰχμᾷ .
 perseus-eng2 Ah, pity you senseless men, whom friends could not persuade and evils could not wear down! To your misery you have captured your father’s house with the spear.
 
 cts:urn:tlg0085.tlg004:879
-glaux1.0-sentence: 410
+glaux1.0-sentence	410
 perseus-grc2.tb	μέλεοι δῆθ’ οἳ μελέους θανάτους εὕροντο δόμων ἐπὶ λύμῃ .
 perseus-eng2 To their misery, indeed, they found a miserable death in the outrage done their house.
 
 cts:urn:tlg0085.tlg004:881
-glaux1.0-sentence: 411
+glaux1.0-sentence	411
 perseus-grc2.tb	ἰὼ ἰὼ δωμάτων ἐρειψίτοιχοι καὶ πικρὰς μοναρχίας ἰδόντες , ἤδη διήλλαχθε σὺν σιδάρῳ .
 perseus-eng2 Ah, you brothers who were poised to cast over the walls of your home and looked—to your sorrow—for sole rule, now you have been reconciled by the iron sword.
 
 cts:urn:tlg0085.tlg004:886
-glaux1.0-sentence: 412
+glaux1.0-sentence	412
 perseus-grc2.tb	κάρτα δ’ ἀληθῆ πατρὸς Οἰδιπόδα πότνι’ Ἐρινὺς ἐπέκρανεν .
 perseus-eng2 The great Erinys of your father Oedipus has fulfilled it all truly.
 
 cts:urn:tlg0085.tlg004:888
-glaux1.0-sentence: 413
+glaux1.0-sentence	413
 perseus-grc2.tb	δι’ εὐωνύμων τετυμμένοι , τετυμμένοι δῆθ’ , ὁμοσπλάγχνων τε πλευρωμάτων αἰαῖ δαιμόνιοι , αἰαῖ δ’ ἀντιφόνων θανάτων ἀραί .
 perseus-eng2 Pierced through your left sides, pierced indeed—through those sides that were born from one womb! Ah, strange ones! Ah, the curses that demand death for death!
 
 cts:urn:tlg0085.tlg004:895
-glaux1.0-sentence: 414
+glaux1.0-sentence	414
 perseus-grc2.tb	διανταίαν λέγεις πλαγὰν δόμοισι καὶ σώμασιν πεπλαγμένους , ἐννέπω ἀναυδάτῳ μένει ἀραίῳ τ’ ἐκ πατρὸς οὐ διχόφρονι πότμῳ .
 perseus-eng2 Right through, as you say, were they struck, with blows to house and body by an unspeakable wrath and by the doom, called down by their father’s curse, which they shared without discord.
 
 cts:urn:tlg0085.tlg004:900
-glaux1.0-sentence: 415
+glaux1.0-sentence	415
 perseus-grc2.tb	διήκει δὲ καὶ πόλιν στόνος , στένουσι πύργοι , στένει πέδον φίλανδρον ·
 perseus-eng2 Groaning spreads throughout the city, too: the walls groan; the land that loves its sons groans.
 
 cts:urn:tlg0085.tlg004:902
-glaux1.0-sentence: 416
+glaux1.0-sentence	416
 perseus-grc2.tb	μένει κτέανα δ’ ἐπιγόνοις , δι’ ὧν αἰνομόροις , δι’ ὧν νεῖκος ἔβα καὶ θανάτου τέλος .
 perseus-eng2 But for those who come after them there remains their property, on which account the strife of those terrible-fated men came to fulfillment in death.
 
 cts:urn:tlg0085.tlg004:907
-glaux1.0-sentence: 417
+glaux1.0-sentence	417
 perseus-grc2.tb	ἐμοιράσαντο δ’ ὀξυκάρδιοι κτήμαθ’ , ὥστ’ ἴσον λαχεῖν .
 perseus-eng2 In their haste to anger they apportioned their property so that each has an equal share.
 
 cts:urn:tlg0085.tlg004:909
-glaux1.0-sentence: 418
+glaux1.0-sentence	418
 perseus-grc2.tb	διαλλακτῆρι δ’ οὐκ ἀμεμφεία φίλοις , οὐδ’ ἐπίχαρις Ἄρης .
 perseus-eng2 To those who loved them their reconciler is not blameless, nor is Ares agreeable.
 
 cts:urn:tlg0085.tlg004:911
-glaux1.0-sentence: 419
+glaux1.0-sentence	419
 perseus-grc2.tb	σιδαρόπλακτοι μὲν ὧδ’ ἔχουσιν , σιδαρόπλακτοι δὲ τοὺς μένουσι , τάχ’ ἄν τις εἴποι , τίνες ;
 perseus-eng2 Under strokes of iron they are come to this, and under strokes of iron there await them—what, one might perhaps ask—
 
 cts:urn:tlg0085.tlg004:914
-glaux1.0-sentence: 420
+glaux1.0-sentence	420
 perseus-grc2.tb	τάφων πατρῴων λαχαί .
 perseus-eng2 shares in their father’s tomb.
 
 cts:urn:tlg0085.tlg004:915
-glaux1.0-sentence: 421
+glaux1.0-sentence	421
 perseus-grc2.tb	ὅδ’ ἁμῶν μάλ’ ἀχέτας τοὺς προπέμπει δαϊκτὴρ γόος αὐτόστονος , αὐτοπήμων , δαϊόφρων δ’ ·
 perseus-eng2 Our shrill, heart-rending wail goes with them—product of lamentation and pain felt of its own accord—a wail from a distressed mind, joyless, pouring forth tears from a heart
 
 cts:urn:tlg0085.tlg004:918
-glaux1.0-sentence: 422
+glaux1.0-sentence	422
 perseus-grc2.tb	, οὐ φιλογαθής , ἐτύμως δακρυχέων ἐκ φρενός , ἃ κλαιομένας μου μινύθει τοῖνδε δυοῖν ἀνάκτοιν .
 perseus-eng2 that wastes away as I weep for these two princes.
 
 cts:urn:tlg0085.tlg004:922
-glaux1.0-sentence: 423
+glaux1.0-sentence	423
 perseus-grc2.tb	πάρεστι δ’ εἰπεῖν ἐπ’ ἀθλίοισιν ὡς ἐρξάτην πολλὰ μὲν πολίτας , ξένων τε πάντων στίχας πολυφθόρους ἐν δαΐ .
 perseus-eng2 Over these poor men it can be said that they did much to harm our citizens and also the ranks of all the foreigners who died in abundance in the fighting.
 
 cts:urn:tlg0085.tlg004:926
-glaux1.0-sentence: 424
+glaux1.0-sentence	424
 perseus-grc2.tb	δυσδαίμων σφιν ἁ τεκοῦσα πρὸ πασᾶν γυναικῶν ὁπόσαι τεκνογόνοι κέκληνται .
 perseus-eng2 Ill-fated beyond all women who are called by the name of mother is she who bore them. After she made her own child her own husband,
 
 cts:urn:tlg0085.tlg004:929
-glaux1.0-sentence: 425
+glaux1.0-sentence	425
 perseus-grc2.tb	παῖδα τὸν αὑτᾶς πόσιν αὑτᾷ θεμένα τούσδ’ ἔτεχ’ , οἱ δ’ ὧδ’ ἐτελεύτασαν ὑπ’ ἀλλαλοφόνοις χερσὶν ὁμοσπόροισιν .
 perseus-eng2 she gave birth to these sons, who have thus ended their lives with kindred hands giving death for death.
 
 cts:urn:tlg0085.tlg004:933
-glaux1.0-sentence: 426
+glaux1.0-sentence	426
 perseus-grc2.tb	ὁμόσποροι δῆτα καὶ πανώλεθροι , διατομαῖς οὐ φίλοις , ἔριδι μαινομένᾳ , νείκεος ἐν τελευτᾷ .
 perseus-eng2 Of the same seed, in truth, they were utterly destroyed in unloving divisions, in maddened discord, in the ending of their strife.
 
 cts:urn:tlg0085.tlg004:937
-glaux1.0-sentence: 427
+glaux1.0-sentence	427
 perseus-grc2.tb	πέπαυται δ’ ἔχθος , ἐν δὲ γαίᾳ ζόα φονορύτῳ μέμεικται ·
 perseus-eng2 Their hatred has ceased. Their life has been mingled in the blood-soaked earth.
 
 cts:urn:tlg0085.tlg004:939
-glaux1.0-sentence: 428
+glaux1.0-sentence	428
 perseus-grc2.tb	κάρτα δ’ εἴσ’ ὅμαιμοι .
 perseus-eng2 Now truly their blood is one.
 
 cts:urn:tlg0085.tlg004:940
-glaux1.0-sentence: 429
+glaux1.0-sentence	429
 perseus-grc2.tb	πικρὸς λυτὴρ νεικέων ὁ πόντιος ξεῖνος ἐκ πυρὸς συθεὶς θακτὸς σίδαρος ·
 perseus-eng2 Ruthless is that which resolved their strife, the stranger from across the sea, sharpened iron rushed from the fire.
 
 cts:urn:tlg0085.tlg004:942
-glaux1.0-sentence: 430
+glaux1.0-sentence	430
 perseus-grc2.tb	πικρὸς δὲ χρημάτων κακὸς δατητὰς Ἄρης ἀρὰν πατρῴαν τιθεὶς ἀλαθῆ .
 perseus-eng2 Ruthless, too, was Ares, the cruel divider of their property, who made their father’s curses come true.
 
 cts:urn:tlg0085.tlg004:945
-glaux1.0-sentence: 431
+glaux1.0-sentence	431
 perseus-grc2.tb	ἔχουσι μοῖραν λαχόντες οἱ μέλεοι διοδότων ἀχθέων ·
 perseus-eng2 They hold in misery their allotted portion of god-given sorrows.
 
 cts:urn:tlg0085.tlg004:947
-glaux1.0-sentence: 432
+glaux1.0-sentence	432
 perseus-grc2.tb	ὑπὸ δὲ σώματι γᾶς πλοῦτος ἄβυσσος ἔσται .
 perseus-eng2 Beneath their corpses there will be boundless wealth of earth.
 
 cts:urn:tlg0085.tlg004:949
-glaux1.0-sentence: 433
+glaux1.0-sentence	433
 perseus-grc2.tb	ἰὼ πολλοῖς ἐπανθίσαντες πόνοισι γενεάν ·
 perseus-eng2 Ah, you have wreathed your race with many troubles!
 
 cts:urn:tlg0085.tlg004:951
-glaux1.0-sentence: 434
+glaux1.0-sentence	434
 perseus-grc2.tb	τελευταῖαι δ’ ἐπηλάλαξαν Ἀραὶ τὸν ὀξὺν νόμον , τετραμμένου παντρόπῳ φυγᾷ γένους .
 perseus-eng2 In the final outcome the Curses have raised their piercing cry, now that the family is turned to flight in all directions.
 
 cts:urn:tlg0085.tlg004:954
-glaux1.0-sentence: 435
+glaux1.0-sentence	435
 perseus-grc2.tb	ἕστακε δ’ Ἄτας τροπαῖον ἐν πύλαις , ἐν αἷς ἐθείνοντο , καὶ δυοῖν κρατήσας ἔληξε δαίμων .
 perseus-eng2 A trophy to Ruin now stands at the gate where they struck each other and where, having conquered them both, the divine power stayed its hand.
 
 cts:urn:tlg0085.tlg004:957
-glaux1.0-sentence: 436
+glaux1.0-sentence	436
 perseus-grc2.tb	παισθεὶς ἔπαισας .
 perseus-eng2 Antigone: You were struck as you struck.
 
 cts:urn:tlg0085.tlg004:957b
-glaux1.0-sentence: 437
+glaux1.0-sentence	437
 perseus-grc2.tb	σὺ δ’ ἔθανες κατακτανών .
 perseus-eng2 Ismene: You died as you killed.
 
 cts:urn:tlg0085.tlg004:958
-glaux1.0-sentence: 438
+glaux1.0-sentence	438
 perseus-grc2.tb	δορὶ δ’ ἔκανες — δορὶ δ’ ἔθανες — μελεοπόνος .
 perseus-eng2 Antigone: By the spear you killed— By the spear you died—
 
 cts:urn:tlg0085.tlg004:961
-glaux1.0-sentence: 439
+glaux1.0-sentence	439
 perseus-grc2.tb	μελεοπαθής .
 perseus-eng2 Your deed made you wretched.
 
 cts:urn:tlg0085.tlg004:962
-glaux1.0-sentence: 440
+glaux1.0-sentence	440
 perseus-grc2.tb	ἴτω γόος .
 perseus-eng2 Ismene: Let the lament come.
 
 cts:urn:tlg0085.tlg004:963
-glaux1.0-sentence: 441
+glaux1.0-sentence	441
 perseus-grc2.tb	ἴτω δάκρυ .
 perseus-eng2 Antigone: Let the tears come.
 
 cts:urn:tlg0085.tlg004:964
-glaux1.0-sentence: 442
+glaux1.0-sentence	442
 perseus-grc2.tb	πρόκεισαι —
 perseus-eng2 Ismene: You are laid out for mourning—
 perseus-eng2 Antigone: Though you did the killing.
 
 cts:urn:tlg0085.tlg004:966
-glaux1.0-sentence: 443
+glaux1.0-sentence	443
 perseus-grc2.tb	ἠέ .
 perseus-eng2 Ismene: Ah me!
 
 cts:urn:tlg0085.tlg004:966b
-glaux1.0-sentence: 444
+glaux1.0-sentence	444
 perseus-grc2.tb	ἠέ .
 perseus-eng2 Antigone: Ah me!
 
 cts:urn:tlg0085.tlg004:967
-glaux1.0-sentence: 445
+glaux1.0-sentence	445
 perseus-grc2.tb	μαίνεται γόοισι φρήν .
 perseus-eng2 Ismene: My heart is mad with wailing.
 
 cts:urn:tlg0085.tlg004:968
-glaux1.0-sentence: 446
+glaux1.0-sentence	446
 perseus-grc2.tb	ἐντὸς δὲ καρδία στένει .
 perseus-eng2 Antigone: My heart groans within me.
 
 cts:urn:tlg0085.tlg004:969
-glaux1.0-sentence: 447
+glaux1.0-sentence	447
 perseus-grc2.tb	ἰὼ ἰὼ πάνδυρτε σύ .
 perseus-eng2 Ismene: Ah, the grief, brother all-lamentable.
 
 cts:urn:tlg0085.tlg004:970
-glaux1.0-sentence: 448
+glaux1.0-sentence	448
 perseus-grc2.tb	σὺ δ’ αὖτε καὶ πανάθλιε .
 perseus-eng2 Antigone: And you also, brother all-wretched.
 
 cts:urn:tlg0085.tlg004:971
-glaux1.0-sentence: 449
+glaux1.0-sentence	449
 perseus-grc2.tb	πρὸς φίλου γ’ ·
 perseus-eng2 at the hands of your nearest and dearest.
 
 cts:urn:tlg0085.tlg004:971
-glaux1.0-sentence: 450
+glaux1.0-sentence	450
 perseus-grc2.tb	ἔφθισο .
 perseus-eng2 Ismene: You perished
 
 cts:urn:tlg0085.tlg004:972
-glaux1.0-sentence: 451
+glaux1.0-sentence	451
 perseus-grc2.tb	καὶ φίλον ἔκτανες .
 perseus-eng2 Antigone: And you killed your nearest and dearest.
 
 cts:urn:tlg0085.tlg004:973
-glaux1.0-sentence: 452
+glaux1.0-sentence	452
 perseus-grc2.tb	διπλᾶ λέγειν — διπλᾶ δ’ ὁρᾶν — ἄχθεα τῶνδε τάδ’ ἐγγύθεν .
 perseus-eng2 Ismene: Twofold to tell of— Twofold to look upon—Are these sorrows so close to those.
 
 cts:urn:tlg0085.tlg004:976
-glaux1.0-sentence: 453
+glaux1.0-sentence	453
 perseus-grc2.tb	πέλας ἀδελφέ’ ἀδελφεῶν .
 perseus-eng2 Ismene: Fraternal sorrows stand close by fraternal sorrows.
 
 cts:urn:tlg0085.tlg004:977
-glaux1.0-sentence: 454
+glaux1.0-sentence	454
 perseus-grc2.tb	ἰὼ Μοῖρα βαρυδότειρα μογερά , πότνιά τ’ Οἰδίπου σκιά , μέλαιν’ Ἐρινύς , ἦ μεγασθενής τις εἶ .
 perseus-eng2 Chorus: O Fate, giver of grievous troubles, and awful shade of Oedipus, black Erinys, you are indeed a mighty force.
 
 cts:urn:tlg0085.tlg004:980
-glaux1.0-sentence: 455
+glaux1.0-sentence	455
 perseus-grc2.tb	ἠέ .
 perseus-eng2 Ah, me
 
 cts:urn:tlg0085.tlg004:980b
-glaux1.0-sentence: 456
+glaux1.0-sentence	456
 perseus-grc2.tb	ἠέ .
 perseus-eng2 Ismene: Ah, me
 
 cts:urn:tlg0085.tlg004:981
-glaux1.0-sentence: 457
+glaux1.0-sentence	457
 perseus-grc2.tb	δυσθέατα πήματα — ἔδειξεν ἐκ φυγᾶς ἐμοί .
 perseus-eng2 Sorrows hard to behold— Ismene: He showed me when he returned from exile.
 
 cts:urn:tlg0085.tlg004:983
-glaux1.0-sentence: 458
+glaux1.0-sentence	458
 perseus-grc2.tb	οὐδ’ ἵκεθ’ ὡς κατέκτανεν .
 perseus-eng2 Antigone: But he made no return after he had killed.
 
 cts:urn:tlg0085.tlg004:984
-glaux1.0-sentence: 459
+glaux1.0-sentence	459
 perseus-grc2.tb	σωθεὶς δὲ πνεῦμ’ ἀπώλεσεν .
 perseus-eng2 Ismene: He was saved, but lost his life.
 
 cts:urn:tlg0085.tlg004:985
-glaux1.0-sentence: 460
+glaux1.0-sentence	460
 perseus-grc2.tb	ὤλεσε δῆτ’ ἄγαν .
 perseus-eng2 Antigone: He lost it, all too truly.
 
 cts:urn:tlg0085.tlg004:986
-glaux1.0-sentence: 461
+glaux1.0-sentence	461
 perseus-grc2.tb	καὶ τὸν ἐνόσφισεν .
 perseus-eng2 Ismene: And took this one’s life away.
 
 cts:urn:tlg0085.tlg004:987
-glaux1.0-sentence: 462
+glaux1.0-sentence	462
 perseus-grc2.tb	τάλαν γένος .
 perseus-eng2 Antigone: Wretched family!
 
 cts:urn:tlg0085.tlg004:988
-glaux1.0-sentence: 463
+glaux1.0-sentence	463
 perseus-grc2.tb	τάλαν πάθος .
 perseus-eng2 Ismene: Wretched suffering!
 
 cts:urn:tlg0085.tlg004:989
-glaux1.0-sentence: 464
+glaux1.0-sentence	464
 perseus-grc2.tb	δύστονα κήδε’ ὁμαίμονα .
 perseus-eng2 Antigone: Kindred sorrows full of groans!
 
 cts:urn:tlg0085.tlg004:990
-glaux1.0-sentence: 465
+glaux1.0-sentence	465
 perseus-grc2.tb	δίυγρα τριπάλτων πημάτων .
 perseus-eng2 Ismene: Sorrows steeped in tripled griefs.
 
 cts:urn:tlg0085.tlg004:991
-glaux1.0-sentence: 466
+glaux1.0-sentence	466
 perseus-grc2.tb	ἰὼ Μοῖρα βαρυδότειρα μογερά , πότνιά τ’ Οἰδίπου σκιά , μέλαιν’ Ἐρινύς , ἦ μεγασθενής τις εἶ .
 perseus-eng2 Chorus: O Fate, giver of grievous troubles, and awful shade of Oedipus, black Erinys, you are indeed a mighty force.
 
 cts:urn:tlg0085.tlg004:994
-glaux1.0-sentence: 467
+glaux1.0-sentence	467
 perseus-grc2.tb	σὺ τοί νιν οἶσθα διαπερῶν — σὺ δ’ οὐδὲν ὕστερος μαθών — ἐπεὶ κατῆλθες ἐς πόλιν , δορός γε τῷδ’ ἀντηρέτας .
 perseus-eng2 Antigone: Now you know of the Erinys by experience— Ismene: And you are made aware no later— Antigone: When you came back to our city, Ismene: Yes, to face him with your spear.
 
 cts:urn:tlg0085.tlg004:998
-glaux1.0-sentence: 468
+glaux1.0-sentence	468
 perseus-grc2.tb	ὀλοὰ λέγειν .
 perseus-eng2 Antigone: A tale of destruction!
 
 cts:urn:tlg0085.tlg004:999
-glaux1.0-sentence: 469
+glaux1.0-sentence	469
 perseus-grc2.tb	ὀλοὰ δ’ ὁρᾶν .
 perseus-eng2 Ismene: Destruction to look upon!
 
 cts:urn:tlg0085.tlg004:1000
-glaux1.0-sentence: 470
+glaux1.0-sentence	470
 perseus-grc2.tb	ἰὼ πόνος — ἰὼ κακά — δώμασι καὶ χθονί .
 perseus-eng2 Antigone: Oh, the grief— Ismene: Oh, the evils— Antigone: For home and land.
 
 cts:urn:tlg0085.tlg004:1003
-glaux1.0-sentence: 471
+glaux1.0-sentence	471
 perseus-grc2.tb	πρὸ πάντων δ’ ἐμοί .
 perseus-eng2 Ismene: Above all for me,
 
 cts:urn:tlg0085.tlg004:1004
-glaux1.0-sentence: 472
+glaux1.0-sentence	472
 perseus-grc2.tb	καὶ τὸ πρόσω γ’ ἐμοί .
 perseus-eng2 Antigone: And more also for me.
 
 cts:urn:tlg0085.tlg004:1005
-glaux1.0-sentence: 473
+glaux1.0-sentence	473
 perseus-grc2.tb	ἰὼ ἰὼ δυστόνων κακῶν , ἄναξ .
 perseus-eng2 Ismene: Ah I pity your grievous suffering, my king.
 
 cts:urn:tlg0085.tlg004:1006
-glaux1.0-sentence: 474
+glaux1.0-sentence	474
 perseus-grc2.tb	ἰὼ πάντων πολυστονώτατοι .
 perseus-eng2 Antigone: Pity for you both, most lamentable of all men.
 
 cts:urn:tlg0085.tlg004:1007
-glaux1.0-sentence: 475
+glaux1.0-sentence	475
 perseus-grc2.tb	ἰὼ ἰὼ δαιμονῶντες ἄτᾳ .
 perseus-eng2 Ismene: You were possessed by delusion.
 
 cts:urn:tlg0085.tlg004:1008
-glaux1.0-sentence: 476
+glaux1.0-sentence	476
 perseus-grc2.tb	ἰὼ ἰώ , ποῦ σφε θήσομεν χθονός ;
 perseus-eng2 Antigone: Where shall we lay them in the earth?
 
 cts:urn:tlg0085.tlg004:1009
-glaux1.0-sentence: 477
+glaux1.0-sentence	477
 perseus-grc2.tb	ἰώ , ὅπου ’σ’τι τιμιώτατον .
 perseus-eng2 Ismene: Ah, where their honor is greatest.
 
 cts:urn:tlg0085.tlg004:1010
-glaux1.0-sentence: 478
+glaux1.0-sentence	478
 perseus-grc2.tb	ἰὼ ἰώ , πῆμα πατρὶ πάρευνον .
 perseus-eng2 Antigone: To lie beside their father, a cause for him of sorrow.
 
 cts:urn:tlg0085.tlg004:1011
-glaux1.0-sentence: 479
+glaux1.0-sentence	479
 perseus-grc2.tb	δοκοῦντα καὶ δόξαντ’ ἀπαγγέλλειν με χρὴ δήμου προβούλοις τῆσδε Καδμείας πόλεως ·
 perseus-eng2 It is my duty to announce the will and decrees of the council on behalf of the people of this our Cadmean city.
 
 cts:urn:tlg0085.tlg004:1013
-glaux1.0-sentence: 480
+glaux1.0-sentence	480
 perseus-grc2.tb	Ἐτεοκλέα μὲν τόνδ’ ἐπ’ εὐνοίᾳ χθονὸς θάπτειν ἔδοξε γῆς φίλαις κατασκαφαῖς ·
 perseus-eng2 It is decreed, first, that Eteocles here, on account of his goodwill towards the city, is to be buried in a kindly grave in its soil;
 
 cts:urn:tlg0085.tlg004:1015
-glaux1.0-sentence: 481
+glaux1.0-sentence	481
 perseus-grc2.tb	στυγῶν γὰρ ἐχθροὺς θάνατον εἵλετ’ ἐν πόλει ἱερῶν πατρῴων δ’ ὅσιος ὢν μομφῆς ἄτερ τέθνηκεν οὗπερ τοῖς νέοις θνῄσκειν καλόν .
 perseus-eng2 for hating the enemy he chose death in the city and driven by piety towards his ancestral shrines, he died without reproach where it is an honor for the young to die.
 
 cts:urn:tlg0085.tlg004:1018
-glaux1.0-sentence: 482
+glaux1.0-sentence	482
 perseus-grc2.tb	οὕτω μὲν ἀμφὶ τοῦδ’ ἐπέσταλται λέγειν ·
 perseus-eng2 This is how I was commanded to speak regarding him.
 
 cts:urn:tlg0085.tlg004:1019
-glaux1.0-sentence: 483
+glaux1.0-sentence	483
 perseus-grc2.tb	τούτου δ’ ἀδελφὸν τόνδε Πολυνείκους νεκρὸν ἔξω βαλεῖν ἄθαπτον , ἁρπαγὴν κυσίν , ὡς ὄντ’ ἀναστατῆρα Καδμείων χθονός , εἰ μὴ θεῶν τις ἐμποδὼν ἔστη δορὶ τῷ τοῦδ’ ·
 perseus-eng2 But as for his brother, it is decreed that this corpse of Polyneices is to be cast out of the city unburied to be torn by dogs, since he would
 perseus-eng2 have been the destroyer of the land of the Cadmeans, if one of the gods had not used his brother’s spear to prevent him.
 
 cts:urn:tlg0085.tlg004:1023
-glaux1.0-sentence: 484
+glaux1.0-sentence	484
 perseus-grc2.tb	.
 
 cts:urn:tlg0085.tlg004:1023
-glaux1.0-sentence: 485
+glaux1.0-sentence	485
 perseus-grc2.tb	ἄγος δὲ καὶ θανὼν κεκτήσεται θεῶν πατρῴων , οὓς ἀτιμάσας ὅδε στράτευμ’ ἐπακτὸν ἐμβαλὼν ᾕρει πόλιν .
 perseus-eng2 Even in death he will retain the stain of his guilt against his fathers’ gods, whom he dishonored
 
 cts:urn:tlg0085.tlg004:1026
-glaux1.0-sentence: 486
+glaux1.0-sentence	486
 perseus-grc2.tb	οὕτω πετηνῶν τόνδ’ ὑπ’ οἰωνῶν δοκεῖ ταφέντ’ ἀτίμως τ- ἐπιτίμιον λαβεῖν , καὶ μήθ’ ὁμαρτεῖν τυμβοχόα χειρώματα μήτ’ ὀξυμόλποις προσσέβειν οἰμώγμασιν , ἄτιμον εἶναι δ’ ἐκφορᾶς φίλων ὕπο .
 perseus-eng2 when he launched a foreign army against the city to take it. For this reason it is decreed that he will receive his reward by being buried without honor beneath the winged birds; and that no labor of the hands shall attend him by building up a burial mound nor shall anyone offer him reverence in shrill-sung laments. He is to be refused the honor of being carried in funeral procession by his loved ones.
 
 cts:urn:tlg0085.tlg004:1031
-glaux1.0-sentence: 487
+glaux1.0-sentence	487
 perseus-grc2.tb	τοιαῦτ’ ἔδοξε τῷδε Καδμείων τέλει .
 perseus-eng2 Such is the decree of the Cadmean authorities.
 
 cts:urn:tlg0085.tlg004:1032
-glaux1.0-sentence: 488
+glaux1.0-sentence	488
 perseus-grc2.tb	ἐγὼ δὲ Καδμείων γε προστάταις λέγω ·
 perseus-eng2 Antigone: I at least will say something to the rulers of the Cadmeans:
 
 cts:urn:tlg0085.tlg004:1033
-glaux1.0-sentence: 489
+glaux1.0-sentence	489
 perseus-grc2.tb	ἢν μή τις ἄλλος τόνδε συνθάπτειν θέλῃ , ἐγώ σφε θάψω κ- ἀνὰ κίνδυνον βαλῶ θάψασ’ ἀδελφὸν τὸν ἐμόν , οὐδ’ αἰσχύνομαι ἔχουσ’ ἄπιστον τήνδ’ ἀναρχίαν πόλει .
 perseus-eng2 even if no one else is willing to share in burying him, I will bury him alone and risk the peril of burying my own brother. Nor am I ashamed to act in defiant opposition to the rulers of the city.
 
 cts:urn:tlg0085.tlg004:1037
-glaux1.0-sentence: 490
+glaux1.0-sentence	490
 perseus-grc2.tb	δεινὸν τὸ κοινὸν σπλάγχνον , οὗ πεφύκαμεν , μητρὸς ταλαίνης κ- ἀπὸ δυστήνου πατρός .
 perseus-eng2 A thing to be held in awe is the common womb from which we were born, of a wretched mother and unfortunate father.
 
 cts:urn:tlg0085.tlg004:1039
-glaux1.0-sentence: 491
+glaux1.0-sentence	491
 perseus-grc2.tb	τοιγὰρ θέλουσ’ ἄκοντι κοινώνει κακῶν ψυχή , θανόντι ζῶσα συγγόνῳ φρενί .
 perseus-eng2 Therefore, my soul, willingly share his evils, even though they are unwilling, and live in kindred spirit with the dead.
 
 cts:urn:tlg0085.tlg004:1041
-glaux1.0-sentence: 492
+glaux1.0-sentence	492
 perseus-grc2.tb	τούτου δὲ σάρκας οὐδὲ κοιλογάστορες λύκοι σπάσονται ·
 perseus-eng2 No hollow-bellied wolves will tear his flesh—
 
 cts:urn:tlg0085.tlg004:1042
-glaux1.0-sentence: 493
+glaux1.0-sentence	493
 perseus-grc2.tb	μὴ δοκησάτω τινί .
 perseus-eng2 let no one decree that!
 
 cts:urn:tlg0085.tlg004:1043
-glaux1.0-sentence: 494
+glaux1.0-sentence	494
 perseus-grc2.tb	τάφον γὰρ αὐτῷ καὶ κατασκαφὰς ἐγώ , γυνή περ οὖσα , τῷδε μηχανήσομαι , κόλπῳ φέρουσα βυσσίνου πεπλώματος .
 perseus-eng2 Even though I am a woman, I will myself find the means to give him burial and a grave, carrying the earth in the fold of my linen robe.
 
 cts:urn:tlg0085.tlg004:1046
-glaux1.0-sentence: 495
+glaux1.0-sentence	495
 perseus-grc2.tb	κ- αὐτὴ καλύψω , μηδέ τῳ δόξῃ πάλιν ·
 perseus-eng2 With my own hands I will cover him over—let no one decree it otherwise.
 
 cts:urn:tlg0085.tlg004:1047
-glaux1.0-sentence: 496
+glaux1.0-sentence	496
 perseus-grc2.tb	θάρσει , παρέσται μηχανὴ δραστήριος .
 perseus-eng2 Take heart, I will have the means to do it.
 
 cts:urn:tlg0085.tlg004:1048
-glaux1.0-sentence: 497
+glaux1.0-sentence	497
 perseus-grc2.tb	αὐδῶ πόλιν σε μὴ βιάζεσθαι τάδε .
 perseus-eng2 Herald: I forbid you to act thus in violation of the city.
 
 cts:urn:tlg0085.tlg004:1049
-glaux1.0-sentence: 498
+glaux1.0-sentence	498
 perseus-grc2.tb	αὐδῶ σὲ μὴ περισσὰ κηρύσσειν ἐμοί .
 perseus-eng2 Antigone: I forbid you to make useless proclamations to me.
 
 cts:urn:tlg0085.tlg004:1050
-glaux1.0-sentence: 499
+glaux1.0-sentence	499
 perseus-grc2.tb	τραχύς γε μέντοι δῆμος ἐκφυγὼν κακά .
 perseus-eng2 Herald: And yet a citizenry that has escaped evil can be harsh.
 
 cts:urn:tlg0085.tlg004:1051
-glaux1.0-sentence: 500
+glaux1.0-sentence	500
 perseus-grc2.tb	τράχυν’ ·
 perseus-eng2 Antigone: Let it be harsh!
 
 cts:urn:tlg0085.tlg004:1051
-glaux1.0-sentence: 501
+glaux1.0-sentence	501
 perseus-grc2.tb	ἄθαπτος δ’ οὗτος οὐ γενήσεται .
 perseus-eng2 This man will not be unburied.
 
 cts:urn:tlg0085.tlg004:1052
-glaux1.0-sentence: 502
+glaux1.0-sentence	502
 perseus-grc2.tb	ἀλλ’ ὃν πόλις στυγεῖ , σὺ τιμήσεις τάφῳ , ;
 perseus-eng2 Herald: What! Will you honor with burial a man whom the city detests?
 
 cts:urn:tlg0085.tlg004:1053
-glaux1.0-sentence: 503
+glaux1.0-sentence	503
 perseus-grc2.tb	ἤδη τὰ τοῦδε διατετίμηται θεοῖς .
 perseus-eng2 Antigone: For a long time now the gods have ceased to hold him in honor.
 
 cts:urn:tlg0085.tlg004:1054
-glaux1.0-sentence: 504
+glaux1.0-sentence	504
 perseus-grc2.tb	οὔ , πρίν γε χώραν τήνδε κινδύνῳ βαλεῖν .
 perseus-eng2 Herald: No, he was honored until he put this land in jeopardy.
 
 cts:urn:tlg0085.tlg004:1055
-glaux1.0-sentence: 505
+glaux1.0-sentence	505
 perseus-grc2.tb	παθὼν κακῶς κακοῖσιν ἀντημείβετο .
 perseus-eng2 Antigone: He suffered evil and gave evil in return.
 
 cts:urn:tlg0085.tlg004:1056
-glaux1.0-sentence: 506
+glaux1.0-sentence	506
 perseus-grc2.tb	ἀλλ’ εἰς ἅπαντας ἀνθ’ ἑνὸς τόδ’ ἔργον ἦν .
 perseus-eng2 Herald: But this act was against all the citizens, not only one man.
 
 cts:urn:tlg0085.tlg004:1057
-glaux1.0-sentence: 507
+glaux1.0-sentence	507
 perseus-grc2.tb	ἔρις περαίνει μῦθον ὑστάτη θεῶν .
 perseus-eng2 Antigone: Discord is the last of the gods to close an argument.
 
 cts:urn:tlg0085.tlg004:1058
-glaux1.0-sentence: 508
+glaux1.0-sentence	508
 perseus-grc2.tb	ἐγὼ δὲ θάψω τόνδε ·
 perseus-eng2 I will bury him.
 
 cts:urn:tlg0085.tlg004:1058
-glaux1.0-sentence: 509
+glaux1.0-sentence	509
 perseus-grc2.tb	μὴ μακρηγόρει .
 perseus-eng2 Put an end to your big talk.
 
 cts:urn:tlg0085.tlg004:1059
-glaux1.0-sentence: 510
+glaux1.0-sentence	510
 perseus-grc2.tb	ἀλλ’ αὐτόβουλος ἴσθ’ , ἀπεννέπω δ’ ἐγώ .
 perseus-eng2 Herald: Well then, follow your own rash plan, but I forbid it.
 
 cts:urn:tlg0085.tlg004:1059b
-glaux1.0-sentence: 511
+glaux1.0-sentence	511
 perseus-grc2.tb	φεῦ φεῦ .
 perseus-eng2 Chorus: Ah, misery!
 
 cts:urn:tlg0085.tlg004:1060
-glaux1.0-sentence: 512
+glaux1.0-sentence	512
 perseus-grc2.tb	ὦ μεγάλαυχοι καὶ φθερσιγενεῖς Κῆρες Ἐρινύες , αἵτ’ Οἰδιπόδα γένος ὠλέσατε πρυμνόθεν οὕτως , τί πάθω ;
 perseus-eng2 O Erinyes, far-famed destroyers of families, goddesses of death who have thus laid ruin to the family of Oedipus, digging it up from the roots! What will happen to me?
 
 cts:urn:tlg0085.tlg004:1063
-glaux1.0-sentence: 513
+glaux1.0-sentence	513
 perseus-grc2.tb	τί δὲ δρῶ ;
 perseus-eng2 What should I do?
 
 cts:urn:tlg0085.tlg004:1063
-glaux1.0-sentence: 514
+glaux1.0-sentence	514
 perseus-grc2.tb	τί δὲ μήσωμαι ;
 perseus-eng2 What plan shall I devise?
 
 cts:urn:tlg0085.tlg004:1064
-glaux1.0-sentence: 515
+glaux1.0-sentence	515
 perseus-grc2.tb	πῶς τολμήσω μήτε σὲ κλαίειν μήτε προπέμπειν ἐπὶ τύμβον ·
 perseus-eng2 How can I have the heart neither to weep for you nor escort you to your tomb?
 
 cts:urn:tlg0085.tlg004:1066
-glaux1.0-sentence: 516
+glaux1.0-sentence	516
 perseus-grc2.tb	ἀλλὰ φοβοῦμαι κ- ἀποτρέπομαι δεῖμα πολιτῶν .
 perseus-eng2 But I am afraid and turn away in terror of the citizens.
 
 cts:urn:tlg0085.tlg004:1068
-glaux1.0-sentence: 517
+glaux1.0-sentence	517
 perseus-grc2.tb	σύ γε μὴν πολλῶν πενθητήρων τεύξει ·
 perseus-eng2 You, at least, Eteocles, will have many mourners,
 
 cts:urn:tlg0085.tlg004:1069
-glaux1.0-sentence: 518
+glaux1.0-sentence	518
 perseus-grc2.tb	κεῖνος δ’ ὁ τάλας ἄγοος μονόκλαυτον ἔχων θρῆνον ἀδελφῆς εἶσιν ·
 perseus-eng2 while he, wretched man, departs without lamentation and has a dirge sung only by one sister.
 
 cts:urn:tlg0085.tlg004:1071
-glaux1.0-sentence: 519
+glaux1.0-sentence	519
 perseus-grc2.tb	τίς ἂν οὖν τὰ πίθοιτο ;
 perseus-eng2 Now who could comply with that?
 
 cts:urn:tlg0085.tlg004:1072
-glaux1.0-sentence: 520
+glaux1.0-sentence	520
 perseus-grc2.tb	δράτω τι πόλις καὶ μὴ δράτω τοὺς κλαίοντας Πολυνείκη .
 perseus-eng2 First Half-Chorus: Let the city take action or not take action against those who lament for Polynices.
 
 cts:urn:tlg0085.tlg004:1074
-glaux1.0-sentence: 521
+glaux1.0-sentence	521
 perseus-grc2.tb	ἡμεῖς μὲν ἴμεν καὶ συνθάψομεν αἵδε προπομποί .
 perseus-eng2 We, at all events, will go and bury him with her, following the funeral procession.
 
 cts:urn:tlg0085.tlg004:1075
-glaux1.0-sentence: 522
+glaux1.0-sentence	522
 perseus-grc2.tb	καὶ γὰρ γενεᾷ κοινὸν τόδ’ ἄχος , καὶ πόλις ἄλλως ἄλλοτ’ ἐπαινεῖ τὰ δίκαια .
 perseus-eng2 For this grief is shared by all our race, and the city approves as just different things at different times.
 
 cts:urn:tlg0085.tlg004:1078
-glaux1.0-sentence: 523
+glaux1.0-sentence	523
 perseus-grc2.tb	ἡμεῖς δ’ ἅμα τῷδ’ , ὥσπερ τε πόλις καὶ τὸ δίκαιον ξυνεπαινεῖ .
 perseus-eng2 Second Half-Chorus: We will go with this other corpse, as the city and justice, too, approves.
 
 cts:urn:tlg0085.tlg004:1080
-glaux1.0-sentence: 524
+glaux1.0-sentence	524
 perseus-grc2.tb	μετὰ γὰρ μάκαρας καὶ Διὸς ἰσχὺν ὅδε Καδμείων ἤρυξε πόλιν μὴ ’νατραπῆναι μηδ’ ἀλλοδαπῷ κύματι φωτῶν κατακλυσθῆναι τὰ μάλιστα .
 perseus-eng2 For after the blessed gods and powerful Zeus, he it was who saved the city of the Cadmeans from being capsized and flooded by a wave of foreign men—he beyond all others.
 perseus-eng2 We will bury him with her, as funeral escorts.

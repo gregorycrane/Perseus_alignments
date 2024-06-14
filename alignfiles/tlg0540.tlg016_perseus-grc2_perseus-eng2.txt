@@ -1,0 +1,270 @@
+
+cts:urn:tlg0540.tlg016:1
+glaux2.0-sentence	1
+perseus-grc2	 εἰ μὴ συνῄδη , ὦ βουλή , τοῖς κατηγόροις βουλομένοις ἐκ παντὸς τρόπου κακῶς ἐμὲ ποιεῖν , πολλὴν ἂν αὐτοῖς χάριν εἶχον ταύτης τῆς κατηγορίας ·
+perseus-eng2	 If I were not conscious, gentlemen of the Council, that my accusers are seeking every possible means of injuring me, I should feel most grateful to them for this accusation;
+
+cts:urn:tlg0540.tlg016:1
+glaux2.0-sentence	2
+perseus-grc2	 ἡγοῦμαι γὰρ τοῖς ἀδίκως διαβεβλημένοις τούτους εἶναι μεγίστων ἀγαθῶν αἰτίους , οἵτινες ἂν αὐτοὺς ἀναγκάζωσιν εἰς ἔλεγχον τῶν αὐτοῖς βεβιωμένων καταστῆναι .
+perseus-eng2	 since I consider that the victims of unjust slander have the greatest service rendered to them by anyone who will compel them to undergo an examination of the record of their lives.
+
+cts:urn:tlg0540.tlg016:2
+glaux2.0-sentence	3
+perseus-grc2	 ἐγὼ γὰρ οὕτω σφόδρα ἐμαυτῷ πιστεύω , ὥστ’ ἐλπίζω καὶ εἴ τις πρός με τυγχάνει ἀηδῶς διακείμενος , ἐπειδὰν ἐμοῦ λέγοντος ἀκούσῃ περὶ τῶν πεπραγμένων , μεταμελήσειν αὐτῷ καὶ πολὺ βελτίω με εἰς τὸν λοιπὸν χρόνον ἡγήσεσθαι .
+perseus-eng2	 For I have so strong a confidence in myself that, if there is anyone who is inclined to dislike me, I hope that when he has heard me speak of my conduct in the past he will change his mind, and will think much better of me in the future.
+
+cts:urn:tlg0540.tlg016:3
+glaux2.0-sentence	4
+perseus-grc2	 ἀξιῶ δέ , ὦ βουλή , ἐὰν μὲν τοῦτο μόνον ὑμῖν ἐπιδείξω , ὡς εὔνους εἰμὶ τοῖς καθεστηκόσι πράγμασι καὶ ὡς ἠνάγκασμαι τῶν αὐτῶν κινδύνων μετέχειν ὑμῖν , μηδέν πώ μοι πλέον εἶναι ·
+perseus-eng2	 Now, gentlemen, I make no claim to special merit, if I merely make plain to you that I am a supporter of the existing constitution and have been compelled to take my own share in your dangers:
+
+cts:urn:tlg0540.tlg016:3
+glaux2.0-sentence	5
+perseus-grc2	 ἐὰν δὲ φαίνωμαι καὶ περὶ τὰ ἄλλα μετρίως βεβιωκὼς καὶ πολὺ παρὰ τὴν δόξαν καὶ παρὰ τοὺς λόγους τοὺς τῶν ἐχθρῶν , δέομαι ὑμῶν ἐμὲ μὲν δοκιμάζειν , τούτους δὲ ἡγεῖσθαι χείρους εἶναι .
+perseus-eng2	 but if I am found to have lived, in all other respects, a regular life, quite contrary to the opinion and statements of my enemies, I request you to pass me through and to think the worse of these persons.
+
+cts:urn:tlg0540.tlg016:3
+glaux2.0-sentence	6
+perseus-grc2	 πρῶτον δὲ ἀποδείξω ὡς οὐχ ἵππευον οὐ -δ’ ἐπεδήμουν ἐπὶ τῶν τριάκοντα , οὐ -δὲ μετέσχον τῆς τότε πολιτείας .
+perseus-eng2	 I will begin by showing that I did not serve in the cavalry or reside here under the Thirty, and that I had no hand in the government of that time.
+
+cts:urn:tlg0540.tlg016:4
+glaux2.0-sentence	7
+perseus-grc2	 ἡμᾶς γὰρ ὁ πατὴρ πρὸ τῆς ἐν Ἑλλησπόντῳ συμφορᾶς ὡς Σάτυρον τὸν ἐν τῷ Πόντῳ διαιτησομένους ἐξέπεμψε , καὶ οὔ -τε τῶν τειχῶν καθαιρουμένων ἐπεδημοῦμεν οὔ -τε μεθισταμένης τῆς πολιτείας , ἀλλ’ ἤλθομεν πρὶν τοὺς ἀπὸ Φυλῆς εἰς τὸν Πειραιᾶ κατελθεῖν πρότερον πένθ’ ἡμέραις .
+perseus-eng2	 Our father, before the disaster at the Hellespont , had sent us abroad to live at the court of Satyrus, on the Pontus . We were not residing in Athens  either when the walls were being demolished or when the constitution was being changed. We came here five days before the people at Phyle  returned to the Peiraeus.
+
+cts:urn:tlg0540.tlg016:5
+glaux2.0-sentence	8
+perseus-grc2	 καίτοι οὔ -τε ἡμᾶς εἰκὸς ἦν εἰς τοιοῦτον καιρὸν ἀφιγμένους ἐπιθυμεῖν μετέχειν τῶν ἀλλοτρίων κινδύνων , οὔ -τ’ ἐκεῖνοι φαίνονται τοιαύτην γνώμην ἔχοντες ὥστε καὶ τοῖς ἀποδημοῦσι καὶ τοῖς μηδὲν ἐξαμαρτάνουσι μεταδιδόναι τῆς πολιτείας , ἀλλὰ μᾶλλον ἠτίμαζον καὶ τοὺς συγκαταλύσαντας τὸν δῆμον .
+perseus-eng2	 Surely it was not to be expected that, having arrived at such a moment, we should want to share in dangers that concerned others; while obviously the Thirty were in no mind to share the government with men who were residing abroad and were guilt of no crime: they were rather disfranchising even the men who had helped them to overthrow the democracy.
+
+cts:urn:tlg0540.tlg016:6
+glaux2.0-sentence	9
+perseus-grc2	 ἔπειτα δὲ ἐκ μὲν τοῦ σανιδίου τοὺς ἱππεύσαντας σκοπεῖν εὔηθές ἐστιν .
+perseus-eng2	 Moreover, to refer to the register for those who served in the cavalry is puerile:
+
+cts:urn:tlg0540.tlg016:6
+glaux2.0-sentence	10
+perseus-grc2	 ἐν τούτῳ γὰρ πολλοὶ μὲν τῶν ὁμολογούντων ἱππεύειν οὐκ ἔνεισιν , ἔνιοι δὲ τῶν ἀποδημούντων ἐγγεγραμμένοι εἰσίν .
+perseus-eng2	 for it does not include many of those who admit that they served, while some who were absent abroad are on the list.
+
+cts:urn:tlg0540.tlg016:6
+glaux2.0-sentence	11
+perseus-grc2	 ἐκεῖνος δ’ ἐστὶν ἔλεγχος μέγιστος ·
+perseus-eng2	 But the strongest proof lies in the fact that,
+
+cts:urn:tlg0540.tlg016:6
+glaux2.0-sentence	12
+perseus-grc2	 ἐπειδὴ γὰρ κατήλθετε , ἐψηφίσασθε τοὺς φυλάρχους ἀπενεγκεῖν τοὺς ἱππεύσαντας , ἵνα τὰς καταστάσεις ἀναπράξητε παρ’ αὐτῶν .
+perseus-eng2	 after you had returned, you voted that the tribal officers should make out a list of those who had served in the cavalry, so that you might recover the allowances from them.
+
+cts:urn:tlg0540.tlg016:7
+glaux2.0-sentence	13
+perseus-grc2	 ἐμὲ τοίνυν οὐδεὶς ἂν ἀποδείξειεν οὔ -τ’ ἀπενεχθέντα ὑπὸ τῶν φυλάρχων οὔ -τε παραδοθέντα τοῖς συνδίκοις οὔ -τε κατάστασιν καταβαλόντα .
+perseus-eng2	 Well, nobody will be able to show that I was either put on the list by the tribal officers or reported to the Revenue Commission or made to refund an allowance:
+
+cts:urn:tlg0540.tlg016:7
+glaux2.0-sentence	14
+perseus-grc2	 καίτοι πᾶσι ῥᾴδιον τοῦτο γνῶναι , ὅτι ἀναγκαῖον ἦν τοῖς φυλάρχοις , εἰ μὴ ἀποδείξειαν τοὺς ἔχοντας τὰς καταστάσεις , αὐτοῖς ζημιοῦσθαι .
+perseus-eng2	 yet it is within the knowledge of all that the tribal officers were under the necessity, if they failed to show who had the allowances, of bearing the loss themselves.
+
+cts:urn:tlg0540.tlg016:7
+glaux2.0-sentence	15
+perseus-grc2	 ὥστε πολὺ ἂν δικαιότερον ἐκείνοις τοῖς γράμμασιν ἢ τούτοις πιστεύοιτε ·
+perseus-eng2	 Hence you would be far more justified in relying on these lists than on the register:
+
+cts:urn:tlg0540.tlg016:7
+glaux2.0-sentence	16
+perseus-grc2	 ἐκ μὲν γὰρ τούτων ῥᾴδιον ἦν ἐξαλειφθῆναι τῷ βουλομένῳ , ἐν ἐκείνοις δὲ τοὺς ἱππεύσαντας ἀναγκαῖον ἦν ὑπὸ τῶν φυλάρχων ἀπενεχθῆναι .
+perseus-eng2	 for anyone who wished could easily have his name erased from the latter; but in the former the tribal officers were obliged to record those who had served.
+
+cts:urn:tlg0540.tlg016:8
+glaux2.0-sentence	17
+perseus-grc2	 ἔτι δέ , ὦ βουλή , εἴπερ ἵππευσα , οὐκ ἂν ἦ ἔξαρνος ὡς δεινόν τι πεποιηκώς , ἀλλ’ ἠξίουν , ἀποδείξας ὡς οὐδεὶς ὑπ’ ἐμοῦ τῶν πολιτῶν κακῶς πέπονθε , δοκιμάζεσθαι .
+perseus-eng2	 Besides, gentlemen if I had served, I should not deny it as though I had done something monstrous:
+
+cts:urn:tlg0540.tlg016:8
+glaux2.0-sentence	18
+perseus-grc2	 ὁρῶ δὲ καὶ ὑμᾶς ταύτῃ τῇ γνώμῃ χρωμένους , καὶ πολλοὺς μὲν τῶν τότε ἱππευσάντων βουλεύοντας , πολλοὺς δ’ αὐτῶν στρατηγοὺς καὶ ἱππάρχους κεχειροτονημένους .
+perseus-eng2	 I should merely claim, after showing that no citizen had suffered injury by my act, to pass the scrutiny. And I see that you also take this view, and that many of those who served then in the cavalry are on the Council, while many others have been elected generals and brigadiers.
+
+cts:urn:tlg0540.tlg016:8
+glaux2.0-sentence	19
+perseus-grc2	 ὥστε μηδὲν δι’ ἄλλο με ἡγεῖσθε ταύτην ποιεῖσθαι τὴν ἀπολογίαν , ἢ ὅτι περιφανῶς ἐτόλμησάν μου καταψεύσασθαι .
+perseus-eng2	 You must therefore conclude that my only reason for making this defense is that they have dared thus openly to attack me with a falsehood.
+
+cts:urn:tlg0540.tlg016:8
+glaux2.0-sentence	20
+perseus-grc2	 ἀνάβηθι δέ μοι καὶ μαρτύρησον .
+perseus-eng2	 Mount the dais, please and bear witness.
+
+cts:urn:tlg0540.tlg016:9
+glaux2.0-sentence	21
+perseus-grc2	 περὶ μὲν τοίνυν αὐτῆς τῆς αἰτίας οὐκ οἶδ’ ὅ τι δεῖ πλείω λέγειν ·
+perseus-eng2	 Now, as regards the charge itself, I do not see what more there is to say.
+
+cts:urn:tlg0540.tlg016:9
+glaux2.0-sentence	22
+perseus-grc2	 δοκεῖ δέ μοι , ὦ βουλή , ἐν μὲν τοῖς ἄλλοις ἀγῶσι περὶ αὐτῶν μόνων τῶν κατηγορημένων προσήκειν ἀπολογεῖσθαι , ἐν δὲ ταῖς δοκιμασίαις δίκαιον εἶναι παντὸς τοῦ βίου λόγον διδόναι .
+perseus-eng2	 But it seems to me, gentlemen, that although in other trials one ought to confine one’s defence to the actual points of the accusation, in the case of scrutinies one has a right to render an account of one’s whole life.
+
+cts:urn:tlg0540.tlg016:9
+glaux2.0-sentence	23
+perseus-grc2	 δέομαι οὖν ὑμῶν μετ’ εὐνοίας ἀκροάσασθαί μου .
+perseus-eng2	 I request you, therefore, to give me a favorable hearing:
+
+cts:urn:tlg0540.tlg016:9
+glaux2.0-sentence	24
+perseus-grc2	 ποιήσομαι δὲ τὴν ἀπολογίαν ὡς ἂν δύνωμαι διὰ βραχυτάτων .
+perseus-eng2	 I will make my defence as briefly as I can.
+
+cts:urn:tlg0540.tlg016:10
+glaux2.0-sentence	25
+perseus-grc2	 ἐγὼ γὰρ πρῶτον μὲν , οὐσίας μοι οὐ πολλῆς καταλειφθείσης διὰ τὰς συμφορὰς καὶ τὰς τοῦ πατρὸς καὶ τὰς τῆς πόλεως , δύο μὲν ἀδελφὰς ἐξέδωκα ἐπιδοὺς τριάκοντα μνᾶς ἑκατέρᾳ , πρὸς τὸν ἀδελφὸν δ’ οὕτως ἐνειμάμην ὥστ’ ἐκεῖνον πλέον ὁμολογεῖν ἔχειν ἐμοῦ τῶν πατρῴων , καὶ πρὸς τοὺς ἄλλους ἅπαντας οὕτως βεβίωκα ὥστε μηδεπώποτέ μοι μη -δὲ πρὸς ἕνα μηδὲν ἔγκλημα γενέσθαι .
+perseus-eng2	 In the first place, although but little property had been bequeathed to me, owing to the disasters that had befallen both my father and the city, I bestowed two sisters in marriage with a dowry of thirty minae apiece; to my brother I allowed such a portion as made him acknowledge that he had got a larger share of our patrimony than I had; and towards everyone else my behavior has been such that never to this day has a single person shown any grievance against me.
+
+cts:urn:tlg0540.tlg016:11
+glaux2.0-sentence	26
+perseus-grc2	 καὶ τὰ μὲν ἴδια οὕτως διῴκηκα ·
+perseus-eng2	 So much for the tenor of my private life:
+
+cts:urn:tlg0540.tlg016:11
+glaux2.0-sentence	27
+perseus-grc2	 περὶ δὲ τῶν κοινῶν μοι μέγιστον ἡγοῦμαι τεκμήριον εἶναι τῆς ἐμῆς ἐπιεικείας , ὅτι τῶν νεωτέρων ὅσοι περὶ κύβους ἢ πότους ἢ τὰς τοιαύτας ἀκολασίας τυγχάνουσι τὰς διατριβὰς ποιούμενοι , πάντας αὐτοὺς ὄψεσθέ μοι διαφόρους ὄντας , καὶ πλεῖστα τούτους περὶ ἐμοῦ λογοποιοῦντας καὶ ψευδομένους .
+perseus-eng2	 with regard to public matters, I hold that the strongest proof I can give of my decorous conduct is the fact that all the younger set who are found to take their diversion in dice or drink or the like dissipations are, as you will observe, at feud with me, and are most prolific in lying tales about me.
+
+cts:urn:tlg0540.tlg016:11
+glaux2.0-sentence	28
+perseus-grc2	 καίτοι δῆλον ὅτι , εἰ τῶν αὐτῶν ἐπεθυμοῦμεν , οὐκ ἂν τοιαύτην γνώμην εἶχον περὶ ἐμοῦ .
+perseus-eng2	 It is obvious, surely, that if we were at one in our desires they would not regard me with such feelings.
+
+cts:urn:tlg0540.tlg016:12
+glaux2.0-sentence	29
+perseus-grc2	 ἔτι δ’ , ὦ βουλή , οὐδεὶς ἂν ἀποδεῖξαι περὶ ἐμοῦ δύναιτο οὔ -τε δίκην αἰσχρὰν οὔ -τε γραφὴν οὔ -τε εἰσαγγελίαν γεγενημένην ·
+perseus-eng2	 And moreover, gentlemen, nobody will be able to prove that I have ever been cited in a disgraceful private suit, or in public proceedings or in a special impeachment;
+
+cts:urn:tlg0540.tlg016:12
+glaux2.0-sentence	30
+perseus-grc2	 καίτοι ἑτέρους ὁρᾶτε πολλάκις εἰς τοιούτους ἀγῶνας καθεστηκότας .
+perseus-eng2	 yet you see others frequently involved in such trials.
+
+cts:urn:tlg0540.tlg016:12
+glaux2.0-sentence	31
+perseus-grc2	 πρὸς τοίνυν τὰς στρατείας καὶ τοὺς κινδύνους τοὺς πρὸς τοὺς πολεμίους σκέψασθε οἷον ἐμαυτὸν παρέχω τῇ πόλει .
+perseus-eng2	 Again, as regards campaigns and dangers in face of the enemy, observe how I discharge my duty to the State.
+
+cts:urn:tlg0540.tlg016:13
+glaux2.0-sentence	32
+perseus-grc2	 πρῶτον μὲν γάρ , ὅτε τὴν συμμαχίαν ἐποιήσασθε πρὸς Βοιωτοὺς καὶ εἰς Ἁλίαρτον ἔδει βοηθεῖν , ὑπὸ Ὀρθοβούλου κατειλεγμένος ἱππεύειν , ἐπειδὴ πάντας ἑώρων τοῖς μὲν ἱππεύουσιν ἀσφάλειαν εἶναι δεῖν νομίζοντας , τοῖς δ’ ὁπλίταις κίνδυνον ἡγουμένους , ἑτέρων ἀναβάντων ἐπὶ τοὺς ἵππους ἀδοκιμάστων παρὰ τὸν νόμον ἐγὼ προσελθὼν ἔφην τῷ Ὀρθοβούλῳ ἐξαλεῖψαί με ἐκ τοῦ καταλόγου , ἡγούμενος αἰσχρὸν εἶναι τοῦ πλήθους μέλλοντος κινδυνεύειν ἄδειαν ἐμαυτῷ παρασκευάσαντα στρατεύεσθαι .
+perseus-eng2	 First of all, when you made your alliance with the Boeotians, and we had to go to the relief of Haliartus, I had been enrolled by Orthobulus for service in the cavalry: I saw that it was everyone’s opinion that, whereas the cavalry were assured of safety, the infantry would have to face danger;
+
+cts:urn:tlg0540.tlg016:13
+glaux2.0-sentence	33
+perseus-grc2	 καί μοι ἀνάβηθι , Ὀρθόβουλε .
+perseus-eng2	 so, while others mounted on horseback illegally, without having passed the scrutiny, I went up to Orthobulus and told him to strike me off the roll, as I thought it shameful, while the majority were to face danger, to take the field with precaution for my own security. Come forward, please, Orthobulus.
+
+cts:urn:tlg0540.tlg016:14
+glaux2.0-sentence	34
+perseus-grc2	 συλλεγέντων τοίνυν τῶν δημοτῶν πρὸ τῆς ἐξόδου , εἰδὼς αὐτῶν ἐνίους πολίτας μὲν χρηστοὺς ὄντας καὶ προθύμους , ἐφοδίων δὲ ἀποροῦντας , εἶπον ὅτι χρὴ τοὺς ἔχοντας παρέχειν τὰ ἐπιτήδεια τοῖς ἀπόρως διακειμένοις .
+perseus-eng2	 Now, when the townsmen had assembled together before their setting out, as I knew that some among them, though true and ardent patriots, lacked means for expenses of service, I said that the well-to-do ought to provide what was necessary for those in needy circumstances.
+
+cts:urn:tlg0540.tlg016:14
+glaux2.0-sentence	35
+perseus-grc2	 καὶ οὐ μόνον τοῦτο συνεβούλευον τοῖς ἄλλοις , ἀλλὰ καὶ αὐτὸς ἔδωκα δυοῖν ἀνδροῖν τριάκοντα δραχμὰς ἑκατέρῳ , οὐχ ὡς πολλὰ κεκτημένος , ἀλλ’ ἵνα παράδειγμα τοῦτο τοῖς ἄλλοις γένηται .
+perseus-eng2	 Not only did I recommend this to the others, but I myself gave thirty drachmae each to two men; not as being a person of great possessions, but to set a good example to the others.
+
+cts:urn:tlg0540.tlg016:14
+glaux2.0-sentence	36
+perseus-grc2	 καί μοι ἀνάβητε .
+perseus-eng2	 Come forward, please.
+
+cts:urn:tlg0540.tlg016:15
+glaux2.0-sentence	37
+perseus-grc2	 μετὰ ταῦτα τοίνυν , ὦ βουλή , εἰς Κόρινθον ἐξόδου γενομένης καὶ πάντων προειδότων ὅτι δεήσει κινδυνεύειν , ἑτέρων ἀναδυομένων ἐγὼ διεπραξάμην ὥστε τῆς πρώτης τεταγμένος μάχεσθαι τοῖς πολεμίοις ·
+perseus-eng2	 Then after that, gentlemen, there was the expedition to Corinth; and everyone knew beforehand that it must be a dangerous affair.
+
+cts:urn:tlg0540.tlg016:15
+glaux2.0-sentence	38
+perseus-grc2	 καὶ μάλιστα τῆς ἡμετέρας φυλῆς δυστυχησάσης , καὶ πλείστων ἐναποθανόντων ὕστερος ἀνεχώρησα τοῦ σεμνοῦ Στειριῶς τοῦ πᾶσιν ἀνθρώποις δειλίαν ὠνειδικότος .
+perseus-eng2	 Some were trying to shirk their duty, but I contrived to have myself posted in the front rank for our battle with the enemy. Our tribe had the worst fortune, and suffered the heaviest losses in the ranks: I retired from the field later than the fine fellow of Steiria who has been reproaching everybody with cowardice.
+
+cts:urn:tlg0540.tlg016:16
+glaux2.0-sentence	39
+perseus-grc2	 καὶ οὐ πολλαῖς ἡμέραις ὕστερον μετὰ ταῦτα ἐν Κορίνθῳ χωρίων ἰσχυρῶν κατειλημμένων , ὥστε τοὺς πολεμίους μὴ δύνασθαι παριέναι , Ἀγησιλάου δ’ εἰς τὴν Βοιωτίαν ἐμβαλόντος ψηφισαμένων τῶν ἀρχόντων ἀποχωρίσαι τάξεις αἵτινες βοηθήσουσι , φοβουμένων ἁπάντων
+perseus-eng2	 Not many days after this event some strong posts in Corinth had been occupied, to prevent the passage of the enemy: when Agesilaus had forced his way into Boeotia, the commanders decided to detach some battalions to the rescue; everyone felt afraid
+
+cts:urn:tlg0540.tlg016:16
+glaux2.0-sentence	40
+perseus-grc2	 ( εἰκότως , ὦ βουλή · δεινὸν γὰρ ἦν ἀγαπητῶς ὀλίγῳ πρότερον σεσωσμένους ἐφ’ ἕτερον κίνδυνον ἰέναι ) προσελθὼν ἐγὼ τὸν ταξίαρχον ἐκέλευον ἀκληρωτὶ τὴν ἡμετέραν τάξιν πέμπειν .
+perseus-eng2	 (with some reason, gentlemen: for it was a serious thing, when they had just previously felt the relief of getting off in safety, to face a fresh danger), but I went to the commander and urged him to dispatch our battalion without drawing lots.
+
+cts:urn:tlg0540.tlg016:17
+glaux2.0-sentence	41
+perseus-grc2	 ὥστ’ εἴ τινες ὑμῶν ὀργίζονται τοῖς τὰ μὲν τῆς πόλεως ἀξιοῦσι πράττειν , ἐκ δὲ τῶν κινδύνων ἀποδιδράσκουσιν , οὐκ ἂν δικαίως περὶ ἐμοῦ τὴν γνώμην ταύτην ἔχοιεν ·
+perseus-eng2	 So if any of you are incensed against those who claim the management of the city’s affairs and yet evade its dangers, you can have no right to regard me with any such feeling;
+
+cts:urn:tlg0540.tlg016:17
+glaux2.0-sentence	42
+perseus-grc2	 οὐ γὰρ μόνον τὰ προσταττόμενα ταττόμενα ἐποίουν προθύμως , ἀλλὰ καὶ κινδυνεύειν ἐτόλμων .
+perseus-eng2	 for I not only carried out my orders with zeal, but I was also forward to face danger.
+
+cts:urn:tlg0540.tlg016:17
+glaux2.0-sentence	43
+perseus-grc2	 καὶ ταῦτ’ ἐποίουν οὐχ ὡς οὐ δεινὸν ἡγούμενος εἶναι Λακεδαιμονίοις μάχεσθαι , ἀλλ’ ἵνα , εἴ ποτε ἀδίκως εἰς κίνδυνον καθισταίμην , διὰ ταῦτα βελτίων ὑφ’ ὑμῶν νομιζόμενος ἁπάντων τῶν δικαίων τυγχάνοιμι .
+perseus-eng2	 I acted in this way, not because I did not think it a serious thing to do battle with the Lacedaemonians, but in order that, if ever I should be involved in an unjust prosecution, the better opinion that you would form of me on this account might avail to secure me the full measure of my rights.
+
+cts:urn:tlg0540.tlg016:17
+glaux2.0-sentence	44
+perseus-grc2	 καί μοι ἀνάβητε τούτων μάρτυρες .
+perseus-eng2	 Now let the witnesses to this come forward, please.
+
+cts:urn:tlg0540.tlg016:18
+glaux2.0-sentence	45
+perseus-grc2	 τῶν τοίνυν ἄλλων στρατειῶν καὶ φρουρῶν οὐδεμιᾶς ἀπελείφθην πώποτε , ἀλλὰ πάντα τὸν χρόνον διατετέλεκα μετὰ τῶν πρώτων μὲν τὰς ἐξόδους ποιούμενος , μετὰ τῶν τελευταίων δὲ ἀναχωρῶν ·
+perseus-eng2	 Witnesses In every other campaign or outpost I have never once failed in my duty, but have adhered throughout to my rule of marching out in the first rank and retreating in the last.
+
+cts:urn:tlg0540.tlg016:18
+glaux2.0-sentence	46
+perseus-grc2	 καίτοι χρὴ τοὺς φιλοτίμως καὶ κοσμίως πολιτευομένους ἐκ τῶν τοιούτων σκοπεῖν , ἀλλ’ οὐκ εἴ τις κομᾷ , διὰ τοῦτο μισεῖν ·
+perseus-eng2	 Surely it is by such conduct that one ought to judge who are the aspiring and orderly subjects of the State, and not to take the fact of a man’s wearing his hair long as a reason for hating him;
+
+cts:urn:tlg0540.tlg016:18
+glaux2.0-sentence	47
+perseus-grc2	 τὰ μὲν γὰρ τοιαῦτα ἐπιτηδεύματα οὔ -τε τοὺς ἰδιώτας οὔ -τε τὸ κοινὸν τῆς πόλεως βλάπτει , ἐκ δὲ τῶν κινδυνεύειν ἐθελόντων πρὸς τοὺς πολεμίους ἅπαντες ὑμεῖς ὠφελεῖσθε .
+perseus-eng2	 for such habits as this do no harm either to private persons or to the public weal, while it is from those who are ready to face danger before the enemy that you all derive advantage.
+
+cts:urn:tlg0540.tlg016:19
+glaux2.0-sentence	48
+perseus-grc2	 ὥστε οὐκ ἄξιον ἀπ’ ὄψεως , ὦ βουλή , οὔ -τε φιλεῖν οὔ -τε μισεῖν οὐδένα , ἀλλ’ ἐκ τῶν ἔργων σκοπεῖν ·
+perseus-eng2	 Hence it is not fair, gentlemen, to like or dislike any man because of his appearance, but rather to judge him by his actions;
+
+cts:urn:tlg0540.tlg016:19
+glaux2.0-sentence	49
+perseus-grc2	 πολλοὶ μὲν γὰρ μικρὸν διαλεγόμενοι καὶ κοσμίως ἀμπεχόμενοι μεγάλων κακῶν αἴτιοι γεγόνασιν , ἕτεροι δὲ τῶν τοιούτων ἀμελοῦντες πολλὰ κα- κἀγαθὰ ὑμᾶς εἰσιν εἰργασμένοι .
+perseus-eng2	 for many who are modest in speech and sober in dress have been the cause of grievous mischief, while others who are careless of such things have done you many a valuable service.
+
+cts:urn:tlg0540.tlg016:20
+glaux2.0-sentence	50
+perseus-grc2	 ἤδη δέ τινων ᾐσθόμην , ὦ βουλή , καὶ διὰ ταῦτα ἀχθομένων μοι , ὅτι νεώτερος ὢν ἐπεχείρησα λέγειν ἐν τῷ δήμῳ .
+perseus-eng2	 I have had occasion to observe, gentlemen, that some people are annoyed with me merely for attempting at too early an age to speak before the people.
+
+cts:urn:tlg0540.tlg016:20
+glaux2.0-sentence	51
+perseus-grc2	 ἐγὼ δὲ τὸ μὲν πρῶτον ἠναγκάσθην ὑπὲρ τῶν ἐμαυτοῦ πραγμάτων δημηγορῆσαι , ἔπειτα μέντοι καὶ ἐμαυτῷ δοκῶ φιλοτιμότερον διατεθῆναι τοῦ δέοντος , ἅμα μὲν τῶν προγόνων ἐνθυμούμενος , ὅτι οὐδὲν πέπαυνται τὰ τῆς πόλεως πράττοντες ,
+perseus-eng2	 But, in the first place, I was compelled to speak in public to protect my own interests; and indeed, in the second, I do feel that my tendency has been unduly enterprising: for in reflecting on my ancestors, and how they have continually taken part in the administration, I had you also in my view —
+
+cts:urn:tlg0540.tlg016:21
+glaux2.0-sentence	51a
+perseus-grc2	 ἅμα δὲ ὑμᾶς ὁρῶν ( τὰ γὰρ ἀληθῆ χρὴ λέγειν ) τοὺς τοιούτους μόνους τινὸς ἀξίους νομίζοντας εἶναι , ὥστε ὁρῶν ὑμᾶς ταύτην τὴν γνώμην ἔχοντας τίς οὐκ ἂν ἐπαρθείη πράττειν καὶ λέγειν ὑπὲρ τῆς πόλεως ;
+perseus-eng2	 I must tell you the truth — as attaching no value to any but men of that stamp.
+
+cts:urn:tlg0540.tlg016:21
+glaux2.0-sentence	52
+perseus-grc2	 ἔτι δὲ τί ἂν τοῖς τοιούτοις ἄχθοισθε ;
+perseus-eng2	 So who, on seeing you so minded, would not be stimulated to work and speak for the benefit of the State?
+
+cts:urn:tlg0540.tlg016:21
+glaux2.0-sentence	53
+perseus-grc2	 οὐ γὰρ ἕτεροι περὶ αὐτῶν κριταί εἰσιν , ἀλλ’ ὑμεῖς .
+perseus-eng2	 Moreover, how could you be annoyed with such people? For it is you, and none else, who are judges of their worth.

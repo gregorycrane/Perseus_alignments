@@ -1,0 +1,170 @@
+
+cts:urn:tlg0540.tlg017:1
+glaux2.0-sentence	1
+perseus-grc2	 ἴσως τινὲς ὑμῶν , ὦ ἄνδρες δικασταί , διὰ τὸ βούλεσθαί με ἄξιον εἶναί τινος ἡγοῦνται καὶ εἰπεῖν ἂν μᾶλλον ἑτέρου δύνασθαι ·
+perseus-eng2	 Perhaps some of you, gentlemen of the jury, suppose that, since I desire to be a person of some account, I must be able to excel others in speaking:
+
+cts:urn:tlg0540.tlg017:1
+glaux2.0-sentence	2
+perseus-grc2	 ἐγὼ δὲ τοσούτου δέω περὶ τῶν μὴ , προσηκόντων ἱκανὸς εἶναι λέγειν , ὥστε δέδοικα μή , καὶ περὶ ὧν ἀναγκαῖόν μοί ἐστι λέγειν , ἀδύνατος ὦ τὰ δέοντα εἰπεῖν .
+perseus-eng2	 but, so far from my being competent to speak on matters that do not concern myself, I fear that, even on matters of which I am obliged to speak, I may be unable to say what is needful.
+
+cts:urn:tlg0540.tlg017:1
+glaux2.0-sentence	3
+perseus-grc2	 οἴμαι μὲν οὖν , ἐάν πάντα διηγήσωμαι τὰ πεπραγμένα ἡμῖν πρὸς Ἐράτωνα καὶ τοὺς ἐκείνου παῖδας , ῥαδίως ἐξ αὐτῶν ὑμᾶς εὑρήσειν ἃ προσήκει σκέψασθαι περὶ ταύτης τῆς διαδικασίας .
+perseus-eng2	 I believe, however, that if I can give you the full story of our dealings with Eraton and his children, you will easily form therefrom a proper judgement on the claim now put forward.
+
+cts:urn:tlg0540.tlg017:1
+glaux2.0-sentence	4
+perseus-grc2	 ἐξ ἀρχῆς οὖν ἀκούσατε .
+perseus-eng2	 So let me tell it you from the beginning.
+
+cts:urn:tlg0540.tlg017:2
+glaux2.0-sentence	5
+perseus-grc2	 ἐράτων ὁ Ἐρασιφῶντος πατὴρ ἐδανείσατο παρὰ τοῦ ἐμοῦ πάππου τάλαντα δύο .
+perseus-eng2	 Eraton, father of Erasiphon, borrowed from my grandfather two talents.
+
+cts:urn:tlg0540.tlg017:2
+glaux2.0-sentence	6
+perseus-grc2	 ὅτι μὲν οὖν ἔλαβε τα- τἀργύριον καὶ ὡς τοσοῦτόν γε ἐδεήθη δανείσασθαι , ὧν ἐναντίον ἐδόθη , μάρτυρας ὑμῖν παρέξομαι ·
+perseus-eng2	 To show that he received this money, and that it was the amount of the loan that he requested, I will produce to you witnesses before whom the money was paid.
+
+cts:urn:tlg0540.tlg017:2
+glaux2.0-sentence	7
+perseus-grc2	 ἃ δ’ ἐχρήσατο αὐτῷ καὶ ὅσα ὠφελήθη , οἱ μᾶλλόν τε ἐμοῦ εἰδότες καὶ παραγεγενημένοι οἷς ἐκεῖνος ἔπραττε διηγήσονται ὑμῖν καὶ μαρτυρήσουσι .
+perseus-eng2	 As to the use that he made of it, and the profit that he got, those who know better than I, as having been in touch with his business, will relate and testify it to you.
+
+cts:urn:tlg0540.tlg017:2
+glaux2.0-sentence	8
+perseus-grc2	 καί μοι κάλει μάρτυρας .
+perseus-eng2	 Please call witnesses.
+
+cts:urn:tlg0540.tlg017:3
+glaux2.0-sentence	9
+perseus-grc2	 ἕως τοίνυν ὁ Ἐράτων ἔζη , τούς τε τόκους ἀπελαμβάνομεν καὶ τα- τἆλλα τὰ συγκείμενα ·
+perseus-eng2	 Now as long as Eraton was alive, we duly received our interest and the terms of agreement were kept;
+
+cts:urn:tlg0540.tlg017:3
+glaux2.0-sentence	10
+perseus-grc2	 ἐπειδὴ δὲ ἐτελεύτησε καταλιπὼν ὑοὺς τρεῖς , Ἐρασιφῶντα καὶ Ἐράτωνα καὶ Ἐρασίστρατον , οὗτοι οὐδὲν ἔτι ἡμῖν τῶν δικαίων ἐποίουν .
+perseus-eng2	 but when he died, leaving three sons — Erasiphon, Eraton and Erasistratus, — these persons ceased to give us our rightful dues.
+
+cts:urn:tlg0540.tlg017:3
+glaux2.0-sentence	11
+perseus-grc2	 ἐν μὲν οὖν τῷ πολέμῳ , διότι οὐκ ἦσαν δίκαι , οὐ δυνατοὶ ἦμεν παρ’ αὐτῶν ἃ ὤφειλον πράξασθαι ·
+perseus-eng2	 During the war, of course, as there were no suits at law, we were unable to make them pay what they owed;
+
+cts:urn:tlg0540.tlg017:3
+glaux2.0-sentence	12
+perseus-grc2	 ἐπειδὴ δὲ εἰρήνη ἐγένετο , ὅτε περ πρῶτον αἱ ἀστικαὶ δίκαι ἐδικάζοντο , λαχὼν ὁ πατὴρ παντὸς τοῦ συμβολαίου Ἐρασιστράτῳ , ὅσπερ μόνος τῶν ἀδελφῶν ἐπεδήμει , κατεδικάσατο ἐπὶ Ξεναινέτου ἄρχοντος .
+perseus-eng2	 but when peace was made, as soon as civil suits began to be tried, my father got permission to proceed against Erasistratus for the whole debt, as he alone of the brothers was resident here, and obtained a verdict against him in the archonship of Xenaenetus.
+
+cts:urn:tlg0540.tlg017:3
+glaux2.0-sentence	13
+perseus-grc2	 μάρτυρας δὲ καὶ τούτων παρέξομαι ὑμῖν .
+perseus-eng2	 I will produce to you witnesses of these facts also.
+
+cts:urn:tlg0540.tlg017:3
+glaux2.0-sentence	14
+perseus-grc2	 καί μοι κάλει μάρτυρας .
+perseus-eng2	 Please call witnesses.
+
+cts:urn:tlg0540.tlg017:4
+glaux2.0-sentence	15
+perseus-grc2	 ὅτι μὲν τὰ Ἐράτωνος δικαίως ἂν ἡμέτερα εἴη , ἐκ τούτων ῥᾴδιον εἰδέναι , ὅτι δὲ πάντα δημεύεται , ἐξ αὐτῶν τῶν ἀπογραφῶν ·
+perseus-eng2	 That the property of Eraton should of right be ours is easily understood from these statements,
+
+cts:urn:tlg0540.tlg017:4
+glaux2.0-sentence	16
+perseus-grc2	 τρεῖς γὰρ καὶ τέτταρες ἕκαστα ἀπογεγράφασι .
+perseus-eng2	 but that the whole is being confiscated appears from the actual inventories;
+
+cts:urn:tlg0540.tlg017:4
+glaux2.0-sentence	17
+perseus-grc2	 καίτοι τοῦτό γε παντὶ εὔγνωστον , ὅτι οὐκ ἂν παρέλιπον , εἴ τι ἄλλο τῶν Ἐράτωνος οἷόν τε ἦν δημεύειν , οἱ πάντα τὰ Ἐράτωνος ἀπογράφοντες καὶ ἃ ἐγὼ πολὺν ἤδη χρόνον κέκτημαι .
+perseus-eng2	 for these have been compiled in detail by three and even four persons. Surely it is obvious to everyone that they would not have omitted any other property of Eraton’s available for confiscation, when they were entering all the property of Eraton, including even the part that has belonged to me for a long time past.
+
+cts:urn:tlg0540.tlg017:4
+glaux2.0-sentence	18
+perseus-grc2	 ὡς μὲν οὖν ἡμῖν οὐ -δ’ ἑτέρωθεν εἰσπράξασθαι οἷόν τε , ἐὰν ὑμεῖς ταῦτα δημεύσητε , εὔγνωστόν μοι δοκεῖ εἶναι ·
+perseus-eng2	 Well, that it is not possible for us to recover anything even from the other side, once you have confiscated this property, I consider obvious;
+
+cts:urn:tlg0540.tlg017:5
+glaux2.0-sentence	19
+perseus-grc2	 ὡς δὲ τὴν ἀμφισβήτησιν ἐποιησάμην πρός τε ὑμᾶς καὶ τοὺς ἰδιώτας , ἔτι ἀκούσατε .
+perseus-eng2	 but now let me tell you how I have treated you, as distinct from private persons, in the conduct of this dispute.
+
+cts:urn:tlg0540.tlg017:5
+glaux2.0-sentence	20
+perseus-grc2	 ἕως μὲν γὰρ ἡμῖν οἱ Ἐρασιφῶντος οἰκεῖοι τούτων τῶν χρημάτων ἠμφεσβήτουν , ἅπαντα ἠξίουν ἐμὰ εἶναι , διότι ὑπὲρ ἅπαντος τοῦ χρέως ἀντιδικῶν πρὸς τὸν πατέρα ὁ Ἐρασίστρατος ἡττήθη ·
+perseus-eng2	 As long as the relatives of Erasiphon were contesting this property, I claimed the whole as mine, because Erasistratus lost his case when he pleaded against my father’s suit for the whole debt;
+
+cts:urn:tlg0540.tlg017:5
+glaux2.0-sentence	21
+perseus-grc2	 καὶ τὰ μὲν Σφηττοῖ ἤδη τρία ἔτη μεμίσθωκα , τῶν δὲ Κικυννοῖ καὶ τῆς οἰκίας ἐδικαζόμην τοῖς ἔχουσι .
+perseus-eng2	 and for the last three years I have let out the property at Sphettus, but over the property at Cicynna and the house there I was at law with the occupiers.
+
+cts:urn:tlg0540.tlg017:5
+glaux2.0-sentence	22
+perseus-grc2	 πέρυσι μὲν οὖν διεγράψαντό μου τὰς δίκας , ἔμποροι φάσκοντες εἶναι ·
+perseus-eng2	 Last year, however, they got my suit quashed by alleging that they were sea-traders;
+
+cts:urn:tlg0540.tlg017:5
+glaux2.0-sentence	23
+perseus-grc2	 νυνὶ δὲ λαχόντος ἐν τῷ Γαμηλιῶνι μηνὶ οἱ ναυτοδίκαι οὐκ ἐξεδίκασαν .
+perseus-eng2	 but at present, although I was permitted to bring proceedings in the month of Gamelion, the nautical court has not decided the case.
+
+cts:urn:tlg0540.tlg017:6
+glaux2.0-sentence	24
+perseus-grc2	 ἐπειδὴ δ’ ὑμῖν τὰ Ἐρασιφῶντος δημεύειν ἔδοξεν , ἀφεὶς τῇ πόλει τὼ δύο μέρει τὰ Ἐρασιστράτου ἀξιῶ μοι ψηφισθῆναι , διότι ταῦτά γε ἤδη καὶ πρότερον ἐγνώκατε ἡμέτερα εἶναι .
+perseus-eng2	 Now that you have seen fit to confiscate the property of Erasiphon, I relinquish two thirds to the State, and claim that the property of Erasistratus be adjudged to me, because it is this property that your previous decision has already made ours.
+
+cts:urn:tlg0540.tlg017:6
+glaux2.0-sentence	25
+perseus-grc2	 ὡρισάμην οὖν ἐμαυτῷ τὸ τρίτον μέρος τῆς ἐκείνων οὐσίας οὐ τὴν ἀκρίβειαν ἐπισκεψάμενος , ἀλλὰ πολλῷ πλέον ἢ τὼ δύο μέρει τῷ δημοσίῳ ὑπολιπών .
+perseus-eng2	 So I have limited my share to one-third of their property, making no exact calculation, but leaving much more than two-thirds to the Treasury.
+
+cts:urn:tlg0540.tlg017:7
+glaux2.0-sentence	26
+perseus-grc2	 ῥᾴδιον δὲ γνῶναι ἐκ τοῦ τιμήματος τοῦ ἐπιγεγραμμένου τοῖς χρήμασιν .
+perseus-eng2	 This is easily concluded from the valuation which has been attached to the schedule of the property.
+
+cts:urn:tlg0540.tlg017:7
+glaux2.0-sentence	27
+perseus-grc2	 ἅπαντα μὲν γὰρ πλείονος ἢ ταλάντου τετίμηνται , ὧν δ’ ἐγὼ ἀμφισβητῶ τῷ μὲν πέντε μνᾶς τῷ δὲ χιλίας δραχμὰς ἐπεγραψάμην ·
+perseus-eng2	 For they have valued the whole at more than a talent, whereas to one of the properties for which I am suing I attached five minae, and to the other a thousand drachmae:
+
+cts:urn:tlg0540.tlg017:7
+glaux2.0-sentence	28
+perseus-grc2	 καὶ εἰ πλείονος ἄξιά ἐστιν ἢ τοσούτου , ἀποκηρυχθέντων τὸ περιττὸν ἡ πόλις λήψεται .
+perseus-eng2	 if they are worth more than those amounts, the surplus after they have been sold by auction will go to the State.
+
+cts:urn:tlg0540.tlg017:8
+glaux2.0-sentence	29
+perseus-grc2	 ἵνα οὖν εἰδῆτε ὅτι ταῦτα ἀληθῆ ἐστι , μάρτυρας ὑμῖν παρέξομαι πρῶτον μὲν τοὺς μεμισθωμένους παρ’ ἐμοῦ τὸ Σφηττοῖ χωρίον , ἔπειτα τοῦ Κικυννοῖ τοὺς γείτονας , οἳ ἴσασιν ἡμᾶς ἤδη τρία ἔτη ἀμφισβητοῦντας , ἔτι δὲ τούς τε πέρυσιν ἄρξαντας , πρὸς οὓς αἱ δίκαι ἐλήχθησαν , καὶ τοὺς νῦν ναυτοδίκας .
+perseus-eng2	 And to convince you of the truth of this I will produce to you, as witnesses, first the persons who rented from me the estate at Sphettus, then the neighbors of the place at Cicynna, who know that we have been contesting it for the last three years, and next the magistrates of last year, before whom the suits were authorized to be heard, and the present judges of the nautical court.
+
+cts:urn:tlg0540.tlg017:9
+glaux2.0-sentence	30
+perseus-grc2	 ἀναγνωσθήσονται δὲ ὑμῖν καὶ αὗται αἱ ἀπογραφαί ·
+perseus-eng2	 You will also have these inventories read to you:
+
+cts:urn:tlg0540.tlg017:9
+glaux2.0-sentence	31
+perseus-grc2	 ἐκ τούτων γὰρ μάλιστα γνώσεσθε ὅτι οὔ -τε νεωστὶ ταῦτα τὰ χρήματα ἀξιοῦμεν ἡμέτερα εἶναι , οὔ -τε νυνὶ τῷ δημοσίῳ πλειόνων ἀμφισβητοῦμεν ἢ τῷ ἔμπροσθεν χρόνῳ τοῖς ἰδιώταις .
+perseus-eng2	 for they above all will convince you that our claim to this property is no recent matter, and also that today we are contesting with the Treasury an amount that compares favorably with that which we formerly contested with private persons.
+
+cts:urn:tlg0540.tlg017:9
+glaux2.0-sentence	32
+perseus-grc2	 καί μοι κάλει μάρτυρας .
+perseus-eng2	 Please call witnesses.
+
+cts:urn:tlg0540.tlg017:10
+glaux2.0-sentence	33
+perseus-grc2	 ὅτι μέν , ὦ ἄνδρες δικασταί , οὐ παρὰ τὸ δίκαιον ἀξιῶ μοι ψηφίσασθαι τὸ διαδίκασμα , ἀλλ’ αὐτὸς τῇ πόλει πολλὰ τῶν ἐμαυτοῦ ἀφεὶς τοῦτο ἀξιῶ μοι ἀποδοθῆναι , ἀποδέδεικται .
+perseus-eng2	 That there is no injustice, gentlemen, in my claiming your verdict on the property in question, but rather that I have relinquished to the State a great part of my own property before claiming this restoration, has been clearly proved.
+
+cts:urn:tlg0540.tlg017:10
+glaux2.0-sentence	34
+perseus-grc2	 ἤδη δέ μοι δοκεῖ δίκαιον εἶναι καὶ δεηθῆναι ὑμῶν τε καὶ τῶν συνδίκων ἐναντίον ὑμῶν .
+perseus-eng2	 And now I deem it just to lay my request before you and also before the Commissioners in your presence.

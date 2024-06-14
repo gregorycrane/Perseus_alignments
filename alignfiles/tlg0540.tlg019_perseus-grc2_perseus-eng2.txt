@@ -1,0 +1,840 @@
+
+cts:urn:tlg0540.tlg019:1
+glaux2.0-sentence	1
+perseus-grc2	 πολλήν μοι ἀπορίαν παρέχει ὁ ἀγὼν οὑτοσί , ὦ ἄνδρες δικασταί , ὅταν ἐνθυμηθῶ ὅτι , ἐὰν ἐγὼ μὲν μὴ νῦν εὖ εἴπω , οὐ μόνον ἐγὼ ἀλλὰ καὶ ὁ πατὴρ δόξει ἄδικος εἶναι , καὶ τῶν ὄντων ἁπάντων στερήσομαι .
+perseus-eng2	 I find myself greatly embarrassed by this trial, gentlemen of the jury, when I consider that if I fail to speak with effect today not only I but my father besides will be held to be guilty, and I shall be deprived of the whole of my possessions.
+
+cts:urn:tlg0540.tlg019:1
+glaux2.0-sentence	2
+perseus-grc2	 ἀνάγκη οὖν , εἰ καὶ μὴ δεινὸς πρὸς ταῦτα πέφυκα , βοηθεῖν τῷ πατρὶ καὶ ἐμαυτῷ οὕτως ὅπως ἂν δύνωμαι .
+perseus-eng2	 It is necessary therefore, even if I have no natural aptitude for the task, to defend my father and myself as best I can.
+
+cts:urn:tlg0540.tlg019:2
+glaux2.0-sentence	3
+perseus-grc2	 τὴν μὲν οὖν παρασκευὴν καὶ τὴν προθυμίαν τῶν ἐχθρῶν ὁρᾶτε , καὶ οὐδὲν δεῖ περὶ τούτων λέγειν ·
+perseus-eng2	 You see, of course, the artifice and the alacrity of my enemies; of these there is no need to speak;
+
+cts:urn:tlg0540.tlg019:2
+glaux2.0-sentence	4
+perseus-grc2	 τὴν δ’ ἐμὴν ἀπειρίαν πάντες ἴσασιν , ὅσοι ἐμὲ γιγνώσκουσιν .
+perseus-eng2	 whereas everyone who knows me is aware of my inexperience.
+
+cts:urn:tlg0540.tlg019:2
+glaux2.0-sentence	5
+perseus-grc2	 αἰτήσομαι οὖν ὑμᾶς δίκαια καὶ ῥᾴδια χαρίσασθαι , ἄνευ ὀργῆς καὶ ἡμῶν ἀκοῦσαι , ὥσπερ καὶ τῶν κατηγόρων .
+perseus-eng2	 I shall therefore beg of you the just and easy favor of hearing us with the same absence of anger as when you listened to our accusers.
+
+cts:urn:tlg0540.tlg019:3
+glaux2.0-sentence	6
+perseus-grc2	 ἀνάγκη γὰρ τὸν ἀπολογούμενον , κα- κἂν ἐξ ἴσου ἀκροᾶσθε , ἔλαττον ἔχειν .
+perseus-eng2	 For the man who speaks in his defence, even if you give him an impartial hearing, must needs be at a disadvantage:
+
+cts:urn:tlg0540.tlg019:3
+glaux2.0-sentence	7
+perseus-grc2	 οἱ μὲν γὰρ ἐκ πολλοῦ χρόνου ἐπιβουλεύοντες , αὐτοὶ ἄνευ κινδύνων ὄντες , τὴν κατηγορίαν ἐποιήσαντο , ἡμεῖς δὲ ἀγωνιζόμεθα μετὰ δέους καὶ διαβολῆς καὶ κινδύνου τοῦ μεγίστου .
+perseus-eng2	 those people have laid their schemes long before, and without any danger to themselves have delivered their accusation; whereas we are contending amid fear and slander and the gravest danger.
+
+cts:urn:tlg0540.tlg019:3
+glaux2.0-sentence	8
+perseus-grc2	 εἰκὸς οὖν ὑμᾶς εὔνοιαν πλείω ἔχειν τοῖς ἀπολογουμένοις .
+perseus-eng2	 It is reasonable, therefore, that you should feel more kindness for those who are making their defence.
+
+cts:urn:tlg0540.tlg019:4
+glaux2.0-sentence	9
+perseus-grc2	 οἶμαι γὰρ πάντας ὑμᾶς εἰδέναι ὅτι πολλοὶ ἤδη πολλὰ καὶ δεινὰ κατηγορήσαντες παραχρῆμα ἐξηλέγχθησαν ψευδόμενοι οὕτω φανερῶς , ὥστε ὑπὸ πάντων τῶν παραγενομένων μισηθέντες ἀπελθεῖν ·
+perseus-eng2	 For I think you all know that there have been many cases in the past of men bringing forward a number of formidable accusations, who have been convicted then and there of lying on such clear evidence that they left the court detested by all who had been present;
+
+cts:urn:tlg0540.tlg019:4
+glaux2.0-sentence	10
+perseus-grc2	 οἱ δ’ αὖ μαρτυρήσαντες τὰ ψευδῆ καὶ ἀδίκως ἀπολέσαντες ἀνθρώπους ἑάλωσαν , ἡνίκα οὐδὲν ἦν πλέον τοῖς πεπονθόσιν .
+perseus-eng2	 while others again, after bearing false witness and causing people to be unjustly put to death, have been condemned too late for it to be of any use to their victims.
+
+cts:urn:tlg0540.tlg019:5
+glaux2.0-sentence	11
+perseus-grc2	 ὅτ’ οὖν τοιαῦτα πολλὰ γεγένηται , ὡς ἐγὼ ἀκούω , εἰκὸς ὑμᾶς , ὦ ἄνδρες δικασταί , μήπω τοὺς τῶν κατηγόρων λόγους ἡγεῖσθαι πιστούς , πρὶν ἂν καὶ ἡμεῖς εἴπωμεν .
+perseus-eng2	 So, when many cases of this sort have occurred, as I am told, it is reasonable that you, gentlemen, should wait till we have had our say before you accept the statements of our accusers as trustworthy.
+
+cts:urn:tlg0540.tlg019:5
+glaux2.0-sentence	12
+perseus-grc2	 ἀκούω γὰρ ἔγωγε , καὶ ὑμῶν δὲ τοὺς πολλοὺς οἶμαι εἰδέναι , ὅτι πάντων δεινότατόν ἐστι διαβολή .
+perseus-eng2	 I myself am told, and I think most of you know also, that slander is the most dangerous thing on earth.
+
+cts:urn:tlg0540.tlg019:6
+glaux2.0-sentence	13
+perseus-grc2	 μάλιστα δὲ τοῦτο ἔχοι ἄν τις ἰδεῖν , ὅταν πολλοὶ ἐπὶ τῇ αὐτῇ αἰτίᾳ εἰς ἀγῶνα καταστῶσιν .
+perseus-eng2	 This is especially to be observed when a number of persons are brought to trial on the same charge.
+
+cts:urn:tlg0540.tlg019:6
+glaux2.0-sentence	14
+perseus-grc2	 ὡς γὰρ ἐπὶ τὸ πολὺ οἱ τελευταῖοι κρινόμενοι σῴζονται ·
+perseus-eng2	 For, as a rule, the last to be judged are let off, since your anger has then ceased,
+
+cts:urn:tlg0540.tlg019:6
+glaux2.0-sentence	15
+perseus-grc2	 πεπαυμένοι γὰρ τῆς ὀργῆς αὐτῶν ἀκροᾶσθε , καὶ τοὺς ἐλέγχους ἤδη ἐθέλοντες ἀποδέχεσθε .
+perseus-eng2	 and as you listen to them you willingly admit their disproofs.
+
+cts:urn:tlg0540.tlg019:7
+glaux2.0-sentence	16
+perseus-grc2	 ἐνθυμεῖσθε οὖν ὅτι Νικόφημος καὶ Ἀριστοφάνης ἄκριτοι ἀπέθανον , πρὶν παραγενέσθαι τινὰ αὐτοῖς ἐλεγχομένοις ὡς ἠδίκουν .
+perseus-eng2	 Reflect therefore that Nicophemus and Aristophanes were put to death without trial, before anyone could come to their aid as the proof of their guilt was being made out.
+
+cts:urn:tlg0540.tlg019:7
+glaux2.0-sentence	17
+perseus-grc2	 οὐδεὶς γὰρ οὐ -δ’ εἶδεν ἐκείνους μετὰ τὴν σύλληψιν ·
+perseus-eng2	 For nobody even saw them again after their arrest,
+
+cts:urn:tlg0540.tlg019:7
+glaux2.0-sentence	18
+perseus-grc2	 οὐ -δὲ γὰρ θάψαι τὰ σώματ’ αὐτῶν ἀπέδοσαν , ἀλλ’ οὕτω δεινὴ ἡ συμφορὰ γεγένηται ὥστε πρὸς τοῖς ἄλλοις καὶ τούτου ἐστέρηνται .
+perseus-eng2	 since their bodies were not even delivered for burial: so awful has their calamity been that, in addition to the rest, they have suffered this privation also.
+
+cts:urn:tlg0540.tlg019:8
+glaux2.0-sentence	19
+perseus-grc2	 ἀλλὰ ταῦτα μὲν ἐάσω ·
+perseus-eng2	 But from that business I will now pass,
+
+cts:urn:tlg0540.tlg019:8
+glaux2.0-sentence	20
+perseus-grc2	 οὐδὲν γὰρ ἂν περαίνοιμι ·
+perseus-eng2	 as I can do no good there.
+
+cts:urn:tlg0540.tlg019:8
+glaux2.0-sentence	21
+perseus-grc2	 πολὺ δὲ ἀθλιώτεροι δοκοῦσί μοι οἱ παῖδες οἱ Ἀριστοφάνους ·
+perseus-eng2	 Far more miserable, in my opinion, are the children of Aristophanes:
+
+cts:urn:tlg0540.tlg019:8
+glaux2.0-sentence	22
+perseus-grc2	 οὐδένα γὰρ οὔ -τ’ ἰδίᾳ οὔ -τε δημοσίᾳ ἠδικηκότες οὐ μόνον τὰ πατρῷα ἀπολωλέκασι παρὰ τοὺς νόμους τοὺς ὑμετέρους , ἀλλὰ καὶ ἣ ὑπόλοιπος ἐλπὶς ἦν , ἀπὸ τῶν τοῦ πάππου ἐκτραφῆναι , ἐν οὕτω δεινῷ καθέστηκεν .
+perseus-eng2	 for, having done no wrong to anyone in either private or public affairs, not only have they been bereft of their patrimony in violation of your laws, but their one remaining hope, of being reared with the means of their grandfather, has been placed in this serious predicament.
+
+cts:urn:tlg0540.tlg019:9
+glaux2.0-sentence	23
+perseus-grc2	 ἔτι δ’ ἡμεῖς ἐστερημένοι μὲν κηδεστῶν , ἐστερημένοι δὲ τῆς προικός , παιδάρια δὲ τρία ἠναγκασμένοι τρέφειν , προσέτι συκοφαντούμεθα καὶ κινδυνεύομεν περὶ ὧν οἱ πρόγονοι ἡμῖν κατέλιπον κτησάμενοι ἐκ τοῦ δικαίου .
+perseus-eng2	 Moreover we, bereft of our kinsfolk, bereft of the dowry, and compelled to rear three small children, are attacked besides by base informers, and are in danger of losing what our ancestors bequeathed to us after they had acquired it by honest means.
+
+cts:urn:tlg0540.tlg019:9
+glaux2.0-sentence	24
+perseus-grc2	 καίτοι , ὦ ἄνδρες δικασταί , ὁ ἐμὸς πατὴρ ἐν ἅπαντι τῷ βίῳ πλείω εἰς τὴν πόλιν ἀνήλωσεν ἢ εἰς αὑτὸν καὶ τοὺς οἰκείους , διπλάσια δὲ ἢ νῦν ἔστιν ἡμῖν , ὡς ἐγὼ λογιζομένῳ αὐτῷ πολλάκις παρεγενόμην .
+perseus-eng2	 Yet, gentlemen, my father in all his life spent more on the State than on himself and his family, — twice the amount that we have now, as he often reckoned in my presence.
+
+cts:urn:tlg0540.tlg019:10
+glaux2.0-sentence	25
+perseus-grc2	 μὴ οὖν προκαταγιγνώσκετε ἀδικίαν τοῦ εἰς αὑτὸν μὲν μικρὰ δαπανῶντος , ὑμῖν δὲ πολλὰ καθ’ ἕκαστον τὸν ἐνιαυτόν , ἀλλ’ ὅσοι καὶ τὰ πατρῷα καὶ ἐάν τί ποθεν λάβωσιν , εἰς τὰς αἰσχίστας ἡδονὰς εἰθισμένοι εἰσὶν ἀναλίσκειν .
+perseus-eng2	 So you must not rashly convict of guilt the man who spent little on himself, but a great deal on you each year; you ought rather to condemn all those persons who have made a habit of squandering both their patrimony and whatever they can get from elsewhere on the most disgraceful pleasures.
+
+cts:urn:tlg0540.tlg019:11
+glaux2.0-sentence	26
+perseus-grc2	 χαλεπὸν μὲν οὖν , ὦ ἄνδρες δικασταί , ἀπολογεῖσθαι πρὸς δόξαν ἣν ἔνιοι ἔχουσι περὶ τῆς Νικοφήμου οὐσίας , καὶ σπάνιν ἀργυρίου ἣ νῦν ἐστιν ἐν τῇ πόλει , καὶ τοῦ ἀγῶνος πρὸς τὸ δημόσιον ὄντος ·
+perseus-eng2	 It is difficult indeed, gentlemen, to defend oneself against an impression which some people have received of the property of Nicophemus, and in face of a scarcity of money that is now felt in the city, and when our contention is against the Treasury.
+
+cts:urn:tlg0540.tlg019:11
+glaux2.0-sentence	27
+perseus-grc2	 ὅμως δὲ καὶ τούτων ὑπαρχόντων ῥᾳδίως γνώσεσθε ὅτι οὐκ ἀληθῆ ἐστι τὰ κατηγορημένα .
+perseus-eng2	 Nevertheless, even in these circumstances, you will easily perceive that the accusations are not true;
+
+cts:urn:tlg0540.tlg019:11
+glaux2.0-sentence	28
+perseus-grc2	 δέομαι δ’ ὑμῶν πάσῃ τέχνῃ καὶ μηχανῇ μετ’ εὐνοίας ἀκροασαμένους ἡμῶν διὰ τέλους ὅ τι ἂν ὑμῖν ἄριστον καὶ εὐορκότατον νομίζητε εἶναι , τοῦτο ψηφίσασθαι .
+perseus-eng2	 and I request you with all the insistence in my power to give us a kindly hearing to the end, and to deliver the verdict that you may esteem best for you and most agreeable to your oaths.
+
+cts:urn:tlg0540.tlg019:12
+glaux2.0-sentence	29
+perseus-grc2	 πρῶτον μὲν οὖν , ᾧ τρόπῳ κηδεσταὶ ἡμῖν ἐγένοντο , διδάξω ὑμᾶς .
+perseus-eng2	 Now I will inform you, in the first place, of the way in which they became connected with us.
+
+cts:urn:tlg0540.tlg019:12
+glaux2.0-sentence	30
+perseus-grc2	 στρατηγῶν γὰρ Κόνων περὶ Πελοπόννησον , τριηραρχήσαντι τῷ ἐμῷ πατρὶ πάλαι φίλος γεγενημένος , ἐδεήθη δοῦναι τὴν ἐμὴν ἀδελφὴν αἰτοῦντι τῷ ὑεῖ τῷ Νικοφήμου .
+perseus-eng2	 Conon, who was in command of operations around the Peloponnese , and who had formed a friendship long before with my father when he equipped a warship, requested him to bestow my sister on her suitor, the son of Nicophemus.
+
+cts:urn:tlg0540.tlg019:13
+glaux2.0-sentence	31
+perseus-grc2	 ὁ δὲ ὁρῶν αὐτοὺς ὑπ’ ἐκείνου τε πεπιστευμένους γεγονότας τε ἐπιεικεῖς τῇ τε πόλει ἔν γε τῷ τότε χρόνῳ ἀρέσκοντας , ἐπείσθη δοῦναι , οὐκ εἰδὼς τὴν ἐσομένην διαβολήν , ἀλλ’ ὅτε καὶ ὑμῶν ὁστισοῦν ἂν ἐκείνοις ἠξίωσε κηδεστὴς γενέσθαι , ἐπεὶ ὅτι γε οὐ χρημάτων ἕνεκα , ῥᾴδιον γνῶναι ἐκ τοῦ βίου παντὸς καὶ τῶν ἔργων τῶν τοῦ πατρός .
+perseus-eng2	 My father, finding that these people had been accredited by Conon , and were of proved respectability and — at that time at least  — in the good graces of the city, was persuaded to bestow her: he did not know the slander that was to follow. It was a time when anyone among you would have deemed it desirable to be connected with them; for it was not done for the sake of money, as you may readily judge from my father’s whole life and conduct.
+
+cts:urn:tlg0540.tlg019:14
+glaux2.0-sentence	32
+perseus-grc2	 ἐκεῖνος γὰρ ὅτ’ ἦν ἐν τῇ ἡλικίᾳ , παρὸν μετὰ πολλῶν χρημάτων γῆμαι ἄλλην , τὴν ἐμὴν μητέρα ἔλαβεν οὐδὲν ἐπιφερομένην , ὅτι δὲ Ξενοφῶντος ἦν θυγάτηρ τοῦ Εὐριπίδου ὑέος , ὃς οὐ μόνον ἰδίᾳ χρηστὸς ἐδόκει εἶναι , ἀλλὰ καὶ στρατηγεῖν αὐτὸν ἠξιώσατε , ὡς ἐγὼ ἀκούω .
+perseus-eng2	 When he was of age, he had the chance of marrying another woman with a great fortune; but he took my mother without a portion, merely because she was a daughter of Xenophon, son of Euripides, a man not only known for his private virtues but also deemed worthy by you of holding high command, so I am told.
+
+cts:urn:tlg0540.tlg019:15
+glaux2.0-sentence	33
+perseus-grc2	 τὰς τοίνυν ἐμὰς ἀδελφὰς ἐθελόντων τινῶν λαβεῖν ἀπροίκους πάνυ πλουσίων οὐκ ἔδωκεν , ὅτι ἐδόκουν κάκιον γεγονέναι , ἀλλὰ τὴν μὲν Φιλομήλῳ τῷ Παιανιεῖ , ὃν οἱ πολλοὶ βελτίω ἡγοῦνται εἶναι ἢ πλουσιώτερον , τὴν δὲ πένητι γεγενημένῳ οὐ διὰ κακίαν , ἀδελφιδῷ δὲ ὄντι Φαίδρῳ τῷ Μυρρινουσίῳ , ἐπιδοὺς τετταράκοντα μνᾶς , κα- κᾆτ’ Ἀριστοφάνει τὸ ἴσον .
+perseus-eng2	 Again, my sisters he refused to certain very wealthy men who were willing to take them without dowries, because he judged them to be of inferior birth: he preferred to bestow one upon Philomelus of Paeania, whom most men regard as an honorable rather than a wealthy man, and the other upon a man who was reduced to poverty by no misdemeanor, — his nephew, Phaedrus of Myrrhinous,  — and with her a dowry of forty minae; and he later gave her to Aristophanes with the same sum.
+
+cts:urn:tlg0540.tlg019:16
+glaux2.0-sentence	34
+perseus-grc2	 πρὸς δὲ τούτοις ἐμοὶ πολλὴν ἐξὸν πάνυ προῖκα λαβεῖν ἐλάττω συνεβούλευσεν , ὥστε εὖ εἰδέναι ὅτι κηδεσταῖς χρησοίμην κοσμίοις καὶ σώφροσι .
+perseus-eng2	 Besides doing this, when I could have obtained a great fortune he advised me to take a lesser one, so long as I felt sure of allying myself with people of an orderly and self-respecting character.
+
+cts:urn:tlg0540.tlg019:16
+glaux2.0-sentence	35
+perseus-grc2	 καὶ νῦν ἔχω γυναῖκα τὴν Κριτοδήμου θυγατέρα τοῦ Ἀλωπεκῆθεν , ὃς ὑπὸ Λακεδαιμονίων ἀπέθανεν , ὅτε ἡ ναυμαχία ἐγένετο ἐν Ἑλλησπόντῳ .
+perseus-eng2	 So now I am married to the daughter of Critodemus of Alopece, who was killed by the Lacedaemonians after the sea-fight at the Hellespont.
+
+cts:urn:tlg0540.tlg019:17
+glaux2.0-sentence	36
+perseus-grc2	 καίτοι , ὦ ἄνδρες δικασταί , ὅστις αὐτός τε ἄνευ χρημάτων ἔγημε τοῖν τε θυγατέροιν πολὺ ἀργύριον ἐπέδωκε τῷ τε ὑεῖ ὀλίγην προῖκα ἔλαβε , πῶς οὐκ εἰκὸς περὶ τούτου πιστεύειν ὡς οὐχ ἕνεκα χρημάτων τούτοις κηδεστὴς ἐγένετο ;
+perseus-eng2	 Now I submit, gentlemen of the jury, that a man who has himself married a portionless woman, who has bestowed large sums with his two daughters, and who has accepted a small dowry for his son, ought surely in reason to be credited with allying himself to these people without a thought of money.
+
+cts:urn:tlg0540.tlg019:18
+glaux2.0-sentence	37
+perseus-grc2	 ἀλλὰ μὴν ὅ γε Ἀριστοφάνης ἤδη ἔχων τὴν γυναῖκα ὅτι πολλοῖς ἂν μᾶλλον ἐχρῆτο ἢ τῷ ἐμῷ πατρί , ῥᾴδιον γνῶναι .
+perseus-eng2	 Nay, more, Aristophanes, although he was now married, must have preferred to be intimate with many people rather than my father, as may readily be conceived.
+
+cts:urn:tlg0540.tlg019:18
+glaux2.0-sentence	38
+perseus-grc2	 ἥ τε γὰρ ἡλικία πολὺ διάφορος , ἥ τε φύσις ἔτι πλέον ·
+perseus-eng2	 For there was a great difference both in his age and still more in his nature.
+
+cts:urn:tlg0540.tlg019:18
+glaux2.0-sentence	39
+perseus-grc2	 ἐκείνου μὲν γὰρ ἦν τὰ ἑαυτοῦ πράττειν , Ἀριστοφάνης δὲ οὐ μόνον τῶν ἰδίων ἀλλὰ καὶ τῶν κοινῶν ἐβούλετο ἐπιμελεῖσθαι , καὶ εἴ τι ἦν αὐτῷ ἀργύριον , ἀνήλωσεν ἐπιθυμῶν τιμᾶσθαι .
+perseus-eng2	 It was my father’s way to mind his own business; whereas Aristophanes sought to concern himself not only with private but also with public affairs, and whatever money he had he spent in the pursuit of glory.
+
+cts:urn:tlg0540.tlg019:19
+glaux2.0-sentence	40
+perseus-grc2	 γνώσεσθε δὲ ὅτι ἀληθῆ λέγω ἐξ αὐτῶν ὧν ἐκεῖνος ἔπραττε .
+perseus-eng2	 You will perceive the truth of what I say from his actual conduct.
+
+cts:urn:tlg0540.tlg019:19
+glaux2.0-sentence	41
+perseus-grc2	 πρῶτον μὲν γὰρ βουλομένου Κόνωνος πέμπειν τινὰ εἰς Σικελίαν , ᾤχετο ὑποστὰς μετὰ Εὐνόμου , Διονυσίου φίλου ὄντος καὶ ξένου , τὸ πλῆθος τὸ ὑμέτερον πλεῖστα ἀγαθὰ πεποιηκότος , ὡς ἐγὼ ἀκήκοα τῶν ἐν Πειραιεῖ παραγενομένων .
+perseus-eng2	 First, when Conon wanted to send someone to Sicily, he offered himself and went off with Eunomus, who was a friend and guest of Dionysius, and who had rendered a great many services to your people, as I have been told by those who were with him at the Peiraeus.
+
+cts:urn:tlg0540.tlg019:20
+glaux2.0-sentence	42
+perseus-grc2	 ἦσαν δ’ ἐλπίδες τοῦ πλοῦ πεῖσαι Διονύσιον κηδεστὴν μὲν γενέσθαι Εὐαγόρᾳ , πολέμιον δὲ Λακεδαιμονίοις , φίλον δὲ καὶ σύμμαχον τῇ πόλει τῇ ὑμετέρᾳ .
+perseus-eng2	 The voyage was undertaken in hopes of persuading Dionysius to connect himself by marriage with Evagoras, and to become an enemy of the Lacedaemonians and a friend and ally of your city.
+
+cts:urn:tlg0540.tlg019:20
+glaux2.0-sentence	43
+perseus-grc2	 καὶ ταῦτ’ ἔπραττον πολλῶν κινδύνων ὑπαρχόντων πρὸς τὴν θάλατταν καὶ τοὺς πολεμίους , καὶ ἔπεισαν Διονύσιον μὴ πέμψαι τριήρεις ἃς τότε παρεσκευάσατο Λακεδαιμονίοις .
+perseus-eng2	 This they set out to do amid many dangers arising from the sea and from the enemy, and they prevailed on Dionysius not to send some warships which he had then prepared for the Lacedaemonians.
+
+cts:urn:tlg0540.tlg019:21
+glaux2.0-sentence	44
+perseus-grc2	 μετὰ δὲ ταῦτα ἐπειδὴ οἱ πρέσβεις ἧκον ἐκ Κύπρου ἐπὶ τὴν βοήθειαν , οὐδὲν ἐνέλιπε προθυμίας σπεύδων .
+perseus-eng2	 Next, when the envoys had arrived from Cyprus to procure our assistance, his ardent energy knew no bounds.
+
+cts:urn:tlg0540.tlg019:21
+glaux2.0-sentence	45
+perseus-grc2	 ὑμεῖς δὲ δέκα τριήρεις αὐτοῖς ἔδοτε καὶ τα- τἆλλα ἐψηφίσασθε , ἀργυρίου δ’ εἰς τὸν ἀπόστολον ἠπόρουν .
+perseus-eng2	 You had granted them ten warships, and had voted all the material, but they were in need of money for the dispatch of the fleet.
+
+cts:urn:tlg0540.tlg019:21
+glaux2.0-sentence	46
+perseus-grc2	 ὀλίγα μὲν γὰρ ἦλθον ἔχοντες χρήματα , πολλῶν δὲ προσεδεήθησαν ·
+perseus-eng2	 They had brought but scanty funds with them, and they required a great deal more:
+
+cts:urn:tlg0540.tlg019:21
+glaux2.0-sentence	47
+perseus-grc2	 οὐ γὰρ μόνον εἰς τὰς ναῦς , ἀλλὰ καὶ πελταστὰς ἐμισθώσαντο καὶ ὅπλα ἐπρίαντο .
+perseus-eng2	 for they had to hire not only men to work the ships but light infantry also, and to purchase arms.
+
+cts:urn:tlg0540.tlg019:22
+glaux2.0-sentence	48
+perseus-grc2	 Ἀριστοφάνης δ’ οὖν τῶν χρημάτων τὰ μὲν πλεῖστα αὐτὸς παρέσχεν ·
+perseus-eng2	 Well, it was Aristophanes who personally supplied most of their funds:
+
+cts:urn:tlg0540.tlg019:22
+glaux2.0-sentence	49
+perseus-grc2	 ἐπειδὴ δὲ οὐχ ἱκανὰ ἦν , τοὺς φίλους ἔπειθε δεόμενος καὶ ἐγγυώμενος , καὶ τοῦ ἀδελφοῦ τοῦ ὁμοπατρίου ἀποκειμένας παρ’ αὐτῷ τετταράκοντα μνᾶς λαβὼν κατεχρήσατο .
+perseus-eng2	 as he had not enough, he persuaded his friends with entreaties and guarantees, and he took forty minae which he had in deposit at his house for his brother on the father’s side, and applied the money to that purpose.
+
+cts:urn:tlg0540.tlg019:22
+glaux2.0-sentence	50
+perseus-grc2	 τῇ δὲ προτεραίᾳ ᾗ ἀνήγετο , εἰσελθὼν ὡς τὸν πατέρα τὸν ἐμὸν ἐκέλευσε χρῆσαι ὅ τι εἴη ἀργύριον .
+perseus-eng2	 The day before he put to sea, he called on my father and pressed him for the loan of such money as he had;
+
+cts:urn:tlg0540.tlg019:22
+glaux2.0-sentence	51
+perseus-grc2	 προσδεῖν γὰρ ἔφη πρὸς τὸν μισθὸν τοῖς πελτασταῖς .
+perseus-eng2	 for some more was required, he said, to pay the light infantry.
+
+cts:urn:tlg0540.tlg019:22
+glaux2.0-sentence	52
+perseus-grc2	 ἦσαν δ’ ἡμῖν ἔνδον ἑπτὰ μναῖ ·
+perseus-eng2	 We had seven minae in the house:
+
+cts:urn:tlg0540.tlg019:22
+glaux2.0-sentence	53
+perseus-grc2	 ὁ δὲ καὶ ταύτας λαβὼν κατεχρήσατο .
+perseus-eng2	 he took these and applied them also.
+
+cts:urn:tlg0540.tlg019:23
+glaux2.0-sentence	54
+perseus-grc2	 τίνα γὰρ οἴεσθε , ὦ ἄνδρες δικασταί , φιλότιμον μὲν ὄντα , ἐπιστολῶν δ’ αὐτῷ ἡκουσῶν παρὰ τοῦ πατρὸς μηδενὸς ἀπορήσειν ἐν Κύπρῳ , ᾑρημένον δὲ πρεσβευτὴν καὶ μέλλοντα πλεῖν ὡς Εὐαγόραν , ὑπολιπέσθαι ἄν τι τῶν ὄντων , ἀλλ’ οὐχ ἃ ἦν δυνατὸς πάντα παρασχόντα χαρίσασθαι ἐκείνῳ τε καὶ κομίσασθαι μὴ ἐλάττω ;
+perseus-eng2	 What man, think you, who was ambitious of glory, and was receiving letters from his father that told him he would lack for nothing in Cyprus, and had been elected ambassador and was about to sail to Evagoras, would have left behind anything that he possessed, and not have rather gratified that ruler by supplying everything that he could, with a view to a handsome return?
+
+cts:urn:tlg0540.tlg019:23
+glaux2.0-sentence	55
+perseus-grc2	 ὡς τοίνυν ταῦτ’ ἐστὶν ἀληθῆ , κάλει μοι Εὔνομον .
+perseus-eng2	 Now, to show the truth of all this, please call Eunomus.
+
+cts:urn:tlg0540.tlg019:23
+glaux2.0-sentence	56
+perseus-grc2	 κάλει μοι καὶ τοὺς ἄλλους μάρτυρας .
+perseus-eng2	 Please call the other witnesses also.
+
+cts:urn:tlg0540.tlg019:24
+glaux2.0-sentence	57
+perseus-grc2	 τῶν μὲν μαρτύρων ἀκούετε , οὐ μόνον ὅτι ἔχρησαν τὸ ἀργύριον ἐκείνου δεηθέντος , ἀλλὰ καὶ ὅτι ἀπειλήφασιν ·
+perseus-eng2	 You hear them testify, not only that they lent the money at his request, but also that they have been repaid;
+
+cts:urn:tlg0540.tlg019:24
+glaux2.0-sentence	58
+perseus-grc2	 ἐκομίσθη γὰρ αὐτοῖς ἐπὶ τῆς τριήρους .
+perseus-eng2	 for it was conveyed to them in the warship.
+
+cts:urn:tlg0540.tlg019:24
+glaux2.0-sentence	59
+perseus-grc2	 ῥᾴδιον μὲν οὖν ἐκ τῶν εἰρημένων γνῶναι ὅτι τοιούτων καιρῶν συμπεσόντων οὐδενὸς ἂν ἐφείσατο τῶν ἑαυτοῦ ·
+perseus-eng2	 Well now, it is easily concluded from my argument that in such emergencies he was not likely to spare his own resources. But the strongest evidence is this:
+
+cts:urn:tlg0540.tlg019:25
+glaux2.0-sentence	60
+perseus-grc2	 ὃ δὲ μέγιστον τεκμήριον ·
+perseus-eng2	 Demus, son of Pyrilampes, who was equipping a warship for Cyprus, requested me to go to Aristophanes;
+
+cts:urn:tlg0540.tlg019:25
+glaux2.0-sentence	61
+perseus-grc2	 δῆμος γὰρ ὁ Πυριλάμπους , τριηραρχῶν εἰς Κύπρον , ἐδεήθη μου προσελθεῖν αὐτῷ , λέγων ὅτι ἔλαβε μὲν σύμβολον παρὰ βασιλέως τοῦ μεγάλου φιάλην χρυσῆν , δώσει δ’ Ἀριστοφάνει , λαβὼν ἑκκαίδεκα μνᾶς ἐπ’ αὐτῇ , ἵν’ ἔχοι ἀναλίσκειν εἰς τὴν τριηραρχίαν ·
+perseus-eng2	 he said he had received a gold cup as a credential from the Great King, and would give it to Aristophanes in pledge for sixteen minae, so as to have means for equipping his warship;
+
+cts:urn:tlg0540.tlg019:25
+glaux2.0-sentence	62
+perseus-grc2	 ἐπειδὴ δὲ εἰς Κύπρον ἀφίκοιτο , λύσεσθαι ἀποδοὺς εἴκοσι μνᾶς ·
+perseus-eng2	 when he got to Cyprus, he would redeem it with a payment of twenty minae,
+
+cts:urn:tlg0540.tlg019:25
+glaux2.0-sentence	63
+perseus-grc2	 πολλῶν γὰρ ἀγαθῶν καὶ ἄλλων χρημάτων εὐπορήσειν διὰ τὸ σύμβολον ἐν πάσῃ τῇ ἠπείρῳ .
+perseus-eng2	 since on the strength of that credential he would then obtain plenty of goods and also money all over the continent.
+
+cts:urn:tlg0540.tlg019:26
+glaux2.0-sentence	64
+perseus-grc2	 Ἀριστοφάνης τοίνυν ἀκούων μὲν ταῦτα Δήμου , δεομένου δ’ ἐμοῦ , μέλλων δ’ ἄξειν τὸ χρυσίον , τέτταρας δὲ μνᾶς τόκον λήψεσθαι , οὐκ ἔφη εἶναι , ἀλλ’ ὤμνυε καὶ προσδεδανεῖσθαι τοῖς ξένοις ἄλλοθεν , ἐπειδὴ ἥδιστ’ ἂν ἀνθρώπων ἄγειν τε εὐθὺς ἐκεῖνο τὸ σύμβολον καὶ χαρίσασθαι ἡμῖν ἃ ἐδεόμεθα .
+perseus-eng2	 Then Aristophanes, on hearing this proposal from Demus and a request from me, — although he was to have the gold cup in his hands and receive four minae as interest, —  said that it was impossible, and he swore that he had already gone elsewhere to borrow more for these foreigners; since, but for that, nobody alive, he declared, would have been more delighted than he to take that credential forthwith and to comply with our request.
+
+cts:urn:tlg0540.tlg019:27
+glaux2.0-sentence	65
+perseus-grc2	 ὡς δὲ ταῦτ’ ἐστὶν ἀληθῆ , μάρτυρας ὑμῖν παρέξομαι .
+perseus-eng2	 To show the truth of this, I will produce to you witnesses.
+
+cts:urn:tlg0540.tlg019:27
+glaux2.0-sentence	66
+perseus-grc2	 ὅτι μὲν τοίνυν οὐ κατέλιπεν Ἀριστοφάνης ἀργύριον οὐ -δὲ χρυσίον , ῥᾴδιον γνῶναι ἐκ τῶν εἰρημένων καὶ μεμαρτυρημένων ·
+perseus-eng2	 So then, that Aristophanes did not leave any silver or gold is easily concluded from what I have stated and from these testimonies.
+
+cts:urn:tlg0540.tlg019:27
+glaux2.0-sentence	67
+perseus-grc2	 χαλκώματα δὲ σύμμεικτα οὐ πολλὰ ἐκέκτητο , ἀλλὰ καὶ ὅθ’ εἱστία τοὺς παρ’ Εὐαγόρου πρεσβεύοντας , αἰτησάμενος ἐχρήσατο .
+perseus-eng2	 Of fine bronze plate he possessed but little: when he was entertaining the envoys of Evagoras, he had to use what he could borrow.
+
+cts:urn:tlg0540.tlg019:27
+glaux2.0-sentence	68
+perseus-grc2	 ἃ δὲ κατέλιπεν , ἀναγνώσεται ὑμῖν .
+perseus-eng2	 The list of the pieces that he left shall be read to you.
+
+cts:urn:tlg0540.tlg019:28
+glaux2.0-sentence	69
+perseus-grc2	 ἴσως ἐνίοις ὑμῶν , ὦ ἄνδρες δικασταί , δοκεῖ ὀλίγα εἶναι ·
+perseus-eng2	 Perhaps to some of you, gentlemen of the jury, they appear few:
+
+cts:urn:tlg0540.tlg019:28
+glaux2.0-sentence	70
+perseus-grc2	 ἀλλ’ ἐκεῖνο ἐνθυμεῖσθε , ὅτι αὐτῷ Ἀριστοφάνει πρὶν τὴν ναυμαχίαν νικῆσαι Κόνωνα γῆ μὲν οὐκ ἦν ἀλλ’ ἢ χωρίδιον μικρὸν Ῥαμνοῦντι .
+perseus-eng2	 but bear in mind the fact that before Conon won his victory at sea, Aristophanes had no land except a small plot at Rhamnus.
+
+cts:urn:tlg0540.tlg019:28
+glaux2.0-sentence	71
+perseus-grc2	 ἐγένετο δ’ ἡ ναυμαχία ἐπ’ Εὐβουλίδου ἄρχοντος .
+perseus-eng2	 Now the sea-fight occurred in the archonship of Eubulides;
+
+cts:urn:tlg0540.tlg019:29
+glaux2.0-sentence	72
+perseus-grc2	 ἐν οὖν τέτταρσιν ἢ πέντε ἔτεσι , πρότερον μὴ ὑπαρχούσης οὐσίας , χαλεπόν , ὦ ἄνδρες δικασταί , τραγῳδοῖς τε δὶς χορηγῆσαι , ὑπὲρ τε καὶ τοῦ πατρός , καὶ τρία ἔτη συνεχῶς τριηραρχῆσαι , εἰσφοράς τε πολλάς εἰσενηνοχέναι , οἰκίαν τε πεντήκοντα μνῶν πρίασθαι , γῆς τε πλέον ἢ τριακόσια πλέθρα κτήσασθαι ·
+perseus-eng2	 and in four or five years it was a difficult thing, gentlemen, when he had no wealth to start with, to be twice a producer of tragedies, on his father’s account as well as his own; to equip a warship for three years in succession; to have been a contributor to special levies on many occasions; to purchase a house for fifty minae; and to acquire more than three hundred plethra of land.
+
+cts:urn:tlg0540.tlg019:29
+glaux2.0-sentence	73
+perseus-grc2	 ἔτι δὲ πρὸς τούτοις οἴεσθε χρῆναι ἔπιπλα πολλὰ καταλελοιπέναι ;
+perseus-eng2	 Do you suppose that, besides doing all this, he must have left many personal effects?
+
+cts:urn:tlg0540.tlg019:30
+glaux2.0-sentence	74
+perseus-grc2	 ἀλλ’ οὐ -δ’ οἱ πάλαι πλούσιοι δοκοῦντες εἶναι ἄξια λόγου ἔχοιεν ἂν ἐξενεγκεῖν ·
+perseus-eng2	 Why, even people credited with long-established wealth may fail to produce any that are of value:
+
+cts:urn:tlg0540.tlg019:30
+glaux2.0-sentence	75
+perseus-grc2	 ἐνίοτε γὰρ οὐκ ἔστιν , οὐ -δ’ ἐάν τις πάνυ ἐπιθυμῇ , πρίασθαι τοιαῦτα ἃ κτησαμένῳ εἰς τὸν λοιπὸν χρόνον ἡδονὴν ἂν παρέχοι .
+perseus-eng2	 for at times, however much one may desire it, one cannot buy things of the sort that, once acquired, will be a permanent source of pleasure.
+
+cts:urn:tlg0540.tlg019:31
+glaux2.0-sentence	76
+perseus-grc2	 ἀλλὰ τόδε σκοπεῖτε ·
+perseus-eng2	 Again, consider this:
+
+cts:urn:tlg0540.tlg019:31
+glaux2.0-sentence	77
+perseus-grc2	 τῶν ἄλλων , ὅσων ἐδημεύσατε τὰ χρήματα , οὐχ ὅπως σκεύη ἀπέδοσθε , ἀλλὰ καὶ αἱ θύραι ἀπὸ τῶν οἰκημάτων ἀφηρπάσθησαν ·
+perseus-eng2	 in all other cases where you have confiscated the property, not merely have you had no sale of furniture, but even the doors were torn away from the apartments;
+
+cts:urn:tlg0540.tlg019:31
+glaux2.0-sentence	78
+perseus-grc2	 ἡμεῖς δὲ ἤδη δεδημευμένων καὶ ἐξεληλυθυίας τῆς ἐμῆς ἀδελφῆς φύλακα κατεστήσαμεν ἐν τῇ ἐρήμῃ οἰκίᾳ , ἵνα μή -τε θυρώματα μή -τε ἀγγεῖα μή -τε ἄλλο μηδὲν ἀπόλοιτο .
+perseus-eng2	 whereas we, as soon as the confiscation was declared and my sister had left the place, posted a guard in the deserted house, in order that neither door-timber nor utensils nor anything else might be lost.
+
+cts:urn:tlg0540.tlg019:31
+glaux2.0-sentence	79
+perseus-grc2	 ἔπιπλα δὲ ἀπεφαίνετο πλεῖν ἢ χιλίων δραχμῶν , ὅσα οὐδενὸς πώποτ’ ἐλάβετε .
+perseus-eng2	 Personal effects were realized to the value of over a thousand drachmae,
+
+cts:urn:tlg0540.tlg019:32
+glaux2.0-sentence	80
+perseus-grc2	 πρὸς δὲ τούτοις καὶ πρότερον πρὸς τοὺς συνδίκους καὶ νῦν ἐθέλομεν πίστιν δοῦναι , ἥτις ἐστὶ μεγίστη τοῖς ἀνθρώποις , μηδὲν ἔχειν τῶν Ἀριστοφάνους χρημάτων , ἐνοφείλεσθαι δὲ τὴν προῖκα τῆς ἀδελφῆς καὶ ἑπτὰ μνᾶς ἃς ᾤχετο λαβὼν παρὰ τοῦ πατρὸς τοῦ ἐμοῦ .
+perseus-eng2	 — more than you had received in any previous instance. Moreover, we now repeat our former offer to pledge ourselves to the Commissioners, in the most binding terms available to man, that we hold no part of Aristophanes’ estate, but are owed from it the dowry of my sister and seven minae which he got from my father at his departure.
+
+cts:urn:tlg0540.tlg019:33
+glaux2.0-sentence	81
+perseus-grc2	 πῶς ἂν οὖν εἶεν ἄνθρωποι ἀθλιώτεροι , ἢ εἰ τὰ σφέτερ’ αὐτῶν ἀπολωλεκότες δοκοῖεν τα- τἀκείνων ἔχειν ;
+perseus-eng2	 Could human beings have a more miserable fate than to lose their own property, and then to be supposed to hold that of the mulcted party?
+
+cts:urn:tlg0540.tlg019:33
+glaux2.0-sentence	82
+perseus-grc2	 ὅ δὲ πάντων δεινότατον , τὴν ἀδελφὴν ὑποδέξασθαι παιδία ἔχουσαν πολλά , καὶ ταῦτα τρέφειν , μη -δ’ αὐτοὺς ἔχοντας μηδέν , ἐὰν ὑμεῖς τὰ ὄντ’ ἀφέλησθε .
+perseus-eng2	 And the greatest hardship of all for us will be that, having taken charge of my sister and her many children, we must rear them with no means available even for ourselves, if you deprive us of what we now have.
+
+cts:urn:tlg0540.tlg019:34
+glaux2.0-sentence	83
+perseus-grc2	 φέρε πρὸς θεῶν Ὀλυμπίων ·
+perseus-eng2	 I adjure you, by the Olympian gods,
+
+cts:urn:tlg0540.tlg019:34
+glaux2.0-sentence	84
+perseus-grc2	 οὕτω γὰρ σκοπεῖτε , ὦ ἄνδρες δικασταί .
+perseus-eng2	 gentlemen, just consider it in this way:
+
+cts:urn:tlg0540.tlg019:34
+glaux2.0-sentence	85
+perseus-grc2	 εἴ τις ὑμῶν ἔτυχε δοὺς Τιμοθέῳ τῷ Κόνωνος τὴν θυγατέρα ἢ τὴν ἀδελφήν , καὶ ἐκείνου ἀποδημήσαντος καὶ ἐν διαβολῇ γενομένου ἐδημεύθη ἡ οὐσία , καὶ μὴ ἐγένετο τῇ πόλει πραθέντων ἁπάντων τέτταρα τάλαντα ἀργυρίου , διὰ τοῦτο ἠξιοῦτε ἂν τοὺς ἐκείνου καὶ τοὺς προσήκοντας ἀπολέσθαι , ὅτι οὐ -δὲ πολλοστὸν μέρος τῆς δόξης τῆς παρ’ ὑμῖν ἐφάνη τὰ χρήματα ;
+perseus-eng2	 suppose that one of you had happened to bestow his daughter or his sister on Timotheus, son of Conon, and during his absence abroad Conon was involved in some slander and his estate was confiscated, and the city received from the sale of the whole something less than four talents of silver. Would you think it right that his children and relatives should be ruined merely because the property had turned out to be but a trifling fraction of the amount at which it stood in your estimation?
+
+cts:urn:tlg0540.tlg019:35
+glaux2.0-sentence	86
+perseus-grc2	 ἀλλὰ μὴν τοῦτο πάντες ἐπίστασθε Κόνωνα μὲν ἄρχοντα , Νικόφημον δὲ ποιοῦντα ὅ τι ἐκεῖνος προστάττοι .
+perseus-eng2	 But of course you are all aware that Conon held the command, and Nicophemus carried out his instructions.
+
+cts:urn:tlg0540.tlg019:35
+glaux2.0-sentence	87
+perseus-grc2	 τῶν οὖν ὠφελειῶν Κόνωνα εἰκὸς πολλοστὸν μέρος ἄλλῳ τινὶ μεταδιδόναι , ὥστ’ εἰ οἴονται πολλὰ γενέσθαι Νικοφήμῳ , ὁμολογήσειαν ἂν τὰ Κόνωνος εἶναι πλεῖν ἢ δεκαπλάσια .
+perseus-eng2	 Now it is probable that Conon allotted to others but a small proportion of his prizes; so that if it be thought that Nicophemus’s gains were great, it must be allowed that Conon’s were more than ten times greater.
+
+cts:urn:tlg0540.tlg019:36
+glaux2.0-sentence	88
+perseus-grc2	 ἔτι δὲ φαίνονται οὐδὲν πώποτε διενεχθέντες , ὥστ’ εἰκὸς καὶ περὶ τῶν χρημάτων τα- ταὐτὰ γνῶναι , ἱκανὰ μὲν ἐνθάδε τῷ ὑεῖ ἑκάτερον καταλιπεῖν , τὰ δὲ ἄλλα παρ’ αὑτοῖς ἔχειν ·
+perseus-eng2	 Furthermore, there is no evidence of any dispute having occurred between them;
+
+cts:urn:tlg0540.tlg019:36
+glaux2.0-sentence	89
+perseus-grc2	 ἦν γὰρ Κόνωνι μὲν ὑὸς ἐν Κύπρῳ καὶ γυνή , Νικοφήμῳ δὲ γυνὴ καὶ θυγάτηρ , ἡγοῦντο δὲ καὶ τὰ ἐκεῖ ὁμοίως σφίσιν εἶναι σᾶ ὥσπερ καὶ τὰ ἐνθάδε .
+perseus-eng2	 so probably in regard to money they agreed in deciding that each should leave his son with a competence here, while keeping the rest in his own hands. For Conon had a son and a wife in Cyprus, and Nicophemus a wife and a daughter, and they also felt that their property there was just as safe as their property here.
+
+cts:urn:tlg0540.tlg019:37
+glaux2.0-sentence	90
+perseus-grc2	 πρὸς δὲ τούτοις ἐνθυμεῖσθε ὅτι καὶ εἴ τις μὴ κτησάμενος ἀλλὰ παρὰ τοῦ πατρὸς παραλαβὼν τοῖς παισὶ διένειμεν , οὐκ ἐλάχιστα ἂν αὑτῷ ὑπέλιπε ·
+perseus-eng2	 Besides, you have to consider that, even if a man had distributed among his sons what he had not acquired but inherited from his father, he would have reserved a goodly share for himself;
+
+cts:urn:tlg0540.tlg019:37
+glaux2.0-sentence	91
+perseus-grc2	 βούλονται γὰρ πάντες ὑπὸ τῶν παίδων θεραπεύεσθαι ἔχοντες χρήματα μᾶλλον ἢ ἐκείνων δεῖσθαι ἀποροῦντες .
+perseus-eng2	 for everyone would rather be courted by his children as a man of means than beg of them as a needy person.
+
+cts:urn:tlg0540.tlg019:38
+glaux2.0-sentence	92
+perseus-grc2	 νῦν τοίνυν εἰ δημεύσαιτε τὰ τοῦ Τιμοθέου , — — ὃ μὴ γένοιτο , εἰ μή τι μέλλει μέγα ἀγαθὸν ἔσεσθαι τῇ πόλει , — — ἐλάττω δὲ ἐξ αὐτῶν λάβοιτ’ ἢ ἃ ἐκ τῶν Ἀριστοφάνους γεγένηται , τούτου ἕνεκα ἠξιοῦτε ἂν τοὺς ἀναγκαίους τοὺς ἐκείνου τὰ σφέτερ’ αὐτῶν ἀπολέσαι ;
+perseus-eng2	 So, in this case, if you should confiscate the property of Timotheus, — which Heaven forbid, unless some great benefit is to accrue to the State, — and you should receive a less amount from it than has been derived from that of Aristophanes, would this give you any good reason for thinking that his relatives should lose what belongs to them?
+
+cts:urn:tlg0540.tlg019:38
+glaux2.0-sentence	93
+perseus-grc2	 ἀλλ’ οὐκ εἰκός , ὦ ἄνδρες δικασταί ·
+perseus-eng2	 No, it is not reasonable, gentlemen of the jury:
+
+cts:urn:tlg0540.tlg019:39
+glaux2.0-sentence	94
+perseus-grc2	 ὁ γὰρ Κόνωνος θάνατος καὶ αἱ διαθῆκαι , ἃς διέθετο ἐν Κύπρῳ , σαφῶς ἐδήλωσαν ὅτι πολλοστὸν μέρος ἦν τὰ χρήματα ὧν ὑμεῖς προσεδοκᾶτε ·
+perseus-eng2	 for Conon’s death and the dispositions made under his will in Cyprus have clearly shown that his fortune was but a small fraction of what you were expecting.
+
+cts:urn:tlg0540.tlg019:39
+glaux2.0-sentence	95
+perseus-grc2	 τῇ μὲν γὰρ Ἀθηναίᾳ καθιέρωσεν εἰς ἀναθήματα καὶ τῷ Ἀπόλλωνι εἰς Δελφοὺς πεντακισχιλίους στατῆρας ·
+perseus-eng2	 He dedicated five thousand staters in offerings to Athene and to Apollo at Delphi;
+
+cts:urn:tlg0540.tlg019:40
+glaux2.0-sentence	96
+perseus-grc2	 τῷ δὲ ἀδελφιδῷ τῷ ἑαυτοῦ , ὃς ἐφύλαττεν αὐτῷ καὶ ἐταμίευε πάντα τὰ ἐν Κύπρῳ , ἔδωκεν ὡς μυρίας δραχμάς , τῷ δὲ ἀδελφῷ τρία τάλαντα ·
+perseus-eng2	 to his nephew, who acted as guardian and manager of all his property in Cyprus, he gave about ten thousand drachmae;
+
+cts:urn:tlg0540.tlg019:40
+glaux2.0-sentence	97
+perseus-grc2	 τὰ δὲ λοιπὰ τῷ ὑεῖ κατέλιπε , τάλαντα ἑπτακαίδεκα .
+perseus-eng2	 to his brother three talents;
+
+cts:urn:tlg0540.tlg019:40
+glaux2.0-sentence	98
+perseus-grc2	 τούτων δὲ κεφάλαιόν τι γίγνεται περὶ τετταράκοντα τάλαντα .
+perseus-eng2	 and to his son he left the rest, — seventeen talents. The round total of these sums amounts to about forty talents.
+
+cts:urn:tlg0540.tlg019:41
+glaux2.0-sentence	99
+perseus-grc2	 καὶ οὐδενὶ οἷόν τε εἰπεῖν ὅτι διηρπάσθη ἢ ὡς οὐ δικαίως ἀπεφάνθη ·
+perseus-eng2	 And nobody can say that there was malversation, or that the accounts were not fairly rendered:
+
+cts:urn:tlg0540.tlg019:41
+glaux2.0-sentence	100
+perseus-grc2	 αὐτὸς γὰρ ἐν τῇ νόσῳ ὢν εὖ φρονῶν διέθετο .
+perseus-eng2	 for he made his dispositions himself in his illness, while his mind was sound.
+
+cts:urn:tlg0540.tlg019:41
+glaux2.0-sentence	101
+perseus-grc2	 καί μοι κάλει τούτων μάρτυρας .
+perseus-eng2	 Please call witnesses to this.
+
+cts:urn:tlg0540.tlg019:42
+glaux2.0-sentence	102
+perseus-grc2	 ἀλλὰ μὴν ὁστισοῦν , ὦ ἄνδρες δικασταί , πρὶν ἀμφότερα δῆλα γενέσθαι , πολλοστὸν μέρος τὰ Νικοφήμου τῶν Κόνωνος χρημάτων ᾠήθη ἂν εἶναι .
+perseus-eng2	 Why, surely anyone, gentlemen, before the amounts of the two had been revealed, would have thought that the property of Nicophemus was a mere fraction of that of Conon.
+
+cts:urn:tlg0540.tlg019:42
+glaux2.0-sentence	103
+perseus-grc2	 Ἀριστοφάνης τοίνυν γῆν μὲν καὶ οἰκίαν ἐκτήσατο πλεῖν ἢ πέντε ταλάντων , κατεχορήγησε δὲ ὑπὲρ αὑτοῦ καὶ τοῦ πατρὸς πεντακισχιλίας δραχμάς , τριηραρχῶν δὲ ἀνήλωσεν ὀγδοήκοντα μνᾶς .
+perseus-eng2	 Now, Aristophanes had acquired a house with land for more than five talents, had produced dramas on his own account and on his father’s at a cost of five thousand drachmae, and had spent eighty minae on equipping warships;
+
+cts:urn:tlg0540.tlg019:43
+glaux2.0-sentence	104
+perseus-grc2	 εἰσενήνεκται δὲ ὑπὲρ ἀμφοτέρων οὐκ ἔλαττον μνῶν τετταράκοντα .
+perseus-eng2	 on account of the two, no less than forty minae have been contributed to special levies;
+
+cts:urn:tlg0540.tlg019:43
+glaux2.0-sentence	105
+perseus-grc2	 εἰς δὲ τὸν ἐπὶ Σικελίας πλοῦν ἀνήλωσεν ἑκατὸν μνᾶς .
+perseus-eng2	 for the Sicilian expedition he spent a hundred minae,
+
+cts:urn:tlg0540.tlg019:43
+glaux2.0-sentence	106
+perseus-grc2	 εἰς δὲ τὸν ἀπόστολον τῶν τριήρων , ὅτε οἱ Κύπριοι ἦλθον καὶ ἔδοτε αὐτοῖς τὰς δέκα ναῦς , καὶ τῶν πελταστῶν τὴν μίσθωσιν καὶ τῶν ὅπλων τὴν ὠνὴν παρέσχε τρισμυρίας δραχμάς .
+perseus-eng2	 and for commissioning the warships, when the Cypriots came and you gave them the ten vessels, he supplied thirty thousand drachmae to pay the light infantry and purchase their arms.
+
+cts:urn:tlg0540.tlg019:43
+glaux2.0-sentence	107
+perseus-grc2	 καὶ τούτων κεφάλαιον πάντων γίγνεται μικροῦ λείποντος πεντεκαίδεκα τάλαντα .
+perseus-eng2	 The total of all these sums amounts to little short of fifteen talents.
+
+cts:urn:tlg0540.tlg019:44
+glaux2.0-sentence	108
+perseus-grc2	 ὥστε οὐκ ἂν εἰκότως ἡμᾶς αἰτιῷσθε , ἐπεὶ τῶν Κόνωνος , τῶν ὁμολογουμένων δικαίως ἀποφανθῆναι ὑπ’ αὐτοῦ ἐκείνου , πολλαπλασίων δοκούντων πλεῖν ἢ τρίτον μέρος φαίνεται τὰ Ἀριστοφάνους .
+perseus-eng2	 Hence you can have no reason to lay blame on us, since the property of Conon, which is admitted to have been fairly accounted for by the owner himself, and was thought to be many times more than that of Aristophanes, is found to be less than thrice the amount of his.
+
+cts:urn:tlg0540.tlg019:44
+glaux2.0-sentence	109
+perseus-grc2	 καὶ οὐ προσλογιζόμεθα ὅσα αὐτὸς ἐν Κύπρῳ ἔσχε Νικόφημος , οὔσης αὐτῷ ἐκεῖ γυναικὸς καὶ θυγατρός .
+perseus-eng2	 And we are omitting from the calculation all that Nicophemus held himself in Cyprus, where he had a wife and a daughter.
+
+cts:urn:tlg0540.tlg019:45
+glaux2.0-sentence	110
+perseus-grc2	 ἐγὼ μὲν οὖν οὐκ ἀξιῶ , ὦ ἄνδρες δικασταί , οὕτω πολλὰ καὶ μεγάλα τεκμήρια παρασχομένους ἡμᾶς ἀπολέσθαι ἀδίκως .
+perseus-eng2	 I claim, therefore, gentlemen of the jury, that after having produced such an abundance of weighty proofs we ought not to be unjustly ruined.
+
+cts:urn:tlg0540.tlg019:45
+glaux2.0-sentence	111
+perseus-grc2	 ἀκήκοα γὰρ ἔγωγε καὶ τοῦ πατρὸς καὶ ἄλλων πρεσβυτέρων , ὅτι οὐ νῦν μόνον ἀλλὰ καὶ ἐν τῷ ἔμπροσθεν χρόνῳ πολλῶν ἐψεύσθητε τῆς οὐσίας , οἳ ζῶντες μὲν πλουτεῖν ἐδόκουν , ἀποθανόντες δὲ πολὺ παρὰ τὴν δόξαν τὴν ὑμετέραν ἐφάνησαν .
+perseus-eng2	 I have been told by my father and other elderly people that you have had similar experiences in the past of being deceived in the fortunes of many men who were supposed to be wealthy while they lived, but whose death showed your supposition to be wide of the mark.
+
+cts:urn:tlg0540.tlg019:46
+glaux2.0-sentence	112
+perseus-grc2	 αὐτίκα Ἰσχομάχῳ , ἕως ἔζη , πάντες ᾤοντο εἶναι πλεῖν ἢ ἑβδομήκοντα τάλαντα , ὡς ἐγὼ ἀκούω .
+perseus-eng2	 For example, Ischomachus during his life was considered by everyone to own more than seventy talents, as I am told:
+
+cts:urn:tlg0540.tlg019:46
+glaux2.0-sentence	113
+perseus-grc2	 ἐνειμάσθην δὲ τὼ ὑεῖ οὐ -δὲ δέκα τάλαντα ἑκάτερος ἀποθανόντος .
+perseus-eng2	 his two sons, on his death, had less than ten talents to divide between them.
+
+cts:urn:tlg0540.tlg019:46
+glaux2.0-sentence	114
+perseus-grc2	 στεφάνῳ δὲ τῷ Θάλλου ἐλέγετο εἶναι πλεῖν ἢ πεντήκοντα τάλαντα , ἀποθανόντος δ’ ἡ οὐσία ἐφάνη περὶ ἕνδεκα τάλαντα .
+perseus-eng2	 Stephanus, son of Thallus, was reported to own more than fifty talents; but when he died his fortune was found to be about eleven talents.
+
+cts:urn:tlg0540.tlg019:47
+glaux2.0-sentence	115
+perseus-grc2	 ὁ τοίνυν Νικίου οἶκος προσεδοκᾶτο εἶναι οὐκ ἔλαττον ἢ ἑκατὸν ταλάντων , καὶ τούτων τὰ πολλὰ ἔνδον ἦν .
+perseus-eng2	 Again, the estate of Nicias was expected to be not less than a hundred talents, — most of it in his house;
+
+cts:urn:tlg0540.tlg019:47
+glaux2.0-sentence	116
+perseus-grc2	 Νικήρατος δὲ ὅτ’ ἀπέθνῃσκεν , ἀργύριον μὲν ἢ χρυσίον οὐ -δ’ αὐτὸς ἔφη καταλείπειν οὐδέν , ἀλλὰ τὴν οὐσίαν ἣν κατέλιπε τῷ ὑεῖ , οὐ πλείονος ἀξία ἐστὶν ἢ τεττάρων καὶ δέκα ταλάντων .
+perseus-eng2	 but when Niceratus was dying, he said that he in his turn was not leaving any silver or gold, and the property that he left to his son is worth no more than fourteen talents.
+
+cts:urn:tlg0540.tlg019:48
+glaux2.0-sentence	117
+perseus-grc2	 Καλλίας τοίνυν ὁ Ἱππονίκου , ὅτε νεωστὶ ἐτεθνήκει ὁ πατήρ , ὃς πλεῖστα τῶν Ἑλλήνων ἐδόκει κεκτῆσθαι , καὶ ὥς φασι , διακοσίων ταλάντων ἐτιμήσατο τὰ αὑτοῦ ὁ πάππος , τὸ δὲ τούτου νῦν τίμημα οὐ -δὲ δυοῖν ταλάντοιν ἐστί .
+perseus-eng2	 Then Callias, son of Hipponicus, just after his father’s death, was thought to have more in his possession than any other Greek, and the story goes that his grandfather valued his own property at two hundred talents;
+
+cts:urn:tlg0540.tlg019:48
+glaux2.0-sentence	118
+perseus-grc2	 Κλεοφῶντα δὲ πάντες ἴστε , ὅτι πολλὰ ἔτη διεχείρισε τὰ τῆς πόλεως πάντα καὶ προσεδοκᾶτο πάνυ πολλὰ ἐκ τῆς ἀρχῆς ἔχειν ·
+perseus-eng2	 yet his ratable property stands today at less than two talents.
+
+cts:urn:tlg0540.tlg019:48
+glaux2.0-sentence	119
+perseus-grc2	 ἀποθανόντος δ’ αὐτοῦ οὐδαμοῦ δῆλα τὰ χρήματα , ἀλλὰ καὶ οἱ προσήκοντες καὶ οἱ κηδεσταί , παρ’ οἷς ἂν κατέλιπεν , ὁμολογουμένως πένητές εἰσι .
+perseus-eng2	 And you all know how Cleophon for many years had all the affairs of the State in his hands, and was expected to have got a great deal by his office; but when he died this money was nowhere to be found,
+
+cts:urn:tlg0540.tlg019:49
+glaux2.0-sentence	120
+perseus-grc2	 φαινόμεθα δὴ καὶ τῶν ἀρχαιοπλούτων πολὺ ἐψευσμένοι καὶ τῶν νεωστὶ ἐν δόξῃ γεγενημένων .
+perseus-eng2	 and moreover his relatives both by blood and by marriage, in whose hands he would have left it, are admittedly poor people. So it is evident that we have been greatly deceived both in men of hereditary riches and in those who have recently gained a name for wealth.
+
+cts:urn:tlg0540.tlg019:49
+glaux2.0-sentence	121
+perseus-grc2	 αἴτιον δέ μοι δοκεῖ εἶναι , ὅτι ῥαδίως τινὲς τολμῶσι λέγειν ὡς ὁ δεῖνα ἔχει τάλαντα πολλὰ ἐκ τῆς ἀρχῆς .
+perseus-eng2	 The cause of this, in my opinion, is that people make light of stating that such an one has got many talents by his office.
+
+cts:urn:tlg0540.tlg019:49
+glaux2.0-sentence	122
+perseus-grc2	 καὶ ὅσα μὲν περὶ τεθνεώτων λέγουσιν , οὐ πάνυ θαυμάζω ( οὐ γὰρ ὑπό γε ἐκείνων ἐξελεγχθεῖεν ἄν ) , ἀλλ’ ὅσα ζώντων ἐπιχειροῦσι καταψεύδεσθαι .
+perseus-eng2	 As to the common statements about dead people, I am not so much surprised, since there is no disproof to fear from them; but what of the lies with which they assail the living?
+
+cts:urn:tlg0540.tlg019:50
+glaux2.0-sentence	123
+perseus-grc2	 αὐτοὶ γὰρ ἔναγχος ἠκούετε ἐν τῇ ἐκκλησίᾳ , ὡς Διότιμος ἔχοι τάλαντα τετταράκοντα πλείω ἢ ὅσα αὐτὸς ὡμολόγει παρὰ τῶν ναυκλήρων καὶ ἐμπόρων ·
+perseus-eng2	 Why, you yourselves were told of late in the Assembly that Diotimus had got forty talents more from the ship-masters and merchants than he himself admitted;
+
+cts:urn:tlg0540.tlg019:50
+glaux2.0-sentence	124
+perseus-grc2	 καὶ ταῦτα , ἐπειδὴ ἦλθεν , ἐκείνου ἀπογράφοντος καὶ χαλεπῶς φέροντος ὅτι ἀπὼν διεβάλλετο , οὐδεὶς ἐξήλεγξε , δεομένης μὲν τῆς πόλεως χρημάτων , ἐθέλοντος δὲ ἐκείνου λογίσασθαι .
+perseus-eng2	 and when he rendered an account on his return, and was indignant at being slandered in his absence, nobody put that matter to the proof, although the State was in need of money,
+
+cts:urn:tlg0540.tlg019:51
+glaux2.0-sentence	125
+perseus-grc2	 ἐνθυμεῖσθε τοίνυν οἷον ἂν ἐγένετο , εἰ Ἀθηναίων ἁπάντων ἀκηκοότων ὅτι τετταράκοντα τάλαντα ἔχοι Διότιμος , εἶτα ἔπαθέ τι πρὶν καταπλεῦσαι δεῦρο .
+perseus-eng2	 and he was ready to show his accounts. Just imagine what the position would have been if, after all the Athenians had been told that Diotimus had forty talents, something had then happened to him before he reached our shores.
+
+cts:urn:tlg0540.tlg019:51
+glaux2.0-sentence	126
+perseus-grc2	 εἶτα οἱ προσήκοντες ἂν αὐτοῦ ἐν κινδύνῳ ἦσαν τῷ μεγίστῳ , εἰ ἔδει αὐτοὺς πρὸς τοσαύτην διαβολὴν ἀπολογεῖσθαι , μὴ εἰδότας μηδὲν τῶν πεπραγμένων .
+perseus-eng2	 His relatives would then have been in the gravest danger, if they had been obliged to defend themselves against that monstrous slander without any knowledge of the facts of the case.
+
+cts:urn:tlg0540.tlg019:51
+glaux2.0-sentence	127
+perseus-grc2	 αἴτιοι οὖν εἰσι καὶ ὑμῖν πολλῶν ἤδη ψευσθῆναι καὶ δὴ ἀδίκως γέ τινας ἀπολέσθαι οἱ ῥαδίως τολμῶντες ψεύδεσθαι καὶ συκοφαντεῖν ἀνθρώπους ἐπιθυμοῦντες .
+perseus-eng2	 So, for your being deceived in many people even now, and indeed for the ruin that some have unjustly incurred, you have to thank those who make light of telling lies and are bent on bringing malicious charges against their fellows.
+
+cts:urn:tlg0540.tlg019:52
+glaux2.0-sentence	128
+perseus-grc2	 ἐπεὶ οἴομαι ὑμᾶς εἰδέναι ὅτι Ἀλκιβιάδης τέτταρα ἢ πέντε ἔτη ἐφεξῆς ἐστρατήγει ἐπικρατῶν καὶ νενικηκὼς Λακεδαιμονίους , καὶ διπλάσια ἐκείνῳ ἠξίουν αἱ πόλεις διδόναι ἢ ἄλλῳ τινὶ τῶν στρατηγῶν , ὥστ’ ᾤοντο εἶναί τινες αὐτῷ πλεῖν ἢ ἑκατὸν τάλαντα .
+perseus-eng2	 For I suppose you know that Alcibiades held command for four or five years in succession, keeping the upper hand and winning victories over the Lacedaemonians:
+
+cts:urn:tlg0540.tlg019:52
+glaux2.0-sentence	129
+perseus-grc2	 ὁ δ’ ἀποθανὼν ἐδήλωσεν ὅτι οὐκ ἀληθῆ ταῦτα ἦν ·
+perseus-eng2	 the cities thought well to give him twice as much as any other commander, so that some people supposed that he had more than a hundred talents.
+
+cts:urn:tlg0540.tlg019:52
+glaux2.0-sentence	130
+perseus-grc2	 ἐλάττω γὰρ οὐσίαν κατέλιπε τοῖς παισὶν ἢ αὐτὸς παρὰ τῶν ἐπιτροπευσάντων παρέλαβεν .
+perseus-eng2	 But when he died he left evidence that this was not true: for he bequeathed a smaller fortune to his children than he had inherited himself from his guardians.
+
+cts:urn:tlg0540.tlg019:53
+glaux2.0-sentence	131
+perseus-grc2	 ὅτι μὲν οὖν καὶ ἐν τῷ ἔμπροσθεν χρόνῳ τοιαῦτα ἐγίγνετο , ῥᾴδιον γνῶναι ·
+perseus-eng2	 Well now, that such things were common in former times is easily judged.
+
+cts:urn:tlg0540.tlg019:53
+glaux2.0-sentence	132
+perseus-grc2	 φασὶ δὲ καὶ τοὺς ἀρίστους καὶ σοφωτάτους μάλιστα ἐθέλειν μεταγιγνώσκειν .
+perseus-eng2	 But they say that it is the best and wisest men who are most willing to change their minds.
+
+cts:urn:tlg0540.tlg019:53
+glaux2.0-sentence	133
+perseus-grc2	 εἰ οὖν δοκοῦμεν εἰκότα λέγειν καὶ ἱκανὰ τεκμήρια παρέχεσθαι , ὦ ἄνδρες δικασταί , πάσῃ τέχνῃ καὶ μηχανῇ ἐλεήσατε ·
+perseus-eng2	 If, therefore, our statements are deemed to be reasonable and the proofs that we have adduced satisfactory, gentlemen of the jury, show your pity by all manner of means.
+
+cts:urn:tlg0540.tlg019:53
+glaux2.0-sentence	134
+perseus-grc2	 ὡς ἡμεῖς τῆς μὲν διαβολῆς οὕτω μεγάλης οὔσης ἀεὶ προσεδοκῶμεν κρατήσειν μετὰ τοῦ ἀληθοῦς ·
+perseus-eng2	 For, grievous as was the weight of this slander, we always expected to conquer with the help of truth:
+
+cts:urn:tlg0540.tlg019:53
+glaux2.0-sentence	135
+perseus-grc2	 ὑμῶν δὲ μηδενὶ τρόπῳ ἐθελησάντων πεισθῆναι οὐ -δ’ ἐλπὶς οὐδεμία σωτηρίας ἐδόκει ἡμῖν εἶναι .
+perseus-eng2	 but if you should altogether refuse to entertain our plea, we felt ourselves without a single hope of deliverance.
+
+cts:urn:tlg0540.tlg019:54
+glaux2.0-sentence	136
+perseus-grc2	 ἀλλὰ πρὸς θεῶν Ὀλυμπίων , ὦ ἄνδρες δικασταί , βούλεσθε ἡμᾶς δικαίως σῶσαι μᾶλλον ἢ ἀδίκως ἀπολέσαι , καὶ πιστεύετε τούτοις ἀληθῆ λέγειν , οἳ ἂν καὶ σιωπῶντες ἐν ἅπαντι τῷ βίῳ παρέχωσι σώφρονας σφᾶς αὐτοὺς καὶ δικαίους .
+perseus-eng2	 Ah, by the Olympian gods, gentlemen, choose rather to deliver us with justice than to ruin us with injustice; and believe that those men speak the truth who, though keeping silent, show themselves throughout their lives self-respecting and just.
+
+cts:urn:tlg0540.tlg019:55
+glaux2.0-sentence	137
+perseus-grc2	 περὶ μὲν οὖν αὐτῆς τῆς γραφῆς , καὶ ᾧ τρόπῳ κηδεσταὶ ἡμῖν ἐγένοντο , καὶ ὅτι οὐκ ἐξήρκει τὰ ἐκείνου εἰς τὸν ἔκπλουν , ἀλλὰ καὶ ὡς ἄλλοθεν προσεδανείσατο ἀκηκόατε καὶ μεμαρτύρηται ὑμῖν ·
+perseus-eng2	 In regard to the charge itself, and the manner in which they became our kinsmen, and the fact that Aristophanes’ means were not sufficient for the expedition, but were supplemented by loans from others, you have heard our statements and testimonies:
+
+cts:urn:tlg0540.tlg019:55
+glaux2.0-sentence	138
+perseus-grc2	 περὶ δ’ ἐμαυτοῦ βραχέα βούλομαι ὑμῖν εἰπεῖν .
+perseus-eng2	 I propose next to tell you briefly about myself.
+
+cts:urn:tlg0540.tlg019:55
+glaux2.0-sentence	139
+perseus-grc2	 ἐγὼ γὰρ ἔτη γεγονὼς ἤδη τριάκοντα οὔ -τε τῷ πατρὶ οὐδὲν πώποτε ἀντεῖπον , οὔ -τε τῶν πολιτῶν οὐδείς μοι ἐνεκάλεσεν , ἐγγύς τε οἰκῶν τῆς ἀγορᾶς οὔ -τε πρὸς δικαστηρίῳ οὔ -τε πρὸς βουλευτηρίῳ ὤφθην οὐδεπώποτε , πρὶν ταύτην τὴν συμφορὰν γενέσθαι .
+perseus-eng2	 I am now thirty years old, and never yet have I either had a dispute with my father or been the subject of a complaint from any citizen; and although I live near the market-place, I have never once been seen in either law-court or council-chamber until I met with this misfortune.
+
+cts:urn:tlg0540.tlg019:56
+glaux2.0-sentence	140
+perseus-grc2	 περὶ μὲν οὖν ἐμαυτοῦ τοσαῦτα λέγω , περὶ δὲ τοῦ πατρός , ἐπειδὴ ὥσπερ ἀδικοῦντος αἱ κατηγορίαι γεγένηνται , συγγνώμην ἔχετε , ἐὰν λέγω ἃ ἀνήλωσεν εἰς τὴν πόλιν καὶ εἰς τοὺς φίλους ·
+perseus-eng2	 So much let me say regarding myself:
+
+cts:urn:tlg0540.tlg019:56
+glaux2.0-sentence	141
+perseus-grc2	 οὐ γὰρ φιλοτιμίας ἕνεκα ἀλλὰ τεκμήριον ποιούμενος ὅτι οὐ τοῦ αὐτοῦ ἐστιν ἀνδρὸς ἄνευ ἀνάγκης τε πολλὰ ἀναλίσκειν καὶ μετὰ κινδύνου τοῦ μεγίστου ἐπιθυμῆσαι ἔχειν τι τῶν κοινῶν .
+perseus-eng2	 as to my father, since he has been treated as guilty in these accusations, forgive me if I mention what he has spent on the city and on his friends; I do this, not for mere vainglory, but to bring in as evidence the fact that the same man cannot both spend a great deal without compulsion and covet some of the public property at the gravest risk.
+
+cts:urn:tlg0540.tlg019:57
+glaux2.0-sentence	142
+perseus-grc2	 εἰσὶ δέ τινες οἱ προαναλίσκοντες οὐ μόνου τούτου ἕνεκα ἀλλ’ ἵνα ἄρχειν ὑφ’ ὑμῶν ἀξιωθέντες διπλάσια κομίσωνται .
+perseus-eng2	 There are, indeed, persons who spend money in advance, not with that sole object, but to obtain a return of twice the amount from the appointments which you consider them to have earned.
+
+cts:urn:tlg0540.tlg019:57
+glaux2.0-sentence	143
+perseus-grc2	 ὁ τοίνυν ἐμὸς πατὴρ ἄρχειν μὲν οὐδεπώποτε ἐπεθύμησε , τὰς δὲ χορηγίας ἁπάσας κεχορήγηκε , τετριηράρχηκε δὲ ἑπτάκις , εἰσφορὰς δὲ πολλὰς καὶ μεγάλας εἰσενήνοχεν .
+perseus-eng2	 Now, not once did my father seek office, but he has discharged every duty in the production of dramas, has equipped a warship seven times, and has made numerous large contributions to special levies.
+
+cts:urn:tlg0540.tlg019:57
+glaux2.0-sentence	144
+perseus-grc2	 ἵνα δὲ εἰδῆτε καὶ ὑμεῖς , καθ’ ἑκάστην ἀναγνώσεται .
+perseus-eng2	 That you on your part may be apprised of this, the record shall be read in detail.
+
+cts:urn:tlg0540.tlg019:58
+glaux2.0-sentence	145
+perseus-grc2	 ἀκούετε , ὦ ἄνδρες δικασταί , τὸ πλῆθος .
+perseus-eng2	 Public Services  You hear, gentlemen of the jury, the whole series.
+
+cts:urn:tlg0540.tlg019:58
+glaux2.0-sentence	146
+perseus-grc2	 πεντήκοντα γὰρ ἔτη ἐστὶν ὅσα ὁ πατὴρ καὶ τοῖς χρήμασι καὶ τῷ σώματι τῇ πόλει ἐλῃτούργει .
+perseus-eng2	 For as many as fifty years my father performed services to the State, both with his purse and with his person.
+
+cts:urn:tlg0540.tlg019:58
+glaux2.0-sentence	147
+perseus-grc2	 ἐν οὖν τοσούτῳ χρόνῳ δοκοῦντά τι ἐξ ἀρχῆς ἔχειν οὐδεμίαν εἰκὸς δαπάνην πεφευγέναι .
+perseus-eng2	 In all that time, with his reputation for ancestral wealth, he is not likely to have shunned any expense.
+
+cts:urn:tlg0540.tlg019:58
+glaux2.0-sentence	148
+perseus-grc2	 ὅμως δὲ καὶ μάρτυρας ὑμῖν παρέξομαι .
+perseus-eng2	 However, I will strengthen the case for you with witnesses.
+
+cts:urn:tlg0540.tlg019:59
+glaux2.0-sentence	149
+perseus-grc2	 τούτων συμπάντων κεφάλαιόν ἐστιν ἐννέα τάλαντα καὶ δισχίλιαι δραχμαί .
+perseus-eng2	 Witnesses  The sum total of them all is nine talents and two thousand drachmae.
+
+cts:urn:tlg0540.tlg019:59
+glaux2.0-sentence	150
+perseus-grc2	 ἔτι τοίνυν καὶ ἰδίᾳ τισὶ τῶν πολιτῶν ἀποροῦσι συνεξέδωκε θυγατέρας καὶ ἀδελφάς , τοὺς δ’ ἐλύσατο ἐκ τῶν πολεμίων , τοῖς δ’ εἰς ταφὴν παρεῖχεν ἀργύριον .
+perseus-eng2	 In addition, he also joined privately in portioning daughters and sisters of certain needy citizens:
+
+cts:urn:tlg0540.tlg019:59
+glaux2.0-sentence	151
+perseus-grc2	 καὶ ταῦτ’ ἐποίει ἡγούμενος εἶναι ἀνδρὸς ἀγαθοῦ ὠφελεῖν τοὺς φίλους , καὶ εἰ μηδεὶς μέλλοι εἴσεσθαι ·
+perseus-eng2	 there were men whom he ransomed from the enemy, and others for whose funerals he provided money.
+
+cts:urn:tlg0540.tlg019:59
+glaux2.0-sentence	152
+perseus-grc2	 νῦν δὲ πρέπον ἐστὶ καὶ ὑμᾶς ἀκοῦσαί μου .
+perseus-eng2	 He acted in this way because he conceived it to be the part of a good man to assist his friends, even if nobody was to know:
+
+cts:urn:tlg0540.tlg019:59
+glaux2.0-sentence	153
+perseus-grc2	 καί μοι κάλει τὸν καὶ τόν .
+perseus-eng2	 but at this moment it is fitting that you should hear of it from me. Please call this and that person.
+
+cts:urn:tlg0540.tlg019:60
+glaux2.0-sentence	154
+perseus-grc2	 τῶν μὲν οὖν μαρτύρων ἀκηκόατε ·
+perseus-eng2	 Witnesses  Well then, you have heard the witnesses;
+
+cts:urn:tlg0540.tlg019:60
+glaux2.0-sentence	155
+perseus-grc2	 ἐνθυμεῖσθε δὲ ὅτι ὀλίγον μὲν οὖν χρόνον δύναιτ’ ἄν τις πλάσασθαι τὸν τρόπον τὸν αὑτοῦ , ἐν ἑβδομήκοντα δὲ ἔτεσιν οὐ -δ’ ἂν εἷς λάθοι πονηρὸς ὤν .
+perseus-eng2	 and now reflect that, although one might be able to adopt a feigned character for a short time, nobody in the world could keep his baseness secret for seventy years.
+
+cts:urn:tlg0540.tlg019:60
+glaux2.0-sentence	156
+perseus-grc2	 τῷ τοίνυν πατρὶ τῷ ἐμῷ ἄλλα μὲν ἄν τις ἔχοι ἐπικαλέσαι ἐτόλμησε πώποτε .
+perseus-eng2	 Now, there are things for which it might perhaps be possible to reproach my father; but on the score of money there is no one, even among his enemies, who has ever dared to do so.
+
+cts:urn:tlg0540.tlg019:61
+glaux2.0-sentence	157
+perseus-grc2	 οὔκουν ἄξιον τοῖς τῶν κατηγόρων λόγοις πιστεῦσαι μᾶλλον ἢ τοῖς ἔργοις , ἃ ἐπράχθη ἐν ἅπαντι τῷ βίῳ , καὶ τῷ χρόνῳ , ὃν ὑμεῖς σαφέστατον ἔλεγχον τοῦ ἀληθοῦς νομίσατε .
+perseus-eng2	 It is not fair, then, to credit our accusers’ words rather than the deeds that marked his whole life, or than time, which you are to regard as the clearest test of truth.
+
+cts:urn:tlg0540.tlg019:61
+glaux2.0-sentence	158
+perseus-grc2	 εἰ γὰρ μὴ ἦν τοιοῦτος , οὐκ ἂν ἐκ πολλῶν ὀλίγα κατέλιπεν , ἐπεὶ εἰ νῦν γε ἐξαπατηθείητε ὑπὸ τούτων καὶ δημεύσαιθ’ ἡμῶν τὴν οὐσίαν , οὐ -δὲ δύο τάλαντα λάβοιτ’ ἄν .
+perseus-eng2	 If he had been of another stamp, he would not have left but a small remnant of his estate; for if you should now be utterly deceived by these people, and should confiscate our property, you would receive less than two talents.
+
+cts:urn:tlg0540.tlg019:61
+glaux2.0-sentence	159
+perseus-grc2	 ὥστε οὐ μόνον πρὸς δόξαν ἀλλὰ καὶ εἰς χρημάτων λόγον λυσιτελεῖ μᾶλλον ὑμῖν ἀποψηφίσασθαι ·
+perseus-eng2	 So not only with a view to repute, but also in respect of money, it is more to your advantage to acquit us;
+
+cts:urn:tlg0540.tlg019:61
+glaux2.0-sentence	160
+perseus-grc2	 πολὺ γὰρ πλείω ὠφεληθήσεσθ’ , ἐὰν ἡμεῖς ἔχωμεν .
+perseus-eng2	 for you will get far more benefit if we keep it.
+
+cts:urn:tlg0540.tlg019:62
+glaux2.0-sentence	161
+perseus-grc2	 σκοπεῖτε δὲ ἐκ τοῦ παρεληλυθότος χρόνου , ὅσα φαίνεται ἀνηλωμένα εἰς τὴν πόλιν ·
+perseus-eng2	 Consider, as you survey the time that is past, all that is found to have been spent on the city:
+
+cts:urn:tlg0540.tlg019:62
+glaux2.0-sentence	162
+perseus-grc2	 καὶ νῦν ἀπὸ τῶν ὑπολοίπων τριηραρχῶ μὲν ἐγώ , τριηραρχῶν δὲ ὁ πατὴρ ἀπέθανεν , πειράσομαι δ’ , ὥσπερ καὶ ἐκεῖνον ἑώρων , ὀλίγα κατὰ μικρὸν παρασκευάσασθαι εἰς τὰς κοινὰς ὠφελείας ·
+perseus-eng2	 at this moment, too, I am equipping a warship from the residue; my father was equipping one when he died, and I will try to do what I saw him doing, and raise, by degrees, some little sums for the public services.
+
+cts:urn:tlg0540.tlg019:62
+glaux2.0-sentence	163
+perseus-grc2	 ὥστε τῷ γ’ ἔργῳ πάλαι τῆς πόλεως ταῦτ’ ἐστι , καὶ οὔ -τ’ ἐγὼ ἀφῃρημένος ἀδικεῖσθαι οἰήσομαι , ὑμῖν τε πλείους οὕτως αἱ ὠφέλειαι ἢ εἰ δημεύσαιτε .
+perseus-eng2	 Thus in reality it continues to be the property of the State, and while I shall not be feeling the wrong of having been deprived of it, you will have in this way more benefits than you would get by its confiscation.
+
+cts:urn:tlg0540.tlg019:63
+glaux2.0-sentence	164
+perseus-grc2	 πρὸς δὲ τούτοις ἄξιον ἐνθυμηθῆναι οἵαν φύσιν εἶχεν ὁ πατήρ .
+perseus-eng2	 Moreover, you would do well to reflect on the kind of nature that my father possessed.
+
+cts:urn:tlg0540.tlg019:63
+glaux2.0-sentence	165
+perseus-grc2	 ὅσα γὰρ ἔξω τῶν ἀναγκαίων ἐπεθύμησεν ἀναλίσκειν , πάντα φανήσεται τοιαῦτα ὅθεν καὶ τῇ πόλει τιμὴ ἔμελλεν ἔσεσθαι .
+perseus-eng2	 In every single case where he desired to spend beyond what was necessary, it will be found that it was something designed to bring honor to the city also.
+
+cts:urn:tlg0540.tlg019:63
+glaux2.0-sentence	166
+perseus-grc2	 αὐτίκα ὅτε ἵππευεν , οὐ μόνον ἵππους ἐκτήσατο λαμπροὺς ἀλλὰ καὶ ἀθληταῖς ἐνίκησεν Ἰσθμοῖ καὶ Νεμέᾳ , ὥστε τὴν πόλιν κηρυχθῆναι καὶ αὐτὸν στεφανωθῆναι .
+perseus-eng2	 For instance, when he was in the cavalry, he not only procured handsome mounts, but also won victories with race-horses at the Isthmus and Nemea, so that the city was proclaimed, and he himself was crowned.
+
+cts:urn:tlg0540.tlg019:64
+glaux2.0-sentence	167
+perseus-grc2	 δέομαι οὖν ὑμῶν , ὦ ἄνδρες δικασταί , καὶ τούτων καὶ τῶν ἄλλων μεμνημένους ἁπάντων τῶν εἰρημένων βοηθεῖν ἡμῖν καὶ μὴ περιιδεῖν ὑπὸ τῶν ἐχθρῶν ἀναιρεθέντας .
+perseus-eng2	 I therefore beg you, gentlemen of the jury, to remember these things, and also everything else that has been stated, and to support us, and not to suffer us to be annihilated by our enemies.
+
+cts:urn:tlg0540.tlg019:64
+glaux2.0-sentence	168
+perseus-grc2	 καὶ ταῦτα ποιοῦντες τά τε δίκαια ψηφιεῖσθε καὶ ὑμῖν αὐτοῖς τὰ συμφέροντα .
+perseus-eng2	 In taking this course you will be voting what is just and also advantageous to yourselves.

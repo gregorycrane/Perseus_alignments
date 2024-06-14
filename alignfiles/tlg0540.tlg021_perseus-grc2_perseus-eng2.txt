@@ -1,0 +1,305 @@
+
+cts:urn:tlg0540.tlg021:1
+glaux2.0-sentence	1
+perseus-grc2	 περὶ μὲν τῶν κατηγορημένων , ὦ ἄνδρες δικασταί , ἱκανῶς ὑμῖν ἀποδέδεικται ·
+perseus-eng2	 In regard to the counts of the accusation, gentlemen of the jury, you have been sufficiently informed;
+
+cts:urn:tlg0540.tlg021:1
+glaux2.0-sentence	2
+perseus-grc2	 ἀκοῦσαι δὲ καὶ περὶ τῶν ἄλλων ὑμᾶς ἀξιῶ , ἵν’ ἐπίστησθε περὶ οἵου τινὸς ὄντος ἐμοῦ ψηφιεῖσθε .
+perseus-eng2	 but I must ask your attention also for what has yet to be added, so that you may understand what kind of person I am before you give your verdict upon me.
+
+cts:urn:tlg0540.tlg021:1
+glaux2.0-sentence	3
+perseus-grc2	 ἐγὼ γὰρ ἐδοκιμάσθην μὲν ἐπὶ Θεοπόμπου ἄρχοντος , καταστὰς δὲ χορηγὸς τραγῳδοῖς ἀνήλωσα τριάκοντα μνᾶς καὶ τρίτῳ μηνὶ Θαργηλίοις νικήσας ἀνδρικῷ χορῷ δισχιλίας δραχμάς , ἐπὶ δὲ Γλαυκίππου ἄρχοντος εἰς πυρριχιστὰς Παναθηναίοις τοῖς μεγάλοις ὀκτακοσίας .
+perseus-eng2	 I was certified of age in the archonship of Theopompus: appointed to produce tragic drama, I spent thirty minae and two months later, at the Thargelia, two thousand drachmae, when I won a victory with a male chorus; and in the archonship of Glaucippus, at the Great Panathenaea, eight hundred drachmae on pyrrhic dancers.
+
+cts:urn:tlg0540.tlg021:2
+glaux2.0-sentence	4
+perseus-grc2	 ἔτι δ’ ἀνδράσι χορηγῶν εἰς Διονύσια ἐπὶ τοῦ αὐτοῦ ἄρχοντος ἐνίκησα , καὶ ἀνήλωσα σὺν τῇ τοῦ τρίποδος ἀναθέσει πεντακισχιλίας δραχμάς , καὶ ἐπὶ Διοκλέους Παναθηναίοις τοῖς μικροῖς κυκλίῳ χορῷ τριακοσίας .
+perseus-eng2	 Besides, I won a victory with a male chorus at the Dionysia under the same archon, and spent on it, including the dedication of the tripod, five thousand drachmae;
+
+cts:urn:tlg0540.tlg021:2
+glaux2.0-sentence	5
+perseus-grc2	 τὸν δὲ μεταξὺ χρόνον ἐτριηράρχουν ἑπτὰ ἔπτὰ ἔτη , καὶ ἓξ τάλαντα ἀνήλωσα .
+perseus-eng2	 then, in the time of Diocles, three hundred on a cyclic chorus at the Little Panathenaea. In the meantime, for seven years I equipped warships, at a cost of six talents.
+
+cts:urn:tlg0540.tlg021:3
+glaux2.0-sentence	6
+perseus-grc2	 καὶ τοσαύτας δαπάνας δαπανώμενος καὶ καθ’ ἡμέραν ὑπὲρ ὑμῶν κινδυνεύων καὶ ἀποδημῶν , ὅμως εἰσφορὰς τὴν μὲν τριάκοντα μνᾶς τὴν δὲ τετρακισχιλίας δραχμὰς εἰσενήνοχα .
+perseus-eng2	 Although I have borne all these expenses, and have faced daily peril in your service abroad, I have nevertheless made contributions — one of thirty minae and another of four thousand drachmae — to special levies.
+
+cts:urn:tlg0540.tlg021:3
+glaux2.0-sentence	7
+perseus-grc2	 ἐπειδὴ δὲ κατέπλευσα ἐπὶ Ἀλεξίου ἄρχοντος , εὐθὺς ἐγυμνασιάρχουν εἰς Προμήθεια , καὶ ἐνίκων ἀναλώσας δώδεκα μνᾶς .
+perseus-eng2	 As soon as I returned to these shores, in the archonship of Alexias, I was producing games for the Promethea, and won a victory after spending twelve minae.
+
+cts:urn:tlg0540.tlg021:4
+glaux2.0-sentence	8
+perseus-grc2	 καὶ ὕστερον κατέστην χορηγὸς παιδικῷ χορῷ καὶ ἀνήλωσα πλέον ἢ πεντεκαίδεκα μνᾶς .
+perseus-eng2	 Then, later, I was appointed to produce a chorus of children, and spent more than fifteen minae.
+
+cts:urn:tlg0540.tlg021:4
+glaux2.0-sentence	9
+perseus-grc2	 ἐπὶ δὲ Εὐκλείδου ἄρχοντος κωμῳδοῖς χορηγῶν Κηφισοδώρῳ ἐνίκων , καὶ ἀνήλωσα σὺν τῇ τῆς σκευῆς ἀναθέσει ἑκκαίδεκα μνᾶς , καὶ Παναθηναίοις τοῖς μικροῖς ἐχορήγουν πυρριχισταῖς ἀγενείοις , καὶ ἀνήλωσα ἑπτὰ μνᾶς .
+perseus-eng2	 In the archonship of Eucleides I produced comic drama for Cephisodorus and won a victory, spending on it, with the dedication of the equipment, sixteen minae; and at the Little Panathenaea I produced a chorus of beardless pyrrhic dancers, and spent seven minae.
+
+cts:urn:tlg0540.tlg021:5
+glaux2.0-sentence	10
+perseus-grc2	 νενίκηκα δὲ τριήρει μὲν ἁμιλλώμενος ἐπὶ Σουνίῳ , ἀναλώσας πεντεκαίδεκα μνᾶς ·
+perseus-eng2	 I have won a victory with a warship in the race at Sunium, spending fifteen minae;
+
+cts:urn:tlg0540.tlg021:5
+glaux2.0-sentence	11
+perseus-grc2	 χωρὶς δὲ ἀρχιθεωρίας καὶ Ἐρρηφορίας καὶ ἄλλα τοιαῦτα , εἰς ἃ ἐμοὶ δεδαπάνηται πλέον ἢ τριάκοντα μναῖ .
+perseus-eng2	 and besides I had the conduct of sacred missions and ceremonial processions and other duties of the sort, for which my expenses have come to more than thirty minae.
+
+cts:urn:tlg0540.tlg021:5
+glaux2.0-sentence	12
+perseus-grc2	 καὶ τούτων ὧν κατέλεξα , εἰ ἐβουλόμην κατὰ τὰ γεγραμμένα ἐν τῷ νόμῳ λῃτουργεῖν , οὐ -δ’ ἂν τὸ τέταρτον μέρος ἀνήλωσα .
+perseus-eng2	 Of these sums that I have enumerated, had I chosen to limit my public services to the letter of the law, I should have spent not one quarter.
+
+cts:urn:tlg0540.tlg021:6
+glaux2.0-sentence	13
+perseus-grc2	 τὸν δὲ χρόνον ὃν ἐτριηράρχουν , ἡ ναῦς ἄριστά μοι ἔπλει παντὸς τοῦ στρατοπέδου .
+perseus-eng2	 During the time when I had charge of a warship, my vessel was the best found in the whole armament.
+
+cts:urn:tlg0540.tlg021:6
+glaux2.0-sentence	14
+perseus-grc2	 τεκμήριον δὲ τούτου ὑμῖν μέγιστον ἐρῶ .
+perseus-eng2	 And I will tell you the surest evidence of that fact:
+
+cts:urn:tlg0540.tlg021:6
+glaux2.0-sentence	15
+perseus-grc2	 πρῶτον μὲν γὰρ Ἀλκιβιάδης , ὃν ἐγὼ περὶ πολλοῦ ἂν ἐποιησάμην μὴ συμπλεῖν μοι , οὔ -τε φίλος ὢν οὔ -τε συγγενὴς οὔ -τε φυλέτης ἔπλει ἐπὶ τῆς ἐμῆς νεώς .
+perseus-eng2	 at first Alcibiades, — I would have given a great deal to prevent his sailing with me, as he was neither my friend nor my relative nor a member of my tribe, — was aboard my ship.
+
+cts:urn:tlg0540.tlg021:7
+glaux2.0-sentence	16
+perseus-grc2	 καίτοι ὑμᾶς οἶμαι εἰδέναι ὅτι στρατηγὸς ὤν , ᾧ ἐξῆν ποιεῖν ὅ τι ἐβούλετο , οὐκ ἄν ποτε ἀνέβη ἐπ’ ἄλλην ναῦν εἰ μὴ τὴν ἄριστα πλέουσαν , μέλλων αὐτὸς κινδυνεύσειν .
+perseus-eng2	 Now I am sure you must be aware that, being a commander who was free to do as he pleased, he would never have gone aboard any but the best found vessel, when he was himself to have his part in the danger. When you removed those men from the command,
+
+cts:urn:tlg0540.tlg021:8
+glaux2.0-sentence	17
+perseus-grc2	 ἐπειδὴ δὲ ἐκείνους μὲν ὑμεῖς ἐπαύσατε τῆς ἀρχῆς , τοὺς δὲ μετὰ Θρασύλλου δέκα ἕλεσθε , οὗτοι πάντες ἐβούλοντο ἐπὶ τῆς ἐμῆς νεὼς πλεῖν , ἀνέβη μέντοι πολλῶν λοιδοριῶν αὐτοῖς γενομένων Ἀρχέστρατος ὁ Φρεάρριος ·
+perseus-eng2	 and selected the ten of whom Thrasyllus was one, these all wanted to sail on my ship; though, after much wrangling amongst them, it was Archestratus of Phrearrhe who came aboard.
+
+cts:urn:tlg0540.tlg021:8
+glaux2.0-sentence	18
+perseus-grc2	 ἀποθανόντος δὲ τούτου ἐν Μυτιλήνῃ Ἐρασινίδης μετ’ ἐμοῦ συνέπλει .
+perseus-eng2	 After his death at Mytilene, Erasinides sailed with me.
+
+cts:urn:tlg0540.tlg021:8
+glaux2.0-sentence	19
+perseus-grc2	 καίτοι οὕτω παρεσκευασμένην τριήρη πόσα οἴεσθε ἀνηλωκέναι χρήματα ;
+perseus-eng2	 I ask you, how much money do you think that a warship so well furnished must have cost me?
+
+cts:urn:tlg0540.tlg021:9
+glaux2.0-sentence	20
+perseus-grc2	 ἢ πόσα τοὺς πολεμίους εἰργάσθαι κακά ;
+perseus-eng2	 How much harm did it do to the enemy,
+
+cts:urn:tlg0540.tlg021:9
+glaux2.0-sentence	21
+perseus-grc2	 ἢ πόσα τὴν πόλιν εὖ πεποιηκέναι ;
+perseus-eng2	 and how much benefit to the city?
+
+cts:urn:tlg0540.tlg021:9
+glaux2.0-sentence	22
+perseus-grc2	 τεκμήριον δὲ τούτου μέγιστον ·
+perseus-eng2	 The best proof is this:
+
+cts:urn:tlg0540.tlg021:9
+glaux2.0-sentence	23
+perseus-grc2	 ὅτε γὰρ ἐν τῇ τελευταίᾳ ναυμαχία αἱ νῆες διεφθάρησαν , οὐδενός μοι συμπλέοντος στρατηγοῦ ( ἵνα καὶ τούτου μνησθῶ , ἐπειδὴ καὶ τοῖς τριηράρχοις ὠργίσθητε διὰ τὴν γενομένην συμφοράν ) ἐγὼ τήν τε ἐμαυτοῦ ναῦν ἐκόμισα καὶ τὴν Ναυσιμάχου τοῦ Φαληρέως ἔσωσα .
+perseus-eng2	 at the time when our ships were destroyed in the last sea-fight, and I had no commander on board with me, — I may mention this, as your anger on account of the disaster that occurred was shown even against those who had charge of the warships, — I not only brought away my own vessel, but I also saved that of Nausimachus of Phalerum.
+
+cts:urn:tlg0540.tlg021:10
+glaux2.0-sentence	24
+perseus-grc2	 καὶ ταῦτα οὐκ ἀπὸ τύχης ἐγίγνετο , ἀλλ’ ἀπὸ παρασκευῆς τῆς ἐμῆς ·
+perseus-eng2	 And all this was the result, not of chance, but of my arrangements:
+
+cts:urn:tlg0540.tlg021:10
+glaux2.0-sentence	25
+perseus-grc2	 εἶχον γὰρ χρήμασι πείσας κυβερνήτην Φαντίαν ἅπαντα τὸν χρόνον , ὃς ἐδόκει τῶν Ἑλλήνων ἄριστος εἶναι , παρεσκευασάμην δὲ καὶ τὸ πλήρωμα πρὸς ἐκεῖνον καὶ τὴν ἄλλην ὑπηρεσίαν ἀκόλουθον .
+perseus-eng2	 for by making it worth his while I secured as my pilot for the whole time Phantias, who was esteemed the best in Greece; and also provided such a crew and complement of oarsmen as were suitable for him.
+
+cts:urn:tlg0540.tlg021:10
+glaux2.0-sentence	26
+perseus-grc2	 καὶ ταῦθ’ ὅτι ἀληθῆ λέγω , πάντες ἐπίστασθε , ὅσοι ἐτυγχάνετε ὄντες ἐκεῖ τῶν στρατιωτῶν .
+perseus-eng2	 That these statements of mine are true is fully known to all of you who were in the forces over there.
+
+cts:urn:tlg0540.tlg021:10
+glaux2.0-sentence	27
+perseus-grc2	 κάλεσον δὲ καὶ Ναυσίμαχον .
+perseus-eng2	 But call Nausimachus to support them.
+
+cts:urn:tlg0540.tlg021:11
+glaux2.0-sentence	28
+perseus-grc2	 αἱ μὲν τοίνυν σωθεῖσαι τῶν νεῶν δώδεκα ἦσαν ·
+perseus-eng2	 So the vessels that were saved were twelve in number;
+
+cts:urn:tlg0540.tlg021:11
+glaux2.0-sentence	29
+perseus-grc2	 ἐγὼ δ’ ὑμῖν δύο ἐκόμισα , τὴν ἐμαυτοῦ καὶ τὴν Ναυσιμάχου τριήρη .
+perseus-eng2	 and two were brought away for you by myself, — my own warship, and that of Nausimachus.
+
+cts:urn:tlg0540.tlg021:11
+glaux2.0-sentence	30
+perseus-grc2	 καὶ οὕτω πολλοὺς κινδύνους ὑπὲρ ὑμῶν κεκινδυνευκὼς καὶ τοσαῦτα ἀγαθὰ εἰργασμένος τὴν πόλιν , νυνὶ δέομαι οὐ δωρεὰν ὥσπερ ἕτεροι ἀντὶ τούτων παρ’ ὑμῶν λαβεῖν , ἀλλὰ μὴ στερηθῆναι τῶν ἐμαυτοῦ , ἡγούμενος καὶ ὑμῖν αἰσχρὸν εἶναι παρά τε ἑκόντος ἐμοῦ καὶ παρ’ ἄκοντος λαμβάνειν .
+perseus-eng2	 After so many dangers encountered in your defense, and after all the services that I have rendered to the city, I now request, not a boon for my reward, as others do, but that I be not deprived of my own property; for I consider it a disgrace to you also, to take it both with my will and against my will.
+
+cts:urn:tlg0540.tlg021:12
+glaux2.0-sentence	31
+perseus-grc2	 καὶ οὐ τοσοῦτόν μοι μέλει εἴ με δεῖ τὰ ὄντα ἀπολέσαι ·
+perseus-eng2	 I do not mind so much having to lose my possessions;
+
+cts:urn:tlg0540.tlg021:12
+glaux2.0-sentence	32
+perseus-grc2	 ἀλλ’ οὐκ ἂν δεξαίμην ὑβρισθῆναι , οὐ -δὲ παραστῆναι τοῖς διαδυομένοις τὰς λῃτουργίας ἐμοὶ μὲν ἀχάριστα εἶναι τὰ εἰς ὑμᾶς ἀνηλωμένα , ἐκείνους δὲ δοκεῖν ὀρθῶς βεβουλεῦσθαι ὅτι ὑμῖν οὐδὲν προεῖνται τῶν σφετέρων αὐτῶν .
+perseus-eng2	 but I could not put up with an outrage, and the impression that it must produce on those who shirk their public services, — that while I get no credit for what I have spent on you, they prove to have been rightly advised in giving up to you no part of their own property.
+
+cts:urn:tlg0540.tlg021:12
+glaux2.0-sentence	33
+perseus-grc2	 ἐὰν οὖν ἐμοὶ πεισθῆτε , τά τε δίκαια ψηφιεῖσθε καὶ τὰ λυσιτελοῦντα ὑμῖν αὐτοῖς αἱρήσεσθε .
+perseus-eng2	 Now, if you will admit my plea, you will both vote what is just and choose what is to your own advantage.
+
+cts:urn:tlg0540.tlg021:13
+glaux2.0-sentence	34
+perseus-grc2	 ὁρᾶτε γάρ , ὦ ἄνδρες δικασταί , τὰ προσιόντα τῇ πόλει ὡς ὀλίγα ἐστί , καὶ ταῦτα ὡς ὑπὸ τῶν ἐφεστηκότων ἁρπάζεται ·
+perseus-eng2	 Do but observe, gentlemen of the jury, how slender are the revenues of the State, and how even these are pilfered by their appointed guardians:
+
+cts:urn:tlg0540.tlg021:13
+glaux2.0-sentence	35
+perseus-grc2	 ὥστ’ ἄξιον ταύτην ἡγεῖσθαι πρόσοδον βεβαιοτάτην τῇ πόλει , τὰς οὐσίας τῶν ἐθελόντων λῃτουργεῖν .
+perseus-eng2	 you ought, therefore, to see the surest revenue for the State in the fortunes of those who are willing to perform public services.
+
+cts:urn:tlg0540.tlg021:13
+glaux2.0-sentence	36
+perseus-grc2	 ἐὰν οὖν εὖ βουλεύσησθε , οὐδὲν ἧττον ἐπιμελήσεσθε τῶν ἡμετέρων χρημάτων ἢ τῶν ἰδίων τῶν ὑμετέρων αὐτῶν ,
+perseus-eng2	 So, if you are well advised, you will take as great care of our property as of your own personal possessions,
+
+cts:urn:tlg0540.tlg021:14
+glaux2.0-sentence	36a
+perseus-grc2	 εἰδότες ὅτι ἕξετε πᾶσι χρῆσθαι τοῖς ἡμετέροις ὥσπερ καὶ πρότερον ·
+perseus-eng2	 knowing that you will be able to avail yourselves of all that we have, as you were in the past.
+
+cts:urn:tlg0540.tlg021:14
+glaux2.0-sentence	37
+perseus-grc2	 οἶμαι δὲ πάντας ὑμᾶς ἐπίστασθαι ὅτι τῶν ἐμῶν ἐγὼ πολὺ βελτίων ὑμῖν ἔσομαι ταμίας τῶν τὰ τῆς πόλεως ὑμῖν ταμιευόντων .
+perseus-eng2	 And I think you are all aware that you will find me far superior, as controller of my property, to those who control for you the property of the State:
+
+cts:urn:tlg0540.tlg021:14
+glaux2.0-sentence	38
+perseus-grc2	 ἐὰν δ’ ἐμὲ πένητα ποιήσητε , καὶ ὑμᾶς αὐτοὺς ἀδικήσετε ·
+perseus-eng2	 whereas, if you impoverish me, you will wrong yourselves besides;
+
+cts:urn:tlg0540.tlg021:14
+glaux2.0-sentence	39
+perseus-grc2	 ἕτεροι δὲ καὶ ταῦτα διανεμοῦνται , ὥσπερ καὶ τα- τἆλλα .
+perseus-eng2	 others will divide it up amongst them, as they do the rest.
+
+cts:urn:tlg0540.tlg021:15
+glaux2.0-sentence	40
+perseus-grc2	 ἄξιον δέ ἐστιν ἐνθυμηθῆναι ὅτι πολὺ μᾶλλον ὑμῖν προσήκει τῶν ὑμετέρων ἐμοὶ διδόναι ἢ τῶν ἐμῶν ἐμοὶ ἀμφισβητῆσαι , καὶ πένητα γενόμενον ἐλεῆσαι μᾶλλον ἢ πλουτοῦντι φθονῆσαι , καὶ τοῖς θεοῖς εὔχεσθαι τοὺς ἄλλους εἶναι τοιούτους πολίτας , ἵνα τῶν μὲν ὑμετέρων μὴ ἐπιθυμήσωσι , τὰ δὲ σφέτερα αὐτῶν εἰς ὑμᾶς ἀναλίσκωσιν .
+perseus-eng2	 You ought also to consider that it is far more fitting for you to give me of what is yours than to dispute my claim to what is mine, and to pity me if I am impoverished than to envy me my wealth: you should pray Heaven that the others may be as good citizens, so that, instead of coveting your money, they may spend their own on you.
+
+cts:urn:tlg0540.tlg021:16
+glaux2.0-sentence	41
+perseus-grc2	 ἡγοῦμαι δ’ , ὦ ἄνδρες δικασταί ( καὶ μηδεὶς ὑμῶν ἀχθεσθῇ ) , πολὺ ἂν δικαιότερον ὑμᾶς ὑπὸ τῶν ζητητῶν ἀπογραφῆναι τὰ ἐμὰ ἔχειν , ἢ ἐμὲ νυνὶ κινδυνεύειν ὡς τοῦ δημοσίου χρήματα ἔχοντα .
+perseus-eng2	 In my opinion, gentlemen, — and let none of you take it ill, — there would be far more justice in your being declared by the Commissioners to be holding my property than in my being prosecuted now for holding Treasury funds.
+
+cts:urn:tlg0540.tlg021:16
+glaux2.0-sentence	42
+perseus-grc2	 τοιοῦτον γὰρ ἐμαυτὸν τῇ πόλει παρέχω , ὥστε ἰδίᾳ μὲν τῶν ὄντων φείδομαι , δημοσίᾳ δὲ λῃτουργῶν ἥδομαι , καὶ οὐκ ἐπὶ τοῖς περιοῦσι μέγα φρονῶ , ἀλλ’ ἐπὶ τοῖς εἰς ὑμᾶς ἀνηλωμένοις ,
+perseus-eng2	 For my attitude towards the State is shown by the fact that, while I am frugal in the private use of my means, I delight in the discharge of my public duties: I take a pride, not in the residue that is left to me, but in the amounts that I have spent on you;
+
+cts:urn:tlg0540.tlg021:17
+glaux2.0-sentence	42a
+perseus-grc2	 ἡγούμενος τούτων μὲν αὐτὸς αἴτιος εἶναι , τὴν δ’ οὐσίαν ἑτέρους μοι καταλιπεῖν , καὶ διὰ ταύτην μὲν ὑπὸ τῶν ἐχθρῶν ἀδίκως συκοφαντεῖσθαι , δι’ ἐκεῖνα δὲ ὑφ’ ὑμῶν δικαίως σῴζεσθαι .
+perseus-eng2	 for I regard the latter as my own achievement, whereas my fortune was bequeathed to me by others, and if on account of this I unjustly incur the venal slander of my enemies, those expenses have justly earned my salvation at your hands.
+
+cts:urn:tlg0540.tlg021:17
+glaux2.0-sentence	43
+perseus-grc2	 ὥστ’ οὐκ ἂν εἰκότως ἕτεροί με ἐξῃτήσαντο παρ’ ὑμῶν , ἀλλὰ καὶ εἴ τις τῶν ἐμῶν φίλων τοιοῦτον ἀγῶνα ἠγωνίζετο , ὑμᾶς ἂν ἠξίουν ἐμοὶ δοῦναι τὴν χάριν , καὶ εἰ παρ’ ἄλλοις ἐκινδύνευον , ὑμᾶς εἶναι τοὺς δεομένους ὑπὲρ ἐμοῦ .
+perseus-eng2	 There is no good reason, therefore, why others should have interceded with you on my behalf: and indeed, if any of my friends had been involved in a similar suit, I might expect you to show me your gratitude;
+
+cts:urn:tlg0540.tlg021:18
+glaux2.0-sentence	44
+perseus-grc2	 οὐ γὰρ ἂν τοῦτό γε εἰπεῖν ἔχοι τις , ὡς πολλὰς ἀρχὰς ἄρξας ἐκ τῶν ὑμετέρων ὠφέλημαι , ἢ ὡς αἰσχρὰς δίκας δεδίκασμαι , ἢ ὡς αἰσχροῦ τινος αἴτιός εἰμι , ἢ ὡς τὰς τῆς πόλεως συμφορὰς ἀσμένως εἶδον ·
+perseus-eng2	 and if I were being tried before another court I should look to you as the petitioners in my defence.
+
+cts:urn:tlg0540.tlg021:18
+glaux2.0-sentence	45
+perseus-grc2	 ὑπὲρ ἁπάντων δὲ καὶ τῶν ἰδίων καὶ τῶν δημοσίων οὕτως ἡγοῦμαί μοι πεπολιτεῦσθαι καὶ ὑμᾶς εἰδέναι , ὥστε οὐδὲν δεῖν με ἀπολογήσασθαι περὶ αὐτῶν .
+perseus-eng2	 For it can never be alleged that I have profited at your expense by the tenure of many offices, or that I have been the subject of disgraceful suits, or that I am guilty of any disgraceful act, or that I saw with delight the disasters of the city. In all my dealings, both private and public, I believe that I have shown such a character as a citizen, in a manner so well known to you, that I have no need to justify myself in those respects.
+
+cts:urn:tlg0540.tlg021:19
+glaux2.0-sentence	46
+perseus-grc2	 δέομαι οὖν ὑμῶν , ὦ ἄνδρες δικασταί , τὴν αὐτὴν νῦν περὶ ἐμοῦ γνώμην ἔχειν ἥνπερ καὶ ἐν τῷ τέως χρόνῳ , καὶ μὴ μόνον τῶν δημοσίων λῃτουργιῶν μεμνῆσθαι , ἀλλὰ τῶν ἰδίων ἐπιτηδευμάτων ἐνθυμεῖσθαι , ἡγουμένους ταύτην εἶναι λῃτουργίαν ἐπιπονωτάτην , διὰ τέλους τὸν πάντα χρόνον κόσμιον εἶναι καὶ σώφρονα καὶ μή -θ’ ὑφ’ ἡδονῆς ἡττηθῆναι μή -θ’ ὑπὸ κέρδους ἐπαρθῆναι , ἀλλὰ τοιοῦτον παρασχεῖν ἑαυτὸν ὥστε μηδένα τῶν πολιτῶν μή -τε μέμψασθαι μή -τε δίκην τολμῆσαι προσκαλέσασθαι .
+perseus-eng2	 I therefore request you, gentlemen of the jury, to hold the same opinion of me now as you have held hitherto, and not only to remember my public services to the State, but also to bear in mind my private propensities. Consider that the most onerous of public services is to maintain throughout one’s life an orderly and self-respecting behavior, neither overcome by pleasure nor elated by gain, but evincing such a character that one is free from complaint or the thought of a prosecution in the mind of any fellow-citizen.
+
+cts:urn:tlg0540.tlg021:20
+glaux2.0-sentence	47
+perseus-grc2	 οὔκουν ἄξιον , ὦ ἄνδρες δικασταί , πειθομένους κατηγόροις τοιούτοις ἐμοῦ καταψηφίσασθαι , οἳ περὶ ἀσεβείας μὲν ἀγωνιζόμενοι τηλικοῦτοι γεγόνασιν , οὐκ ἂν δυνάμενοι δ’ ὑπὲρ τῶν σφετέρων ἁμαρτημάτων ἀπολογήσασθαι ἑτέρων κατηγορεῖν τολμῶσι .
+perseus-eng2	 It is therefore unfair, gentlemen, that you should condemn me in deference to such accusers as these, who have gone this length in contesting the charge of their own impiety, and then, as they could never clear themselves of their own offences, they have the hardihood to accuse others.
+
+cts:urn:tlg0540.tlg021:20
+glaux2.0-sentence	48
+perseus-grc2	 καὶ ὧν Κινησίας οὕτω διακείμενος πλείους στρατείας ἐστράτευται , οὗτοι περὶ τῶν τῆς πόλεως ἀγανακτοῦσι .
+perseus-eng2	 Nay, Cinesias, with the character that we know, has served in more campaigns than these men, who now show indignation at the city’s plight!
+
+cts:urn:tlg0540.tlg021:20
+glaux2.0-sentence	49
+perseus-grc2	 καὶ ἐξ ὧν μὲν ἡ πόλις εὐδαίμων ἔσται , οὐ συμβάλλονται , πάντα δὲ ποιοῦσιν ὅπως ὑμεῖς τοῖς εὖ πεποιηκόσιν ὀργισθήσεσθε .
+perseus-eng2	 They make no contribution to any scheme for raising the fortunes of the city, but do their utmost to incense you against your benefactors.
+
+cts:urn:tlg0540.tlg021:21
+glaux2.0-sentence	50
+perseus-grc2	 οὗτοι μὲν οὖν , ὦ ἄνδρες δικασταί , ἐν τῷ δήμῳ κατείποιεν ὑμῖν τὰ σφέτερ’ αὐτῶν ἐπιτηδεύματα ·
+perseus-eng2	 Rather is it to be wished that they, gentlemen, might recount their own proceedings to you in Assembly;
+
+cts:urn:tlg0540.tlg021:21
+glaux2.0-sentence	51
+perseus-grc2	 οὐ γὰρ ἂν ἔχοιμι ὅ τι τούτου μεῖζον αὐτοῖς εὐξαίμην κακόν ·
+perseus-eng2	 for I could not find a worse fate to invoke upon them.
+
+cts:urn:tlg0540.tlg021:21
+glaux2.0-sentence	52
+perseus-grc2	 ἐγὼ δ’ ὑμῶν δέομαι καὶ ἱκετεύω καὶ ἀντιβολῶ μὴ καταγνῶναι δωροδοκίαν ἐμοῦ , μη -δ’ ἡγήσασθαι τοσαῦτα χρήματα εἶναι , δι’ ἃ ἐγὼ βουληθείην ἄν τι κακὸν τῇ πόλει γενέσθαι .
+perseus-eng2	 On my own part, I request, I beseech, I supplicate you not to condemn me for venality, nor to believe that any amount of money could make me wish any ill to befall the city.
+
+cts:urn:tlg0540.tlg021:22
+glaux2.0-sentence	53
+perseus-grc2	 μαινοίμην γὰρ ἄν , ὦ ἄνδρες δικασταί , εἰ τὴν μὲν πατρῴαν οὐσίαν φιλοτιμούμενος εἰς ὑμᾶς ἀναλίσκοιμι , ἐπὶ δὲ τῷ τῆς πόλεως κακῷ παρὰ τῶν ἄλλων δωροδοκοίην .
+perseus-eng2	 For I should be a madman, gentlemen, if, after spending my patrimony upon you in the pursuit of distinction, I accepted bribes from others with the aim of injuring the State.
+
+cts:urn:tlg0540.tlg021:22
+glaux2.0-sentence	54
+perseus-grc2	 ἐγὼ μὲν οὖν , ὦ ἄνδρες δικασταί , οὐκ οἶδ’ οὕστινας ἢ ὑμᾶς ἐβουλήθην περὶ ἐμοῦ δικαστὰς γενέσθαι , εἴπερ χρὴ τοὺς εὖ πεπονθότας περὶ τῶν εὖ πεποιηκότων εὔχεσθαι τὴν ψῆφον φέρειν .
+perseus-eng2	 I indeed, gentlemen, cannot think what judges I should prefer to you for the trial of my case, if one ought really to pray that the benefited should give decision upon their benefactors.
+
+cts:urn:tlg0540.tlg021:23
+glaux2.0-sentence	55
+perseus-grc2	 καὶ μὲν δή , ὦ ἄνδρες δικασταί , ( ἐπιθυμῶ γὰρ καὶ τούτων μνησθῆναι ) οὐδεπώποτε λῃτουργεῖν ὑπὲρ ὑμῶν δέον δεινὸν ἡγούμην , εἰ τοσούτῳ πενεστέρους τοὺς παῖδας καταλείψω , ἀλλὰ πολὺ μᾶλλον εἰ μὴ προθύμως ποιήσω τὰ προσταχθέντα ·
+perseus-eng2	 Furthermore, gentlemen, — for this is a point that I am anxious to mention, — never once when I had to perform a public service in your aid did I consider it a hardship that I should leave my children so much the poorer, but much rather that I should fail in the zealous discharge of my obligations.
+
+cts:urn:tlg0540.tlg021:24
+glaux2.0-sentence	56
+perseus-grc2	 οὐ -δ’ εἴ ποτε κινδυνεύσειν ἐν ταῖς ναυμαχίαις μέλλοιμι , οὐδεπώποτ’ ἠλέησα οὐ -δ’ ἐδάκρυσα οὐ -δ’ ἐμνήσθην γυναικὸς οὐ -δὲ παίδων τῶν ἐμαυτοῦ , οὐ -δ’ ἡγούμην δεινὸν εἶναι εἰ τελευτήσας ὑπὲρ τῆς πατρίδος τὸν βίον ὀρφανοὺς καὶ πατρὸς ἀπεστερημένους αὐτοὺς καταλείψω , ἀλλὰ πολὺ μᾶλλον εἰ σωθεὶς αἰσχρῶς ὀνείδη καὶ ἐμαυτῷ καὶ ἐκείνοις περιάψω .
+perseus-eng2	 Nor, whenever I was about to risk my life in our sea-fights, did I once pity or bewail or mention my wife or my children, nor think it hard that, if I lost my life in my country’s cause, I should leave them orphaned and bereft of their father; but hard indeed it would be if I should save myself by a shameful act and fasten reproach on them as well as myself.
+
+cts:urn:tlg0540.tlg021:25
+glaux2.0-sentence	57
+perseus-grc2	 ἀνθ’ ὧν ὑμᾶς ἀπαιτῶ νῦν τὴν χάριν , καὶ ἀξιῶ , ἐν τοῖς κινδύνοις ἐμοῦ τοιαύτην περὶ ὑμῶν γνώμην ἔχοντος , ὑμᾶς νυνὶ ἐν τῷ θαρραλέῳ ὄντας ἐμὲ καὶ τοὺς παῖδας τούτους περὶ πολλοῦ ποιήσασθαι , ἡγουμένους ἡμῖν μὲν δεινὸν ὑμῖν δὲ αἰσχρὸν εἶναι , εἰ ἀναγκασθησόμεθα ἐπὶ τοιαύταις αἰτίαις ἄτιμοι γενέσθαι , ἢ στερηθέντες τῶν ὑπαρχόντων πένητες εἶναι καὶ πολλῶν ἐνδεεῖς ὄντες περιιέναι , ἀνάξια μὲν ἡμῶν αὐτῶν πεπονθότες , ἀνάξια δὲ τῶν εἰς ὑμᾶς ὑπηργμένων .
+perseus-eng2	 In return I ask from you the grace that I deserve, and I expect that, since I have shown such regard for you in times of danger, you in your present security will set a high value on me and these children, considering that it will be as disgraceful to you as terrible to us if we are to be compelled on such charges as these to lose our citizenship, or to be deprived of our present resources, and thus impoverished, and to wander about in sore straits and in a plight unworthy of ourselves and unworthy also of the services that you have received.
+
+cts:urn:tlg0540.tlg021:25
+glaux2.0-sentence	58
+perseus-grc2	 μηδαμῶς , ὦ ἄνδρες δικασταί ·
+perseus-eng2	 Let it not be so, gentlemen of the jury,
+
+cts:urn:tlg0540.tlg021:25
+glaux2.0-sentence	59
+perseus-grc2	 ἀλλ’ ἀποψηφισάμενοι τοιούτοις ἡμῖν χρῆσθε πολίταις οἵοισπερ ἐν τῷ πρόσθεν χρόνῳ .
+perseus-eng2	 but decide on our acquittal, and continue to find in us the self-same kind of citizens as you have done in the past.
