@@ -27,27 +27,27 @@ perseus-eng2	 Shall we debar today even our existing citizens?
 cts:urn:tlg0540.tlg034:4
 glaux2.0-sentence	6
 perseus-grc2	 οὔκ , ἐὰν ἔμοιγε πείθησθε , οὐ -δὲ μετὰ τῶν τειχῶν καὶ ταῦτα ἡμῶν αὐτῶν περιαιρησόμεθα , ὁπλίτας πολλοὺς καὶ ἱππέας καὶ τοξότας , ὧν ὑμεῖς ἀντεχόμενοι βεβαίως δημοκρατήσεσθε , τῶν δὲ ἐχθρῶν πλέον ἐπικρατήσετε , ὠφελιμώτεροι δὲ τοῖς συμμάχοις ἔσεσθε ·
-perseus-eng2	 No, if you will be advised by me; nor, after losing our walls, shall we denude ourselves of our forces, — large numbers of our infantry, our cavalry and our archers:
+perseus-eng2	 No, if you will be advised by me; nor, after losing our walls, shall we denude ourselves of our forces, — large numbers of our infantry, our cavalry and our archers: for, if you hold fast to these, you will make your democracy secure, will be more victorious over your enemies, and will be more useful to your allies.
 
 cts:urn:tlg0540.tlg034:4
 glaux2.0-sentence	7
 perseus-grc2	 ἐπίστασθε γὰρ ἐν ταῖς ἐφ’ ἡμῶν ὀλιγαρχίαις γεγενημέναις οὐ τοὺς γῆν κεκτημένους ἔχοντας τὴν πόλιν , ἀλλὰ πολλοὺς μὲν αὐτῶν ἀποθανόντας , πολλοὺς δ’ ἐκ τῆς πόλεως ἐκπεσόντας ,
-perseus-eng2	 for, if you hold fast to these, you will make your democracy secure, will be more victorious over your enemies, and will be more useful to your allies.
+perseus-eng2	You are well aware that in the previous oligarchies of our time it was not the possessors of land who controlled the city: many of them were put to death, and many were expelled from the city; 
 
 cts:urn:tlg0540.tlg034:5
 glaux2.0-sentence	7a
 perseus-grc2	 οὓς ὁ δῆμος καταγαγὼν ὑμῖν μὲν τὴν ὑμετέραν ἀπέδωκεν , αὐτὸς δὲ ταύτης οὐκ ἐτόλμησε μετασχεῖν .
-perseus-eng2	 You are well aware that in the previous oligarchies of our time it was not the possessors of land who controlled the city: many of them were put to death, and many were expelled from the city;
+perseus-eng2	 and the people, after recalling them, restored your city to you, but did not venture to participate in it themselves.
 
 cts:urn:tlg0540.tlg034:5
 glaux2.0-sentence	8
 perseus-grc2	 ὥστ’ , ἐὰν ἔμοιγε πείθησθε , οὐ τοὺς εὐεργέτας , καθὸ δύνασθε , τῆς πατρίδος ἀποστερήσετε , οὐ -δὲ τοὺς λόγους πιστοτέρους τῶν ἔργων οὐ -δὲ τὰ μέλλοντα τῶν γεγενημένων νομιεῖτε , ἄλλως τε καὶ μεμνημένοι τῶν περὶ τῆς ὀλιγαρχίας μαχομένων , οἳ τῷ μὲν λόγῳ τῷ δήμῳ πολεμοῦσι , τῷ δὲ ἔργῳ τῶν ὑμετέρων ἐπιθυμοῦσιν ·
-perseus-eng2	 and the people, after recalling them, restored your city to you, but did not venture to participate in it themselves.
+perseus-eng2	Thus, if you take my advice, you will not be depriving your benefactors, so far as you may, of their native land, nor be placing more confidence in words than in deeds, in the future than in the past, especially if you remember the champions of oligarchy, who in speech make war on the people, but in fact are aiming at your property;  
 
 cts:urn:tlg0540.tlg034:5
 glaux2.0-sentence	9
 perseus-grc2	 ἅπερ κτήσονται , ὅταν ὑμᾶς ἐρήμους συμμάχων λάβωσιν .
-perseus-eng2	 Thus, if you take my advice, you will not be depriving your benefactors, so far as you may, of their native land, nor be placing more confidence in words than in deeds, in the future than in the past, especially if you remember the champions of oligarchy, who in speech make war on the people, but in fact are aiming at your property; and this they will acquire when they find you destitute of allies.
+perseus-eng2	 and this they will acquire when they find you destitute of allies.
 
 cts:urn:tlg0540.tlg034:6
 glaux2.0-sentence	10
